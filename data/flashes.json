@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T08:07:04.935Z",
+  "updated": "2026-09-13T08:38:48.103Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -123,15 +123,15 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-e6eef2edba42",
+      "id": "FL-02a4c49042bb",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 14:37:00 GMT",
       "ts": 1789051020000,
       "scope": "intl",
       "type": "geo",
-      "title": "以色列猛烈轰炸，引发4.1级地震 - cls.cn",
+      "title": "以色列猛烈轰炸，引发4.1级地震 - 财联社",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9yVzNTWFFwS3EwMUdBUy1fWFFud3dDdTlObnFrWURWTnJJUF9LMmxicGpZRHExVEFDQzNPa3cydm1lTnBQOFE?oc=5",
-      "site": "cls.cn",
+      "site": "财联社",
       "siteUrl": "https://m.cls.cn"
     },
     {
@@ -147,15 +147,27 @@
       "siteUrl": "https://www.cnr.cn"
     },
     {
-      "id": "FL-20065abd257a",
+      "id": "FL-e18a0a48aa63",
+      "date": "2026-09-10",
+      "dateISO": "Thu, 10 Sep 2026 12:28:36 GMT",
+      "ts": 1789043316000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "云南丽江市古城区发生3.0级地震，震源深度8千米 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SRWhKckEyZjI2SnEwbnhPQngzRjIzMHo0NTBSVjY4TFQwN1IzWE8tamtKeGNxSVUxWC1TNVpIWEp0NkhabUdYVkpYSUxvQ08yMzB3UlRfYVJpS2lLbWVMRmE3SzRkYUQzc1JGYVVzMkFjODc3Y2p0aQ?oc=5",
+      "site": "央视网",
+      "siteUrl": "https://news.cctv.com"
+    },
+    {
+      "id": "FL-7a74c89379e3",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 11:10:00 GMT",
       "ts": 1789038600000,
       "scope": "dom",
       "type": "geo",
-      "title": "云南彝良一路段发生山体滑坡泥石流：无人员伤亡，正统计受灾损失 - 新京报",
+      "title": "云南彝良一路段发生山体滑坡泥石流：无人员伤亡，正统计受灾损失 - bjnews.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85Z3NWOHRXSFhtV0hod2Vyak52VDVDSXJteF8xY2hKOTUxb21HV1lEaEhmZFlDUnBQckNtN1JpeG9JZHNpSlpONDVOd3NFOTc4Uk1lQkNBeE5VVkEyNUQwRmpjdTI?oc=5",
-      "site": "新京报",
+      "site": "bjnews.com.cn",
       "siteUrl": "https://www.bjnews.com.cn"
     },
     {
@@ -177,11 +189,11 @@
       "ts": 1789013919000,
       "scope": "dom",
       "type": "geo",
-      "title": "习近平对西藏日喀则市吉隆县遭受泥石流灾害作出重要指示 - 新京报",
+      "title": "习近平对西藏日喀则市吉隆县遭受泥石流灾害作出重要指示 - bjnews.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IRXVLRTR4WllScXRvU3JNenNpaWppamJiX0lWUUlhamFPeTk3YWV1WTdfYk02djVuWVA2RWF5UnkxaGRIVVoxZWlXUE1meFdrVGVQRVZlT25rTkxOcVQ2UjRR?oc=5",
-      "site": "新京报",
+      "site": "bjnews.com.cn",
       "siteUrl": "https://m.bjnews.com.cn",
-      "related": 39
+      "related": 37
     },
     {
       "id": "FL-861987facab4",
@@ -220,6 +232,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-9a2cbc2c455d",
+      "date": "2026-09-13",
+      "dateISO": "Sun, 13 Sep 2026 08:08:19 GMT",
+      "ts": 1789286899000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "应急科普丨暴雨天，转移避险重点注意这几点→ - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeF9kTGhvcEYwcUVROWloNXJ5RV9tQktZRzBsbFJTMU5rbFJNS3dsWlJ0YjdJMm1fbEFqYi1XYlY4Qzl4Wmt6MlFNUHV2emZNZUc0a2lPTWpybmFmYkxNcFZxeXRwUjlwanV2VS1vNHN4YW9OZG94S1ZoYW1WYlNzZkJKeWhKS0JxMHVHXw?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-eb15cb8674ee",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 07:31:06 GMT",
@@ -242,18 +266,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11WGdNcFp2QVFzU3ZxUHV4ZkNjRWI1V2VEbkNNZlo5NXRSZTZFekpBU1l6Y0d0LXd4Q1VSRV96a2Q0amktU1NYOW81THhucWpvTEczXzhJQlVQMy0xSVE?oc=5",
       "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
-    },
-    {
-      "id": "FL-956d4c6ce8f8",
-      "date": "2026-09-13",
-      "dateISO": "Sun, 13 Sep 2026 06:30:00 GMT",
-      "ts": 1789281000000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "重要通知 | 暴雨天气影响期间，万宁市人民医院设置免费孕产妇安置点 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvbXduNERUVDlUR3FHa3RvVDFYTXYzM0pUUC03RGczRklhRkE1Z2hKd3U2akFpZmJNT2ZtNk5IemJka0otYUI2d2VFTldfUG9wdm5UdktoaC05cjhUaGx4bzJTUHVaamdUNHNCcmRBTXdxdmY0Y2c?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-e74cdedb9a62",
@@ -280,15 +292,15 @@
       "siteUrl": "https://m.dongqiudi.com"
     },
     {
-      "id": "FL-3dc6918dd930",
+      "id": "FL-f20b2a5c68bc",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 04:42:16 GMT",
       "ts": 1789274536000,
       "scope": "dom",
       "type": "weather",
-      "title": "水利部针对海南启动洪水防御Ⅳ级应急响应 - 新浪财经",
+      "title": "水利部针对海南启动洪水防御Ⅳ级应急响应 - 新浪网",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT0l5WXVObXFlWDFsdm52VHdPaU9oWDFwUkQ1VFN5SUgzSzhIVWMwdVpWNi1fUUxvOUFvNkI2d0s1bFVESzdYckZSQ0p1Vy1aOGJLX1FrV3d2VVNiSnlEaEY3Z1BWVTZPRlhJWWU2QUIwRWhHOHFkcHFKYnZkSzZIWnlLOFFwODNSREhFVWxMWDctQXAyWGxyYQ?oc=5",
-      "site": "新浪财经",
+      "site": "新浪网",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -350,18 +362,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE03azdnelprcHNYT3dwbXNTRk9WZnhZWG5WZFlHU3JFSFN0Q25sNTJoSXlJQnB6RjhHOWtFa1RpbUw5TlFkLXlDSGM2TEw?oc=5",
       "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com"
-    },
-    {
-      "id": "FL-daa259204e39",
-      "date": "2026-09-13",
-      "dateISO": "Sun, 13 Sep 2026 01:56:42 GMT",
-      "ts": 1789264602000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "遇到“马刀树”“醉汉林” 快跑 警惕山体滑坡风险 - 中华网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NS3VMTWtnVUdfRVlFVXc0UkFjOVV2VXhRYl9zS3Y0RWZSMktkd1l1MkllS1cxMzAxR3VFVlNFTVV6YmRQVUJPM3FSb2NoVURnWTVobXYyalBYT1dYRTVBdHpPWXJpM2ZjS1ZkUXV4dVI?oc=5",
-      "site": "中华网",
-      "siteUrl": "https://news.china.com"
     },
     {
       "id": "FL-9692d1f786d5",
@@ -628,15 +628,15 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-5e84fe2ab2e4",
+      "id": "FL-d8440c5a7841",
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 21:52:47 GMT",
       "ts": 1789163567000,
       "scope": "intl",
       "type": "geo",
-      "title": "05:51:49【印尼爪哇海附近发生6.2级左右地震】 - cls.cn",
+      "title": "05:51:49【印尼爪哇海附近发生6.2级左右地震】 - 财联社",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE13YlU4SWNwbllxX0hqQmZQalhMVkxHNmtrN05wX1pkdWlsQWRaNGNmdFpUYnRlNGpkNDhfZi1yRDVURnNoUzRybQ?oc=5",
-      "site": "cls.cn",
+      "site": "财联社",
       "siteUrl": "https://www.cls.cn"
     },
     {
@@ -722,7 +722,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
       "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn",
-      "related": 18
+      "related": 17
     }
   ]
 }
