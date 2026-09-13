@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T21:06:20.007Z",
+  "updated": "2026-09-13T21:20:45.732Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -111,15 +111,15 @@
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
-      "id": "FL-7ab0bb23c0bb",
+      "id": "FL-ce673d3f04fd",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 15:18:54 GMT",
       "ts": 1789053534000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1382人遇难 - 央视网",
+      "title": "尼泊尔泥石流灾害已致1382人遇难 - news.cctv.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aVWFzenVvcDVzU1hONFVINmZ3cmZzOGpnVUI0MGFNUVQ1RnlnTlF6dkxseVZZaWFwcDlRQ1dmTG9keDQ3dU1kdzZqMDNJalk1Tk1XMUpfTWtQeW5tRW1mZXI4Y0d1d284bWxTdlJ1N0ZDdi1vbTUxQg?oc=5",
-      "site": "央视网",
+      "site": "news.cctv.com",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -147,15 +147,15 @@
       "siteUrl": "https://www.cnr.cn"
     },
     {
-      "id": "FL-e18a0a48aa63",
+      "id": "FL-20364ec3db27",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 12:28:36 GMT",
       "ts": 1789043316000,
       "scope": "dom",
       "type": "geo",
-      "title": "云南丽江市古城区发生3.0级地震，震源深度8千米 - 央视网",
+      "title": "云南丽江市古城区发生3.0级地震，震源深度8千米 - news.cctv.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SRWhKckEyZjI2SnEwbnhPQngzRjIzMHo0NTBSVjY4TFQwN1IzWE8tamtKeGNxSVUxWC1TNVpIWEp0NkhabUdYVkpYSUxvQ08yMzB3UlRfYVJpS2lLbWVMRmE3SzRkYUQzc1JGYVVzMkFjODc3Y2p0aQ?oc=5",
-      "site": "央视网",
+      "site": "news.cctv.com",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -181,7 +181,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IRXVLRTR4WllScXRvU3JNenNpaWppamJiX0lWUUlhamFPeTk3YWV1WTdfYk02djVuWVA2RWF5UnkxaGRIVVoxZWlXUE1meFdrVGVQRVZlT25rTkxOcVQ2UjRR?oc=5",
       "site": "新京报",
       "siteUrl": "https://m.bjnews.com.cn",
-      "related": 35
+      "related": 38
     },
     {
       "id": "FL-861987facab4",
@@ -220,6 +220,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-192893070f33",
+      "date": "2026-09-13",
+      "dateISO": "Sun, 13 Sep 2026 19:33:00 GMT",
+      "ts": 1789327980000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "台湾花莲县发生4.1级地震 震源深度14千米 - finance.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lR0dyQkp0QktHUlJFRlhwaVRqeW5ueVF1cFBtUmJpZlF5VGc3ZE1fOEtPVFdnblRLOTRIQXJ6THFjdWNKVkgxWERUWDhCZ281T0xuSDAwUjg2UVZmWGJWQUFqREpyOWJOWlJQbEduNDd0UTVvSnVFNA?oc=5",
+      "site": "finance.sina.com.cn",
+      "siteUrl": "https://finance.sina.com.cn"
+    },
+    {
       "id": "FL-c8df089e0330",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 19:32:25 GMT",
@@ -232,15 +244,15 @@
       "siteUrl": "https://www.huxiu.com"
     },
     {
-      "id": "FL-fc28cb6534b8",
+      "id": "FL-25c9ad8e0452",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 19:25:00 GMT",
       "ts": 1789327500000,
       "scope": "dom",
       "type": "geo",
-      "title": "台湾花莲县附近发生4.3级左右地震 - 新浪财经",
+      "title": "台湾花莲县附近发生4.3级左右地震 - finance.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qM04tUW5IUk9kSDRfSU13dllRNmQtMUd2Z191aWZhYURlMEpQZ3BMRDNiZUFfLVN5cXppM0xoVUQtRnY0bXFtV1g2Vm5hTThRTU1PMUs4UGR3NU1kTmhkamJVSkZOd2dfeFBwbzYzYmdzRnRjRV8wYg?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.com.cn",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -256,15 +268,15 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-11d666b0c5f2",
+      "id": "FL-d8fe4c06988b",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 16:17:00 GMT",
       "ts": 1789316220000,
       "scope": "dom",
       "type": "weather",
-      "title": "特大暴雨来了，多地停课，部分景区暂停营业！ - 新浪财经",
+      "title": "特大暴雨来了，多地停课，部分景区暂停营业！ - finance.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Ha0ZpZkpQRC1RbmZpMUxaN01MbzQ3bU16bl9UYnpnLWxXYlFiMFV4Wk9MWk92OUJlcmFGMVhoZjNja215RnpyZTEyNVh4WWdtVDljUVZkNF9WOG5LaGFKTlNYOHpBLUg0aHpwN0d1ZXRzVmc3bEdiQg?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.com.cn",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -340,15 +352,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-f0508dad1901",
+      "id": "FL-807504f7aebd",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 11:30:06 GMT",
       "ts": 1789299006000,
       "scope": "dom",
       "type": "other",
-      "title": "2预警齐发，中央气象台：今晚到明晚，四川、福建、广西、广东、海南岛等地将有短时强降水，甘肃、山西等地将有雷暴大风 - ctdsb.net",
+      "title": "2预警齐发，中央气象台：今晚到明晚，四川、福建、广西、广东、海南岛等地将有短时强降水，甘肃、山西等地将有雷暴大风 - 极目新闻",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1La2NSSzZja2Z4dmN3OWI0NUhPa3BfQVRscWs4cmx5MkM4OW9PYXQxSTJWNDA4c0NhUUhIQ1RFd3BqUTJOeVlzTXAzdDhlT3lJNVJ1aWhqU2h4Tzg?oc=5",
-      "site": "ctdsb.net",
+      "site": "极目新闻",
       "siteUrl": "https://www.ctdsb.net"
     },
     {
@@ -400,15 +412,15 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-956d4c6ce8f8",
+      "id": "FL-149ef18d5167",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 06:30:00 GMT",
       "ts": 1789281000000,
       "scope": "dom",
       "type": "weather",
-      "title": "重要通知 | 暴雨天气影响期间，万宁市人民医院设置免费孕产妇安置点 - 新浪财经",
+      "title": "重要通知 | 暴雨天气影响期间，万宁市人民医院设置免费孕产妇安置点 - finance.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvbXduNERUVDlUR3FHa3RvVDFYTXYzM0pUUC03RGczRklhRkE1Z2hKd3U2akFpZmJNT2ZtNk5IemJka0otYUI2d2VFTldfUG9wdm5UdktoaC05cjhUaGx4bzJTUHVaamdUNHNCcmRBTXdxdmY0Y2c?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.com.cn",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -520,15 +532,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-4d438bad2603",
+      "id": "FL-89621efca4c4",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 14:22:00 GMT",
       "ts": 1789222920000,
       "scope": "dom",
       "type": "weather",
-      "title": "应急科普｜暴雨天，转移避险重点注意这几点→ - 新浪财经",
+      "title": "应急科普｜暴雨天，转移避险重点注意这几点→ - finance.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xOUk4S09makJHT3lORDJfemNNTGlqXzB5VTFMZmI3azVDa3JjSkpPVlptZ2I5NndmUHVvaFhzZnVYU3hOWXJlRzcyVGVyQXAzcjdCQmFkOGJZZXU3LUljdUM4Y3JuRl8xdGpjZEh0eGdYcFZzZ2c?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.com.cn",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -556,15 +568,15 @@
       "siteUrl": "https://www.thepaper.cn"
     },
     {
-      "id": "FL-4d62c2e7f6e4",
+      "id": "FL-f0ec9aded6fd",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 01:15:00 GMT",
       "ts": 1789175700000,
       "scope": "intl",
       "type": "geo",
-      "title": "截至当地时间9月11日19时，尼泊尔泥石流遇难人数升至1386人，失联人数为5130人-中国吉林网 - 吉网",
+      "title": "截至当地时间9月11日19时，尼泊尔泥石流遇难人数升至1386人，失联人数为5130人-中国吉林网 - news.cnjiwang.com",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VZE5fdVFxU2pyUTVqYmNkcktQMXl4VGtUb2JSWndGb1dhb0RVbFZUYVgwcFNCX1VWQ3R0R21wX2M3OG5mLXczY2hMbmhudUJ4Z1ZBSkNNeU81eTlO?oc=5",
-      "site": "吉网",
+      "site": "news.cnjiwang.com",
       "siteUrl": "https://news.cnjiwang.com"
     },
     {
@@ -590,18 +602,6 @@
       "url": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxOblVaQ2loMzM2eFZRbWNOdHNDY1A0T2VUdFFTY2c2VjlSWXRyel8xMkw2RWVJZjEyQVdmYVkyMDFRSGR6eGpIWFZ5cms2YTZmcUxadDVxYTlpRjUwVTR4SzFxSmNtX3hkRnl5bUZLTXZDcGxndG5jUUdRbFVGSVF3Skd6X3Z3WGw4Qzhlb3ZRUG9iY20tc3p6V1J0N29tYUowTEZEOVo2VFRUVGJPbzgxel9KaXExM0pOXzMzbXpqb3FYSXFoZThEMzNxQVNDdFZtaFUwVDVZaS1Ra0VpYXREUGRCVk5BaHVHU2UtQjZzcEdzTHViVEdKV2NnbExUWEVlbVltbnFsMlotWjdiZXc3OGxDdTZ1cE1kTUhMSlljUHZpRVd1TERkMTFCZ2xObTkyZUJOYkJicC04OEhfQzBPMnVCUm8wVTNLb0k2eDdIcl9lUXBhZDRsQi1jUW01X1BQVS1Ldnc4OWRPVEJKMzhiVlYtWkEwOE9NOXl6OVZQVDU3ek4zVlBqampNR1FrNVdoWHlfaklmX3N3OThmNmlGRDdMeS1qc3BYN3dUdkdmQWN4UTllWVJqajdoU2FoaTQyMEVzYnZ0M2NmTE5xczBvUllTOU5lVVR6?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr"
-    },
-    {
-      "id": "FL-f49296c4ab56",
-      "date": "2026-08-31",
-      "dateISO": "Mon, 31 Aug 2026 00:47:32 GMT",
-      "ts": 1788137252000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "中方向尼泊尔提供应对泥石流灾害紧急人道主义援助_构建人类命运共同体 - 习近平外交思想和新时代中国外交",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXYXlkQXlBbTlwZ0ZCaVotb3dtei1lV3AxZEFtVFVPV0tYbXYyamF2TU1TeDdSNTJQSGZXNk14THBpZnhJa2Y1VHJnTm5FYk5jZzF5QnhmVDl1b1VCM3lPQVVXMmxyWlc5VUhHMEJwdWVtQ2dUVWc?oc=5",
-      "site": "习近平外交思想和新时代中国外交",
-      "siteUrl": "https://cn.chinadiplomacy.org.cn"
     },
     {
       "id": "FL-e8a32a183e42",
@@ -664,15 +664,15 @@
       "siteUrl": "https://www.thepaper.cn"
     },
     {
-      "id": "FL-e5b13524e786",
+      "id": "FL-e80223ebb18d",
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 07:26:04 GMT",
       "ts": 1789111564000,
       "scope": "dom",
       "type": "geo",
-      "title": "安徽六安市霍邱县发生3.2级地震，震源深度10千米 - 央视网",
+      "title": "安徽六安市霍邱县发生3.2级地震，震源深度10千米 - news.cctv.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Ibmdoa1ZsSXQ2RTc0eF8zeHoxX1UzSGY3aERZYktJeHpCRDRuX0l2SWtodnZKNkZhZE5SdjZHNF9TVmM1UDlfOHFuandSanNVbkNOQlllc1NHMWEwRlltb1JBQWJiRVpmME5tOERHZDlMLU4yUEhvNQ?oc=5",
-      "site": "央视网",
+      "site": "news.cctv.com",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -688,15 +688,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-b2b6f1b4f078",
+      "id": "FL-26a8fe1749ca",
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 06:22:45 GMT",
       "ts": 1789107765000,
       "scope": "dom",
       "type": "geo",
-      "title": "河北唐山市丰南区发生2.5级地震，震源深度10千米 - 央视网",
+      "title": "河北唐山市丰南区发生2.5级地震，震源深度10千米 - news.cctv.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xNXU0YmZYYTk4Mlk2dTNCLWRfRW5CX21uNWFjUzYxMVU2MERVZDlIV1B3Y3d4Ml8yY2xxY1JmaXlHQ1c2MnpaQmE4Z09sY1BxRnFCX2pFekYtOG1sQ28xRFFEQ2J0VXBfbVhNU0tKWktEdEV1VUt2LQ?oc=5",
-      "site": "央视网",
+      "site": "news.cctv.com",
       "siteUrl": "https://news.cctv.com"
     },
     {
