@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-13T19:38:46.396Z",
+  "updated": "2026-09-13T19:47:04.545Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-dbaf6cd415cc",
+      "date": "2026-08-26",
+      "dateISO": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "ts": 1787727600000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "强降雨致广西多地发生洪涝灾害，解放军和武警部队官兵、民兵持续展开救援 - 国防部网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vd0VzRncydXJUemRMbXhJaks0eWE0b0VoWTY4VXVJQmxSUTU2TGdpaHRqOXh4VVRyU0tlTks0MjZZeUhZR2R1SEdUdEVBZHBoRk5EVDFweDZtMURf?oc=5",
+      "site": "国防部网",
+      "siteUrl": "http://www.mod.gov.cn"
+    },
     {
       "id": "FL-42ba1d0df553",
       "date": "2026-08-26",
@@ -87,15 +99,15 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-70df99d44104",
+      "id": "FL-a2237798f821",
       "date": "2026-08-20",
       "dateISO": "Thu, 20 Aug 2026 07:00:00 GMT",
       "ts": 1787209200000,
       "scope": "intl",
       "type": "geo",
-      "title": "哥伦比亚地震：120万人亟需援助，部分社区仍无法抵达 - news.un.org",
+      "title": "哥伦比亚地震：120万人亟需援助，部分社区仍无法抵达 - UN News",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3V3JsRVZ2TkMxUkw3dk96SHFpNTEtSHhnQzRzMmJwOEhzZ0JnUHBNcnBMRDByWEhQTk5wbzdUMWwwenNoRVROdVBPN2phUjU3XzVOWVZoUQ?oc=5",
-      "site": "news.un.org",
+      "site": "UN News",
       "siteUrl": "https://news.un.org"
     },
     {
@@ -232,27 +244,27 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-07f6910fa843",
+      "id": "FL-10ff0a0ca1d6",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 17:46:50 GMT",
       "ts": 1789321610000,
       "scope": "intl",
       "type": "geo",
-      "title": "内蒙古阿拉善盟阿拉善左旗发生3.6级地震 震源深度8千米 - 新浪财经",
+      "title": "内蒙古阿拉善盟阿拉善左旗发生3.6级地震 震源深度8千米 - finance.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9qX0pfQWpXelBTVFJDUFFWWFNaSi1SN1Y2WU1USkQySXRqc3N0Y0Z5azVZSUVKWTE0TDdSTmVTNTZBUnVUb0luSXk1b3QyYW9pOVlwUDN3ZWRUZzRvbVV4MEFIUkVjUEMyRjJoTGFJWkRIQ3RaR3VSVg?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.cn",
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-11d666b0c5f2",
+      "id": "FL-d8fe4c06988b",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 16:17:00 GMT",
       "ts": 1789316220000,
       "scope": "dom",
       "type": "weather",
-      "title": "特大暴雨来了，多地停课，部分景区暂停营业！ - 新浪财经",
+      "title": "特大暴雨来了，多地停课，部分景区暂停营业！ - finance.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Ha0ZpZkpQRC1RbmZpMUxaN01MbzQ3bU16bl9UYnpnLWxXYlFiMFV4Wk9MWk92OUJlcmFGMVhoZjNja215RnpyZTEyNVh4WWdtVDljUVZkNF9WOG5LaGFKTlNYOHpBLUg0aHpwN0d1ZXRzVmc3bEdiQg?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.com.cn",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -364,15 +376,15 @@
       "siteUrl": "https://mil.news.sina.com.cn"
     },
     {
-      "id": "FL-5d1d6701e5ad",
+      "id": "FL-5bd370d67d67",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 08:56:58 GMT",
       "ts": 1789289818000,
       "scope": "intl",
       "type": "geo",
-      "title": "日本津轻海峡附近发生4.5级地震 - 国际在线",
+      "title": "日本津轻海峡附近发生4.5级地震 - news.cri.cn",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4tWE1NUXdTOFJqUE5MNGhFLUstU2c2eHZTcXFyQ0o4TTRSQXhWMXh3Y2hDQU91XzdDQ0ZXSnhBZXZrUktueWh5dGV1VHlGcTVNRGV1aWt0Uzl0MG5DVEZSMlNVTXYwcjZ0YU85RzcwbEtlTVpWaDhrNUNR?oc=5",
-      "site": "国际在线",
+      "site": "news.cri.cn",
       "siteUrl": "https://news.cri.cn"
     },
     {
@@ -388,15 +400,15 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-956d4c6ce8f8",
+      "id": "FL-149ef18d5167",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 06:30:00 GMT",
       "ts": 1789281000000,
       "scope": "dom",
       "type": "weather",
-      "title": "重要通知 | 暴雨天气影响期间，万宁市人民医院设置免费孕产妇安置点 - 新浪财经",
+      "title": "重要通知 | 暴雨天气影响期间，万宁市人民医院设置免费孕产妇安置点 - finance.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvbXduNERUVDlUR3FHa3RvVDFYTXYzM0pUUC03RGczRklhRkE1Z2hKd3U2akFpZmJNT2ZtNk5IemJka0otYUI2d2VFTldfUG9wdm5UdktoaC05cjhUaGx4bzJTUHVaamdUNHNCcmRBTXdxdmY0Y2c?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.com.cn",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -412,15 +424,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-d4df2e65311d",
+      "id": "FL-abf04793a348",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 03:19:44 GMT",
       "ts": 1789269584000,
       "scope": "dom",
       "type": "geo",
-      "title": "地震预警能提前多久？为什么离震中越近，可供处置的时间反而越短？ - 新浪财经",
+      "title": "地震预警能提前多久？为什么离震中越近，可供处置的时间反而越短？ - finance.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE80dnVHY1ZGdjRQLUhQM2ZPLU5icnBHYVNFaWh5RzRNVFNReFQ4U2FjN2ViZXVWVGRLV3hJSG5sQmJyMVZlcklsMFJMX0pidEcwQ05QQXIyTHd5bDVxclhVV3JvdUpPVEpxZTY5Qk1hRmpMLTlubUQ4OW5wNE15Zw?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.cn",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -494,18 +506,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PYjVKWUZ4T2psOVJsenNtWWs4WFNGcmZVakNzS21POTdVeGJHMWg2c1NYNDBjUjFwUFh5bHBueVFneTN5VmFCMXlIQjVjZXQ1dDh3QzF2Ry1HeFlZN2tydnNqV0tEcnhNZDA2aDRZWHkzeHFuZG54UFpXZ2V2OTA?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-4d438bad2603",
-      "date": "2026-09-12",
-      "dateISO": "Sat, 12 Sep 2026 14:22:00 GMT",
-      "ts": 1789222920000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "应急科普｜暴雨天，转移避险重点注意这几点→ - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xOUk4S09makJHT3lORDJfemNNTGlqXzB5VTFMZmI3azVDa3JjSkpPVlptZ2I5NndmUHVvaFhzZnVYU3hOWXJlRzcyVGVyQXAzcjdCQmFkOGJZZXU3LUljdUM4Y3JuRl8xdGpjZEh0eGdYcFZzZ2c?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-2a6e56c5284b",
