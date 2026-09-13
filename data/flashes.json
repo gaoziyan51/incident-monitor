@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T07:55:23.838Z",
+  "updated": "2026-09-13T08:07:04.935Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -123,15 +123,15 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-02a4c49042bb",
+      "id": "FL-e6eef2edba42",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 14:37:00 GMT",
       "ts": 1789051020000,
       "scope": "intl",
       "type": "geo",
-      "title": "以色列猛烈轰炸，引发4.1级地震 - 财联社",
+      "title": "以色列猛烈轰炸，引发4.1级地震 - cls.cn",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9yVzNTWFFwS3EwMUdBUy1fWFFud3dDdTlObnFrWURWTnJJUF9LMmxicGpZRHExVEFDQzNPa3cydm1lTnBQOFE?oc=5",
-      "site": "财联社",
+      "site": "cls.cn",
       "siteUrl": "https://m.cls.cn"
     },
     {
@@ -181,7 +181,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IRXVLRTR4WllScXRvU3JNenNpaWppamJiX0lWUUlhamFPeTk3YWV1WTdfYk02djVuWVA2RWF5UnkxaGRIVVoxZWlXUE1meFdrVGVQRVZlT25rTkxOcVQ2UjRR?oc=5",
       "site": "新京报",
       "siteUrl": "https://m.bjnews.com.cn",
-      "related": 38
+      "related": 39
     },
     {
       "id": "FL-861987facab4",
@@ -352,6 +352,18 @@
       "siteUrl": "https://news.ifeng.com"
     },
     {
+      "id": "FL-daa259204e39",
+      "date": "2026-09-13",
+      "dateISO": "Sun, 13 Sep 2026 01:56:42 GMT",
+      "ts": 1789264602000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "遇到“马刀树”“醉汉林” 快跑 警惕山体滑坡风险 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NS3VMTWtnVUdfRVlFVXc0UkFjOVV2VXhRYl9zS3Y0RWZSMktkd1l1MkllS1cxMzAxR3VFVlNFTVV6YmRQVUJPM3FSb2NoVURnWTVobXYyalBYT1dYRTVBdHpPWXJpM2ZjS1ZkUXV4dVI?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
+    },
+    {
       "id": "FL-9692d1f786d5",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 00:19:00 GMT",
@@ -374,18 +386,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByeEVvcHlucE92a1Z3T0Ywei1RT3Ric2RMaVEzNmVtbF9VVEVPMmhrNmliNEl3TGllWktKNjNodUNSSXh3S21KUHA2cEFqckZEV0RNMmpCWWRxSGM4Zm51VUEyV0dkZ9IBa0FVX3lxTFBxM2RNYURrR1hmQ1ktWnBrME1RQ1ZESXBWZHZ4aUNoaURoXy1BLXlySk9tcDZHb25fRmV5SDB5ZTVnck9rdlNmRHdGRkl3QldGb2VEZHA3VkNWT0NITjhmMTRwUWNpZEgxNDFF?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-0bb4cb5d3816",
-      "date": "2026-09-06",
-      "dateISO": "Sun, 06 Sep 2026 05:15:14 GMT",
-      "ts": 1788671714000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "湖南桂东强降雨引发山体滑坡！救援队正争分夺秒抢通S315生命线 - 中国科技网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mS0ZRT2QzNVd0N29ZZ3ZIWk9xUTBZZjlscFpuZVVGMFVRQkZYQWktZXFScVpwdHRaaVZzYUFQbjNacENkZUFYLU1rYS1xM0RScHdJSjFBenZxRmd3eUdrLVJ2ZzVRbFF0NkZnTGNiVEk?oc=5",
-      "site": "中国科技网",
-      "siteUrl": "https://www.stdaily.com"
     },
     {
       "id": "FL-f7114b7746fb",
@@ -472,15 +472,15 @@
       "siteUrl": "https://www.cnr.cn"
     },
     {
-      "id": "FL-f0ec9aded6fd",
+      "id": "FL-4d62c2e7f6e4",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 01:15:00 GMT",
       "ts": 1789175700000,
       "scope": "intl",
       "type": "geo",
-      "title": "截至当地时间9月11日19时，尼泊尔泥石流遇难人数升至1386人，失联人数为5130人-中国吉林网 - news.cnjiwang.com",
+      "title": "截至当地时间9月11日19时，尼泊尔泥石流遇难人数升至1386人，失联人数为5130人-中国吉林网 - 吉网",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VZE5fdVFxU2pyUTVqYmNkcktQMXl4VGtUb2JSWndGb1dhb0RVbFZUYVgwcFNCX1VWQ3R0R21wX2M3OG5mLXczY2hMbmhudUJ4Z1ZBSkNNeU81eTlO?oc=5",
-      "site": "news.cnjiwang.com",
+      "site": "吉网",
       "siteUrl": "https://news.cnjiwang.com"
     },
     {
@@ -628,15 +628,15 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-d8440c5a7841",
+      "id": "FL-5e84fe2ab2e4",
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 21:52:47 GMT",
       "ts": 1789163567000,
       "scope": "intl",
       "type": "geo",
-      "title": "05:51:49【印尼爪哇海附近发生6.2级左右地震】 - 财联社",
+      "title": "05:51:49【印尼爪哇海附近发生6.2级左右地震】 - cls.cn",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE13YlU4SWNwbllxX0hqQmZQalhMVkxHNmtrN05wX1pkdWlsQWRaNGNmdFpUYnRlNGpkNDhfZi1yRDVURnNoUzRybQ?oc=5",
-      "site": "财联社",
+      "site": "cls.cn",
       "siteUrl": "https://www.cls.cn"
     },
     {
@@ -700,19 +700,6 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-EV-18d9b0620c3d",
-      "date": "2026-09-11",
-      "dateISO": "Fri, 11 Sep 2026 02:24:00 GMT",
-      "ts": 1789093440000,
-      "scope": "dom",
-      "type": "fire",
-      "title": "青岛外籍货轮火灾事故已造成25人遇难 - sd.chinanews.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WT3lXY3pNQmR2YjZFV3dnS0NoZmdScUpzOW1lNXBCOWJjakk3cFByZTJRRjRVaU1lU0pFeTdzdlNRR2NuT3FGTkhQb3BvVzBuT1RQTkduZlVoUkhEVUNTT0FjbW55Zw?oc=5",
-      "site": "sd.chinanews.com.cn",
-      "siteUrl": "https://www.sd.chinanews.com.cn",
-      "related": 19
-    },
-    {
       "id": "FL-49dcf83adb13",
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 02:00:41 GMT",
@@ -723,6 +710,19 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hVk5ZY2p6T253d1QxelVVaU5VdUlJa3JqbVhmTkQzRml1dkdLeERVRXFOTHhVd3p5YXdILXJmOEV6Tm1lQWI1UWlOVldwZjNEUWJQbUJiZ1JGaXFuTDRVQUhnZjNPZDRG?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
+      "id": "FL-EV-18d9b0620c3d",
+      "date": "2026-09-11",
+      "dateISO": "Fri, 11 Sep 2026 01:07:34 GMT",
+      "ts": 1789088854000,
+      "scope": "dom",
+      "type": "fire",
+      "title": "青岛货轮火灾致25人遇难 - 人民日报",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
+      "site": "人民日报",
+      "siteUrl": "http://paper.people.com.cn",
+      "related": 18
     }
   ]
 }
