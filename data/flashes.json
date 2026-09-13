@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T14:20:07.218Z",
+  "updated": "2026-09-13T14:31:36.299Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -328,6 +328,18 @@
       "siteUrl": "https://mil.news.sina.com.cn"
     },
     {
+      "id": "FL-c6f2221d4c39",
+      "date": "2026-09-13",
+      "dateISO": "Sun, 13 Sep 2026 09:37:32 GMT",
+      "ts": 1789292252000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "遇到泥石流，怎么办？ - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSUM2QkZTeDVUVjRlbF9fdHQ2RnhoSFZ6MjBqLTQxVjFmdDVqWG92QW5VM3NlQWE4WUttNlFuM1Vncm5NQjNMRU9kcHZoTENvTV9nQkpSMGdpMjJjdm1QSzFNejhuNDJQdk4tZUFjMTR2VUU2TzM1U1BXeTVadDJvT3JhUVliaVdYTm1mYw?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-5d1d6701e5ad",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 08:56:58 GMT",
@@ -338,18 +350,6 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4tWE1NUXdTOFJqUE5MNGhFLUstU2c2eHZTcXFyQ0o4TTRSQXhWMXh3Y2hDQU91XzdDQ0ZXSnhBZXZrUktueWh5dGV1VHlGcTVNRGV1aWt0Uzl0MG5DVEZSMlNVTXYwcjZ0YU85RzcwbEtlTVpWaDhrNUNR?oc=5",
       "site": "国际在线",
       "siteUrl": "https://news.cri.cn"
-    },
-    {
-      "id": "FL-9a2cbc2c455d",
-      "date": "2026-09-13",
-      "dateISO": "Sun, 13 Sep 2026 08:08:19 GMT",
-      "ts": 1789286899000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "应急科普丨暴雨天，转移避险重点注意这几点→ - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeF9kTGhvcEYwcUVROWloNXJ5RV9tQktZRzBsbFJTMU5rbFJNS3dsWlJ0YjdJMm1fbEFqYi1XYlY4Qzl4Wmt6MlFNUHV2emZNZUc0a2lPTWpybmFmYkxNcFZxeXRwUjlwanV2VS1vNHN4YW9OZG94S1ZoYW1WYlNzZkJKeWhKS0JxMHVHXw?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-87503c847b8f",
@@ -386,18 +386,6 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKR09zQnNWZEItaGQyUFhnUVhIMXk1WEhJWVc0azVYTVU2YTUzQ0FYaTRFRnFZSDM1Q2MxUExQWHNHLVd1VndPemtQRUh2VWlxWnctN3JGaw?oc=5",
       "site": "懂球帝",
       "siteUrl": "https://m.dongqiudi.com"
-    },
-    {
-      "id": "FL-7becfce8b3ab",
-      "date": "2026-09-13",
-      "dateISO": "Sun, 13 Sep 2026 04:34:26 GMT",
-      "ts": 1789274066000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "受南海热带低压影响，海南将有大到暴雨，水利部针对海南启动洪水防御Ⅳ级应急响应 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc0FrcFU4bG1VSlNtXzFta2RGaWlzNk9ydG14Z2ktWktxdFI1RDNJTFNtT1c5ZDQtU3BiOFFQcmJwY0dxZ3R5Z2J4dXZSTXhkQnVBZnBzUlBBTFpNNGNYSjNxcU91bl9HOUdOZmZzcFlkeWxvaHV4UnZOYm5xbmdIT2lLRXRXc2FRTVA5Uw?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-7fa920217ac7",
@@ -542,6 +530,18 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrU1k5dk5EallTaTdBbFRnMFpRaFJnUEgxaHlYSnBvLVExZzRtaC1mWWRaYXpBczRha1VneHZnZ0NxemZFQ2RXZEVIYm5PbE9HTmszNllIdTItaUJsS1pZ?oc=5",
       "site": "华声在线",
       "siteUrl": "https://m.voc.com.cn"
+    },
+    {
+      "id": "FL-9ea9fa63890c",
+      "date": "2026-09-05",
+      "dateISO": "Sat, 05 Sep 2026 09:42:57 GMT",
+      "ts": 1788601377000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害中1名受困中国公民获救 - stdaily.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91a2hpUEUwOUx0Wmg0XzNqdDUwb0pzY3JBT1JoRmJibXZjSW9qT1pIaG9xUlVhaVlhZ2dtZGZGejNKV2dJdkd2X25uYi1Qc2QwLS1wNmJ1Qms5d2J3cVFKOHh1U2ROX2ZYd3lhZy1WaWY?oc=5",
+      "site": "stdaily.com",
+      "siteUrl": "https://www.stdaily.com"
     },
     {
       "id": "FL-3a315dda62cd",
@@ -702,15 +702,15 @@
     {
       "id": "FL-EV-18d9b0620c3d",
       "date": "2026-09-11",
-      "dateISO": "Fri, 11 Sep 2026 02:24:00 GMT",
-      "ts": 1789093440000,
+      "dateISO": "Fri, 11 Sep 2026 05:45:00 GMT",
+      "ts": 1789105500000,
       "scope": "dom",
       "type": "fire",
-      "title": "青岛外籍货轮火灾事故已造成25人遇难 - sd.chinanews.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WT3lXY3pNQmR2YjZFV3dnS0NoZmdScUpzOW1lNXBCOWJjakk3cFByZTJRRjRVaU1lU0pFeTdzdlNRR2NuT3FGTkhQb3BvVzBuT1RQTkduZlVoUkhEVUNTT0FjbW55Zw?oc=5",
-      "site": "sd.chinanews.com.cn",
-      "siteUrl": "https://www.sd.chinanews.com.cn",
-      "related": 16
+      "title": "山东省委书记省长，赶赴青岛货轮火灾现场 - 新浪新闻_手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaW93UmVCeVBCWnd3QmZ5TXZMdUoyNlpQNzFwazZZYmFRSjhZTGdLSHE2Ty1CY0NPYWpBS0x1WUtNckpQaXEzWFZYd2VTV2FQd2FSejBnSDhCMG5PZHdQd0QwTldPNGlOR21mVWNDaXVjMGRFUDRaMUxNRlBuQkhFRnlLVkkxYXhGdWVZbDd4TDQ3cVRJQjJ5MA?oc=5",
+      "site": "新浪新闻_手机新浪网",
+      "siteUrl": "https://news.sina.cn",
+      "related": 17
     },
     {
       "id": "FL-49dcf83adb13",
