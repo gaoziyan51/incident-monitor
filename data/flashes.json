@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T11:21:09.048Z",
+  "updated": "2026-09-13T11:36:05.552Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,15 +15,27 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-677dc499b4ba",
+      "id": "FL-dbaf6cd415cc",
+      "date": "2026-08-26",
+      "dateISO": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "ts": 1787727600000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "强降雨致广西多地发生洪涝灾害，解放军和武警部队官兵、民兵持续展开救援 - 国防部网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vd0VzRncydXJUemRMbXhJaks0eWE0b0VoWTY4VXVJQmxSUTU2TGdpaHRqOXh4VVRyU0tlTks0MjZZeUhZR2R1SEdUdEVBZHBoRk5EVDFweDZtMURf?oc=5",
+      "site": "国防部网",
+      "siteUrl": "http://www.mod.gov.cn"
+    },
+    {
+      "id": "FL-767598e6cf26",
       "date": "2026-09-09",
       "dateISO": "Wed, 09 Sep 2026 08:47:00 GMT",
       "ts": 1788943620000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1374人 - 封面新闻",
+      "title": "尼泊尔泥石流灾害遇难人数升至1374人 - thecover.cn",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zVXZBNHFBdWFOQlRXOUc3QmRyZDVJUnBQS1ZyMkFNTXUwd0NnbXZGNGZjNVNWZW43LTFVeXZhQmczcVBLSFBlTWZ3VjBud0VudW1JNmdoaDdFckptc01nSWI0dVBLTS1MR1ByMUhRbW52RmFCUXlN?oc=5",
-      "site": "封面新闻",
+      "site": "thecover.cn",
       "siteUrl": "https://m.thecover.cn"
     },
     {
@@ -99,15 +111,15 @@
       "siteUrl": "https://news.un.org"
     },
     {
-      "id": "FL-18ed16b30a5c",
+      "id": "FL-1197ee09fcb0",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 15:56:00 GMT",
       "ts": 1789055760000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1385人 - 封面新闻",
+      "title": "尼泊尔泥石流灾害遇难人数升至1385人 - thecover.cn",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50QU81cW94T1U0MzNWWEIyV0t5WmVCMDF1ZXU4R1FDZ0s3bTdjbnRxZUw0YXJZTHIxak1QS0x6UEZ6R2xHc2FJU0F6QTlpUldmQmVDWVdKRy1pbXI4c3dCYmJsX29OcWlyejdCUWhob2JBYXdOSThv?oc=5",
-      "site": "封面新闻",
+      "site": "thecover.cn",
       "siteUrl": "https://m.thecover.cn"
     },
     {
@@ -147,15 +159,15 @@
       "siteUrl": "https://m.cls.cn"
     },
     {
-      "id": "FL-7bc3fac03844",
+      "id": "FL-63616eb5470d",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 14:23:56 GMT",
       "ts": 1789050236000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1382人遇难 - cnr.cn",
+      "title": "尼泊尔泥石流灾害已致1382人遇难 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kNS1nM3Z2T2poT0ZEeWdLM2JibmRJUXZPZ240SnNYc1M5czFneWlJYnk1M0hoVzgtYXlJV2M2QU4zYzdWR2xveHhDTnUzcXh0RTliMUVMU2JwaGtTR25QXzNrY2NvclFsUjRPUzNNUFF0bzBKanc?oc=5",
-      "site": "cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://www.cnr.cn"
     },
     {
@@ -193,7 +205,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IRXVLRTR4WllScXRvU3JNenNpaWppamJiX0lWUUlhamFPeTk3YWV1WTdfYk02djVuWVA2RWF5UnkxaGRIVVoxZWlXUE1meFdrVGVQRVZlT25rTkxOcVQ2UjRR?oc=5",
       "site": "新京报",
       "siteUrl": "https://m.bjnews.com.cn",
-      "related": 36
+      "related": 35
     },
     {
       "id": "FL-861987facab4",
@@ -232,6 +244,30 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-2857a963ba8f",
+      "date": "2026-09-13",
+      "dateISO": "Sun, 13 Sep 2026 11:30:41 GMT",
+      "ts": 1789299041000,
+      "scope": "dom",
+      "type": "other",
+      "title": "2预警齐发，中央气象台：今晚到明晚，四川、福建、广西、广东、海南岛等地将有短时强降水，甘肃、山西等地将有雷暴大风 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONHBmZHNqcVBPY0J3dlg5MkRRRmNkcEpDQ2xpTEhZMmJGMHlmemdZYjg1QVljZDhKTE5MYzJoOUxjOGp0R2ctQUZyWDVlYkZhTHVLdTFtNEwwc3lLeUxTRXdFelo3bGU5aUFTUE0wSmFQLVdUSURxVUFuNGlPRnRtZWFWaTE5NmQ1VkVIdw?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-fb0067bc5652",
+      "date": "2026-09-13",
+      "dateISO": "Sun, 13 Sep 2026 10:57:00 GMT",
+      "ts": 1789297020000,
+      "scope": "dom",
+      "type": "other",
+      "title": "河北涉县一限高杆断裂倒塌官方：未造成人员伤亡_社会新闻 - 大众网",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBEeWVrOEZwMlRvRHNvY1Y5Xy10Ujh2QmkzMTRSbEFsUUNxWWQyY09NY0lzcjhOMnlIZVZXaWpvTE1rVGhLcEtSSldlMDNqZVBJRzlYQ1JEMWY4S2JmNHZPcU5Qb2F2dF95R0YwbnMtVlFkajAyRUZ5SHVKdw?oc=5",
+      "site": "大众网",
+      "siteUrl": "https://www.dzwww.com"
+    },
+    {
       "id": "FL-54b164e62987",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 10:42:03 GMT",
@@ -254,18 +290,6 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBadGNNc0VuZ0JhVE00YzZyODUxa21yUGpGQWlQMjlkLTVPVlhmRF9iLTk5Z0NaTDdIamJxeUZlZ3Fyck1kTWpzemhsWElkZ0RCVGdKNEM5blhwV1E2WWZNTzNyRE1ZVUw5ZDUyeHhCSU9ucGs?oc=5",
       "site": "新浪军事_手机新浪网",
       "siteUrl": "https://mil.news.sina.com.cn"
-    },
-    {
-      "id": "FL-c96f1af632e9",
-      "date": "2026-09-13",
-      "dateISO": "Sun, 13 Sep 2026 09:46:00 GMT",
-      "ts": 1789292760000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "特大暴雨！多地停课！紧急提醒 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qWEdCNXdDUUhtal9pQzJlcmRPSGhzSU1PS3lBcXhkLVI0dVlDWU1jYlVzdTRaLTM4SDI2bjRwM0VsYjFTS1B1clZiM1NwNTB6VG0tQ21kZ094Q3l0Y1ZfQ2gwQWdzR040OTNZVzNrQVN1cXl3ZmJZLQ?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-09350d82c939",
@@ -292,15 +316,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-87503c847b8f",
+      "id": "FL-121e565453cb",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 06:35:28 GMT",
       "ts": 1789281328000,
       "scope": "dom",
       "type": "other",
-      "title": "受强降水影响，海南多地学校停课景点关闭 - 京报网",
+      "title": "受强降水影响，海南多地学校停课景点关闭 - news.bjd.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11WGdNcFp2QVFzU3ZxUHV4ZkNjRWI1V2VEbkNNZlo5NXRSZTZFekpBU1l6Y0d0LXd4Q1VSRV96a2Q0amktU1NYOW81THhucWpvTEczXzhJQlVQMy0xSVE?oc=5",
-      "site": "京报网",
+      "site": "news.bjd.com.cn",
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
@@ -376,15 +400,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-abf04793a348",
+      "id": "FL-d4df2e65311d",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 03:19:44 GMT",
       "ts": 1789269584000,
       "scope": "dom",
       "type": "geo",
-      "title": "地震预警能提前多久？为什么离震中越近，可供处置的时间反而越短？ - finance.sina.cn",
+      "title": "地震预警能提前多久？为什么离震中越近，可供处置的时间反而越短？ - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE80dnVHY1ZGdjRQLUhQM2ZPLU5icnBHYVNFaWh5RzRNVFNReFQ4U2FjN2ViZXVWVGRLV3hJSG5sQmJyMVZlcklsMFJMX0pidEcwQ05QQXIyTHd5bDVxclhVV3JvdUpPVEpxZTY5Qk1hRmpMLTlubUQ4OW5wNE15Zw?oc=5",
-      "site": "finance.sina.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -460,39 +484,27 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-84bc6e677b04",
+      "id": "FL-785c34cbd5cc",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 02:57:55 GMT",
       "ts": 1789181875000,
       "scope": "intl",
       "type": "geo",
-      "title": "巴拿马和哥斯达黎加边境地区发生5.3级地震 - 京报网",
+      "title": "巴拿马和哥斯达黎加边境地区发生5.3级地震 - news.bjd.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tU2xnWG9YYkp1SjNhOERBVVdYT210OTRSWTQ0QjhPb0RvREotbEx4ZmxpVG8xa0V3NkRqcXZQdWczY1pkcHFHeUxCd3BuLUMxS25vckRmbWgxVWxRYnc?oc=5",
-      "site": "京报网",
+      "site": "news.bjd.com.cn",
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-2a6e56c5284b",
-      "date": "2026-09-12",
-      "dateISO": "Sat, 12 Sep 2026 02:19:00 GMT",
-      "ts": 1789179540000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1386人 失联5130人 - 中国青年网",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRQTN6bzdwVmtSVXY4Y29Ub0lObmhlMEdsOE9uX0Qzd1NsZGpvVnVSc2FRRmZvX3JrXy1HbGNhd2pGMENPTndEQWRHT0hNYVpodzJwM0NsaVZkdWY5Q1U5ZlVlb1E?oc=5",
-      "site": "中国青年网",
-      "siteUrl": "https://news.youth.cn"
-    },
-    {
-      "id": "FL-542ffe023f0a",
+      "id": "FL-a8bb39da1317",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 01:33:21 GMT",
       "ts": 1789176801000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1386人 失联5130人 - cnr.cn",
+      "title": "尼泊尔泥石流灾害遇难人数升至1386人 失联5130人 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IVHlwaFRUODV3Zk82S2kwRVB1UFdXZWpSOUNuVHdSRFRqWkptX0Uzdko2clBvN1FXc2ZhYzF0UDV6VGFFcm5xWjJLRW1ra2RDWE0xcnlWTzVqcDdCcDZPLWxRU3kzRjFXYVdLdC1wZGNuSUtPQXc?oc=5",
-      "site": "cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://www.cnr.cn"
     },
     {
@@ -616,18 +628,6 @@
       "siteUrl": "http://paper.people.com.cn"
     },
     {
-      "id": "FL-01338425c7d7",
-      "date": "2026-09-11",
-      "dateISO": "Fri, 11 Sep 2026 23:25:00 GMT",
-      "ts": 1789169100000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "明查｜这些尼泊尔泥石流中“动物救援”的感人瞬间，可能是AI生成 - thepaper.cn",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01b0N2enRvMHVZVmhGQ3BGRExXTVNCLS1FYmprZmlRM1QyTXhoMm5zeE1KNDNrR2NwZ0NHeUZqM3l0aU9YRE0tN1pIQWhPX1VhSE41ei1wbUZESHRLeUZSMA?oc=5",
-      "site": "thepaper.cn",
-      "siteUrl": "https://www.thepaper.cn"
-    },
-    {
       "id": "FL-11672a3a9fa2",
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 22:48:57 GMT",
@@ -706,11 +706,11 @@
       "ts": 1789105500000,
       "scope": "dom",
       "type": "fire",
-      "title": "山东省委书记省长，赶赴青岛货轮火灾现场 - 新浪新闻_手机新浪网",
+      "title": "山东省委书记省长，赶赴青岛货轮火灾现场 - news.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaW93UmVCeVBCWnd3QmZ5TXZMdUoyNlpQNzFwazZZYmFRSjhZTGdLSHE2Ty1CY0NPYWpBS0x1WUtNckpQaXEzWFZYd2VTV2FQd2FSejBnSDhCMG5PZHdQd0QwTldPNGlOR21mVWNDaXVjMGRFUDRaMUxNRlBuQkhFRnlLVkkxYXhGdWVZbDd4TDQ3cVRJQjJ5MA?oc=5",
-      "site": "新浪新闻_手机新浪网",
+      "site": "news.sina.cn",
       "siteUrl": "https://news.sina.cn",
-      "related": 17
+      "related": 18
     },
     {
       "id": "FL-49dcf83adb13",
