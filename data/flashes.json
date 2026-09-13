@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T07:20:18.997Z",
+  "updated": "2026-09-13T07:32:32.222Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -123,27 +123,27 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-02a4c49042bb",
+      "id": "FL-e6eef2edba42",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 14:37:00 GMT",
       "ts": 1789051020000,
       "scope": "intl",
       "type": "geo",
-      "title": "以色列猛烈轰炸，引发4.1级地震 - 财联社",
+      "title": "以色列猛烈轰炸，引发4.1级地震 - cls.cn",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9yVzNTWFFwS3EwMUdBUy1fWFFud3dDdTlObnFrWURWTnJJUF9LMmxicGpZRHExVEFDQzNPa3cydm1lTnBQOFE?oc=5",
-      "site": "财联社",
+      "site": "cls.cn",
       "siteUrl": "https://m.cls.cn"
     },
     {
-      "id": "FL-63616eb5470d",
+      "id": "FL-7bc3fac03844",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 14:23:56 GMT",
       "ts": 1789050236000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1382人遇难 - 央广网",
+      "title": "尼泊尔泥石流灾害已致1382人遇难 - cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kNS1nM3Z2T2poT0ZEeWdLM2JibmRJUXZPZ240SnNYc1M5czFneWlJYnk1M0hoVzgtYXlJV2M2QU4zYzdWR2xveHhDTnUzcXh0RTliMUVMU2JwaGtTR25QXzNrY2NvclFsUjRPUzNNUFF0bzBKanc?oc=5",
-      "site": "央广网",
+      "site": "cnr.cn",
       "siteUrl": "https://www.cnr.cn"
     },
     {
@@ -242,6 +242,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PYUIyNEpIQ1BCa3FiWHkyN21PQTdwZUVOdTI3TmtLZ1RTMnA1WDQ1TGwzdnRfcTRJQTlHV1htQWVHOUpTNmJEb2Rmb1NjRFc5Yk4tOFNadGN6Q1VBRUJTd3k5QXpOXy1zU2ZzcU10TWg4dDRYRFJlYkExXzdUVUk?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-eb15cb8674ee",
+      "date": "2026-09-13",
+      "dateISO": "Sun, 13 Sep 2026 07:31:06 GMT",
+      "ts": 1789284666000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "盖·桑托斯观战圣何塞地震队比赛 赛前和队内球星维尔纳交换球衣 - Sina Sports",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZEpFUGh1TE5wU2VieU9lcUNhd2JZX1lieWd4THk3S0pZalhEdWd2Tng1enNoTmR5R1VOWUN2XzUyZDIxdGh6OVBnLUJuOFBJR2RDUGpUbHZESGlJdVIxdV91YXM2U2lHTXdBZHdTeXBWemdMcnA0azYwbldhOHkwUE9oUzY?oc=5",
+      "site": "Sina Sports",
+      "siteUrl": "https://sports.sina.cn"
     },
     {
       "id": "FL-022e18ce3e6a",
@@ -460,15 +472,15 @@
       "siteUrl": "https://news.youth.cn"
     },
     {
-      "id": "FL-a8bb39da1317",
+      "id": "FL-542ffe023f0a",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 01:33:21 GMT",
       "ts": 1789176801000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1386人 失联5130人 - 央广网",
+      "title": "尼泊尔泥石流灾害遇难人数升至1386人 失联5130人 - cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IVHlwaFRUODV3Zk82S2kwRVB1UFdXZWpSOUNuVHdSRFRqWkptX0Uzdko2clBvN1FXc2ZhYzF0UDV6VGFFcm5xWjJLRW1ra2RDWE0xcnlWTzVqcDdCcDZPLWxRU3kzRjFXYVdLdC1wZGNuSUtPQXc?oc=5",
-      "site": "央广网",
+      "site": "cnr.cn",
       "siteUrl": "https://www.cnr.cn"
     },
     {
@@ -484,16 +496,16 @@
       "siteUrl": "https://news.cnjiwang.com"
     },
     {
-      "id": "FL-01e48f2ae3b7",
-      "date": "2026-09-12",
-      "dateISO": "Sat, 12 Sep 2026 01:06:42 GMT",
-      "ts": 1789175202000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1386人，失联5130人 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0ZmNTZlVXbF8zYjZ1bXhFMlVzY0lscEZ5NHNxYkdoWHRXUnJqdnRCRHB1WVpFQnRDM1I2ZDJIaHV4aElpNWlEd0RyUk5QbHpVeXlSaEVXU09oX2V4d1E?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://news.bjd.com.cn"
+      "id": "FL-fb448a3e9124",
+      "date": "2026-07-11",
+      "dateISO": "Sat, 11 Jul 2026 07:00:00 GMT",
+      "ts": 1783753200000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "“巴威”已重新增强为“强台风级”！苏州应急响应提升为Ⅲ级 - suzhou.gov.cn",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb09jY09WOHlCWU5PWkhlMy1EZmFiMVIxcms2UGtCQlBfbTBJd3A0THlOOHprR2lTNTFyT003UDYyUmJtdkR5NVpjTEdIMzNWLUMtYWZtUWx1cWxndVZOdjZjOXdOc0Z2ejNxR2p5ZHg1WExkaGNXaVFJb0Q5dWx4bG1YNUZiTGFudms4?oc=5",
+      "site": "suzhou.gov.cn",
+      "siteUrl": "http://www.suzhou.gov.cn"
     },
     {
       "id": "FL-705700278b60",
@@ -628,28 +640,16 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-d8440c5a7841",
+      "id": "FL-5e84fe2ab2e4",
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 21:52:47 GMT",
       "ts": 1789163567000,
       "scope": "intl",
       "type": "geo",
-      "title": "05:51:49【印尼爪哇海附近发生6.2级左右地震】 - 财联社",
+      "title": "05:51:49【印尼爪哇海附近发生6.2级左右地震】 - cls.cn",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE13YlU4SWNwbllxX0hqQmZQalhMVkxHNmtrN05wX1pkdWlsQWRaNGNmdFpUYnRlNGpkNDhfZi1yRDVURnNoUzRybQ?oc=5",
-      "site": "财联社",
+      "site": "cls.cn",
       "siteUrl": "https://www.cls.cn"
-    },
-    {
-      "id": "FL-1b217b50e4cd",
-      "date": "2026-09-11",
-      "dateISO": "Fri, 11 Sep 2026 12:32:12 GMT",
-      "ts": 1789129932000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "印尼附近海域发生6.2级地震 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10WjRYREc5U01FaXl5bjc0bkMzTkxqbVVMdnRlR29DRDVURUdPM2tIbVB5V3lEMGdtck1ubkRNcjZpSHYwc3hGeHZuVTY3eThYWnl3TG5EekZLTVZlYkE?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://news.bjd.com.cn"
     },
     {
       "id": "FL-43f2dbee5f2a",
