@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T06:51:07.205Z",
+  "updated": "2026-09-13T07:06:33.089Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,15 +15,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-dbaf6cd415cc",
+      "id": "FL-1a134a5d6448",
       "date": "2026-08-26",
       "dateISO": "Wed, 26 Aug 2026 07:00:00 GMT",
       "ts": 1787727600000,
       "scope": "dom",
       "type": "weather",
-      "title": "强降雨致广西多地发生洪涝灾害，解放军和武警部队官兵、民兵持续展开救援 - 国防部网",
+      "title": "强降雨致广西多地发生洪涝灾害，解放军和武警部队官兵、民兵持续展开救援 - mod.gov.cn",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vd0VzRncydXJUemRMbXhJaks0eWE0b0VoWTY4VXVJQmxSUTU2TGdpaHRqOXh4VVRyU0tlTks0MjZZeUhZR2R1SEdUdEVBZHBoRk5EVDFweDZtMURf?oc=5",
-      "site": "国防部网",
+      "site": "mod.gov.cn",
       "siteUrl": "http://www.mod.gov.cn"
     },
     {
@@ -142,9 +142,9 @@
       "scope": "intl",
       "type": "geo",
       "title": "尼泊尔泥石流灾害已致1382人遇难 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yTVR2OE40OXNCTlpXR2FyR2hncU5haXBVOThJM1VqM2xKYjRMS043Z1c4ZjFUWDA1WVM0QkZkZXFQY1BjOW9Zdjd4MEV5QnlGRVh6WGkyV2t1SHRWc2MzcEp4MXcyV0la?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kNS1nM3Z2T2poT0ZEeWdLM2JibmRJUXZPZ240SnNYc1M5czFneWlJYnk1M0hoVzgtYXlJV2M2QU4zYzdWR2xveHhDTnUzcXh0RTliMUVMU2JwaGtTR25QXzNrY2NvclFsUjRPUzNNUFF0bzBKanc?oc=5",
       "site": "央广网",
-      "siteUrl": "https://news.cnr.cn"
+      "siteUrl": "https://www.cnr.cn"
     },
     {
       "id": "FL-e18a0a48aa63",
@@ -205,7 +205,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IRXVLRTR4WllScXRvU3JNenNpaWppamJiX0lWUUlhamFPeTk3YWV1WTdfYk02djVuWVA2RWF5UnkxaGRIVVoxZWlXUE1meFdrVGVQRVZlT25rTkxOcVQ2UjRR?oc=5",
       "site": "新京报",
       "siteUrl": "https://m.bjnews.com.cn",
-      "related": 39
+      "related": 38
     },
     {
       "id": "FL-861987facab4",
@@ -242,6 +242,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PYUIyNEpIQ1BCa3FiWHkyN21PQTdwZUVOdTI3TmtLZ1RTMnA1WDQ1TGwzdnRfcTRJQTlHV1htQWVHOUpTNmJEb2Rmb1NjRFc5Yk4tOFNadGN6Q1VBRUJTd3k5QXpOXy1zU2ZzcU10TWg4dDRYRFJlYkExXzdUVUk?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-149ef18d5167",
+      "date": "2026-09-13",
+      "dateISO": "Sun, 13 Sep 2026 06:30:00 GMT",
+      "ts": 1789281000000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "重要通知 | 暴雨天气影响期间，万宁市人民医院设置免费孕产妇安置点 - finance.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvbXduNERUVDlUR3FHa3RvVDFYTXYzM0pUUC03RGczRklhRkE1Z2hKd3U2akFpZmJNT2ZtNk5IemJka0otYUI2d2VFTldfUG9wdm5UdktoaC05cjhUaGx4bzJTUHVaamdUNHNCcmRBTXdxdmY0Y2c?oc=5",
+      "site": "finance.sina.com.cn",
+      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-e74cdedb9a62",
@@ -340,18 +352,6 @@
       "siteUrl": "https://www.yicai.com"
     },
     {
-      "id": "FL-7d5176d1586f",
-      "date": "2026-09-13",
-      "dateISO": "Sun, 13 Sep 2026 02:19:23 GMT",
-      "ts": 1789265963000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "中国地震台网正式测定......_7x24快讯_新浪财经 - 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBYSTEyWEYwQ21iaDlIalBmWW1wZzY2Nkppd19oVURjbnd0QnlkdkVyWnJzNGVQdzFBTWk3bDVXa2JKdlI0SzZFYlNPZw?oc=5",
-      "site": "新浪网",
-      "siteUrl": "https://wap.cj.sina.cn"
-    },
-    {
       "id": "FL-9692d1f786d5",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 00:19:00 GMT",
@@ -388,39 +388,39 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-3c726261be70",
+      "id": "FL-89621efca4c4",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 14:22:00 GMT",
       "ts": 1789222920000,
       "scope": "dom",
       "type": "weather",
-      "title": "应急科普｜暴雨天，转移避险重点注意这几点→ - 新浪网",
+      "title": "应急科普｜暴雨天，转移避险重点注意这几点→ - finance.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xOUk4S09makJHT3lORDJfemNNTGlqXzB5VTFMZmI3azVDa3JjSkpPVlptZ2I5NndmUHVvaFhzZnVYU3hOWXJlRzcyVGVyQXAzcjdCQmFkOGJZZXU3LUljdUM4Y3JuRl8xdGpjZEh0eGdYcFZzZ2c?oc=5",
-      "site": "新浪网",
+      "site": "finance.sina.com.cn",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-d2848657c85d",
+      "id": "FL-9e0910d6a5cb",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 13:50:49 GMT",
       "ts": 1789221049000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔21岁工人泥石流失联10多天后突然回村了 - 文学城",
+      "title": "尼泊尔21岁工人泥石流失联10多天后突然回村了 - wenxuecity.com",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xNnZUX2VpWVpkV3c3QlRVZjFuRUw2YVp4QW5rTzhQV2Z0N2MwT1ZKdi1RSnU0SDBNUVBhZWpxLVJXNWNyUUp6dVNkMTZiUkFocktZSHpzVEV3TWJud1VneS0wR2hFUHAt?oc=5",
-      "site": "文学城",
+      "site": "wenxuecity.com",
       "siteUrl": "https://www.wenxuecity.com"
     },
     {
-      "id": "FL-a9a5679a9606",
+      "id": "FL-6d8de70026aa",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 13:23:00 GMT",
       "ts": 1789219380000,
       "scope": "dom",
       "type": "geo",
-      "title": "江西遂川一男子被泥石流冲出数十米、失联两天后与女儿团聚 - 凤凰网江西",
+      "title": "江西遂川一男子被泥石流冲出数十米、失联两天后与女儿团聚 - jx.ifeng.com",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YR21oU0NMZ3dSWmpQLVBYSUtTdHZzRHJVVHl0TGRoalhuRU9EajV4YVRFb0xiTDNaeDV6d19XMWdxaGlHTVdzN2hB?oc=5",
-      "site": "凤凰网江西",
+      "site": "jx.ifeng.com",
       "siteUrl": "https://jx.ifeng.com"
     },
     {
@@ -710,7 +710,7 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WT3lXY3pNQmR2YjZFV3dnS0NoZmdScUpzOW1lNXBCOWJjakk3cFByZTJRRjRVaU1lU0pFeTdzdlNRR2NuT3FGTkhQb3BvVzBuT1RQTkduZlVoUkhEVUNTT0FjbW55Zw?oc=5",
       "site": "sd.chinanews.com.cn",
       "siteUrl": "https://www.sd.chinanews.com.cn",
-      "related": 18
+      "related": 19
     },
     {
       "id": "FL-49dcf83adb13",
