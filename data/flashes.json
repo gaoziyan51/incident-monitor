@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T15:20:24.370Z",
+  "updated": "2026-09-13T15:36:37.518Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -256,18 +256,6 @@
       "siteUrl": "https://i.ifeng.com"
     },
     {
-      "id": "FL-b1a71e52826e",
-      "date": "2026-09-13",
-      "dateISO": "Sun, 13 Sep 2026 13:26:00 GMT",
-      "ts": 1789305960000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "特大暴雨来了！海南多地停课 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yd3hYODlaUUVoZXpqVXc5NHRNeVhpNUpMa18zSm5oQU96NnFVdW1DVHBteWx5bmNWUEdrOXkyRUFfRUxMQ3RIRkFDc1d1VWowTU9LTkFCXy1FNDVUM01QMUlKTkxoVTVtUlh0SjRnbWxsdE5Dcnc?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
-    },
-    {
       "id": "FL-149f2c3e6657",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 12:46:56 GMT",
@@ -292,15 +280,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-c94dbfefcbc9",
+      "id": "FL-ba3e0397aefc",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 10:57:00 GMT",
       "ts": 1789297020000,
       "scope": "dom",
       "type": "other",
-      "title": "河北涉县一限高杆断裂倒塌 官方：未造成人员伤亡 - hb.dzwww.com",
+      "title": "河北涉县一限高杆断裂倒塌 官方：未造成人员伤亡 - 海报新闻",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OODZ6bVhSWVkwOE8tbmNWQ2paNzM0SFJoOEdXNVJCTnc5a3dGS0lxZURKTUgtZlNSVDNDSmJiZnJuTXRYWDZLR2gySWFqT1k?oc=5",
-      "site": "hb.dzwww.com",
+      "site": "海报新闻",
       "siteUrl": "https://hb.dzwww.com"
     },
     {
@@ -326,6 +314,18 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBadGNNc0VuZ0JhVE00YzZyODUxa21yUGpGQWlQMjlkLTVPVlhmRF9iLTk5Z0NaTDdIamJxeUZlZ3Fyck1kTWpzemhsWElkZ0RCVGdKNEM5blhwV1E2WWZNTzNyRE1ZVUw5ZDUyeHhCSU9ucGs?oc=5",
       "site": "新浪军事",
       "siteUrl": "https://mil.news.sina.com.cn"
+    },
+    {
+      "id": "FL-c6f2221d4c39",
+      "date": "2026-09-13",
+      "dateISO": "Sun, 13 Sep 2026 09:37:32 GMT",
+      "ts": 1789292252000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "遇到泥石流，怎么办？ - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSUM2QkZTeDVUVjRlbF9fdHQ2RnhoSFZ6MjBqLTQxVjFmdDVqWG92QW5VM3NlQWE4WUttNlFuM1Vncm5NQjNMRU9kcHZoTENvTV9nQkpSMGdpMjJjdm1QSzFNejhuNDJQdk4tZUFjMTR2VUU2TzM1U1BXeTVadDJvT3JhUVliaVdYTm1mYw?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-5d1d6701e5ad",
