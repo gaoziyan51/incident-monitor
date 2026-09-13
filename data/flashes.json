@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T16:37:40.253Z",
+  "updated": "2026-09-13T16:48:12.075Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,39 +15,27 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-dbaf6cd415cc",
-      "date": "2026-08-26",
-      "dateISO": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "ts": 1787727600000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "强降雨致广西多地发生洪涝灾害，解放军和武警部队官兵、民兵持续展开救援 - 国防部网",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vd0VzRncydXJUemRMbXhJaks0eWE0b0VoWTY4VXVJQmxSUTU2TGdpaHRqOXh4VVRyU0tlTks0MjZZeUhZR2R1SEdUdEVBZHBoRk5EVDFweDZtMURf?oc=5",
-      "site": "国防部网",
-      "siteUrl": "http://www.mod.gov.cn"
-    },
-    {
-      "id": "FL-767598e6cf26",
+      "id": "FL-677dc499b4ba",
       "date": "2026-09-09",
       "dateISO": "Wed, 09 Sep 2026 08:47:00 GMT",
       "ts": 1788943620000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1374人 - thecover.cn",
+      "title": "尼泊尔泥石流灾害遇难人数升至1374人 - 封面新闻",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zVXZBNHFBdWFOQlRXOUc3QmRyZDVJUnBQS1ZyMkFNTXUwd0NnbXZGNGZjNVNWZW43LTFVeXZhQmczcVBLSFBlTWZ3VjBud0VudW1JNmdoaDdFckptc01nSWI0dVBLTS1MR1ByMUhRbW52RmFCUXlN?oc=5",
-      "site": "thecover.cn",
+      "site": "封面新闻",
       "siteUrl": "https://m.thecover.cn"
     },
     {
-      "id": "FL-b701685ac888",
+      "id": "FL-b161f3689ead",
       "date": "2026-09-02",
       "dateISO": "Wed, 02 Sep 2026 07:00:00 GMT",
       "ts": 1788332400000,
       "scope": "intl",
       "type": "geo",
-      "title": "特写丨中尼合作在尼泊尔泥石流灾区开展救援 - 新华网",
+      "title": "特写丨中尼合作在尼泊尔泥石流灾区开展救援 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJTjFVWG1VZWZ2LWlpeGctVmVDajFHVTlCdmpOTUI5bXVjNVhqTUozejl5MGtOUk5IS2NBR3R6dFREUENHRGFqb0J3cUQ2T2dIbW1sTU0wNHFjLW56Vl9MOWJkalVfc3NBcHpMTG96WGp6ZjBnYWxGaHhzRFM5NlU?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -63,15 +51,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-f36d5f7df412",
+      "id": "FL-aa78e80e5b7d",
       "date": "2026-09-08",
       "dateISO": "Tue, 08 Sep 2026 12:07:03 GMT",
       "ts": 1788869223000,
       "scope": "dom",
       "type": "geo",
-      "title": "江西遂川高坪镇泥石流已致12人遇难 - 新华网",
+      "title": "江西遂川高坪镇泥石流已致12人遇难 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZVRUeFdqQkVsaEJJWU5vSmNZZXh4VHdKb3lVX0NqdTFkbDRSMlFpbXYzMTRzTVlNLXF1cXBPV2JaZlhCbDBiWXpiWk9Jb0lXLW04Zk8xWXNFNjFXTzNISGlOWXhqVUtjRkpROGFsT1g5ZEpHeEszR3NZTE1RYTJ2UGhzSQ?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -111,15 +99,15 @@
       "siteUrl": "https://news.un.org"
     },
     {
-      "id": "FL-1197ee09fcb0",
+      "id": "FL-18ed16b30a5c",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 15:56:00 GMT",
       "ts": 1789055760000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1385人 - thecover.cn",
+      "title": "尼泊尔泥石流灾害遇难人数升至1385人 - 封面新闻",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50QU81cW94T1U0MzNWWEIyV0t5WmVCMDF1ZXU4R1FDZ0s3bTdjbnRxZUw0YXJZTHIxak1QS0x6UEZ6R2xHc2FJU0F6QTlpUldmQmVDWVdKRy1pbXI4c3dCYmJsX29OcWlyejdCUWhob2JBYXdOSThv?oc=5",
-      "site": "thecover.cn",
+      "site": "封面新闻",
       "siteUrl": "https://m.thecover.cn"
     },
     {
@@ -147,27 +135,27 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-e6eef2edba42",
+      "id": "FL-02a4c49042bb",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 14:37:00 GMT",
       "ts": 1789051020000,
       "scope": "intl",
       "type": "geo",
-      "title": "以色列猛烈轰炸，引发4.1级地震 - cls.cn",
+      "title": "以色列猛烈轰炸，引发4.1级地震 - 财联社",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9yVzNTWFFwS3EwMUdBUy1fWFFud3dDdTlObnFrWURWTnJJUF9LMmxicGpZRHExVEFDQzNPa3cydm1lTnBQOFE?oc=5",
-      "site": "cls.cn",
+      "site": "财联社",
       "siteUrl": "https://m.cls.cn"
     },
     {
-      "id": "FL-63616eb5470d",
+      "id": "FL-7bc3fac03844",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 14:23:56 GMT",
       "ts": 1789050236000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1382人遇难 - 央广网",
+      "title": "尼泊尔泥石流灾害已致1382人遇难 - cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kNS1nM3Z2T2poT0ZEeWdLM2JibmRJUXZPZ240SnNYc1M5czFneWlJYnk1M0hoVzgtYXlJV2M2QU4zYzdWR2xveHhDTnUzcXh0RTliMUVMU2JwaGtTR25QXzNrY2NvclFsUjRPUzNNUFF0bzBKanc?oc=5",
-      "site": "央广网",
+      "site": "cnr.cn",
       "siteUrl": "https://www.cnr.cn"
     },
     {
@@ -183,15 +171,15 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-20065abd257a",
+      "id": "FL-7a74c89379e3",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 11:10:00 GMT",
       "ts": 1789038600000,
       "scope": "dom",
       "type": "geo",
-      "title": "云南彝良一路段发生山体滑坡泥石流：无人员伤亡，正统计受灾损失 - 新京报",
+      "title": "云南彝良一路段发生山体滑坡泥石流：无人员伤亡，正统计受灾损失 - bjnews.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85Z3NWOHRXSFhtV0hod2Vyak52VDVDSXJteF8xY2hKOTUxb21HV1lEaEhmZFlDUnBQckNtN1JpeG9JZHNpSlpONDVOd3NFOTc4Uk1lQkNBeE5VVkEyNUQwRmpjdTI?oc=5",
-      "site": "新京报",
+      "site": "bjnews.com.cn",
       "siteUrl": "https://www.bjnews.com.cn"
     },
     {
@@ -201,11 +189,11 @@
       "ts": 1789013919000,
       "scope": "dom",
       "type": "geo",
-      "title": "习近平对西藏日喀则市吉隆县遭受泥石流灾害作出重要指示 - 新京报",
+      "title": "习近平对西藏日喀则市吉隆县遭受泥石流灾害作出重要指示 - bjnews.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IRXVLRTR4WllScXRvU3JNenNpaWppamJiX0lWUUlhamFPeTk3YWV1WTdfYk02djVuWVA2RWF5UnkxaGRIVVoxZWlXUE1meFdrVGVQRVZlT25rTkxOcVQ2UjRR?oc=5",
-      "site": "新京报",
+      "site": "bjnews.com.cn",
       "siteUrl": "https://m.bjnews.com.cn",
-      "related": 39
+      "related": 38
     },
     {
       "id": "FL-861987facab4",
@@ -232,16 +220,28 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-95cf74f3e9e4",
+      "id": "FL-e4817d4605e3",
       "date": "2026-08-30",
       "dateISO": "Sun, 30 Aug 2026 07:00:00 GMT",
       "ts": 1788073200000,
       "scope": "intl",
       "type": "geo",
-      "title": "现场直击丨尼泊尔泥石流灾区见闻 - 新华网",
+      "title": "现场直击丨尼泊尔泥石流灾区见闻 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PYUIyNEpIQ1BCa3FiWHkyN21PQTdwZUVOdTI3TmtLZ1RTMnA1WDQ1TGwzdnRfcTRJQTlHV1htQWVHOUpTNmJEb2Rmb1NjRFc5Yk4tOFNadGN6Q1VBRUJTd3k5QXpOXy1zU2ZzcU10TWg4dDRYRFJlYkExXzdUVUk?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-11d666b0c5f2",
+      "date": "2026-09-13",
+      "dateISO": "Sun, 13 Sep 2026 16:17:00 GMT",
+      "ts": 1789316220000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "特大暴雨来了，多地停课，部分景区暂停营业！ - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Ha0ZpZkpQRC1RbmZpMUxaN01MbzQ3bU16bl9UYnpnLWxXYlFiMFV4Wk9MWk92OUJlcmFGMVhoZjNja215RnpyZTEyNVh4WWdtVDljUVZkNF9WOG5LaGFKTlNYOHpBLUg0aHpwN0d1ZXRzVmc3bEdiQg?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-3eb8beb2776d",
@@ -280,15 +280,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-ba3e0397aefc",
+      "id": "FL-c94dbfefcbc9",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 10:57:00 GMT",
       "ts": 1789297020000,
       "scope": "dom",
       "type": "other",
-      "title": "河北涉县一限高杆断裂倒塌 官方：未造成人员伤亡 - 海报新闻",
+      "title": "河北涉县一限高杆断裂倒塌 官方：未造成人员伤亡 - hb.dzwww.com",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OODZ6bVhSWVkwOE8tbmNWQ2paNzM0SFJoOEdXNVJCTnc5a3dGS0lxZURKTUgtZlNSVDNDSmJiZnJuTXRYWDZLR2gySWFqT1k?oc=5",
-      "site": "海报新闻",
+      "site": "hb.dzwww.com",
       "siteUrl": "https://hb.dzwww.com"
     },
     {
@@ -364,15 +364,15 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-7710eb1dd960",
+      "id": "FL-3d35650ba4e9",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 04:55:52 GMT",
       "ts": 1789275352000,
       "scope": "intl",
       "type": "geo",
-      "title": "圣何塞地震1-0休斯敦迪纳摩，丹尼尔-穆涅制胜球 - dongqiudi.com",
+      "title": "圣何塞地震1-0休斯敦迪纳摩，丹尼尔-穆涅制胜球 - 懂球帝",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKR09zQnNWZEItaGQyUFhnUVhIMXk1WEhJWVc0azVYTVU2YTUzQ0FYaTRFRnFZSDM1Q2MxUExQWHNHLVd1VndPemtQRUh2VWlxWnctN3JGaw?oc=5",
-      "site": "dongqiudi.com",
+      "site": "懂球帝",
       "siteUrl": "https://m.dongqiudi.com"
     },
     {
@@ -448,27 +448,27 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-446caeec2e00",
+      "id": "FL-0bb4cb5d3816",
       "date": "2026-09-06",
       "dateISO": "Sun, 06 Sep 2026 05:15:14 GMT",
       "ts": 1788671714000,
       "scope": "dom",
       "type": "geo",
-      "title": "湖南桂东强降雨引发山体滑坡！救援队正争分夺秒抢通S315生命线 - stdaily.com",
+      "title": "湖南桂东强降雨引发山体滑坡！救援队正争分夺秒抢通S315生命线 - 中国科技网",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mS0ZRT2QzNVd0N29ZZ3ZIWk9xUTBZZjlscFpuZVVGMFVRQkZYQWktZXFScVpwdHRaaVZzYUFQbjNacENkZUFYLU1rYS1xM0RScHdJSjFBenZxRmd3eUdrLVJ2ZzVRbFF0NkZnTGNiVEk?oc=5",
-      "site": "stdaily.com",
+      "site": "中国科技网",
       "siteUrl": "https://www.stdaily.com"
     },
     {
-      "id": "FL-f7114b7746fb",
+      "id": "FL-14fe7fc19d62",
       "date": "2026-08-29",
       "dateISO": "Sat, 29 Aug 2026 07:00:00 GMT",
       "ts": 1787986800000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流已致626人死亡 2426人失联 - 新华网",
+      "title": "尼泊尔泥石流已致626人死亡 2426人失联 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PYjVKWUZ4T2psOVJsenNtWWs4WFNGcmZVakNzS21POTdVeGJHMWg2c1NYNDBjUjFwUFh5bHBueVFneTN5VmFCMXlIQjVjZXQ1dDh3QzF2Ry1HeFlZN2tydnNqV0tEcnhNZDA2aDRZWHkzeHFuZG54UFpXZ2V2OTA?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -496,15 +496,15 @@
       "siteUrl": "https://news.youth.cn"
     },
     {
-      "id": "FL-a8bb39da1317",
+      "id": "FL-542ffe023f0a",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 01:33:21 GMT",
       "ts": 1789176801000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1386人 失联5130人 - 央广网",
+      "title": "尼泊尔泥石流灾害遇难人数升至1386人 失联5130人 - cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IVHlwaFRUODV3Zk82S2kwRVB1UFdXZWpSOUNuVHdSRFRqWkptX0Uzdko2clBvN1FXc2ZhYzF0UDV6VGFFcm5xWjJLRW1ra2RDWE0xcnlWTzVqcDdCcDZPLWxRU3kzRjFXYVdLdC1wZGNuSUtPQXc?oc=5",
-      "site": "央广网",
+      "site": "cnr.cn",
       "siteUrl": "https://www.cnr.cn"
     },
     {
@@ -544,15 +544,15 @@
       "siteUrl": "https://m.voc.com.cn"
     },
     {
-      "id": "FL-9ea9fa63890c",
+      "id": "FL-705700278b60",
       "date": "2026-09-05",
       "dateISO": "Sat, 05 Sep 2026 09:42:57 GMT",
       "ts": 1788601377000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害中1名受困中国公民获救 - stdaily.com",
+      "title": "尼泊尔泥石流灾害中1名受困中国公民获救 - 中国科技网",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91a2hpUEUwOUx0Wmg0XzNqdDUwb0pzY3JBT1JoRmJibXZjSW9qT1pIaG9xUlVhaVlhZ2dtZGZGejNKV2dJdkd2X25uYi1Qc2QwLS1wNmJ1Qms5d2J3cVFKOHh1U2ROX2ZYd3lhZy1WaWY?oc=5",
-      "site": "stdaily.com",
+      "site": "中国科技网",
       "siteUrl": "https://www.stdaily.com"
     },
     {
@@ -580,18 +580,6 @@
       "siteUrl": "https://cn.chinadiplomacy.org.cn"
     },
     {
-      "id": "FL-195507ece114",
-      "date": "2026-08-17",
-      "dateISO": "Mon, 17 Aug 2026 07:00:00 GMT",
-      "ts": 1786950000000,
-      "scope": "intl",
-      "type": "weather",
-      "title": "菲律宾首都及十余省因强降雨停课 超500万人受灾 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRdkdNRW40SVVjT0YzYmhnY1N6Wk9ObExwaXNqSG9MVk15SDlfNjd0cFJTb3p0S1B1MnhBbGIycjhwMmViV2tpeVZNbUl0NmtvMkxNMmo2ZlpCSjQwZHJPSTkwcTdtRzY0UVZkejJhZ2d6Z0F6QnJXUXBaT0VVb2M?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
       "id": "FL-e8a32a183e42",
       "date": "2026-08-28",
       "dateISO": "Fri, 28 Aug 2026 07:00:00 GMT",
@@ -616,6 +604,18 @@
       "siteUrl": "http://paper.people.com.cn"
     },
     {
+      "id": "FL-4f77d5627e46",
+      "date": "2026-08-28",
+      "dateISO": "Fri, 28 Aug 2026 07:00:00 GMT",
+      "ts": 1787900400000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "法国地质学家 ：喜马拉雅山地海啸原因在于基岩不稳定而并非冰川 - RFI",
+      "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQSVNraUhPdk9iUmJzMDJZY1AxUGFfWFRLM2tkakdLNDFpLXQ3V1U5b0RPOF9RRWM4UWdEbHJmMm16aF9LdF9oeTF1M1pEbF9IX2ZVdF93U0NrZjFlU0dGdlh6bUlsekZQQTNWdV9SSlVoaUF5a29CT3k1WDhpcmY5bFNod0JXZ0xKNHZZeF9mb0owVDlfbGxsMmpRUkQyNDh2N2d3MzlDdEtWUzNUNnhGVFMzYllYaEwzUDRveF8tcDh6aEM4aGpsUWRDT081ZGc3MmxkOVcyN3pveGdEVkdoX2FPQ0pHUnozOG8yNHZkR1E0ekZrakgzT2YwMjBZWTBucUpYa0VCc0N6YV9xNGVsQThtdFBlREliekwzdTRPZnpYS00wVlo3NE1Lc1VrZzVuUFkycl9wazlGLXFwN0hjNzBzc3ZOUTh0UW1xd1I4NnVNXzJNcU5lR1hnWmMzeUhlc2U0bENfR3RNSkEzZTQwdm5JcjA?oc=5",
+      "site": "RFI",
+      "siteUrl": "https://www.rfi.fr"
+    },
+    {
       "id": "FL-11672a3a9fa2",
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 22:48:57 GMT",
@@ -628,15 +628,15 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-5e84fe2ab2e4",
+      "id": "FL-d8440c5a7841",
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 21:52:47 GMT",
       "ts": 1789163567000,
       "scope": "intl",
       "type": "geo",
-      "title": "05:51:49【印尼爪哇海附近发生6.2级左右地震】 - cls.cn",
+      "title": "05:51:49【印尼爪哇海附近发生6.2级左右地震】 - 财联社",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE13YlU4SWNwbllxX0hqQmZQalhMVkxHNmtrN05wX1pkdWlsQWRaNGNmdFpUYnRlNGpkNDhfZi1yRDVURnNoUzRybQ?oc=5",
-      "site": "cls.cn",
+      "site": "财联社",
       "siteUrl": "https://www.cls.cn"
     },
     {
@@ -710,7 +710,7 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WT3lXY3pNQmR2YjZFV3dnS0NoZmdScUpzOW1lNXBCOWJjakk3cFByZTJRRjRVaU1lU0pFeTdzdlNRR2NuT3FGTkhQb3BvVzBuT1RQTkduZlVoUkhEVUNTT0FjbW55Zw?oc=5",
       "site": "sd.chinanews.com.cn",
       "siteUrl": "https://www.sd.chinanews.com.cn",
-      "related": 15
+      "related": 16
     },
     {
       "id": "FL-49dcf83adb13",
