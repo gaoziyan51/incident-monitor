@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T16:22:01.988Z",
+  "updated": "2026-09-13T16:37:40.253Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -63,6 +63,18 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
+      "id": "FL-f36d5f7df412",
+      "date": "2026-09-08",
+      "dateISO": "Tue, 08 Sep 2026 12:07:03 GMT",
+      "ts": 1788869223000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "江西遂川高坪镇泥石流已致12人遇难 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZVRUeFdqQkVsaEJJWU5vSmNZZXh4VHdKb3lVX0NqdTFkbDRSMlFpbXYzMTRzTVlNLXF1cXBPV2JaZlhCbDBiWXpiWk9Jb0lXLW04Zk8xWXNFNjFXTzNISGlOWXhqVUtjRkpROGFsT1g5ZEpHeEszR3NZTE1RYTJ2UGhzSQ?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
       "id": "FL-eb9229a7355e",
       "date": "2026-09-01",
       "dateISO": "Tue, 01 Sep 2026 07:00:00 GMT",
@@ -87,18 +99,6 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-2b7ad983a54d",
-      "date": "2026-09-01",
-      "dateISO": "Tue, 01 Sep 2026 07:00:00 GMT",
-      "ts": 1788246000000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "环保天地 - 法国专家：为何有必要强调尼泊尔泥石流的核心诱因是山崩而非冰崩 - RFI",
-      "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxQbWZHTmY3d084b1hBdXo3bFNpN3dERThOOTBmZFBINUxXRWdRYWNpdmJQYWdrSkRiVFh6VkFkRnVGSjRCSEs5bGNQVWRJZDEzOGlhUXQ1WTdGc0lxVDVjemFUalRGXzZ1SDNNT19VblpnbmszNkNjNnYtQjVxamdQd1BlakYtTU5uTDd2emUzeTk4ZXN3dDRBVlZzWm96bTJ0c2lWR29kYkpBNVY2WUtENmFhYUNSYU9TZGY0d0VTdGJ1Nzk1RTdzMS1YYXFWX05BcjUtZDNNUGdQWS1lcTB0ZzEzVzFZV2lrVUxfckRoWjdQNjEwZDZxV2dqXzVqeFpoU2hHVWpWaVBLcWxjUF9oTHdibVRjcVRVZE1MY0tOOFBLTGUta196WnJOM0pTbzhjbFRPWWlGQXc1S3JGR1VBWlBuLW8wWm1QajhjbTJxVml3N05wTjR1NWdSN3dLOUc0eGxJWFVmdVNtakJjc2Myb2N1d1FpWlZ2RU1RUTVPTGZlTmpvcW9Zdk9tTlE1cFVocWdPVjdNaEpERktrSEZUMHJDbnU0dzNrdlRKUkNmbUd6Y3pZa3YxRjc2Y3FiM19DZXcteU5SMGlkeW5xNWw0NjRiV2hLaEVBZnFpS0R0cS1mU04wMkdsclJnQnlEa05nSDhnQWlSbFZOY0liUlF2eHE3WUR2Zw?oc=5",
-      "site": "RFI",
-      "siteUrl": "https://www.rfi.fr"
-    },
-    {
       "id": "FL-a2237798f821",
       "date": "2026-08-20",
       "dateISO": "Thu, 20 Aug 2026 07:00:00 GMT",
@@ -111,16 +111,16 @@
       "siteUrl": "https://news.un.org"
     },
     {
-      "id": "FL-354ad3889d4c",
+      "id": "FL-1197ee09fcb0",
       "date": "2026-09-10",
-      "dateISO": "Thu, 10 Sep 2026 21:25:53 GMT",
-      "ts": 1789075553000,
+      "dateISO": "Thu, 10 Sep 2026 15:56:00 GMT",
+      "ts": 1789055760000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1374人 - 新浪新闻_手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQncxTG1uTkowQnlxM1pVa3dYcmxPcUJ6NEFMU203Z08tSnU0Q3AxZ2tFaWFXQms5aW9SeW44RmtiOWozTTJCLUIyMkxOMV9qc01lZmxTbC0zeE0xTWFlcGFvUXRkV193OEp1dTVWRmwzWXl4VVJDQWg4MEJESkZsdDRmM2JQOU11Tm5xeVZYQ1dOeFVIVkJCU0pPUmpXZWVNN0FYSERpekM3UUViWlhwV240OFlVVi10WVg1WFRibDgteGczc0FMWmZ3?oc=5",
-      "site": "新浪新闻_手机新浪网",
-      "siteUrl": "https://news.sina.com.cn"
+      "title": "尼泊尔泥石流灾害遇难人数升至1385人 - thecover.cn",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50QU81cW94T1U0MzNWWEIyV0t5WmVCMDF1ZXU4R1FDZ0s3bTdjbnRxZUw0YXJZTHIxak1QS0x6UEZ6R2xHc2FJU0F6QTlpUldmQmVDWVdKRy1pbXI4c3dCYmJsX29OcWlyejdCUWhob2JBYXdOSThv?oc=5",
+      "site": "thecover.cn",
+      "siteUrl": "https://m.thecover.cn"
     },
     {
       "id": "FL-e0b20b7e83b1",
@@ -166,20 +166,32 @@
       "scope": "intl",
       "type": "geo",
       "title": "尼泊尔泥石流灾害已致1382人遇难 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yTVR2OE40OXNCTlpXR2FyR2hncU5haXBVOThJM1VqM2xKYjRMS043Z1c4ZjFUWDA1WVM0QkZkZXFQY1BjOW9Zdjd4MEV5QnlGRVh6WGkyV2t1SHRWc2MzcEp4MXcyV0la?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kNS1nM3Z2T2poT0ZEeWdLM2JibmRJUXZPZ240SnNYc1M5czFneWlJYnk1M0hoVzgtYXlJV2M2QU4zYzdWR2xveHhDTnUzcXh0RTliMUVMU2JwaGtTR25QXzNrY2NvclFsUjRPUzNNUFF0bzBKanc?oc=5",
       "site": "央广网",
-      "siteUrl": "https://news.cnr.cn"
+      "siteUrl": "https://www.cnr.cn"
     },
     {
-      "id": "FL-7a74c89379e3",
+      "id": "FL-e18a0a48aa63",
+      "date": "2026-09-10",
+      "dateISO": "Thu, 10 Sep 2026 12:28:36 GMT",
+      "ts": 1789043316000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "云南丽江市古城区发生3.0级地震，震源深度8千米 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SRWhKckEyZjI2SnEwbnhPQngzRjIzMHo0NTBSVjY4TFQwN1IzWE8tamtKeGNxSVUxWC1TNVpIWEp0NkhabUdYVkpYSUxvQ08yMzB3UlRfYVJpS2lLbWVMRmE3SzRkYUQzc1JGYVVzMkFjODc3Y2p0aQ?oc=5",
+      "site": "央视网",
+      "siteUrl": "https://news.cctv.com"
+    },
+    {
+      "id": "FL-20065abd257a",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 11:10:00 GMT",
       "ts": 1789038600000,
       "scope": "dom",
       "type": "geo",
-      "title": "云南彝良一路段发生山体滑坡泥石流：无人员伤亡，正统计受灾损失 - bjnews.com.cn",
+      "title": "云南彝良一路段发生山体滑坡泥石流：无人员伤亡，正统计受灾损失 - 新京报",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85Z3NWOHRXSFhtV0hod2Vyak52VDVDSXJteF8xY2hKOTUxb21HV1lEaEhmZFlDUnBQckNtN1JpeG9JZHNpSlpONDVOd3NFOTc4Uk1lQkNBeE5VVkEyNUQwRmpjdTI?oc=5",
-      "site": "bjnews.com.cn",
+      "site": "新京报",
       "siteUrl": "https://www.bjnews.com.cn"
     },
     {
@@ -189,9 +201,9 @@
       "ts": 1789013919000,
       "scope": "dom",
       "type": "geo",
-      "title": "习近平对西藏日喀则市吉隆县遭受泥石流灾害作出重要指示 - bjnews.com.cn",
+      "title": "习近平对西藏日喀则市吉隆县遭受泥石流灾害作出重要指示 - 新京报",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IRXVLRTR4WllScXRvU3JNenNpaWppamJiX0lWUUlhamFPeTk3YWV1WTdfYk02djVuWVA2RWF5UnkxaGRIVVoxZWlXUE1meFdrVGVQRVZlT25rTkxOcVQ2UjRR?oc=5",
-      "site": "bjnews.com.cn",
+      "site": "新京报",
       "siteUrl": "https://m.bjnews.com.cn",
       "related": 39
     },
@@ -352,15 +364,15 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-3d35650ba4e9",
+      "id": "FL-7710eb1dd960",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 04:55:52 GMT",
       "ts": 1789275352000,
       "scope": "intl",
       "type": "geo",
-      "title": "圣何塞地震1-0休斯敦迪纳摩，丹尼尔-穆涅制胜球 - 懂球帝",
+      "title": "圣何塞地震1-0休斯敦迪纳摩，丹尼尔-穆涅制胜球 - dongqiudi.com",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKR09zQnNWZEItaGQyUFhnUVhIMXk1WEhJWVc0azVYTVU2YTUzQ0FYaTRFRnFZSDM1Q2MxUExQWHNHLVd1VndPemtQRUh2VWlxWnctN3JGaw?oc=5",
-      "site": "懂球帝",
+      "site": "dongqiudi.com",
       "siteUrl": "https://m.dongqiudi.com"
     },
     {
@@ -602,18 +614,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wVUROYWpQa1YzUGZEYzZWLXRZNWF4ck5FV281OC1DOEFMWDZBV2xyQXoxUHZ4SU5HbjRXcnZFZ2VYYWtWV2dEQUUyTE1WdEJaRXFhamNubndKc0dlZjZNRGZDNEhEY0tZd0w1REx2WGVhbmhQYy1DQ2RyXzZzTlU?oc=5",
       "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn"
-    },
-    {
-      "id": "FL-4f77d5627e46",
-      "date": "2026-08-28",
-      "dateISO": "Fri, 28 Aug 2026 07:00:00 GMT",
-      "ts": 1787900400000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "法国地质学家 ：喜马拉雅山地海啸原因在于基岩不稳定而并非冰川 - RFI",
-      "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQSVNraUhPdk9iUmJzMDJZY1AxUGFfWFRLM2tkakdLNDFpLXQ3V1U5b0RPOF9RRWM4UWdEbHJmMm16aF9LdF9oeTF1M1pEbF9IX2ZVdF93U0NrZjFlU0dGdlh6bUlsekZQQTNWdV9SSlVoaUF5a29CT3k1WDhpcmY5bFNod0JXZ0xKNHZZeF9mb0owVDlfbGxsMmpRUkQyNDh2N2d3MzlDdEtWUzNUNnhGVFMzYllYaEwzUDRveF8tcDh6aEM4aGpsUWRDT081ZGc3MmxkOVcyN3pveGdEVkdoX2FPQ0pHUnozOG8yNHZkR1E0ekZrakgzT2YwMjBZWTBucUpYa0VCc0N6YV9xNGVsQThtdFBlREliekwzdTRPZnpYS00wVlo3NE1Lc1VrZzVuUFkycl9wazlGLXFwN0hjNzBzc3ZOUTh0UW1xd1I4NnVNXzJNcU5lR1hnWmMzeUhlc2U0bENfR3RNSkEzZTQwdm5JcjA?oc=5",
-      "site": "RFI",
-      "siteUrl": "https://www.rfi.fr"
     },
     {
       "id": "FL-11672a3a9fa2",
