@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T07:32:32.222Z",
+  "updated": "2026-09-13T07:45:50.690Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -135,16 +135,16 @@
       "siteUrl": "https://m.cls.cn"
     },
     {
-      "id": "FL-7bc3fac03844",
+      "id": "FL-63616eb5470d",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 14:23:56 GMT",
       "ts": 1789050236000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1382人遇难 - cnr.cn",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kNS1nM3Z2T2poT0ZEeWdLM2JibmRJUXZPZ240SnNYc1M5czFneWlJYnk1M0hoVzgtYXlJV2M2QU4zYzdWR2xveHhDTnUzcXh0RTliMUVMU2JwaGtTR25QXzNrY2NvclFsUjRPUzNNUFF0bzBKanc?oc=5",
-      "site": "cnr.cn",
-      "siteUrl": "https://www.cnr.cn"
+      "title": "尼泊尔泥石流灾害已致1382人遇难 - 央广网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yTVR2OE40OXNCTlpXR2FyR2hncU5haXBVOThJM1VqM2xKYjRMS043Z1c4ZjFUWDA1WVM0QkZkZXFQY1BjOW9Zdjd4MEV5QnlGRVh6WGkyV2t1SHRWc2MzcEp4MXcyV0la?oc=5",
+      "site": "央广网",
+      "siteUrl": "https://news.cnr.cn"
     },
     {
       "id": "FL-e18a0a48aa63",
@@ -205,7 +205,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IRXVLRTR4WllScXRvU3JNenNpaWppamJiX0lWUUlhamFPeTk3YWV1WTdfYk02djVuWVA2RWF5UnkxaGRIVVoxZWlXUE1meFdrVGVQRVZlT25rTkxOcVQ2UjRR?oc=5",
       "site": "新京报",
       "siteUrl": "https://m.bjnews.com.cn",
-      "related": 38
+      "related": 39
     },
     {
       "id": "FL-861987facab4",
@@ -254,6 +254,18 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZEpFUGh1TE5wU2VieU9lcUNhd2JZX1lieWd4THk3S0pZalhEdWd2Tng1enNoTmR5R1VOWUN2XzUyZDIxdGh6OVBnLUJuOFBJR2RDUGpUbHZESGlJdVIxdV91YXM2U2lHTXdBZHdTeXBWemdMcnA0azYwbldhOHkwUE9oUzY?oc=5",
       "site": "Sina Sports",
       "siteUrl": "https://sports.sina.cn"
+    },
+    {
+      "id": "FL-87503c847b8f",
+      "date": "2026-09-13",
+      "dateISO": "Sun, 13 Sep 2026 06:35:28 GMT",
+      "ts": 1789281328000,
+      "scope": "dom",
+      "type": "other",
+      "title": "受强降水影响，海南多地学校停课景点关闭 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11WGdNcFp2QVFzU3ZxUHV4ZkNjRWI1V2VEbkNNZlo5NXRSZTZFekpBU1l6Y0d0LXd4Q1VSRV96a2Q0amktU1NYOW81THhucWpvTEczXzhJQlVQMy0xSVE?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn"
     },
     {
       "id": "FL-022e18ce3e6a",
@@ -436,18 +448,6 @@
       "siteUrl": "https://jx.ifeng.com"
     },
     {
-      "id": "FL-a2311a0a4e19",
-      "date": "2026-09-12",
-      "dateISO": "Sat, 12 Sep 2026 07:51:35 GMT",
-      "ts": 1789199495000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "视频丨低风险区突发泥石流 灾害频频“越界”给我们哪些警示 - 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOR1N2Zk9ISlJmenpRSG5fRUpQZzYxMjRPeERJb1k3UkszVk1GcEh6YzUydFI1b25sVWE3YjAtU3R6Vl9ZdzZYYnJEdWJHd01faDdkVWhqQ0I3eEhNemdWbE9wN3h4bEtqWVRFeWxLNDg4LS05RmVwaldNZkR3M3l4YQ?oc=5",
-      "site": "新浪网",
-      "siteUrl": "https://k.sina.com.cn"
-    },
-    {
       "id": "FL-84bc6e677b04",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 02:57:55 GMT",
@@ -472,16 +472,16 @@
       "siteUrl": "https://news.youth.cn"
     },
     {
-      "id": "FL-542ffe023f0a",
+      "id": "FL-a8bb39da1317",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 01:33:21 GMT",
       "ts": 1789176801000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1386人 失联5130人 - cnr.cn",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IVHlwaFRUODV3Zk82S2kwRVB1UFdXZWpSOUNuVHdSRFRqWkptX0Uzdko2clBvN1FXc2ZhYzF0UDV6VGFFcm5xWjJLRW1ra2RDWE0xcnlWTzVqcDdCcDZPLWxRU3kzRjFXYVdLdC1wZGNuSUtPQXc?oc=5",
-      "site": "cnr.cn",
-      "siteUrl": "https://www.cnr.cn"
+      "title": "尼泊尔泥石流灾害遇难人数升至1386人 失联5130人 - 央广网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIRnZfUlA5VmJfRTZXRXN2bFJ6QTJ6WkFfRTVmLXNQamZiMFllWVktM2JzS3hEeUo1YmtJUGhwWHJHd2hHMnItSFpwbzhvb2hhTUo4WDVzTG03MGtucDlzV2JMdWRWcllq?oc=5",
+      "site": "央广网",
+      "siteUrl": "https://news.cnr.cn"
     },
     {
       "id": "FL-4d62c2e7f6e4",
@@ -496,16 +496,16 @@
       "siteUrl": "https://news.cnjiwang.com"
     },
     {
-      "id": "FL-fb448a3e9124",
-      "date": "2026-07-11",
-      "dateISO": "Sat, 11 Jul 2026 07:00:00 GMT",
-      "ts": 1783753200000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "“巴威”已重新增强为“强台风级”！苏州应急响应提升为Ⅲ级 - suzhou.gov.cn",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb09jY09WOHlCWU5PWkhlMy1EZmFiMVIxcms2UGtCQlBfbTBJd3A0THlOOHprR2lTNTFyT003UDYyUmJtdkR5NVpjTEdIMzNWLUMtYWZtUWx1cWxndVZOdjZjOXdOc0Z2ejNxR2p5ZHg1WExkaGNXaVFJb0Q5dWx4bG1YNUZiTGFudms4?oc=5",
-      "site": "suzhou.gov.cn",
-      "siteUrl": "http://www.suzhou.gov.cn"
+      "id": "FL-01e48f2ae3b7",
+      "date": "2026-09-12",
+      "dateISO": "Sat, 12 Sep 2026 01:06:42 GMT",
+      "ts": 1789175202000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害遇难人数升至1386人，失联5130人 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0ZmNTZlVXbF8zYjZ1bXhFMlVzY0lscEZ5NHNxYkdoWHRXUnJqdnRCRHB1WVpFQnRDM1I2ZDJIaHV4aElpNWlEd0RyUk5QbHpVeXlSaEVXU09oX2V4d1E?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn"
     },
     {
       "id": "FL-705700278b60",
@@ -580,18 +580,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-310c1137edae",
-      "date": "2026-09-07",
-      "dateISO": "Mon, 07 Sep 2026 14:50:00 GMT",
-      "ts": 1788792600000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "江西遂川高坪镇泥石流已致5人遇难 - 封面新闻",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGb0M0TmxfY01XUVpEeUlSYzlOZS0zWU5ORUk4bGhnTFJFNm1PanRPNGpDZDNfck5mMmhzN1BGZktTdjJURDNxNjVrdy1ETmx5T2pTQUhBVk1HNjl6ZE1Gc0lrc2hXYkpUNjU3bEFNSzJGeUtIZHg4?oc=5",
-      "site": "封面新闻",
-      "siteUrl": "https://m.thecover.cn"
-    },
-    {
       "id": "FL-e8a32a183e42",
       "date": "2026-08-28",
       "dateISO": "Fri, 28 Aug 2026 07:00:00 GMT",
@@ -652,6 +640,18 @@
       "siteUrl": "https://www.cls.cn"
     },
     {
+      "id": "FL-1b217b50e4cd",
+      "date": "2026-09-11",
+      "dateISO": "Fri, 11 Sep 2026 12:32:12 GMT",
+      "ts": 1789129932000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "印尼附近海域发生6.2级地震 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10WjRYREc5U01FaXl5bjc0bkMzTkxqbVVMdnRlR29DRDVURUdPM2tIbVB5V3lEMGdtck1ubkRNcjZpSHYwc3hGeHZuVTY3eThYWnl3TG5EekZLTVZlYkE?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
       "id": "FL-43f2dbee5f2a",
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 07:37:00 GMT",
@@ -710,7 +710,7 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WT3lXY3pNQmR2YjZFV3dnS0NoZmdScUpzOW1lNXBCOWJjakk3cFByZTJRRjRVaU1lU0pFeTdzdlNRR2NuT3FGTkhQb3BvVzBuT1RQTkduZlVoUkhEVUNTT0FjbW55Zw?oc=5",
       "site": "sd.chinanews.com.cn",
       "siteUrl": "https://www.sd.chinanews.com.cn",
-      "related": 18
+      "related": 19
     },
     {
       "id": "FL-49dcf83adb13",
