@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T13:45:21.044Z",
+  "updated": "2026-09-13T13:53:26.660Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -135,15 +135,15 @@
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
-      "id": "FL-ce673d3f04fd",
+      "id": "FL-7ab0bb23c0bb",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 15:18:54 GMT",
       "ts": 1789053534000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1382人遇难 - news.cctv.com",
+      "title": "尼泊尔泥石流灾害已致1382人遇难 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aVWFzenVvcDVzU1hONFVINmZ3cmZzOGpnVUI0MGFNUVQ1RnlnTlF6dkxseVZZaWFwcDlRQ1dmTG9keDQ3dU1kdzZqMDNJalk1Tk1XMUpfTWtQeW5tRW1mZXI4Y0d1d284bWxTdlJ1N0ZDdi1vbTUxQg?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -171,15 +171,15 @@
       "siteUrl": "https://www.cnr.cn"
     },
     {
-      "id": "FL-20364ec3db27",
+      "id": "FL-e18a0a48aa63",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 12:28:36 GMT",
       "ts": 1789043316000,
       "scope": "dom",
       "type": "geo",
-      "title": "云南丽江市古城区发生3.0级地震，震源深度8千米 - news.cctv.com",
+      "title": "云南丽江市古城区发生3.0级地震，震源深度8千米 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SRWhKckEyZjI2SnEwbnhPQngzRjIzMHo0NTBSVjY4TFQwN1IzWE8tamtKeGNxSVUxWC1TNVpIWEp0NkhabUdYVkpYSUxvQ08yMzB3UlRfYVJpS2lLbWVMRmE3SzRkYUQzc1JGYVVzMkFjODc3Y2p0aQ?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -205,7 +205,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IRXVLRTR4WllScXRvU3JNenNpaWppamJiX0lWUUlhamFPeTk3YWV1WTdfYk02djVuWVA2RWF5UnkxaGRIVVoxZWlXUE1meFdrVGVQRVZlT25rTkxOcVQ2UjRR?oc=5",
       "site": "新京报",
       "siteUrl": "https://m.bjnews.com.cn",
-      "related": 35
+      "related": 34
     },
     {
       "id": "FL-861987facab4",
@@ -688,16 +688,29 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-26a8fe1749ca",
+      "id": "FL-b2b6f1b4f078",
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 06:22:45 GMT",
       "ts": 1789107765000,
       "scope": "dom",
       "type": "geo",
-      "title": "河北唐山市丰南区发生2.5级地震，震源深度10千米 - news.cctv.com",
+      "title": "河北唐山市丰南区发生2.5级地震，震源深度10千米 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xNXU0YmZYYTk4Mlk2dTNCLWRfRW5CX21uNWFjUzYxMVU2MERVZDlIV1B3Y3d4Ml8yY2xxY1JmaXlHQ1c2MnpaQmE4Z09sY1BxRnFCX2pFekYtOG1sQ28xRFFEQ2J0VXBfbVhNU0tKWktEdEV1VUt2LQ?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
+    },
+    {
+      "id": "FL-EV-18d9b0620c3d",
+      "date": "2026-09-11",
+      "dateISO": "Fri, 11 Sep 2026 05:45:00 GMT",
+      "ts": 1789105500000,
+      "scope": "dom",
+      "type": "fire",
+      "title": "山东省委书记省长，赶赴青岛货轮火灾现场 - 新浪新闻_手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaW93UmVCeVBCWnd3QmZ5TXZMdUoyNlpQNzFwazZZYmFRSjhZTGdLSHE2Ty1CY0NPYWpBS0x1WUtNckpQaXEzWFZYd2VTV2FQd2FSejBnSDhCMG5PZHdQd0QwTldPNGlOR21mVWNDaXVjMGRFUDRaMUxNRlBuQkhFRnlLVkkxYXhGdWVZbDd4TDQ3cVRJQjJ5MA?oc=5",
+      "site": "新浪新闻_手机新浪网",
+      "siteUrl": "https://news.sina.cn",
+      "related": 16
     },
     {
       "id": "FL-49dcf83adb13",
@@ -710,19 +723,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hVk5ZY2p6T253d1QxelVVaU5VdUlJa3JqbVhmTkQzRml1dkdLeERVRXFOTHhVd3p5YXdILXJmOEV6Tm1lQWI1UWlOVldwZjNEUWJQbUJiZ1JGaXFuTDRVQUhnZjNPZDRG?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-EV-18d9b0620c3d",
-      "date": "2026-09-11",
-      "dateISO": "Fri, 11 Sep 2026 01:48:00 GMT",
-      "ts": 1789091280000,
-      "scope": "dom",
-      "type": "fire",
-      "title": "青岛货轮火灾致25人遇难 - 光明网",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hZFNkTTBiRG1vWU9OSnNxeVhZOUZRVG56NEptN2VYVENzdURpV0lPbFM1d2I3RmdpWkhqY1plVU51TGpxcVpIeFRMblZSNnNyZVdydHRpcm9yM1NUQ1lnODJVTHRqQQ?oc=5",
-      "site": "光明网",
-      "siteUrl": "https://politics.gmw.cn",
-      "related": 15
     }
   ]
 }
