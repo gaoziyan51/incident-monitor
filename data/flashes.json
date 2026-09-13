@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T22:56:02.777Z",
+  "updated": "2026-09-13T23:07:17.961Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -75,6 +75,19 @@
       "siteUrl": "https://news.un.org"
     },
     {
+      "id": "FL-EV-f283a898090a",
+      "date": "2026-09-10",
+      "dateISO": "Thu, 10 Sep 2026 21:38:54 GMT",
+      "ts": 1789076334000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "西藏吉隆泥石流已致16人遇难，546人失联 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRUowcWJsa1BOYmV2YkdVR1RvOGItQ1ZQMENFN18zOHlyZmpxTFZPNTVsNHhTbjgzNWswSzFXTnlLM1J2SGZpUU9fb2RNekxPSHZId1lkcW1uS0VDMDY0cjg2eGd2djdPQl9hVW5lTFVaSkpBV2Q0SFJhR3BaaDVtbzhraVhIZw?oc=5",
+      "site": "新浪网",
+      "siteUrl": "https://k.sina.com.cn",
+      "related": 38
+    },
+    {
       "id": "FL-18ed16b30a5c",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 15:56:00 GMT",
@@ -130,9 +143,9 @@
       "scope": "intl",
       "type": "geo",
       "title": "尼泊尔泥石流灾害已致1382人遇难 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yTVR2OE40OXNCTlpXR2FyR2hncU5haXBVOThJM1VqM2xKYjRMS043Z1c4ZjFUWDA1WVM0QkZkZXFQY1BjOW9Zdjd4MEV5QnlGRVh6WGkyV2t1SHRWc2MzcEp4MXcyV0la?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kNS1nM3Z2T2poT0ZEeWdLM2JibmRJUXZPZ240SnNYc1M5czFneWlJYnk1M0hoVzgtYXlJV2M2QU4zYzdWR2xveHhDTnUzcXh0RTliMUVMU2JwaGtTR25QXzNrY2NvclFsUjRPUzNNUFF0bzBKanc?oc=5",
       "site": "央广网",
-      "siteUrl": "https://news.cnr.cn"
+      "siteUrl": "https://www.cnr.cn"
     },
     {
       "id": "FL-e18a0a48aa63",
@@ -157,19 +170,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85Z3NWOHRXSFhtV0hod2Vyak52VDVDSXJteF8xY2hKOTUxb21HV1lEaEhmZFlDUnBQckNtN1JpeG9JZHNpSlpONDVOd3NFOTc4Uk1lQkNBeE5VVkEyNUQwRmpjdTI?oc=5",
       "site": "新京报",
       "siteUrl": "https://www.bjnews.com.cn"
-    },
-    {
-      "id": "FL-EV-f283a898090a",
-      "date": "2026-09-10",
-      "dateISO": "Thu, 10 Sep 2026 04:18:39 GMT",
-      "ts": 1789013919000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "习近平对西藏日喀则市吉隆县遭受泥石流灾害作出重要指示 - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IRXVLRTR4WllScXRvU3JNenNpaWppamJiX0lWUUlhamFPeTk3YWV1WTdfYk02djVuWVA2RWF5UnkxaGRIVVoxZWlXUE1meFdrVGVQRVZlT25rTkxOcVQ2UjRR?oc=5",
-      "site": "新京报",
-      "siteUrl": "https://m.bjnews.com.cn",
-      "related": 39
     },
     {
       "id": "FL-861987facab4",
@@ -206,6 +206,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PYUIyNEpIQ1BCa3FiWHkyN21PQTdwZUVOdTI3TmtLZ1RTMnA1WDQ1TGwzdnRfcTRJQTlHV1htQWVHOUpTNmJEb2Rmb1NjRFc5Yk4tOFNadGN6Q1VBRUJTd3k5QXpOXy1zU2ZzcU10TWg4dDRYRFJlYkExXzdUVUk?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-ad4c739b8379",
+      "date": "2026-09-13",
+      "dateISO": "Sun, 13 Sep 2026 22:56:56 GMT",
+      "ts": 1789340216000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "台湾台东县海域发生4.1级地震，震源深度14千米 - Jiemian.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KbjhJYzJGUVlOTk9oTkR1bEljY3Y0bGRmSWVKT0IxeUFXX1FxZ3V2Q2lIUWtBR2hiY1VCcEx5OFBQcDRZaWY0STBTaGNwM1FzbXcwdFNwVlQ?oc=5",
+      "site": "Jiemian.com",
+      "siteUrl": "https://www.jiemian.com"
     },
     {
       "id": "FL-031f99f2a247",
@@ -448,30 +460,6 @@
       "siteUrl": "https://news.ifeng.com"
     },
     {
-      "id": "FL-495c91d84b8b",
-      "date": "2026-09-13",
-      "dateISO": "Sun, 13 Sep 2026 02:23:55 GMT",
-      "ts": 1789266235000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "中国地震台网正式测定：09月13日10时12分在内蒙古阿拉善盟阿拉善左旗（北纬40.12度，东经106.53度）发生3.6级地震，震源深度8千米。 - 金融界",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9kLUpoZ2otVHlDN0piN014TGNBNnAtbEMzLXhMWlA0RTVmRkJLbGVUaDlqbDZYSVZlWm5IbFlwS1EyUzgtd1hzUW40WTM3SHpHSVdEOEZ5d2FEcnFodnhRamk0SDNPd2ZyY2YyV2NDOA?oc=5",
-      "site": "金融界",
-      "siteUrl": "https://m.jrj.com.cn"
-    },
-    {
-      "id": "FL-85ebf756ac23",
-      "date": "2026-09-13",
-      "dateISO": "Sun, 13 Sep 2026 02:23:00 GMT",
-      "ts": 1789266180000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "内蒙古阿拉善盟阿拉善左旗发生3.6级地震，震源深度8千米 - 第一财经",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LQmJDY29QakJKMVdNZ1lRdnFoQWFmYmVHbUJnRFhxZkxUOERPR2Npek8zN3UzeUZ0VmxPNHpXY3JsVkk0QnhSTnpUVUwycW1vX3pnWg?oc=5",
-      "site": "第一财经",
-      "siteUrl": "https://www.yicai.com"
-    },
-    {
       "id": "FL-9692d1f786d5",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 00:19:00 GMT",
@@ -520,15 +508,15 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-542ffe023f0a",
+      "id": "FL-a8bb39da1317",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 01:33:21 GMT",
       "ts": 1789176801000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1386人 失联5130人 - cnr.cn",
+      "title": "尼泊尔泥石流灾害遇难人数升至1386人 失联5130人 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IVHlwaFRUODV3Zk82S2kwRVB1UFdXZWpSOUNuVHdSRFRqWkptX0Uzdko2clBvN1FXc2ZhYzF0UDV6VGFFcm5xWjJLRW1ra2RDWE0xcnlWTzVqcDdCcDZPLWxRU3kzRjFXYVdLdC1wZGNuSUtPQXc?oc=5",
-      "site": "cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://www.cnr.cn"
     },
     {
@@ -554,6 +542,18 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VZE5fdVFxU2pyUTVqYmNkcktQMXl4VGtUb2JSWndGb1dhb0RVbFZUYVgwcFNCX1VWQ3R0R21wX2M3OG5mLXczY2hMbmhudUJ4Z1ZBSkNNeU81eTlO?oc=5",
       "site": "吉网",
       "siteUrl": "https://news.cnjiwang.com"
+    },
+    {
+      "id": "FL-c6137661893a",
+      "date": "2026-09-12",
+      "dateISO": "Sat, 12 Sep 2026 00:54:02 GMT",
+      "ts": 1789174442000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "印尼爪哇岛附近海域发生6.5级地震 - 湖南红网",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tMTZ5cS1jVWFvTVE1Uk5EQy0wM0VkUFhrSndIUlBqRGNVZGExMXphcEowdFpQSW1Wb0djSjNERC1LVGlubGczT2RLUWZDMEJKYnYyY1d1d2lyRWVHWmlMSmUwSnY?oc=5",
+      "site": "湖南红网",
+      "siteUrl": "https://news.rednet.cn"
     },
     {
       "id": "FL-dd69d2bb395c",
@@ -698,7 +698,7 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaW93UmVCeVBCWnd3QmZ5TXZMdUoyNlpQNzFwazZZYmFRSjhZTGdLSHE2Ty1CY0NPYWpBS0x1WUtNckpQaXEzWFZYd2VTV2FQd2FSejBnSDhCMG5PZHdQd0QwTldPNGlOR21mVWNDaXVjMGRFUDRaMUxNRlBuQkhFRnlLVkkxYXhGdWVZbDd4TDQ3cVRJQjJ5MA?oc=5",
       "site": "新浪新闻_手机新浪网",
       "siteUrl": "https://news.sina.cn",
-      "related": 17
+      "related": 18
     },
     {
       "id": "FL-49dcf83adb13",
