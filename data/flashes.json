@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T03:59:08.222Z",
+  "updated": "2026-09-14T04:15:10.560Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -244,15 +244,15 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-5635f9ee39f8",
+      "id": "FL-5f1b19cb1369",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 22:27:00 GMT",
       "ts": 1789338420000,
       "scope": "dom",
       "type": "geo",
-      "title": "台湾花莲县发生4.1级地震 震源深度14千米 - 新蓝网",
+      "title": "台湾花莲县发生4.1级地震 震源深度14千米 - cztv.com",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qVzgxbExsa1JvY1o1TWdmb004QjlqRnlUOFFHOHRsbFdIbWE4SjQ0WkYwLVJ0UW9WQnB5VTl0LXpQNG5Vb3gwMTMyX3c4RHM?oc=5",
-      "site": "新蓝网",
+      "site": "cztv.com",
       "siteUrl": "https://www.cztv.com"
     },
     {
@@ -400,6 +400,42 @@
       "siteUrl": "https://www.xhby.net"
     },
     {
+      "id": "FL-9f25c7e21346",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 04:07:37 GMT",
+      "ts": 1789358857000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "海南全力防御强降雨 已紧急转移群众3.1万余人 - 紫荆网",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbElJQTRLdTlpNlVVNS02X1ZILUFPUTFxdlcwN3RmUDRrVGw5TGYwYlJYTXBLc2dIQ1l5RVhLRmRXaEMtWlpXb0ZCeGFFclFFRndYaS1yd0xkV3ktQ2lqUVN0SzhhY3VUMWxJblc3bWF4bjNOR0dpNTlIeU5ONW1oend0RTZxdm02MHNXX0xIWXlvRXBu?oc=5",
+      "site": "紫荆网",
+      "siteUrl": "https://zijing.com.cn"
+    },
+    {
+      "id": "FL-4177ab6745f2",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 04:03:00 GMT",
+      "ts": 1789358580000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "暴雨致一车被困路中 海南五指山消防紧急救援 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS2d1Sk9ZSnJ1c0NFbGFUelRURXdzWG9XLXNpMmlPZE9pcVp3M1M0T0kwQk1GbnFBb284by0tZm14RkRoSXR2ZHVEV3lFT0ZkYXg3UTNCQk9sQkVVVjBxS25NWlQzZWVhNFB0dE03YVhmSE9rM3FyX1Q2RGVZQ05pRElyRjlIdnla?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-9eebf3873416",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 04:02:41 GMT",
+      "ts": 1789358561000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "中国地震台网中心：正加快推进地震预警信息接入iOS系统 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcUpvS3hmS1FHYlJSWlpyTlRWQ0gxb251M2pjUTZkZjktdFpmbmdSUy1wOTZ4NThMTkphN2JtNE5TS09kVGtTMG9HbE9SUmw1anFnRVpFdUFCdmxnT0hIM1BHQlhwQ3E4VHRXaTBRVzg2YjJDcWpjWDh6eElTRURTaUx3aWw3VVcx?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-8a41a0575738",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 03:42:40 GMT",
@@ -472,18 +508,6 @@
       "siteUrl": "https://t.cj.sina.cn"
     },
     {
-      "id": "FL-c665147f515b",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 03:02:10 GMT",
-      "ts": 1789354930000,
-      "scope": "intl",
-      "type": "weather",
-      "title": "尼泊尔山洪55大马人仍失联 外交部：持续确认人员状况 - mediaselangor.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yMU90X2s5WDZaQ3RuSlJmZng2azRjZXppVFVTVVZzWWRzTnJxVHhNSWRxVDZNQ2N3WXJMaXo0TjZZbXB3SWRJQmU1RjU1RTNiVm9UaUp3?oc=5",
-      "site": "mediaselangor.com",
-      "siteUrl": "https://mediaselangor.com"
-    },
-    {
       "id": "FL-0060923eaf19",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 02:37:00 GMT",
@@ -508,18 +532,6 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-f342ee510755",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 02:33:09 GMT",
-      "ts": 1789353189000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "中国地震台网中心：正与苹果公司沟通 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVFZlY2k5RFU1eXJYQVpXQklzQnF4Wlo1R0lfdTFTdk1jMllsZWVfaE1nZmxjLS0wQnhncDNnbkZaVVhGUExLYmVNY3laZEZSZDFTdXM5Y1lzZkYwTGFmRDc0N0xabXo2VEQ2N2ZKcWZGYzlocWU2RGhTVEd1ZGdILVdRamV2NUg1YXp6aA?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-c5e6096e0bc8",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 02:13:10 GMT",
@@ -542,18 +554,6 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EbUluaEVZTEdBbEFlcVpwU1J6cUE5TXZZNURNSU02MXV1aFloM28xeHp0VmthbnZxdnpMQURlbDFLSlZpT0tHN0lmTzdzQXBiRTNPbTZ4aWZJLTFfMF9QV1lKOTZWcXJNWWE2LUdOYjRwbldEYURtSQ?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
-    },
-    {
-      "id": "FL-a6550cbda545",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 02:00:28 GMT",
-      "ts": 1789351228000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "中国地震局回应“预警信息接入苹果iOS系统”：正在沟通，用户目前可通过微信小程序获取地震预警信息 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbFQ2MXR6V2hiOEdwdXdQMHpjLVdhN1ZWaWZLOEsycGEzQXdfT1ptbktqckhTR3hYenhBb1VtenA2NTQ1U1h5ZjhmTXR1di1xTzFlRlpIdkRTQUhGdWF1Z3FLZ0hrSnh4eHdYQmxUa2RmYktUQUV4a0s4Wkt0ZVRVbkNYTmQ0UktFWS1ad2tR?oc=5",
-      "site": "Sohu",
-      "siteUrl": "http://www.sohu.com"
     },
     {
       "id": "FL-93fd2460b77b",
@@ -664,16 +664,16 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-c089ae9dd2b9",
+      "id": "FL-ac6a56a90141",
       "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 00:24:07 GMT",
-      "ts": 1789345447000,
+      "dateISO": "Mon, 14 Sep 2026 00:24:00 GMT",
+      "ts": 1789345440000,
       "scope": "dom",
       "type": "geo",
-      "title": "中国地震局回应iPhone地震预警：正与苹果沟通推进接入iOS - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9CdjQwdGw5aUVudVlrRFp5N0h1aHZQdTU0VGhSdExoV3o1UTVhdU9jUEtWNm54RTU2MXQ3N1d0ejlBZlg4UGhRZQ?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://i.ifeng.com"
+      "title": "中国地震局回应iPhone地震预警：正与苹果沟通推进接入iOS - news.mydrivers.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13dXJjQ2dDTmlPT2MtVVdVckl3MnRHU0s0bWhieTN1ZUJJRk9DY3oxQkR4MEZPRnM5TjdoWWc1UkZTMVBOZUhQMU00eFlzUzYxNk5xaFQxNzE?oc=5",
+      "site": "news.mydrivers.com",
+      "siteUrl": "https://news.mydrivers.com"
     },
     {
       "id": "FL-e8a32a183e42",
