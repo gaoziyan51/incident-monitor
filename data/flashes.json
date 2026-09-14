@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T11:06:54.860Z",
+  "updated": "2026-09-14T11:23:40.722Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -13,42 +13,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CTG9yTTh6cnplOGJ1TG5PUzFQRkwtNjZTTzFLcEMwYzRWQlhzTVF2eGMyUFRzdWlKYldDSTVRcWNVd2RnbkJWU1prR2FMUVhKeVk4X0c4MVNnbUFCTjItZ0JiN0xvd9IBa0FVX3lxTE1PT1F4VHcyMnlBRE5SdUdLeERKN21TU1VXSkdqTTNnWnE1MTkxNi1Yb1ZqbWQtX2ZVdGwtMFhCZjZsVmgwTi1LNkdwYWtOZTE3dDlIVzNiT3cxOHV2dzdnZF9hY2cwV3dsSi1j?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-674383638b4c",
-      "date": "2026-09-02",
-      "dateISO": "Wed, 02 Sep 2026 07:00:00 GMT",
-      "ts": 1788332400000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "尼泊尔—西藏泥石流：堰塞湖和冰湖是下一个“定时炸弹”？ - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfWmowNGIyc200QU1ESDVxbC1hdmdLWUlCQXNHazV6aVdvY1FYMGFySHFueG50UGc3Q2Z2ZUVXaWNtbUQtNlBMWkRDLU01T2R5blhnY2UtSUR5ZUdHaWt5YWszOFRFQdIBa0FVX3lxTE5ncUFxSTZyWVZGQ05yLWwtOGVLS01kb2lsNjY5cVNfU1VlN1hWSjFtUEx4eEpObTY3c3F5czNZeElUM01KaU5uVF9NQ2FDdGlMY29tbi16UFluSkVGSzFkNXJHZFFTOUU5eW80?oc=5",
-      "site": "BBC",
-      "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-a2237798f821",
-      "date": "2026-08-20",
-      "dateISO": "Thu, 20 Aug 2026 07:00:00 GMT",
-      "ts": 1787209200000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "哥伦比亚地震：120万人亟需援助，部分社区仍无法抵达 - UN News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3V3JsRVZ2TkMxUkw3dk96SHFpNTEtSHhnQzRzMmJwOEhzZ0JnUHBNcnBMRDByWEhQTk5wbzdUMWwwenNoRVROdVBPN2phUjU3XzVOWVZoUQ?oc=5",
-      "site": "UN News",
-      "siteUrl": "https://news.un.org"
-    },
-    {
-      "id": "FL-7a74c89379e3",
-      "date": "2026-09-10",
-      "dateISO": "Thu, 10 Sep 2026 11:10:00 GMT",
-      "ts": 1789038600000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "云南彝良一路段发生山体滑坡泥石流：无人员伤亡，正统计受灾损失 - bjnews.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85Z3NWOHRXSFhtV0hod2Vyak52VDVDSXJteF8xY2hKOTUxb21HV1lEaEhmZFlDUnBQckNtN1JpeG9JZHNpSlpONDVOd3NFOTc4Uk1lQkNBeE5VVkEyNUQwRmpjdTI?oc=5",
-      "site": "bjnews.com.cn",
-      "siteUrl": "https://www.bjnews.com.cn"
     },
     {
       "id": "FL-31aaf7309a8a",
@@ -99,18 +63,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-7f6d5edf72e4",
-      "date": "2026-09-13",
-      "dateISO": "Sun, 13 Sep 2026 23:28:00 GMT",
-      "ts": 1789342080000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "台湾台东县海域发生4.1级地震 震源深度14公里 - 紫牛新闻",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11Sk9mV1F1T3dGNzdKSzd4LXE0Q2V6MlB4b0JPcU9jT2NsWnByTU53UXFIQjU4QmlhTXRoWTB4eEN4bGZXNHNCMG9ZODlUUHRTTW80ZkpKcDlvU25JOEtkWG56Nms4ajE3VWc?oc=5",
-      "site": "紫牛新闻",
-      "siteUrl": "https://www.yzwb.net"
-    },
-    {
       "id": "FL-bd05b20d7224",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 21:46:32 GMT",
@@ -123,28 +75,76 @@
       "siteUrl": "https://m.voc.com.cn"
     },
     {
-      "id": "FL-ec8401e7003a",
+      "id": "FL-13d68ffbce31",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 19:00:00 GMT",
       "ts": 1789326000000,
       "scope": "dom",
       "type": "weather",
-      "title": "海南五指山遇强降雨，积水涌入房屋4人被困，消防员拖橡皮艇转移 - bjnews.com.cn",
+      "title": "海南五指山遇强降雨，积水涌入房屋4人被困，消防员拖橡皮艇转移 - 新京报",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtOVJwd3hJY0N0MjlhWE9YcDZpMURWeml2YUJnVTA0WURJNVQxQ2pTZjVEWlBnb2VEbXpSeU51VEswbi1zaVlRRUdUejM5bDBWU2J4QUFGVXEtUmRlWEtGa0k4ZkM?oc=5",
-      "site": "bjnews.com.cn",
+      "site": "新京报",
       "siteUrl": "https://www.bjnews.com.cn"
     },
     {
-      "id": "FL-03e1c60639f5",
-      "date": "2026-09-06",
-      "dateISO": "Sun, 06 Sep 2026 05:31:42 GMT",
-      "ts": 1788672702000,
-      "scope": "intl",
+      "id": "FL-3a9aeb42903c",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 11:08:18 GMT",
+      "ts": 1789384098000,
+      "scope": "dom",
       "type": "geo",
-      "title": "尼泊尔给水力发电押下重注，泥石流把问题彻底暴露 - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByeEVvcHlucE92a1Z3T0Ywei1RT3Ric2RMaVEzNmVtbF9VVEVPMmhrNmliNEl3TGllWktKNjNodUNSSXh3S21KUHA2cEFqckZEV0RNMmpCWWRxSGM4Zm51VUEyV0dkZ9IBa0FVX3lxTFBxM2RNYURrR1hmQ1ktWnBrME1RQ1ZESXBWZHZ4aUNoaURoXy1BLXlySk9tcDZHb25fRmV5SDB5ZTVnck9rdlNmRHdGRkl3QldGb2VEZHA3VkNWT0NITjhmMTRwUWNpZEgxNDFF?oc=5",
-      "site": "BBC",
-      "siteUrl": "https://www.bbc.com"
+      "title": "云南普洱墨江县发生4.5级地震 暂未收到人员伤亡情况报告 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZjBzWmNmQ0xiRkNJODg2eHB1dUJoM3c3OXlZcDNWZzhDbTJNblNQanczTTgxakE4RFhVYW9nbzNlYXlpUmZxZjdoSUlwdzQ4akU0aHBXSXRRLVFvSmR0Y01TMlV2ZDNIYTRMWlpfUTNJb2M3MDBNUzNOdTNjR1pRTjJHYzlYbDVXZF9PaW43UTZnam8zVzd5Qg?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
+    },
+    {
+      "id": "FL-c8a4575dafa3",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 11:02:32 GMT",
+      "ts": 1789383752000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "云南普洱墨江县发生4.5级地震 暂未收到人员伤亡情况报告 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUmQyd2hMaF9wSUFrS1d3U1BFdGp4Q0tkMl9xNjI1eS1hdGVfNEp4OWh6NXpjMWxsRUNjNVJsT1NjUnA4RU4xQXdIbnFzOFkwLWRQbVhEcTdKb2Y0eTBhbWw0MURTd2lSckZRcDdNa1E1MzE2aDM2VkRqSkFXbEpJbFRZYTE5MXllcUloVg?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-8d5798273055",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 10:52:00 GMT",
+      "ts": 1789383120000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "强降雨致海南多地出现险情 消防紧急救援 - chinanews.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ObnVoR0szSWt4YW5EYVpsRFZlTnYzc3NTejNuNHZvcXY4TzZ4bE9RMm13Mmd2WFc2VUQ4bUU5REExX2RRdFNYOHV5MnIxOHdIWWg2a0NYVmllZkpSRktsMElIdlRIbElzTENrcEJMVEtoTnk1RzhhanRjeU9pQQ?oc=5",
+      "site": "chinanews.com.cn",
+      "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
+      "id": "FL-6e228763e16c",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 10:52:00 GMT",
+      "ts": 1789383120000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "果粉盼了多年！iOS地震预警终于要来了，官方正在和苹果积极沟通 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbjJIajVDSGdwcFNLWVgwa2pMUTV5b2Q4Z1AyTG5mYlVuNWk4eld4U0x4RE5GLUYtRGR5Z3ZpZWtRQ2g5V1AxUFR2NVpzdVlKVWdwRlhTckR2LTlwUVBCck0wWG1nQjBRS1hxN19XZGJNUVg3VlRJdm81SGFWZ1lFS0hHeURpXy1CeEdHOA?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-0ccf360118e7",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 10:50:00 GMT",
+      "ts": 1789383000000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "海南消防营救疏散被暴雨围困人员48人 - news.youth.cn",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYVEtyTEk2eTJlSjFXbGVJbVBVUXZDd3ZleGxZN3NSU1pxNTBXWG16TUNpX0haY1FPVDZDVXJVcE1pbENfYzhVUkh1ZWVVWVI1QVJTOXo4ZUZMSFlLWF9Id2xMT3IxZkE?oc=5",
+      "site": "news.youth.cn",
+      "siteUrl": "https://news.youth.cn"
     },
     {
       "id": "FL-EV-f283a898090a",
@@ -157,7 +157,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb1hRUWdGVVFWRTVnS085QUNOcEtPMlJRUHVMc2ZFYlNwazBPUGkyNlFnamozS3E5SEVVSmZqaTRjUk84Sm8yejNaeFVmU0JSZVNyc0xlcG1NNVRkekN4Wi1SakQ5VHYtdU1JY3RkR29OUW02VnVrM2FzUGF4T240djBqZnNKMXU0SDdoeQ?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com",
-      "related": 45
+      "related": 42
     },
     {
       "id": "FL-EV-18d9b0620c3d",
@@ -170,7 +170,7 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uUWRoUFgyamNlNS02OWstaGFqM1hDRWFoMXRkUDFXVkQwMjRjRWJBbkZOc2x0LXN4d0FFcFplRnVfOGtYdExKSDV2eDlEcGdoVFUyQUJlUGc?oc=5",
       "site": "Jiemian.com",
       "siteUrl": "https://www.jiemian.com",
-      "related": 18
+      "related": 19
     },
     {
       "id": "FL-f492c406efd4",
@@ -197,15 +197,15 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-4cfca373cef1",
+      "id": "FL-7ef540b8bf2a",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 10:03:00 GMT",
       "ts": 1789380180000,
       "scope": "intl",
       "type": "geo",
-      "title": "秋筱宫家长子悠仁首次访问东日本大地震灾区 - china.kyodonews.net",
+      "title": "秋筱宫家长子悠仁首次访问东日本大地震灾区 - 共同网",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ncks2UFJKNC1yUG0tVzhveGtlYS1YQ2dOc2VraUJNd3VSVWV5MV9uMkk1dFp1MWNXUXhIaXROaDdmOHBwY2Myb2V5VDZMWG9mUUdJekd0WQ?oc=5",
-      "site": "china.kyodonews.net",
+      "site": "共同网",
       "siteUrl": "https://china.kyodonews.net"
     },
     {
@@ -221,15 +221,15 @@
       "siteUrl": "https://hainan.ifeng.com"
     },
     {
-      "id": "FL-9d7fbf6eff90",
+      "id": "FL-83f8dc625bbc",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 09:56:25 GMT",
       "ts": 1789379785000,
       "scope": "intl",
       "type": "geo",
-      "title": "印尼万丹省西南海域发生5.6级地震 - 京报网",
+      "title": "印尼万丹省西南海域发生5.6级地震 - news.bjd.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Uc2Y4RkNpa3Ftd3R2ektpTnBpZ0lfSWdxdS1KdzZsU2hMaHpFYzF5LVJWZzUyWWZZcWNFUkQ3Vkt3VVRGWWNiamZBWFZFU1h5TEZsUVoyUlY3RWFoWlE?oc=5",
-      "site": "京报网",
+      "site": "news.bjd.com.cn",
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
@@ -305,18 +305,6 @@
       "siteUrl": "https://www.cqnews.net"
     },
     {
-      "id": "FL-a0f9460cb617",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 09:24:00 GMT",
-      "ts": 1789377840000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "云南普洱市墨江县发生4.5级地震 震源深度10公里 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZS3BQWDNTRU5HUlVYYWRCbFpyQWVOTWVIOE9TRDhGVVo5Mmdoc3JmSTdtMXpSRGtRMTlVbzBmV1lHbXo0MmdZRUZmSEZiUHF4bjdheFByUkVBaTlpNmF3dkVabnZlYW5MNnl1cmtvaWlNb05ZM192Ug?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
-    },
-    {
       "id": "FL-0e8a4437e675",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 09:18:46 GMT",
@@ -337,6 +325,18 @@
       "type": "weather",
       "title": "13个市县停课！海南局地特大暴雨 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObzliT210R2lwWFVXZWZicGVqcEZ4aVlDeWFFb2F2REIxNWF3Ul9vbjltTWdhV3ZEZk9yVHV1YWZ4WHViSExEak5XVTVhSHNTaG5mYWZablduSkd4UFhxTDFzN3dSbElaR2R6eE1pZWNBeFU3WndjWVVqUllNTGJYYV9TNk8tZE5uNGdoMnpkXzZBSnhCSE9ZZQ?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
+    },
+    {
+      "id": "FL-a0f9460cb617",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 09:07:00 GMT",
+      "ts": 1789376820000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "云南普洱市墨江县发生4.5级地震 震源深度10公里 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUDhUb29ORmxKYm9DWEtLWUkwTlVFMVZZWmJUT2ZjenNNcUtfeHlUVzhudnN0X0FVbURKQUFNelZXaU1tZUt4NEFPV2wwT1JIQV8wU2s0R255ZGF1Zk5aUjZiZHNZdjJxYmdPQ3hhc3EyNWUyYlRYdjNncmhlNTlieGlUajhtSWxEUzlNOUtxUzljNE9jc3FNdg?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
@@ -497,15 +497,15 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-1ae98e1445e8",
+      "id": "FL-ab45b377d94f",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 06:51:18 GMT",
       "ts": 1789368678000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1392人 - 观点网",
+      "title": "尼泊尔泥石流灾害遇难人数升至1392人 - guandian.cn",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QVUludExfaDdRNHdUd294RTlrZDNTSElxRFJXSDlubVdETmNOQ3o4cjNqNThHWUFBZ1RpUzBrdXM4WXRnVGswQnZoYUxjTGVSNTU0b0tsQThESlV4MlJ4TzlB?oc=5",
-      "site": "观点网",
+      "site": "guandian.cn",
       "siteUrl": "https://www.guandian.cn"
     },
     {
@@ -533,15 +533,15 @@
       "siteUrl": "https://static.nfnews.com"
     },
     {
-      "id": "FL-9aa8e51f4ba1",
+      "id": "FL-1164f34423dd",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 06:04:59 GMT",
       "ts": 1789365899000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1392人 - 京报网",
+      "title": "尼泊尔泥石流灾害遇难人数升至1392人 - news.bjd.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kSnlyWFF2a095a0pJSGZmaEtnUkZ3ZkNoMjB0aVIwZ21EaUhfdmRvZnpYYm5wcUo3OC0xQ3NxM3dVT3NtSkdiSVp2VmdYYWtXSGgtNk1xdWliYjFqbmc?oc=5",
-      "site": "京报网",
+      "site": "news.bjd.com.cn",
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
@@ -665,15 +665,15 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-b0e8286a093d",
+      "id": "FL-b803caa200b8",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 02:35:16 GMT",
       "ts": 1789353316000,
       "scope": "dom",
       "type": "geo",
-      "title": "中国地震局回应“预警信息接入苹果iOS系统”，正在沟通，力争推进！ - 中国科技网",
+      "title": "中国地震局回应“预警信息接入苹果iOS系统”，正在沟通，力争推进！ - stdaily.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91b2ZQMHJfOW44Z3dyb0JDU2F2M3F2VjlCeWU3SmxIWGRoZWZOUnhHbENDZVRoNTVmZy12Nms5Wk81T1FvUDBtcGt4ckZpYlFwWmttUkotTkwxWTZpcmVET1c0MkJUMW51MVVDTHA0Nmc?oc=5",
-      "site": "中国科技网",
+      "site": "stdaily.com",
       "siteUrl": "https://www.stdaily.com"
     },
     {
