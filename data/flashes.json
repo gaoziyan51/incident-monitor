@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T09:27:15.563Z",
+  "updated": "2026-09-14T09:40:58.446Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -111,18 +111,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-d55b3a59f72e",
-      "date": "2026-09-13",
-      "dateISO": "Sun, 13 Sep 2026 22:52:00 GMT",
-      "ts": 1789339920000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "台湾台东县海域发生4.1级地震 震源深度14公里 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PYkZxWUU1eG5UaWcwWWYzdjl2LVR5dUVMTlV6X1NtaUZZZ0g5YUo2OXlDWGs1LVg2cFRjZW5RakNyckQ0MkZZVG5ncW1nOVFYTW9YMEpzcTVFZjE0RU8xTjlPTmIwQ204a1lPWUt6RHd2eG02bFpXZg?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
-    },
-    {
       "id": "FL-bd05b20d7224",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 21:46:32 GMT",
@@ -133,18 +121,6 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lQkhzbzhGek9aT1B4ZnIzMlA4UEdQMTlqckIybTNMMlRUcjhnZW55OFljN0JYU3pVbGtjOERRV1JtS05QajRTRnRPUVZud3VwLURqY3RjQmQ0aEJaTVpV?oc=5",
       "site": "华声在线",
       "siteUrl": "https://m.voc.com.cn"
-    },
-    {
-      "id": "FL-fc28cb6534b8",
-      "date": "2026-09-13",
-      "dateISO": "Sun, 13 Sep 2026 19:25:00 GMT",
-      "ts": 1789327500000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "台湾花莲县附近发生4.3级左右地震 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qM04tUW5IUk9kSDRfSU13dllRNmQtMUd2Z191aWZhYURlMEpQZ3BMRDNiZUFfLVN5cXppM0xoVUQtRnY0bXFtV1g2Vm5hTThRTU1PMUs4UGR3NU1kTmhkamJVSkZOd2dfeFBwbzYzYmdzRnRjRV8wYg?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-03e1c60639f5",
@@ -171,6 +147,42 @@
       "siteUrl": "https://www.cnr.cn"
     },
     {
+      "id": "FL-b4c5dd68e76e",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 09:33:44 GMT",
+      "ts": 1789378424000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "云南普洱市墨江县附近发生4.6级左右地震 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVlJNNE1HT0k1REtHdUtDNFVuMDhoem9mT1lSMV8yUVQxeHZyZG8yWFQ0WS1oNHN0T05fbFhwY3ZlNkU5ejVVY2RHV21ILU5jQW1jZ19RWkJMWFBlQW53eFh4SFJId245bGRZXzVBTDV0WlR5Tkg2d2lPbTZqRUlFNVg5dWExWWd3cEJaTXV6T3N2dGhhWWxtNg?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
+    },
+    {
+      "id": "FL-b517218cebd3",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 09:26:00 GMT",
+      "ts": 1789377960000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "云南普洱市墨江县发生4.5级地震 震源深度10公里 - 新蓝网",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yaU5lSXJ6R0NwOVl3a3NQamJYZ1VrWS1zRXF2MEk1dnRGNGJwZmI3N3pKOWpMb25hQk5NV3pGd1h6ZEh3ZlVncmRfRy1tbFE?oc=5",
+      "site": "新蓝网",
+      "siteUrl": "https://www.cztv.com"
+    },
+    {
+      "id": "FL-d67ae52e417a",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 09:24:51 GMT",
+      "ts": 1789377891000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "云南普洱市墨江县发生4.5级地震 震源深度10公里 - 欧洲头条",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTmdDTlFvcnVlMHlreGtlQzFQME5za1JTQW11VEM3aUtjWnZBSVZUWFAyb2t1S1ZCVVNIU2tZazJJY3NYVkNxYXUzZHliak1RcGRLc3kwQ24yakxMZkhKOFVSNDR1eTBWcnpNVzVzN3JQdlpSejZjVk5hcFo4RmNaazlhLXQwbU5JU0Jmcl9ib1Y5MldJSE53Nld1bGl3YmhPZUJsTzc5WjZZM05FbWZ6OTV4Vnh5VFRIdEhjZFBDMA?oc=5",
+      "site": "欧洲头条",
+      "siteUrl": "https://www.xinouzhou.com"
+    },
+    {
       "id": "FL-c8e42d9d5958",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 09:24:26 GMT",
@@ -183,28 +195,16 @@
       "siteUrl": "https://www.cqnews.net"
     },
     {
-      "id": "FL-2264799fbe0e",
+      "id": "FL-0e8a4437e675",
       "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 09:23:08 GMT",
-      "ts": 1789377788000,
+      "dateISO": "Mon, 14 Sep 2026 09:18:46 GMT",
+      "ts": 1789377526000,
       "scope": "dom",
       "type": "geo",
-      "title": "云南普洱市墨江县发生4.5级地震，震源深度10千米 - 第一财经",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KSzJaWllTTEJHRnJtWGY1NjE5TGJnVlduaFhrLW5jSjQ4MkliaUl3LVFPc2s0RERwVHhGVXc2blNxOXZxTzRlLTZrdGJoVFlWREVN?oc=5",
-      "site": "第一财经",
-      "siteUrl": "https://www.yicai.com"
-    },
-    {
-      "id": "FL-bca346580108",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 09:16:42 GMT",
-      "ts": 1789377402000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "云南普洱市墨江县附近发生4.6级左右地震 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVm4zMnpsLXZxR0RwcEphMTRnUXdHdDRvUlRfdm92eGtkTk5yLW5MZS1Kb1o5aXN1b2QzRGc4ZXhrYkk1aVd4c0xnT2pnQTZ5OE5JRWtmTUd4THN6T3pJN1pzQkNsZ184WDkzTFFVdmdNOHJmLVJwM3NNWEtlYkJ4ZUNweHFrWnhy?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
+      "title": "云南普洱市墨江县附近发生4.6级左右地震 - 欧洲头条",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVTcwSW53YThucERyWW5qdFJOd1pnTWJwN1NUWmVMUFBadjJzbUxnYjktOW15c3owdkJqLWdjTFJsZEdCaGtmQ0Jrc1Q2UlN1WFUxS2RlRVB6TTlNSkk0R3M0c2czaHR6M2t5U3ZlNG9XT3M4cThaVFRqZ1FDNDRvQ2c3UGx5THhjZXR2eUdGdmRIWmtEODNCdXhsQlMyUFBPb3NYWFA3UkFDNWlYNmpJ?oc=5",
+      "site": "欧洲头条",
+      "siteUrl": "https://www.xinouzhou.com"
     },
     {
       "id": "FL-aca302f8939d",
@@ -217,6 +217,30 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObzliT210R2lwWFVXZWZicGVqcEZ4aVlDeWFFb2F2REIxNWF3Ul9vbjltTWdhV3ZEZk9yVHV1YWZ4WHViSExEak5XVTVhSHNTaG5mYWZablduSkd4UFhxTDFzN3dSbElaR2R6eE1pZWNBeFU3WndjWVVqUllNTGJYYV9TNk8tZE5uNGdoMnpkXzZBSnhCSE9ZZQ?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
+    },
+    {
+      "id": "FL-a0f9460cb617",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 09:07:00 GMT",
+      "ts": 1789376820000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "云南普洱市墨江县发生4.5级地震 震源深度10公里 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUDhUb29ORmxKYm9DWEtLWUkwTlVFMVZZWmJUT2ZjenNNcUtfeHlUVzhudnN0X0FVbURKQUFNelZXaU1tZUt4NEFPV2wwT1JIQV8wU2s0R255ZGF1Zk5aUjZiZHNZdjJxYmdPQ3hhc3EyNWUyYlRYdjNncmhlNTlieGlUajhtSWxEUzlNOUtxUzljNE9jc3FNdg?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
+    },
+    {
+      "id": "FL-7da4229bf3e3",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 09:06:50 GMT",
+      "ts": 1789376810000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "中国地震局：正与苹果公司沟通 - cj.sina.cn",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LSUVIMkEyNHNtenZMSV91MnF0Z2l1MkdTWFVJRDZ5aDJETWtNQnRTaFVwXzBvV0NfbkdVMTlId2ZHa2FQdkZLdkFnYzVoN3hkV202NnBpMzlFaURabi1GQVNhdWpFbjIxeTZyQnFOZw?oc=5",
+      "site": "cj.sina.cn",
+      "siteUrl": "https://cj.sina.cn"
     },
     {
       "id": "FL-f420951c5971",
@@ -340,18 +364,6 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-f3eeba865e9b",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 07:37:00 GMT",
-      "ts": 1789371420000,
-      "scope": "intl",
-      "type": "weather",
-      "title": "尼泊尔北部山洪·追踪 | 遇难人数升至1392人 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOUhpZGZJZ1dscjVua0EtOHRfelRCeFhKNWpLclBrbXFobmZkNmdTeGFCNFRxdkJtdktEczNTX2t4OFExalp4NmFQMDBwbkdBUFFQaUhla0FnOUx0cGRFUmRmdVd0MFVOa0ZSV3k5c2wtZm9SbVEyMGRxQVpmVHltNTVta3Y1aFVEVldaNw?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-def32ff8029f",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 07:33:35 GMT",
@@ -448,6 +460,18 @@
       "siteUrl": "https://www.sohu.com"
     },
     {
+      "id": "FL-10cd76a23bc8",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 05:58:38 GMT",
+      "ts": 1789365518000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害遇难人数升至1392人 - 极目新闻",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95TzdXWG9XRjZJRUg4QzdjYnlhdjNMc0o5M0N2dDh4d2hJMjB6OUpvbjhhVDFXdm1Fa3E0S2NWZlJ1ZExLUW9Bam5ETzBjSkEwQnlNZHNDZnU3SUk?oc=5",
+      "site": "极目新闻",
+      "siteUrl": "https://www.ctdsb.net"
+    },
+    {
       "id": "FL-3f83d56fefde",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 05:50:33 GMT",
@@ -484,6 +508,18 @@
       "siteUrl": "https://www.thepaper.cn"
     },
     {
+      "id": "FL-d301ecb41fa1",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 05:04:42 GMT",
+      "ts": 1789362282000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "中国地震台网中心：正加快推进地震预警信息接入iOS系统-中新网 - chinanews.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56Y21wR2VWa2t0NW1BVVFOcjhQSDRUVnVnWlBXcTFBZDBNYndoaUVkTkNUcEFpUzg4MDhUYlhGOGZqbXl6UENGd1FWdTlLQVlBdWtRTmtoMmp1amp6TzhsM09fTjEzTVRF?oc=5",
+      "site": "chinanews.com.cn",
+      "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
       "id": "FL-64600b944c39",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 04:50:56 GMT",
@@ -494,18 +530,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbzJ4czFpMHJFejhMQ1hpeUtMLVU0UndnbHJaT0lLaHM4bDFIS1NHYUVWemdxLWM5S3lnUmlBQWg1UVBpc00tdHpKTG1RVS00WmpiTVlVRy1XVnFKU2RuNkFKNGFkOVRRUWVFVENhNlRxaVpXcUctelJCc3NhSUVpMzJCY2MtdHJf?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-3597c7e38d10",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 04:50:00 GMT",
-      "ts": 1789361400000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "中国地震台网中心：正与苹果公司沟通 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvZlJCNVNuVjZVNXNCejdTNU5DN1lncWotTExsM2hRSXdNTkhQM0RZUTgyaFlER2ZKTmxzYy1ibXVQTWVNYjBxZTcteTZyWVVsSmg1c2R6Z0NTZzFtVTBnQWFiOUJXM29DbEYxS2o1WUEzQy1IM3c?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-7d1edf5b8c66",
@@ -542,30 +566,6 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbElJQTRLdTlpNlVVNS02X1ZILUFPUTFxdlcwN3RmUDRrVGw5TGYwYlJYTXBLc2dIQ1l5RVhLRmRXaEMtWlpXb0ZCeGFFclFFRndYaS1yd0xkV3ktQ2lqUVN0SzhhY3VUMWxJblc3bWF4bjNOR0dpNTlIeU5ONW1oend0RTZxdm02MHNXX0xIWXlvRXBu?oc=5",
       "site": "紫荆网",
       "siteUrl": "https://zijing.com.cn"
-    },
-    {
-      "id": "FL-1ffa91b5f416",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 03:58:34 GMT",
-      "ts": 1789358314000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "最新：中国地震台网中心正与苹果公司沟通 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LVlNBd2tLNXAtaEhoeFgtZUVCb0EySHNyZG1maVhlY0hjREh2ejY2clBnaHBxTkRwUHF3Tm9VQ24wYVA0OUs2bTlxRldFLWlhUVE?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://www.sohu.com"
-    },
-    {
-      "id": "FL-8a41a0575738",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 03:42:40 GMT",
-      "ts": 1789357360000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "中国地震局：正与苹果公司沟通，力争加快推进地震预警信息接入iOS系统 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOckJqdzE0R0tBTEF4c2ZUTEZCN3EwWUZxMDVlbmZoc1l4ZUlMeVJTc3NWdmxiQmRGaF9QM0JGRWNXNlFMZmZENXd3Z2d0YnF1ZUNtZUJKdzlvSkNLbVZhX0J2NTF3QS1oTkk4WWpad21iQUcyRlh6X0swNU42eHd0YXAzVjVPLThKdWhKcg?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-cf557d871235",
@@ -652,15 +652,15 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-93fd2460b77b",
+      "id": "FL-c7eeeb1ce53a",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 01:44:00 GMT",
       "ts": 1789350240000,
       "scope": "dom",
       "type": "geo",
-      "title": "地震预警何时接入苹果系统？中国地震局回应 - 观察者网",
+      "title": "地震预警何时接入苹果系统？中国地震局回应 - guancha.cn",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tT01WaVdFa3NVQmp3cWoyMklIYUpmRVh0eWtidVA1VTRkcUd0UFloY1JBeVVaSUdiUUtia2VRN2RsZGFLUlI0bmFDbkxPTkFlRzFGeWpoSDhqdnowUXU2TlUtLWV2UQ?oc=5",
-      "site": "观察者网",
+      "site": "guancha.cn",
       "siteUrl": "https://www.guancha.cn"
     },
     {
@@ -718,11 +718,11 @@
       "ts": 1789109482000,
       "scope": "dom",
       "type": "fire",
-      "title": "青岛一艘外籍货轮发生火灾 造成重大人员伤亡 - bjnews.com.cn",
+      "title": "青岛一艘外籍货轮发生火灾 造成重大人员伤亡 - 新京报",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45U204ZEdEdEpDSW9KS1pLOHNENExGbzdXdHI4dXFTZzZWck4xV3R0UWw0QzFaZWE2aThfTXphNGNOQl9FeTBFcWhGRmc3RGMzRkJrRGVRaGc4RDBuYy01VkVUNjA?oc=5",
-      "site": "bjnews.com.cn",
+      "site": "新京报",
       "siteUrl": "https://www.bjnews.com.cn",
-      "related": 9
+      "related": 10
     }
   ]
 }
