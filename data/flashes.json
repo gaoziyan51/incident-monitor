@@ -1,17 +1,17 @@
 {
-  "updated": "2026-09-14T01:07:33.730Z",
+  "updated": "2026-09-14T01:21:58.591Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-243b1a22aad1",
+      "id": "FL-42ba1d0df553",
       "date": "2026-08-26",
       "dateISO": "Wed, 26 Aug 2026 07:00:00 GMT",
       "ts": 1787727600000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏土石流：接壤尼泊尔边境山洪暴发 上千人失踪包括多国游客 - bbc.com",
+      "title": "西藏土石流：接壤尼泊尔边境山洪暴发 上千人失踪包括多国游客 - BBC",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CTG9yTTh6cnplOGJ1TG5PUzFQRkwtNjZTTzFLcEMwYzRWQlhzTVF2eGMyUFRzdWlKYldDSTVRcWNVd2RnbkJWU1prR2FMUVhKeVk4X0c4MVNnbUFCTjItZ0JiN0xvd9IBa0FVX3lxTE1PT1F4VHcyMnlBRE5SdUdLeERKN21TU1VXSkdqTTNnWnE1MTkxNi1Yb1ZqbWQtX2ZVdGwtMFhCZjZsVmgwTi1LNkdwYWtOZTE3dDlIVzNiT3cxOHV2dzdnZF9hY2cwV3dsSi1j?oc=5",
-      "site": "bbc.com",
+      "site": "BBC",
       "siteUrl": "https://www.bbc.com"
     },
     {
@@ -27,15 +27,15 @@
       "siteUrl": "https://m.thecover.cn"
     },
     {
-      "id": "FL-b230488a052b",
+      "id": "FL-674383638b4c",
       "date": "2026-09-02",
       "dateISO": "Wed, 02 Sep 2026 07:00:00 GMT",
       "ts": 1788332400000,
       "scope": "dom",
       "type": "geo",
-      "title": "尼泊尔—西藏泥石流：堰塞湖和冰湖是下一个“定时炸弹”？ - bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfWmowNGIyc200QU1ESDVxbC1hdmdLWUlCQXNHazV6aVdvY1FYMGFySHFueG50UGc3Q2Z2ZUVXaWNtbUQtNlBMWkRDLU01T2R5blhnY2UtSUR5ZUdHaWt5YWszOFRFQdIBa0FVX3lxTE5ncUFxSTZyWVZGQ05yLWwtOGVLS01kb2lsNjY5cVNfU1VlN1hWSjFtUEx4eEpObTY3c3F5czNZeElUM01KaU5uVF9NQ2FDdGlMY29tbi16UFluSkVGSzFkNXJHZFFTOUU5eW80?oc=5",
-      "site": "bbc.com",
+      "title": "尼泊尔—西藏泥石流：堰塞湖和冰湖是下一个“定时炸弹”？ - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfWmowNGIyc200QU1ESDVxbC1hdmdLWUlCQXNHazV6aVdvY1FYMGFySHFueG50UGc3Q2Z2ZUVXaWNtbUQtNlBMWkRDLU01T2R5blhnY2UtSUR5ZUdHaWt5YWszOFRFQQ?oc=5",
+      "site": "BBC",
       "siteUrl": "https://www.bbc.com"
     },
     {
@@ -75,16 +75,29 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-70df99d44104",
+      "id": "FL-a2237798f821",
       "date": "2026-08-20",
       "dateISO": "Thu, 20 Aug 2026 07:00:00 GMT",
       "ts": 1787209200000,
       "scope": "intl",
       "type": "geo",
-      "title": "哥伦比亚地震：120万人亟需援助，部分社区仍无法抵达 - news.un.org",
+      "title": "哥伦比亚地震：120万人亟需援助，部分社区仍无法抵达 - UN News",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3V3JsRVZ2TkMxUkw3dk96SHFpNTEtSHhnQzRzMmJwOEhzZ0JnUHBNcnBMRDByWEhQTk5wbzdUMWwwenNoRVROdVBPN2phUjU3XzVOWVZoUQ?oc=5",
-      "site": "news.un.org",
+      "site": "UN News",
       "siteUrl": "https://news.un.org"
+    },
+    {
+      "id": "FL-EV-f283a898090a",
+      "date": "2026-09-10",
+      "dateISO": "Thu, 10 Sep 2026 21:38:54 GMT",
+      "ts": 1789076334000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "西藏吉隆泥石流已致16人遇难，546人失联 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRUowcWJsa1BOYmV2YkdVR1RvOGItQ1ZQMENFN18zOHlyZmpxTFZPNTVsNHhTbjgzNWswSzFXTnlLM1J2SGZpUU9fb2RNekxPSHZId1lkcW1uS0VDMDY0cjg2eGd2djdPQl9hVW5lTFVaSkpBV2Q0SFJhR3BaaDVtbzhraVhIZw?oc=5",
+      "site": "新浪网",
+      "siteUrl": "https://k.sina.com.cn",
+      "related": 43
     },
     {
       "id": "FL-18ed16b30a5c",
@@ -123,52 +136,39 @@
       "siteUrl": "https://www.bjnews.com.cn"
     },
     {
-      "id": "FL-EV-f283a898090a",
-      "date": "2026-09-10",
-      "dateISO": "Thu, 10 Sep 2026 04:18:39 GMT",
-      "ts": 1789013919000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "习近平对西藏日喀则市吉隆县遭受泥石流灾害作出重要指示 - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IRXVLRTR4WllScXRvU3JNenNpaWppamJiX0lWUUlhamFPeTk3YWV1WTdfYk02djVuWVA2RWF5UnkxaGRIVVoxZWlXUE1meFdrVGVQRVZlT25rTkxOcVQ2UjRR?oc=5",
-      "site": "新京报",
-      "siteUrl": "https://m.bjnews.com.cn",
-      "related": 40
-    },
-    {
-      "id": "FL-20349e76752b",
+      "id": "FL-31aaf7309a8a",
       "date": "2026-09-03",
       "dateISO": "Thu, 03 Sep 2026 07:00:00 GMT",
       "ts": 1788418800000,
       "scope": "dom",
       "type": "weather",
-      "title": "台风“沙德尔”带来强降雨，福建全力抢险救援 - fj.people.com.cn",
+      "title": "台风“沙德尔”带来强降雨，福建全力抢险救援 - 人民网-福建频道",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9idjB1WHk1RmxjaXpsRFVqTmtSUXdDbEcwVlp0d2k5TnNndmxBNXhhV0syZmdBVlVCQzZuZk56cmNGeWFCYnp5SkVxaFFvbGQ0TXoxalUyeFJtRHJfa2l2TVhBRXJVQWVfM0E?oc=5",
-      "site": "fj.people.com.cn",
+      "site": "人民网-福建频道",
       "siteUrl": "http://fj.people.com.cn"
     },
     {
-      "id": "FL-fc0e498bdf07",
+      "id": "FL-861987facab4",
       "date": "2026-08-30",
       "dateISO": "Sun, 30 Aug 2026 07:00:00 GMT",
       "ts": 1788073200000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏泥石流：中国称气候变暖导致惨烈灾难 - bbc.com",
+      "title": "西藏泥石流：中国称气候变暖导致惨烈灾难 - BBC",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44R3gxYndzaTFVdmhMRjlDRE1fWlNQcGc1dTQxRG85WC1YUTFPbHVmMGNSN1VJNnVDN2sxakFicFZla3NKWXUtTWI2Ymh0ODVQYzBNdUdKRUZ4VUQ5U0hGZW1NZXBHUdIBa0FVX3lxTE5BZmQwdGNTV1RjTHg0N3RHZmFjQmFzajZlZzdTOVFTSEtjWE8wUGY1LVlTeElnOFh1X191TW1kTlc1TzZXTkhOcjFXZ2tqWXZKOXgxbmo0S0I2eklUMk1NN3RLSDdmdy16S2pn?oc=5",
-      "site": "bbc.com",
+      "site": "BBC",
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-f7df76261340",
+      "id": "FL-89d6589d1504",
       "date": "2026-08-30",
       "dateISO": "Sun, 30 Aug 2026 07:00:00 GMT",
       "ts": 1788073200000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏泥石流：中国审查洪灾冲击口岸画面，当地灾民情况我们所知甚少 - bbc.com",
+      "title": "西藏泥石流：中国审查洪灾冲击口岸画面，当地灾民情况我们所知甚少 - BBC",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rWlBVcnZhd0NVTDlFZ3hVN3BYR3RLUFpMZEM0eVkwN2JkRXIzM0V0REJXR2FjeDRxUUVqeDBvMUtKU25TUFNDMzJYdHNucTZ4bDBEWkFjazFwZGZEOVJzVlZyNGtiZ9IBa0FVX3lxTFBOT0pTWlZHV0dDQTNJRFExWFdZcGJDZTI3aDVxeDJQNGk4WldjSzRwa1lJRXF3aW1Id1QwVHM0TlNoRWp2SmtvMURjcEZoTG5kaVlSOTlHcFpVMFpxSkp0MnVUX2NGZWZYZk5N?oc=5",
-      "site": "bbc.com",
+      "site": "BBC",
       "siteUrl": "https://www.bbc.com"
     },
     {
@@ -184,15 +184,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-38963400387c",
+      "id": "FL-f795d33529e3",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 23:58:42 GMT",
       "ts": 1789343922000,
       "scope": "dom",
       "type": "geo",
-      "title": "中国地震台网中心正与苹果公司沟通地震预警信息接入iOS系统 - huxiu.com",
+      "title": "中国地震台网中心正与苹果公司沟通地震预警信息接入iOS系统 - 虎嗅网",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zOXZqV0VRLWhkcThxNld2X1NDUXNDOG82T2J1WGYyV3pMOGw1SDZlaWxHeHA4NTZEMEZyLURNbjllbFR5Ym9mYjZIOHV1NkRxZ0Z3?oc=5",
-      "site": "huxiu.com",
+      "site": "虎嗅网",
       "siteUrl": "https://www.huxiu.com"
     },
     {
@@ -230,18 +230,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdXI0cmNRN0tUM1g5cnlwdmZBZExZcGtPdS1oZV9ZS3pVR2htQkxucHdVVnZJanlZRkVWLWRVa0xNTGR2OFhsV1pXNEsxQkx3R3pXRmtRLWtFQUlZeHZaX1VZWl9qb3lLLUJTb3dQbDlhRG5JRlRjaFRHNXYyNldTeFdLa3J5Y01CMjhxYw?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-fdeac30783e7",
-      "date": "2026-09-13",
-      "dateISO": "Sun, 13 Sep 2026 23:21:30 GMT",
-      "ts": 1789341690000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "台湾台东县海域发生4.1级地震 震源深度14公里 - 中华网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RX2JueEprVWo3VWpnSG1MSzJMX19ubjdfcnZPRVJDY3ZPenhpOUhiSmZEOEVsQXlzeE5CTDM1ZUtzM0Njam5JUGlnREhURktKc0VPcGJmbWxoYWlUMm9ic0dFS0pNT2FGcm5yaTJUUnE?oc=5",
-      "site": "中华网",
-      "siteUrl": "https://news.china.com"
     },
     {
       "id": "FL-689a6be40a21",
@@ -292,15 +280,15 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-2298e7dde388",
+      "id": "FL-c8df089e0330",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 19:32:25 GMT",
       "ts": 1789327945000,
       "scope": "dom",
       "type": "geo",
-      "title": "台湾花莲县发生4.1级地震 震源深度14千米 - huxiu.com",
+      "title": "台湾花莲县发生4.1级地震 震源深度14千米 - 虎嗅网",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FYW9OSGRCcW1UU0phcEVRbXVBSXUyNjlnc3R4YmVHcWZPdW12OXJqb25XUG82M3FPNVREY2QySDc5VXkweldXNERsNGRreUtWREVB?oc=5",
-      "site": "huxiu.com",
+      "site": "虎嗅网",
       "siteUrl": "https://www.huxiu.com"
     },
     {
@@ -374,6 +362,18 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMnhvYmd4bmFFQ3VrRG5EdWg2REd6UjR2QWZSWEFuTVRpZ2V0Sko1WW5GUGdrN0lDMDZEQXhUWjdibWt2WC1fTzRMTWhXNnJoTmZPNjJxTENTOV9mTXAwVFZ4N21HUDFoSjhZenZHTFdVTHZzS2pCQmVxRFNBc2dRdWZvNm1xbDlzTV8weg?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-149f2c3e6657",
+      "date": "2026-09-13",
+      "dateISO": "Sun, 13 Sep 2026 12:46:56 GMT",
+      "ts": 1789303616000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "德国政坛地震，魏德尔成赢家，中美俄表态，欧建制派挡不住右翼 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9RaU1mUlJHRGhUdjdxb0Vlbml2ZlN2aWUtTDZEZ2ZzQnprN20zRWhobzNwOUNJQnVMN25HekpSRWV0WHZRYnJoeXc3d1I?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://news.ifeng.com"
     },
     {
       "id": "FL-6409d57c8c84",
@@ -472,28 +472,16 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-5cdc73c89685",
+      "id": "FL-03e1c60639f5",
       "date": "2026-09-06",
       "dateISO": "Sun, 06 Sep 2026 05:31:42 GMT",
       "ts": 1788672702000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔给水力发电押下重注，泥石流把问题彻底暴露 - bbc.com",
+      "title": "尼泊尔给水力发电押下重注，泥石流把问题彻底暴露 - BBC",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByeEVvcHlucE92a1Z3T0Ywei1RT3Ric2RMaVEzNmVtbF9VVEVPMmhrNmliNEl3TGllWktKNjNodUNSSXh3S21KUHA2cEFqckZEV0RNMmpCWWRxSGM4Zm51VUEyV0dkZ9IBa0FVX3lxTFBxM2RNYURrR1hmQ1ktWnBrME1RQ1ZESXBWZHZ4aUNoaURoXy1BLXlySk9tcDZHb25fRmV5SDB5ZTVnck9rdlNmRHdGRkl3QldGb2VEZHA3VkNWT0NITjhmMTRwUWNpZEgxNDFF?oc=5",
-      "site": "bbc.com",
+      "site": "BBC",
       "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-0bb4cb5d3816",
-      "date": "2026-09-06",
-      "dateISO": "Sun, 06 Sep 2026 05:15:14 GMT",
-      "ts": 1788671714000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "湖南桂东强降雨引发山体滑坡！救援队正争分夺秒抢通S315生命线 - 中国科技网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mS0ZRT2QzNVd0N29ZZ3ZIWk9xUTBZZjlscFpuZVVGMFVRQkZYQWktZXFScVpwdHRaaVZzYUFQbjNacENkZUFYLU1rYS1xM0RScHdJSjFBenZxRmd3eUdrLVJ2ZzVRbFF0NkZnTGNiVEk?oc=5",
-      "site": "中国科技网",
-      "siteUrl": "https://www.stdaily.com"
     },
     {
       "id": "FL-f7114b7746fb",
@@ -580,6 +568,18 @@
       "siteUrl": "https://cn.chinadiplomacy.org.cn"
     },
     {
+      "id": "FL-fbd24f517fe8",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 01:06:45 GMT",
+      "ts": 1789348005000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "中国地震台网中心正与苹果公司沟通 推进地震预警接入iOS - 观点网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qQXNtb2ZhV1RmUEt2NmU5M3lhbTVKcDRRSDFnV1kxalJVMU03aEVVOTNrejZnMWcxTktTRVQ4Q0UyNUxJaTlvcVBnTk9fV1dEMld5b0o5Sk5sbTNJN0Fycm9n?oc=5",
+      "site": "观点网",
+      "siteUrl": "https://www.guandian.cn"
+    },
+    {
       "id": "FL-d40a3d7f23ac",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 00:54:08 GMT",
@@ -616,15 +616,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-ac6a56a90141",
+      "id": "FL-5a414ad78113",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 00:24:00 GMT",
       "ts": 1789345440000,
       "scope": "dom",
       "type": "geo",
-      "title": "中国地震局回应iPhone地震预警：正与苹果沟通推进接入iOS - news.mydrivers.com",
+      "title": "中国地震局回应iPhone地震预警：正与苹果沟通推进接入iOS - 驱动之家",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13dXJjQ2dDTmlPT2MtVVdVckl3MnRHU0s0bWhieTN1ZUJJRk9DY3oxQkR4MEZPRnM5TjdoWWc1UkZTMVBOZUhQMU00eFlzUzYxNk5xaFQxNzE?oc=5",
-      "site": "news.mydrivers.com",
+      "site": "驱动之家",
       "siteUrl": "https://news.mydrivers.com"
     },
     {
@@ -652,15 +652,15 @@
       "siteUrl": "https://news.futunn.com"
     },
     {
-      "id": "FL-3c635363150e",
+      "id": "FL-e8a32a183e42",
       "date": "2026-08-28",
       "dateISO": "Fri, 28 Aug 2026 07:00:00 GMT",
       "ts": 1787900400000,
       "scope": "dom",
       "type": "geo",
-      "title": "尼泊尔—西藏泥石流：堰塞湖风险、逾2000人遇难或失联，中国总理赴前线意味着什么？ - bbc.com",
+      "title": "尼泊尔—西藏泥石流：堰塞湖风险、逾2000人遇难或失联，中国总理赴前线意味着什么？ - BBC",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SMU9aYk1ieDUtRUYxczloUTVubHBZc2VCWlBtbGlLNmRWdXFGZ2xvUWhfSHZqVS0wYndtZzhUZGZDZlBiQlU0WDV2NUh5bkE1M1VtZURfZWRMaTR4SU4waWJHYXdFd9IBa0FVX3lxTFA3TVBheHVtYmo2X1ppZlgzNnhYZnc3eU9MOUVybUZlUGh0QXMwTklhWXktUm9Bcnh1dVdGcUZvZlVrWGQxTlNKX2xxVV9PRzBRSmR3QWdURDRZVEhja0loSWxWN2RtRmJxR1Y4?oc=5",
-      "site": "bbc.com",
+      "site": "BBC",
       "siteUrl": "https://www.bbc.com"
     },
     {
@@ -688,15 +688,15 @@
       "siteUrl": "https://m.thecover.cn"
     },
     {
-      "id": "FL-26a8fe1749ca",
+      "id": "FL-b2b6f1b4f078",
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 06:22:45 GMT",
       "ts": 1789107765000,
       "scope": "dom",
       "type": "geo",
-      "title": "河北唐山市丰南区发生2.5级地震，震源深度10千米 - news.cctv.com",
+      "title": "河北唐山市丰南区发生2.5级地震，震源深度10千米 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xNXU0YmZYYTk4Mlk2dTNCLWRfRW5CX21uNWFjUzYxMVU2MERVZDlIV1B3Y3d4Ml8yY2xxY1JmaXlHQ1c2MnpaQmE4Z09sY1BxRnFCX2pFekYtOG1sQ28xRFFEQ2J0VXBfbVhNU0tKWktEdEV1VUt2LQ?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -710,7 +710,7 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WT3lXY3pNQmR2YjZFV3dnS0NoZmdScUpzOW1lNXBCOWJjakk3cFByZTJRRjRVaU1lU0pFeTdzdlNRR2NuT3FGTkhQb3BvVzBuT1RQTkduZlVoUkhEVUNTT0FjbW55Zw?oc=5",
       "site": "sd.chinanews.com.cn",
       "siteUrl": "https://www.sd.chinanews.com.cn",
-      "related": 16
+      "related": 17
     },
     {
       "id": "FL-e34f6d05bc66",
