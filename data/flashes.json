@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T05:29:02.667Z",
+  "updated": "2026-09-14T05:41:57.185Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -97,7 +97,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IRXVLRTR4WllScXRvU3JNenNpaWppamJiX0lWUUlhamFPeTk3YWV1WTdfYk02djVuWVA2RWF5UnkxaGRIVVoxZWlXUE1meFdrVGVQRVZlT25rTkxOcVQ2UjRR?oc=5",
       "site": "新京报",
       "siteUrl": "https://m.bjnews.com.cn",
-      "related": 30
+      "related": 31
     },
     {
       "id": "FL-31aaf7309a8a",
@@ -412,18 +412,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-55ae6dc85c33",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 04:44:24 GMT",
-      "ts": 1789361064000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "圣何塞地震预备队4-0大胜皇家君主，Zachary Bohane两球，尼克-费尔南德斯破门 - 懂球帝",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAySEpUdTRuNGJjTUZFeU4wbkF2TTN1a1FndTNSMl81cko1YlZrZFIySEE1SW1ubTlobjlJd2FiakVsNlVVZUNON1hIQmdVR1Boa0diQi1aVQ?oc=5",
-      "site": "懂球帝",
-      "siteUrl": "https://m.dongqiudi.com"
-    },
-    {
       "id": "FL-b2a32a3dbd89",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 04:38:00 GMT",
@@ -544,6 +532,18 @@
       "siteUrl": "https://t.cj.sina.cn"
     },
     {
+      "id": "FL-b803caa200b8",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 02:35:16 GMT",
+      "ts": 1789353316000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "中国地震局回应“预警信息接入苹果iOS系统”，正在沟通，力争推进！ - stdaily.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91b2ZQMHJfOW44Z3dyb0JDU2F2M3F2VjlCeWU3SmxIWGRoZWZOUnhHbENDZVRoNTVmZy12Nms5Wk81T1FvUDBtcGt4ckZpYlFwWmttUkotTkwxWTZpcmVET1c0MkJUMW51MVVDTHA0Nmc?oc=5",
+      "site": "stdaily.com",
+      "siteUrl": "https://www.stdaily.com"
+    },
+    {
       "id": "FL-c5e6096e0bc8",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 02:13:10 GMT",
@@ -580,15 +580,15 @@
       "siteUrl": "https://www.guancha.cn"
     },
     {
-      "id": "FL-3475f8d3c4c4",
+      "id": "FL-ff971827ffa2",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 01:38:58 GMT",
       "ts": 1789349938000,
       "scope": "dom",
       "type": "geo",
-      "title": "中国地震台网中心正与苹果公司沟通 - 凤凰网",
+      "title": "中国地震台网中心正与苹果公司沟通 - news.ifeng.com",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9mQXZpaE9LMmJmNW5IbDNQTXNfbWh4X1dkN0szcThQRW9TbVYwNzNLc2NJTXpETWkzblVHUEptazJMdEFtSTMxeWxETlQ?oc=5",
-      "site": "凤凰网",
+      "site": "news.ifeng.com",
       "siteUrl": "https://news.ifeng.com"
     },
     {
