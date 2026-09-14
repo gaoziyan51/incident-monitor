@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T23:29:40.991Z",
+  "updated": "2026-09-14T23:40:46.878Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -75,6 +75,18 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
+      "id": "FL-4e39249f800d",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 23:33:16 GMT",
+      "ts": 1789428796000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "墨西哥西南近海地区发生5.5级地震 - finance.sina.cn",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96R1FrWUJpajBVT1lxLU00VVloUFdPdXh3NHEzdTI5RjhDVXNoWDBtZTJTcHpkalU1Z3E4dlpBSDFidHVfS0pxdXUzSG5SaGlfeEJ3Zi14d0VnWXVQT3V6TG9vWllIYlQ3ZGZOUUdaVkRPNG1fd0ZGWQ?oc=5",
+      "site": "finance.sina.cn",
+      "siteUrl": "https://finance.sina.cn"
+    },
+    {
       "id": "FL-ef8762f7d4df",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 23:20:16 GMT",
@@ -85,6 +97,19 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4ZlRyaE5FTVNSQlNwX1ppMlBMNHpKYjJQYnJQQUdobTZqZWZRaFREOGRFRjBrTWVNY2M2YkJpNjhqajROdkNMaHBEb2JYNHNsMk50VVJkQ05PdUZFa2I2X2tWV0JNU09qR1E?oc=5",
       "site": "联合早报",
       "siteUrl": "https://www.zaobao.com.sg"
+    },
+    {
+      "id": "FL-EV-18d9b0620c3d",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 23:15:22 GMT",
+      "ts": 1789427722000,
+      "scope": "dom",
+      "type": "fire",
+      "title": "早闻｜国务院对青岛货轮火灾事故提级调查；济南网络安全产业规模突破190亿元；王曼昱首登乒乓女单世界第一 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV3k2OGFEbjA3c0lCV0V3WXdRbjR2Z0JPN2xLTWNLR2Y3eG5aRE45dG9RdmgxUDBPT2JXQXJjZ2tpYkhQNVY5ZU9NcVpMUjdDc2RPMGM4ZXRGNUEtZUhYVG1zamNZcEFMcENKWU1RM3ZtdlB6QzU3cWNOVmNJRHkySVcySThaUjJnMDkwbQ?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com",
+      "related": 21
     },
     {
       "id": "FL-b46b06e8af75",
@@ -99,18 +124,6 @@
       "siteUrl": "https://www.jiemian.com"
     },
     {
-      "id": "FL-909ef06a4a75",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 23:01:17 GMT",
-      "ts": 1789426877000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "墨西哥西南近海地区发生5.5级地震 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03c21sYndGV0p1d0h3aTZ6aTQ3UGVLTlR6ZUFwdjZ1YnB6bzVFcjRXQzBUeFRHX0RsUkkyNElOSlNFRWZfbUdLV0J4aE9lWnlLaHRiOXJNTW5sai1sY2NzeklpalZMT1JlTlFPTERuOFh2Ri1YbURIMw?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.cn"
-    },
-    {
       "id": "FL-5189ab2d1634",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 22:58:00 GMT",
@@ -121,6 +134,30 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOZUdpMDc5NFRhLXBabjQ5ZTZZMUt5QjNicW43cjVWTDRNanlDRVoxeHo3enA1VDFiN2E0b2RvUldLSkVzOE9tVHo0aVZTclNUV0JLUEdPSW5BaXNpQzRpblVyWFY3Zm5OVjJ6dVpMN1pyVlEtRnpSRg?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
+    },
+    {
+      "id": "FL-a97849fe88f5",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 22:39:00 GMT",
+      "ts": 1789425540000,
+      "scope": "dom",
+      "type": "other",
+      "title": "中央气象台：今早至明早，四川、重庆、贵州、云南、广西、广东、海南等局地将有短时强降水 - thepaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3bDdFYTZfMEd3c3JKT0FaNDFKOUxEUWtkNzF6SGdZVHprelE3WlRISllLV1djdlJ6ZmNON2NKRHplcFFkQi1XNUluRWlRa2JOLU04SGNSX2dvaUx4ckE?oc=5",
+      "site": "thepaper.cn",
+      "siteUrl": "https://m.thepaper.cn"
+    },
+    {
+      "id": "FL-26d71b61fa33",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 21:30:55 GMT",
+      "ts": 1789421455000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "我市举办青少年地震预警科普和示范演练活动 - finance.sina.cn",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPaC11eUNPNVVNbE9KQXAtMTdZWUxSQzdncG5aZFUzNXpqSGpGSUFYOHdyOFYxLXlheHl1bmFpZ1pUeU5Mei1VZV9MaEpuN3BSektvNndLcnFxWTJadjNjaFlFNWUwSDU4cUh5RTVHdk5sQjNGOU55eA?oc=5",
+      "site": "finance.sina.cn",
+      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-9adee2cab9af",
@@ -135,27 +172,15 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-01827f725771",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 17:23:00 GMT",
-      "ts": 1789406580000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "王毅与拉脱维亚外长通话 向泥石流失踪拉方人员家属表示慰问 - gbcode.rthk.hk",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNEZFV1lNaHJXTW5XdVgxeTluSG51TUVSMk54NnJZaFBFckhQYlQyVWVISUp1QV9vYjdPZXE1ZlhmTjhhcXlvWXpPRE9hRmw5dVN4ZFpHekEyWkVFNmNTeUFCUlczeUEzQVBibTJnUE0td2lsM0ZBUVJiWmpmZk9DTjhwVjdkMkhIWFB4OUlyc0NLakQ4RWFZT2RJc3Q1eG84TW93?oc=5",
-      "site": "gbcode.rthk.hk",
-      "siteUrl": "https://gbcode.rthk.hk"
-    },
-    {
-      "id": "FL-2211b9933f06",
+      "id": "FL-359315b6a21f",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 17:03:44 GMT",
       "ts": 1789405424000,
       "scope": "dom",
       "type": "weather",
-      "title": "海南暴雨致五指山突发山洪 被困14人已获救 - 新浪财经",
+      "title": "海南暴雨致五指山突发山洪 被困14人已获救 - finance.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BWk16dnV0bFR3MWo0SGdWWHNLZUdQMy1YR254eDZIUVZIZzdOc3RXa0NxQkxITm9jVW1fbWExbkZGdV9XUERIaWdwd1JMYWpmbmwyRXJfT182TUhxNVlhYW82OElZeE9WLVJfai1HRGVpeUNldlhRTA?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.cn",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -195,19 +220,6 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-EV-18d9b0620c3d",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 14:05:00 GMT",
-      "ts": 1789394700000,
-      "scope": "dom",
-      "type": "fire",
-      "title": "中国国务院对青岛货轮火灾事故提级调查 - 早晨报",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UcnVGSUJwNm5PUV9JTGd3WDhsR0xLNDk4TG92V1FKcWpMbmJuaURvTmtQSFppUmRTMHlyQmJ2TFlITnBmVXF3RmUtbWh6Sk1iV0FSY2FxMTZZb3FvOTFuLTFOY0UzTGFH?oc=5",
-      "site": "早晨报",
-      "siteUrl": "https://www.zaochenbao.com",
-      "related": 21
-    },
-    {
       "id": "FL-9166fc8fde39",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 13:40:44 GMT",
@@ -220,15 +232,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-9f1680501c84",
+      "id": "FL-59a90c56f620",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 13:14:49 GMT",
       "ts": 1789391689000,
       "scope": "dom",
       "type": "weather",
-      "title": "海南防御强降雨紧急转移4.2万余人 13个市县宣布停课 - 新浪财经",
+      "title": "海南防御强降雨紧急转移4.2万余人 13个市县宣布停课 - finance.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZGJVbGtqWE9zTzBhRDJRRjVkZi1rSWNvNDF6M3ZhUWVuU1liVmFucWdxNU91R2UzaGU4c3ZPUmtGWmRuVWE1TmM0T0VCRF9pWGMzdlFkSmhIcmVSWE9BMDZPVVZHYmRWaWxPLW9xZmhBMEpjVlNRZUVBdEw4cUVxZWVIcw?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.cn",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -377,28 +389,16 @@
       "siteUrl": "https://china.kyodonews.net"
     },
     {
-      "id": "FL-f420951c5971",
+      "id": "FL-c38bd1e0627f",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 10:03:14 GMT",
       "ts": 1789380194000,
       "scope": "dom",
       "type": "weather",
-      "title": "特大暴雨来了，海南多地停课 - 新浪财经",
+      "title": "特大暴雨来了，海南多地停课 - finance.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX0xWSWhiV3JFLXpLTjNBdGtsUkIyYnJYSWJlQUxwQ0hWVU9SUjdMd1o2Wk5PWi1ZU0NFOWFqNmdXS0gwQVRDaHVXUWYtY2NCNWctSllwdVlqR0N3Qy1VOXlhUDVCenhQeUEwYlE2NWdsVkt1UVNCZjVHSjlkVUZxZXNKZGxvYWxOaFpJ?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.cn",
       "siteUrl": "https://finance.sina.cn"
-    },
-    {
-      "id": "FL-98cf73d95512",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 10:01:40 GMT",
-      "ts": 1789380100000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "海南省消防救援队伍进入二级响应 全力应对暴雨防汛 - hainan.ifeng.com",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40ZW9pMy1VaDNfNzdYVTZMMmM0dkhPM0syR09QY29KYTVUWWtkcHZfLTRib2NNZjVYWWdjYnJHcTJvYkNUMkhEdWdLT3dzaGs?oc=5",
-      "site": "hainan.ifeng.com",
-      "siteUrl": "https://hainan.ifeng.com"
     },
     {
       "id": "FL-9d7fbf6eff90",
@@ -461,15 +461,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-aca302f8939d",
+      "id": "FL-74ae2abf2319",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 09:11:37 GMT",
       "ts": 1789377097000,
       "scope": "dom",
       "type": "weather",
-      "title": "13个市县停课！海南局地特大暴雨 - 新浪财经",
+      "title": "13个市县停课！海南局地特大暴雨 - finance.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObzliT210R2lwWFVXZWZicGVqcEZ4aVlDeWFFb2F2REIxNWF3Ul9vbjltTWdhV3ZEZk9yVHV1YWZ4WHViSExEak5XVTVhSHNTaG5mYWZablduSkd4UFhxTDFzN3dSbElaR2R6eE1pZWNBeFU3WndjWVVqUllNTGJYYV9TNk8tZE5uNGdoMnpkXzZBSnhCSE9ZZQ?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.cn",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -581,6 +581,18 @@
       "siteUrl": "https://static.nfnews.com"
     },
     {
+      "id": "FL-9aa8e51f4ba1",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 06:04:59 GMT",
+      "ts": 1789365899000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害遇难人数升至1392人 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kSnlyWFF2a095a0pJSGZmaEtnUkZ3ZkNoMjB0aVIwZ21EaUhfdmRvZnpYYm5wcUo3OC0xQ3NxM3dVT3NtSkdiSVp2VmdYYWtXSGgtNk1xdWliYjFqbmc?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
       "id": "FL-3f83d56fefde",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 05:50:33 GMT",
@@ -615,18 +627,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56Y21wR2VWa2t0NW1BVVFOcjhQSDRUVnVnWlBXcTFBZDBNYndoaUVkTkNUcEFpUzg4MDhUYlhGOGZqbXl6UENGd1FWdTlLQVlBdWtRTmtoMmp1amp6TzhsM09fTjEzTVRF?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-9f25c7e21346",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 04:32:30 GMT",
-      "ts": 1789360350000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "海南全力防御强降雨 已紧急转移群众3.1万余人 - 紫荆网",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbElJQTRLdTlpNlVVNS02X1ZILUFPUTFxdlcwN3RmUDRrVGw5TGYwYlJYTXBLc2dIQ1l5RVhLRmRXaEMtWlpXb0ZCeGFFclFFRndYaS1yd0xkV3ktQ2lqUVN0SzhhY3VUMWxJblc3bWF4bjNOR0dpNTlIeU5ONW1oend0RTZxdm02MHNXX0xIWXlvRXBu?oc=5",
-      "site": "紫荆网",
-      "siteUrl": "https://zijing.com.cn"
     },
     {
       "id": "FL-dbe70b53bbc8",
