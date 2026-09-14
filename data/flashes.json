@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T03:13:27.006Z",
+  "updated": "2026-09-14T03:31:16.105Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -51,6 +51,18 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
+      "id": "FL-70df99d44104",
+      "date": "2026-08-20",
+      "dateISO": "Thu, 20 Aug 2026 07:00:00 GMT",
+      "ts": 1787209200000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "哥伦比亚地震：120万人亟需援助，部分社区仍无法抵达 - news.un.org",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3V3JsRVZ2TkMxUkw3dk96SHFpNTEtSHhnQzRzMmJwOEhzZ0JnUHBNcnBMRDByWEhQTk5wbzdUMWwwenNoRVROdVBPN2phUjU3XzVOWVZoUQ?oc=5",
+      "site": "news.un.org",
+      "siteUrl": "https://news.un.org"
+    },
+    {
       "id": "FL-18ed16b30a5c",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 15:56:00 GMT",
@@ -97,7 +109,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IRXVLRTR4WllScXRvU3JNenNpaWppamJiX0lWUUlhamFPeTk3YWV1WTdfYk02djVuWVA2RWF5UnkxaGRIVVoxZWlXUE1meFdrVGVQRVZlT25rTkxOcVQ2UjRR?oc=5",
       "site": "新京报",
       "siteUrl": "https://m.bjnews.com.cn",
-      "related": 37
+      "related": 34
     },
     {
       "id": "FL-31aaf7309a8a",
@@ -316,15 +328,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-c94dbfefcbc9",
+      "id": "FL-ba3e0397aefc",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 10:57:00 GMT",
       "ts": 1789297020000,
       "scope": "dom",
       "type": "other",
-      "title": "河北涉县一限高杆断裂倒塌 官方：未造成人员伤亡 - hb.dzwww.com",
+      "title": "河北涉县一限高杆断裂倒塌 官方：未造成人员伤亡 - 海报新闻",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10U1JJVTlIUzk5OXVFTkNNdlVMMVkwazFVNGFmM2Z1VUFONWFhT1pJQ1FFa0RSVmF4VHZ0ZUZrUjZLSnloVzJEcW5TWVQ1Q2o5?oc=5",
-      "site": "hb.dzwww.com",
+      "site": "海报新闻",
       "siteUrl": "https://hb.dzwww.com"
     },
     {
@@ -364,18 +376,6 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-d4df2e65311d",
-      "date": "2026-09-13",
-      "dateISO": "Sun, 13 Sep 2026 03:19:44 GMT",
-      "ts": 1789269584000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "地震预警能提前多久？为什么离震中越近，可供处置的时间反而越短？ - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE80dnVHY1ZGdjRQLUhQM2ZPLU5icnBHYVNFaWh5RzRNVFNReFQ4U2FjN2ViZXVWVGRLV3hJSG5sQmJyMVZlcklsMFJMX0pidEcwQ05QQXIyTHd5bDVxclhVV3JvdUpPVEpxZTY5Qk1hRmpMLTlubUQ4OW5wNE15Zw?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.cn"
-    },
-    {
       "id": "FL-03e1c60639f5",
       "date": "2026-09-06",
       "dateISO": "Sun, 06 Sep 2026 05:31:42 GMT",
@@ -386,18 +386,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByeEVvcHlucE92a1Z3T0Ywei1RT3Ric2RMaVEzNmVtbF9VVEVPMmhrNmliNEl3TGllWktKNjNodUNSSXh3S21KUHA2cEFqckZEV0RNMmpCWWRxSGM4Zm51VUEyV0dkZ9IBa0FVX3lxTFBxM2RNYURrR1hmQ1ktWnBrME1RQ1ZESXBWZHZ4aUNoaURoXy1BLXlySk9tcDZHb25fRmV5SDB5ZTVnck9rdlNmRHdGRkl3QldGb2VEZHA3VkNWT0NITjhmMTRwUWNpZEgxNDFF?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-f7114b7746fb",
-      "date": "2026-08-29",
-      "dateISO": "Sat, 29 Aug 2026 07:00:00 GMT",
-      "ts": 1787986800000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流已致626人死亡 2426人失联 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PYjVKWUZ4T2psOVJsenNtWWs4WFNGcmZVakNzS21POTdVeGJHMWg2c1NYNDBjUjFwUFh5bHBueVFneTN5VmFCMXlIQjVjZXQ1dDh3QzF2Ry1HeFlZN2tydnNqV0tEcnhNZDA2aDRZWHkzeHFuZG54UFpXZ2V2OTA?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-a8bb39da1317",
@@ -424,16 +412,64 @@
       "siteUrl": "https://www.xhby.net"
     },
     {
-      "id": "FL-6cf5b13daede",
-      "date": "2026-08-31",
-      "dateISO": "Mon, 31 Aug 2026 07:00:00 GMT",
-      "ts": 1788159600000,
+      "id": "FL-5a75640e9584",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 03:28:38 GMT",
+      "ts": 1789356518000,
       "scope": "dom",
       "type": "geo",
-      "title": "中方批评将泥石流灾害归咎于中国的“恶意揣测” 网警公布10起网络谣言案例 - rfi.fr",
-      "url": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxOblVaQ2loMzM2eFZRbWNOdHNDY1A0T2VUdFFTY2c2VjlSWXRyel8xMkw2RWVJZjEyQVdmYVkyMDFRSGR6eGpIWFZ5cms2YTZmcUxadDVxYTlpRjUwVTR4SzFxSmNtX3hkRnl5bUZLTXZDcGxndG5jUUdRbFVGSVF3Skd6X3Z3WGw4Qzhlb3ZRUG9iY20tc3p6V1J0N29tYUowTEZEOVo2VFRUVGJPbzgxel9KaXExM0pOXzMzbXpqb3FYSXFoZThEMzNxQVNDdFZtaFUwVDVZaS1Ra0VpYXREUGRCVk5BaHVHU2UtQjZzcEdzTHViVEdKV2NnbExUWEVlbVltbnFsMlotWjdiZXc3OGxDdTZ1cE1kTUhMSlljUHZpRVd1TERkMTFCZ2xObTkyZUJOYkJicC04OEhfQzBPMnVCUm8wVTNLb0k2eDdIcl9lUXBhZDRsQi1jUW01X1BQVS1Ldnc4OWRPVEJKMzhiVlYtWkEwOE9NOXl6OVZQVDU3ek4zVlBqampNR1FrNVdoWHlfaklmX3N3OThmNmlGRDdMeS1qc3BYN3dUdkdmQWN4UTllWVJqajdoU2FoaTQyMEVzYnZ0M2NmTE5xczBvUllTOU5lVVR6?oc=5",
-      "site": "rfi.fr",
-      "siteUrl": "https://www.rfi.fr"
+      "title": "官方回应地震预警信息接入ios系统： 正与苹果公司沟通，力争加快推进 - sohu.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQamZna3R5XzBYX182WmU0R25wdm52eDNKRDFLMEp2Zm4yMmlhbmRlYUtXcjJhc1FndXFHQ01xWHhoYVl1clRIWmpYVTM0Z1JhNlZDSnZrOTREWm9yVzBYcVYtam0yOHVmMG5sdnN1Z09vQVpYNE9XdHZIeW9vd0xSYXUwMmZva0wzVnhSQQ?oc=5",
+      "site": "sohu.com",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-69a3c25f6b46",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 03:23:19 GMT",
+      "ts": 1789356199000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "中国地震局：正与苹果公司沟通 力争加快推进 地震预警信息接入iOS系统 - sohu.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUzRIT0ZYdVpvN21kaHU3dmo1WWx1cEdwcVpmd2ZUSzZBNmJ1VVVaMTdqUjNxempkTVFIWWRXWnNtTVRLbElDaDRhZFk4YVFYTDdkZEI1TFdSWmViRkdPZk9lNHM3LUkxSzYxZGRvcFlQOWpUa2JHaEd3WldLd3RzdkZ2RXg3YmU2?oc=5",
+      "site": "sohu.com",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-585d6715c2b7",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 03:23:00 GMT",
+      "ts": 1789356180000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "中国地震局：正与苹果公司沟通，力争加快推进地震预警信息接入iOS系统 - 川观新闻",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5oVWJFa0pFRU1sUFl1OXduQWhDSWJidDdjWTZBUnhJLVFGRkJEdFJJMXduUjNzZkU1S3JVV3B6Qk9NVXBhUE40U3lfb2pUQQ?oc=5",
+      "site": "川观新闻",
+      "siteUrl": "https://cbgc.scol.com.cn"
+    },
+    {
+      "id": "FL-b133a2e7d7d9",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 03:19:10 GMT",
+      "ts": 1789355950000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "苹果手机接入地震预警信息受关注，中国地震局多次表态加快推进 - Jiemian.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QMHEwa2NCVC1acGYxSVUyR2QtX2tERmFHYVVCazYzN0JTSFV2dXN1S1F4TTF1dS1TVk1lUWNIaDA1SkZ2YzFkWVpJeFZ0LWFEVmQzMHlsYmI?oc=5",
+      "site": "Jiemian.com",
+      "siteUrl": "https://www.jiemian.com"
+    },
+    {
+      "id": "FL-aeee235da049",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 03:02:11 GMT",
+      "ts": 1789354931000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "中国地震台网中心：正在沟通，加快推进地震预警信息接入iOS系统 - t.cj.sina.cn",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BYlBpZXFlZjNQM0ludTNpYmxBY1RIWDBaNG9qSzFELVA3ZVhfQnUySzEtQ3d3UGRFckdESWRhM043cVhMN1RVUzVETzFHN0NtMGJRdHdqd3NhQlJvaFVmN0Yxalc5cFpISkVtQWcwZU0?oc=5",
+      "site": "t.cj.sina.cn",
+      "siteUrl": "https://t.cj.sina.cn"
     },
     {
       "id": "FL-c665147f515b",
@@ -446,18 +482,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yMU90X2s5WDZaQ3RuSlJmZng2azRjZXppVFVTVVZzWWRzTnJxVHhNSWRxVDZNQ2N3WXJMaXo0TjZZbXB3SWRJQmU1RjU1RTNiVm9UaUp3?oc=5",
       "site": "mediaselangor.com",
       "siteUrl": "https://mediaselangor.com"
-    },
-    {
-      "id": "FL-ab1b29cb2ff4",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 03:02:09 GMT",
-      "ts": 1789354929000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "中国地震台网中心：正在沟通，加快推进地震预警信息接入iOS系统 - sohu.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSVlSSG1vQXQwUmFMSTZYT3BNY0xFd3NJRG1yMGd6bUdDbUJtUFhrVnRuSjVSQTRIWXlYcFlxaGZyaS1QRzRCYlR3X3Z3WEhQUXZCV3o0WjJIWUpSSzg2U282eG91akdTZEdCSU9OOU9XdmQtMElLcVdEcDFqQjJyRjZ1cWNRdGhH?oc=5",
-      "site": "sohu.com",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-0060923eaf19",
@@ -494,18 +518,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVFZlY2k5RFU1eXJYQVpXQklzQnF4Wlo1R0lfdTFTdk1jMllsZWVfaE1nZmxjLS0wQnhncDNnbkZaVVhGUExLYmVNY3laZEZSZDFTdXM5Y1lzZkYwTGFmRDc0N0xabXo2VEQ2N2ZKcWZGYzlocWU2RGhTVEd1ZGdILVdRamV2NUg1YXp6aA?oc=5",
       "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-00c49d09a429",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 02:13:20 GMT",
-      "ts": 1789352000000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "地震局回应“预警信息接入苹果系统” 正积极推进中 - news.china.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tMUlJNDFGYUd3Y2VXRkRRNTEzdU94Y2hVQVYyTkpfVnE1MV9GNVJuQlo2RXhtYjhnR2o2OTBHMk93eERvWEt6d0ExRTVoU3plSHRfYWxTanhia0VsMzNodUpFanhVczhQcFlIdHJlNlI?oc=5",
-      "site": "news.china.com",
-      "siteUrl": "https://news.china.com"
     },
     {
       "id": "FL-c5e6096e0bc8",
@@ -711,18 +723,6 @@
       "site": "sd.chinanews.com.cn",
       "siteUrl": "https://www.sd.chinanews.com.cn",
       "related": 16
-    },
-    {
-      "id": "FL-e34f6d05bc66",
-      "date": "2026-09-04",
-      "dateISO": "Fri, 04 Sep 2026 22:22:08 GMT",
-      "ts": 1788560528000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "冰崩引发泥石流，有何特殊性？ - 人民日报",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LTFZPLXpCT0JVSzdjZzFfS093ZTVWMFF1d3dxNUFlN3huOEY1SUZWTFJwdkZOZzl0bGtqekFqUWZNZ0JHOUhJQUtJeHVCYzBuc3Z0T0J3TXJWTElZMVpWbndvRnBuNWV0TzhmYTBaRlc3UnBSRmpfMUlTVEZVSVE?oc=5",
-      "site": "人民日报",
-      "siteUrl": "http://paper.people.com.cn"
     }
   ]
 }
