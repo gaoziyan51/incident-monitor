@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T17:50:32.301Z",
+  "updated": "2026-09-14T18:07:39.938Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -10,7 +10,7 @@
       "scope": "dom",
       "type": "geo",
       "title": "尼泊尔—西藏泥石流：堰塞湖和冰湖是下一个“定时炸弹”？ - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfWmowNGIyc200QU1ESDVxbC1hdmdLWUlCQXNHazV6aVdvY1FYMGFySHFueG50UGc3Q2Z2ZUVXaWNtbUQtNlBMWkRDLU01T2R5blhnY2UtSUR5ZUdHaWt5YWszOFRFQdIBa0FVX3lxTE5ncUFxSTZyWVZGQ05yLWwtOGVLS01kb2lsNjY5cVNfU1VlN1hWSjFtUEx4eEpObTY3c3F5czNZeElUM01KaU5uVF9NQ2FDdGlMY29tbi16UFluSkVGSzFkNXJHZFFTOUU5eW80?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfWmowNGIyc200QU1ESDVxbC1hdmdLWUlCQXNHazV6aVdvY1FYMGFySHFueG50UGc3Q2Z2ZUVXaWNtbUQtNlBMWkRDLU01T2R5blhnY2UtSUR5ZUdHaWt5YWszOFRFQQ?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
     },
@@ -159,6 +159,18 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
+      "id": "FL-2b20cc44bb65",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 13:05:29 GMT",
+      "ts": 1789391129000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "云南墨江发生4.5级地震，暂无人员伤亡报告，市民：地震时正在打扫卫生，拿着垃圾袋往室外跑 - 极目新闻",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHbFZPQ2FUU3liNG00N2dXSklPWU94bVZUTEphalhSaDNITWNWaTFNNUYtdmlGR0t0QUNIOVMxOWtMblhuMVVsbjdCNm41UjNlUGZkTUxhS2NOTkU?oc=5",
+      "site": "极目新闻",
+      "siteUrl": "https://www.ctdsb.net"
+    },
+    {
       "id": "FL-0c6e28fce47f",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 12:41:04 GMT",
@@ -181,7 +193,7 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YZkR4Y0d0X3puNWh4WURpNGl3UUVaXzVEMkVLelFxMWQ3SjlOSHFWcXhEbkdTWmdYRjh1S05GbE55enluN0g0Ulpub21wOEJiRDhTdDl5ZGd2LXhkUGF6TmxzUQ?oc=5",
       "site": "jingjiribao.cn",
       "siteUrl": "http://www.jingjiribao.cn",
-      "related": 35
+      "related": 33
     },
     {
       "id": "FL-ad1bc16065fd",
@@ -218,7 +230,7 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVGFKaXJuM1dwZlI1aHNHQ1owMHhNTTl4ZTlXNm9ONjh1bkh5TllyRXAzeS1oeHYtWTNOUWJsRjBNSjI5bXJEcDEyUmN3OUp6bG5Db0VNUFlKeFNERVgwT0dsWlhnSmFOWFZNRjk3UlY5b1EzNkhHd3p3czBSUFZDbzRNYw?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn",
-      "related": 21
+      "related": 22
     },
     {
       "id": "FL-2da5732687e2",
@@ -351,18 +363,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxOTV6NU5SOV8xdUFoUUZRZXg3QmYzZFN0X19qSjBRSmFGeENqZ0YwcTM0UDVmemVKUTFsRE01SUpJUWtWbVl0cTgybnNiblN1QlVWYXV0RzE1NjgxS1RpMmRRRDVENERQ?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-68b39fa2332e",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 09:44:05 GMT",
-      "ts": 1789379045000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "印尼万丹省西南海域发生5.6级地震 - yicai.com",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HdkhPUDZyWGpmZEF6VTlXR3B0ZVkwanpyOUx2bHk1enlNQXgzWEdxWUJaR1pMOWppcUp4a1d5dm9mZ1ZyMFlKbWxORWZVMnM2SXJF?oc=5",
-      "site": "yicai.com",
-      "siteUrl": "https://www.yicai.com"
     },
     {
       "id": "FL-b517218cebd3",
@@ -617,15 +617,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-9f2516940fbb",
+      "id": "FL-9f25c7e21346",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 04:32:30 GMT",
       "ts": 1789360350000,
       "scope": "dom",
       "type": "weather",
-      "title": "海南全力防御强降雨 已紧急转移群众3.1万余人 - zijing.com.cn",
+      "title": "海南全力防御强降雨 已紧急转移群众3.1万余人 - 紫荆网",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbElJQTRLdTlpNlVVNS02X1ZILUFPUTFxdlcwN3RmUDRrVGw5TGYwYlJYTXBLc2dIQ1l5RVhLRmRXaEMtWlpXb0ZCeGFFclFFRndYaS1yd0xkV3ktQ2lqUVN0SzhhY3VUMWxJblc3bWF4bjNOR0dpNTlIeU5ONW1oend0RTZxdm02MHNXX0xIWXlvRXBu?oc=5",
-      "site": "zijing.com.cn",
+      "site": "紫荆网",
       "siteUrl": "https://zijing.com.cn"
     },
     {
@@ -653,15 +653,15 @@
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
-      "id": "FL-cdffb1dacb44",
+      "id": "FL-b133a2e7d7d9",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 03:19:10 GMT",
       "ts": 1789355950000,
       "scope": "dom",
       "type": "geo",
-      "title": "苹果手机接入地震预警信息受关注，中国地震局多次表态加快推进 - jiemian.com",
+      "title": "苹果手机接入地震预警信息受关注，中国地震局多次表态加快推进 - Jiemian.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QMHEwa2NCVC1acGYxSVUyR2QtX2tERmFHYVVCazYzN0JTSFV2dXN1S1F4TTF1dS1TVk1lUWNIaDA1SkZ2YzFkWVpJeFZ0LWFEVmQzMHlsYmI?oc=5",
-      "site": "jiemian.com",
+      "site": "Jiemian.com",
       "siteUrl": "https://www.jiemian.com"
     },
     {
