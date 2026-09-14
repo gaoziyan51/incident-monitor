@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T14:51:03.685Z",
+  "updated": "2026-09-14T15:08:55.528Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -25,6 +25,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfWmowNGIyc200QU1ESDVxbC1hdmdLWUlCQXNHazV6aVdvY1FYMGFySHFueG50UGc3Q2Z2ZUVXaWNtbUQtNlBMWkRDLU01T2R5blhnY2UtSUR5ZUdHaWt5YWszOFRFQdIBa0FVX3lxTE5ncUFxSTZyWVZGQ05yLWwtOGVLS01kb2lsNjY5cVNfU1VlN1hWSjFtUEx4eEpObTY3c3F5czNZeElUM01KaU5uVF9NQ2FDdGlMY29tbi16UFluSkVGSzFkNXJHZFFTOUU5eW80?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-31aaf7309a8a",
+      "date": "2026-09-03",
+      "dateISO": "Thu, 03 Sep 2026 07:00:00 GMT",
+      "ts": 1788418800000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "台风“沙德尔”带来强降雨，福建全力抢险救援 - 人民网-福建频道",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9idjB1WHk1RmxjaXpsRFVqTmtSUXdDbEcwVlp0d2k5TnNndmxBNXhhV0syZmdBVlVCQzZuZk56cmNGeWFCYnp5SkVxaFFvbGQ0TXoxalUyeFJtRHJfa2l2TVhBRXJVQWVfM0E?oc=5",
+      "site": "人民网-福建频道",
+      "siteUrl": "http://fj.people.com.cn"
     },
     {
       "id": "FL-e4ef799b67f2",
@@ -75,18 +87,6 @@
       "siteUrl": "https://m.voc.com.cn"
     },
     {
-      "id": "FL-03e1c60639f5",
-      "date": "2026-09-06",
-      "dateISO": "Sun, 06 Sep 2026 07:00:00 GMT",
-      "ts": 1788678000000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔给水力发电押下重注，泥石流把问题彻底暴露 - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByeEVvcHlucE92a1Z3T0Ywei1RT3Ric2RMaVEzNmVtbF9VVEVPMmhrNmliNEl3TGllWktKNjNodUNSSXh3S21KUHA2cEFqckZEV0RNMmpCWWRxSGM4Zm51VUEyV0dkZ9IBa0FVX3lxTFBxM2RNYURrR1hmQ1ktWnBrME1RQ1ZESXBWZHZ4aUNoaURoXy1BLXlySk9tcDZHb25fRmV5SDB5ZTVnck9rdlNmRHdGRkl3QldGb2VEZHA3VkNWT0NITjhmMTRwUWNpZEgxNDFF?oc=5",
-      "site": "BBC",
-      "siteUrl": "https://www.bbc.com"
-    },
-    {
       "id": "FL-7b5553282796",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 14:19:53 GMT",
@@ -97,18 +97,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NRDEyLTlCODh6d0h4Zk5rMnpwU09lV1d0SUNDTXRoT3ktLVliWjhrSDVTYnYyaE11Uk5RZ0Q1aFdfR1NNQXpiQ1l0b1lQM0ZIZkVNZzhuczJrbEtES0ZzOFVUNXBTMTBT?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-7d1b29c00db6",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 14:18:00 GMT",
-      "ts": 1789395480000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "日本滨冈核电站丑闻调查报告出炉：篡改地震评估！208项造假 - 驱动之家",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EM2NjTzQzSWhPQ2xTSWFpTmtCaGxDN001YVduNG1kZ05yU0hPWnJPQmdyd3JjUjREb0lBNXhIYXptR0VBOFBvS2FVTkFWcmZfbXZFWnZkRjQ?oc=5",
-      "site": "驱动之家",
-      "siteUrl": "https://news.mydrivers.com"
     },
     {
       "id": "FL-9166fc8fde39",
@@ -182,6 +170,18 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoSHdWOTltc2tKRzdVMDdHa2VfaVd2VUh6RWcwaEw1N2pwaTVBMlZzVlhjMDNnN09wdDFmNHRuM2sxN3FjMVVYRzBUMHIwNkU2YUo4UHRzVFVJU2ExVXN4UA?oc=5",
       "site": "thepaper.cn",
       "siteUrl": "https://www.thepaper.cn"
+    },
+    {
+      "id": "FL-dbba2a99fd38",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 11:38:37 GMT",
+      "ts": 1789385917000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "海南全省已转移4.2万余人 应对强降雨险情 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91UXc0RUNYSklWV1NEbUxZX1VncUszTzVSUXdKUFdyVjJ0VlRLQ3dhZFdacHZ4SzQyUlM1Y1UwX1VrT2IxQVIybi13VUR0V3liYUxuUDB1dEYxOFhyb1pJWXJrdUd1dFNBRTdwWTByMEc?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
     },
     {
       "id": "FL-79336b875ee3",
@@ -677,6 +677,18 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
+      "id": "FL-6bd4ba852002",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 02:37:00 GMT",
+      "ts": 1789353420000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "中国地震台网中心正就地震预警信息接入iOS系统与苹果公司沟通 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1abGwtQUJJemNSVWktb2JwdUFzM0huQVBpX2lVeXI0Y2MtVTZKQnVxQk9GTW5MXzNCRG1MbGg3Z3pFQlpyLXhMaDNmUnhIYWl1WXBfNmNfNVQweHU4dVJJR25YYVlMa3pJUjg0aUNMTnl5LUV2aUtJVw?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
+    },
+    {
       "id": "FL-b803caa200b8",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 02:35:16 GMT",
@@ -689,28 +701,16 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
-      "id": "FL-c7eeeb1ce53a",
+      "id": "FL-93fd2460b77b",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 01:44:00 GMT",
       "ts": 1789350240000,
       "scope": "dom",
       "type": "geo",
-      "title": "地震预警何时接入苹果系统？中国地震局回应 - guancha.cn",
+      "title": "地震预警何时接入苹果系统？中国地震局回应 - 观察者网",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tT01WaVdFa3NVQmp3cWoyMklIYUpmRVh0eWtidVA1VTRkcUd0UFloY1JBeVVaSUdiUUtia2VRN2RsZGFLUlI0bmFDbkxPTkFlRzFGeWpoSDhqdnowUXU2TlUtLWV2UQ?oc=5",
-      "site": "guancha.cn",
+      "site": "观察者网",
       "siteUrl": "https://www.guancha.cn"
-    },
-    {
-      "id": "FL-5a414ad78113",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 00:24:00 GMT",
-      "ts": 1789345440000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "中国地震局回应iPhone地震预警：正与苹果沟通推进接入iOS - 驱动之家",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13dXJjQ2dDTmlPT2MtVVdVckl3MnRHU0s0bWhieTN1ZUJJRk9DY3oxQkR4MEZPRnM5TjdoWWc1UkZTMVBOZUhQMU00eFlzUzYxNk5xaFQxNzE?oc=5",
-      "site": "驱动之家",
-      "siteUrl": "https://news.mydrivers.com"
     },
     {
       "id": "FL-e8a32a183e42",
