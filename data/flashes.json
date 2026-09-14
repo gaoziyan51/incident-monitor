@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T01:21:58.591Z",
+  "updated": "2026-09-14T01:37:39.008Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -63,18 +63,6 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-a66e299abb48",
-      "date": "2026-09-01",
-      "dateISO": "Tue, 01 Sep 2026 07:00:00 GMT",
-      "ts": 1788246000000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "法国报纸摘要 - 尼泊尔仍未解除对中国在这次泥石流洪灾中应负责任的怀疑 - RFI",
-      "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxQekE0d0ZoUlkzQWpLM0l4TWx5a29mcmZkLXpqTGpKS2VublhpQWlLcTEySVNEcmFscFJhTnNiWmgtUWd5a1JoamtzYWdPR2UzVkZlMkVtdzJLMnAwVFA4RzU5ODB0ZlFWSHpiN3BGU3NwYWdFeXlKNld0ekN5UTVtWHdfWU02Sm5sYmQ1MV96S2pPODVwaGN1aVhKa0NYSHZaNUZ1MS1pakE1VV9PS0FDbFBwY3A0OGl1Vjh1N3VQWm0wbkNNbGdLZDVadlQ1SHhxZmF6eVdkRWhpQUdIQ3NBM3VfeWE5cWh5Wm5OVi1ZUXItUktlUk1hbjVPWGRKamFnYTBROS10QkZHZDViMjQ5aXU1WDJqc3Y0dkpoZm1mVUR1UlAzSnZ0OFBoMERaS0JTemgtUWI5OXhEekhqR0JwTHI1Rmh3bG52LTU0bFdRYUZLQUFYSTJZa19oZEFCclFKX1RwRDJtTlJHZWIxRS1Td1NfTjZub0dQanExTldCVGNDckx0amk4M2Y2NWR1NXJOQWFqLWVfYVR6bF9QR0hmMERZRW5OZW1GaURfSzVXLUxCd1dwUU12M3BJREJLRGt5MUg2R3lHZWhuZ2lQQW9KOXpxX0F2QUs5SXloSkhxTVcxNTNYVS1PaTg1c1E1V2kwZC1LbGNRQUo?oc=5",
-      "site": "RFI",
-      "siteUrl": "https://www.rfi.fr"
-    },
-    {
       "id": "FL-a2237798f821",
       "date": "2026-08-20",
       "dateISO": "Thu, 20 Aug 2026 07:00:00 GMT",
@@ -97,7 +85,7 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRUowcWJsa1BOYmV2YkdVR1RvOGItQ1ZQMENFN18zOHlyZmpxTFZPNTVsNHhTbjgzNWswSzFXTnlLM1J2SGZpUU9fb2RNekxPSHZId1lkcW1uS0VDMDY0cjg2eGd2djdPQl9hVW5lTFVaSkpBV2Q0SFJhR3BaaDVtbzhraVhIZw?oc=5",
       "site": "新浪网",
       "siteUrl": "https://k.sina.com.cn",
-      "related": 43
+      "related": 41
     },
     {
       "id": "FL-18ed16b30a5c",
@@ -568,6 +556,30 @@
       "siteUrl": "https://cn.chinadiplomacy.org.cn"
     },
     {
+      "id": "FL-f342ee510755",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 01:19:40 GMT",
+      "ts": 1789348780000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "中国地震台网中心：正与苹果公司沟通 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZWNJa09Na1I2eFBlUU5QUTJycmllMXR0MVVKd3dGRGJTVXJFenp4bmNhWjFDMVRLRlRlM2Vqa1dPRWRSSXFDLXZ1RG1zVWNnOTV2TVJHWEpPZk04SWxlbGF4MXlJd2tWbDB0eWVwYUJCXzBPTUxkdk5MV0JDUlpQRjI5bHZFellk?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-65ec9eaf03a1",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 01:19:06 GMT",
+      "ts": 1789348746000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "中国地震局回应地震预警接入iOS系统 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObW5PQUhnYlVvbGZqckhuMHo5NzRlUkJOR2VTUTBPdVdJS3hpUFFnSzhxUzBnb1Rza09WSE9ZVjlXT2szSHNtS19uUWtaeGNNaTFDUXV6SmhfcDRUNHk1dzFiZUNEU29vX0F2WGlteVJDMzZ5MGUzMTRkQm56Ulc2c2RCWkVmblNC?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-fbd24f517fe8",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 01:06:45 GMT",
@@ -638,18 +650,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLVTVmU0ZQWWtvWVMwYzJkS3BDRnNmWmM1VjNvaFJtdUQ2MDF3UHFCZEl3LVFpcHEzMkRUb0gzNFNXOVBpV052VHJidjRWT3gydEIzZno2TXJjZ1lIT09VUlFiR0tpMzY3bjNQbkpVZmlEdw?oc=5",
       "site": "京报网",
       "siteUrl": "https://xinwen.bjd.com.cn"
-    },
-    {
-      "id": "FL-8eb9aa859f44",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 00:09:18 GMT",
-      "ts": 1789344558000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "中国地震台网中心正就地震预警信息接入iOS系统与苹果公司沟通 - 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaUlvNG9Od3JoNDdCQmx6NlMzQ0FyWXdOSWxzM3FYRWlRYk5vQXZ1UjNPaDlwRE5wQlY5UFVBb1hTV1FUcXZRREl2R3hrajl4cHV2dVo4MVZ3M1RONTRUMVMtNHdXV0tHcXZnQTBNSWg4R3ZRUjdBZ1lWX29HSGJ2SWJ4b3hsZVNJTVJwMDhwWlh5WUpzSFZOZ0t0eHFZcTZRajZwNFN5OA?oc=5",
-      "site": "富途牛牛",
-      "siteUrl": "https://news.futunn.com"
     },
     {
       "id": "FL-e8a32a183e42",
