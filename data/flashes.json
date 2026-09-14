@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T19:55:01.992Z",
+  "updated": "2026-09-14T20:07:36.107Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -10,7 +10,7 @@
       "scope": "dom",
       "type": "geo",
       "title": "尼泊尔—西藏泥石流：堰塞湖和冰湖是下一个“定时炸弹”？ - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfWmowNGIyc200QU1ESDVxbC1hdmdLWUlCQXNHazV6aVdvY1FYMGFySHFueG50UGc3Q2Z2ZUVXaWNtbUQtNlBMWkRDLU01T2R5blhnY2UtSUR5ZUdHaWt5YWszOFRFQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfWmowNGIyc200QU1ESDVxbC1hdmdLWUlCQXNHazV6aVdvY1FYMGFySHFueG50UGc3Q2Z2ZUVXaWNtbUQtNlBMWkRDLU01T2R5blhnY2UtSUR5ZUdHaWt5YWszOFRFQdIBa0FVX3lxTE5ncUFxSTZyWVZGQ05yLWwtOGVLS01kb2lsNjY5cVNfU1VlN1hWSjFtUEx4eEpObTY3c3F5czNZeElUM01KaU5uVF9NQ2FDdGlMY29tbi16UFluSkVGSzFkNXJHZFFTOUU5eW80?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
     },
@@ -111,18 +111,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-79e7342b3f50",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 15:52:00 GMT",
-      "ts": 1789401120000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "海南五指山持续暴雨致多地停课|海南五指山|五指山|历史纪录|停水停电 - sina.cn",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41SDk2WVVGMEF4NEw3b2Q5MDltaWVDV3ViNkVtcTMyT3lzWjRGMkMxUWhCTjk4N2twaUczSkxCb1BGallMZUZYRzRwZzRfNGN2TVM0YnRsc2lSUHVFU3FqNHpQSQ?oc=5",
-      "site": "sina.cn",
-      "siteUrl": "https://www.sina.cn"
-    },
-    {
       "id": "FL-470b743a1716",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 15:40:00 GMT",
@@ -147,15 +135,15 @@
       "siteUrl": "https://www.sina.cn"
     },
     {
-      "id": "FL-6c4dead36774",
+      "id": "FL-9ce4cd6f92ce",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 15:09:44 GMT",
       "ts": 1789398584000,
       "scope": "dom",
       "type": "weather",
-      "title": "愿平安！海南五指山暴雨武警紧急救援 - k.sina.com.cn",
+      "title": "愿平安！海南五指山暴雨武警紧急救援 - 新浪网",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzV1RRQWdJVWE4UXFSd04zOUtBMXNfc0lvVE9DNkc1T0wxb2F3OHc5Z0FJX0prN1c4VWFfaExMY0U5MHJWelg0ODBUcW8zekZaUEVKdjItZVY2aHZnZW1ET1c2T01EVlVKUEtOdHkwVng?oc=5",
-      "site": "k.sina.com.cn",
+      "site": "新浪网",
       "siteUrl": "http://k.sina.com.cn"
     },
     {
@@ -181,6 +169,19 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EM2NjTzQzSWhPQ2xTSWFpTmtCaGxDN001YVduNG1kZ05yU0hPWnJPQmdyd3JjUjREb0lBNXhIYXptR0VBOFBvS2FVTkFWcmZfbXZFWnZkRjQ?oc=5",
       "site": "驱动之家",
       "siteUrl": "https://news.mydrivers.com"
+    },
+    {
+      "id": "FL-EV-18d9b0620c3d",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 14:05:00 GMT",
+      "ts": 1789394700000,
+      "scope": "dom",
+      "type": "fire",
+      "title": "中国国务院对青岛货轮火灾事故提级调查 - 早晨报",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UcnVGSUJwNm5PUV9JTGd3WDhsR0xLNDk4TG92V1FKcWpMbmJuaURvTmtQSFppUmRTMHlyQmJ2TFlITnBmVXF3RmUtbWh6Sk1iV0FSY2FxMTZZb3FvOTFuLTFOY0UzTGFH?oc=5",
+      "site": "早晨报",
+      "siteUrl": "https://www.zaochenbao.com",
+      "related": 20
     },
     {
       "id": "FL-9166fc8fde39",
@@ -241,19 +242,7 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YZkR4Y0d0X3puNWh4WURpNGl3UUVaXzVEMkVLelFxMWQ3SjlOSHFWcXhEbkdTWmdYRjh1S05GbE55enluN0g0Ulpub21wOEJiRDhTdDl5ZGd2LXhkUGF6TmxzUQ?oc=5",
       "site": "jingjiribao.cn",
       "siteUrl": "http://www.jingjiribao.cn",
-      "related": 36
-    },
-    {
-      "id": "FL-ad1bc16065fd",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 12:24:52 GMT",
-      "ts": 1789388692000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "受云南普洱墨江4.5级地震影响 中老铁路部分列车晚点 - chinanews.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51NWdZb3B5U2lSVXZORWtoeDF5cnlZdl9jaGNCMnNBMGhJVng2QzRMZG5ESHV0ZEJfd1dWaDNfelhoWkg1ZXdKZ2sxUFR3S1BzVmdJM3BDdXktYmN5TUdEeHNZTzg4R1RT?oc=5",
-      "site": "chinanews.com.cn",
-      "siteUrl": "https://www.chinanews.com.cn"
+      "related": 37
     },
     {
       "id": "FL-52fcfdf43df4",
@@ -266,19 +255,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rbDN0N0JOV25fUGhzTXNsSXlhV2tyNVJTUHl0UFl6TnQtVUs2U1JBTkprVkU0VG42UzRJVmFfOGpZWDc3a185VHJjdHI3SktvSjJzVWQ3cThWNDVWdEd2S3BlaDdINW1B?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-EV-18d9b0620c3d",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 11:57:47 GMT",
-      "ts": 1789387067000,
-      "scope": "dom",
-      "type": "fire",
-      "title": "新华社消息丨国务院对中国船舶集团青岛北海造船有限公司“9·10”重大火灾事故提级调查 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVGFKaXJuM1dwZlI1aHNHQ1owMHhNTTl4ZTlXNm9ONjh1bkh5TllyRXAzeS1oeHYtWTNOUWJsRjBNSjI5bXJEcDEyUmN3OUp6bG5Db0VNUFlKeFNERVgwT0dsWlhnSmFOWFZNRjk3UlY5b1EzNkhHd3p3czBSUFZDbzRNYw?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn",
-      "related": 19
     },
     {
       "id": "FL-2da5732687e2",
@@ -521,16 +497,40 @@
       "siteUrl": "https://news.ifeng.com"
     },
     {
-      "id": "FL-e74d67111657",
+      "id": "FL-def32ff8029f",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 07:33:35 GMT",
       "ts": 1789371215000,
       "scope": "intl",
       "type": "geo",
-      "title": "印尼亚齐特区发生山体滑坡 已致1死13伤 - news.cctv.com",
+      "title": "印尼亚齐特区发生山体滑坡 已致1死13伤 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mYmtPZ21ZUzhQZnBlQWM4M1M5ME5pV2lhSEtNRmFUUlNBdEZneTRTRzRrZzF1bGZMWTBIVkdtSGN0SERGMWNlTnNMeTdTY0tFRWFRSjFaVGlmME1sNko3VWRockVLVnNmV0Nkc0tmNURKR3hnZC0ySw?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
+    },
+    {
+      "id": "FL-212ff8f81bea",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 07:17:14 GMT",
+      "ts": 1789370234000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "幸存者陆海涛：被尼泊尔泥石流围困11天获救背后的人生片段 - 奥一网",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTVmx0eHAtMllWLW1ZWDlmXzc1T3RRblpneEZYQVlZWFVtTDdNcC1qR19neWFJMTFmVmRIaWxpRGtfUEp1cGJhVnJnZVNvZEJScGI1elJoS1lkRzU3M0c2cjJINktMZw?oc=5",
+      "site": "奥一网",
+      "siteUrl": "https://m.mp.oeeee.com"
+    },
+    {
+      "id": "FL-38c8fc42a0bc",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 06:53:00 GMT",
+      "ts": 1789368780000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川阿坝州理县发生3.0级地震 震源深度8千米 - finance.sina.cn",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zaHowX0pubndrS3V1cVh3WWd1a1R6eEh2VmZGY0cyVWo2ckdkcGoxUGs0OFRvNkJ0S2JlSkZvUlhveDFwS0xUclB1VTIzQm9MMks0emlISW5QYkVtdGc3LWxycUVpdFpNRGFvQXZielIwQldFSjgyOA?oc=5",
+      "site": "finance.sina.cn",
+      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-1ae98e1445e8",
@@ -653,15 +653,15 @@
       "siteUrl": "https://www.jiemian.com"
     },
     {
-      "id": "FL-6c7570b3f8a2",
+      "id": "FL-80ecb3992f9c",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 02:37:22 GMT",
       "ts": 1789353442000,
       "scope": "dom",
       "type": "geo",
-      "title": "中国地震台网中心正就地震预警信息接入iOS系统与苹果公司沟通 - news.cctv.com",
+      "title": "中国地震台网中心正就地震预警信息接入iOS系统与苹果公司沟通 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzVHZybTB5dmZYTU1QdnZUM2VxSi1DdTdxVDg5LWZnY0E2bGtINktmM0NINFlOYnp2R2phTG5BSGE4c3czeFdhcVBvQXpwVXJmckFHT1g5ZUFRNm9mVFZqamdUQnA5N3hDeDlMdXhrZXhSMGlwYm5pNQ?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
     },
     {
