@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T08:25:24.462Z",
+  "updated": "2026-09-14T08:40:15.722Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -147,6 +147,18 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
+      "id": "FL-fc28cb6534b8",
+      "date": "2026-09-13",
+      "dateISO": "Sun, 13 Sep 2026 19:25:00 GMT",
+      "ts": 1789327500000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "台湾花莲县附近发生4.3级左右地震 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qM04tUW5IUk9kSDRfSU13dllRNmQtMUd2Z191aWZhYURlMEpQZ3BMRDNiZUFfLVN5cXppM0xoVUQtRnY0bXFtV1g2Vm5hTThRTU1PMUs4UGR3NU1kTmhkamJVSkZOd2dfeFBwbzYzYmdzRnRjRV8wYg?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
+    },
+    {
       "id": "FL-11d666b0c5f2",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 16:17:00 GMT",
@@ -183,18 +195,6 @@
       "siteUrl": "https://www.cnr.cn"
     },
     {
-      "id": "FL-316c1e0d2df8",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 08:20:00 GMT",
-      "ts": 1789374000000,
-      "scope": "dom",
-      "type": "other",
-      "title": "海南五指山宣布“五停”后又停水停气：水库开闸泄洪，多人被困获救 - 新浪新闻_手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XdEdSV1hranZfZ0xpS191QWpxeDRuLU1wbU96WVN3YklwbWNhdnBIOEhybEpTZGt6dzJjamZZYVBZU1E2b1p6a2R2QW5Jc21CeW5feTh4R2lQdm5vNVZkQ1JBZ3hBS1k1Rk91ZmFxYkU?oc=5",
-      "site": "新浪新闻_手机新浪网",
-      "siteUrl": "https://news.sina.com.cn"
-    },
-    {
       "id": "FL-EV-f283a898090a",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 08:15:21 GMT",
@@ -208,18 +208,6 @@
       "related": 40
     },
     {
-      "id": "FL-930ba8e70769",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 08:02:05 GMT",
-      "ts": 1789372925000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "海南全力防御强降雨 已紧急转移群众3.1万余人 - 新华网客户端",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZHBNNEoyWXNhd1d0U0kyZU81SF9XWU1HT0Zya3lQTjU1XzdFNDl5aDBvWkM4d3RaRzZxanZscW96WF9ma3dtMzZ6WVRxX0dtNVBrMzhtelZ5R2Nka1FKZ3FueldjQlVwMHMxekRvWnFpM1czWE5LaF9hMWFXaThGbGFqN0ZvTkJfZGhMX09vOFFjWkc3SWh5MWdR?oc=5",
-      "site": "新华网客户端",
-      "siteUrl": "https://app.xinhuanet.com"
-    },
-    {
       "id": "FL-fc306671295e",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 08:00:11 GMT",
@@ -230,6 +218,18 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY3gxVGhEZVRhalFrM2dramhHalVNcmNRMlYtc0xKOFhuS0hDTEZINl8zM0g1MXdDYnU5Vmhhdkg5cUk0d2I3TXNvSUlidi0wM24tbHRwcEFrVzN5dlY4MnlrY1owVGlYSzV6dnhLandJSFVteVN3TjZMbFJQdEhJTkRtdlhIbUxF?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-9aff4dbf8471",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 07:57:16 GMT",
+      "ts": 1789372636000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "海南全力防御强降雨 已紧急转移群众3.1万余人 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GWk55OWlfRGU5R1JLVUFUZXVPV1BjWkpsUjBCS0RtTVZIQjRkdV91RDRQQ25vSWNuOF9WQVpURHF4N19tejBlUVpGMko5b09IS2VscFZwYVpKRDhFVUphaGItN0Z5bFRJLXlDZ2VSYmdDUFNhSWZmcjMxdzdIN2c?oc=5",
+      "site": "新华网",
+      "siteUrl": "http://www.news.cn"
     },
     {
       "id": "FL-6196cc7a3a9b",
