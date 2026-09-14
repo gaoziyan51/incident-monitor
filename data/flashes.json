@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T07:08:14.119Z",
+  "updated": "2026-09-14T07:25:13.565Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,15 +15,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-767598e6cf26",
+      "id": "FL-677dc499b4ba",
       "date": "2026-09-09",
       "dateISO": "Wed, 09 Sep 2026 08:47:00 GMT",
       "ts": 1788943620000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1374人 - thecover.cn",
+      "title": "尼泊尔泥石流灾害遇难人数升至1374人 - 封面新闻",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zVXZBNHFBdWFOQlRXOUc3QmRyZDVJUnBQS1ZyMkFNTXUwd0NnbXZGNGZjNVNWZW43LTFVeXZhQmczcVBLSFBlTWZ3VjBud0VudW1JNmdoaDdFckptc01nSWI0dVBLTS1MR1ByMUhRbW52RmFCUXlN?oc=5",
-      "site": "thecover.cn",
+      "site": "封面新闻",
       "siteUrl": "https://m.thecover.cn"
     },
     {
@@ -51,15 +51,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-1197ee09fcb0",
+      "id": "FL-18ed16b30a5c",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 15:56:00 GMT",
       "ts": 1789055760000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1385人 - thecover.cn",
+      "title": "尼泊尔泥石流灾害遇难人数升至1385人 - 封面新闻",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50QU81cW94T1U0MzNWWEIyV0t5WmVCMDF1ZXU4R1FDZ0s3bTdjbnRxZUw0YXJZTHIxak1QS0x6UEZ6R2xHc2FJU0F6QTlpUldmQmVDWVdKRy1pbXI4c3dCYmJsX29OcWlyejdCUWhob2JBYXdOSThv?oc=5",
-      "site": "thecover.cn",
+      "site": "封面新闻",
       "siteUrl": "https://m.thecover.cn"
     },
     {
@@ -85,7 +85,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IRXVLRTR4WllScXRvU3JNenNpaWppamJiX0lWUUlhamFPeTk3YWV1WTdfYk02djVuWVA2RWF5UnkxaGRIVVoxZWlXUE1meFdrVGVQRVZlT25rTkxOcVQ2UjRR?oc=5",
       "site": "新京报",
       "siteUrl": "https://m.bjnews.com.cn",
-      "related": 34
+      "related": 35
     },
     {
       "id": "FL-31aaf7309a8a",
@@ -184,75 +184,51 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-7dd28475d158",
+      "id": "FL-18b19efdf34c",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 23:02:03 GMT",
       "ts": 1789340523000,
       "scope": "dom",
       "type": "geo",
-      "title": "台湾花莲县发生4.1级地震，震源深度14千米 - jiemian.com",
+      "title": "台湾花莲县发生4.1级地震，震源深度14千米 - Jiemian.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2RHRpWXRWWVptTUFKbVpVdGpreGtzSFhNMVFKVVUzME81SEZsUEE3eGdSUnJpRlNjS2R4dUhjOTE4TkJUa0c4Ml9zcWdKQ1ppMWtfQTVBSmU?oc=5",
-      "site": "jiemian.com",
+      "site": "Jiemian.com",
       "siteUrl": "https://www.jiemian.com"
     },
     {
-      "id": "FL-fadf2d5302a3",
+      "id": "FL-4af32af2f4f5",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 23:02:02 GMT",
       "ts": 1789340522000,
       "scope": "dom",
       "type": "geo",
-      "title": "青海海南州兴海县发生3.1级地震，震源深度10千米 - jiemian.com",
+      "title": "青海海南州兴海县发生3.1级地震，震源深度10千米 - Jiemian.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ibVpzaF9zcTZmNERJdkhNaHlMcjZadnhaLVp3S2E4MTkwZjNqbW9Wczk1QWw2N0NadEZGdk5EUDR2RDhidlp3c3BqRm5NUnpxWENwOHVLbFk?oc=5",
-      "site": "jiemian.com",
+      "site": "Jiemian.com",
       "siteUrl": "https://www.jiemian.com"
     },
     {
-      "id": "FL-d55b3a59f72e",
+      "id": "FL-9fb47701b80f",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 22:52:00 GMT",
       "ts": 1789339920000,
       "scope": "dom",
       "type": "geo",
-      "title": "台湾台东县海域发生4.1级地震 震源深度14公里 - 新浪财经",
+      "title": "台湾台东县海域发生4.1级地震 震源深度14公里 - finance.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PYkZxWUU1eG5UaWcwWWYzdjl2LVR5dUVMTlV6X1NtaUZZZ0g5YUo2OXlDWGs1LVg2cFRjZW5RakNyckQ0MkZZVG5ncW1nOVFYTW9YMEpzcTVFZjE0RU8xTjlPTmIwQ204a1lPWUt6RHd2eG02bFpXZg?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.com.cn",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-fc28cb6534b8",
-      "date": "2026-09-13",
-      "dateISO": "Sun, 13 Sep 2026 19:25:00 GMT",
-      "ts": 1789327500000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "台湾花莲县附近发生4.3级左右地震 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qM04tUW5IUk9kSDRfSU13dllRNmQtMUd2Z191aWZhYURlMEpQZ3BMRDNiZUFfLVN5cXppM0xoVUQtRnY0bXFtV1g2Vm5hTThRTU1PMUs4UGR3NU1kTmhkamJVSkZOd2dfeFBwbzYzYmdzRnRjRV8wYg?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
-    },
-    {
-      "id": "FL-600002f9fc3f",
-      "date": "2026-09-13",
-      "dateISO": "Sun, 13 Sep 2026 18:46:01 GMT",
-      "ts": 1789325161000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "海南强降雨致岛内部分市县道路交通管制、学校停课 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kLTY2X1V6V1E3Mk5BTmprcjdtaGhLLTN3NHBTSUh1a2o4X2djcW1UMlp2Y2JpTnhCSkNZVG1hVUZvUElmQzFoTDBkWWJobGdsMG1fc3BlV01QNHVKR0hGRzhJSWR0SWRnOVpqMl82OUdlbVd6SjVNWg?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.cn"
-    },
-    {
-      "id": "FL-11d666b0c5f2",
+      "id": "FL-d8fe4c06988b",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 16:17:00 GMT",
       "ts": 1789316220000,
       "scope": "dom",
       "type": "weather",
-      "title": "特大暴雨来了，多地停课，部分景区暂停营业！ - 新浪财经",
+      "title": "特大暴雨来了，多地停课，部分景区暂停营业！ - finance.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Ha0ZpZkpQRC1RbmZpMUxaN01MbzQ3bU16bl9UYnpnLWxXYlFiMFV4Wk9MWk92OUJlcmFGMVhoZjNja215RnpyZTEyNVh4WWdtVDljUVZkNF9WOG5LaGFKTlNYOHpBLUg0aHpwN0d1ZXRzVmc3bEdiQg?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.com.cn",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -290,6 +266,18 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IVHlwaFRUODV3Zk82S2kwRVB1UFdXZWpSOUNuVHdSRFRqWkptX0Uzdko2clBvN1FXc2ZhYzF0UDV6VGFFcm5xWjJLRW1ra2RDWE0xcnlWTzVqcDdCcDZPLWxRU3kzRjFXYVdLdC1wZGNuSUtPQXc?oc=5",
       "site": "央广网",
       "siteUrl": "https://www.cnr.cn"
+    },
+    {
+      "id": "FL-da5b63277d27",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 07:16:54 GMT",
+      "ts": 1789370214000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川阿坝州理县发生3.0级地震，震源深度8千米 - 新浪新闻_手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tVVNsay1wN1MxeVhfZ0t6OUp1N2lIeUo3bDItbWhuRlVoN2JESURxT3pCY2ZSaTAxelpVZ0pqZlBxdjBMSVBvQTBtZ18tQ0lvQmdwS3ViU1VRY2pMdjl5b1lqX1U3SDN1STVPenliWGQ?oc=5",
+      "site": "新浪新闻_手机新浪网",
+      "siteUrl": "https://news.sina.com.cn"
     },
     {
       "id": "FL-1ae98e1445e8",
@@ -388,15 +376,15 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
-      "id": "FL-ffe83118612d",
+      "id": "FL-3669a61347bc",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 04:59:00 GMT",
       "ts": 1789361940000,
       "scope": "dom",
       "type": "weather",
-      "title": "海南暴雨致五指山突发山洪，被困14人已获救 - 新浪财经",
+      "title": "海南暴雨致五指山突发山洪，被困14人已获救 - finance.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHMVhILURLcDFXY3ZJNlFnOUFyMFdlZmpULWpPeWRHbWZDdDl2MmNsSERBT1d4OFdaODJBV2l4b3lUWTNZWXNJTTBNc2hXWmtiNURjSWxaNmVoc25DRmJMejM2dTVjWlFnUFV2cUJuU2hxMTFMTHc?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.com.cn",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -424,15 +412,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-3597c7e38d10",
+      "id": "FL-b81275557380",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 04:50:00 GMT",
       "ts": 1789361400000,
       "scope": "dom",
       "type": "geo",
-      "title": "中国地震台网中心：正与苹果公司沟通 - 新浪财经",
+      "title": "中国地震台网中心：正与苹果公司沟通 - finance.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvZlJCNVNuVjZVNXNCejdTNU5DN1lncWotTExsM2hRSXdNTkhQM0RZUTgyaFlER2ZKTmxzYy1ibXVQTWVNYjBxZTcteTZyWVVsSmg1c2R6Z0NTZzFtVTBnQWFiOUJXM29DbEYxS2o1WUEzQy1IM3c?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.com.cn",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -520,27 +508,27 @@
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
-      "id": "FL-3705c616a734",
+      "id": "FL-a76e2755235a",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 03:37:00 GMT",
       "ts": 1789357020000,
       "scope": "dom",
       "type": "geo",
-      "title": "中国地震局：正与苹果公司沟通！力争推进“预警信息接入苹果iOS系统” - 新浪财经",
+      "title": "中国地震局：正与苹果公司沟通！力争推进“预警信息接入苹果iOS系统” - finance.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jcE1YbGJYRkVick9kZ2pwaW96Q2MxdXpRelVFaFpyX2ZoaVJQak9uWVlQLTQxdk1WSGRocTVqdS1FeTV3LVlvTWRhUHp1WFhocDlaalg1N2Z0NHRGTl9lVUhoN3o4ZW02elM2ZW1iY3Z0d3diRVN6Qw?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.com.cn",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-cdffb1dacb44",
+      "id": "FL-b133a2e7d7d9",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 03:19:10 GMT",
       "ts": 1789355950000,
       "scope": "dom",
       "type": "geo",
-      "title": "苹果手机接入地震预警信息受关注，中国地震局多次表态加快推进 - jiemian.com",
+      "title": "苹果手机接入地震预警信息受关注，中国地震局多次表态加快推进 - Jiemian.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QMHEwa2NCVC1acGYxSVUyR2QtX2tERmFHYVVCazYzN0JTSFV2dXN1S1F4TTF1dS1TVk1lUWNIaDA1SkZ2YzFkWVpJeFZ0LWFEVmQzMHlsYmI?oc=5",
-      "site": "jiemian.com",
+      "site": "Jiemian.com",
       "siteUrl": "https://www.jiemian.com"
     },
     {
@@ -556,16 +544,28 @@
       "siteUrl": "https://t.cj.sina.cn"
     },
     {
-      "id": "FL-6c7570b3f8a2",
+      "id": "FL-80ecb3992f9c",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 02:37:22 GMT",
       "ts": 1789353442000,
       "scope": "dom",
       "type": "geo",
-      "title": "中国地震台网中心正就地震预警信息接入iOS系统与苹果公司沟通 - news.cctv.com",
+      "title": "中国地震台网中心正就地震预警信息接入iOS系统与苹果公司沟通 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzVHZybTB5dmZYTU1QdnZUM2VxSi1DdTdxVDg5LWZnY0E2bGtINktmM0NINFlOYnp2R2phTG5BSGE4c3czeFdhcVBvQXpwVXJmckFHT1g5ZUFRNm9mVFZqamdUQnA5N3hDeDlMdXhrZXhSMGlwYm5pNQ?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
+    },
+    {
+      "id": "FL-8055e2a9a3dc",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 02:37:00 GMT",
+      "ts": 1789353420000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "中国地震台网中心正就地震预警信息接入iOS系统与苹果公司沟通 - finance.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1abGwtQUJJemNSVWktb2JwdUFzM0huQVBpX2lVeXI0Y2MtVTZKQnVxQk9GTW5MXzNCRG1MbGg3Z3pFQlpyLXhMaDNmUnhIYWl1WXBfNmNfNVQweHU4dVJJR25YYVlMa3pJUjg0aUNMTnl5LUV2aUtJVw?oc=5",
+      "site": "finance.sina.com.cn",
+      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-b0e8286a093d",
@@ -592,15 +592,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-d58739d3f76f",
+      "id": "FL-d1365bc78187",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 02:11:00 GMT",
       "ts": 1789351860000,
       "scope": "dom",
       "type": "geo",
-      "title": "中国地震局：正与苹果公司沟通，力争加快推进地震预警信息接入iOS系统 - 新浪财经",
+      "title": "中国地震局：正与苹果公司沟通，力争加快推进地震预警信息接入iOS系统 - finance.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EbUluaEVZTEdBbEFlcVpwU1J6cUE5TXZZNURNSU02MXV1aFloM28xeHp0VmthbnZxdnpMQURlbDFLSlZpT0tHN0lmTzdzQXBiRTNPbTZ4aWZJLTFfMF9QV1lKOTZWcXJNWWE2LUdOYjRwbldEYURtSQ?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.com.cn",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -626,6 +626,18 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9mQXZpaE9LMmJmNW5IbDNQTXNfbWh4X1dkN0szcThQRW9TbVYwNzNLc2NJTXpETWkzblVHUEptazJMdEFtSTMxeWxETlQ?oc=5",
       "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com"
+    },
+    {
+      "id": "FL-fabf5f914f8e",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 01:37:01 GMT",
+      "ts": 1789349821000,
+      "scope": "dom",
+      "type": "other",
+      "title": "新增2市县！今日海南各市县最新停课安排→ - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXZNbFRlVHZrbG9JVmV4dVlWUXBuaTVFN0NYYUhkdXlLMzR5NzNIUjBqLWZzX3ZMNXZJcktPNzhZRmo5QXVCdmpianVBTl9IUDMzX0htMzJ6QVRLS1RxMnk4NFNrVF9YNktTS0VPRVRlcWZ1VngteFFUWlRiVWg5LWEzZENMMl9FczdZNTZZcWlDX2RlMGJvZw?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-5319c762bd14",
@@ -698,18 +710,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SMU9aYk1ieDUtRUYxczloUTVubHBZc2VCWlBtbGlLNmRWdXFGZ2xvUWhfSHZqVS0wYndtZzhUZGZDZlBiQlU0WDV2NUh5bkE1M1VtZURfZWRMaTR4SU4waWJHYXdFd9IBa0FVX3lxTFA3TVBheHVtYmo2X1ppZlgzNnhYZnc3eU9MOUVybUZlUGh0QXMwTklhWXktUm9Bcnh1dVdGcUZvZlVrWGQxTlNKX2xxVV9PRzBRSmR3QWdURDRZVEhja0loSWxWN2RtRmJxR1Y4?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-52d3fa71159d",
-      "date": "2026-09-11",
-      "dateISO": "Fri, 11 Sep 2026 11:01:00 GMT",
-      "ts": 1789124460000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1386人，失联5130人 - thecover.cn",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YWko2a0l6Z3JYZTI5R3pRMFRBZVlwcFdDQkVMb0t3NmdHUzZ0ME5LTU5kcXhjSW56TjdqQU8zQWpBR0ZySnlkcXY4d184VnRZVDJqNXhNWElXcTFhbWhZX29FMHB5NFJJNnZOdVo3SGFYMENlbHFN?oc=5",
-      "site": "thecover.cn",
-      "siteUrl": "https://m.thecover.cn"
     },
     {
       "id": "FL-EV-18d9b0620c3d",
