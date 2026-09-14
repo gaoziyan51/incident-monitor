@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T12:31:04.393Z",
+  "updated": "2026-09-14T12:53:34.958Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -51,6 +51,18 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
+      "id": "FL-91bdb2ea9dee",
+      "date": "2026-08-23",
+      "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
+      "ts": 1787468400000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "日本茨城县地震致37人受伤 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fZ3lxTFI5WEl3Qjlvb2l4cU5CT1hZdkt1emRwLW1oc0RfcDlvbW90SEJkWnp5QUJCUEdmUzRpVHBlQ0ZCUFlzQVpRbzlOZUhSY1ZucFhuWWE2QUQ4WlR6OVQwakhOaXRVU1djd3JFallBbXl6RlJvSElnUm9BZ2c?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
       "id": "FL-bd05b20d7224",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 21:46:32 GMT",
@@ -63,28 +75,29 @@
       "siteUrl": "https://m.voc.com.cn"
     },
     {
-      "id": "FL-ec8401e7003a",
+      "id": "FL-13d68ffbce31",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 21:00:00 GMT",
       "ts": 1789333200000,
       "scope": "dom",
       "type": "weather",
-      "title": "海南五指山遇强降雨，积水涌入房屋4人被困，消防员拖橡皮艇转移 - bjnews.com.cn",
+      "title": "海南五指山遇强降雨，积水涌入房屋4人被困，消防员拖橡皮艇转移 - 新京报",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtOVJwd3hJY0N0MjlhWE9YcDZpMURWeml2YUJnVTA0WURJNVQxQ2pTZjVEWlBnb2VEbXpSeU51VEswbi1zaVlRRUdUejM5bDBWU2J4QUFGVXEtUmRlWEtGa0k4ZkM?oc=5",
-      "site": "bjnews.com.cn",
+      "site": "新京报",
       "siteUrl": "https://www.bjnews.com.cn"
     },
     {
-      "id": "FL-ad1bc16065fd",
+      "id": "FL-EV-f283a898090a",
       "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 12:24:52 GMT",
-      "ts": 1789388692000,
+      "dateISO": "Mon, 14 Sep 2026 12:35:25 GMT",
+      "ts": 1789389325000,
       "scope": "dom",
       "type": "geo",
-      "title": "受云南普洱墨江4.5级地震影响 中老铁路部分列车晚点 - chinanews.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51NWdZb3B5U2lSVXZORWtoeDF5cnlZdl9jaGNCMnNBMGhJVng2QzRMZG5ESHV0ZEJfd1dWaDNfelhoWkg1ZXdKZ2sxUFR3S1BzVmdJM3BDdXktYmN5TUdEeHNZTzg4R1RT?oc=5",
-      "site": "chinanews.com.cn",
-      "siteUrl": "https://www.chinanews.com.cn"
+      "title": "视频｜中方已通报吉隆泥石流灾害失联外籍人员家属DNA采集办法 - jingjiribao.cn",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YZkR4Y0d0X3puNWh4WURpNGl3UUVaXzVEMkVLelFxMWQ3SjlOSHFWcXhEbkdTWmdYRjh1S05GbE55enluN0g0Ulpub21wOEJiRDhTdDl5ZGd2LXhkUGF6TmxzUQ?oc=5",
+      "site": "jingjiribao.cn",
+      "siteUrl": "http://www.jingjiribao.cn",
+      "related": 45
     },
     {
       "id": "FL-52fcfdf43df4",
@@ -141,11 +154,11 @@
       "ts": 1789384620000,
       "scope": "dom",
       "type": "fire",
-      "title": "[视频]国务院对中国船舶集团青岛北海造船有限公司“9·10”重大火灾事故提级调查 - 央视网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BSW51LW9BcDYxQzVsUG5YdTNlRWt0eGJmdm5iaTMxU0lxZ05pSFRveU1mcnJtWnZ3dEpEaER4R3VURXJ2dUlmQWpzSjJwbkJWd0FiT1NCSzluQlA3cy1JdkhkMjA2clZsdF9wemZLb1YxZGNHbXc?oc=5",
-      "site": "央视网",
-      "siteUrl": "https://tv.cctv.com",
-      "related": 22
+      "title": "青岛北海造船厂重大火灾事故！国务院提级调查 - 网易新闻客户端",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWkpvWjBFZkxFcnRKd3ZmQU9Na1hVNHREMTFvTzVtU3UwcFo0cVZtbENqUmRCTEdHQXFXbl9DUzZsYTY3ZTA3V0NVSnVOVWp1V0o1eWhUeUx4VTFwQzB2OUVsUEUwdnpReFNxRm5BMXJEZFVrYUpsNERnRk1ZZE8tNVVn?oc=5",
+      "site": "网易新闻客户端",
+      "siteUrl": "https://c.m.163.com",
+      "related": 21
     },
     {
       "id": "FL-549ff992728c",
@@ -244,6 +257,18 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
+      "id": "FL-4223b0016e20",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 10:13:00 GMT",
+      "ts": 1789380780000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "受云南普洱市墨江县4.5级地震影响，中老铁路部分列车晚点 - thepaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50R2lZQWNaXy1PZDIzbTdzcDBjTGtGRXVaM184c00zcm0yclZZMjRyaTNpelZuRVpDbWtZaE9fUURpbHBYS1Z6d0xpeFR1dHl0QVc0QTE4Z3Y2RERza3N5SA?oc=5",
+      "site": "thepaper.cn",
+      "siteUrl": "https://www.thepaper.cn"
+    },
+    {
       "id": "FL-7ef540b8bf2a",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 10:03:00 GMT",
@@ -302,6 +327,18 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxOTV6NU5SOV8xdUFoUUZRZXg3QmYzZFN0X19qSjBRSmFGeENqZ0YwcTM0UDVmemVKUTFsRE01SUpJUWtWbVl0cTgybnNiblN1QlVWYXV0RzE1NjgxS1RpMmRRRDVENERQ?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
+      "id": "FL-b4c5dd68e76e",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 09:33:44 GMT",
+      "ts": 1789378424000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "云南普洱市墨江县附近发生4.6级左右地震 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVlJNNE1HT0k1REtHdUtDNFVuMDhoem9mT1lSMV8yUVQxeHZyZG8yWFQ0WS1oNHN0T05fbFhwY3ZlNkU5ejVVY2RHV21ILU5jQW1jZ19RWkJMWFBlQW53eFh4SFJId245bGRZXzVBTDV0WlR5Tkg2d2lPbTZqRUlFNVg5dWExWWd3cEJaTXV6T3N2dGhhWWxtNg?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-b517218cebd3",
@@ -364,16 +401,16 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-ef3083acd4bf",
+      "id": "FL-244b79098ba4",
       "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 09:07:00 GMT",
-      "ts": 1789376820000,
+      "dateISO": "Mon, 14 Sep 2026 09:06:50 GMT",
+      "ts": 1789376810000,
       "scope": "dom",
       "type": "geo",
-      "title": "受云南普洱市墨江县4.5级地震影响，中老铁路部分列车晚点 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQmNBMUhSQXNPOUJfb0NxMGZTOFZNZGlSNk9pWGhMWHpvOUp5RXhlaG5ZQkVnRmc0VlQ4U0tHVDB5U3poVndjTHl2c3JTX2tQSFdxTzlyYXczWnM3VWxMX2pmYnJJU3dpRGl1RTJyY1hOMlphUGxOb3lXOUVTLXFlWnhPbE11Y0ZnTThoOVViU3dkQ25lMHlMeQ?oc=5",
+      "title": "中国地震局：正与苹果公司沟通 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LSUVIMkEyNHNtenZMSV91MnF0Z2l1MkdTWFVJRDZ5aDJETWtNQnRTaFVwXzBvV0NfbkdVMTlId2ZHa2FQdkZLdkFnYzVoN3hkV202NnBpMzlFaURabi1GQVNhdWpFbjIxeTZyQnFOZw?oc=5",
       "site": "新浪财经",
-      "siteUrl": "https://finance.sina.cn"
+      "siteUrl": "https://cj.sina.cn"
     },
     {
       "id": "FL-f420951c5971",
@@ -386,19 +423,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX0xWSWhiV3JFLXpLTjNBdGtsUkIyYnJYSWJlQUxwQ0hWVU9SUjdMd1o2Wk5PWi1ZU0NFOWFqNmdXS0gwQVRDaHVXUWYtY2NCNWctSllwdVlqR0N3Qy1VOXlhUDVCenhQeUEwYlE2NWdsVkt1UVNCZjVHSjlkVUZxZXNKZGxvYWxOaFpJ?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
-    },
-    {
-      "id": "FL-EV-f283a898090a",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 08:43:00 GMT",
-      "ts": 1789375380000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "中方已通报吉隆泥石流灾害失联外籍人员家属DNA采集办法 - 紫牛新闻",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0bW1PZ2hpNmh6dF9PaXlOa2hWMGp2cEliMWJsQXZ3ZWV0OWtPRzFaUDdDT0VMdFFxRnI1eHVoUjhPY3lqRm1taUpYeFgtOGNXQ24zYTR3aDREbjNDZExrRk1vWWVSWnBiQnc?oc=5",
-      "site": "紫牛新闻",
-      "siteUrl": "https://www.yzwb.net",
-      "related": 42
     },
     {
       "id": "FL-99a2c544cebc",
@@ -423,18 +447,6 @@
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBekJDQ0FLVHlkeDZxWnBsVkMtLUJrZ1NhVmJ4NEdoUGlUa21XQi05MlVDcTFiR2cwMnpBeTRFRU10SFF5ekRLVWYxWFcxZXJR?oc=5",
       "site": "hb.dzwww.com",
       "siteUrl": "https://hb.dzwww.com"
-    },
-    {
-      "id": "FL-fc306671295e",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 08:00:11 GMT",
-      "ts": 1789372811000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "网传四川乐山一地山体滑坡？当地回应 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY3gxVGhEZVRhalFrM2dramhHalVNcmNRMlYtc0xKOFhuS0hDTEZINl8zM0g1MXdDYnU5Vmhhdkg5cUk0d2I3TXNvSUlidi0wM24tbHRwcEFrVzN5dlY4MnlrY1owVGlYSzV6dnhLandJSFVteVN3TjZMbFJQdEhJTkRtdlhIbUxF?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-9aff4dbf8471",
@@ -603,18 +615,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56Y21wR2VWa2t0NW1BVVFOcjhQSDRUVnVnWlBXcTFBZDBNYndoaUVkTkNUcEFpUzg4MDhUYlhGOGZqbXl6UENGd1FWdTlLQVlBdWtRTmtoMmp1amp6TzhsM09fTjEzTVRF?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-9f25c7e21346",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 04:32:30 GMT",
-      "ts": 1789360350000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "海南全力防御强降雨 已紧急转移群众3.1万余人 - 紫荆网",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbElJQTRLdTlpNlVVNS02X1ZILUFPUTFxdlcwN3RmUDRrVGw5TGYwYlJYTXBLc2dIQ1l5RVhLRmRXaEMtWlpXb0ZCeGFFclFFRndYaS1yd0xkV3ktQ2lqUVN0SzhhY3VUMWxJblc3bWF4bjNOR0dpNTlIeU5ONW1oend0RTZxdm02MHNXX0xIWXlvRXBu?oc=5",
-      "site": "紫荆网",
-      "siteUrl": "https://zijing.com.cn"
     },
     {
       "id": "FL-cf557d871235",
