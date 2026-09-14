@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T10:10:23.534Z",
+  "updated": "2026-09-14T10:26:17.009Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -25,18 +25,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfWmowNGIyc200QU1ESDVxbC1hdmdLWUlCQXNHazV6aVdvY1FYMGFySHFueG50UGc3Q2Z2ZUVXaWNtbUQtNlBMWkRDLU01T2R5blhnY2UtSUR5ZUdHaWt5YWszOFRFQdIBa0FVX3lxTE5ncUFxSTZyWVZGQ05yLWwtOGVLS01kb2lsNjY5cVNfU1VlN1hWSjFtUEx4eEpObTY3c3F5czNZeElUM01KaU5uVF9NQ2FDdGlMY29tbi16UFluSkVGSzFkNXJHZFFTOUU5eW80?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-f36d5f7df412",
-      "date": "2026-09-08",
-      "dateISO": "Tue, 08 Sep 2026 12:07:03 GMT",
-      "ts": 1788869223000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "江西遂川高坪镇泥石流已致12人遇难 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZVRUeFdqQkVsaEJJWU5vSmNZZXh4VHdKb3lVX0NqdTFkbDRSMlFpbXYzMTRzTVlNLXF1cXBPV2JaZlhCbDBiWXpiWk9Jb0lXLW04Zk8xWXNFNjFXTzNISGlOWXhqVUtjRkpROGFsT1g5ZEpHeEszR3NZTE1RYTJ2UGhzSQ?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-18ed16b30a5c",
@@ -147,6 +135,42 @@
       "siteUrl": "https://www.cnr.cn"
     },
     {
+      "id": "FL-5027d65a6e4a",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 10:18:41 GMT",
+      "ts": 1789381121000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "云南普洱市墨江县发生4.5级地震 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcjAyYkVjZUdQTXBlTEM3bnpCNi0tcGJ3bFZkWFowVWF6OVN0am85Q2ZCZUtia2JycWRfUkY5bnc0X2dHS1Bxd2lJYjN2NVAxQm9PVV90cFJUX09uQkpURWd3allTVmpxT05hSExsQzNxVmJxN1FHZHFzZ3oySGVOamk5YnpPUU5Z?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-bb2f8e6ea4f7",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 10:10:04 GMT",
+      "ts": 1789380604000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "云南墨江哈尼族自治县发生4.5级地震 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNazR6UWE1Z3kxZmZEN2NuNVNEVm5uRGR4X1dGYjdNMDlQZXRnNDR0amJHNEhMOHhOSFRkWktqNEpHWkgzMjlrNVViNjByaGxHUTUxYi0wOWJCZFdxYVU3dzdqQkpWUTdaejkzNmtydXVSTktSTXQwQnoxdHdEREJUMkYxdzMxSHZDVEFSOWxKTXFjaTZORmR5Sw?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
+    },
+    {
+      "id": "FL-4cfca373cef1",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 10:03:00 GMT",
+      "ts": 1789380180000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "秋筱宫家长子悠仁首次访问东日本大地震灾区 - china.kyodonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ncks2UFJKNC1yUG0tVzhveGtlYS1YQ2dOc2VraUJNd3VSVWV5MV9uMkk1dFp1MWNXUXhIaXROaDdmOHBwY2Myb2V5VDZMWG9mUUdJekd0WQ?oc=5",
+      "site": "china.kyodonews.net",
+      "siteUrl": "https://china.kyodonews.net"
+    },
+    {
       "id": "FL-9d7fbf6eff90",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 09:56:25 GMT",
@@ -159,16 +183,16 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-97b6812763e3",
+      "id": "FL-f7f4c1ae99cc",
       "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 09:52:58 GMT",
-      "ts": 1789379578000,
+      "dateISO": "Mon, 14 Sep 2026 09:53:19 GMT",
+      "ts": 1789379599000,
       "scope": "dom",
-      "type": "geo",
-      "title": "云南墨江哈尼族自治县发生4.5级地震 - chinanews.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxOTV6NU5SOV8xdUFoUUZRZXg3QmYzZFN0X19qSjBRSmFGeENqZ0YwcTM0UDVmemVKUTFsRE01SUpJUWtWbVl0cTgybnNiblN1QlVWYXV0RzE1NjgxS1RpMmRRRDVENERQ?oc=5",
-      "site": "chinanews.com.cn",
-      "siteUrl": "https://www.chinanews.com.cn"
+      "type": "weather",
+      "title": "海南省五指山市暴雨，有居民称家中水电燃气均停用，车库进水车辆已转移 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMk1VbGc5bGx2TTllbzFIMElWS0wxTnBDOS1xT0lVb0xIeW0yTzBrSkFPbEZEYjVhekJISE9aSmNsS1A1MFU2VDNEelR1QlE5WDBXWU43aXAtX3ZDSUtIdVpSbnVXeW9EU0VULVhoaGpjRWhfOWZHenRSREZiWmNHWU5NTFRfZ1JaZmZRZw?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-EV-18d9b0620c3d",
@@ -196,18 +220,6 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-6eed786aef0f",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 09:27:00 GMT",
-      "ts": 1789378020000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "普洱市墨江县发生4.5级地震 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWGlLeC00MGx4cXVqWFlXYnBMdG9NZnh3eWJvd0JzVC0xMzRYNjRxSmlRemN1MnJ3STdtSXhzVnJlYjkwc3NYQWE0QlQwaEtLd0xsc1F4eVo4cGdsV1RsYzNCRVEzZ2lSSWFfMDRiTWs0emF2eFRQUzZpSjRPLV92YThPODJXRWJMYUxrQw?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-b517218cebd3",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 09:26:00 GMT",
@@ -218,18 +230,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yaU5lSXJ6R0NwOVl3a3NQamJYZ1VrWS1zRXF2MEk1dnRGNGJwZmI3N3pKOWpMb25hQk5NV3pGd1h6ZEh3ZlVncmRfRy1tbFE?oc=5",
       "site": "新蓝网",
       "siteUrl": "https://www.cztv.com"
-    },
-    {
-      "id": "FL-f7a2870d9557",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 09:26:00 GMT",
-      "ts": 1789377960000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "云南普洱市墨江县发生4.5级地震，震源深度10公里 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Eb21OdndDRDE0dy0yRTZHTmVVZWdybE1sM05sMEcteG1PWFdhdUJ6REhsdS1SN2tCSkdDMVFHR2gwZ3RKa1lQNm8tOFZPcWdwMzlsTlNWQ2V5aHFfUUZCZVVIWlZZNENleGUta01JR3JTNEtTU0FoYQ?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-d67ae52e417a",
@@ -288,6 +288,18 @@
       "type": "geo",
       "title": "云南普洱市墨江县发生4.5级地震 震源深度10公里 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUDhUb29ORmxKYm9DWEtLWUkwTlVFMVZZWmJUT2ZjenNNcUtfeHlUVzhudnN0X0FVbURKQUFNelZXaU1tZUt4NEFPV2wwT1JIQV8wU2s0R255ZGF1Zk5aUjZiZHNZdjJxYmdPQ3hhc3EyNWUyYlRYdjNncmhlNTlieGlUajhtSWxEUzlNOUtxUzljNE9jc3FNdg?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
+    },
+    {
+      "id": "FL-ef3083acd4bf",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 09:07:00 GMT",
+      "ts": 1789376820000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "受云南普洱市墨江县4.5级地震影响，中老铁路部分列车晚点 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQmNBMUhSQXNPOUJfb0NxMGZTOFZNZGlSNk9pWGhMWHpvOUp5RXhlaG5ZQkVnRmc0VlQ4U0tHVDB5U3poVndjTHl2c3JTX2tQSFdxTzlyYXczWnM3VWxMX2pmYnJJU3dpRGl1RTJyY1hOMlphUGxOb3lXOUVTLXFlWnhPbE11Y0ZnTThoOVViU3dkQ25lMHlMeQ?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
@@ -437,18 +449,6 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-ee548895ba8c",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 07:20:06 GMT",
-      "ts": 1789370406000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "强降雨致边坡垮塌道路中断，云南镇雄多方联动连夜抢险保通 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMGhmdzlCY0w0ZmdGUzZfU21PXzg1Z1Y0N18wOGVLdk5hc0dHdkN0ck1BWmZfOVBfeDc4alg5YnJidU1MVE8tbkp6WG5WYUt4R3dIMjRmZXFRRHkwWkJ0TWVWbFNzWFA2WmxKR0lsaVc0N3hicWZScS1iRzNrMXE3NVlNRi1RWUZkaENFWA?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-f3a7b90baac8",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 06:53:00 GMT",
@@ -583,8 +583,8 @@
     {
       "id": "FL-9f25c7e21346",
       "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 04:07:37 GMT",
-      "ts": 1789358857000,
+      "dateISO": "Mon, 14 Sep 2026 04:32:30 GMT",
+      "ts": 1789360350000,
       "scope": "dom",
       "type": "weather",
       "title": "海南全力防御强降雨 已紧急转移群众3.1万余人 - 紫荆网",
@@ -593,15 +593,15 @@
       "siteUrl": "https://zijing.com.cn"
     },
     {
-      "id": "FL-cf557d871235",
+      "id": "FL-16716919543f",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 03:39:50 GMT",
       "ts": 1789357190000,
       "scope": "dom",
       "type": "geo",
-      "title": "中国地震局：正与苹果公司沟通，力争加快推进地震预警信息接入iOS系统丨C视频 - 四川新闻",
+      "title": "中国地震局：正与苹果公司沟通，力争加快推进地震预警信息接入iOS系统丨C视频 - sichuan.scol.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9MSzhKUFpFZzJQemJJbzlxaHg3REZnRTN6RkJ1MW8xYzFfSDJyT0tzWmlPX2x2b0dsUmU0YVN1a0U0ZEZzSHJKTVpfSk90THk4WlpOTFFHeXJZWTUxWVc1bUVVYw?oc=5",
-      "site": "四川新闻",
+      "site": "sichuan.scol.com.cn",
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
@@ -641,6 +641,18 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
+      "id": "FL-6bd4ba852002",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 02:37:00 GMT",
+      "ts": 1789353420000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "中国地震台网中心正就地震预警信息接入iOS系统与苹果公司沟通 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1abGwtQUJJemNSVWktb2JwdUFzM0huQVBpX2lVeXI0Y2MtVTZKQnVxQk9GTW5MXzNCRG1MbGg3Z3pFQlpyLXhMaDNmUnhIYWl1WXBfNmNfNVQweHU4dVJJR25YYVlMa3pJUjg0aUNMTnl5LUV2aUtJVw?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
+    },
+    {
       "id": "FL-b0e8286a093d",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 02:35:16 GMT",
@@ -675,18 +687,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tT01WaVdFa3NVQmp3cWoyMklIYUpmRVh0eWtidVA1VTRkcUd0UFloY1JBeVVaSUdiUUtia2VRN2RsZGFLUlI0bmFDbkxPTkFlRzFGeWpoSDhqdnowUXU2TlUtLWV2UQ?oc=5",
       "site": "观察者网",
       "siteUrl": "https://www.guancha.cn"
-    },
-    {
-      "id": "FL-3475f8d3c4c4",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 01:38:58 GMT",
-      "ts": 1789349938000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "中国地震台网中心正与苹果公司沟通 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9mQXZpaE9LMmJmNW5IbDNQTXNfbWh4X1dkN0szcThQRW9TbVYwNzNLc2NJTXpETWkzblVHUEptazJMdEFtSTMxeWxETlQ?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://news.ifeng.com"
     },
     {
       "id": "FL-02d56cd7c586",
