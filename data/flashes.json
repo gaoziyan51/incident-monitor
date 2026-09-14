@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T05:41:57.185Z",
+  "updated": "2026-09-14T05:55:21.993Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,27 +15,27 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-767598e6cf26",
+      "id": "FL-677dc499b4ba",
       "date": "2026-09-09",
       "dateISO": "Wed, 09 Sep 2026 08:47:00 GMT",
       "ts": 1788943620000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1374人 - thecover.cn",
+      "title": "尼泊尔泥石流灾害遇难人数升至1374人 - 封面新闻",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zVXZBNHFBdWFOQlRXOUc3QmRyZDVJUnBQS1ZyMkFNTXUwd0NnbXZGNGZjNVNWZW43LTFVeXZhQmczcVBLSFBlTWZ3VjBud0VudW1JNmdoaDdFckptc01nSWI0dVBLTS1MR1ByMUhRbW52RmFCUXlN?oc=5",
-      "site": "thecover.cn",
+      "site": "封面新闻",
       "siteUrl": "https://m.thecover.cn"
     },
     {
-      "id": "FL-948368503149",
+      "id": "FL-694c61f46c1f",
       "date": "2026-09-09",
       "dateISO": "Wed, 09 Sep 2026 08:29:00 GMT",
       "ts": 1788942540000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1369人 - thecover.cn",
+      "title": "尼泊尔泥石流灾害遇难人数升至1369人 - 封面新闻",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnQjBLSG9PN1piWFhqb0xoSEwxTDFSMk1qdi1vNkZXQThySm5jUWpXWEdFQ2oxM0J0aXR6M0NucWktNm9JUVc5c2VhUEEyNDloUU84QjFZOEZ4Q2QteS1wVHlVM2hKeTdVQUZ0NzBsQW05T2pGbmNB?oc=5",
-      "site": "thecover.cn",
+      "site": "封面新闻",
       "siteUrl": "https://m.thecover.cn"
     },
     {
@@ -51,15 +51,28 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-1197ee09fcb0",
+      "id": "FL-EV-f283a898090a",
+      "date": "2026-09-10",
+      "dateISO": "Thu, 10 Sep 2026 21:38:54 GMT",
+      "ts": 1789076334000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "西藏吉隆泥石流已致16人遇难，546人失联 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRUowcWJsa1BOYmV2YkdVR1RvOGItQ1ZQMENFN18zOHlyZmpxTFZPNTVsNHhTbjgzNWswSzFXTnlLM1J2SGZpUU9fb2RNekxPSHZId1lkcW1uS0VDMDY0cjg2eGd2djdPQl9hVW5lTFVaSkpBV2Q0SFJhR3BaaDVtbzhraVhIZw?oc=5",
+      "site": "新浪网",
+      "siteUrl": "https://k.sina.com.cn",
+      "related": 30
+    },
+    {
+      "id": "FL-18ed16b30a5c",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 15:56:00 GMT",
       "ts": 1789055760000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1385人 - thecover.cn",
+      "title": "尼泊尔泥石流灾害遇难人数升至1385人 - 封面新闻",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50QU81cW94T1U0MzNWWEIyV0t5WmVCMDF1ZXU4R1FDZ0s3bTdjbnRxZUw0YXJZTHIxak1QS0x6UEZ6R2xHc2FJU0F6QTlpUldmQmVDWVdKRy1pbXI4c3dCYmJsX29OcWlyejdCUWhob2JBYXdOSThv?oc=5",
-      "site": "thecover.cn",
+      "site": "封面新闻",
       "siteUrl": "https://m.thecover.cn"
     },
     {
@@ -85,19 +98,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85Z3NWOHRXSFhtV0hod2Vyak52VDVDSXJteF8xY2hKOTUxb21HV1lEaEhmZFlDUnBQckNtN1JpeG9JZHNpSlpONDVOd3NFOTc4Uk1lQkNBeE5VVkEyNUQwRmpjdTI?oc=5",
       "site": "新京报",
       "siteUrl": "https://www.bjnews.com.cn"
-    },
-    {
-      "id": "FL-EV-f283a898090a",
-      "date": "2026-09-10",
-      "dateISO": "Thu, 10 Sep 2026 04:18:39 GMT",
-      "ts": 1789013919000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "习近平对西藏日喀则市吉隆县遭受泥石流灾害作出重要指示 - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IRXVLRTR4WllScXRvU3JNenNpaWppamJiX0lWUUlhamFPeTk3YWV1WTdfYk02djVuWVA2RWF5UnkxaGRIVVoxZWlXUE1meFdrVGVQRVZlT25rTkxOcVQ2UjRR?oc=5",
-      "site": "新京报",
-      "siteUrl": "https://m.bjnews.com.cn",
-      "related": 31
     },
     {
       "id": "FL-31aaf7309a8a",
@@ -158,18 +158,6 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zOXZqV0VRLWhkcThxNld2X1NDUXNDOG82T2J1WGYyV3pMOGw1SDZlaWxHeHA4NTZEMEZyLURNbjllbFR5Ym9mYjZIOHV1NkRxZ0Z3?oc=5",
       "site": "虎嗅网",
       "siteUrl": "https://www.huxiu.com"
-    },
-    {
-      "id": "FL-ab30124f678e",
-      "date": "2026-09-13",
-      "dateISO": "Sun, 13 Sep 2026 23:57:53 GMT",
-      "ts": 1789343873000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "中国地震台网中心正就地震预警信息接入iOS系统与苹果公司沟通 - t.cj.sina.cn",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1NcGVybXJZbExKdmgteVk3WmZRUHdKYmxrSlJpVVFYM1FCZksxZGI0dE1GWUgxNTJrbWliNWhnRWVFaVowYUEwV2tVRG15VGZqWjBHZlFGem5DaDIyWElNcG5zNTJaUHRDSzV6QzhXbXRhQQ?oc=5",
-      "site": "t.cj.sina.cn",
-      "siteUrl": "https://t.cj.sina.cn"
     },
     {
       "id": "FL-3d4ba4145824",
@@ -338,6 +326,18 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IVHlwaFRUODV3Zk82S2kwRVB1UFdXZWpSOUNuVHdSRFRqWkptX0Uzdko2clBvN1FXc2ZhYzF0UDV6VGFFcm5xWjJLRW1ra2RDWE0xcnlWTzVqcDdCcDZPLWxRU3kzRjFXYVdLdC1wZGNuSUtPQXc?oc=5",
       "site": "央广网",
       "siteUrl": "https://www.cnr.cn"
+    },
+    {
+      "id": "FL-3f83d56fefde",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 05:50:33 GMT",
+      "ts": 1789365033000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "海南多地遭遇强降雨险情频发 消防紧急救援 - chinanews.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDbkw5X0VCZkh4SUkxZ1A0bkFxSkFlT1Y1QnlpVl9UQnpNaml5UW9XQ0Z4VDh6UW9MUnowcHZuVHREc2FBLURIZHV0TWRtOElIclNKRk5aQkM2Yjd0cmRzNndrdFVqSVZf?oc=5",
+      "site": "chinanews.com.cn",
+      "siteUrl": "https://www.chinanews.com.cn"
     },
     {
       "id": "FL-3f9ed7ce92eb",
@@ -532,6 +532,18 @@
       "siteUrl": "https://t.cj.sina.cn"
     },
     {
+      "id": "FL-80ecb3992f9c",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 02:37:22 GMT",
+      "ts": 1789353442000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "中国地震台网中心正就地震预警信息接入iOS系统与苹果公司沟通 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzVHZybTB5dmZYTU1QdnZUM2VxSi1DdTdxVDg5LWZnY0E2bGtINktmM0NINFlOYnp2R2phTG5BSGE4c3czeFdhcVBvQXpwVXJmckFHT1g5ZUFRNm9mVFZqamdUQnA5N3hDeDlMdXhrZXhSMGlwYm5pNQ?oc=5",
+      "site": "央视网",
+      "siteUrl": "https://news.cctv.com"
+    },
+    {
       "id": "FL-b803caa200b8",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 02:35:16 GMT",
@@ -580,15 +592,15 @@
       "siteUrl": "https://www.guancha.cn"
     },
     {
-      "id": "FL-ff971827ffa2",
+      "id": "FL-3475f8d3c4c4",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 01:38:58 GMT",
       "ts": 1789349938000,
       "scope": "dom",
       "type": "geo",
-      "title": "中国地震台网中心正与苹果公司沟通 - news.ifeng.com",
+      "title": "中国地震台网中心正与苹果公司沟通 - 凤凰网",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9mQXZpaE9LMmJmNW5IbDNQTXNfbWh4X1dkN0szcThQRW9TbVYwNzNLc2NJTXpETWkzblVHUEptazJMdEFtSTMxeWxETlQ?oc=5",
-      "site": "news.ifeng.com",
+      "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com"
     },
     {
@@ -628,18 +640,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-07b7360e78e2",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 01:06:00 GMT",
-      "ts": 1789347960000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "中国地震台网中心正与苹果公司沟通 推进地震预警接入iOS - t.cj.sina.cn",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GeHFCTW1DMWNfRXRudUdkMDR6VnotMXppYmRJYUo5cWVTMW5sVGllakpWc1RlVE5kTVQtSzl0UUNVdXk5RGhOSEtIQkhTYkpOWkl3MVJUQm12cWFZd1ZNcFZYc3hZSVZsc1VQbXUwbUs?oc=5",
-      "site": "t.cj.sina.cn",
-      "siteUrl": "https://t.cj.sina.cn"
-    },
-    {
       "id": "FL-d40a3d7f23ac",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 00:54:08 GMT",
@@ -676,15 +676,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-ac6a56a90141",
+      "id": "FL-5a414ad78113",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 00:24:00 GMT",
       "ts": 1789345440000,
       "scope": "dom",
       "type": "geo",
-      "title": "中国地震局回应iPhone地震预警：正与苹果沟通推进接入iOS - news.mydrivers.com",
+      "title": "中国地震局回应iPhone地震预警：正与苹果沟通推进接入iOS - 驱动之家",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13dXJjQ2dDTmlPT2MtVVdVckl3MnRHU0s0bWhieTN1ZUJJRk9DY3oxQkR4MEZPRnM5TjdoWWc1UkZTMVBOZUhQMU00eFlzUzYxNk5xaFQxNzE?oc=5",
-      "site": "news.mydrivers.com",
+      "site": "驱动之家",
       "siteUrl": "https://news.mydrivers.com"
     },
     {
@@ -700,15 +700,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-52d3fa71159d",
+      "id": "FL-6858037717b9",
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 11:01:00 GMT",
       "ts": 1789124460000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1386人，失联5130人 - thecover.cn",
+      "title": "尼泊尔泥石流灾害遇难人数升至1386人，失联5130人 - 封面新闻",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YWko2a0l6Z3JYZTI5R3pRMFRBZVlwcFdDQkVMb0t3NmdHUzZ0ME5LTU5kcXhjSW56TjdqQU8zQWpBR0ZySnlkcXY4d184VnRZVDJqNXhNWElXcTFhbWhZX29FMHB5NFJJNnZOdVo3SGFYMENlbHFN?oc=5",
-      "site": "thecover.cn",
+      "site": "封面新闻",
       "siteUrl": "https://m.thecover.cn"
     },
     {
@@ -722,7 +722,7 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45U204ZEdEdEpDSW9KS1pLOHNENExGbzdXdHI4dXFTZzZWck4xV3R0UWw0QzFaZWE2aThfTXphNGNOQl9FeTBFcWhGRmc3RGMzRkJrRGVRaGc4RDBuYy01VkVUNjA?oc=5",
       "site": "新京报",
       "siteUrl": "https://www.bjnews.com.cn",
-      "related": 16
+      "related": 17
     }
   ]
 }
