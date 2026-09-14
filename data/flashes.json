@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T16:24:32.069Z",
+  "updated": "2026-09-14T16:40:01.222Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -13,18 +13,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfWmowNGIyc200QU1ESDVxbC1hdmdLWUlCQXNHazV6aVdvY1FYMGFySHFueG50UGc3Q2Z2ZUVXaWNtbUQtNlBMWkRDLU01T2R5blhnY2UtSUR5ZUdHaWt5YWszOFRFQdIBa0FVX3lxTE5ncUFxSTZyWVZGQ05yLWwtOGVLS01kb2lsNjY5cVNfU1VlN1hWSjFtUEx4eEpObTY3c3F5czNZeElUM01KaU5uVF9NQ2FDdGlMY29tbi16UFluSkVGSzFkNXJHZFFTOUU5eW80?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-31aaf7309a8a",
-      "date": "2026-09-03",
-      "dateISO": "Thu, 03 Sep 2026 07:00:00 GMT",
-      "ts": 1788418800000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "台风“沙德尔”带来强降雨，福建全力抢险救援 - 人民网-福建频道",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9idjB1WHk1RmxjaXpsRFVqTmtSUXdDbEcwVlp0d2k5TnNndmxBNXhhV0syZmdBVlVCQzZuZk56cmNGeWFCYnp5SkVxaFFvbGQ0TXoxalUyeFJtRHJfa2l2TVhBRXJVQWVfM0E?oc=5",
-      "site": "人民网-福建频道",
-      "siteUrl": "http://fj.people.com.cn"
     },
     {
       "id": "FL-e4ef799b67f2",
@@ -75,6 +63,18 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
+      "id": "FL-7a1fa977f2b2",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 16:32:42 GMT",
+      "ts": 1789403562000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "愿平安！海南局地特大暴雨，万宁出现龙卷风，武警官兵为救受困群众险被冲走，全省已转移5.5万余人。#海南 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wdVIwZzRsem5CT29LNXVrMzBjR05lRXVuanM5WU1tcWhIcS1IYzdaSFR0b095S2I3MzJvR3hTLXVoLXJpNXpBQUJmaDFsbVk2TUNSYlA4ZXJ0d0ZXNER6U3JhbEpGd1U2NFJR?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-74fbfb77a4d7",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 15:40:00 GMT",
@@ -111,15 +111,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-7d1b29c00db6",
+      "id": "FL-c375f130cb0d",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 14:18:00 GMT",
       "ts": 1789395480000,
       "scope": "intl",
       "type": "geo",
-      "title": "日本滨冈核电站丑闻调查报告出炉：篡改地震评估！208项造假 - 驱动之家",
+      "title": "日本滨冈核电站丑闻调查报告出炉：篡改地震评估！208项造假 - news.mydrivers.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EM2NjTzQzSWhPQ2xTSWFpTmtCaGxDN001YVduNG1kZ05yU0hPWnJPQmdyd3JjUjREb0lBNXhIYXptR0VBOFBvS2FVTkFWcmZfbXZFWnZkRjQ?oc=5",
-      "site": "驱动之家",
+      "site": "news.mydrivers.com",
       "siteUrl": "https://news.mydrivers.com"
     },
     {
@@ -157,7 +157,7 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YZkR4Y0d0X3puNWh4WURpNGl3UUVaXzVEMkVLelFxMWQ3SjlOSHFWcXhEbkdTWmdYRjh1S05GbE55enluN0g0Ulpub21wOEJiRDhTdDl5ZGd2LXhkUGF6TmxzUQ?oc=5",
       "site": "jingjiribao.cn",
       "siteUrl": "http://www.jingjiribao.cn",
-      "related": 39
+      "related": 36
     },
     {
       "id": "FL-ad1bc16065fd",
@@ -194,7 +194,7 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVGFKaXJuM1dwZlI1aHNHQ1owMHhNTTl4ZTlXNm9ONjh1bkh5TllyRXAzeS1oeHYtWTNOUWJsRjBNSjI5bXJEcDEyUmN3OUp6bG5Db0VNUFlKeFNERVgwT0dsWlhnSmFOWFZNRjk3UlY5b1EzNkhHd3p3czBSUFZDbzRNYw?oc=5",
       "site": "news.cn",
       "siteUrl": "https://www.news.cn",
-      "related": 21
+      "related": 22
     },
     {
       "id": "FL-2da5732687e2",
@@ -293,22 +293,22 @@
       "siteUrl": "https://news.youth.cn"
     },
     {
-      "id": "FL-d805d45b8967",
+      "id": "FL-5027d65a6e4a",
       "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 10:26:08 GMT",
-      "ts": 1789381568000,
+      "dateISO": "Mon, 14 Sep 2026 10:18:41 GMT",
+      "ts": 1789381121000,
       "scope": "dom",
       "type": "geo",
-      "title": "云南普洱市墨江县发生4.5级地震 - finance.sina.cn",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PSEVvZ3Q5YS1VSmRhbnZYRm5MX2VvdFlVR0NzMnh5ODVaY2Z4eWRuV1gycEFoeGU5YThLbFhZai1GU2kyT1pNTmFnVEp1MmliY1BZMFhZNnBURnl2dks1OE14d1VlRXQ4Z1ZiZmFUNmlDT2VKR0hqUA?oc=5",
-      "site": "finance.sina.cn",
-      "siteUrl": "https://finance.sina.cn"
+      "title": "云南普洱市墨江县发生4.5级地震 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcjAyYkVjZUdQTXBlTEM3bnpCNi0tcGJ3bFZkWFowVWF6OVN0am85Q2ZCZUtia2JycWRfUkY5bnc0X2dHS1Bxd2lJYjN2NVAxQm9PVV90cFJUX09uQkpURWd3allTVmpxT05hSExsQzNxVmJxN1FHZHFzZ3oySGVOamk5YnpPUU5Z?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-7ef540b8bf2a",
       "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 10:03:00 GMT",
-      "ts": 1789380180000,
+      "dateISO": "Mon, 14 Sep 2026 10:03:19 GMT",
+      "ts": 1789380199000,
       "scope": "intl",
       "type": "geo",
       "title": "秋筱宫家长子悠仁首次访问东日本大地震灾区 - 共同网",
