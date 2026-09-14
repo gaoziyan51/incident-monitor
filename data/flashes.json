@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T19:30:07.637Z",
+  "updated": "2026-09-14T19:43:05.395Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -109,18 +109,6 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wdVIwZzRsem5CT29LNXVrMzBjR05lRXVuanM5WU1tcWhIcS1IYzdaSFR0b095S2I3MzJvR3hTLXVoLXJpNXpBQUJmaDFsbVk2TUNSYlA4ZXJ0d0ZXNER6U3JhbEpGd1U2NFJR?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-0b4626999205",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 15:52:00 GMT",
-      "ts": 1789401120000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "海南五指山持续暴雨致多地停课|海南五指山|五指山|历史纪录|停水停电 - 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41SDk2WVVGMEF4NEw3b2Q5MDltaWVDV3ViNkVtcTMyT3lzWjRGMkMxUWhCTjk4N2twaUczSkxCb1BGallMZUZYRzRwZzRfNGN2TVM0YnRsc2lSUHVFU3FqNHpQSQ?oc=5",
-      "site": "新浪网",
-      "siteUrl": "https://www.sina.cn"
     },
     {
       "id": "FL-470b743a1716",
@@ -241,7 +229,7 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YZkR4Y0d0X3puNWh4WURpNGl3UUVaXzVEMkVLelFxMWQ3SjlOSHFWcXhEbkdTWmdYRjh1S05GbE55enluN0g0Ulpub21wOEJiRDhTdDl5ZGd2LXhkUGF6TmxzUQ?oc=5",
       "site": "jingjiribao.cn",
       "siteUrl": "http://www.jingjiribao.cn",
-      "related": 36
+      "related": 37
     },
     {
       "id": "FL-ad1bc16065fd",
@@ -349,6 +337,18 @@
       "type": "weather",
       "title": "海南消防营救疏散被暴雨围困人员48人 - 中国青年网",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYVEtyTEk2eTJlSjFXbGVJbVBVUXZDd3ZleGxZN3NSU1pxNTBXWG16TUNpX0haY1FPVDZDVXJVcE1pbENfYzhVUkh1ZWVVWVI1QVJTOXo4ZUZMSFlLWF9Id2xMT3IxZkE?oc=5",
+      "site": "中国青年网",
+      "siteUrl": "https://news.youth.cn"
+    },
+    {
+      "id": "FL-b3b3ba465373",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 10:50:00 GMT",
+      "ts": 1789383000000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "外交部：西藏将为泥石流失联外籍人员家属提供及时服务 - 中国青年网",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rZUZrMHBVVFkxUzJIVHFlTjhkd01rT0tObGRka3RObzdkNjhheWNXQTZkVzhuOU02Q2hYaXpIWmVqRVd2TVljT2F6LWdUdDNxaUphTHkzOC1OSmZQdnJZRVVqME5vYU0?oc=5",
       "site": "中国青年网",
       "siteUrl": "https://news.youth.cn"
     },
