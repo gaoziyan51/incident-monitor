@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T11:23:40.722Z",
+  "updated": "2026-09-14T11:40:06.995Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -147,6 +147,18 @@
       "siteUrl": "https://news.youth.cn"
     },
     {
+      "id": "FL-a3c6b19423fc",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 10:50:00 GMT",
+      "ts": 1789383000000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "外交部：西藏将为泥石流失联外籍人员家属提供及时服务 - news.youth.cn",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rZUZrMHBVVFkxUzJIVHFlTjhkd01rT0tObGRka3RObzdkNjhheWNXQTZkVzhuOU02Q2hYaXpIWmVqRVd2TVljT2F6LWdUdDNxaUphTHkzOC1OSmZQdnJZRVVqME5vYU0?oc=5",
+      "site": "news.youth.cn",
+      "siteUrl": "https://news.youth.cn"
+    },
+    {
       "id": "FL-EV-f283a898090a",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 10:31:22 GMT",
@@ -157,7 +169,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb1hRUWdGVVFWRTVnS085QUNOcEtPMlJRUHVMc2ZFYlNwazBPUGkyNlFnamozS3E5SEVVSmZqaTRjUk84Sm8yejNaeFVmU0JSZVNyc0xlcG1NNVRkekN4Wi1SakQ5VHYtdU1JY3RkR29OUW02VnVrM2FzUGF4T240djBqZnNKMXU0SDdoeQ?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com",
-      "related": 42
+      "related": 43
     },
     {
       "id": "FL-EV-18d9b0620c3d",
@@ -267,18 +279,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yaU5lSXJ6R0NwOVl3a3NQamJYZ1VrWS1zRXF2MEk1dnRGNGJwZmI3N3pKOWpMb25hQk5NV3pGd1h6ZEh3ZlVncmRfRy1tbFE?oc=5",
       "site": "新蓝网",
       "siteUrl": "https://www.cztv.com"
-    },
-    {
-      "id": "FL-f7a2870d9557",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 09:26:00 GMT",
-      "ts": 1789377960000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "云南普洱市墨江县发生4.5级地震，震源深度10公里 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Eb21OdndDRDE0dy0yRTZHTmVVZWdybE1sM05sMEcteG1PWFdhdUJ6REhsdS1SN2tCSkdDMVFHR2gwZ3RKa1lQNm8tOFZPcWdwMzlsTlNWQ2V5aHFfUUZCZVVIWlZZNENleGUta01JR3JTNEtTU0FoYQ?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-d67ae52e417a",
@@ -497,15 +497,15 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-ab45b377d94f",
+      "id": "FL-1ae98e1445e8",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 06:51:18 GMT",
       "ts": 1789368678000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1392人 - guandian.cn",
+      "title": "尼泊尔泥石流灾害遇难人数升至1392人 - 观点网",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QVUludExfaDdRNHdUd294RTlrZDNTSElxRFJXSDlubVdETmNOQ3o4cjNqNThHWUFBZ1RpUzBrdXM4WXRnVGswQnZoYUxjTGVSNTU0b0tsQThESlV4MlJ4TzlB?oc=5",
-      "site": "guandian.cn",
+      "site": "观点网",
       "siteUrl": "https://www.guandian.cn"
     },
     {
