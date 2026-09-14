@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T13:27:50.835Z",
+  "updated": "2026-09-14T13:43:25.763Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -75,16 +75,28 @@
       "siteUrl": "https://m.voc.com.cn"
     },
     {
-      "id": "FL-13d68ffbce31",
-      "date": "2026-09-13",
-      "dateISO": "Sun, 13 Sep 2026 21:00:00 GMT",
-      "ts": 1789333200000,
+      "id": "FL-03e1c60639f5",
+      "date": "2026-09-06",
+      "dateISO": "Sun, 06 Sep 2026 05:31:42 GMT",
+      "ts": 1788672702000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔给水力发电押下重注，泥石流把问题彻底暴露 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByeEVvcHlucE92a1Z3T0Ywei1RT3Ric2RMaVEzNmVtbF9VVEVPMmhrNmliNEl3TGllWktKNjNodUNSSXh3S21KUHA2cEFqckZEV0RNMmpCWWRxSGM4Zm51VUEyV0dkZ9IBa0FVX3lxTFBxM2RNYURrR1hmQ1ktWnBrME1RQ1ZESXBWZHZ4aUNoaURoXy1BLXlySk9tcDZHb25fRmV5SDB5ZTVnck9rdlNmRHdGRkl3QldGb2VEZHA3VkNWT0NITjhmMTRwUWNpZEgxNDFF?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-9166fc8fde39",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 13:41:21 GMT",
+      "ts": 1789393281000,
       "scope": "dom",
-      "type": "weather",
-      "title": "海南五指山遇强降雨，积水涌入房屋4人被困，消防员拖橡皮艇转移 - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtOVJwd3hJY0N0MjlhWE9YcDZpMURWeml2YUJnVTA0WURJNVQxQ2pTZjVEWlBnb2VEbXpSeU51VEswbi1zaVlRRUdUejM5bDBWU2J4QUFGVXEtUmRlWEtGa0k4ZkM?oc=5",
-      "site": "新京报",
-      "siteUrl": "https://www.bjnews.com.cn"
+      "type": "other",
+      "title": "海南山海高速一隧道口发生边坡塌方险情 正全力抢险保通 - chinanews.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pRlZESm5QaWtpb3RJNDlDYjZFRzU1N3hNczh3QWxHTktCT2toa1gwLTV3M3dhbkx2Nno4c2VHZXJhZmpjbkt4cXpobmU4RGZfaGwtUnhhVS14ZmtYRTRZaFpKT1UtU19C?oc=5",
+      "site": "chinanews.com.cn",
+      "siteUrl": "https://www.chinanews.com.cn"
     },
     {
       "id": "FL-0c6e28fce47f",
@@ -109,7 +121,7 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YZkR4Y0d0X3puNWh4WURpNGl3UUVaXzVEMkVLelFxMWQ3SjlOSHFWcXhEbkdTWmdYRjh1S05GbE55enluN0g0Ulpub21wOEJiRDhTdDl5ZGd2LXhkUGF6TmxzUQ?oc=5",
       "site": "jingjiribao.cn",
       "siteUrl": "http://www.jingjiribao.cn",
-      "related": 41
+      "related": 43
     },
     {
       "id": "FL-52fcfdf43df4",
@@ -269,6 +281,18 @@
       "siteUrl": "https://news.youth.cn"
     },
     {
+      "id": "FL-13d68ffbce31",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 10:27:00 GMT",
+      "ts": 1789381620000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "海南五指山遇强降雨，积水涌入房屋4人被困，消防员拖橡皮艇转移 - 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtOVJwd3hJY0N0MjlhWE9YcDZpMURWeml2YUJnVTA0WURJNVQxQ2pTZjVEWlBnb2VEbXpSeU51VEswbi1zaVlRRUdUejM5bDBWU2J4QUFGVXEtUmRlWEtGa0k4ZkM?oc=5",
+      "site": "新京报",
+      "siteUrl": "https://www.bjnews.com.cn"
+    },
+    {
       "id": "FL-f492c406efd4",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 10:26:08 GMT",
@@ -329,18 +353,6 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-32548e6e8f42",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 09:53:19 GMT",
-      "ts": 1789379599000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "海南省五指山市暴雨，有居民称家中水电燃气均停用，车库进水车辆已转移 - sohu.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMk1VbGc5bGx2TTllbzFIMElWS0wxTnBDOS1xT0lVb0xIeW0yTzBrSkFPbEZEYjVhekJISE9aSmNsS1A1MFU2VDNEelR1QlE5WDBXWU43aXAtX3ZDSUtIdVpSbnVXeW9EU0VULVhoaGpjRWhfOWZHenRSREZiWmNHWU5NTFRfZ1JaZmZRZw?oc=5",
-      "site": "sohu.com",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-97b6812763e3",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 09:52:58 GMT",
@@ -353,18 +365,6 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-b4c5dd68e76e",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 09:33:44 GMT",
-      "ts": 1789378424000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "云南普洱市墨江县附近发生4.6级左右地震 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVlJNNE1HT0k1REtHdUtDNFVuMDhoem9mT1lSMV8yUVQxeHZyZG8yWFQ0WS1oNHN0T05fbFhwY3ZlNkU5ejVVY2RHV21ILU5jQW1jZ19RWkJMWFBlQW53eFh4SFJId245bGRZXzVBTDV0WlR5Tkg2d2lPbTZqRUlFNVg5dWExWWd3cEJaTXV6T3N2dGhhWWxtNg?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.cn"
-    },
-    {
       "id": "FL-b517218cebd3",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 09:26:00 GMT",
@@ -375,18 +375,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yaU5lSXJ6R0NwOVl3a3NQamJYZ1VrWS1zRXF2MEk1dnRGNGJwZmI3N3pKOWpMb25hQk5NV3pGd1h6ZEh3ZlVncmRfRy1tbFE?oc=5",
       "site": "新蓝网",
       "siteUrl": "https://www.cztv.com"
-    },
-    {
-      "id": "FL-d67ae52e417a",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 09:24:51 GMT",
-      "ts": 1789377891000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "云南普洱市墨江县发生4.5级地震 震源深度10公里 - 欧洲头条",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTmdDTlFvcnVlMHlreGtlQzFQME5za1JTQW11VEM3aUtjWnZBSVZUWFAyb2t1S1ZCVVNIU2tZazJJY3NYVkNxYXUzZHliak1RcGRLc3kwQ24yakxMZkhKOFVSNDR1eTBWcnpNVzVzN3JQdlpSejZjVk5hcFo4RmNaazlhLXQwbU5JU0Jmcl9ib1Y5MldJSE53Nld1bGl3YmhPZUJsTzc5WjZZM05FbWZ6OTV4Vnh5VFRIdEhjZFBDMA?oc=5",
-      "site": "欧洲头条",
-      "siteUrl": "https://www.xinouzhou.com"
     },
     {
       "id": "FL-c8e42d9d5958",
@@ -653,6 +641,18 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
+      "id": "FL-9f25c7e21346",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 04:32:30 GMT",
+      "ts": 1789360350000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "海南全力防御强降雨 已紧急转移群众3.1万余人 - 紫荆网",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbElJQTRLdTlpNlVVNS02X1ZILUFPUTFxdlcwN3RmUDRrVGw5TGYwYlJYTXBLc2dIQ1l5RVhLRmRXaEMtWlpXb0ZCeGFFclFFRndYaS1yd0xkV3ktQ2lqUVN0SzhhY3VUMWxJblc3bWF4bjNOR0dpNTlIeU5ONW1oend0RTZxdm02MHNXX0xIWXlvRXBu?oc=5",
+      "site": "紫荆网",
+      "siteUrl": "https://zijing.com.cn"
+    },
+    {
       "id": "FL-cf557d871235",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 03:39:50 GMT",
@@ -689,15 +689,15 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
-      "id": "FL-c7eeeb1ce53a",
+      "id": "FL-93fd2460b77b",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 01:44:00 GMT",
       "ts": 1789350240000,
       "scope": "dom",
       "type": "geo",
-      "title": "地震预警何时接入苹果系统？中国地震局回应 - guancha.cn",
+      "title": "地震预警何时接入苹果系统？中国地震局回应 - 观察者网",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tT01WaVdFa3NVQmp3cWoyMklIYUpmRVh0eWtidVA1VTRkcUd0UFloY1JBeVVaSUdiUUtia2VRN2RsZGFLUlI0bmFDbkxPTkFlRzFGeWpoSDhqdnowUXU2TlUtLWV2UQ?oc=5",
-      "site": "guancha.cn",
+      "site": "观察者网",
       "siteUrl": "https://www.guancha.cn"
     },
     {
