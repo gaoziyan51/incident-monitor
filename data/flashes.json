@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T09:40:58.446Z",
+  "updated": "2026-09-14T09:57:37.647Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -147,6 +147,31 @@
       "siteUrl": "https://www.cnr.cn"
     },
     {
+      "id": "FL-97b6812763e3",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 09:52:58 GMT",
+      "ts": 1789379578000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "云南墨江哈尼族自治县发生4.5级地震 - chinanews.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxOTV6NU5SOV8xdUFoUUZRZXg3QmYzZFN0X19qSjBRSmFGeENqZ0YwcTM0UDVmemVKUTFsRE01SUpJUWtWbVl0cTgybnNiblN1QlVWYXV0RzE1NjgxS1RpMmRRRDVENERQ?oc=5",
+      "site": "chinanews.com.cn",
+      "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
+      "id": "FL-EV-18d9b0620c3d",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 09:49:00 GMT",
+      "ts": 1789379340000,
+      "scope": "dom",
+      "type": "fire",
+      "title": "国务院对中国船舶集团青岛北海造船有限公司“9·10”重大火灾事故提级调查 - 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qM0hiSk1JUndGeDRQd1I4dWJsMVN6eHZ1ZDRWbkpseXJnZk5VcEJTWFJEZVhYVkV1WUtTb2x5YTNFVHZpZkZlYUhjRXFYMGx0Q25uVndXcEtTRVhveE5xenZVSXE?oc=5",
+      "site": "新京报",
+      "siteUrl": "https://www.bjnews.com.cn",
+      "related": 17
+    },
+    {
       "id": "FL-b4c5dd68e76e",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 09:33:44 GMT",
@@ -159,6 +184,18 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
+      "id": "FL-6eed786aef0f",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 09:27:00 GMT",
+      "ts": 1789378020000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "普洱市墨江县发生4.5级地震 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWGlLeC00MGx4cXVqWFlXYnBMdG9NZnh3eWJvd0JzVC0xMzRYNjRxSmlRemN1MnJ3STdtSXhzVnJlYjkwc3NYQWE0QlQwaEtLd0xsc1F4eVo4cGdsV1RsYzNCRVEzZ2lSSWFfMDRiTWs0emF2eFRQUzZpSjRPLV92YThPODJXRWJMYUxrQw?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-b517218cebd3",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 09:26:00 GMT",
@@ -169,6 +206,18 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yaU5lSXJ6R0NwOVl3a3NQamJYZ1VrWS1zRXF2MEk1dnRGNGJwZmI3N3pKOWpMb25hQk5NV3pGd1h6ZEh3ZlVncmRfRy1tbFE?oc=5",
       "site": "新蓝网",
       "siteUrl": "https://www.cztv.com"
+    },
+    {
+      "id": "FL-f7a2870d9557",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 09:26:00 GMT",
+      "ts": 1789377960000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "云南普洱市墨江县发生4.5级地震，震源深度10公里 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Eb21OdndDRDE0dy0yRTZHTmVVZWdybE1sM05sMEcteG1PWFdhdUJ6REhsdS1SN2tCSkdDMVFHR2gwZ3RKa1lQNm8tOFZPcWdwMzlsTlNWQ2V5aHFfUUZCZVVIWlZZNENleGUta01JR3JTNEtTU0FoYQ?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-d67ae52e417a",
@@ -231,15 +280,15 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-7da4229bf3e3",
+      "id": "FL-244b79098ba4",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 09:06:50 GMT",
       "ts": 1789376810000,
       "scope": "dom",
       "type": "geo",
-      "title": "中国地震局：正与苹果公司沟通 - cj.sina.cn",
+      "title": "中国地震局：正与苹果公司沟通 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LSUVIMkEyNHNtenZMSV91MnF0Z2l1MkdTWFVJRDZ5aDJETWtNQnRTaFVwXzBvV0NfbkdVMTlId2ZHa2FQdkZLdkFnYzVoN3hkV202NnBpMzlFaURabi1GQVNhdWpFbjIxeTZyQnFOZw?oc=5",
-      "site": "cj.sina.cn",
+      "site": "新浪财经",
       "siteUrl": "https://cj.sina.cn"
     },
     {
@@ -265,7 +314,7 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0bW1PZ2hpNmh6dF9PaXlOa2hWMGp2cEliMWJsQXZ3ZWV0OWtPRzFaUDdDT0VMdFFxRnI1eHVoUjhPY3lqRm1taUpYeFgtOGNXQ24zYTR3aDREbjNDZExrRk1vWWVSWnBiQnc?oc=5",
       "site": "紫牛新闻",
       "siteUrl": "https://www.yzwb.net",
-      "related": 43
+      "related": 38
     },
     {
       "id": "FL-99a2c544cebc",
@@ -400,15 +449,15 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-1ae98e1445e8",
+      "id": "FL-ab45b377d94f",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 06:51:18 GMT",
       "ts": 1789368678000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1392人 - 观点网",
+      "title": "尼泊尔泥石流灾害遇难人数升至1392人 - guandian.cn",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QVUludExfaDdRNHdUd294RTlrZDNTSElxRFJXSDlubVdETmNOQ3o4cjNqNThHWUFBZ1RpUzBrdXM4WXRnVGswQnZoYUxjTGVSNTU0b0tsQThESlV4MlJ4TzlB?oc=5",
-      "site": "观点网",
+      "site": "guandian.cn",
       "siteUrl": "https://www.guandian.cn"
     },
     {
@@ -520,42 +569,6 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-64600b944c39",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 04:50:56 GMT",
-      "ts": 1789361456000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "海南五指山：暴雨致车辆积水被困 消防紧急营救3人 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbzJ4czFpMHJFejhMQ1hpeUtMLVU0UndnbHJaT0lLaHM4bDFIS1NHYUVWemdxLWM5S3lnUmlBQWg1UVBpc00tdHpKTG1RVS00WmpiTVlVRy1XVnFKU2RuNkFKNGFkOVRRUWVFVENhNlRxaVpXcUctelJCc3NhSUVpMzJCY2MtdHJf?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-7d1edf5b8c66",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 04:45:57 GMT",
-      "ts": 1789361157000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "海南保亭：强降雨致车辆涉水遇险 消防成功转移4名群众 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc0daSkxmZ25nRmgzY1NXanU5S2pETk41VVRFcHVaTV9acUlzWTNCOGxyU3huOWRVRUhZZlNyMnRQTjhlVTFuWWk3NzRjNUVSRlhJMFJVLWJpYThyemJ6eU03YTYyQ1lqMEU5SmZiOG9saDFveWpVSjRKY0RKSUJSRUtmT2lyb0pa?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-b2a32a3dbd89",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 04:38:00 GMT",
-      "ts": 1789360680000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "海南五指山：暴雨致农庄民房14人被困 消防紧急救援 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92anRxNzNfZWN2Y096R00ydWdPdng3blE3SjlJUDV0ZGF3WF9ISVVMRnVoS1BSLTF6NWNpWnpYV1lCWXBDMkJqMU83eGhlZnN3dXc?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://www.sohu.com"
-    },
-    {
       "id": "FL-9f25c7e21346",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 04:07:37 GMT",
@@ -652,15 +665,15 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-c7eeeb1ce53a",
+      "id": "FL-93fd2460b77b",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 01:44:00 GMT",
       "ts": 1789350240000,
       "scope": "dom",
       "type": "geo",
-      "title": "地震预警何时接入苹果系统？中国地震局回应 - guancha.cn",
+      "title": "地震预警何时接入苹果系统？中国地震局回应 - 观察者网",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tT01WaVdFa3NVQmp3cWoyMklIYUpmRVh0eWtidVA1VTRkcUd0UFloY1JBeVVaSUdiUUtia2VRN2RsZGFLUlI0bmFDbkxPTkFlRzFGeWpoSDhqdnowUXU2TlUtLWV2UQ?oc=5",
-      "site": "guancha.cn",
+      "site": "观察者网",
       "siteUrl": "https://www.guancha.cn"
     },
     {
@@ -710,19 +723,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SMU9aYk1ieDUtRUYxczloUTVubHBZc2VCWlBtbGlLNmRWdXFGZ2xvUWhfSHZqVS0wYndtZzhUZGZDZlBiQlU0WDV2NUh5bkE1M1VtZURfZWRMaTR4SU4waWJHYXdFd9IBa0FVX3lxTFA3TVBheHVtYmo2X1ppZlgzNnhYZnc3eU9MOUVybUZlUGh0QXMwTklhWXktUm9Bcnh1dVdGcUZvZlVrWGQxTlNKX2xxVV9PRzBRSmR3QWdURDRZVEhja0loSWxWN2RtRmJxR1Y4?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-EV-18d9b0620c3d",
-      "date": "2026-09-11",
-      "dateISO": "Fri, 11 Sep 2026 06:51:22 GMT",
-      "ts": 1789109482000,
-      "scope": "dom",
-      "type": "fire",
-      "title": "青岛一艘外籍货轮发生火灾 造成重大人员伤亡 - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45U204ZEdEdEpDSW9KS1pLOHNENExGbzdXdHI4dXFTZzZWck4xV3R0UWw0QzFaZWE2aThfTXphNGNOQl9FeTBFcWhGRmc3RGMzRkJrRGVRaGc4RDBuYy01VkVUNjA?oc=5",
-      "site": "新京报",
-      "siteUrl": "https://www.bjnews.com.cn",
-      "related": 10
     }
   ]
 }
