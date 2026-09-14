@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T21:55:53.543Z",
+  "updated": "2026-09-14T22:08:02.138Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -25,18 +25,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yTVR2OE40OXNCTlpXR2FyR2hncU5haXBVOThJM1VqM2xKYjRMS043Z1c4ZjFUWDA1WVM0QkZkZXFQY1BjOW9Zdjd4MEV5QnlGRVh6WGkyV2t1SHRWc2MzcEp4MXcyV0la?oc=5",
       "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
-    },
-    {
-      "id": "FL-31aaf7309a8a",
-      "date": "2026-09-03",
-      "dateISO": "Thu, 03 Sep 2026 07:00:00 GMT",
-      "ts": 1788418800000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "台风“沙德尔”带来强降雨，福建全力抢险救援 - 人民网-福建频道",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9idjB1WHk1RmxjaXpsRFVqTmtSUXdDbEcwVlp0d2k5TnNndmxBNXhhV0syZmdBVlVCQzZuZk56cmNGeWFCYnp5SkVxaFFvbGQ0TXoxalUyeFJtRHJfa2l2TVhBRXJVQWVfM0E?oc=5",
-      "site": "人民网-福建频道",
-      "siteUrl": "http://fj.people.com.cn"
     },
     {
       "id": "FL-e4ef799b67f2",
@@ -349,6 +337,18 @@
       "type": "weather",
       "title": "海南消防营救疏散被暴雨围困人员48人 - 中国青年网",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYVEtyTEk2eTJlSjFXbGVJbVBVUXZDd3ZleGxZN3NSU1pxNTBXWG16TUNpX0haY1FPVDZDVXJVcE1pbENfYzhVUkh1ZWVVWVI1QVJTOXo4ZUZMSFlLWF9Id2xMT3IxZkE?oc=5",
+      "site": "中国青年网",
+      "siteUrl": "https://news.youth.cn"
+    },
+    {
+      "id": "FL-b3b3ba465373",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 10:50:00 GMT",
+      "ts": 1789383000000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "外交部：西藏将为泥石流失联外籍人员家属提供及时服务 - 中国青年网",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rZUZrMHBVVFkxUzJIVHFlTjhkd01rT0tObGRka3RObzdkNjhheWNXQTZkVzhuOU02Q2hYaXpIWmVqRVd2TVljT2F6LWdUdDNxaUphTHkzOC1OSmZQdnJZRVVqME5vYU0?oc=5",
       "site": "中国青年网",
       "siteUrl": "https://news.youth.cn"
     },
