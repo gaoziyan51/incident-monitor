@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T02:48:13.972Z",
+  "updated": "2026-09-14T02:58:19.337Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -268,18 +268,6 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-c8df089e0330",
-      "date": "2026-09-13",
-      "dateISO": "Sun, 13 Sep 2026 19:32:25 GMT",
-      "ts": 1789327945000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "台湾花莲县发生4.1级地震 震源深度14千米 - 虎嗅网",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FYW9OSGRCcW1UU0phcEVRbXVBSXUyNjlnc3R4YmVHcWZPdW12OXJqb25XUG82M3FPNVREY2QySDc5VXkweldXNERsNGRreUtWREVB?oc=5",
-      "site": "虎嗅网",
-      "siteUrl": "https://www.huxiu.com"
-    },
-    {
       "id": "FL-fc28cb6534b8",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 19:25:00 GMT",
@@ -338,18 +326,6 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMEk3eXBaaHRkRzZkUVBwYnhJVlV3YUVzT08wU3hNeUdmNVR5MnNZZGtGckIzWXg2S191MF9zT19WX0t6bFM3OUdFLW4xUm1IS0d2d1FkQWNOMktFMkNpUlo3bjJBNE1KNTNnc2ZiUjliMUlvUGdkdElIZUFEa0NtVTF5X1lMU29kOXhrWEU5S1lGcWd0NlV5ZFdYNWVLZFU?oc=5",
       "site": "UA.NEWS",
       "siteUrl": "https://ua.news"
-    },
-    {
-      "id": "FL-149f2c3e6657",
-      "date": "2026-09-13",
-      "dateISO": "Sun, 13 Sep 2026 12:46:56 GMT",
-      "ts": 1789303616000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "德国政坛地震，魏德尔成赢家，中美俄表态，欧建制派挡不住右翼 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9RaU1mUlJHRGhUdjdxb0Vlbml2ZlN2aWUtTDZEZ2ZzQnprN20zRWhobzNwOUNJQnVMN25HekpSRWV0WHZRYnJoeXc3d1I?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://news.ifeng.com"
     },
     {
       "id": "FL-a20d6226fd37",
@@ -460,16 +436,16 @@
       "siteUrl": "https://www.cnr.cn"
     },
     {
-      "id": "FL-4d62c2e7f6e4",
+      "id": "FL-3177b8f7595a",
       "date": "2026-09-12",
-      "dateISO": "Sat, 12 Sep 2026 01:15:00 GMT",
-      "ts": 1789175700000,
+      "dateISO": "Sat, 12 Sep 2026 01:12:00 GMT",
+      "ts": 1789175520000,
       "scope": "intl",
       "type": "geo",
-      "title": "截至当地时间9月11日19时，尼泊尔泥石流遇难人数升至1386人，失联人数为5130人-中国吉林网 - 吉网",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VZE5fdVFxU2pyUTVqYmNkcktQMXl4VGtUb2JSWndGb1dhb0RVbFZUYVgwcFNCX1VWQ3R0R21wX2M3OG5mLXczY2hMbmhudUJ4Z1ZBSkNNeU81eTlO?oc=5",
-      "site": "吉网",
-      "siteUrl": "https://news.cnjiwang.com"
+      "title": "尼泊尔泥石流灾害遇难人数升至1386人 失联5130人 - 新华报业网",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JbDhqbGNOUGhCR0I1cDZiYTZqUHZJT1pUc2labzJpV05WYlhoTHJFWW5xejJUZnNkZ092Nk9jVzFzbEhpNHh6OERvQnd2RXJzWmw5cll5R2ZWems0T00tVGVnbmdfeWxRYVVj?oc=5",
+      "site": "新华报业网",
+      "siteUrl": "https://www.xhby.net"
     },
     {
       "id": "FL-6d12b0060e07",
@@ -484,28 +460,40 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
+      "id": "FL-0060923eaf19",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 02:37:00 GMT",
+      "ts": 1789353420000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "中国地震局回应“预警信息接入苹果iOS系统”：正在沟通，力争推进 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYSFJpMS1PZlFBRVE0b3FVM3l1ZU1Vb0pMTzV6SGhqa09BTEFDX1Y0bU9aVlFGZGM4dVRYTXBfOTJHUjE2ZnhETEM4dXQ5cHNTSGItUlBrRmk1bTFPdTU4aXc4NHVLYWFjeHNlU3hKbkM4MUNfSWc?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
+    },
+    {
+      "id": "FL-6bd4ba852002",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 02:37:00 GMT",
+      "ts": 1789353420000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "中国地震台网中心正就地震预警信息接入iOS系统与苹果公司沟通 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1abGwtQUJJemNSVWktb2JwdUFzM0huQVBpX2lVeXI0Y2MtVTZKQnVxQk9GTW5MXzNCRG1MbGg3Z3pFQlpyLXhMaDNmUnhIYWl1WXBfNmNfNVQweHU4dVJJR25YYVlMa3pJUjg0aUNMTnl5LUV2aUtJVw?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
+    },
+    {
       "id": "FL-b076e263abd1",
       "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 02:20:00 GMT",
-      "ts": 1789352400000,
+      "dateISO": "Mon, 14 Sep 2026 02:33:09 GMT",
+      "ts": 1789353189000,
       "scope": "dom",
       "type": "geo",
       "title": "中国地震台网中心：正与苹果公司沟通 - sohu.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSzNGdnZrZzZ1RDFFaTdzeEYyZFBzaXNrLXZ1R09iM3BvOFo2N1VfT25zaGpwMG5maTBuQXFoazJrTGdvQlczVVpnRzc1elpIXzBHMnJXcXhtM3JENDN6WTNFQmxJemlVelNVeXA3SllvMmFWQVFuRjRna1JLb0gzeV9ReUVMWmdxNkJWOA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVFZlY2k5RFU1eXJYQVpXQklzQnF4Wlo1R0lfdTFTdk1jMllsZWVfaE1nZmxjLS0wQnhncDNnbkZaVVhGUExLYmVNY3laZEZSZDFTdXM5Y1lzZkYwTGFmRDc0N0xabXo2VEQ2N2ZKcWZGYzlocWU2RGhTVEd1ZGdILVdRamV2NUg1YXp6aA?oc=5",
       "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-c5e6096e0bc8",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 02:16:04 GMT",
-      "ts": 1789352164000,
-      "scope": "dom",
-      "type": "collapse",
-      "title": "几秒内像玩具积木一样崩塌的“中国管控圣地” - 朝鮮日報中文版",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVkhONVhqVnNuMzRyYm4tQWowenB4ZkJDUnc3Y3pzclNMMXMxU0pHSnh6aEJnTkgtSktsY0hPMVVPZmFxRUhYRFJ4SnN1dW1sMzJpVlJQQ3dZWTQzakdOZWJfak5XNjRnektjWF9pMGJFNTdfa0N6ZVdnUTYyU3RQMTRXSHA1cm8?oc=5",
-      "site": "朝鮮日報中文版",
-      "siteUrl": "https://cnnews.chosun.com"
     },
     {
       "id": "FL-00c49d09a429",
@@ -518,6 +506,18 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tMUlJNDFGYUd3Y2VXRkRRNTEzdU94Y2hVQVYyTkpfVnE1MV9GNVJuQlo2RXhtYjhnR2o2OTBHMk93eERvWEt6d0ExRTVoU3plSHRfYWxTanhia0VsMzNodUpFanhVczhQcFlIdHJlNlI?oc=5",
       "site": "news.china.com",
       "siteUrl": "https://news.china.com"
+    },
+    {
+      "id": "FL-c5e6096e0bc8",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 02:13:10 GMT",
+      "ts": 1789351990000,
+      "scope": "dom",
+      "type": "collapse",
+      "title": "几秒内像玩具积木一样崩塌的“中国管控圣地” - 朝鮮日報中文版",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNakJiUFRGZk9KSlk5TTVjWTdFaGZZQzh2dGRPS1dBZlMtc2lDQXlfdEd0TTFZRXFYZ0xKNDZpTEpRSDBlQlpTajk3c2FVZHV3WUVET2FHVllOUHlEVWRkblFseVJFaGp6bWZDLURCdDJkekhWVEZZMVI3ZWdfTmFGSnh1OXAwNlpNWWpkUGdjZGtHZw?oc=5",
+      "site": "朝鮮日報中文版",
+      "siteUrl": "https://cnnews.chosun.com"
     },
     {
       "id": "FL-d58739d3f76f",
