@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T15:27:21.405Z",
+  "updated": "2026-09-14T15:41:43.320Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -75,6 +75,18 @@
       "siteUrl": "https://m.voc.com.cn"
     },
     {
+      "id": "FL-03e1c60639f5",
+      "date": "2026-09-06",
+      "dateISO": "Sun, 06 Sep 2026 07:00:00 GMT",
+      "ts": 1788678000000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔给水力发电押下重注，泥石流把问题彻底暴露 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByeEVvcHlucE92a1Z3T0Ywei1RT3Ric2RMaVEzNmVtbF9VVEVPMmhrNmliNEl3TGllWktKNjNodUNSSXh3S21KUHA2cEFqckZEV0RNMmpCWWRxSGM4Zm51VUEyV0dkZ9IBa0FVX3lxTFBxM2RNYURrR1hmQ1ktWnBrME1RQ1ZESXBWZHZ4aUNoaURoXy1BLXlySk9tcDZHb25fRmV5SDB5ZTVnck9rdlNmRHdGRkl3QldGb2VEZHA3VkNWT0NITjhmMTRwUWNpZEgxNDFF?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
+    },
+    {
       "id": "FL-9ce4cd6f92ce",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 15:09:44 GMT",
@@ -145,7 +157,7 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YZkR4Y0d0X3puNWh4WURpNGl3UUVaXzVEMkVLelFxMWQ3SjlOSHFWcXhEbkdTWmdYRjh1S05GbE55enluN0g0Ulpub21wOEJiRDhTdDl5ZGd2LXhkUGF6TmxzUQ?oc=5",
       "site": "jingjiribao.cn",
       "siteUrl": "http://www.jingjiribao.cn",
-      "related": 40
+      "related": 39
     },
     {
       "id": "FL-52fcfdf43df4",
@@ -279,18 +291,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rZUZrMHBVVFkxUzJIVHFlTjhkd01rT0tObGRka3RObzdkNjhheWNXQTZkVzhuOU02Q2hYaXpIWmVqRVd2TVljT2F6LWdUdDNxaUphTHkzOC1OSmZQdnJZRVVqME5vYU0?oc=5",
       "site": "中国青年网",
       "siteUrl": "https://news.youth.cn"
-    },
-    {
-      "id": "FL-f492c406efd4",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 10:26:08 GMT",
-      "ts": 1789381568000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "云南普洱市墨江县发生4.5级地震 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PSEVvZ3Q5YS1VSmRhbnZYRm5MX2VvdFlVR0NzMnh5ODVaY2Z4eWRuV1gycEFoeGU5YThLbFhZai1GU2kyT1pNTmFnVEp1MmliY1BZMFhZNnBURnl2dks1OE14d1VlRXQ4Z1ZiZmFUNmlDT2VKR0hqUA?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-4223b0016e20",
