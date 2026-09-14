@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T17:38:27.462Z",
+  "updated": "2026-09-14T17:50:32.301Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -181,7 +181,7 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YZkR4Y0d0X3puNWh4WURpNGl3UUVaXzVEMkVLelFxMWQ3SjlOSHFWcXhEbkdTWmdYRjh1S05GbE55enluN0g0Ulpub21wOEJiRDhTdDl5ZGd2LXhkUGF6TmxzUQ?oc=5",
       "site": "jingjiribao.cn",
       "siteUrl": "http://www.jingjiribao.cn",
-      "related": 34
+      "related": 35
     },
     {
       "id": "FL-ad1bc16065fd",
@@ -509,16 +509,16 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-a50e0ce2b966",
+      "id": "FL-f3a7b90baac8",
       "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 07:13:43 GMT",
-      "ts": 1789370023000,
-      "scope": "intl",
+      "dateISO": "Mon, 14 Sep 2026 06:53:00 GMT",
+      "ts": 1789368780000,
+      "scope": "dom",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1392人 - qlwb.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5OeDhjc3QyRjdULVh3Zkt4eGxLSE14MlkyM0NzUFJzUzFxUjRmT3FteVBJc1FHdE1fazhSdWc4SnBiSS01Y1BpcXZ2RnhYejUxYmstWEZJRQ?oc=5",
-      "site": "qlwb.com.cn",
-      "siteUrl": "https://www.qlwb.com.cn"
+      "title": "四川阿坝州理县发生3.0级地震 震源深度8千米 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zaHowX0pubndrS3V1cVh3WWd1a1R6eEh2VmZGY0cyVWo2ckdkcGoxUGs0OFRvNkJ0S2JlSkZvUlhveDFwS0xUclB1VTIzQm9MMks0emlISW5QYkVtdGc3LWxycUVpdFpNRGFvQXZielIwQldFSjgyOA?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-1ae98e1445e8",
