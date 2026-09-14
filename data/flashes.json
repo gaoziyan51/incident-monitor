@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T11:40:06.995Z",
+  "updated": "2026-09-14T11:53:17.119Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -85,6 +85,42 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtOVJwd3hJY0N0MjlhWE9YcDZpMURWeml2YUJnVTA0WURJNVQxQ2pTZjVEWlBnb2VEbXpSeU51VEswbi1zaVlRRUdUejM5bDBWU2J4QUFGVXEtUmRlWEtGa0k4ZkM?oc=5",
       "site": "新京报",
       "siteUrl": "https://www.bjnews.com.cn"
+    },
+    {
+      "id": "FL-dbba2a99fd38",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 11:38:37 GMT",
+      "ts": 1789385917000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "海南全省已转移4.2万余人 应对强降雨险情 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91UXc0RUNYSklWV1NEbUxZX1VncUszTzVSUXdKUFdyVjJ0VlRLQ3dhZFdacHZ4SzQyUlM1Y1UwX1VrT2IxQVIybi13VUR0V3liYUxuUDB1dEYxOFhyb1pJWXJrdUd1dFNBRTdwWTByMEc?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
+    },
+    {
+      "id": "FL-feb3aa479423",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 11:26:49 GMT",
+      "ts": 1789385209000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "印尼北马鲁古省附近发生6.2级地震 - news.bjd.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4UlJQYUtYaGhvU1JDMmlaQm40WUN3UFRuckNrdnU5STYzV1R5VVNtOVBRbC1ZemV6bGtsb1hqZ1oyM2ptdkNNdHYyRkhPM1hqRFVoMWVUQlhocEhRVEE?oc=5",
+      "site": "news.bjd.com.cn",
+      "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
+      "id": "FL-549ff992728c",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 11:08:31 GMT",
+      "ts": 1789384111000,
+      "scope": "dom",
+      "type": "other",
+      "title": "群防群治·百日攻坚｜重庆12起成功避险避灾案例获应急管理部通报表扬 - 华龙网",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9feHkxVTVtMGpJN21QR0I2aDYxdmNOWnJ0Q1ZVX3VReWtubkRZRGNJQm91Q1IwanFqTHhKWldLSUcxaXRaYUZodENJNFg1Z0FhY0htZnVCaWtISmhzdFBmVFhncU8zNkRoZVRj?oc=5",
+      "site": "华龙网",
+      "siteUrl": "https://www.cqnews.net"
     },
     {
       "id": "FL-3a9aeb42903c",
@@ -197,18 +233,6 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-bb2f8e6ea4f7",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 10:10:04 GMT",
-      "ts": 1789380604000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "云南墨江哈尼族自治县发生4.5级地震 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNazR6UWE1Z3kxZmZEN2NuNVNEVm5uRGR4X1dGYjdNMDlQZXRnNDR0amJHNEhMOHhOSFRkWktqNEpHWkgzMjlrNVViNjByaGxHUTUxYi0wOWJCZFdxYVU3dzdqQkpWUTdaejkzNmtydXVSTktSTXQwQnoxdHdEREJUMkYxdzMxSHZDVEFSOWxKTXFjaTZORmR5Sw?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.cn"
-    },
-    {
       "id": "FL-7ef540b8bf2a",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 10:03:00 GMT",
@@ -257,6 +281,18 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
+      "id": "FL-97b6812763e3",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 09:52:58 GMT",
+      "ts": 1789379578000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "云南墨江哈尼族自治县发生4.5级地震 - chinanews.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxOTV6NU5SOV8xdUFoUUZRZXg3QmYzZFN0X19qSjBRSmFGeENqZ0YwcTM0UDVmemVKUTFsRE01SUpJUWtWbVl0cTgybnNiblN1QlVWYXV0RzE1NjgxS1RpMmRRRDVENERQ?oc=5",
+      "site": "chinanews.com.cn",
+      "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
       "id": "FL-b4c5dd68e76e",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 09:33:44 GMT",
@@ -303,18 +339,6 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKLUd0aFI0ZEdid3JoQndya004MlBXZFhscm1TSlE3RGUwYzVXZElKN20xSVU5dXJBU3FVSkZLRmFxVE5HeXlmaWtTLWQyamVGTkc2YUlKbjJsamNmLUVPSHp4YktsbXVJTlpz?oc=5",
       "site": "华龙网",
       "siteUrl": "https://www.cqnews.net"
-    },
-    {
-      "id": "FL-0e8a4437e675",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 09:18:46 GMT",
-      "ts": 1789377526000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "云南普洱市墨江县附近发生4.6级左右地震 - 欧洲头条",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVTcwSW53YThucERyWW5qdFJOd1pnTWJwN1NUWmVMUFBadjJzbUxnYjktOW15c3owdkJqLWdjTFJsZEdCaGtmQ0Jrc1Q2UlN1WFUxS2RlRVB6TTlNSkk0R3M0c2czaHR6M2t5U3ZlNG9XT3M4cThaVFRqZ1FDNDRvQ2c3UGx5THhjZXR2eUdGdmRIWmtEODNCdXhsQlMyUFBPb3NYWFA3UkFDNWlYNmpJ?oc=5",
-      "site": "欧洲头条",
-      "siteUrl": "https://www.xinouzhou.com"
     },
     {
       "id": "FL-aca302f8939d",
@@ -387,18 +411,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9teEJTa1dSV05GVHJNQ2lyVEY5NU8zb0JBTzh2Wm1VdVpIdGlBd2hwblRSdDlIb2NBZ0FXU2NGQm5PUVo1MU1RdFplRjdfTUtpS2F4ZUc4NzJpNWdVNTd0el9uLW5MTzg1ZHA5MHNJX1Y?oc=5",
       "site": "中华网",
       "siteUrl": "https://news.china.com"
-    },
-    {
-      "id": "FL-7b785d9f8ee5",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 08:27:12 GMT",
-      "ts": 1789374432000,
-      "scope": "dom",
-      "type": "collapse",
-      "title": "G219线云南澜沧路段发生山体坍塌，部分路段实施全封闭交通管制 - qlwb.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rNUNRZVdMSWNFcUp2TkdaWDM3ckdLcmYtbmdlUjFhclRVenpNUmN6dUwtWU9BcXBkN3cyY0tpeWNvOFdkcnk2eWxtRkt5Zm9yRVVjdy12Yw?oc=5",
-      "site": "qlwb.com.cn",
-      "siteUrl": "https://www.qlwb.com.cn"
     },
     {
       "id": "FL-3fb53f917d6f",
@@ -543,18 +555,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kSnlyWFF2a095a0pJSGZmaEtnUkZ3ZkNoMjB0aVIwZ21EaUhfdmRvZnpYYm5wcUo3OC0xQ3NxM3dVT3NtSkdiSVp2VmdYYWtXSGgtNk1xdWliYjFqbmc?oc=5",
       "site": "news.bjd.com.cn",
       "siteUrl": "https://news.bjd.com.cn"
-    },
-    {
-      "id": "FL-10cd76a23bc8",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 05:58:38 GMT",
-      "ts": 1789365518000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1392人 - 极目新闻",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95TzdXWG9XRjZJRUg4QzdjYnlhdjNMc0o5M0N2dDh4d2hJMjB6OUpvbjhhVDFXdm1Fa3E0S2NWZlJ1ZExLUW9Bam5ETzBjSkEwQnlNZHNDZnU3SUk?oc=5",
-      "site": "极目新闻",
-      "siteUrl": "https://www.ctdsb.net"
     },
     {
       "id": "FL-3f83d56fefde",
