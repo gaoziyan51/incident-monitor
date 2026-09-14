@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T23:06:22.100Z",
+  "updated": "2026-09-14T23:19:37.737Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -75,6 +75,18 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
+      "id": "FL-b46b06e8af75",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 23:03:23 GMT",
+      "ts": 1789427003000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "云南临沧市耿马县发生2.8级地震，震源深度8千米 - Jiemian.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SR0FXZ1VGd1B6Rmg4Q2hNN3F5WExoMThBNVl1RGJibC1Ca3VEX2dlMGpoajFRazdmR1Izc1JpU2R0bHRuVWdUVzYxbmszdC1rampaQTVKcHk?oc=5",
+      "site": "Jiemian.com",
+      "siteUrl": "https://www.jiemian.com"
+    },
+    {
       "id": "FL-4e39249f800d",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 23:01:17 GMT",
@@ -85,6 +97,18 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03c21sYndGV0p1d0h3aTZ6aTQ3UGVLTlR6ZUFwdjZ1YnB6bzVFcjRXQzBUeFRHX0RsUkkyNElOSlNFRWZfbUdLV0J4aE9lWnlLaHRiOXJNTW5sai1sY2NzeklpalZMT1JlTlFPTERuOFh2Ri1YbURIMw?oc=5",
       "site": "finance.sina.cn",
       "siteUrl": "https://finance.sina.cn"
+    },
+    {
+      "id": "FL-5189ab2d1634",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 22:58:00 GMT",
+      "ts": 1789426680000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "新疆和田地区皮山县发生3.0级地震，震源深度15千米 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOZUdpMDc5NFRhLXBabjQ5ZTZZMUt5QjNicW43cjVWTDRNanlDRVoxeHo3enA1VDFiN2E0b2RvUldLSkVzOE9tVHo0aVZTclNUV0JLUEdPSW5BaXNpQzRpblVyWFY3Zm5OVjJ6dVpMN1pyVlEtRnpSRg?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-26d71b61fa33",
@@ -109,18 +133,6 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9KLXE2cHoxblc0RTI0Vzc2WWhZZlUwWFRQeThaYmpNUVE5TjNiZjlYNkpiS210cVhldUtnLWZBT3JoRjdyTGJJU0tFWGJuZlV6WW1qZHJWUTR5U2g4ZWR0ZWNBOTBLcjI1UFN2dGE3M21iTFk4RVdWZw?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
-    },
-    {
-      "id": "FL-01827f725771",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 17:23:00 GMT",
-      "ts": 1789406580000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "王毅与拉脱维亚外长通话 向泥石流失踪拉方人员家属表示慰问 - gbcode.rthk.hk",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNEZFV1lNaHJXTW5XdVgxeTluSG51TUVSMk54NnJZaFBFckhQYlQyVWVISUp1QV9vYjdPZXE1ZlhmTjhhcXlvWXpPRE9hRmw5dVN4ZFpHekEyWkVFNmNTeUFCUlczeUEzQVBibTJnUE0td2lsM0ZBUVJiWmpmZk9DTjhwVjdkMkhIWFB4OUlyc0NLakQ4RWFZT2RJc3Q1eG84TW93?oc=5",
-      "site": "gbcode.rthk.hk",
-      "siteUrl": "https://gbcode.rthk.hk"
     },
     {
       "id": "FL-359315b6a21f",
@@ -329,18 +341,6 @@
       "siteUrl": "https://news.youth.cn"
     },
     {
-      "id": "FL-b3b3ba465373",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 10:50:00 GMT",
-      "ts": 1789383000000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "外交部：西藏将为泥石流失联外籍人员家属提供及时服务 - 中国青年网",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rZUZrMHBVVFkxUzJIVHFlTjhkd01rT0tObGRka3RObzdkNjhheWNXQTZkVzhuOU02Q2hYaXpIWmVqRVd2TVljT2F6LWdUdDNxaUphTHkzOC1OSmZQdnJZRVVqME5vYU0?oc=5",
-      "site": "中国青年网",
-      "siteUrl": "https://news.youth.cn"
-    },
-    {
       "id": "FL-4223b0016e20",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 10:13:00 GMT",
@@ -473,6 +473,18 @@
       "siteUrl": "https://m.voc.com.cn"
     },
     {
+      "id": "FL-5693206954f6",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 08:15:41 GMT",
+      "ts": 1789373741000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "帕拉纳州持续强降雨致逾1.4万人受灾 两人失踪多条公路受阻 - br-cn.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMTYzNE9CaWNpcER2aS1hQUNBQm0xR0ZnZU13UTFvOUVwY0pMNHlCYmJHaUYwRzJTY2Y1SDZxd3M2XzJac3hJTHJRZzI1aU5rVldGZXdoaGxOT3ZlLWsxakFYYzVkRFZVSTdCa2NabVRCLUxFSmNlMW1CN3dCOU84NWZseHB4a2o5RFRsajRR?oc=5",
+      "site": "br-cn.com",
+      "siteUrl": "https://www.br-cn.com"
+    },
+    {
       "id": "FL-9aff4dbf8471",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 07:57:16 GMT",
@@ -509,18 +521,6 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-cffad1b9a2c5",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 07:17:14 GMT",
-      "ts": 1789370234000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "幸存者陆海涛：被尼泊尔泥石流围困11天获救背后的人生片段 - mp.oeeee.com",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTVmx0eHAtMllWLW1ZWDlmXzc1T3RRblpneEZYQVlZWFVtTDdNcC1qR19neWFJMTFmVmRIaWxpRGtfUEp1cGJhVnJnZVNvZEJScGI1elJoS1lkRzU3M0c2cjJINktMZw?oc=5",
-      "site": "mp.oeeee.com",
-      "siteUrl": "https://m.mp.oeeee.com"
-    },
-    {
       "id": "FL-13d68ffbce31",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 07:00:00 GMT",
@@ -531,18 +531,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtOVJwd3hJY0N0MjlhWE9YcDZpMURWeml2YUJnVTA0WURJNVQxQ2pTZjVEWlBnb2VEbXpSeU51VEswbi1zaVlRRUdUejM5bDBWU2J4QUFGVXEtUmRlWEtGa0k4ZkM?oc=5",
       "site": "新京报",
       "siteUrl": "https://www.bjnews.com.cn"
-    },
-    {
-      "id": "FL-38c8fc42a0bc",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 06:53:00 GMT",
-      "ts": 1789368780000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川阿坝州理县发生3.0级地震 震源深度8千米 - finance.sina.cn",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zaHowX0pubndrS3V1cVh3WWd1a1R6eEh2VmZGY0cyVWo2ckdkcGoxUGs0OFRvNkJ0S2JlSkZvUlhveDFwS0xUclB1VTIzQm9MMks0emlISW5QYkVtdGc3LWxycUVpdFpNRGFvQXZielIwQldFSjgyOA?oc=5",
-      "site": "finance.sina.cn",
-      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-1ae98e1445e8",
@@ -629,6 +617,18 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
+      "id": "FL-9f25c7e21346",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 04:32:30 GMT",
+      "ts": 1789360350000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "海南全力防御强降雨 已紧急转移群众3.1万余人 - 紫荆网",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbElJQTRLdTlpNlVVNS02X1ZILUFPUTFxdlcwN3RmUDRrVGw5TGYwYlJYTXBLc2dIQ1l5RVhLRmRXaEMtWlpXb0ZCeGFFclFFRndYaS1yd0xkV3ktQ2lqUVN0SzhhY3VUMWxJblc3bWF4bjNOR0dpNTlIeU5ONW1oend0RTZxdm02MHNXX0xIWXlvRXBu?oc=5",
+      "site": "紫荆网",
+      "siteUrl": "https://zijing.com.cn"
+    },
+    {
       "id": "FL-dbe70b53bbc8",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 04:20:08 GMT",
@@ -689,16 +689,16 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
-      "id": "FL-ca4d041bac7b",
+      "id": "FL-c7eeeb1ce53a",
       "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 00:36:46 GMT",
-      "ts": 1789346206000,
+      "dateISO": "Mon, 14 Sep 2026 01:44:00 GMT",
+      "ts": 1789350240000,
       "scope": "dom",
-      "type": "other",
-      "title": "中央气象台：天 气 公 报（2026年09月14日） - finance.sina.cn",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9KTVVrTVVGdkhLa0l5MnY5dEFwVXFXbmZKT2syRkpUZGxyYTJacGRVZ3liSmpCR0pZMUt4WU45TGJDWEJUSkRBS3F1X1k0eDZUQkQyWmxfRFgxUGpjbnJ2ZTRMODlENlBqaWJtZHZqVERtOGlpek5PSw?oc=5",
-      "site": "finance.sina.cn",
-      "siteUrl": "https://finance.sina.cn"
+      "type": "geo",
+      "title": "地震预警何时接入苹果系统？中国地震局回应 - guancha.cn",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tT01WaVdFa3NVQmp3cWoyMklIYUpmRVh0eWtidVA1VTRkcUd0UFloY1JBeVVaSUdiUUtia2VRN2RsZGFLUlI0bmFDbkxPTkFlRzFGeWpoSDhqdnowUXU2TlUtLWV2UQ?oc=5",
+      "site": "guancha.cn",
+      "siteUrl": "https://www.guancha.cn"
     },
     {
       "id": "FL-e8a32a183e42",
