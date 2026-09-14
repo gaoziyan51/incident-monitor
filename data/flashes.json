@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T15:41:43.320Z",
+  "updated": "2026-09-14T15:56:28.734Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -87,6 +87,18 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
+      "id": "FL-470b743a1716",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 15:40:00 GMT",
+      "ts": 1789400400000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "日本核电站地震评估数据造假 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUR1BFZzFOSUpObS1JWXNDcVlZdVdYVjBvZXNSSXl4cFdGbk5VVDZGQzRUTl81UkVGcThQZk42LWRySXhjcjNDdHZvZ3psYWctY0lnN1BVUjltbVAxelhGOUJGX2NqM0ZtRHl6TFF6ZHYwSTBPdmc?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
+    },
+    {
       "id": "FL-9ce4cd6f92ce",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 15:09:44 GMT",
@@ -157,7 +169,7 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YZkR4Y0d0X3puNWh4WURpNGl3UUVaXzVEMkVLelFxMWQ3SjlOSHFWcXhEbkdTWmdYRjh1S05GbE55enluN0g0Ulpub21wOEJiRDhTdDl5ZGd2LXhkUGF6TmxzUQ?oc=5",
       "site": "jingjiribao.cn",
       "siteUrl": "http://www.jingjiribao.cn",
-      "related": 39
+      "related": 40
     },
     {
       "id": "FL-52fcfdf43df4",
@@ -194,18 +206,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoSHdWOTltc2tKRzdVMDdHa2VfaVd2VUh6RWcwaEw1N2pwaTVBMlZzVlhjMDNnN09wdDFmNHRuM2sxN3FjMVVYRzBUMHIwNkU2YUo4UHRzVFVJU2ExVXN4UA?oc=5",
       "site": "thepaper.cn",
       "siteUrl": "https://www.thepaper.cn"
-    },
-    {
-      "id": "FL-dbba2a99fd38",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 11:38:37 GMT",
-      "ts": 1789385917000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "海南全省已转移4.2万余人 应对强降雨险情 - 中华网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91UXc0RUNYSklWV1NEbUxZX1VncUszTzVSUXdKUFdyVjJ0VlRLQ3dhZFdacHZ4SzQyUlM1Y1UwX1VrT2IxQVIybi13VUR0V3liYUxuUDB1dEYxOFhyb1pJWXJrdUd1dFNBRTdwWTByMEc?oc=5",
-      "site": "中华网",
-      "siteUrl": "https://news.china.com"
     },
     {
       "id": "FL-79336b875ee3",
@@ -293,6 +293,18 @@
       "siteUrl": "https://news.youth.cn"
     },
     {
+      "id": "FL-f492c406efd4",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 10:26:08 GMT",
+      "ts": 1789381568000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "云南普洱市墨江县发生4.5级地震 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PSEVvZ3Q5YS1VSmRhbnZYRm5MX2VvdFlVR0NzMnh5ODVaY2Z4eWRuV1gycEFoeGU5YThLbFhZai1GU2kyT1pNTmFnVEp1MmliY1BZMFhZNnBURnl2dks1OE14d1VlRXQ4Z1ZiZmFUNmlDT2VKR0hqUA?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
+    },
+    {
       "id": "FL-4223b0016e20",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 10:13:00 GMT",
@@ -351,18 +363,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxOTV6NU5SOV8xdUFoUUZRZXg3QmYzZFN0X19qSjBRSmFGeENqZ0YwcTM0UDVmemVKUTFsRE01SUpJUWtWbVl0cTgybnNiblN1QlVWYXV0RzE1NjgxS1RpMmRRRDVENERQ?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-c0f51c4bf8d9",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 09:44:05 GMT",
-      "ts": 1789379045000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "印尼万丹省西南海域发生5.6级地震 - 第一财经",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HdkhPUDZyWGpmZEF6VTlXR3B0ZVkwanpyOUx2bHk1enlNQXgzWEdxWUJaR1pMOWppcUp4a1d5dm9mZ1ZyMFlKbWxORWZVMnM2SXJF?oc=5",
-      "site": "第一财经",
-      "siteUrl": "https://www.yicai.com"
     },
     {
       "id": "FL-b517218cebd3",
@@ -521,15 +521,15 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-212ff8f81bea",
+      "id": "FL-cffad1b9a2c5",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 07:17:14 GMT",
       "ts": 1789370234000,
       "scope": "intl",
       "type": "geo",
-      "title": "幸存者陆海涛：被尼泊尔泥石流围困11天获救背后的人生片段 - 奥一网",
+      "title": "幸存者陆海涛：被尼泊尔泥石流围困11天获救背后的人生片段 - mp.oeeee.com",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTVmx0eHAtMllWLW1ZWDlmXzc1T3RRblpneEZYQVlZWFVtTDdNcC1qR19neWFJMTFmVmRIaWxpRGtfUEp1cGJhVnJnZVNvZEJScGI1elJoS1lkRzU3M0c2cjJINktMZw?oc=5",
-      "site": "奥一网",
+      "site": "mp.oeeee.com",
       "siteUrl": "https://m.mp.oeeee.com"
     },
     {
