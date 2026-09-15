@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T22:36:43.691Z",
+  "updated": "2026-09-15T22:45:29.478Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -86,6 +86,18 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3aTRuR1Bfb2ZCTGRWZ3RnNkVCam5UM05MWGhwS3k3LTUyOXYtMHBHNFRWalJSYWQ3LWFHVVM4d21uVEx4UVl5NnZDR01ROFNvOGZ5UHppV3R6VnlUaXc?oc=5",
       "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
+      "id": "FL-f612baf862ab",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 15:14:36 GMT",
+      "ts": 1789485276000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害遇难人数升至1403人 - 虎嗅网",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CcnQxRDV0dm8xWUlfQmhoaGR6Z3pVQlZGeHFmRjFZZnBPVDZqa0NsaVRXV0ZTdlotT0p0Y1ljTGIta2MtSGRBd2pkM2NCQWhUZkJN?oc=5",
+      "site": "虎嗅网",
+      "siteUrl": "https://www.huxiu.com"
     },
     {
       "id": "FL-0b8b148a6522",
@@ -329,15 +341,15 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-221fab767f36",
+      "id": "FL-e0b20b7e83b1",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 15:24:23 GMT",
       "ts": 1789053863000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏网警：网民恶意对比他国歪曲中国泥石流救援被罚 - zaobao.com.sg",
+      "title": "西藏网警：网民恶意对比他国歪曲中国泥石流救援被罚 - 联合早报",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41YTFMaV8talhpWGRhdjJlWng2bThUdEwyTEFvbEgySFBYNDdaQUFXcW5sN3NOT3I3WGpINmVSenFmR1JWMVpYTTZ3R2swOExDVDc0WVJGR0ttWXAwWjdaSWh3NnFBMUpLUWc?oc=5",
-      "site": "zaobao.com.sg",
+      "site": "联合早报",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
@@ -425,15 +437,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-e7e2bc43dccc",
+      "id": "FL-ef8762f7d4df",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 23:20:16 GMT",
       "ts": 1789428016000,
       "scope": "dom",
       "type": "geo",
-      "title": "王毅：中国将尽最大努力继续搜救泥石流外方失联人员 - zaobao.com.sg",
+      "title": "王毅：中国将尽最大努力继续搜救泥石流外方失联人员 - 联合早报",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4ZlRyaE5FTVNSQlNwX1ppMlBMNHpKYjJQYnJQQUdobTZqZWZRaFREOGRFRjBrTWVNY2M2YkJpNjhqajROdkNMaHBEb2JYNHNsMk50VVJkQ05PdUZFa2I2X2tWV0JNU09qR1E?oc=5",
-      "site": "zaobao.com.sg",
+      "site": "联合早报",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
@@ -461,15 +473,15 @@
       "siteUrl": "https://epaper.tianjinwe.com"
     },
     {
-      "id": "FL-3fd6e106fb4f",
+      "id": "FL-7a14c7efe1f8",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 14:48:41 GMT",
       "ts": 1789397321000,
       "scope": "dom",
       "type": "geo",
-      "title": "墨江发生4.5级地震 消防、电力等部门已抵达震中村寨 - 昆明信息港",
+      "title": "墨江发生4.5级地震 消防、电力等部门已抵达震中村寨 - kunming.cn",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wamNQU2FUbk1OeGEtYTBLZ1ZGZUxWcFZ6ZmZIbUc1LTQxaUo2RnVXSWdEZEFXVkdKaDZTYmpudVpzX3F5eFhTY2YtRDcxSmp1SHhscjhCUEhhcTNVYkIwTkJ3OWp4QQ?oc=5",
-      "site": "昆明信息港",
+      "site": "kunming.cn",
       "siteUrl": "https://www.kunming.cn"
     },
     {
@@ -639,18 +651,6 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9MSzhKUFpFZzJQemJJbzlxaHg3REZnRTN6RkJ1MW8xYzFfSDJyT0tzWmlPX2x2b0dsUmU0YVN1a0U0ZEZzSHJKTVpfSk90THk4WlpOTFFHeXJZWTUxWVc1bUVVYw?oc=5",
       "site": "四川新闻",
       "siteUrl": "https://sichuan.scol.com.cn"
-    },
-    {
-      "id": "FL-2640ef9a51ae",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 03:23:43 GMT",
-      "ts": 1789356223000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "中国地震局：正与苹果公司沟通，力争加快推进地震预警信息接入iOS系统 - 四川在线",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4Y0VFQ05BbDRIazJSQmZLc0NUVUdUaHdRblpLQUNtU2dseVE0eEtEcjVVbThLS25rMEY1TmlxMGtSQzFPZzYwVnpzQkVFNmEzdHdhSzhIR3hPYmJqdDZ1UQ?oc=5",
-      "site": "四川在线",
-      "siteUrl": "https://focus.scol.com.cn"
     },
     {
       "id": "FL-b133a2e7d7d9",
