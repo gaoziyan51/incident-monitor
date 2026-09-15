@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T18:23:37.024Z",
+  "updated": "2026-09-15T18:40:44.034Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -37,7 +37,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
       "site": "rfi.fr",
       "siteUrl": "https://www.rfi.fr",
-      "related": 41
+      "related": 40
     },
     {
       "id": "FL-221f4d43a11f",
@@ -52,6 +52,18 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
+      "id": "FL-ec0d2255786c",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 15:44:17 GMT",
+      "ts": 1789487057000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害已致1403人遇难 - 央广网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxSXBDLTAxcDN6MUhlbFRjOE9WY1dfaVpCLUpETDl0ZWl5YjlFdlp1MW14eGtuREJlU1ZuckpwTm52RzM5WlpKUFhnTGVkVDVvRmw5S2MtemJXMGtxY2F3dUNOS2FFZkc2?oc=5",
+      "site": "央广网",
+      "siteUrl": "https://news.cnr.cn"
+    },
+    {
       "id": "FL-2244178adc9f",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 15:16:30 GMT",
@@ -62,18 +74,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3aTRuR1Bfb2ZCTGRWZ3RnNkVCam5UM05MWGhwS3k3LTUyOXYtMHBHNFRWalJSYWQ3LWFHVVM4d21uVEx4UVl5NnZDR01ROFNvOGZ5UHppV3R6VnlUaXc?oc=5",
       "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
-    },
-    {
-      "id": "FL-bb82130c0d8e",
-      "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 15:10:00 GMT",
-      "ts": 1789485000000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "截至当地时间15日20时，尼泊尔泥石流灾害已致1403人遇难 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95QUNWVVpOd19vWGlpcEl4X1cwSHF2c3piNmtvbksySXVMcHU2UGhxTnFwejRQaURHeUlwTTA5U0dPQWQwbnN1M2hhNTdyNnJLSjUydGJXdW1wNDZmeGcyeERQVGNGMmlCcUlpRy1EVkYycWVFeGc?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-adacbe1e9c57",
@@ -124,18 +124,6 @@
       "siteUrl": "https://www.xinhuanet.com"
     },
     {
-      "id": "FL-b9c7990710ac",
-      "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 12:07:46 GMT",
-      "ts": 1789474066000,
-      "scope": "intl",
-      "type": "collapse",
-      "title": "外资加速抛售美债转投美股，美国“无风险资产”神话面临崩塌风险-市场参考 - 金十数据",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zWS1YOTJrU1Z0S2ZaSGY3Qmt6RmcyYnF3elJXa0dZRmJ4YTNTZ3psOUZVX21Lb1ktWHVBUFVtRm9aMnU3RXU4U0RGZzMwTk0?oc=5",
-      "site": "金十数据",
-      "siteUrl": "https://xnews.jin10.com"
-    },
-    {
       "id": "FL-87f2e31a2e0d",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 10:47:07 GMT",
@@ -160,6 +148,18 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
+      "id": "FL-b9c7990710ac",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 06:48:43 GMT",
+      "ts": 1789454923000,
+      "scope": "intl",
+      "type": "collapse",
+      "title": "外资加速抛售美债转投美股，美国“无风险资产”神话面临崩塌风险-市场参考 - 金十数据",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zWS1YOTJrU1Z0S2ZaSGY3Qmt6RmcyYnF3elJXa0dZRmJ4YTNTZ3psOUZVX21Lb1ktWHVBUFVtRm9aMnU3RXU4U0RGZzMwTk0?oc=5",
+      "site": "金十数据",
+      "siteUrl": "https://xnews.jin10.com"
+    },
+    {
       "id": "FL-ad76b97e04e5",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 06:33:47 GMT",
@@ -170,6 +170,18 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbjMzNnRqSE5pdlBaeW5HMk9TdDJGUmRGZDBTbnROVHNvYjFoNVNaRDZJVWxFVUI3bnRHRWVjVmZBa0pNWlFydkFtVjJHakFjOFNRU0kwV3lSWVdlWTFZNnhaZHE1TnZhX3RhZzg2WTlGSWROTDAwVFpGdDcwSmtRMVU2TzI2VmkwdTJF?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.xinhuanet.com"
+    },
+    {
+      "id": "FL-5e33d0df997a",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 05:44:27 GMT",
+      "ts": 1789451067000,
+      "scope": "dom",
+      "type": "other",
+      "title": "视频丨基本生活需求有保障 记者探访海南保亭临时安置点 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTFpyOS10YnN3c1N4T3diRTZXQ00wYWxSdG9aazh1VU1aLVVkcUJIQnlUU0ZGeVppRHZsQnJJc2w5ZUFobjNPMnNoYlowUDQtZEthNmY0M1YzZFRLOWdaTGtCb3Zyb1lMajM4Qk10cFVtOVIxdE1UblkzZDBicXhKd012ZmkzSWp6cXBWQzFkeHl4ZlhlN0tZcQ?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-115d96134d0b",
@@ -303,18 +315,6 @@
       "site": "jpchinapress.com",
       "siteUrl": "https://www.jpchinapress.com",
       "related": 22
-    },
-    {
-      "id": "FL-85a4f8756618",
-      "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 01:00:00 GMT",
-      "ts": 1789434000000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "海南陵水遇强降雨，部分乡镇有人员被困，消防员分五批转移51人 - bjnews.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xMkZ1WGhtZTlWcHJjcEJPbUZSLUNzUzBpQzU2U2x1TThkc1FBOFlISDUyTjdiX3FKZ19QNXBieERJZEJ3VEVWLV9NNFAwb1dVQTZldmZjMzRaN2Nmd3Y0cmtMT20?oc=5",
-      "site": "bjnews.com.cn",
-      "siteUrl": "https://www.bjnews.com.cn"
     },
     {
       "id": "FL-c13166f3b420",
@@ -545,6 +545,18 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
+      "id": "FL-18064121c86e",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 11:54:00 GMT",
+      "ts": 1789386840000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "第1现场｜海南五指山特大暴雨：14人被困山洪获救 - thepaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoSHdWOTltc2tKRzdVMDdHa2VfaVd2VUh6RWcwaEw1N2pwaTVBMlZzVlhjMDNnN09wdDFmNHRuM2sxN3FjMVVYRzBUMHIwNkU2YUo4UHRzVFVJU2ExVXN4UA?oc=5",
+      "site": "thepaper.cn",
+      "siteUrl": "https://www.thepaper.cn"
+    },
+    {
       "id": "FL-97b6812763e3",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 09:52:58 GMT",
@@ -711,18 +723,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SMU9aYk1ieDUtRUYxczloUTVubHBZc2VCWlBtbGlLNmRWdXFGZ2xvUWhfSHZqVS0wYndtZzhUZGZDZlBiQlU0WDV2NUh5bkE1M1VtZURfZWRMaTR4SU4waWJHYXdFd9IBa0FVX3lxTFA3TVBheHVtYmo2X1ppZlgzNnhYZnc3eU9MOUVybUZlUGh0QXMwTklhWXktUm9Bcnh1dVdGcUZvZlVrWGQxTlNKX2xxVV9PRzBRSmR3QWdURDRZVEhja0loSWxWN2RtRmJxR1Y4?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-1f922e81d5d0",
-      "date": "2026-08-28",
-      "dateISO": "Fri, 28 Aug 2026 07:00:00 GMT",
-      "ts": 1787900400000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "高位冰崩如何演变为泥石流 - 人民日报",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wVUROYWpQa1YzUGZEYzZWLXRZNWF4ck5FV281OC1DOEFMWDZBV2xyQXoxUHZ4SU5HbjRXcnZFZ2VYYWtWV2dEQUUyTE1WdEJaRXFhamNubndKc0dlZjZNRGZDNEhEY0tZd0w1REx2WGVhbmhQYy1DQ2RyXzZzTlU?oc=5",
-      "site": "人民日报",
-      "siteUrl": "http://paper.people.com.cn"
     }
   ]
 }
