@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T01:25:24.004Z",
+  "updated": "2026-09-15T01:39:46.631Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -27,6 +27,18 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
+      "id": "FL-b7926d5cc2b0",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 01:32:38 GMT",
+      "ts": 1789435958000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害已致1396人遇难 - ctdsb.net",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zV3U5dlJfZnk1aFExQzJCbG5ZMkdKajFiemxWS0hVRUJyTFRRbDZyZjR5TWhYQkhLdVpEZFNBODk4aXhDbmVWOGtzRkVKYi1fOU4tUTBOSUY4NzQ?oc=5",
+      "site": "ctdsb.net",
+      "siteUrl": "https://www.ctdsb.net"
+    },
+    {
       "id": "FL-88cb2f4ee281",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 01:10:28 GMT",
@@ -39,15 +51,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-65bd0647c27b",
+      "id": "FL-971764f9471c",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 01:09:23 GMT",
       "ts": 1789434563000,
       "scope": "dom",
       "type": "other",
-      "title": "始终把人民生命安全放在首位——以习近平同志为核心的党中央坚强领导科学指挥2026年防汛抗洪救灾纪实 - news.ifeng.com",
+      "title": "始终把人民生命安全放在首位——以习近平同志为核心的党中央坚强领导科学指挥2026年防汛抗洪救灾纪实 - 凤凰网",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5WS1Q4V0xtZHdEQUdtX3pkQThaMkU5LVRJbGE5Z3JzQXZFUzZTY29HbG50MGhVQTdRaURSbngzVkJVUmZ0WlRBemxDWVQ?oc=5",
-      "site": "news.ifeng.com",
+      "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com"
     },
     {
@@ -99,15 +111,15 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-31aaf7309a8a",
+      "id": "FL-20349e76752b",
       "date": "2026-09-03",
       "dateISO": "Thu, 03 Sep 2026 07:00:00 GMT",
       "ts": 1788418800000,
       "scope": "dom",
       "type": "weather",
-      "title": "台风“沙德尔”带来强降雨，福建全力抢险救援 - 人民网-福建频道",
+      "title": "台风“沙德尔”带来强降雨，福建全力抢险救援 - fj.people.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9idjB1WHk1RmxjaXpsRFVqTmtSUXdDbEcwVlp0d2k5TnNndmxBNXhhV0syZmdBVlVCQzZuZk56cmNGeWFCYnp5SkVxaFFvbGQ0TXoxalUyeFJtRHJfa2l2TVhBRXJVQWVfM0E?oc=5",
-      "site": "人民网-福建频道",
+      "site": "fj.people.com.cn",
       "siteUrl": "http://fj.people.com.cn"
     },
     {
@@ -169,7 +181,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbmt6N21OV1BJWFZ1Y0t6dWJFTkozeXowRVVaQWplSnhGMkRrYWE3bHZQal9jcnE2T1g3R3FYSDBHZ2hyQzVIbTd4OXltTlE1YjlJTjNCREJseWo2blJLdjFhWk0yeHNlQk5WZjQxR0VYSmNfWXBBT0x6UHZuRDE3QW5YeWhFX3Ba?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com",
-      "related": 26
+      "related": 21
     },
     {
       "id": "FL-909ef06a4a75",
@@ -304,15 +316,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-7d1b29c00db6",
+      "id": "FL-c375f130cb0d",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 14:18:00 GMT",
       "ts": 1789395480000,
       "scope": "intl",
       "type": "geo",
-      "title": "日本滨冈核电站丑闻调查报告出炉：篡改地震评估！208项造假 - 驱动之家",
+      "title": "日本滨冈核电站丑闻调查报告出炉：篡改地震评估！208项造假 - news.mydrivers.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EM2NjTzQzSWhPQ2xTSWFpTmtCaGxDN001YVduNG1kZ05yU0hPWnJPQmdyd3JjUjREb0lBNXhIYXptR0VBOFBvS2FVTkFWcmZfbXZFWnZkRjQ?oc=5",
-      "site": "驱动之家",
+      "site": "news.mydrivers.com",
       "siteUrl": "https://news.mydrivers.com"
     },
     {
@@ -340,27 +352,27 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-2b20cc44bb65",
+      "id": "FL-25a4359e5226",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 13:05:29 GMT",
       "ts": 1789391129000,
       "scope": "dom",
       "type": "geo",
-      "title": "云南墨江发生4.5级地震，暂无人员伤亡报告，市民：地震时正在打扫卫生，拿着垃圾袋往室外跑 - 极目新闻",
+      "title": "云南墨江发生4.5级地震，暂无人员伤亡报告，市民：地震时正在打扫卫生，拿着垃圾袋往室外跑 - ctdsb.net",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHbFZPQ2FUU3liNG00N2dXSklPWU94bVZUTEphalhSaDNITWNWaTFNNUYtdmlGR0t0QUNIOVMxOWtMblhuMVVsbjdCNm41UjNlUGZkTUxhS2NOTkU?oc=5",
-      "site": "极目新闻",
+      "site": "ctdsb.net",
       "siteUrl": "https://www.ctdsb.net"
     },
     {
-      "id": "FL-13e916d060d8",
+      "id": "FL-0c6e28fce47f",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 12:41:04 GMT",
       "ts": 1789389664000,
       "scope": "dom",
       "type": "other",
-      "title": "海南一中学附近水闸边坡塌方，教育局回应 - news.ifeng.com",
+      "title": "海南一中学附近水闸边坡塌方，教育局回应 - 凤凰网",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBCb2VWNlN6UnpNVXREeEhZVzJGNTBwVy1hVGQteHJOWmI4Ql9SeE8wajJMM0FhRGRBOHpUb19IQjVCb2hxZ2ZRT2hjQjY?oc=5",
-      "site": "news.ifeng.com",
+      "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com"
     },
     {
@@ -374,7 +386,7 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YZkR4Y0d0X3puNWh4WURpNGl3UUVaXzVEMkVLelFxMWQ3SjlOSHFWcXhEbkdTWmdYRjh1S05GbE55enluN0g0Ulpub21wOEJiRDhTdDl5ZGd2LXhkUGF6TmxzUQ?oc=5",
       "site": "jingjiribao.cn",
       "siteUrl": "http://www.jingjiribao.cn",
-      "related": 42
+      "related": 45
     },
     {
       "id": "FL-52fcfdf43df4",
@@ -521,18 +533,6 @@
       "siteUrl": "https://www.bjnews.com.cn"
     },
     {
-      "id": "FL-6da3c18f0120",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 08:17:35 GMT",
-      "ts": 1789373855000,
-      "scope": "dom",
-      "type": "other",
-      "title": "海南全省已转移4.2万余人！多地停课，单日雨量破纪录 - 华声在线",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00SERmWlpRQ09NNFRxMUxuWTFTX0YzSnNBaFFzQml5dEo3bFBicW9jcURTNjVRLWN2d2RUNGVxRjc3VktLQV9vRkhwcDJ4U0h2SUhlR3NYdWViMlVYRmxZ?oc=5",
-      "site": "华声在线",
-      "siteUrl": "https://m.voc.com.cn"
-    },
-    {
       "id": "FL-5693206954f6",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 08:15:41 GMT",
@@ -557,39 +557,39 @@
       "siteUrl": "http://www.news.cn"
     },
     {
-      "id": "FL-442060a1cdc6",
+      "id": "FL-084bca225a36",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 07:35:25 GMT",
       "ts": 1789371325000,
       "scope": "dom",
       "type": "geo",
-      "title": "中方介绍西藏泥石流灾害外籍人员搜救情况 - news.ifeng.com",
+      "title": "中方介绍西藏泥石流灾害外籍人员搜救情况 - 凤凰网",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9uZU1XYkYxbkJ2Mk5lNG90aGMzY0NwSzFUREhLd3FOVElXZ1diSzhJVG1oRV85aUI2UV9aZXZYMjZSLXRfbDFuN2R0ZHY?oc=5",
-      "site": "news.ifeng.com",
+      "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com"
     },
     {
-      "id": "FL-e74d67111657",
+      "id": "FL-def32ff8029f",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 07:33:35 GMT",
       "ts": 1789371215000,
       "scope": "intl",
       "type": "geo",
-      "title": "印尼亚齐特区发生山体滑坡 已致1死13伤 - news.cctv.com",
+      "title": "印尼亚齐特区发生山体滑坡 已致1死13伤 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mYmtPZ21ZUzhQZnBlQWM4M1M5ME5pV2lhSEtNRmFUUlNBdEZneTRTRzRrZzF1bGZMWTBIVkdtSGN0SERGMWNlTnNMeTdTY0tFRWFRSjFaVGlmME1sNko3VWRockVLVnNmV0Nkc0tmNURKR3hnZC0ySw?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-1ae98e1445e8",
+      "id": "FL-ab45b377d94f",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 06:51:18 GMT",
       "ts": 1789368678000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1392人 - 观点网",
+      "title": "尼泊尔泥石流灾害遇难人数升至1392人 - guandian.cn",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QVUludExfaDdRNHdUd294RTlrZDNTSElxRFJXSDlubVdETmNOQ3o4cjNqNThHWUFBZ1RpUzBrdXM4WXRnVGswQnZoYUxjTGVSNTU0b0tsQThESlV4MlJ4TzlB?oc=5",
-      "site": "观点网",
+      "site": "guandian.cn",
       "siteUrl": "https://www.guandian.cn"
     },
     {
@@ -665,15 +665,15 @@
       "siteUrl": "https://www.jiemian.com"
     },
     {
-      "id": "FL-6c7570b3f8a2",
+      "id": "FL-80ecb3992f9c",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 02:37:22 GMT",
       "ts": 1789353442000,
       "scope": "dom",
       "type": "geo",
-      "title": "中国地震台网中心正就地震预警信息接入iOS系统与苹果公司沟通 - news.cctv.com",
+      "title": "中国地震台网中心正就地震预警信息接入iOS系统与苹果公司沟通 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzVHZybTB5dmZYTU1QdnZUM2VxSi1DdTdxVDg5LWZnY0E2bGtINktmM0NINFlOYnp2R2phTG5BSGE4c3czeFdhcVBvQXpwVXJmckFHT1g5ZUFRNm9mVFZqamdUQnA5N3hDeDlMdXhrZXhSMGlwYm5pNQ?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -689,15 +689,15 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
-      "id": "FL-c7eeeb1ce53a",
+      "id": "FL-93fd2460b77b",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 01:44:00 GMT",
       "ts": 1789350240000,
       "scope": "dom",
       "type": "geo",
-      "title": "地震预警何时接入苹果系统？中国地震局回应 - guancha.cn",
+      "title": "地震预警何时接入苹果系统？中国地震局回应 - 观察者网",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tT01WaVdFa3NVQmp3cWoyMklIYUpmRVh0eWtidVA1VTRkcUd0UFloY1JBeVVaSUdiUUtia2VRN2RsZGFLUlI0bmFDbkxPTkFlRzFGeWpoSDhqdnowUXU2TlUtLWV2UQ?oc=5",
-      "site": "guancha.cn",
+      "site": "观察者网",
       "siteUrl": "https://www.guancha.cn"
     },
     {
