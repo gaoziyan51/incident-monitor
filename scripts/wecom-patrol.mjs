@@ -185,6 +185,10 @@ async function main() {
     return official || multi;
   });
   console.log(`通过真实性把关: ${trusted.length} 条`);
+  for (const c of candidates) {
+    const official = (c.siteUrl && OFFICIAL_DOMAINS.test(c.siteUrl)) || OFFICIAL_NAME_RE.test(c.site || '');
+    console.log(`[候选] ${official ? '官方源' : '非官方'}|${keySources.get(c.key)?.size || 1}源|${c.deaths}亡${c.missing}失联|${c.title.slice(0, 45)}`);
+  }
 
   // 5. 去重状态
   mkdirSync(dirname(STATE_FILE), { recursive: true });
