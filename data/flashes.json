@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T08:19:21.792Z",
+  "updated": "2026-09-15T08:36:23.094Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -542,7 +542,7 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YZkR4Y0d0X3puNWh4WURpNGl3UUVaXzVEMkVLelFxMWQ3SjlOSHFWcXhEbkdTWmdYRjh1S05GbE55enluN0g0Ulpub21wOEJiRDhTdDl5ZGd2LXhkUGF6TmxzUQ?oc=5",
       "site": "jingjiribao.cn",
       "siteUrl": "http://www.jingjiribao.cn",
-      "related": 42
+      "related": 44
     },
     {
       "id": "FL-18064121c86e",
@@ -603,18 +603,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uNDBjczhUeG1uNVZCdUtvVUM4bmc4ZklDZU5TaGRSV1JlVlA2d0xITGJueVRsTmlBdDBhU09UWnBwa1FpbXd5S0lNcTlod0VzMU5GVFIyQjEzWFo4NFRIRUViQVpiQ3JL?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-5693206954f6",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 08:15:41 GMT",
-      "ts": 1789373741000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "帕拉纳州持续强降雨致逾1.4万人受灾 两人失踪多条公路受阻 - br-cn.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMTYzNE9CaWNpcER2aS1hQUNBQm0xR0ZnZU13UTFvOUVwY0pMNHlCYmJHaUYwRzJTY2Y1SDZxd3M2XzJac3hJTHJRZzI1aU5rVldGZXdoaGxOT3ZlLWsxakFYYzVkRFZVSTdCa2NabVRCLUxFSmNlMW1CN3dCOU84NWZseHB4a2o5RFRsajRR?oc=5",
-      "site": "br-cn.com",
-      "siteUrl": "https://www.br-cn.com"
     },
     {
       "id": "FL-9aff4dbf8471",
@@ -723,6 +711,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SMU9aYk1ieDUtRUYxczloUTVubHBZc2VCWlBtbGlLNmRWdXFGZ2xvUWhfSHZqVS0wYndtZzhUZGZDZlBiQlU0WDV2NUh5bkE1M1VtZURfZWRMaTR4SU4waWJHYXdFd9IBa0FVX3lxTFA3TVBheHVtYmo2X1ppZlgzNnhYZnc3eU9MOUVybUZlUGh0QXMwTklhWXktUm9Bcnh1dVdGcUZvZlVrWGQxTlNKX2xxVV9PRzBRSmR3QWdURDRZVEhja0loSWxWN2RtRmJxR1Y4?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-1f922e81d5d0",
+      "date": "2026-08-28",
+      "dateISO": "Fri, 28 Aug 2026 07:00:00 GMT",
+      "ts": 1787900400000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "高位冰崩如何演变为泥石流 - 人民日报",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wVUROYWpQa1YzUGZEYzZWLXRZNWF4ck5FV281OC1DOEFMWDZBV2xyQXoxUHZ4SU5HbjRXcnZFZ2VYYWtWV2dEQUUyTE1WdEJaRXFhamNubndKc0dlZjZNRGZDNEhEY0tZd0w1REx2WGVhbmhQYy1DQ2RyXzZzTlU?oc=5",
+      "site": "人民日报",
+      "siteUrl": "http://paper.people.com.cn"
     }
   ]
 }
