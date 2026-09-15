@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T08:52:26.095Z",
+  "updated": "2026-09-15T09:08:50.824Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -73,19 +73,19 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOFZ0QUR5emtaVkxUMWJkNWc2cTdfdklqQW9BZV8xR3ZXZkpHVzl4WUowWVVmNlRLUXBRWUVPb3J5OXVVNEwwSTBMSUMxekU1RzVQSjEwVDFkSDlpOFNaNmNxUVdZNzB5LWFiOGxKd0dPNFJlTDJSLVVud0VpRUdBOFNEWG5CdUdEVERKMXotRQ?oc=5",
       "site": "on.cc東網",
       "siteUrl": "https://hk.on.cc",
-      "related": 22
+      "related": 23
     },
     {
       "id": "FL-ad76b97e04e5",
       "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 06:33:34 GMT",
-      "ts": 1789454014000,
+      "dateISO": "Tue, 15 Sep 2026 06:33:47 GMT",
+      "ts": 1789454027000,
       "scope": "dom",
       "type": "weather",
       "title": "海南全力应对暴雨灾害 已累计转移群众5.5万余人 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wWXdYYUJZNm5NOTRKYWFGcHl2b3RWajhIeUJjcTVHSUF3S3ZKeVBoVjFHTkNFdnItMGtiWlp3U0lLazJtVXhfSHloaGdZRWxIMWFlV2FrdkZnWUE2c1FtMEl2aVlVblBzcjhRclFqbnB1NmdJZDExM3A5a1plYzA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbjMzNnRqSE5pdlBaeW5HMk9TdDJGUmRGZDBTbnROVHNvYjFoNVNaRDZJVWxFVUI3bnRHRWVjVmZBa0pNWlFydkFtVjJHakFjOFNRU0kwV3lSWVdlWTFZNnhaZHE1TnZhX3RhZzg2WTlGSWROTDAwVFpGdDcwSmtRMVU2TzI2VmkwdTJF?oc=5",
       "site": "新华网",
-      "siteUrl": "https://www.news.cn"
+      "siteUrl": "https://www.xinhuanet.com"
     },
     {
       "id": "FL-5e33d0df997a",
@@ -304,6 +304,18 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
+      "id": "FL-354ad3889d4c",
+      "date": "2026-09-10",
+      "dateISO": "Thu, 10 Sep 2026 21:25:53 GMT",
+      "ts": 1789075553000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害遇难人数升至1374人 - 新浪新闻_手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQncxTG1uTkowQnlxM1pVa3dYcmxPcUJ6NEFMU203Z08tSnU0Q3AxZ2tFaWFXQms5aW9SeW44RmtiOWozTTJCLUIyMkxOMV9qc01lZmxTbC0zeE0xTWFlcGFvUXRkV193OEp1dTVWRmwzWXl4VVJDQWg4MEJESkZsdDRmM2JQOU11Tm5xeVZYQ1dOeFVIVkJCU0pPUmpXZWVNN0FYSERpekM3UUViWlhwV240OFlVVi10WVg1WFRibDgteGczc0FMWmZ3?oc=5",
+      "site": "新浪新闻_手机新浪网",
+      "siteUrl": "https://news.sina.com.cn"
+    },
+    {
       "id": "FL-e0b20b7e83b1",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 15:24:23 GMT",
@@ -376,15 +388,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-bbfe15da4216",
+      "id": "FL-5ab622930f3d",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 02:59:27 GMT",
       "ts": 1789268367000,
       "scope": "intl",
       "type": "geo",
-      "title": "内蒙古阿拉善盟阿拉善左旗发生3.6级地震，震源深度8千米 - 央视网",
+      "title": "内蒙古阿拉善盟阿拉善左旗发生3.6级地震，震源深度8千米 - news.cctv.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByQlJLRGFrT0M4ZHc3SURQcGFZeGxSMFp5Y3owUmpfblZQNGJEQjJUVTFZUmdDdi11OTJkc3hicDVhV2pISE9UQnBET194ZmMxbDhadU5YLW83N2FwQUtjSFBhUDk2Z2k2Q2NlUWJpTzRhU0gwSWNzNQ?oc=5",
-      "site": "央视网",
+      "site": "news.cctv.com",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -538,23 +550,11 @@
       "ts": 1789389325000,
       "scope": "dom",
       "type": "geo",
-      "title": "视频｜中方已通报吉隆泥石流灾害失联外籍人员家属DNA采集办法 - rss.jingjiribao.cn",
+      "title": "视频｜中方已通报吉隆泥石流灾害失联外籍人员家属DNA采集办法 - jingjiribao.cn",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YZkR4Y0d0X3puNWh4WURpNGl3UUVaXzVEMkVLelFxMWQ3SjlOSHFWcXhEbkdTWmdYRjh1S05GbE55enluN0g0Ulpub21wOEJiRDhTdDl5ZGd2LXhkUGF6TmxzUQ?oc=5",
-      "site": "rss.jingjiribao.cn",
+      "site": "jingjiribao.cn",
       "siteUrl": "http://www.jingjiribao.cn",
-      "related": 46
-    },
-    {
-      "id": "FL-7ef540b8bf2a",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 10:03:19 GMT",
-      "ts": 1789380199000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "秋筱宫家长子悠仁首次访问东日本大地震灾区 - 共同网",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ncks2UFJKNC1yUG0tVzhveGtlYS1YQ2dOc2VraUJNd3VSVWV5MV9uMkk1dFp1MWNXUXhIaXROaDdmOHBwY2Myb2V5VDZMWG9mUUdJekd0WQ?oc=5",
-      "site": "共同网",
-      "siteUrl": "https://china.kyodonews.net"
+      "related": 45
     },
     {
       "id": "FL-97b6812763e3",
@@ -569,15 +569,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-f592f87e56ca",
+      "id": "FL-b517218cebd3",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 09:26:00 GMT",
       "ts": 1789377960000,
       "scope": "dom",
       "type": "geo",
-      "title": "云南普洱市墨江县发生4.5级地震 震源深度10公里 - cztv.com",
+      "title": "云南普洱市墨江县发生4.5级地震 震源深度10公里 - 新蓝网",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yaU5lSXJ6R0NwOVl3a3NQamJYZ1VrWS1zRXF2MEk1dnRGNGJwZmI3N3pKOWpMb25hQk5NV3pGd1h6ZEh3ZlVncmRfRy1tbFE?oc=5",
-      "site": "cztv.com",
+      "site": "新蓝网",
       "siteUrl": "https://www.cztv.com"
     },
     {
@@ -617,15 +617,15 @@
       "siteUrl": "http://www.news.cn"
     },
     {
-      "id": "FL-def32ff8029f",
+      "id": "FL-e74d67111657",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 07:33:35 GMT",
       "ts": 1789371215000,
       "scope": "intl",
       "type": "geo",
-      "title": "印尼亚齐特区发生山体滑坡 已致1死13伤 - 央视网",
+      "title": "印尼亚齐特区发生山体滑坡 已致1死13伤 - news.cctv.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mYmtPZ21ZUzhQZnBlQWM4M1M5ME5pV2lhSEtNRmFUUlNBdEZneTRTRzRrZzF1bGZMWTBIVkdtSGN0SERGMWNlTnNMeTdTY0tFRWFRSjFaVGlmME1sNko3VWRockVLVnNmV0Nkc0tmNURKR3hnZC0ySw?oc=5",
-      "site": "央视网",
+      "site": "news.cctv.com",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -665,15 +665,15 @@
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
-      "id": "FL-80ecb3992f9c",
+      "id": "FL-6c7570b3f8a2",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 02:37:22 GMT",
       "ts": 1789353442000,
       "scope": "dom",
       "type": "geo",
-      "title": "中国地震台网中心正就地震预警信息接入iOS系统与苹果公司沟通 - 央视网",
+      "title": "中国地震台网中心正就地震预警信息接入iOS系统与苹果公司沟通 - news.cctv.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzVHZybTB5dmZYTU1QdnZUM2VxSi1DdTdxVDg5LWZnY0E2bGtINktmM0NINFlOYnp2R2phTG5BSGE4c3czeFdhcVBvQXpwVXJmckFHT1g5ZUFRNm9mVFZqamdUQnA5N3hDeDlMdXhrZXhSMGlwYm5pNQ?oc=5",
-      "site": "央视网",
+      "site": "news.cctv.com",
       "siteUrl": "https://news.cctv.com"
     },
     {
