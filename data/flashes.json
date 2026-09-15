@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T17:31:11.323Z",
+  "updated": "2026-09-15T17:46:27.032Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -292,6 +292,18 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
+      "id": "FL-598cbad9813c",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 01:32:38 GMT",
+      "ts": 1789435958000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害已致1396人遇难 - 极目新闻",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zV3U5dlJfZnk1aFExQzJCbG5ZMkdKajFiemxWS0hVRUJyTFRRbDZyZjR5TWhYQkhLdVpEZFNBODk4aXhDbmVWOGtzRkVKYi1fOU4tUTBOSUY4NzQ?oc=5",
+      "site": "极目新闻",
+      "siteUrl": "https://www.ctdsb.net"
+    },
+    {
       "id": "FL-EV-18d9b0620c3d",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 01:26:44 GMT",
@@ -302,7 +314,7 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaWxheDZiNmllbi1JamJiRjFCMnVBczI2Q0t3Rl9sNEN2Y01oWlhKanJjWWprOXpobjBjYjNqVjJtVEZ6eFBON0ZSV0p2dWN6YnNjaXpmcW9GZ1VkWU1RNk1vRldacmFxQVd0b2ROSDdmV0xEZUNUSUhReV8zRDlWQWExY21selE1aXc?oc=5",
       "site": "jpchinapress.com",
       "siteUrl": "https://www.jpchinapress.com",
-      "related": 19
+      "related": 20
     },
     {
       "id": "FL-5916f330f1a1",
@@ -339,18 +351,6 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lZWVRVm9SWWhVYUx6MWpVcWsyZ2p6Zm9mYjF4eExqay1Pb1Q2dWtITWIyMElFMlp1X3ZtVW45VERsQkllQ1Z6WnB5RGlOMEowMlRMbjJhVWR3aXBwNWZKRm5GREQ5ZHdRdnZjdmpYOVR2X1RidVE0cw?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
-    },
-    {
-      "id": "FL-3db79c00f099",
-      "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 00:24:06 GMT",
-      "ts": 1789431846000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "云南临沧市耿马县发生2.8级地震 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNGM4dnd5NDh0U0tGOXFjMFRjUkxVNXBaT0xyelRQYTdSZ1hTamwxWUpPTW5ia3ctdGxaRDY4WVB2MVFrYnpzRV9KaGFIM3NMNWExNTlrenotT0JxS1JLM3NVRlZsOVB4WVN5NWoydzJUck5aNnp6TzJDTC1YemtPa0VIVWZxZzhtMVNFdQ?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-e0b20b7e83b1",
@@ -533,16 +533,16 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-3fd6e106fb4f",
+      "id": "FL-9f1680501c84",
       "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 14:48:41 GMT",
-      "ts": 1789397321000,
+      "dateISO": "Mon, 14 Sep 2026 13:14:49 GMT",
+      "ts": 1789391689000,
       "scope": "dom",
-      "type": "geo",
-      "title": "墨江发生4.5级地震 消防、电力等部门已抵达震中村寨 - 昆明信息港",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wamNQU2FUbk1OeGEtYTBLZ1ZGZUxWcFZ6ZmZIbUc1LTQxaUo2RnVXSWdEZEFXVkdKaDZTYmpudVpzX3F5eFhTY2YtRDcxSmp1SHhscjhCUEhhcTNVYkIwTkJ3OWp4QQ?oc=5",
-      "site": "昆明信息港",
-      "siteUrl": "https://www.kunming.cn"
+      "type": "weather",
+      "title": "海南防御强降雨紧急转移4.2万余人 13个市县宣布停课 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZGJVbGtqWE9zTzBhRDJRRjVkZi1rSWNvNDF6M3ZhUWVuU1liVmFucWdxNU91R2UzaGU4c3ZPUmtGWmRuVWE1TmM0T0VCRF9pWGMzdlFkSmhIcmVSWE9BMDZPVVZHYmRWaWxPLW9xZmhBMEpjVlNRZUVBdEw4cUVxZWVIcw?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-97b6812763e3",
@@ -641,15 +641,15 @@
       "siteUrl": "https://www.cnr.cn"
     },
     {
-      "id": "FL-16716919543f",
+      "id": "FL-cf557d871235",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 03:39:50 GMT",
       "ts": 1789357190000,
       "scope": "dom",
       "type": "geo",
-      "title": "中国地震局：正与苹果公司沟通，力争加快推进地震预警信息接入iOS系统丨C视频 - sichuan.scol.com.cn",
+      "title": "中国地震局：正与苹果公司沟通，力争加快推进地震预警信息接入iOS系统丨C视频 - 四川新闻",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9MSzhKUFpFZzJQemJJbzlxaHg3REZnRTN6RkJ1MW8xYzFfSDJyT0tzWmlPX2x2b0dsUmU0YVN1a0U0ZEZzSHJKTVpfSk90THk4WlpOTFFHeXJZWTUxWVc1bUVVYw?oc=5",
-      "site": "sichuan.scol.com.cn",
+      "site": "四川新闻",
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
@@ -713,15 +713,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-4eae82f67e26",
+      "id": "FL-1f922e81d5d0",
       "date": "2026-08-28",
       "dateISO": "Fri, 28 Aug 2026 07:00:00 GMT",
       "ts": 1787900400000,
       "scope": "dom",
       "type": "geo",
-      "title": "高位冰崩如何演变为泥石流 - paper.people.com.cn",
+      "title": "高位冰崩如何演变为泥石流 - 人民日报",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wVUROYWpQa1YzUGZEYzZWLXRZNWF4ck5FV281OC1DOEFMWDZBV2xyQXoxUHZ4SU5HbjRXcnZFZ2VYYWtWV2dEQUUyTE1WdEJaRXFhamNubndKc0dlZjZNRGZDNEhEY0tZd0w1REx2WGVhbmhQYy1DQ2RyXzZzTlU?oc=5",
-      "site": "paper.people.com.cn",
+      "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn"
     }
   ]
