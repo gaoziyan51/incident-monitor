@@ -1,19 +1,7 @@
 {
-  "updated": "2026-09-15T12:59:10.154Z",
+  "updated": "2026-09-15T13:16:16.984Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-dbaf6cd415cc",
-      "date": "2026-08-26",
-      "dateISO": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "ts": 1787727600000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "强降雨致广西多地发生洪涝灾害，解放军和武警部队官兵、民兵持续展开救援 - 国防部网",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vd0VzRncydXJUemRMbXhJaks0eWE0b0VoWTY4VXVJQmxSUTU2TGdpaHRqOXh4VVRyU0tlTks0MjZZeUhZR2R1SEdUdEVBZHBoRk5EVDFweDZtMURf?oc=5",
-      "site": "国防部网",
-      "siteUrl": "http://www.mod.gov.cn"
-    },
     {
       "id": "FL-42ba1d0df553",
       "date": "2026-08-26",
@@ -37,6 +25,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfWmowNGIyc200QU1ESDVxbC1hdmdLWUlCQXNHazV6aVdvY1FYMGFySHFueG50UGc3Q2Z2ZUVXaWNtbUQtNlBMWkRDLU01T2R5blhnY2UtSUR5ZUdHaWt5YWszOFRFQdIBa0FVX3lxTE5ncUFxSTZyWVZGQ05yLWwtOGVLS01kb2lsNjY5cVNfU1VlN1hWSjFtUEx4eEpObTY3c3F5czNZeElUM01KaU5uVF9NQ2FDdGlMY29tbi16UFluSkVGSzFkNXJHZFFTOUU5eW80?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-49740cabc935",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 13:02:46 GMT",
+      "ts": 1789477366000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "PEC 2026 AI创作先锋对谈：在AI海啸中寻找艺术与商业的价值锚点-人工智能 - 至顶网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KSHY2ZG51c3IxMThVUlprQnJ4SGdyRF9jUklKV1VhUXhJSkVTTExFYi1iSWU4cDlwWjZEN2hSU0ZrcG80SEotRkFMUjUtOTBFcHBhbXkyNXJibjZBS0E?oc=5",
+      "site": "至顶网",
+      "siteUrl": "https://www.zhiding.cn"
     },
     {
       "id": "FL-93cfa468b423",
@@ -63,15 +63,15 @@
       "siteUrl": "https://xnews.jin10.com"
     },
     {
-      "id": "FL-ad6ee0bdda47",
+      "id": "FL-87f2e31a2e0d",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 10:47:07 GMT",
       "ts": 1789469227000,
       "scope": "dom",
       "type": "geo",
-      "title": "大通县开展2026年地震灾害紧急疏散暨医学救援综合演练 - sohu.com",
+      "title": "大通县开展2026年地震灾害紧急疏散暨医学救援综合演练 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX29JX2FJVG1DQ1hQQjZIY1NpWTNtU3pHTzhjdFFwQkhRRXhYakdLMlo5UlRiMkdleGtWWHUzWlo5VEIyNWs0RllqekhaWU1KVEx5X1F4NHlCbVpVc0ZiYnM2QVM1cnhxM1ZwN1RoU0k5UU9SUnBmREhGRFpzR2oxYlpVUEpDWWFJLTZweg?oc=5",
-      "site": "sohu.com",
+      "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -111,15 +111,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-425376674bff",
+      "id": "FL-fbc36dcb93ab",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 06:29:25 GMT",
       "ts": 1789453765000,
       "scope": "dom",
       "type": "weather",
-      "title": "海南全力应对暴雨灾害 已累计转移群众5.5万余人 - sohu.com",
+      "title": "海南全力应对暴雨灾害 已累计转移群众5.5万余人 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZE9TVnBuTU4ycEs5SjkybUI2Z3h1NER1Y3JLNF93dlZCQnhEYklOMVg0cE4yWENCZjR1WEdqalFJTF84UklJNjNIU2o5ejlIcllLdEx3czZQWi13UW9NaFVDLWNhMHA0Y2hDV3AzMVdXQWwtMzVSTTZRTmVmYU5DX0VHdE5SNmZq?oc=5",
-      "site": "sohu.com",
+      "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -195,28 +195,16 @@
       "siteUrl": "https://news.ifeng.com"
     },
     {
-      "id": "FL-f57c0496fbeb",
+      "id": "FL-cb45bcae0b04",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 02:30:07 GMT",
       "ts": 1789439407000,
       "scope": "dom",
       "type": "geo",
-      "title": "普洱墨江4.5级地震，交通部门迅速排查守护路网安全畅通 - sohu.com",
+      "title": "普洱墨江4.5级地震，交通部门迅速排查守护路网安全畅通 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeHpkLVBlYkp2M3o4azVvMnJnNFc0cmRLS1p3bVgzeWd6MkxHVlAwaVJ6RGRfNm00MkdaajB6Rm9rajhOY24wZGlJSDVISGgzUzVBR0xvME5JZ2U1UUliWFpFc0RvQmphWUZGV1E2OEJadThFTm9QSXl4OXhoYzdhb3J2NHF6RTNGcjZRNw?oc=5",
-      "site": "sohu.com",
+      "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-4d7ff81c0924",
-      "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 02:20:10 GMT",
-      "ts": 1789438810000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "海南极端暴雨致多市县受灾 启动自然灾害救助四级应急响应 - chinanews.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iRWVZNEpYV1o1MGZ2cERWWTNDMTV3ZFRyOU5DZndxSVpNTTU4eDhodnpVUHNNUWhrNUxqeUE3MVMwZnVUZFg2UkFmUnBuOEhkS3ZzbG50cjdXdGRTaG5qTnFGWjREVzU4?oc=5",
-      "site": "chinanews.com.cn",
-      "siteUrl": "https://www.chinanews.com.cn"
     },
     {
       "id": "FL-4a10e16c9edb",
@@ -291,15 +279,15 @@
       "siteUrl": "https://zh.vietnamplus.vn"
     },
     {
-      "id": "FL-126bff5fc289",
+      "id": "FL-f69be62a9e56",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 00:50:11 GMT",
       "ts": 1789433411000,
       "scope": "dom",
       "type": "geo",
-      "title": "临沧市耿马县发生2.8级地震 - sohu.com",
+      "title": "临沧市耿马县发生2.8级地震 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVko2R3BSX3Bwd2w4R24yelZxbTV6RjBjdnJ6SXJPRnduMXBqdlFxVmVZbC16N2JHQ2ZFME81ajREdXpwald4NS1jeDlnZEQyUy1SeDVWeDVmSUhyUlEyd1ByTWZWYk03WU8tV1p2SjRzaURXZ3pON3pHTGZtS2tIa1RBMnh1MmJ1?oc=5",
-      "site": "sohu.com",
+      "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -313,6 +301,18 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CQ1ZWdmtOdFRiUzBzaC04UVZoVGZ0RmJGVTRseWJrMFdmaktnWVVUcms3UDVTSW9pWFJaNDZ1NnRrZENFQnZ6RmtpZThGQUpxcUVEWE1qQVdUVFg2WkFkaVN2YUxGOXRQQmM3eXloaHYtaG5qMkpFbUY1YzU?oc=5",
       "site": "求是",
       "siteUrl": "https://www.qstheory.cn"
+    },
+    {
+      "id": "FL-a66e299abb48",
+      "date": "2026-09-01",
+      "dateISO": "Tue, 01 Sep 2026 07:00:00 GMT",
+      "ts": 1788246000000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "法国报纸摘要 - 尼泊尔仍未解除对中国在这次泥石流洪灾中应负责任的怀疑 - RFI",
+      "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxQekE0d0ZoUlkzQWpLM0l4TWx5a29mcmZkLXpqTGpKS2VublhpQWlLcTEySVNEcmFscFJhTnNiWmgtUWd5a1JoamtzYWdPR2UzVkZlMkVtdzJLMnAwVFA4RzU5ODB0ZlFWSHpiN3BGU3NwYWdFeXlKNld0ekN5UTVtWHdfWU02Sm5sYmQ1MV96S2pPODVwaGN1aVhKa0NYSHZaNUZ1MS1pakE1VV9PS0FDbFBwY3A0OGl1Vjh1N3VQWm0wbkNNbGdLZDVadlQ1SHhxZmF6eVdkRWhpQUdIQ3NBM3VfeWE5cWh5Wm5OVi1ZUXItUktlUk1hbjVPWGRKamFnYTBROS10QkZHZDViMjQ5aXU1WDJqc3Y0dkpoZm1mVUR1UlAzSnZ0OFBoMERaS0JTemgtUWI5OXhEekhqR0JwTHI1Rmh3bG52LTU0bFdRYUZLQUFYSTJZa19oZEFCclFKX1RwRDJtTlJHZWIxRS1Td1NfTjZub0dQanExTldCVGNDckx0amk4M2Y2NWR1NXJOQWFqLWVfYVR6bF9QR0hmMERZRW5OZW1GaURfSzVXLUxCd1dwUU12M3BJREJLRGt5MUg2R3lHZWhuZ2lQQW9KOXpxX0F2QUs5SXloSkhxTVcxNTNYVS1PaTg1c1E1V2kwZC1LbGNRQUo?oc=5",
+      "site": "RFI",
+      "siteUrl": "https://www.rfi.fr"
     },
     {
       "id": "FL-354ad3889d4c",
@@ -541,20 +541,20 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YZkR4Y0d0X3puNWh4WURpNGl3UUVaXzVEMkVLelFxMWQ3SjlOSHFWcXhEbkdTWmdYRjh1S05GbE55enluN0g0Ulpub21wOEJiRDhTdDl5ZGd2LXhkUGF6TmxzUQ?oc=5",
       "site": "rss.jingjiribao.cn",
       "siteUrl": "http://www.jingjiribao.cn",
-      "related": 41
+      "related": 43
     },
     {
       "id": "FL-EV-18d9b0620c3d",
       "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 11:17:00 GMT",
-      "ts": 1789384620000,
+      "dateISO": "Mon, 14 Sep 2026 10:27:56 GMT",
+      "ts": 1789381676000,
       "scope": "dom",
       "type": "fire",
-      "title": "[视频]国务院对中国船舶集团青岛北海造船有限公司“9·10”重大火灾事故提级调查 - 央视网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BSW51LW9BcDYxQzVsUG5YdTNlRWt0eGJmdm5iaTMxU0lxZ05pSFRveU1mcnJtWnZ3dEpEaER4R3VURXJ2dUlmQWpzSjJwbkJWd0FiT1NCSzluQlA3cy1JdkhkMjA2clZsdF9wemZLb1YxZGNHbXc?oc=5",
-      "site": "央视网",
-      "siteUrl": "https://tv.cctv.com",
-      "related": 19
+      "title": "青岛货轮火灾致25人遇难5人受伤，国务院提级调查：依法严肃追责 - Jiemian.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uUWRoUFgyamNlNS02OWstaGFqM1hDRWFoMXRkUDFXVkQwMjRjRWJBbkZOc2x0LXN4d0FFcFplRnVfOGtYdExKSDV2eDlEcGdoVFUyQUJlUGc?oc=5",
+      "site": "Jiemian.com",
+      "siteUrl": "https://www.jiemian.com",
+      "related": 18
     },
     {
       "id": "FL-97b6812763e3",
