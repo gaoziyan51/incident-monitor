@@ -54,7 +54,7 @@ const EV_TYPE_RE2 = /(火灾|起火|燃爆|爆炸|泥石流|土石流|山体滑�
 /* 重大程度判定：满足其一即"重大" */
 const NUM_DEATH_RE = [/(\d+)\s*人?(?:不幸)?遇难/.source, /(?:死亡|罹难)\s*(\d+)\s*人/.source].map(s => new RegExp(s));
 const NUM_MISSING_RE = [/(\d+)\s*人?(?:仍然)?失联/.source, /失联\s*(\d+)\s*人/.source].map(s => new RegExp(s));
-const MAJOR_WORD_RE = /(特别重大|重大(事故|灾害|火灾|爆炸|交通事故)|较大事故|Ⅰ级响应|Ⅱ级响应|国家防总|国务院(工作组|调查组|安委会)|国家消防救援局|应急管理部(工作组|启动)|习近平|李强|批示|重要指示)/i;
+const MAJOR_WORD_RE = /(特别重大|重大(事故|灾害|火灾|爆炸|交通事故|生产安全事故)|较大事故|Ⅰ级响应|Ⅱ级响应|国家防总|国务院(工作组|调查组|安委会)|国家消防救援局|应急管理部(工作组|启动)|习近平|李强|批示|重要指示)/i;
 const CASUALTY_WORD_RE = /(遇难|失联|失踪|死亡|罹难|伤亡|被困|牺牲|殉职|受伤|重伤)/i;
 
 /* 评论/非事件类排除 */
@@ -83,11 +83,22 @@ function pickDeaths(title) {
   return d || 0;
 }
 
+/* 重大程度判定（用户规则）：
+ * ① 伤亡案件：死亡≥2人 或 失联≥3人
+ * ② 重大生产安全事故/重大事故/Ⅰ·Ⅱ级响应/国家层面响应/中央领导批示 —— 不论伤亡
+ * ③ 重大自然灾害（泥石流/滑坡/地震/山洪/洪涝/台风/海啸/溃坝等）：前期可能只有事件信息
+ *    无伤亡消息，也直接推送 */
+const GEO_DISASTER_RE = /(泥石流|土石流|山体滑坡|滑坡|地震|海啸|溃坝|山洪|龙卷风)/;
+/* 台风/洪涝类无伤亡时需伴随实际影响词（防"台风生成"类例行消息刷屏） */
+const GEO_IMPACT_RE = /(登陆|过境|转移|撤离|安置|应急响应|停产|停课|停运|停工|避险)/;
+
 function isMajor(title) {
   const deaths = pickDeaths(title);
   const missing = extractNum(title, NUM_MISSING_RE);
-  if (deaths >= 3 || missing >= 3) return { major: true, deaths, missing, why: '人身伤亡' };
-  if (EV_TYPE_RE2.test(title) && MAJOR_WORD_RE.test(title)) return { major: true, deaths, missing, why: '重大灾害/响应' };
+  if (deaths >= 2 || missing >= 3) return { major: true, deaths, missing, why: '人身伤亡' };
+  if (MAJOR_WORD_RE.test(title)) return { major: true, deaths, missing, why: '重大事故/批示/响应' };
+  if (GEO_DISASTER_RE.test(title)) return { major: true, deaths, missing, why: '重大自然灾害' };
+  if (/(台风|洪涝|洪水)/.test(title) && GEO_IMPACT_RE.test(title)) return { major: true, deaths, missing, why: '重大自然灾害' };
   return { major: false, deaths, missing };
 }
 
@@ -161,11 +172,9 @@ async function main() {
     if (COMMENT_RE.test(it.title)) continue;                  // 评论/盘点类
     if (ROUTINE_RE.test(it.title)) continue;                  // 例行预报
     if (FOREIGN_RE.test(it.title) && !CHINA_BORDER_EV_RE.test(it.title)) continue; // 国外事件
-    if (!EV_TYPE_RE2.test(it.title)) continue;                // 必须是事故/灾害
-    if (!CASUALTY_WORD_RE.test(it.title)) continue;           // 必须涉及人身伤亡
+    if (!EV_TYPE_RE2.test(it.title) && !GEO_DISASTER_RE.test(it.title)) continue; // 必须是事故/灾害
     const { major, deaths, missing } = isMajor(it.title);
     if (!major) continue;                                     // 重大程度不够
-    if (deaths === 0 && missing === 0 && /受伤|被困/.test(it.title) === false) continue;
     candidates.push({ ...it, deaths, missing, key: titleKey(it.title), id: 'PT-' + hash(titleKey(it.title)) });
   }
   console.log(`候选重大事件: ${candidates.length} 条`);
@@ -216,7 +225,7 @@ async function main() {
     const srcNote = c.official && c.multi ? `${srcLabel} 等多家媒体（多源印证）`
       : c.official ? `${srcLabel}（官方媒体）`
       : `${srcLabel} 等 ${keySources.get(c.key).size} 家媒体（多源印证）`;
-    const casText = c.deaths ? `${c.deaths}人遇难` : '伤亡情况以官方通报为准';
+    const casText = c.deaths ? `${c.deaths}人遇难` : '暂未收到人员伤亡报告，以官方通报为准';
     const casText2 = c.missing ? `、${c.missing}人失联` : '';
     const when = new Date(c.ts).toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai', hour12: false });
     const md = [
@@ -225,7 +234,7 @@ async function main() {
       `伤亡：${casText}${casText2}（据媒体报道，以官方通报为准）`,
       `来源：${srcNote}，可在其官网按标题检索原文`,
       `时间：${when}`,
-      `[详细简报](${BRIEF_URL})`,
+      `[事件已收录网页端](${BRIEF_URL})`,
     ].join('\n');
     try {
       await sendWecom(md);
