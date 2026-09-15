@@ -24,6 +24,7 @@ jobs:
       - name: Patrol & push WeCom
         env:
           WECOM_WEBHOOK: ${{ secrets.WECOM_WEBHOOK }}
+          PATROL_DRY_RUN: '1'   # 测试期干跑：只打日志不发群；确认规则后改为 '0' 正式推送
         run: node scripts/wecom-patrol.mjs
 
       - name: Commit patrol state
