@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T09:58:37.994Z",
+  "updated": "2026-09-15T10:14:07.138Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -13,6 +13,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CTG9yTTh6cnplOGJ1TG5PUzFQRkwtNjZTTzFLcEMwYzRWQlhzTVF2eGMyUFRzdWlKYldDSTVRcWNVd2RnbkJWU1prR2FMUVhKeVk4X0c4MVNnbUFCTjItZ0JiN0xvd9IBa0FVX3lxTE1PT1F4VHcyMnlBRE5SdUdLeERKN21TU1VXSkdqTTNnWnE1MTkxNi1Yb1ZqbWQtX2ZVdGwtMFhCZjZsVmgwTi1LNkdwYWtOZTE3dDlIVzNiT3cxOHV2dzdnZF9hY2cwV3dsSi1j?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-1a134a5d6448",
+      "date": "2026-08-26",
+      "dateISO": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "ts": 1787727600000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "强降雨致广西多地发生洪涝灾害，解放军和武警部队官兵、民兵持续展开救援 - mod.gov.cn",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vd0VzRncydXJUemRMbXhJaks0eWE0b0VoWTY4VXVJQmxSUTU2TGdpaHRqOXh4VVRyU0tlTks0MjZZeUhZR2R1SEdUdEVBZHBoRk5EVDFweDZtMURf?oc=5",
+      "site": "mod.gov.cn",
+      "siteUrl": "http://www.mod.gov.cn"
     },
     {
       "id": "FL-677dc499b4ba",
@@ -76,15 +88,15 @@
       "related": 23
     },
     {
-      "id": "FL-ad76b97e04e5",
+      "id": "FL-3d1209753c8a",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 06:33:34 GMT",
       "ts": 1789454014000,
       "scope": "dom",
       "type": "weather",
-      "title": "海南全力应对暴雨灾害 已累计转移群众5.5万余人 - 新华网",
+      "title": "海南全力应对暴雨灾害 已累计转移群众5.5万余人 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wWXdYYUJZNm5NOTRKYWFGcHl2b3RWajhIeUJjcTVHSUF3S3ZKeVBoVjFHTkNFdnItMGtiWlp3U0lLazJtVXhfSHloaGdZRWxIMWFlV2FrdkZnWUE2c1FtMEl2aVlVblBzcjhRclFqbnB1NmdJZDExM3A5a1plYzA?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -110,18 +122,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wdFdQWWg4U0RIdm1zc0F3ajlQUHRPT2ROZVR5LTZHZUpCNzE1cXhZbzlxcEVpbnpUb2M4Zm1ibFhPOXhzUDRzb3I5aXJxQWQ1WDM0OE5ubkNxYmhCdk4tRzR6aUVXMHFk?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-be71faf32a4c",
-      "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 03:32:43 GMT",
-      "ts": 1789443163000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "海南万宁突现龙卷风 无人员伤亡 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMHNZanEtX21kX1oyQ0tTX0VFQmZYMjlMVzNxdWtuaHZDQnp2OGFBTjlSbG1HdUNTcG42NDRyeHV5aEt0a0toZDNGdEFDZVlvaGtzbmZOV05mQU03Mi1aNkVlTVJ6cWNUWWhCcmlrWmwtQ0JEWXIzUXdiaDdaVEJ0R092YzRmUGt2?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-a73744ba56f9",
@@ -280,15 +280,15 @@
       "siteUrl": "https://zh.vietnamplus.vn"
     },
     {
-      "id": "FL-57c9e552b3c7",
+      "id": "FL-57e61f93156d",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 00:51:00 GMT",
       "ts": 1789433460000,
       "scope": "dom",
       "type": "other",
-      "title": "以习近平同志为核心的党中央坚强领导科学指挥2026年防汛抗洪救灾纪实 - politics.gmw.cn",
+      "title": "以习近平同志为核心的党中央坚强领导科学指挥2026年防汛抗洪救灾纪实 - 光明网",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05SUMxckVlMXBVVzRFNHU1SGliWGhySHREbmlNTkVKTno0aTJqTFFpU2lydzdZUUIycHdZQm9JY0syU013aFJrNG44VlY4eWpzbzF6ZDlwQXlnd2lrbHZWd2ppQTR2dw?oc=5",
-      "site": "politics.gmw.cn",
+      "site": "光明网",
       "siteUrl": "https://politics.gmw.cn"
     },
     {
@@ -304,18 +304,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-a8313f5d9c0f",
-      "date": "2026-09-08",
-      "dateISO": "Tue, 08 Sep 2026 23:47:52 GMT",
-      "ts": 1788911272000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "江西遂川高坪镇泥石流已致12人遇难 - 中国科技网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YRjA1MkdaZ2E3TkQyaGx0QWlKOXJpX3JMcHA3R0J0UXpQQTcwRlpFNWZSamp1NHNwc1N2Wm9Lb1ltdlZ2QjNIaTcxZThFTTc3S0VhSjBkY05HOWRlOHBjdFQxQ2hTN2sydzZESWVQMGQ?oc=5",
-      "site": "中国科技网",
-      "siteUrl": "https://www.stdaily.com"
-    },
-    {
       "id": "FL-a66e299abb48",
       "date": "2026-09-01",
       "dateISO": "Tue, 01 Sep 2026 07:00:00 GMT",
@@ -326,30 +314,6 @@
       "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxQekE0d0ZoUlkzQWpLM0l4TWx5a29mcmZkLXpqTGpKS2VublhpQWlLcTEySVNEcmFscFJhTnNiWmgtUWd5a1JoamtzYWdPR2UzVkZlMkVtdzJLMnAwVFA4RzU5ODB0ZlFWSHpiN3BGU3NwYWdFeXlKNld0ekN5UTVtWHdfWU02Sm5sYmQ1MV96S2pPODVwaGN1aVhKa0NYSHZaNUZ1MS1pakE1VV9PS0FDbFBwY3A0OGl1Vjh1N3VQWm0wbkNNbGdLZDVadlQ1SHhxZmF6eVdkRWhpQUdIQ3NBM3VfeWE5cWh5Wm5OVi1ZUXItUktlUk1hbjVPWGRKamFnYTBROS10QkZHZDViMjQ5aXU1WDJqc3Y0dkpoZm1mVUR1UlAzSnZ0OFBoMERaS0JTemgtUWI5OXhEekhqR0JwTHI1Rmh3bG52LTU0bFdRYUZLQUFYSTJZa19oZEFCclFKX1RwRDJtTlJHZWIxRS1Td1NfTjZub0dQanExTldCVGNDckx0amk4M2Y2NWR1NXJOQWFqLWVfYVR6bF9QR0hmMERZRW5OZW1GaURfSzVXLUxCd1dwUU12M3BJREJLRGt5MUg2R3lHZWhuZ2lQQW9KOXpxX0F2QUs5SXloSkhxTVcxNTNYVS1PaTg1c1E1V2kwZC1LbGNRQUo?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr"
-    },
-    {
-      "id": "FL-354ad3889d4c",
-      "date": "2026-09-10",
-      "dateISO": "Thu, 10 Sep 2026 21:25:53 GMT",
-      "ts": 1789075553000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1374人 - 新浪新闻_手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQncxTG1uTkowQnlxM1pVa3dYcmxPcUJ6NEFMU203Z08tSnU0Q3AxZ2tFaWFXQms5aW9SeW44RmtiOWozTTJCLUIyMkxOMV9qc01lZmxTbC0zeE0xTWFlcGFvUXRkV193OEp1dTVWRmwzWXl4VVJDQWg4MEJESkZsdDRmM2JQOU11Tm5xeVZYQ1dOeFVIVkJCU0pPUmpXZWVNN0FYSERpekM3UUViWlhwV240OFlVVi10WVg1WFRibDgteGczc0FMWmZ3?oc=5",
-      "site": "新浪新闻_手机新浪网",
-      "siteUrl": "https://news.sina.com.cn"
-    },
-    {
-      "id": "FL-e0b20b7e83b1",
-      "date": "2026-09-10",
-      "dateISO": "Thu, 10 Sep 2026 15:24:23 GMT",
-      "ts": 1789053863000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "西藏网警：网民恶意对比他国歪曲中国泥石流救援被罚 - 联合早报",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41YTFMaV8talhpWGRhdjJlWng2bThUdEwyTEFvbEgySFBYNDdaQUFXcW5sN3NOT3I3WGpINmVSenFmR1JWMVpYTTZ3R2swOExDVDc0WVJGR0ttWXAwWjdaSWh3NnFBMUpLUWc?oc=5",
-      "site": "联合早报",
-      "siteUrl": "https://www.zaobao.com.sg"
     },
     {
       "id": "FL-63616eb5470d",
@@ -364,15 +328,15 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-7a74c89379e3",
+      "id": "FL-20065abd257a",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 11:10:00 GMT",
       "ts": 1789038600000,
       "scope": "dom",
       "type": "geo",
-      "title": "云南彝良一路段发生山体滑坡泥石流：无人员伤亡，正统计受灾损失 - bjnews.com.cn",
+      "title": "云南彝良一路段发生山体滑坡泥石流：无人员伤亡，正统计受灾损失 - 新京报",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85Z3NWOHRXSFhtV0hod2Vyak52VDVDSXJteF8xY2hKOTUxb21HV1lEaEhmZFlDUnBQckNtN1JpeG9JZHNpSlpONDVOd3NFOTc4Uk1lQkNBeE5VVkEyNUQwRmpjdTI?oc=5",
-      "site": "bjnews.com.cn",
+      "site": "新京报",
       "siteUrl": "https://www.bjnews.com.cn"
     },
     {
@@ -400,16 +364,28 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-95cf74f3e9e4",
+      "id": "FL-e4817d4605e3",
       "date": "2026-08-30",
       "dateISO": "Sun, 30 Aug 2026 07:00:00 GMT",
       "ts": 1788073200000,
       "scope": "intl",
       "type": "geo",
-      "title": "现场直击丨尼泊尔泥石流灾区见闻 - 新华网",
+      "title": "现场直击丨尼泊尔泥石流灾区见闻 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PYUIyNEpIQ1BCa3FiWHkyN21PQTdwZUVOdTI3TmtLZ1RTMnA1WDQ1TGwzdnRfcTRJQTlHV1htQWVHOUpTNmJEb2Rmb1NjRFc5Yk4tOFNadGN6Q1VBRUJTd3k5QXpOXy1zU2ZzcU10TWg4dDRYRFJlYkExXzdUVUk?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-bd05b20d7224",
+      "date": "2026-09-13",
+      "dateISO": "Sun, 13 Sep 2026 21:46:32 GMT",
+      "ts": 1789335992000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "台湾花莲县发生4.1级地震 震源深度14千米 - 华声在线",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lQkhzbzhGek9aT1B4ZnIzMlA4UEdQMTlqckIybTNMMlRUcjhnZW55OFljN0JYU3pVbGtjOERRV1JtS05QajRTRnRPUVZud3VwLURqY3RjQmQ0aEJaTVpV?oc=5",
+      "site": "华声在线",
+      "siteUrl": "https://m.voc.com.cn"
     },
     {
       "id": "FL-bbfe15da4216",
@@ -434,6 +410,30 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByeEVvcHlucE92a1Z3T0Ywei1RT3Ric2RMaVEzNmVtbF9VVEVPMmhrNmliNEl3TGllWktKNjNodUNSSXh3S21KUHA2cEFqckZEV0RNMmpCWWRxSGM4Zm51VUEyV0dkZ9IBa0FVX3lxTFBxM2RNYURrR1hmQ1ktWnBrME1RQ1ZESXBWZHZ4aUNoaURoXy1BLXlySk9tcDZHb25fRmV5SDB5ZTVnck9rdlNmRHdGRkl3QldGb2VEZHA3VkNWT0NITjhmMTRwUWNpZEgxNDFF?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-14fe7fc19d62",
+      "date": "2026-08-29",
+      "dateISO": "Sat, 29 Aug 2026 07:00:00 GMT",
+      "ts": 1787986800000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流已致626人死亡 2426人失联 - news.cn",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PYjVKWUZ4T2psOVJsenNtWWs4WFNGcmZVakNzS21POTdVeGJHMWg2c1NYNDBjUjFwUFh5bHBueVFneTN5VmFCMXlIQjVjZXQ1dDh3QzF2Ry1HeFlZN2tydnNqV0tEcnhNZDA2aDRZWHkzeHFuZG54UFpXZ2V2OTA?oc=5",
+      "site": "news.cn",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-fb448a3e9124",
+      "date": "2026-07-11",
+      "dateISO": "Sat, 11 Jul 2026 07:00:00 GMT",
+      "ts": 1783753200000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "“巴威”已重新增强为“强台风级”！苏州应急响应提升为Ⅲ级 - suzhou.gov.cn",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb09jY09WOHlCWU5PWkhlMy1EZmFiMVIxcms2UGtCQlBfbTBJd3A0THlOOHprR2lTNTFyT003UDYyUmJtdkR5NVpjTEdIMzNWLUMtYWZtUWx1cWxndVZOdjZjOXdOc0Z2ejNxR2p5ZHg1WExkaGNXaVFJb0Q5dWx4bG1YNUZiTGFudms4?oc=5",
+      "site": "suzhou.gov.cn",
+      "siteUrl": "http://www.suzhou.gov.cn"
     },
     {
       "id": "FL-909ef06a4a75",
@@ -508,15 +508,15 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-7a14c7efe1f8",
+      "id": "FL-3fd6e106fb4f",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 14:48:41 GMT",
       "ts": 1789397321000,
       "scope": "dom",
       "type": "geo",
-      "title": "墨江发生4.5级地震 消防、电力等部门已抵达震中村寨 - kunming.cn",
+      "title": "墨江发生4.5级地震 消防、电力等部门已抵达震中村寨 - 昆明信息港",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wamNQU2FUbk1OeGEtYTBLZ1ZGZUxWcFZ6ZmZIbUc1LTQxaUo2RnVXSWdEZEFXVkdKaDZTYmpudVpzX3F5eFhTY2YtRDcxSmp1SHhscjhCUEhhcTNVYkIwTkJ3OWp4QQ?oc=5",
-      "site": "kunming.cn",
+      "site": "昆明信息港",
       "siteUrl": "https://www.kunming.cn"
     },
     {
@@ -677,16 +677,16 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
-      "id": "FL-93fd2460b77b",
+      "id": "FL-56766cd8d269",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 01:44:00 GMT",
       "ts": 1789350240000,
       "scope": "dom",
       "type": "geo",
-      "title": "地震预警何时接入苹果系统？中国地震局回应 - 观察者网",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tT01WaVdFa3NVQmp3cWoyMklIYUpmRVh0eWtidVA1VTRkcUd0UFloY1JBeVVaSUdiUUtia2VRN2RsZGFLUlI0bmFDbkxPTkFlRzFGeWpoSDhqdnowUXU2TlUtLWV2UQ?oc=5",
+      "title": "地震预警何时接入苹果系统？中国地震局再回应：争取尽早实现 - 观察者网",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QS04yZEZ1YmZuNGd0ZUNma1RpN2ItbnlFcjVrVWtVVzBETTBxQ2NnQkNlSnl4NnBFSUdUcjFrV3AxN0o3dUZ1bGRFUVNWSXVNdjZuUlJEWmEySE9mQzdMeS1zVQ?oc=5",
       "site": "观察者网",
-      "siteUrl": "https://www.guancha.cn"
+      "siteUrl": "https://m.guancha.cn"
     },
     {
       "id": "FL-6bd4ba852002",
@@ -713,15 +713,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-4eae82f67e26",
+      "id": "FL-1f922e81d5d0",
       "date": "2026-08-28",
       "dateISO": "Fri, 28 Aug 2026 07:00:00 GMT",
       "ts": 1787900400000,
       "scope": "dom",
       "type": "geo",
-      "title": "高位冰崩如何演变为泥石流 - paper.people.com.cn",
+      "title": "高位冰崩如何演变为泥石流 - 人民日报",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wVUROYWpQa1YzUGZEYzZWLXRZNWF4ck5FV281OC1DOEFMWDZBV2xyQXoxUHZ4SU5HbjRXcnZFZ2VYYWtWV2dEQUUyTE1WdEJaRXFhamNubndKc0dlZjZNRGZDNEhEY0tZd0w1REx2WGVhbmhQYy1DQ2RyXzZzTlU?oc=5",
-      "site": "paper.people.com.cn",
+      "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn"
     }
   ]
