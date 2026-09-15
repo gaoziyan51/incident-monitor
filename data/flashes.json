@@ -1,19 +1,7 @@
 {
-  "updated": "2026-09-15T04:07:30.326Z",
+  "updated": "2026-09-15T04:24:49.046Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-42ba1d0df553",
-      "date": "2026-08-26",
-      "dateISO": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "ts": 1787727600000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "西藏土石流：接壤尼泊尔边境山洪暴发 上千人失踪包括多国游客 - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CTG9yTTh6cnplOGJ1TG5PUzFQRkwtNjZTTzFLcEMwYzRWQlhzTVF2eGMyUFRzdWlKYldDSTVRcWNVd2RnbkJWU1prR2FMUVhKeVk4X0c4MVNnbUFCTjItZ0JiN0xvd9IBa0FVX3lxTE1PT1F4VHcyMnlBRE5SdUdLeERKN21TU1VXSkdqTTNnWnE1MTkxNi1Yb1ZqbWQtX2ZVdGwtMFhCZjZsVmgwTi1LNkdwYWtOZTE3dDlIVzNiT3cxOHV2dzdnZF9hY2cwV3dsSi1j?oc=5",
-      "site": "BBC",
-      "siteUrl": "https://www.bbc.com"
-    },
     {
       "id": "FL-674383638b4c",
       "date": "2026-09-02",
@@ -111,15 +99,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-5916f330f1a1",
+      "id": "FL-85a4f8756618",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 02:03:14 GMT",
       "ts": 1789437794000,
       "scope": "dom",
       "type": "weather",
-      "title": "海南陵水遇强降雨，部分乡镇有人员被困，消防员分五批转移51人 - 新京报",
+      "title": "海南陵水遇强降雨，部分乡镇有人员被困，消防员分五批转移51人 - bjnews.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xMkZ1WGhtZTlWcHJjcEJPbUZSLUNzUzBpQzU2U2x1TThkc1FBOFlISDUyTjdiX3FKZ19QNXBieERJZEJ3VEVWLV9NNFAwb1dVQTZldmZjMzRaN2Nmd3Y0cmtMT20?oc=5",
-      "site": "新京报",
+      "site": "bjnews.com.cn",
       "siteUrl": "https://www.bjnews.com.cn"
     },
     {
@@ -328,15 +316,15 @@
       "related": 22
     },
     {
-      "id": "FL-4e39249f800d",
+      "id": "FL-aeed7a750ca8",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 23:33:16 GMT",
       "ts": 1789428796000,
       "scope": "intl",
       "type": "geo",
-      "title": "墨西哥西南近海地区发生5.5级地震 - finance.sina.cn",
+      "title": "墨西哥西南近海地区发生5.5级地震 - 新浪网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96R1FrWUJpajBVT1lxLU00VVloUFdPdXh3NHEzdTI5RjhDVXNoWDBtZTJTcHpkalU1Z3E4dlpBSDFidHVfS0pxdXUzSG5SaGlfeEJ3Zi14d0VnWXVQT3V6TG9vWllIYlQ3ZGZOUUdaVkRPNG1fd0ZGWQ?oc=5",
-      "site": "finance.sina.cn",
+      "site": "新浪网",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -388,27 +376,39 @@
       "siteUrl": "https://m.thepaper.cn"
     },
     {
-      "id": "FL-9adee2cab9af",
+      "id": "FL-04dfef2ac790",
       "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 21:28:00 GMT",
-      "ts": 1789421280000,
+      "dateISO": "Mon, 14 Sep 2026 22:00:05 GMT",
+      "ts": 1789423205000,
       "scope": "dom",
       "type": "geo",
-      "title": "我市举办青少年地震预警科普和示范演练活动 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9KLXE2cHoxblc0RTI0Vzc2WWhZZlUwWFRQeThaYmpNUVE5TjNiZjlYNkpiS210cVhldUtnLWZBT3JoRjdyTGJJU0tFWGJuZlV6WW1qZHJWUTR5U2g4ZWR0ZWNBOTBLcjI1UFN2dGE3M21iTFk4RVdWZw?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
+      "title": "我市举办青少年地震预警科普和示范演练活动 - 天津日报",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbG5xaU53eEk4WlhzME5aeHk2VG9ZYVVTSU5VYXNJbWV6RkJ3X1lTc1N2TFA2OVZxb0hCSlByVVBjMUduZkJ1UGpVR01LbFNsbFQ5LVpLOEJtVmV6VjE5MDlXMExOQjhrZGw2cnhLZ1JsNW9oVnBPNllFWEkyT011VDRn?oc=5",
+      "site": "天津日报",
+      "siteUrl": "https://epaper.tianjinwe.com"
     },
     {
-      "id": "FL-359315b6a21f",
+      "id": "FL-0202db6c5af8",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 21:30:55 GMT",
+      "ts": 1789421455000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "我市举办青少年地震预警科普和示范演练活动 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPaC11eUNPNVVNbE9KQXAtMTdZWUxSQzdncG5aZFUzNXpqSGpGSUFYOHdyOFYxLXlheHl1bmFpZ1pUeU5Mei1VZV9MaEpuN3BSektvNndLcnFxWTJadjNjaFlFNWUwSDU4cUh5RTVHdk5sQjNGOU55eA?oc=5",
+      "site": "新浪网",
+      "siteUrl": "https://finance.sina.cn"
+    },
+    {
+      "id": "FL-9baaa860d712",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 17:03:44 GMT",
       "ts": 1789405424000,
       "scope": "dom",
       "type": "weather",
-      "title": "海南暴雨致五指山突发山洪 被困14人已获救 - finance.sina.cn",
+      "title": "海南暴雨致五指山突发山洪 被困14人已获救 - 新浪网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BWk16dnV0bFR3MWo0SGdWWHNLZUdQMy1YR254eDZIUVZIZzdOc3RXa0NxQkxITm9jVW1fbWExbkZGdV9XUERIaWdwd1JMYWpmbmwyRXJfT182TUhxNVlhYW82OElZeE9WLVJfai1HRGVpeUNldlhRTA?oc=5",
-      "site": "finance.sina.cn",
+      "site": "新浪网",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -448,15 +448,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-59a90c56f620",
+      "id": "FL-b7e7283c11df",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 13:14:49 GMT",
       "ts": 1789391689000,
       "scope": "dom",
       "type": "weather",
-      "title": "海南防御强降雨紧急转移4.2万余人 13个市县宣布停课 - finance.sina.cn",
+      "title": "海南防御强降雨紧急转移4.2万余人 13个市县宣布停课 - 新浪网",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZGJVbGtqWE9zTzBhRDJRRjVkZi1rSWNvNDF6M3ZhUWVuU1liVmFucWdxNU91R2UzaGU4c3ZPUmtGWmRuVWE1TmM0T0VCRF9pWGMzdlFkSmhIcmVSWE9BMDZPVVZHYmRWaWxPLW9xZmhBMEpjVlNRZUVBdEw4cUVxZWVIcw?oc=5",
-      "site": "finance.sina.cn",
+      "site": "新浪网",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -485,15 +485,15 @@
       "related": 42
     },
     {
-      "id": "FL-13d68ffbce31",
+      "id": "FL-ec8401e7003a",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 12:00:00 GMT",
       "ts": 1789387200000,
       "scope": "dom",
       "type": "weather",
-      "title": "海南五指山遇强降雨，积水涌入房屋4人被困，消防员拖橡皮艇转移 - 新京报",
+      "title": "海南五指山遇强降雨，积水涌入房屋4人被困，消防员拖橡皮艇转移 - bjnews.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtOVJwd3hJY0N0MjlhWE9YcDZpMURWeml2YUJnVTA0WURJNVQxQ2pTZjVEWlBnb2VEbXpSeU51VEswbi1zaVlRRUdUejM5bDBWU2J4QUFGVXEtUmRlWEtGa0k4ZkM?oc=5",
-      "site": "新京报",
+      "site": "bjnews.com.cn",
       "siteUrl": "https://www.bjnews.com.cn"
     },
     {
@@ -533,15 +533,15 @@
       "siteUrl": "https://china.kyodonews.net"
     },
     {
-      "id": "FL-c38bd1e0627f",
+      "id": "FL-4a30551391ea",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 10:03:14 GMT",
       "ts": 1789380194000,
       "scope": "dom",
       "type": "weather",
-      "title": "特大暴雨来了，海南多地停课 - finance.sina.cn",
+      "title": "特大暴雨来了，海南多地停课 - 新浪网",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNXlTZzNSM1M4aUhJa3l1QTFLMFpaS3pTVDF2R05vZjdoQlRsck5hU0NHa2JVVFROOFEwcGhxdV9VRlBMMVdaYTdlVlJpcEFITlc2VjFfUUVrVGs5ZzNYY1g5MmM2MHQybldzVGtIdExlQmYtQ2xjX3V2aEVYaUJTaFoxRQ?oc=5",
-      "site": "finance.sina.cn",
+      "site": "新浪网",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -653,18 +653,6 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-ce1038bedac8",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 05:33:00 GMT",
-      "ts": 1789363980000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "海南暴雨致五指山突发山洪，被困14人已获救 - thepaper.cn",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wSGYteS1yRUtpRFdmdVNFOTB5UFAtX1pyVmJBZ2hvSERCY1N2ZlNpNVNvU19YbnR1bWZ0MmZWZUdtY092YU1aOHJGeTBQSHVQcFkwdl9EOTlGMC1ZUmE3Yw?oc=5",
-      "site": "thepaper.cn",
-      "siteUrl": "https://www.thepaper.cn"
-    },
-    {
       "id": "FL-cf557d871235",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 03:39:50 GMT",
@@ -687,6 +675,18 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QMHEwa2NCVC1acGYxSVUyR2QtX2tERmFHYVVCazYzN0JTSFV2dXN1S1F4TTF1dS1TVk1lUWNIaDA1SkZ2YzFkWVpJeFZ0LWFEVmQzMHlsYmI?oc=5",
       "site": "Jiemian.com",
       "siteUrl": "https://www.jiemian.com"
+    },
+    {
+      "id": "FL-80ecb3992f9c",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 02:37:22 GMT",
+      "ts": 1789353442000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "中国地震台网中心正就地震预警信息接入iOS系统与苹果公司沟通 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzVHZybTB5dmZYTU1QdnZUM2VxSi1DdTdxVDg5LWZnY0E2bGtINktmM0NINFlOYnp2R2phTG5BSGE4c3czeFdhcVBvQXpwVXJmckFHT1g5ZUFRNm9mVFZqamdUQnA5N3hDeDlMdXhrZXhSMGlwYm5pNQ?oc=5",
+      "site": "央视网",
+      "siteUrl": "https://news.cctv.com"
     },
     {
       "id": "FL-b0e8286a093d",
