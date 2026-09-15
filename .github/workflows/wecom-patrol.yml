@@ -1,7 +1,7 @@
 name: wecom-patrol
 on:
   schedule:
-    - cron: '*/30 * * * *'   # 每30分钟巡检一轮（纯云端，不依赖本地电脑）
+    - cron: '0 * * * *'   # 每小时整点巡检一轮，推送上一小时内的最新消息
   workflow_dispatch:
 
 permissions:
