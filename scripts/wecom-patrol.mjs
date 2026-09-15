@@ -9,9 +9,7 @@
  *  2. 多源印证：同一事件（标题相似分组）被 ≥2 家不同媒体报道，可信度更高
  *  3. 评论类排除：视频｜/评论/警示/启示/盘点/解读等标题一律不推
  *
- * 消息不提供原文直链（谷歌聚合源拿不到），标注"来源渠道+可按标题检索核实"，
- * 详情链接 = 简报主页。
- *
+ * 消息精简为三行：标题 + 地址（从标题提取省市县）+ 来源渠道。
  * 运行：node scripts/wecom-patrol.mjs （需环境变量 WECOM_WEBHOOK）
  */
 import { createHash } from 'node:crypto';
@@ -23,9 +21,8 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const STATE_FILE = join(__dirname, '..', 'data', 'wecom-patrol-state.json');
 const WEBHOOK = (process.env.WECOM_WEBHOOK || '').trim();
 const DRY_RUN = process.env.PATROL_DRY_RUN === '1'; // 干跑模式：只打日志不发群（测试期用）
-const BRIEF_URL = 'https://liudi7675.github.io/incident-monitor/';
 const MAX_PUSH = 3;          // 每轮最多推送条数（防刷屏）
-const FRESH_HOURS = 26;      // 只推最近 N 小时内发布的消息（防旧闻）
+const FRESH_HOURS = 2;       // 只推最近 N 小时内发布的消息（覆盖上一小时 + 冗余，去重保证不重推）
 const STATE_TTL_MS = 7 * 86400000; // 去重状态保留7天
 
 if (!WEBHOOK) {
@@ -76,6 +73,54 @@ const ROUTINE_RE = /(天气预报|天气趋势|未来三天|未来几日|未来�
 /* 官方媒体白名单（来源域名 + 媒体名双判） */
 const OFFICIAL_DOMAINS = /(cctv\.com|cntv\.cn|news\.cn|xinhuanet\.com|people\.com\.cn|gov\.cn|chinanews\.com\.cn|gmw\.cn|mem\.gov\.cn|cneb\.gov\.cn|china\.com\.cn|cnr\.cn|legaldaily\.com\.cn|chinawater\.com\.cn|cma\.gov\.cn|cea\.gov\.cn|xhby\.net|yicai\.com$)/i;
 const OFFICIAL_NAME_RE = /(央视|新华|人民网|人民日报|中国政府网|中国新闻网|中新网|光明|应急管理部|央广|经济日报|法治日报|环球时报|中国应急管理|央视新闻|新华社)/i;
+
+/* ---------------- 地址提取（标题 → 省市区） ---------------- */
+const PROVINCES = ['黑龙江','内蒙古','河北','山西','辽宁','吉林','江苏','浙江','安徽','福建','江西','山东','河南','湖北','湖南','广东','海南','四川','贵州','云南','陕西','甘肃','青海','新疆','西藏','宁夏','广西','北京','天津','上海','重庆','香港','澳门'];
+const CITIES = ['石家庄','太原','呼和浩特','沈阳','长春','哈尔滨','南京','杭州','合肥','福州','南昌','济南','郑州','武汉','长沙','广州','南宁','海口','成都','贵阳','昆明','拉萨','西安','兰州','西宁','银川','乌鲁木齐','深圳','东莞','佛山','珠海','中山','惠州','汕头','湛江','茂名','肇庆','江门','韶关','清远','揭阳','潮州','汕尾','河源','阳江','云浮','梅州','唐山','保定','邯郸','秦皇岛','张家口','承德','沧州','廊坊','衡水','邢台','大同','阳泉','长治','晋城','朔州','晋中','运城','忻州','临汾','吕梁','大连','鞍山','抚顺','本溪','丹东','锦州','营口','阜新','辽阳','盘锦','铁岭','朝阳','葫芦岛','四平','辽源','通化','白山','松原','白城','延吉','齐齐哈尔','鸡西','鹤岗','双鸭山','大庆','伊春','佳木斯','七台河','牡丹江','黑河','绥化','无锡','徐州','常州','苏州','南通','连云港','淮安','盐城','扬州','镇江','泰州','宿迁','宁波','温州','嘉兴','湖州','绍兴','金华','衢州','舟山','台州','丽水','芜湖','蚌埠','淮南','马鞍山','淮北','铜陵','安庆','黄山','滁州','阜阳','宿州','六安','亳州','池州','宣城','厦门','莆田','三明','泉州','漳州','南平','龙岩','宁德','九江','景德镇','萍乡','新余','鹰潭','赣州','吉安','宜春','抚州','上饶','青岛','淄博','枣庄','东营','烟台','潍坊','济宁','泰安','威海','日照','临沂','德州','聊城','滨州','菏泽','开封','洛阳','平顶山','安阳','鹤壁','新乡','焦作','濮阳','许昌','漯河','三门峡','南阳','商丘','信阳','周口','驻马店','黄石','十堰','宜昌','襄阳','鄂州','荆门','孝感','荆州','黄冈','咸宁','随州','株洲','湘潭','衡阳','邵阳','岳阳','常德','张家界','益阳','郴州','永州','怀化','娄底','柳州','桂林','梧州','北海','防城港','钦州','贵港','玉林','百色','贺州','河池','来宾','崇左','三亚','三沙','自贡','攀枝花','泸州','德阳','绵阳','广元','遂宁','内江','乐山','南充','眉山','宜宾','广安','达州','雅安','巴中','资阳','六盘水','遵义','安顺','铜仁','曲靖','玉溪','保山','昭通','丽江','普洱','临沧','宝鸡','咸阳','铜川','渭南','延安','汉中','榆林','安康','商洛','嘉峪关','金昌','白银','天水','武威','张掖','平凉','酒泉','庆阳','定西','陇南','格尔木','海东','石河子','吐鲁番','哈密','库尔勒','阿克苏','喀什','伊宁','昌吉','日喀则','阿里','林芝','山南','那曲','和田','赤峰','通辽','鄂尔多斯','呼伦贝尔','巴彦淖尔','乌兰察布','乌海'];
+/* 省直辖县级行政区（标题中通常不带"县/市"后缀） */
+const DIRECT_COUNTIES = ['保亭','五指山','琼海','文昌','万宁','东方','儋州','定安','屯昌','澄迈','临高','白沙','昌江','乐东','陵水','琼中','济源','仙桃','潜江','天门'];
+const CITY_RE = new RegExp('(' + CITIES.join('|') + ')');
+const DCOUNTY_RE = new RegExp('(' + DIRECT_COUNTIES.join('|') + ')');
+const PROV_RE = new RegExp('(' + PROVINCES.join('|') + ')');
+/* 县/区/旗：匹配"XX县/旗"，"区"需紧跟在城市后且排除灾区/山区等泛称 */
+const COUNTY_RE = /([\u4e00-\u9fa5]{2,3}(?:县|旗))/;
+const DISTRICT_BAD = /(灾|山|城|社|景|园|矿|库|林|地|老|新|郊|军|港|湾|海|湖|江|河|桥|小|商|街)区$/;
+
+function extractAddr(title) {
+  const parts = [];
+  let idx = 0;
+  const prov = title.match(PROV_RE);
+  if (prov) { parts.push(prov[1]); idx = prov.index + prov[1].length; }
+  let rest = title.slice(idx);
+  const city = rest.match(CITY_RE);
+  const dcounty = !city ? rest.match(DCOUNTY_RE) : null;
+  let tail = rest;
+  if (city) {
+    let name = city[1];
+    tail = rest.slice(city.index + name.length);
+    if (/^区/.test(tail)) { name += '区'; tail = tail.slice(1); } // 北京朝阳区
+    parts.push(name);
+  } else if (dcounty) {
+    parts.push(dcounty[1]);
+    tail = rest.slice(dcounty.index + dcounty[1].length);
+  } else {
+    const fc = tail.match(/([\u4e00-\u9fa5]{2,3}市)/); // 县级市兜底：湖南资兴市
+    if (fc && !/(上市|城市|都市|超市|夜市|市场|菜市|门市|集市|开市|收市|闹市)/.test(fc[1])) {
+      parts.push(fc[1]);
+      tail = tail.slice(fc.index + fc[1].length);
+    }
+  }
+  if (parts.length) {
+    const cty = tail.match(COUNTY_RE);
+    if (cty) {
+      parts.push(cty[1].replace(/^(自治州|自治县|地区|地区?|盟|州|市|区)/, '')); // "阿克苏地区沙雅县"→"沙雅县"
+    } else if (city) {
+      const d = tail.match(/^([\u4e00-\u9fa5]{2,4}区)/);
+      if (d && !DISTRICT_BAD.test(d[1])) parts.push(d[1]);
+    }
+  }
+  return parts.join('');
+}
 
 function extractNum(title, res) {
   for (const re of res) {
@@ -238,19 +283,14 @@ async function main() {
       console.log(`事件进展重推: ${c.title.slice(0, 30)} (${prev.cas || 0} → ${newCas})`);
     }
     const srcLabel = c.site || '新闻媒体';
-    const srcNote = c.official && c.multi ? `${srcLabel} 等多家媒体（多源印证）`
-      : c.official ? `${srcLabel}（官方媒体）`
-      : `${srcLabel} 等 ${keySources.get(c.key).size} 家媒体（多源印证）`;
-    const casText = c.deaths ? `${c.deaths}人遇难` : '暂未收到人员伤亡报告，以官方通报为准';
-    const casText2 = c.missing ? `、${c.missing}人失联` : '';
-    const when = new Date(c.ts).toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai', hour12: false });
+    const srcNote = c.official && c.multi ? `${srcLabel} 等多家媒体`
+      : c.official ? `${srcLabel}`
+      : `${srcLabel} 等 ${keySources.get(c.key).size} 家媒体`;
+    const addr = extractAddr(c.title) || '详见标题';
     const md = [
-      `## 🚨 重大突发事件快报`,
       `**${c.title}**`,
-      `伤亡：${casText}${casText2}（据媒体报道，以官方通报为准）`,
-      `来源：${srcNote}，可在其官网按标题检索原文`,
-      `时间：${when}`,
-      `[事件已收录网页端](${BRIEF_URL})`,
+      `地址：${addr}`,
+      `来源：${srcNote}`,
     ].join('\n');
     try {
       await sendWecom(md);
