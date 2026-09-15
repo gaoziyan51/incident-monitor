@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T19:08:22.723Z",
+  "updated": "2026-09-15T19:21:49.928Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -148,15 +148,15 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-b9c7990710ac",
+      "id": "FL-53c0b63d9f62",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 06:48:43 GMT",
       "ts": 1789454923000,
       "scope": "intl",
       "type": "collapse",
-      "title": "外资加速抛售美债转投美股，美国“无风险资产”神话面临崩塌风险-市场参考 - 金十数据",
+      "title": "外资加速抛售美债转投美股，美国“无风险资产”神话面临崩塌风险-市场参考 - xnews.jin10.com",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zWS1YOTJrU1Z0S2ZaSGY3Qmt6RmcyYnF3elJXa0dZRmJ4YTNTZ3psOUZVX21Lb1ktWHVBUFVtRm9aMnU3RXU4U0RGZzMwTk0?oc=5",
-      "site": "金十数据",
+      "site": "xnews.jin10.com",
       "siteUrl": "https://xnews.jin10.com"
     },
     {
@@ -341,6 +341,18 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
+      "id": "FL-0dbb68683e30",
+      "date": "2026-09-01",
+      "dateISO": "Tue, 01 Sep 2026 07:00:00 GMT",
+      "ts": 1788246000000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "法国报纸摘要 - 尼泊尔仍未解除对中国在这次泥石流洪灾中应负责任的怀疑 - rfi.fr",
+      "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxQekE0d0ZoUlkzQWpLM0l4TWx5a29mcmZkLXpqTGpKS2VublhpQWlLcTEySVNEcmFscFJhTnNiWmgtUWd5a1JoamtzYWdPR2UzVkZlMkVtdzJLMnAwVFA4RzU5ODB0ZlFWSHpiN3BGU3NwYWdFeXlKNld0ekN5UTVtWHdfWU02Sm5sYmQ1MV96S2pPODVwaGN1aVhKa0NYSHZaNUZ1MS1pakE1VV9PS0FDbFBwY3A0OGl1Vjh1N3VQWm0wbkNNbGdLZDVadlQ1SHhxZmF6eVdkRWhpQUdIQ3NBM3VfeWE5cWh5Wm5OVi1ZUXItUktlUk1hbjVPWGRKamFnYTBROS10QkZHZDViMjQ5aXU1WDJqc3Y0dkpoZm1mVUR1UlAzSnZ0OFBoMERaS0JTemgtUWI5OXhEekhqR0JwTHI1Rmh3bG52LTU0bFdRYUZLQUFYSTJZa19oZEFCclFKX1RwRDJtTlJHZWIxRS1Td1NfTjZub0dQanExTldCVGNDckx0amk4M2Y2NWR1NXJOQWFqLWVfYVR6bF9QR0hmMERZRW5OZW1GaURfSzVXLUxCd1dwUU12M3BJREJLRGt5MUg2R3lHZWhuZ2lQQW9KOXpxX0F2QUs5SXloSkhxTVcxNTNYVS1PaTg1c1E1V2kwZC1LbGNRQUo?oc=5",
+      "site": "rfi.fr",
+      "siteUrl": "https://www.rfi.fr"
+    },
+    {
       "id": "FL-e0b20b7e83b1",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 15:24:23 GMT",
@@ -449,18 +461,6 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-245ca6f62bb7",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 23:30:30 GMT",
-      "ts": 1789428630000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "新疆和田地区皮山县发生3.0级地震，震源深度15千米 - Jiemian.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XSUdVWHZuTDNNTmZpTFpJekdmb0REMGJWVEczSFZhMkt3YW11bGVLMFRsbXlNQUtRaVdqYUh3R1VEQy1Mc291S0loOXpxUEJ2bmFSRGFfRmk?oc=5",
-      "site": "Jiemian.com",
-      "siteUrl": "https://www.jiemian.com"
-    },
-    {
       "id": "FL-ef8762f7d4df",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 23:20:16 GMT",
@@ -471,18 +471,6 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4ZlRyaE5FTVNSQlNwX1ppMlBMNHpKYjJQYnJQQUdobTZqZWZRaFREOGRFRjBrTWVNY2M2YkJpNjhqajROdkNMaHBEb2JYNHNsMk50VVJkQ05PdUZFa2I2X2tWV0JNU09qR1E?oc=5",
       "site": "联合早报",
       "siteUrl": "https://www.zaobao.com.sg"
-    },
-    {
-      "id": "FL-5189ab2d1634",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 22:58:00 GMT",
-      "ts": 1789426680000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "新疆和田地区皮山县发生3.0级地震，震源深度15千米 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOZUdpMDc5NFRhLXBabjQ5ZTZZMUt5QjNicW43cjVWTDRNanlDRVoxeHo3enA1VDFiN2E0b2RvUldLSkVzOE9tVHo0aVZTclNUV0JLUEdPSW5BaXNpQzRpblVyWFY3Zm5OVjJ6dVpMN1pyVlEtRnpSRg?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-04dfef2ac790",
@@ -723,6 +711,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SMU9aYk1ieDUtRUYxczloUTVubHBZc2VCWlBtbGlLNmRWdXFGZ2xvUWhfSHZqVS0wYndtZzhUZGZDZlBiQlU0WDV2NUh5bkE1M1VtZURfZWRMaTR4SU4waWJHYXdFd9IBa0FVX3lxTFA3TVBheHVtYmo2X1ppZlgzNnhYZnc3eU9MOUVybUZlUGh0QXMwTklhWXktUm9Bcnh1dVdGcUZvZlVrWGQxTlNKX2xxVV9PRzBRSmR3QWdURDRZVEhja0loSWxWN2RtRmJxR1Y4?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-1f922e81d5d0",
+      "date": "2026-08-28",
+      "dateISO": "Fri, 28 Aug 2026 07:00:00 GMT",
+      "ts": 1787900400000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "高位冰崩如何演变为泥石流 - 人民日报",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wVUROYWpQa1YzUGZEYzZWLXRZNWF4ck5FV281OC1DOEFMWDZBV2xyQXoxUHZ4SU5HbjRXcnZFZ2VYYWtWV2dEQUUyTE1WdEJaRXFhamNubndKc0dlZjZNRGZDNEhEY0tZd0w1REx2WGVhbmhQYy1DQ2RyXzZzTlU?oc=5",
+      "site": "人民日报",
+      "siteUrl": "http://paper.people.com.cn"
     }
   ]
 }
