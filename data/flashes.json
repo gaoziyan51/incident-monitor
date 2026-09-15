@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T21:54:02.284Z",
+  "updated": "2026-09-15T22:06:55.382Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -37,7 +37,19 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
-      "related": 39
+      "related": 37
+    },
+    {
+      "id": "FL-ad34abd61a78",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 15:47:03 GMT",
+      "ts": 1789487223000,
+      "scope": "dom",
+      "type": "other",
+      "title": "官方通报“一小区对面河堤发生塌方” - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORXJheThxT3ZHVEU0djB4b2VWWjQxWV9hLVVudGUyTWpCaWFjZW9KdzJ2NW8yVzFOaUJaUzBIeTU1akpoVWV6S2x5eHVLT2kwWmhhQmI5SGwtd3d4UTEyQnFFOVFrUG00eVBwLV9vS0FYaXhMemg0eW04RU0tZ1BVTWxNVWlJM2REY1ZjMw?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-221f4d43a11f",
@@ -62,18 +74,6 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CX1BCWlpfQWdzOUk4NER1dmF5Ym5MOE1jem9VWlBhYXZJSmJIRjJEMjAtNlEtUnZjcmpHSkZjOW1GVXJ3WU80Q1BGYVF3NDBGREMwWWVYZWEtY3Qxa3hMdFdBTWFINHBRekRFbWdXa2QzYjFFc0E?oc=5",
       "site": "央广网",
       "siteUrl": "https://www.cnr.cn"
-    },
-    {
-      "id": "FL-3b5cbc73a3fb",
-      "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 15:27:00 GMT",
-      "ts": 1789486020000,
-      "scope": "dom",
-      "type": "other",
-      "title": "官方通报“一小区对面河堤发生塌方” - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5oeWNGOUlMS2g5M2lJNlF3d2tmLW9rVHVOaGNqUENOcEptNjRXOHJSRXVrN1c3Q2VZdjFqMEQtZ01wOFBpWWphby1qR3VtLUtJejNqYTZNNmU4ME1rcmhpRUdRZlFWWTQyNEVyMzRTYkJMS25rLWc?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-93eb8aafe4e4",
@@ -569,6 +569,18 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
+      "id": "FL-5693206954f6",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 08:15:41 GMT",
+      "ts": 1789373741000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "帕拉纳州持续强降雨致逾1.4万人受灾 两人失踪多条公路受阻 - br-cn.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMTYzNE9CaWNpcER2aS1hQUNBQm0xR0ZnZU13UTFvOUVwY0pMNHlCYmJHaUYwRzJTY2Y1SDZxd3M2XzJac3hJTHJRZzI1aU5rVldGZXdoaGxOT3ZlLWsxakFYYzVkRFZVSTdCa2NabVRCLUxFSmNlMW1CN3dCOU84NWZseHB4a2o5RFRsajRR?oc=5",
+      "site": "br-cn.com",
+      "siteUrl": "https://www.br-cn.com"
+    },
+    {
       "id": "FL-9aff4dbf8471",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 07:57:16 GMT",
@@ -689,18 +701,6 @@
       "siteUrl": "https://m.guancha.cn"
     },
     {
-      "id": "FL-6bd4ba852002",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 00:01:00 GMT",
-      "ts": 1789344060000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "中国地震台网中心正就地震预警信息接入iOS系统与苹果公司沟通 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZVU5NHdxWmduaTB2Rkl1bHkyY09DNmZBc0ZOaUwyY0M4dzJlVmdtS2xVSzJRVFZPRnFfc0w5MXJhX2dVdGdnUF9LMlZPR01oOHFKbVd3NjlnNXlGUC1acEhic2lVN3lWZDBvZXJRYVdncTBuZG5pdHJ0bDk5MkUzV2JEZUNDbkU?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
-    },
-    {
       "id": "FL-e8a32a183e42",
       "date": "2026-08-28",
       "dateISO": "Fri, 28 Aug 2026 07:00:00 GMT",
@@ -713,15 +713,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-4eae82f67e26",
+      "id": "FL-1f922e81d5d0",
       "date": "2026-08-28",
       "dateISO": "Fri, 28 Aug 2026 07:00:00 GMT",
       "ts": 1787900400000,
       "scope": "dom",
       "type": "geo",
-      "title": "高位冰崩如何演变为泥石流 - paper.people.com.cn",
+      "title": "高位冰崩如何演变为泥石流 - 人民日报",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wVUROYWpQa1YzUGZEYzZWLXRZNWF4ck5FV281OC1DOEFMWDZBV2xyQXoxUHZ4SU5HbjRXcnZFZ2VYYWtWV2dEQUUyTE1WdEJaRXFhamNubndKc0dlZjZNRGZDNEhEY0tZd0w1REx2WGVhbmhQYy1DQ2RyXzZzTlU?oc=5",
-      "site": "paper.people.com.cn",
+      "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn"
     }
   ]
