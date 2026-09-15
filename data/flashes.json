@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T23:44:18.997Z",
+  "updated": "2026-09-15T23:53:50.755Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -37,7 +37,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON2pQWm8ybnFudkFNaFFuX0NxTUh6ZkZORFE4ZnZ5YnBDV3FINVlscDlpZFU5NE00d0U0eHJYaEJPcjI2ZHBvYWxLX0lHcEk0OElmREo4WWFBOTRCbHY4UXRDYmNibjUwYnAwcUM0VFZ1STVibXV6Tkk1d2hHYkJUUzdhZXpiT09Dd3VaMg?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com",
-      "related": 42
+      "related": 46
     },
     {
       "id": "FL-ec6cab12c898",
@@ -120,9 +120,9 @@
       "scope": "intl",
       "type": "geo",
       "title": "尼泊尔泥石流灾害已致1403人遇难 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxSXBDLTAxcDN6MUhlbFRjOE9WY1dfaVpCLUpETDl0ZWl5YjlFdlp1MW14eGtuREJlU1ZuckpwTm52RzM5WlpKUFhnTGVkVDVvRmw5S2MtemJXMGtxY2F3dUNOS2FFZkc2?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CX1BCWlpfQWdzOUk4NER1dmF5Ym5MOE1jem9VWlBhYXZJSmJIRjJEMjAtNlEtUnZjcmpHSkZjOW1GVXJ3WU80Q1BGYVF3NDBGREMwWWVYZWEtY3Qxa3hMdFdBTWFINHBRekRFbWdXa2QzYjFFc0E?oc=5",
       "site": "央广网",
-      "siteUrl": "https://news.cnr.cn"
+      "siteUrl": "https://www.cnr.cn"
     },
     {
       "id": "FL-2244178adc9f",
@@ -135,6 +135,18 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3aTRuR1Bfb2ZCTGRWZ3RnNkVCam5UM05MWGhwS3k3LTUyOXYtMHBHNFRWalJSYWQ3LWFHVVM4d21uVEx4UVl5NnZDR01ROFNvOGZ5UHppV3R6VnlUaXc?oc=5",
       "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
+      "id": "FL-d9fd52d0f051",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 15:14:36 GMT",
+      "ts": 1789485276000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害遇难人数升至1403人 - huxiu.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CcnQxRDV0dm8xWUlfQmhoaGR6Z3pVQlZGeHFmRjFZZnBPVDZqa0NsaVRXV0ZTdlotT0p0Y1ljTGIta2MtSGRBd2pkM2NCQWhUZkJN?oc=5",
+      "site": "huxiu.com",
+      "siteUrl": "https://www.huxiu.com"
     },
     {
       "id": "FL-0b8b148a6522",
@@ -269,15 +281,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-08cb7529b0aa",
+      "id": "FL-facc0729194c",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 03:04:00 GMT",
       "ts": 1789441440000,
       "scope": "intl",
       "type": "geo",
-      "title": "日本核电站地震震动评估被证实造假 - 观察者网",
+      "title": "日本核电站地震震动评估被证实造假 - guancha.cn",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yOHY0OGw4aHZaMmZmLTItWEx1azZJR2Z3WFBvZDNNeGVMQjA1VVlsVVpfV183VnhQM0JpckNtSlVHclg4Mzhkam5ZTkszblJ6aGlramM2SlVkaUN2ZVhCUGNGcENqM1kwb0dhNzhrTzEwYlk?oc=5",
-      "site": "观察者网",
+      "site": "guancha.cn",
       "siteUrl": "https://www.guancha.cn"
     },
     {
@@ -353,16 +365,16 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-1197ee09fcb0",
-      "date": "2026-09-10",
-      "dateISO": "Thu, 10 Sep 2026 15:56:00 GMT",
-      "ts": 1789055760000,
+      "id": "FL-0dbb68683e30",
+      "date": "2026-09-01",
+      "dateISO": "Tue, 01 Sep 2026 07:00:00 GMT",
+      "ts": 1788246000000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1385人 - thecover.cn",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50QU81cW94T1U0MzNWWEIyV0t5WmVCMDF1ZXU4R1FDZ0s3bTdjbnRxZUw0YXJZTHIxak1QS0x6UEZ6R2xHc2FJU0F6QTlpUldmQmVDWVdKRy1pbXI4c3dCYmJsX29OcWlyejdCUWhob2JBYXdOSThv?oc=5",
-      "site": "thecover.cn",
-      "siteUrl": "https://m.thecover.cn"
+      "title": "法国报纸摘要 - 尼泊尔仍未解除对中国在这次泥石流洪灾中应负责任的怀疑 - rfi.fr",
+      "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxQekE0d0ZoUlkzQWpLM0l4TWx5a29mcmZkLXpqTGpKS2VublhpQWlLcTEySVNEcmFscFJhTnNiWmgtUWd5a1JoamtzYWdPR2UzVkZlMkVtdzJLMnAwVFA4RzU5ODB0ZlFWSHpiN3BGU3NwYWdFeXlKNld0ekN5UTVtWHdfWU02Sm5sYmQ1MV96S2pPODVwaGN1aVhKa0NYSHZaNUZ1MS1pakE1VV9PS0FDbFBwY3A0OGl1Vjh1N3VQWm0wbkNNbGdLZDVadlQ1SHhxZmF6eVdkRWhpQUdIQ3NBM3VfeWE5cWh5Wm5OVi1ZUXItUktlUk1hbjVPWGRKamFnYTBROS10QkZHZDViMjQ5aXU1WDJqc3Y0dkpoZm1mVUR1UlAzSnZ0OFBoMERaS0JTemgtUWI5OXhEekhqR0JwTHI1Rmh3bG52LTU0bFdRYUZLQUFYSTJZa19oZEFCclFKX1RwRDJtTlJHZWIxRS1Td1NfTjZub0dQanExTldCVGNDckx0amk4M2Y2NWR1NXJOQWFqLWVfYVR6bF9QR0hmMERZRW5OZW1GaURfSzVXLUxCd1dwUU12M3BJREJLRGt5MUg2R3lHZWhuZ2lQQW9KOXpxX0F2QUs5SXloSkhxTVcxNTNYVS1PaTg1c1E1V2kwZC1LbGNRQUo?oc=5",
+      "site": "rfi.fr",
+      "siteUrl": "https://www.rfi.fr"
     },
     {
       "id": "FL-e0b20b7e83b1",
@@ -377,18 +389,6 @@
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
-      "id": "FL-7ab0bb23c0bb",
-      "date": "2026-09-10",
-      "dateISO": "Thu, 10 Sep 2026 15:18:54 GMT",
-      "ts": 1789053534000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1382人遇难 - 央视网",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aVWFzenVvcDVzU1hONFVINmZ3cmZzOGpnVUI0MGFNUVQ1RnlnTlF6dkxseVZZaWFwcDlRQ1dmTG9keDQ3dU1kdzZqMDNJalk1Tk1XMUpfTWtQeW5tRW1mZXI4Y0d1d284bWxTdlJ1N0ZDdi1vbTUxQg?oc=5",
-      "site": "央视网",
-      "siteUrl": "https://news.cctv.com"
-    },
-    {
       "id": "FL-63616eb5470d",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 14:23:56 GMT",
@@ -399,18 +399,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yTVR2OE40OXNCTlpXR2FyR2hncU5haXBVOThJM1VqM2xKYjRMS043Z1c4ZjFUWDA1WVM0QkZkZXFQY1BjOW9Zdjd4MEV5QnlGRVh6WGkyV2t1SHRWc2MzcEp4MXcyV0la?oc=5",
       "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
-    },
-    {
-      "id": "FL-20065abd257a",
-      "date": "2026-09-10",
-      "dateISO": "Thu, 10 Sep 2026 11:10:00 GMT",
-      "ts": 1789038600000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "云南彝良一路段发生山体滑坡泥石流：无人员伤亡，正统计受灾损失 - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85Z3NWOHRXSFhtV0hod2Vyak52VDVDSXJteF8xY2hKOTUxb21HV1lEaEhmZFlDUnBQckNtN1JpeG9JZHNpSlpONDVOd3NFOTc4Uk1lQkNBeE5VVkEyNUQwRmpjdTI?oc=5",
-      "site": "新京报",
-      "siteUrl": "https://www.bjnews.com.cn"
     },
     {
       "id": "FL-31aaf7309a8a",
@@ -449,15 +437,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-6efe5298d5a2",
+      "id": "FL-40d60e09c577",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 15:04:00 GMT",
       "ts": 1789311840000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1392人 - thecover.cn",
+      "title": "尼泊尔泥石流灾害遇难人数升至1392人 - 封面新闻",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TWjViUkt6M2xhR2ZDbEZFbnBOZGVFc2ZxSThOT29tdDBIbk9tWHZIY1NaWk4zek12MXNQeVJXZUhwUGRrc3ZvV1l0alhlMG1DaV9RV0tnVFg3X3pYdGxjSDNpUm5ERGdoWTFVN2tQVXROQjJSakZz?oc=5",
-      "site": "thecover.cn",
+      "site": "封面新闻",
       "siteUrl": "https://m.thecover.cn"
     },
     {
@@ -521,6 +509,18 @@
       "siteUrl": "https://epaper.tianjinwe.com"
     },
     {
+      "id": "FL-9adee2cab9af",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 21:30:55 GMT",
+      "ts": 1789421455000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "我市举办青少年地震预警科普和示范演练活动 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPaC11eUNPNVVNbE9KQXAtMTdZWUxSQzdncG5aZFUzNXpqSGpGSUFYOHdyOFYxLXlheHl1bmFpZ1pUeU5Mei1VZV9MaEpuN3BSektvNndLcnFxWTJadjNjaFlFNWUwSDU4cUh5RTVHdk5sQjNGOU55eA?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
+    },
+    {
       "id": "FL-3fd6e106fb4f",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 14:48:41 GMT",
@@ -545,15 +545,15 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-91c52deee73b",
+      "id": "FL-2a103f171b50",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 09:58:00 GMT",
       "ts": 1789379880000,
       "scope": "dom",
       "type": "other",
-      "title": "以习近平同志为核心的党中央坚强领导科学指挥2026年防汛抗洪救灾纪实 - thecover.cn",
+      "title": "以习近平同志为核心的党中央坚强领导科学指挥2026年防汛抗洪救灾纪实 - 封面新闻",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Mb3FlM1hWbjhMTjBRa0l2YUQ5VnZrRWhwUUtFTjFHa3dSYlpLUVQ0RldJUkpYcko5cTg1MzFWeVM4VWFwSURnS2FGaXlSR04wUGQ2TkRQb29sTGxKOUp3clhuYw?oc=5",
-      "site": "thecover.cn",
+      "site": "封面新闻",
       "siteUrl": "https://www.thecover.cn"
     },
     {
@@ -591,18 +591,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GWk55OWlfRGU5R1JLVUFUZXVPV1BjWkpsUjBCS0RtTVZIQjRkdV91RDRQQ25vSWNuOF9WQVpURHF4N19tejBlUVpGMko5b09IS2VscFZwYVpKRDhFVUphaGItN0Z5bFRJLXlDZ2VSYmdDUFNhSWZmcjMxdzdIN2c?oc=5",
       "site": "新华网",
       "siteUrl": "http://www.news.cn"
-    },
-    {
-      "id": "FL-9f43e97b18c0",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 07:35:00 GMT",
-      "ts": 1789371300000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "外交部发言人介绍西藏泥石流灾害外籍人员搜救情况 - peopleapp.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSWZJaDFJa2hTXzZPUFVLS2ZkZ3VUMWQ3aWt2WFkyUEtYMzZXT05iWmJhTWRvLUtuaEhnR0VlQmVGcFd5TlN2YjJ6TjE2UGI4dFBvUUxMMW0xS2VTYzNoMlhGSlZ2eXdqd250bE9PQzFVN2cwQXBycG1kZ2MyVjM2enJ4OFc3OUJIOEJYZk5aT00?oc=5",
-      "site": "peopleapp.com",
-      "siteUrl": "https://www.peopleapp.com"
     },
     {
       "id": "FL-def32ff8029f",
@@ -689,16 +677,28 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
-      "id": "FL-56766cd8d269",
+      "id": "FL-07a82f20d04d",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 01:44:00 GMT",
       "ts": 1789350240000,
       "scope": "dom",
       "type": "geo",
-      "title": "地震预警何时接入苹果系统？中国地震局再回应：争取尽早实现 - 观察者网",
+      "title": "地震预警何时接入苹果系统？中国地震局再回应：争取尽早实现 - guancha.cn",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QS04yZEZ1YmZuNGd0ZUNma1RpN2ItbnlFcjVrVWtVVzBETTBxQ2NnQkNlSnl4NnBFSUdUcjFrV3AxN0o3dUZ1bGRFUVNWSXVNdjZuUlJEWmEySE9mQzdMeS1zVQ?oc=5",
-      "site": "观察者网",
+      "site": "guancha.cn",
       "siteUrl": "https://m.guancha.cn"
+    },
+    {
+      "id": "FL-6bd4ba852002",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 00:01:00 GMT",
+      "ts": 1789344060000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "中国地震台网中心正就地震预警信息接入iOS系统与苹果公司沟通 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZVU5NHdxWmduaTB2Rkl1bHkyY09DNmZBc0ZOaUwyY0M4dzJlVmdtS2xVSzJRVFZPRnFfc0w5MXJhX2dVdGdnUF9LMlZPR01oOHFKbVd3NjlnNXlGUC1acEhic2lVN3lWZDBvZXJRYVdncTBuZG5pdHJ0bDk5MkUzV2JEZUNDbkU?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-e8a32a183e42",
