@@ -224,7 +224,7 @@ async function main() {
   for (const c of trusted) {
     if (pushed >= MAX_PUSH) break;
     const prev = state.pushed[c.id];
-    if (prev) {
+    if (prev && !DRY_RUN) { // 干跑模式忽略去重，完整预览将推内容
       const newCas = c.deaths + c.missing;
       if (!(newCas >= (prev.cas || 0) + 3)) continue; // 已推过且伤亡无显著增加
       console.log(`事件进展重推: ${c.title.slice(0, 30)} (${prev.cas || 0} → ${newCas})`);
