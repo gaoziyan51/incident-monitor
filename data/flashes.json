@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T14:56:49.922Z",
+  "updated": "2026-09-15T15:10:09.073Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -25,6 +25,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfWmowNGIyc200QU1ESDVxbC1hdmdLWUlCQXNHazV6aVdvY1FYMGFySHFueG50UGc3Q2Z2ZUVXaWNtbUQtNlBMWkRDLU01T2R5blhnY2UtSUR5ZUdHaWt5YWszOFRFQdIBa0FVX3lxTE5ncUFxSTZyWVZGQ05yLWwtOGVLS01kb2lsNjY5cVNfU1VlN1hWSjFtUEx4eEpObTY3c3F5czNZeElUM01KaU5uVF9NQ2FDdGlMY29tbi16UFluSkVGSzFkNXJHZFFTOUU5eW80?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-0b8b148a6522",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 13:23:00 GMT",
+      "ts": 1789478580000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "最后一名失联人员被找到，江西遂川泥石流灾害共造成13人遇难 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNcWFDS213NjdsSjlHNTluVVp3VjdJV3k0N1Jha2l5SFpLNGpZQTFzLUNGc1g4Z0p3MWJBdUU5Ylpnam1uLXQ2cC1yOXJaRGlKeEhYSTdfRUQxcTlzVmppU0VLQV9yR1ZhclRyUWZrUEFYNVR2cjZtZA?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-adacbe1e9c57",
@@ -183,18 +195,6 @@
       "siteUrl": "https://news.ifeng.com"
     },
     {
-      "id": "FL-cb45bcae0b04",
-      "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 02:30:07 GMT",
-      "ts": 1789439407000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "普洱墨江4.5级地震，交通部门迅速排查守护路网安全畅通 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeHpkLVBlYkp2M3o4azVvMnJnNFc0cmRLS1p3bVgzeWd6MkxHVlAwaVJ6RGRfNm00MkdaajB6Rm9rajhOY24wZGlJSDVISGgzUzVBR0xvME5JZ2U1UUliWFpFc0RvQmphWUZGV1E2OEJadThFTm9QSXl4OXhoYzdhb3J2NHF6RTNGcjZRNw?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-f4c48883338a",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 02:07:00 GMT",
@@ -231,15 +231,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-9d183ccde9c9",
+      "id": "FL-2821cbb61427",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 01:35:35 GMT",
       "ts": 1789436135000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1396人遇难 - news.cnr.cn",
+      "title": "尼泊尔泥石流灾害已致1396人遇难 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JekJsM0phMDJvZWQtN2pXT1hENlRWSjI3UjRIdWQ4TERDQi1jbjVfM2d1SmJyU1JFeE10Sl9ybXM3VGRsVHJucnBBZmdRVmtfZmxXVVNMS2NEeE4zQ2Q1S3YxeTN1SDI2?oc=5",
-      "site": "news.cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
     },
     {
@@ -255,15 +255,15 @@
       "siteUrl": "https://www.ctdsb.net"
     },
     {
-      "id": "FL-5831589d6e49",
+      "id": "FL-c13166f3b420",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 00:46:59 GMT",
       "ts": 1789433219000,
       "scope": "dom",
       "type": "other",
-      "title": "以习近平同志为核心的党中央坚强领导科学指挥2026年防汛抗洪救灾纪实 - qstheory.cn",
+      "title": "以习近平同志为核心的党中央坚强领导科学指挥2026年防汛抗洪救灾纪实 - 求是",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CQ1ZWdmtOdFRiUzBzaC04UVZoVGZ0RmJGVTRseWJrMFdmaktnWVVUcms3UDVTSW9pWFJaNDZ1NnRrZENFQnZ6RmtpZThGQUpxcUVEWE1qQVdUVFg2WkFkaVN2YUxGOXRQQmM3eXloaHYtaG5qMkpFbUY1YzU?oc=5",
-      "site": "qstheory.cn",
+      "site": "求是",
       "siteUrl": "https://www.qstheory.cn"
     },
     {
@@ -315,15 +315,15 @@
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
-      "id": "FL-6cf7c21d78e5",
+      "id": "FL-63616eb5470d",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 14:23:56 GMT",
       "ts": 1789050236000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1382人遇难 - news.cnr.cn",
+      "title": "尼泊尔泥石流灾害已致1382人遇难 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yTVR2OE40OXNCTlpXR2FyR2hncU5haXBVOThJM1VqM2xKYjRMS043Z1c4ZjFUWDA1WVM0QkZkZXFQY1BjOW9Zdjd4MEV5QnlGRVh6WGkyV2t1SHRWc2MzcEp4MXcyV0la?oc=5",
-      "site": "news.cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
     },
     {
@@ -507,15 +507,15 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-7a14c7efe1f8",
+      "id": "FL-3fd6e106fb4f",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 14:48:41 GMT",
       "ts": 1789397321000,
       "scope": "dom",
       "type": "geo",
-      "title": "墨江发生4.5级地震 消防、电力等部门已抵达震中村寨 - kunming.cn",
+      "title": "墨江发生4.5级地震 消防、电力等部门已抵达震中村寨 - 昆明信息港",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wamNQU2FUbk1OeGEtYTBLZ1ZGZUxWcFZ6ZmZIbUc1LTQxaUo2RnVXSWdEZEFXVkdKaDZTYmpudVpzX3F5eFhTY2YtRDcxSmp1SHhscjhCUEhhcTNVYkIwTkJ3OWp4QQ?oc=5",
-      "site": "kunming.cn",
+      "site": "昆明信息港",
       "siteUrl": "https://www.kunming.cn"
     },
     {
@@ -541,7 +541,7 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YZkR4Y0d0X3puNWh4WURpNGl3UUVaXzVEMkVLelFxMWQ3SjlOSHFWcXhEbkdTWmdYRjh1S05GbE55enluN0g0Ulpub21wOEJiRDhTdDl5ZGd2LXhkUGF6TmxzUQ?oc=5",
       "site": "jingjiribao.cn",
       "siteUrl": "http://www.jingjiribao.cn",
-      "related": 43
+      "related": 40
     },
     {
       "id": "FL-EV-18d9b0620c3d",
