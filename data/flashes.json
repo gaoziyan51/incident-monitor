@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T14:29:54.873Z",
+  "updated": "2026-09-15T14:44:12.534Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -85,18 +85,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zWS1YOTJrU1Z0S2ZaSGY3Qmt6RmcyYnF3elJXa0dZRmJ4YTNTZ3psOUZVX21Lb1ktWHVBUFVtRm9aMnU3RXU4U0RGZzMwTk0?oc=5",
       "site": "金十数据",
       "siteUrl": "https://xnews.jin10.com"
-    },
-    {
-      "id": "FL-73d0ba602456",
-      "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 11:38:07 GMT",
-      "ts": 1789472287000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "报告证实日本核电站地震评估造假 不当行为广泛存在 - 中华网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSaDl2Z2poM29OLTZqLWV2Tmo2MDZNLUtSenZiX2tDSFJyZFpqbjJvMEhFVExvWFA2eEtUVEplcDBfemRZTGVCeE5yaFJlX2NCX0dDZVNKeUFKZE82cW50bDNLQWdOYUw2YzE5amVSdjk?oc=5",
-      "site": "中华网",
-      "siteUrl": "https://news.china.com"
     },
     {
       "id": "FL-87f2e31a2e0d",
@@ -267,18 +255,6 @@
       "siteUrl": "https://www.ctdsb.net"
     },
     {
-      "id": "FL-f69be62a9e56",
-      "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 00:50:11 GMT",
-      "ts": 1789433411000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "临沧市耿马县发生2.8级地震 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVko2R3BSX3Bwd2w4R24yelZxbTV6RjBjdnJ6SXJPRnduMXBqdlFxVmVZbC16N2JHQ2ZFME81ajREdXpwald4NS1jeDlnZEQyUy1SeDVWeDVmSUhyUlEyd1ByTWZWYk03WU8tV1p2SjRzaURXZ3pON3pHTGZtS2tIa1RBMnh1MmJ1?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-5831589d6e49",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 00:46:59 GMT",
@@ -291,6 +267,30 @@
       "siteUrl": "https://www.qstheory.cn"
     },
     {
+      "id": "FL-6de1fcbc58d9",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 00:41:22 GMT",
+      "ts": 1789432882000,
+      "scope": "dom",
+      "type": "other",
+      "title": "中央气象台：天 气 公 报（2026年09月15日） - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lZWVRVm9SWWhVYUx6MWpVcWsyZ2p6Zm9mYjF4eExqay1Pb1Q2dWtITWIyMElFMlp1X3ZtVW45VERsQkllQ1Z6WnB5RGlOMEowMlRMbjJhVWR3aXBwNWZKRm5GREQ5ZHdRdnZjdmpYOVR2X1RidVE0cw?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
+    },
+    {
+      "id": "FL-3db79c00f099",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 00:24:06 GMT",
+      "ts": 1789431846000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "云南临沧市耿马县发生2.8级地震 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNGM4dnd5NDh0U0tGOXFjMFRjUkxVNXBaT0xyelRQYTdSZ1hTamwxWUpPTW5ia3ctdGxaRDY4WVB2MVFrYnpzRV9KaGFIM3NMNWExNTlrenotT0JxS1JLM3NVRlZsOVB4WVN5NWoydzJUck5aNnp6TzJDTC1YemtPa0VIVWZxZzhtMVNFdQ?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-a66e299abb48",
       "date": "2026-09-01",
       "dateISO": "Tue, 01 Sep 2026 07:00:00 GMT",
@@ -301,18 +301,6 @@
       "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxQekE0d0ZoUlkzQWpLM0l4TWx5a29mcmZkLXpqTGpKS2VublhpQWlLcTEySVNEcmFscFJhTnNiWmgtUWd5a1JoamtzYWdPR2UzVkZlMkVtdzJLMnAwVFA4RzU5ODB0ZlFWSHpiN3BGU3NwYWdFeXlKNld0ekN5UTVtWHdfWU02Sm5sYmQ1MV96S2pPODVwaGN1aVhKa0NYSHZaNUZ1MS1pakE1VV9PS0FDbFBwY3A0OGl1Vjh1N3VQWm0wbkNNbGdLZDVadlQ1SHhxZmF6eVdkRWhpQUdIQ3NBM3VfeWE5cWh5Wm5OVi1ZUXItUktlUk1hbjVPWGRKamFnYTBROS10QkZHZDViMjQ5aXU1WDJqc3Y0dkpoZm1mVUR1UlAzSnZ0OFBoMERaS0JTemgtUWI5OXhEekhqR0JwTHI1Rmh3bG52LTU0bFdRYUZLQUFYSTJZa19oZEFCclFKX1RwRDJtTlJHZWIxRS1Td1NfTjZub0dQanExTldCVGNDckx0amk4M2Y2NWR1NXJOQWFqLWVfYVR6bF9QR0hmMERZRW5OZW1GaURfSzVXLUxCd1dwUU12M3BJREJLRGt5MUg2R3lHZWhuZ2lQQW9KOXpxX0F2QUs5SXloSkhxTVcxNTNYVS1PaTg1c1E1V2kwZC1LbGNRQUo?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr"
-    },
-    {
-      "id": "FL-354ad3889d4c",
-      "date": "2026-09-10",
-      "dateISO": "Thu, 10 Sep 2026 21:25:53 GMT",
-      "ts": 1789075553000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1374人 - 新浪新闻_手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQncxTG1uTkowQnlxM1pVa3dYcmxPcUJ6NEFMU203Z08tSnU0Q3AxZ2tFaWFXQms5aW9SeW44RmtiOWozTTJCLUIyMkxOMV9qc01lZmxTbC0zeE0xTWFlcGFvUXRkV193OEp1dTVWRmwzWXl4VVJDQWg4MEJESkZsdDRmM2JQOU11Tm5xeVZYQ1dOeFVIVkJCU0pPUmpXZWVNN0FYSERpekM3UUViWlhwV240OFlVVi10WVg1WFRibDgteGczc0FMWmZ3?oc=5",
-      "site": "新浪新闻_手机新浪网",
-      "siteUrl": "https://news.sina.com.cn"
     },
     {
       "id": "FL-221fab767f36",
@@ -363,14 +351,26 @@
       "siteUrl": "http://fj.people.com.cn"
     },
     {
-      "id": "FL-861987facab4",
+      "id": "FL-e4ef799b67f2",
       "date": "2026-08-30",
       "dateISO": "Sun, 30 Aug 2026 07:00:00 GMT",
       "ts": 1788073200000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏泥石流：中国称气候变暖导致惨烈灾难 - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44R3gxYndzaTFVdmhMRjlDRE1fWlNQcGc1dTQxRG85WC1YUTFPbHVmMGNSN1VJNnVDN2sxakFicFZla3NKWXUtTWI2Ymh0ODVQYzBNdUdKRUZ4VUQ5U0hGZW1NZXBHUdIBa0FVX3lxTE5BZmQwdGNTV1RjTHg0N3RHZmFjQmFzajZlZzdTOVFTSEtjWE8wUGY1LVlTeElnOFh1X191TW1kTlc1TzZXTkhOcjFXZ2tqWXZKOXgxbmo0S0I2eklUMk1NN3RLSDdmdy16S2pn?oc=5",
+      "title": "中国：气候变暖导致尼泊尔—西藏泥石流灾难 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44R3gxYndzaTFVdmhMRjlDRE1fWlNQcGc1dTQxRG85WC1YUTFPbHVmMGNSN1VJNnVDN2sxakFicFZla3NKWXUtTWI2Ymh0ODVQYzBNdUdKRUZ4VUQ5U0hGZW1NZXBHUQ?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-89d6589d1504",
+      "date": "2026-08-30",
+      "dateISO": "Sun, 30 Aug 2026 07:00:00 GMT",
+      "ts": 1788073200000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "西藏泥石流：中国审查洪灾冲击口岸画面，当地灾民情况我们所知甚少 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rWlBVcnZhd0NVTDlFZ3hVN3BYR3RLUFpMZEM0eVkwN2JkRXIzM0V0REJXR2FjeDRxUUVqeDBvMUtKU25TUFNDMzJYdHNucTZ4bDBEWkFjazFwZGZEOVJzVlZyNGtiZ9IBa0FVX3lxTFBOT0pTWlZHV0dDQTNJRFExWFdZcGJDZTI3aDVxeDJQNGk4WldjSzRwa1lJRXF3aW1Id1QwVHM0TlNoRWp2SmtvMURjcEZoTG5kaVlSOTlHcFpVMFpxSkp0MnVUX2NGZWZYZk5N?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
     },
