@@ -1,19 +1,7 @@
 {
-  "updated": "2026-09-15T03:24:56.431Z",
+  "updated": "2026-09-15T03:40:15.883Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-42ba1d0df553",
-      "date": "2026-08-26",
-      "dateISO": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "ts": 1787727600000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "西藏土石流：接壤尼泊尔边境山洪暴发 上千人失踪包括多国游客 - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CTG9yTTh6cnplOGJ1TG5PUzFQRkwtNjZTTzFLcEMwYzRWQlhzTVF2eGMyUFRzdWlKYldDSTVRcWNVd2RnbkJWU1prR2FMUVhKeVk4X0c4MVNnbUFCTjItZ0JiN0xvd9IBa0FVX3lxTE1PT1F4VHcyMnlBRE5SdUdLeERKN21TU1VXSkdqTTNnWnE1MTkxNi1Yb1ZqbWQtX2ZVdGwtMFhCZjZsVmgwTi1LNkdwYWtOZTE3dDlIVzNiT3cxOHV2dzdnZF9hY2cwV3dsSi1j?oc=5",
-      "site": "BBC",
-      "siteUrl": "https://www.bbc.com"
-    },
     {
       "id": "FL-674383638b4c",
       "date": "2026-09-02",
@@ -27,6 +15,18 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
+      "id": "FL-203809720332",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 03:32:43 GMT",
+      "ts": 1789443163000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "海南万宁突现龙卷风 无人员伤亡 - chinanews.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wdFdQWWg4U0RIdm1zc0F3ajlQUHRPT2ROZVR5LTZHZUpCNzE1cXhZbzlxcEVpbnpUb2M4Zm1ibFhPOXhzUDRzb3I5aXJxQWQ1WDM0OE5ubkNxYmhCdk4tRzR6aUVXMHFk?oc=5",
+      "site": "chinanews.com.cn",
+      "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
       "id": "FL-08cb7529b0aa",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 03:04:00 GMT",
@@ -37,6 +37,18 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yOHY0OGw4aHZaMmZmLTItWEx1azZJR2Z3WFBvZDNNeGVMQjA1VVlsVVpfV183VnhQM0JpckNtSlVHclg4Mzhkam5ZTkszblJ6aGlramM2SlVkaUN2ZVhCUGNGcENqM1kwb0dhNzhrTzEwYlk?oc=5",
       "site": "观察者网",
       "siteUrl": "https://www.guancha.cn"
+    },
+    {
+      "id": "FL-5ba3222989d6",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 02:47:52 GMT",
+      "ts": 1789440472000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "海南特大暴雨致13个市县停课！ - Malaysia-China Insight",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQUFczYnhjUVVnVDBRUWNGUG1UYU10N05QNEFndWstZUZtSllERjM2WTktN2wxMGxyRjBGNkN2WGhLdElwNk9yOWZBTlJQUENsMGwyTTNrMkVfNUpmVzRsMkQtUW5kaTctMnBtYVBsUGFYY1pHM0ZpYVZ6S3k4cXJOZmFUTUZJNFBaVm1ERDliX2JPSDQ4d1otZThsbjVtZGZ5Z09wOXJuS1RqUnFKRTlMTTcxemZxZUYxbGdmZG80OE9FaE12Smlzd0dNcklUTEdfZ1F5akhkbWdVVTFFSmtoUWt2R0IzdlV6bDNKREpBQlUyNTJNWS13aE1rcXdiMVNC?oc=5",
+      "site": "Malaysia-China Insight",
+      "siteUrl": "https://mcigroup.my"
     },
     {
       "id": "FL-064ca5d40230",
@@ -183,28 +195,16 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-0c3218c3c10e",
+      "id": "FL-41c213f0caac",
       "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 00:44:35 GMT",
-      "ts": 1789433075000,
+      "dateISO": "Tue, 15 Sep 2026 00:29:00 GMT",
+      "ts": 1789432140000,
       "scope": "dom",
       "type": "other",
-      "title": "中央气象台：预计今早至明天，四川、重庆、贵州、云南、广西、广东、海南等地将有短时强降水，局地有雷暴 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObUZEam5yVmtaYXZHR3hQeWJXY2pBVW1JQjdqSTMyRHl2UkxUenpUZURHakZUd3F2aFh2X2VUUUdYX0wtUi1TeUN1LWNQVGZ6eXU0a2tDb2NjeDFLNjVQY3RwSHEtYkU5NU9xaGtUUWpEM2lhcUktZGlMaEZtbGxWQzBnci1BbWpFLVVocQ?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-6947497f9d3e",
-      "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 00:30:00 GMT",
-      "ts": 1789432200000,
-      "scope": "dom",
-      "type": "other",
-      "title": "中央气象台：四川盆地等地持续阴雨天气 - 中国经济网",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92MThPZTRHbFF3b25HT0k1UUtSSkkzNHE4TmlIRjg1U3NXV3JsLXB4dGY1VmRSWWpKWkRLVFlqSGY1ZkR5cE9RaEN6clFzQ1BUVmZpbUE4RktyTWlRR3VSLUlNTTE0SGhfeUcxME9DZw?oc=5",
-      "site": "中国经济网",
-      "siteUrl": "http://www.ce.cn"
+      "title": "中央气象台：四川盆地等地持续阴雨天气 - 中国网新闻中心",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lSmg5WWVIcjNXaGtuS0ZKX3ZDYVFXdkpOZzhvYkliZ3JpOGdocmdEUjEzMUlmTUxCYkNPMlhmd3Nucl92N1l6eldPZzlrVDZhMVJTSmt3UjhUY29xTHlFTi1DcGNxTjZmcm5B?oc=5",
+      "site": "中国网新闻中心",
+      "siteUrl": "http://news.china.com.cn"
     },
     {
       "id": "FL-63616eb5470d",
@@ -458,7 +458,7 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YZkR4Y0d0X3puNWh4WURpNGl3UUVaXzVEMkVLelFxMWQ3SjlOSHFWcXhEbkdTWmdYRjh1S05GbE55enluN0g0Ulpub21wOEJiRDhTdDl5ZGd2LXhkUGF6TmxzUQ?oc=5",
       "site": "jingjiribao.cn",
       "siteUrl": "http://www.jingjiribao.cn",
-      "related": 41
+      "related": 42
     },
     {
       "id": "FL-52fcfdf43df4",
@@ -473,6 +473,18 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
+      "id": "FL-ec8401e7003a",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 12:00:00 GMT",
+      "ts": 1789387200000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "海南五指山遇强降雨，积水涌入房屋4人被困，消防员拖橡皮艇转移 - bjnews.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtOVJwd3hJY0N0MjlhWE9YcDZpMURWeml2YUJnVTA0WURJNVQxQ2pTZjVEWlBnb2VEbXpSeU51VEswbi1zaVlRRUdUejM5bDBWU2J4QUFGVXEtUmRlWEtGa0k4ZkM?oc=5",
+      "site": "bjnews.com.cn",
+      "siteUrl": "https://www.bjnews.com.cn"
+    },
+    {
       "id": "FL-18064121c86e",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 11:54:00 GMT",
@@ -483,18 +495,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoSHdWOTltc2tKRzdVMDdHa2VfaVd2VUh6RWcwaEw1N2pwaTVBMlZzVlhjMDNnN09wdDFmNHRuM2sxN3FjMVVYRzBUMHIwNkU2YUo4UHRzVFVJU2ExVXN4UA?oc=5",
       "site": "thepaper.cn",
       "siteUrl": "https://www.thepaper.cn"
-    },
-    {
-      "id": "FL-ec8401e7003a",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 10:27:00 GMT",
-      "ts": 1789381620000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "海南五指山遇强降雨，积水涌入房屋4人被困，消防员拖橡皮艇转移 - bjnews.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtOVJwd3hJY0N0MjlhWE9YcDZpMURWeml2YUJnVTA0WURJNVQxQ2pTZjVEWlBnb2VEbXpSeU51VEswbi1zaVlRRUdUejM5bDBWU2J4QUFGVXEtUmRlWEtGa0k4ZkM?oc=5",
-      "site": "bjnews.com.cn",
-      "siteUrl": "https://www.bjnews.com.cn"
     },
     {
       "id": "FL-4223b0016e20",
@@ -677,16 +677,16 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-cf557d871235",
+      "id": "FL-b133a2e7d7d9",
       "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 03:39:50 GMT",
-      "ts": 1789357190000,
+      "dateISO": "Mon, 14 Sep 2026 03:19:10 GMT",
+      "ts": 1789355950000,
       "scope": "dom",
       "type": "geo",
-      "title": "中国地震局：正与苹果公司沟通，力争加快推进地震预警信息接入iOS系统丨C视频 - 四川新闻",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9MSzhKUFpFZzJQemJJbzlxaHg3REZnRTN6RkJ1MW8xYzFfSDJyT0tzWmlPX2x2b0dsUmU0YVN1a0U0ZEZzSHJKTVpfSk90THk4WlpOTFFHeXJZWTUxWVc1bUVVYw?oc=5",
-      "site": "四川新闻",
-      "siteUrl": "https://sichuan.scol.com.cn"
+      "title": "苹果手机接入地震预警信息受关注，中国地震局多次表态加快推进 - Jiemian.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QMHEwa2NCVC1acGYxSVUyR2QtX2tERmFHYVVCazYzN0JTSFV2dXN1S1F4TTF1dS1TVk1lUWNIaDA1SkZ2YzFkWVpJeFZ0LWFEVmQzMHlsYmI?oc=5",
+      "site": "Jiemian.com",
+      "siteUrl": "https://www.jiemian.com"
     },
     {
       "id": "FL-b0e8286a093d",
