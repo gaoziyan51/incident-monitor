@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T09:44:10.871Z",
+  "updated": "2026-09-15T09:58:37.994Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -304,6 +304,30 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
+      "id": "FL-a8313f5d9c0f",
+      "date": "2026-09-08",
+      "dateISO": "Tue, 08 Sep 2026 23:47:52 GMT",
+      "ts": 1788911272000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "江西遂川高坪镇泥石流已致12人遇难 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YRjA1MkdaZ2E3TkQyaGx0QWlKOXJpX3JMcHA3R0J0UXpQQTcwRlpFNWZSamp1NHNwc1N2Wm9Lb1ltdlZ2QjNIaTcxZThFTTc3S0VhSjBkY05HOWRlOHBjdFQxQ2hTN2sydzZESWVQMGQ?oc=5",
+      "site": "中国科技网",
+      "siteUrl": "https://www.stdaily.com"
+    },
+    {
+      "id": "FL-a66e299abb48",
+      "date": "2026-09-01",
+      "dateISO": "Tue, 01 Sep 2026 07:00:00 GMT",
+      "ts": 1788246000000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "法国报纸摘要 - 尼泊尔仍未解除对中国在这次泥石流洪灾中应负责任的怀疑 - RFI",
+      "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxQekE0d0ZoUlkzQWpLM0l4TWx5a29mcmZkLXpqTGpKS2VublhpQWlLcTEySVNEcmFscFJhTnNiWmgtUWd5a1JoamtzYWdPR2UzVkZlMkVtdzJLMnAwVFA4RzU5ODB0ZlFWSHpiN3BGU3NwYWdFeXlKNld0ekN5UTVtWHdfWU02Sm5sYmQ1MV96S2pPODVwaGN1aVhKa0NYSHZaNUZ1MS1pakE1VV9PS0FDbFBwY3A0OGl1Vjh1N3VQWm0wbkNNbGdLZDVadlQ1SHhxZmF6eVdkRWhpQUdIQ3NBM3VfeWE5cWh5Wm5OVi1ZUXItUktlUk1hbjVPWGRKamFnYTBROS10QkZHZDViMjQ5aXU1WDJqc3Y0dkpoZm1mVUR1UlAzSnZ0OFBoMERaS0JTemgtUWI5OXhEekhqR0JwTHI1Rmh3bG52LTU0bFdRYUZLQUFYSTJZa19oZEFCclFKX1RwRDJtTlJHZWIxRS1Td1NfTjZub0dQanExTldCVGNDckx0amk4M2Y2NWR1NXJOQWFqLWVfYVR6bF9QR0hmMERZRW5OZW1GaURfSzVXLUxCd1dwUU12M3BJREJLRGt5MUg2R3lHZWhuZ2lQQW9KOXpxX0F2QUs5SXloSkhxTVcxNTNYVS1PaTg1c1E1V2kwZC1LbGNRQUo?oc=5",
+      "site": "RFI",
+      "siteUrl": "https://www.rfi.fr"
+    },
+    {
       "id": "FL-354ad3889d4c",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 21:25:53 GMT",
@@ -328,15 +352,15 @@
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
-      "id": "FL-6cf7c21d78e5",
+      "id": "FL-63616eb5470d",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 14:23:56 GMT",
       "ts": 1789050236000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1382人遇难 - news.cnr.cn",
+      "title": "尼泊尔泥石流灾害已致1382人遇难 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yTVR2OE40OXNCTlpXR2FyR2hncU5haXBVOThJM1VqM2xKYjRMS043Z1c4ZjFUWDA1WVM0QkZkZXFQY1BjOW9Zdjd4MEV5QnlGRVh6WGkyV2t1SHRWc2MzcEp4MXcyV0la?oc=5",
-      "site": "news.cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
     },
     {
@@ -448,18 +472,6 @@
       "siteUrl": "https://www.jiemian.com"
     },
     {
-      "id": "FL-a97849fe88f5",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 22:39:00 GMT",
-      "ts": 1789425540000,
-      "scope": "dom",
-      "type": "other",
-      "title": "中央气象台：今早至明早，四川、重庆、贵州、云南、广西、广东、海南等局地将有短时强降水 - thepaper.cn",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3bDdFYTZfMEd3c3JKT0FaNDFKOUxEUWtkNzF6SGdZVHprelE3WlRISllLV1djdlJ6ZmNON2NKRHplcFFkQi1XNUluRWlRa2JOLU04SGNSX2dvaUx4ckE?oc=5",
-      "site": "thepaper.cn",
-      "siteUrl": "https://m.thepaper.cn"
-    },
-    {
       "id": "FL-04dfef2ac790",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 22:00:05 GMT",
@@ -554,7 +566,7 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YZkR4Y0d0X3puNWh4WURpNGl3UUVaXzVEMkVLelFxMWQ3SjlOSHFWcXhEbkdTWmdYRjh1S05GbE55enluN0g0Ulpub21wOEJiRDhTdDl5ZGd2LXhkUGF6TmxzUQ?oc=5",
       "site": "jingjiribao.cn",
       "siteUrl": "http://www.jingjiribao.cn",
-      "related": 45
+      "related": 47
     },
     {
       "id": "FL-97b6812763e3",
@@ -591,18 +603,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uNDBjczhUeG1uNVZCdUtvVUM4bmc4ZklDZU5TaGRSV1JlVlA2d0xITGJueVRsTmlBdDBhU09UWnBwa1FpbXd5S0lNcTlod0VzMU5GVFIyQjEzWFo4NFRIRUViQVpiQ3JL?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-9aff4dbf8471",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 07:57:16 GMT",
-      "ts": 1789372636000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "海南全力防御强降雨 已紧急转移群众3.1万余人 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GWk55OWlfRGU5R1JLVUFUZXVPV1BjWkpsUjBCS0RtTVZIQjRkdV91RDRQQ25vSWNuOF9WQVpURHF4N19tejBlUVpGMko5b09IS2VscFZwYVpKRDhFVUphaGItN0Z5bFRJLXlDZ2VSYmdDUFNhSWZmcjMxdzdIN2c?oc=5",
-      "site": "新华网",
-      "siteUrl": "http://www.news.cn"
     },
     {
       "id": "FL-def32ff8029f",
@@ -713,15 +713,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-1f922e81d5d0",
+      "id": "FL-4eae82f67e26",
       "date": "2026-08-28",
       "dateISO": "Fri, 28 Aug 2026 07:00:00 GMT",
       "ts": 1787900400000,
       "scope": "dom",
       "type": "geo",
-      "title": "高位冰崩如何演变为泥石流 - 人民日报",
+      "title": "高位冰崩如何演变为泥石流 - paper.people.com.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wVUROYWpQa1YzUGZEYzZWLXRZNWF4ck5FV281OC1DOEFMWDZBV2xyQXoxUHZ4SU5HbjRXcnZFZ2VYYWtWV2dEQUUyTE1WdEJaRXFhamNubndKc0dlZjZNRGZDNEhEY0tZd0w1REx2WGVhbmhQYy1DQ2RyXzZzTlU?oc=5",
-      "site": "人民日报",
+      "site": "paper.people.com.cn",
       "siteUrl": "http://paper.people.com.cn"
     }
   ]
