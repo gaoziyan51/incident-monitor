@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T15:24:41.758Z",
+  "updated": "2026-09-15T15:38:52.640Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -352,15 +352,15 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-221fab767f36",
+      "id": "FL-e0b20b7e83b1",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 15:24:23 GMT",
       "ts": 1789053863000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏网警：网民恶意对比他国歪曲中国泥石流救援被罚 - zaobao.com.sg",
+      "title": "西藏网警：网民恶意对比他国歪曲中国泥石流救援被罚 - 联合早报",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41YTFMaV8talhpWGRhdjJlWng2bThUdEwyTEFvbEgySFBYNDdaQUFXcW5sN3NOT3I3WGpINmVSenFmR1JWMVpYTTZ3R2swOExDVDc0WVJGR0ttWXAwWjdaSWh3NnFBMUpLUWc?oc=5",
-      "site": "zaobao.com.sg",
+      "site": "联合早报",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
@@ -388,15 +388,15 @@
       "siteUrl": "https://www.bjnews.com.cn"
     },
     {
-      "id": "FL-31aaf7309a8a",
+      "id": "FL-20349e76752b",
       "date": "2026-09-03",
       "dateISO": "Thu, 03 Sep 2026 07:00:00 GMT",
       "ts": 1788418800000,
       "scope": "dom",
       "type": "weather",
-      "title": "台风“沙德尔”带来强降雨，福建全力抢险救援 - 人民网-福建频道",
+      "title": "台风“沙德尔”带来强降雨，福建全力抢险救援 - fj.people.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9idjB1WHk1RmxjaXpsRFVqTmtSUXdDbEcwVlp0d2k5TnNndmxBNXhhV0syZmdBVlVCQzZuZk56cmNGeWFCYnp5SkVxaFFvbGQ0TXoxalUyeFJtRHJfa2l2TVhBRXJVQWVfM0E?oc=5",
-      "site": "人民网-福建频道",
+      "site": "fj.people.com.cn",
       "siteUrl": "http://fj.people.com.cn"
     },
     {
@@ -532,18 +532,6 @@
       "siteUrl": "https://www.kunming.cn"
     },
     {
-      "id": "FL-9166fc8fde39",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 13:40:44 GMT",
-      "ts": 1789393244000,
-      "scope": "dom",
-      "type": "other",
-      "title": "海南山海高速一隧道口发生边坡塌方险情 正全力抢险保通 - chinanews.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RM1l0ek5yR01wX1d5Vkd1bEpLa1Jvck5pd2pFUlZJZ1lDSWxOQVVQeElqNlpQb2NYQzVQbmJHbVpQdkdoU1FtVHY4eHdOU25nSDVhSXg5b2pMUFh6Y3d5NHJLTWc0SmJFVjhkMS1weVU?oc=5",
-      "site": "chinanews.com.cn",
-      "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
       "id": "FL-EV-f283a898090a",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 12:35:25 GMT",
@@ -651,6 +639,18 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9MSzhKUFpFZzJQemJJbzlxaHg3REZnRTN6RkJ1MW8xYzFfSDJyT0tzWmlPX2x2b0dsUmU0YVN1a0U0ZEZzSHJKTVpfSk90THk4WlpOTFFHeXJZWTUxWVc1bUVVYw?oc=5",
       "site": "四川新闻",
       "siteUrl": "https://sichuan.scol.com.cn"
+    },
+    {
+      "id": "FL-b133a2e7d7d9",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 03:19:10 GMT",
+      "ts": 1789355950000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "苹果手机接入地震预警信息受关注，中国地震局多次表态加快推进 - Jiemian.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QMHEwa2NCVC1acGYxSVUyR2QtX2tERmFHYVVCazYzN0JTSFV2dXN1S1F4TTF1dS1TVk1lUWNIaDA1SkZ2YzFkWVpJeFZ0LWFEVmQzMHlsYmI?oc=5",
+      "site": "Jiemian.com",
+      "siteUrl": "https://www.jiemian.com"
     },
     {
       "id": "FL-80ecb3992f9c",
