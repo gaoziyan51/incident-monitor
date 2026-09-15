@@ -35,6 +35,10 @@ jobs:
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add -f data/wecom-patrol-state.json
-            git commit -m "chore(data): update wecom patrol state $(date -u +'%Y-%m-%d %H:%M UTC')"
-            git push
+            git commit -m "chore(data): update wecom patrol state $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "nothing to commit"
+            for i in 1 2 3; do
+              git pull --rebase origin main && git push && break
+              echo "push retry $i..."
+              sleep 10
+            done
           fi
