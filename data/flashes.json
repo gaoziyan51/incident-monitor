@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T01:07:45.631Z",
+  "updated": "2026-09-15T01:25:24.004Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -27,6 +27,30 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
+      "id": "FL-88cb2f4ee281",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 01:10:28 GMT",
+      "ts": 1789434628000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "普洱墨江4.5级地震 道路、水路、民航运输正常 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcnlPdEtkYjFSTk1fY21IbnM0OGlaWElzSzNVVHZxTXdhSkc2bi1POWNmVTFhb2VtaVVzMEhFcWdHbTQ1MW54T3lMRXJPWmlTbVd2N1Q3bUJKZEQtRHlrd012aUtMd1VqWVlXeWJvRU5zbnhoT1YtZEstaEpqNHhobmZPQnowalN6am1aSA?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-65bd0647c27b",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 01:09:23 GMT",
+      "ts": 1789434563000,
+      "scope": "dom",
+      "type": "other",
+      "title": "始终把人民生命安全放在首位——以习近平同志为核心的党中央坚强领导科学指挥2026年防汛抗洪救灾纪实 - news.ifeng.com",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5WS1Q4V0xtZHdEQUdtX3pkQThaMkU5LVRJbGE5Z3JzQXZFUzZTY29HbG50MGhVQTdRaURSbngzVkJVUmZ0WlRBemxDWVQ?oc=5",
+      "site": "news.ifeng.com",
+      "siteUrl": "https://news.ifeng.com"
+    },
+    {
       "id": "FL-f69be62a9e56",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 00:50:11 GMT",
@@ -37,18 +61,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVko2R3BSX3Bwd2w4R24yelZxbTV6RjBjdnJ6SXJPRnduMXBqdlFxVmVZbC16N2JHQ2ZFME81ajREdXpwald4NS1jeDlnZEQyUy1SeDVWeDVmSUhyUlEyd1ByTWZWYk03WU8tV1p2SjRzaURXZ3pON3pHTGZtS2tIa1RBMnh1MmJ1?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-bd8a30c2d406",
-      "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 00:45:25 GMT",
-      "ts": 1789433125000,
-      "scope": "dom",
-      "type": "other",
-      "title": "以习近平同志为核心的党中央坚强领导科学指挥2026年防汛抗洪救灾纪实 - 青岛日报",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzUlA4VFNWQkZOamp4aW1MMl9VenptMWNGS3N2Z19mUzRZMTIzMHprVFhQNVJ4REdYOWpIUEF6REFNSU84RVRjZVcxdnhwTnVtbnVYRnpNWWw?oc=5",
-      "site": "青岛日报",
-      "siteUrl": "https://www.dailyqd.com"
     },
     {
       "id": "FL-0c3218c3c10e",
@@ -362,7 +374,7 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YZkR4Y0d0X3puNWh4WURpNGl3UUVaXzVEMkVLelFxMWQ3SjlOSHFWcXhEbkdTWmdYRjh1S05GbE55enluN0g0Ulpub21wOEJiRDhTdDl5ZGd2LXhkUGF6TmxzUQ?oc=5",
       "site": "jingjiribao.cn",
       "siteUrl": "http://www.jingjiribao.cn",
-      "related": 40
+      "related": 42
     },
     {
       "id": "FL-52fcfdf43df4",
@@ -557,15 +569,15 @@
       "siteUrl": "https://news.ifeng.com"
     },
     {
-      "id": "FL-def32ff8029f",
+      "id": "FL-e74d67111657",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 07:33:35 GMT",
       "ts": 1789371215000,
       "scope": "intl",
       "type": "geo",
-      "title": "印尼亚齐特区发生山体滑坡 已致1死13伤 - 央视网",
+      "title": "印尼亚齐特区发生山体滑坡 已致1死13伤 - news.cctv.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mYmtPZ21ZUzhQZnBlQWM4M1M5ME5pV2lhSEtNRmFUUlNBdEZneTRTRzRrZzF1bGZMWTBIVkdtSGN0SERGMWNlTnNMeTdTY0tFRWFRSjFaVGlmME1sNko3VWRockVLVnNmV0Nkc0tmNURKR3hnZC0ySw?oc=5",
-      "site": "央视网",
+      "site": "news.cctv.com",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -605,18 +617,6 @@
       "siteUrl": "https://static.nfnews.com"
     },
     {
-      "id": "FL-3f83d56fefde",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 05:50:33 GMT",
-      "ts": 1789365033000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "海南多地遭遇强降雨险情频发 消防紧急救援 - chinanews.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDbkw5X0VCZkh4SUkxZ1A0bkFxSkFlT1Y1QnlpVl9UQnpNaml5UW9XQ0Z4VDh6UW9MUnowcHZuVHREc2FBLURIZHV0TWRtOElIclNKRk5aQkM2Yjd0cmRzNndrdFVqSVZf?oc=5",
-      "site": "chinanews.com.cn",
-      "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
       "id": "FL-ce1038bedac8",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 05:33:00 GMT",
@@ -639,18 +639,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56Y21wR2VWa2t0NW1BVVFOcjhQSDRUVnVnWlBXcTFBZDBNYndoaUVkTkNUcEFpUzg4MDhUYlhGOGZqbXl6UENGd1FWdTlLQVlBdWtRTmtoMmp1amp6TzhsM09fTjEzTVRF?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-dbe70b53bbc8",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 04:20:08 GMT",
-      "ts": 1789359608000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "转移群众4.2万余人 海南多地全力迎战强降雨防汛救灾 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1iMS0zLTE0SDUzbUQyVnF6U2h1QTFQYUNTdXFDNmVpSUJFSzBMOE5mcFBJTUwyS3N2cV9WN1BUbVJYTGpWeGJELXRrOGtkc0NEdFI4QjBlRk5VZi1QRlUtOUR5UkYyZVluZlJN?oc=5",
-      "site": "央广网",
-      "siteUrl": "https://www.cnr.cn"
     },
     {
       "id": "FL-cf557d871235",
@@ -677,15 +665,15 @@
       "siteUrl": "https://www.jiemian.com"
     },
     {
-      "id": "FL-80ecb3992f9c",
+      "id": "FL-6c7570b3f8a2",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 02:37:22 GMT",
       "ts": 1789353442000,
       "scope": "dom",
       "type": "geo",
-      "title": "中国地震台网中心正就地震预警信息接入iOS系统与苹果公司沟通 - 央视网",
+      "title": "中国地震台网中心正就地震预警信息接入iOS系统与苹果公司沟通 - news.cctv.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzVHZybTB5dmZYTU1QdnZUM2VxSi1DdTdxVDg5LWZnY0E2bGtINktmM0NINFlOYnp2R2phTG5BSGE4c3czeFdhcVBvQXpwVXJmckFHT1g5ZUFRNm9mVFZqamdUQnA5N3hDeDlMdXhrZXhSMGlwYm5pNQ?oc=5",
-      "site": "央视网",
+      "site": "news.cctv.com",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -723,6 +711,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SMU9aYk1ieDUtRUYxczloUTVubHBZc2VCWlBtbGlLNmRWdXFGZ2xvUWhfSHZqVS0wYndtZzhUZGZDZlBiQlU0WDV2NUh5bkE1M1VtZURfZWRMaTR4SU4waWJHYXdFd9IBa0FVX3lxTFA3TVBheHVtYmo2X1ppZlgzNnhYZnc3eU9MOUVybUZlUGh0QXMwTklhWXktUm9Bcnh1dVdGcUZvZlVrWGQxTlNKX2xxVV9PRzBRSmR3QWdURDRZVEhja0loSWxWN2RtRmJxR1Y4?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-6858037717b9",
+      "date": "2026-09-11",
+      "dateISO": "Fri, 11 Sep 2026 11:01:00 GMT",
+      "ts": 1789124460000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害遇难人数升至1386人，失联5130人 - 封面新闻",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YWko2a0l6Z3JYZTI5R3pRMFRBZVlwcFdDQkVMb0t3NmdHUzZ0ME5LTU5kcXhjSW56TjdqQU8zQWpBR0ZySnlkcXY4d184VnRZVDJqNXhNWElXcTFhbWhZX29FMHB5NFJJNnZOdVo3SGFYMENlbHFN?oc=5",
+      "site": "封面新闻",
+      "siteUrl": "https://m.thecover.cn"
     }
   ]
 }
