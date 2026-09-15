@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T16:06:53.057Z",
+  "updated": "2026-09-15T16:22:46.605Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -25,6 +25,19 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfWmowNGIyc200QU1ESDVxbC1hdmdLWUlCQXNHazV6aVdvY1FYMGFySHFueG50UGc3Q2Z2ZUVXaWNtbUQtNlBMWkRDLU01T2R5blhnY2UtSUR5ZUdHaWt5YWszOFRFQdIBa0FVX3lxTE5ncUFxSTZyWVZGQ05yLWwtOGVLS01kb2lsNjY5cVNfU1VlN1hWSjFtUEx4eEpObTY3c3F5czNZeElUM01KaU5uVF9NQ2FDdGlMY29tbi16UFluSkVGSzFkNXJHZFFTOUU5eW80?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-EV-f283a898090a",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 16:15:32 GMT",
+      "ts": 1789488932000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "尼泊尔泥石流： 灾害到底发生在什么时间？谁上传了吉隆口岸的视频？ - RFI",
+      "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
+      "site": "RFI",
+      "siteUrl": "https://www.rfi.fr",
+      "related": 41
     },
     {
       "id": "FL-221f4d43a11f",
@@ -63,15 +76,15 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
-      "id": "FL-487c524ea84d",
+      "id": "FL-0b8b148a6522",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 13:23:00 GMT",
       "ts": 1789478580000,
       "scope": "dom",
       "type": "geo",
-      "title": "最后一名失联人员被找到，江西遂川泥石流灾害共造成13人遇难 - finance.sina.com.cn",
+      "title": "最后一名失联人员被找到，江西遂川泥石流灾害共造成13人遇难 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNcWFDS213NjdsSjlHNTluVVp3VjdJV3k0N1Jha2l5SFpLNGpZQTFzLUNGc1g4Z0p3MWJBdUU5Ylpnam1uLXQ2cC1yOXJaRGlKeEhYSTdfRUQxcTlzVmppU0VLQV9yR1ZhclRyUWZrUEFYNVR2cjZtZA?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -195,15 +208,15 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-a63bb04c1579",
+      "id": "FL-115d96134d0b",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 04:50:00 GMT",
       "ts": 1789447800000,
       "scope": "dom",
       "type": "weather",
-      "title": "海南持续强降雨！多地停课！已转移危险区域群众5.5万余人 - finance.sina.com.cn",
+      "title": "海南持续强降雨！多地停课！已转移危险区域群众5.5万余人 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Kb0oyclZmaWVzLUptUEZKUUxvMXgzZU1wVlBiM3J4d0RXU081MWN6UGh4WlpTdTU5TGVGUlA0dE5sYUowWDVUcVg0QmljNDFHTFljRE11aEgyZXlUNURVczhIQ0JoY1pRS0VsZnR5VGx6eUNnRm9CUg?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -243,18 +256,6 @@
       "siteUrl": "https://news.ifeng.com"
     },
     {
-      "id": "FL-f4c48883338a",
-      "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 02:07:00 GMT",
-      "ts": 1789438020000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "海南保亭：特大暴雨制造险情 消防及时救援 - hi.chinanews.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XWGhURUg5SjRJQzBTNHNPR0REVDdyTmVJZXN3R0I0MGNhdXIyTnZJLTJHcUEzME1KU1NqTjhRdGFtY1IwQ2s5RmZNZzlZbmxiWDFJdllYWl9WTmZ3R2w2ZG5PRE9KZmFBOE5BUg?oc=5",
-      "site": "hi.chinanews.com.cn",
-      "siteUrl": "https://www.hi.chinanews.com.cn"
-    },
-    {
       "id": "FL-4a10e16c9edb",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 02:01:15 GMT",
@@ -275,6 +276,18 @@
       "type": "weather",
       "title": "暴雨致海南五指山交通断联，道路抢险人员：“全线作战” - chinanews.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OVEltWkpxZnRkT1B3NFIydFZfX0pkcExHd1JIek5NNjFTb1Joa21adnpXRDJULUctZG12WnpiMlAyODhGT3B4am9WaUtOR1RHRk1saG9XUjJ0TS1mcUFLM3d5ZHdOdTVG?oc=5",
+      "site": "chinanews.com.cn",
+      "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
+      "id": "FL-f29a2c5f0373",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 01:41:26 GMT",
+      "ts": 1789436486000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "海南保亭：特大暴雨制造险情 消防及时救援 - chinanews.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Oc2lTU1RkTEVGVDRqeVJVOVdqcE5OTE50S0d4WG9hS2VzVEZsNlEtV3dwY2NuTU5XcEZ6TVRzcWhlWEFFUWxXdk11NVdvY1NrazJNUTFZR0htRnNwWFpfWGVWcVVrN0VD?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
     },
@@ -301,7 +314,7 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaWxheDZiNmllbi1JamJiRjFCMnVBczI2Q0t3Rl9sNEN2Y01oWlhKanJjWWprOXpobjBjYjNqVjJtVEZ6eFBON0ZSV0p2dWN6YnNjaXpmcW9GZ1VkWU1RNk1vRldacmFxQVd0b2ROSDdmV0xEZUNUSUhReV8zRDlWQWExY21selE1aXc?oc=5",
       "site": "jpchinapress.com",
       "siteUrl": "https://www.jpchinapress.com",
-      "related": 19
+      "related": 20
     },
     {
       "id": "FL-c13166f3b420",
@@ -424,15 +437,15 @@
       "siteUrl": "https://m.voc.com.cn"
     },
     {
-      "id": "FL-5ab622930f3d",
+      "id": "FL-bbfe15da4216",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 02:59:27 GMT",
       "ts": 1789268367000,
       "scope": "intl",
       "type": "geo",
-      "title": "内蒙古阿拉善盟阿拉善左旗发生3.6级地震，震源深度8千米 - news.cctv.com",
+      "title": "内蒙古阿拉善盟阿拉善左旗发生3.6级地震，震源深度8千米 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByQlJLRGFrT0M4ZHc3SURQcGFZeGxSMFp5Y3owUmpfblZQNGJEQjJUVTFZUmdDdi11OTJkc3hicDVhV2pISE9UQnBET194ZmMxbDhadU5YLW83N2FwQUtjSFBhUDk2Z2k2Q2NlUWJpTzRhU0gwSWNzNQ?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -484,15 +497,15 @@
       "siteUrl": "https://www.jiemian.com"
     },
     {
-      "id": "FL-76346043055b",
+      "id": "FL-5189ab2d1634",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 22:58:00 GMT",
       "ts": 1789426680000,
       "scope": "dom",
       "type": "geo",
-      "title": "新疆和田地区皮山县发生3.0级地震，震源深度15千米 - finance.sina.com.cn",
+      "title": "新疆和田地区皮山县发生3.0级地震，震源深度15千米 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOZUdpMDc5NFRhLXBabjQ5ZTZZMUt5QjNicW43cjVWTDRNanlDRVoxeHo3enA1VDFiN2E0b2RvUldLSkVzOE9tVHo0aVZTclNUV0JLUEdPSW5BaXNpQzRpblVyWFY3Zm5OVjJ6dVpMN1pyVlEtRnpSRg?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -532,19 +545,6 @@
       "siteUrl": "https://www.kunming.cn"
     },
     {
-      "id": "FL-EV-f283a898090a",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 12:35:25 GMT",
-      "ts": 1789389325000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "视频｜中方已通报吉隆泥石流灾害失联外籍人员家属DNA采集办法 - jingjiribao.cn",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YZkR4Y0d0X3puNWh4WURpNGl3UUVaXzVEMkVLelFxMWQ3SjlOSHFWcXhEbkdTWmdYRjh1S05GbE55enluN0g0Ulpub21wOEJiRDhTdDl5ZGd2LXhkUGF6TmxzUQ?oc=5",
-      "site": "jingjiribao.cn",
-      "siteUrl": "http://www.jingjiribao.cn",
-      "related": 41
-    },
-    {
       "id": "FL-97b6812763e3",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 09:52:58 GMT",
@@ -581,15 +581,15 @@
       "siteUrl": "http://www.news.cn"
     },
     {
-      "id": "FL-e74d67111657",
+      "id": "FL-def32ff8029f",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 07:33:35 GMT",
       "ts": 1789371215000,
       "scope": "intl",
       "type": "geo",
-      "title": "印尼亚齐特区发生山体滑坡 已致1死13伤 - news.cctv.com",
+      "title": "印尼亚齐特区发生山体滑坡 已致1死13伤 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mYmtPZ21ZUzhQZnBlQWM4M1M5ME5pV2lhSEtNRmFUUlNBdEZneTRTRzRrZzF1bGZMWTBIVkdtSGN0SERGMWNlTnNMeTdTY0tFRWFRSjFaVGlmME1sNko3VWRockVLVnNmV0Nkc0tmNURKR3hnZC0ySw?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -653,15 +653,15 @@
       "siteUrl": "https://focus.scol.com.cn"
     },
     {
-      "id": "FL-6c7570b3f8a2",
+      "id": "FL-80ecb3992f9c",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 02:37:22 GMT",
       "ts": 1789353442000,
       "scope": "dom",
       "type": "geo",
-      "title": "中国地震台网中心正就地震预警信息接入iOS系统与苹果公司沟通 - news.cctv.com",
+      "title": "中国地震台网中心正就地震预警信息接入iOS系统与苹果公司沟通 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzVHZybTB5dmZYTU1QdnZUM2VxSi1DdTdxVDg5LWZnY0E2bGtINktmM0NINFlOYnp2R2phTG5BSGE4c3czeFdhcVBvQXpwVXJmckFHT1g5ZUFRNm9mVFZqamdUQnA5N3hDeDlMdXhrZXhSMGlwYm5pNQ?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -689,15 +689,15 @@
       "siteUrl": "https://m.guancha.cn"
     },
     {
-      "id": "FL-8055e2a9a3dc",
+      "id": "FL-6bd4ba852002",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 00:01:00 GMT",
       "ts": 1789344060000,
       "scope": "dom",
       "type": "geo",
-      "title": "中国地震台网中心正就地震预警信息接入iOS系统与苹果公司沟通 - finance.sina.com.cn",
+      "title": "中国地震台网中心正就地震预警信息接入iOS系统与苹果公司沟通 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZVU5NHdxWmduaTB2Rkl1bHkyY09DNmZBc0ZOaUwyY0M4dzJlVmdtS2xVSzJRVFZPRnFfc0w5MXJhX2dVdGdnUF9LMlZPR01oOHFKbVd3NjlnNXlGUC1acEhic2lVN3lWZDBvZXJRYVdncTBuZG5pdHJ0bDk5MkUzV2JEZUNDbkU?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -713,15 +713,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-4eae82f67e26",
+      "id": "FL-1f922e81d5d0",
       "date": "2026-08-28",
       "dateISO": "Fri, 28 Aug 2026 07:00:00 GMT",
       "ts": 1787900400000,
       "scope": "dom",
       "type": "geo",
-      "title": "高位冰崩如何演变为泥石流 - paper.people.com.cn",
+      "title": "高位冰崩如何演变为泥石流 - 人民日报",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wVUROYWpQa1YzUGZEYzZWLXRZNWF4ck5FV281OC1DOEFMWDZBV2xyQXoxUHZ4SU5HbjRXcnZFZ2VYYWtWV2dEQUUyTE1WdEJaRXFhamNubndKc0dlZjZNRGZDNEhEY0tZd0w1REx2WGVhbmhQYy1DQ2RyXzZzTlU?oc=5",
-      "site": "paper.people.com.cn",
+      "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn"
     }
   ]
