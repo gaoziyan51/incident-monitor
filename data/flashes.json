@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T09:08:50.824Z",
+  "updated": "2026-09-15T09:28:34.425Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -13,6 +13,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CTG9yTTh6cnplOGJ1TG5PUzFQRkwtNjZTTzFLcEMwYzRWQlhzTVF2eGMyUFRzdWlKYldDSTVRcWNVd2RnbkJWU1prR2FMUVhKeVk4X0c4MVNnbUFCTjItZ0JiN0xvd9IBa0FVX3lxTE1PT1F4VHcyMnlBRE5SdUdLeERKN21TU1VXSkdqTTNnWnE1MTkxNi1Yb1ZqbWQtX2ZVdGwtMFhCZjZsVmgwTi1LNkdwYWtOZTE3dDlIVzNiT3cxOHV2dzdnZF9hY2cwV3dsSi1j?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-677dc499b4ba",
+      "date": "2026-09-09",
+      "dateISO": "Wed, 09 Sep 2026 08:47:00 GMT",
+      "ts": 1788943620000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害遇难人数升至1374人 - 封面新闻",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zVXZBNHFBdWFOQlRXOUc3QmRyZDVJUnBQS1ZyMkFNTXUwd0NnbXZGNGZjNVNWZW43LTFVeXZhQmczcVBLSFBlTWZ3VjBud0VudW1JNmdoaDdFckptc01nSWI0dVBLTS1MR1ByMUhRbW52RmFCUXlN?oc=5",
+      "site": "封面新闻",
+      "siteUrl": "https://m.thecover.cn"
     },
     {
       "id": "FL-674383638b4c",
@@ -304,28 +316,16 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-354ad3889d4c",
-      "date": "2026-09-10",
-      "dateISO": "Thu, 10 Sep 2026 21:25:53 GMT",
-      "ts": 1789075553000,
+      "id": "FL-a66e299abb48",
+      "date": "2026-09-01",
+      "dateISO": "Tue, 01 Sep 2026 07:00:00 GMT",
+      "ts": 1788246000000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1374人 - 新浪新闻_手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQncxTG1uTkowQnlxM1pVa3dYcmxPcUJ6NEFMU203Z08tSnU0Q3AxZ2tFaWFXQms5aW9SeW44RmtiOWozTTJCLUIyMkxOMV9qc01lZmxTbC0zeE0xTWFlcGFvUXRkV193OEp1dTVWRmwzWXl4VVJDQWg4MEJESkZsdDRmM2JQOU11Tm5xeVZYQ1dOeFVIVkJCU0pPUmpXZWVNN0FYSERpekM3UUViWlhwV240OFlVVi10WVg1WFRibDgteGczc0FMWmZ3?oc=5",
-      "site": "新浪新闻_手机新浪网",
-      "siteUrl": "https://news.sina.com.cn"
-    },
-    {
-      "id": "FL-e0b20b7e83b1",
-      "date": "2026-09-10",
-      "dateISO": "Thu, 10 Sep 2026 15:24:23 GMT",
-      "ts": 1789053863000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "西藏网警：网民恶意对比他国歪曲中国泥石流救援被罚 - 联合早报",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41YTFMaV8talhpWGRhdjJlWng2bThUdEwyTEFvbEgySFBYNDdaQUFXcW5sN3NOT3I3WGpINmVSenFmR1JWMVpYTTZ3R2swOExDVDc0WVJGR0ttWXAwWjdaSWh3NnFBMUpLUWc?oc=5",
-      "site": "联合早报",
-      "siteUrl": "https://www.zaobao.com.sg"
+      "title": "法国报纸摘要 - 尼泊尔仍未解除对中国在这次泥石流洪灾中应负责任的怀疑 - RFI",
+      "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxQekE0d0ZoUlkzQWpLM0l4TWx5a29mcmZkLXpqTGpKS2VublhpQWlLcTEySVNEcmFscFJhTnNiWmgtUWd5a1JoamtzYWdPR2UzVkZlMkVtdzJLMnAwVFA4RzU5ODB0ZlFWSHpiN3BGU3NwYWdFeXlKNld0ekN5UTVtWHdfWU02Sm5sYmQ1MV96S2pPODVwaGN1aVhKa0NYSHZaNUZ1MS1pakE1VV9PS0FDbFBwY3A0OGl1Vjh1N3VQWm0wbkNNbGdLZDVadlQ1SHhxZmF6eVdkRWhpQUdIQ3NBM3VfeWE5cWh5Wm5OVi1ZUXItUktlUk1hbjVPWGRKamFnYTBROS10QkZHZDViMjQ5aXU1WDJqc3Y0dkpoZm1mVUR1UlAzSnZ0OFBoMERaS0JTemgtUWI5OXhEekhqR0JwTHI1Rmh3bG52LTU0bFdRYUZLQUFYSTJZa19oZEFCclFKX1RwRDJtTlJHZWIxRS1Td1NfTjZub0dQanExTldCVGNDckx0amk4M2Y2NWR1NXJOQWFqLWVfYVR6bF9QR0hmMERZRW5OZW1GaURfSzVXLUxCd1dwUU12M3BJREJLRGt5MUg2R3lHZWhuZ2lQQW9KOXpxX0F2QUs5SXloSkhxTVcxNTNYVS1PaTg1c1E1V2kwZC1LbGNRQUo?oc=5",
+      "site": "RFI",
+      "siteUrl": "https://www.rfi.fr"
     },
     {
       "id": "FL-63616eb5470d",
@@ -554,7 +554,7 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YZkR4Y0d0X3puNWh4WURpNGl3UUVaXzVEMkVLelFxMWQ3SjlOSHFWcXhEbkdTWmdYRjh1S05GbE55enluN0g0Ulpub21wOEJiRDhTdDl5ZGd2LXhkUGF6TmxzUQ?oc=5",
       "site": "jingjiribao.cn",
       "siteUrl": "http://www.jingjiribao.cn",
-      "related": 45
+      "related": 46
     },
     {
       "id": "FL-97b6812763e3",
@@ -591,18 +591,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uNDBjczhUeG1uNVZCdUtvVUM4bmc4ZklDZU5TaGRSV1JlVlA2d0xITGJueVRsTmlBdDBhU09UWnBwa1FpbXd5S0lNcTlod0VzMU5GVFIyQjEzWFo4NFRIRUViQVpiQ3JL?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-5693206954f6",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 08:15:41 GMT",
-      "ts": 1789373741000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "帕拉纳州持续强降雨致逾1.4万人受灾 两人失踪多条公路受阻 - br-cn.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMTYzNE9CaWNpcER2aS1hQUNBQm0xR0ZnZU13UTFvOUVwY0pMNHlCYmJHaUYwRzJTY2Y1SDZxd3M2XzJac3hJTHJRZzI1aU5rVldGZXdoaGxOT3ZlLWsxakFYYzVkRFZVSTdCa2NabVRCLUxFSmNlMW1CN3dCOU84NWZseHB4a2o5RFRsajRR?oc=5",
-      "site": "br-cn.com",
-      "siteUrl": "https://www.br-cn.com"
     },
     {
       "id": "FL-9aff4dbf8471",
@@ -689,16 +677,28 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
-      "id": "FL-93fd2460b77b",
+      "id": "FL-56766cd8d269",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 01:44:00 GMT",
       "ts": 1789350240000,
       "scope": "dom",
       "type": "geo",
-      "title": "地震预警何时接入苹果系统？中国地震局回应 - 观察者网",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tT01WaVdFa3NVQmp3cWoyMklIYUpmRVh0eWtidVA1VTRkcUd0UFloY1JBeVVaSUdiUUtia2VRN2RsZGFLUlI0bmFDbkxPTkFlRzFGeWpoSDhqdnowUXU2TlUtLWV2UQ?oc=5",
+      "title": "地震预警何时接入苹果系统？中国地震局再回应：争取尽早实现 - 观察者网",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QS04yZEZ1YmZuNGd0ZUNma1RpN2ItbnlFcjVrVWtVVzBETTBxQ2NnQkNlSnl4NnBFSUdUcjFrV3AxN0o3dUZ1bGRFUVNWSXVNdjZuUlJEWmEySE9mQzdMeS1zVQ?oc=5",
       "site": "观察者网",
-      "siteUrl": "https://www.guancha.cn"
+      "siteUrl": "https://m.guancha.cn"
+    },
+    {
+      "id": "FL-6bd4ba852002",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 00:01:00 GMT",
+      "ts": 1789344060000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "中国地震台网中心正就地震预警信息接入iOS系统与苹果公司沟通 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZVU5NHdxWmduaTB2Rkl1bHkyY09DNmZBc0ZOaUwyY0M4dzJlVmdtS2xVSzJRVFZPRnFfc0w5MXJhX2dVdGdnUF9LMlZPR01oOHFKbVd3NjlnNXlGUC1acEhic2lVN3lWZDBvZXJRYVdncTBuZG5pdHJ0bDk5MkUzV2JEZUNDbkU?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-e8a32a183e42",
