@@ -22,6 +22,7 @@ import { fileURLToPath } from 'node:url';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const STATE_FILE = join(__dirname, '..', 'data', 'wecom-patrol-state.json');
 const WEBHOOK = (process.env.WECOM_WEBHOOK || '').trim();
+const DRY_RUN = process.env.PATROL_DRY_RUN === '1'; // 干跑模式：只打日志不发群（测试期用）
 const BRIEF_URL = 'https://liudi7675.github.io/incident-monitor/';
 const MAX_PUSH = 3;          // 每轮最多推送条数（防刷屏）
 const FRESH_HOURS = 26;      // 只推最近 N 小时内发布的消息（防旧闻）
@@ -59,6 +60,8 @@ const CASUALTY_WORD_RE = /(遇难|失联|失踪|死亡|罹难|伤亡|被困|牺�
 
 /* 评论/非事件类排除 */
 const COMMENT_RE = /(视频｜|视频\||评论|警示|启示|盘点|解读|综述|一周|回眸|回顾|观察|思考|反思|探访|追问|之问|如何看|为何|说明了什么)/i;
+/* 非事件活动类排除（演练/科普/预警/直播/会议等——无伤亡数字时适用） */
+const NON_EVENT_RE = /(演练|演习|科普|培训|动员|部署会|工作会议|推进会|直播丨|直播\||专栏|访谈|百日攻坚|群防群治|气象(灾害)?(风险)?预警|预警发布|风险提示|紧急提示|演练活动|王維洛|大纪元)/i;
 /* 例行天气预报 */
 const ROUTINE_RE = /(天气预报|天气趋势|未来三天|未来几日|未来十天|蓝色预警|黄色预警|橙色预警|红色预警|发布预警|预警发布|预计.{0,6}(有|出现)|气温)/i;
 
@@ -137,6 +140,10 @@ async function fetchRss(src) {
 }
 
 async function sendWecom(md) {
+  if (DRY_RUN) {
+    console.log('[DRY-RUN] 干跑模式，不发送群消息。将推送内容如下：\n' + md);
+    return;
+  }
   const res = await fetch(WEBHOOK, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
@@ -175,6 +182,7 @@ async function main() {
     if (!EV_TYPE_RE2.test(it.title) && !GEO_DISASTER_RE.test(it.title)) continue; // 必须是事故/灾害
     const { major, deaths, missing } = isMajor(it.title);
     if (!major) continue;                                     // 重大程度不够
+    if (deaths === 0 && missing === 0 && NON_EVENT_RE.test(it.title)) continue; // 无伤亡的演练/预警/活动类
     candidates.push({ ...it, deaths, missing, key: titleKey(it.title), id: 'PT-' + hash(titleKey(it.title)) });
   }
   console.log(`候选重大事件: ${candidates.length} 条`);
@@ -239,8 +247,8 @@ async function main() {
     try {
       await sendWecom(md);
       pushed++;
-      state.pushed[c.id] = { ts: now, cas: c.deaths + c.missing, title: c.title.slice(0, 60) };
-      console.log(`已推送: ${c.title.slice(0, 40)} | ${srcNote}`);
+      if (!DRY_RUN) state.pushed[c.id] = { ts: now, cas: c.deaths + c.missing, title: c.title.slice(0, 60) };
+      console.log(`${DRY_RUN ? '[DRY-RUN] 模拟推送' : '已推送'}: ${c.title.slice(0, 40)} | ${srcNote}`);
     } catch (e) {
       console.log(`推送失败: ${e.message}`);
     }
