@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T03:40:15.883Z",
+  "updated": "2026-09-15T03:53:43.273Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -25,6 +25,18 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wdFdQWWg4U0RIdm1zc0F3ajlQUHRPT2ROZVR5LTZHZUpCNzE1cXhZbzlxcEVpbnpUb2M4Zm1ibFhPOXhzUDRzb3I5aXJxQWQ1WDM0OE5ubkNxYmhCdk4tRzR6aUVXMHFk?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
+      "id": "FL-a73744ba56f9",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 03:30:00 GMT",
+      "ts": 1789443000000,
+      "scope": "dom",
+      "type": "other",
+      "title": "空地协同全力抢险 海南移动筑牢琼岛通信生命线 - hi.chinanews.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaU3l5M19LdW9CUjZ3OWNVaUR2eDh4UG5XYjdHZ1FqQmRRQm1FV0lfSHB0T2FDUmVjWWlmS3h5b0Q3c0lUNDVDRnlwU0FEUWpnNkVJTkJKN1RXdlBFRk90SFNVTFdmTHpOLVlr?oc=5",
+      "site": "hi.chinanews.com.cn",
+      "siteUrl": "http://www.hi.chinanews.com.cn"
     },
     {
       "id": "FL-08cb7529b0aa",
@@ -85,6 +97,18 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iRWVZNEpYV1o1MGZ2cERWWTNDMTV3ZFRyOU5DZndxSVpNTTU4eDhodnpVUHNNUWhrNUxqeUE3MVMwZnVUZFg2UkFmUnBuOEhkS3ZzbG50cjdXdGRTaG5qTnFGWjREVzU4?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
+      "id": "FL-5916f330f1a1",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 02:03:14 GMT",
+      "ts": 1789437794000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "海南陵水遇强降雨，部分乡镇有人员被困，消防员分五批转移51人 - 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xMkZ1WGhtZTlWcHJjcEJPbUZSLUNzUzBpQzU2U2x1TThkc1FBOFlISDUyTjdiX3FKZ19QNXBieERJZEJ3VEVWLV9NNFAwb1dVQTZldmZjMzRaN2Nmd3Y0cmtMT20?oc=5",
+      "site": "新京报",
+      "siteUrl": "https://www.bjnews.com.cn"
     },
     {
       "id": "FL-4a10e16c9edb",
@@ -255,15 +279,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-95cf74f3e9e4",
+      "id": "FL-e4817d4605e3",
       "date": "2026-08-30",
       "dateISO": "Sun, 30 Aug 2026 07:00:00 GMT",
       "ts": 1788073200000,
       "scope": "intl",
       "type": "geo",
-      "title": "现场直击丨尼泊尔泥石流灾区见闻 - 新华网",
+      "title": "现场直击丨尼泊尔泥石流灾区见闻 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PYUIyNEpIQ1BCa3FiWHkyN21PQTdwZUVOdTI3TmtLZ1RTMnA1WDQ1TGwzdnRfcTRJQTlHV1htQWVHOUpTNmJEb2Rmb1NjRFc5Yk4tOFNadGN6Q1VBRUJTd3k5QXpOXy1zU2ZzcU10TWg4dDRYRFJlYkExXzdUVUk?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -458,30 +482,18 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YZkR4Y0d0X3puNWh4WURpNGl3UUVaXzVEMkVLelFxMWQ3SjlOSHFWcXhEbkdTWmdYRjh1S05GbE55enluN0g0Ulpub21wOEJiRDhTdDl5ZGd2LXhkUGF6TmxzUQ?oc=5",
       "site": "jingjiribao.cn",
       "siteUrl": "http://www.jingjiribao.cn",
-      "related": 42
+      "related": 43
     },
     {
-      "id": "FL-52fcfdf43df4",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 12:22:20 GMT",
-      "ts": 1789388540000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "海南多地强降雨酿险情 消防已营救疏散被困人员48人 - chinanews.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rbDN0N0JOV25fUGhzTXNsSXlhV2tyNVJTUHl0UFl6TnQtVUs2U1JBTkprVkU0VG42UzRJVmFfOGpZWDc3a185VHJjdHI3SktvSjJzVWQ3cThWNDVWdEd2S3BlaDdINW1B?oc=5",
-      "site": "chinanews.com.cn",
-      "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-ec8401e7003a",
+      "id": "FL-13d68ffbce31",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 12:00:00 GMT",
       "ts": 1789387200000,
       "scope": "dom",
       "type": "weather",
-      "title": "海南五指山遇强降雨，积水涌入房屋4人被困，消防员拖橡皮艇转移 - bjnews.com.cn",
+      "title": "海南五指山遇强降雨，积水涌入房屋4人被困，消防员拖橡皮艇转移 - 新京报",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtOVJwd3hJY0N0MjlhWE9YcDZpMURWeml2YUJnVTA0WURJNVQxQ2pTZjVEWlBnb2VEbXpSeU51VEswbi1zaVlRRUdUejM5bDBWU2J4QUFGVXEtUmRlWEtGa0k4ZkM?oc=5",
-      "site": "bjnews.com.cn",
+      "site": "新京报",
       "siteUrl": "https://www.bjnews.com.cn"
     },
     {
@@ -581,18 +593,6 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-aca302f8939d",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 09:11:37 GMT",
-      "ts": 1789377097000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "13个市县停课！海南局地特大暴雨 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObzliT210R2lwWFVXZWZicGVqcEZ4aVlDeWFFb2F2REIxNWF3Ul9vbjltTWdhV3ZEZk9yVHV1YWZ4WHViSExEak5XVTVhSHNTaG5mYWZablduSkd4UFhxTDFzN3dSbElaR2R6eE1pZWNBeFU3WndjWVVqUllNTGJYYV9TNk8tZE5uNGdoMnpkXzZBSnhCSE9ZZQ?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.cn"
-    },
-    {
       "id": "FL-5693206954f6",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 08:15:41 GMT",
@@ -605,39 +605,27 @@
       "siteUrl": "https://www.br-cn.com"
     },
     {
-      "id": "FL-9aff4dbf8471",
+      "id": "FL-4b715bf1288f",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 07:57:16 GMT",
       "ts": 1789372636000,
       "scope": "dom",
       "type": "weather",
-      "title": "海南全力防御强降雨 已紧急转移群众3.1万余人 - 新华网",
+      "title": "海南全力防御强降雨 已紧急转移群众3.1万余人 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GWk55OWlfRGU5R1JLVUFUZXVPV1BjWkpsUjBCS0RtTVZIQjRkdV91RDRQQ25vSWNuOF9WQVpURHF4N19tejBlUVpGMko5b09IS2VscFZwYVpKRDhFVUphaGItN0Z5bFRJLXlDZ2VSYmdDUFNhSWZmcjMxdzdIN2c?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "http://www.news.cn"
     },
     {
-      "id": "FL-9f43e97b18c0",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 07:35:00 GMT",
-      "ts": 1789371300000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "外交部发言人介绍西藏泥石流灾害外籍人员搜救情况 - peopleapp.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSWZJaDFJa2hTXzZPUFVLS2ZkZ3VUMWQ3aWt2WFkyUEtYMzZXT05iWmJhTWRvLUtuaEhnR0VlQmVGcFd5TlN2YjJ6TjE2UGI4dFBvUUxMMW0xS2VTYzNoMlhGSlZ2eXdqd250bE9PQzFVN2cwQXBycG1kZ2MyVjM2enJ4OFc3OUJIOEJYZk5aT00?oc=5",
-      "site": "peopleapp.com",
-      "siteUrl": "https://www.peopleapp.com"
-    },
-    {
-      "id": "FL-def32ff8029f",
+      "id": "FL-e74d67111657",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 07:33:35 GMT",
       "ts": 1789371215000,
       "scope": "intl",
       "type": "geo",
-      "title": "印尼亚齐特区发生山体滑坡 已致1死13伤 - 央视网",
+      "title": "印尼亚齐特区发生山体滑坡 已致1死13伤 - news.cctv.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mYmtPZ21ZUzhQZnBlQWM4M1M5ME5pV2lhSEtNRmFUUlNBdEZneTRTRzRrZzF1bGZMWTBIVkdtSGN0SERGMWNlTnNMeTdTY0tFRWFRSjFaVGlmME1sNko3VWRockVLVnNmV0Nkc0tmNURKR3hnZC0ySw?oc=5",
-      "site": "央视网",
+      "site": "news.cctv.com",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -665,16 +653,16 @@
       "siteUrl": "https://www.thepaper.cn"
     },
     {
-      "id": "FL-d301ecb41fa1",
+      "id": "FL-cf557d871235",
       "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 05:04:42 GMT",
-      "ts": 1789362282000,
+      "dateISO": "Mon, 14 Sep 2026 03:39:50 GMT",
+      "ts": 1789357190000,
       "scope": "dom",
       "type": "geo",
-      "title": "中国地震台网中心：正加快推进地震预警信息接入iOS系统-中新网 - chinanews.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56Y21wR2VWa2t0NW1BVVFOcjhQSDRUVnVnWlBXcTFBZDBNYndoaUVkTkNUcEFpUzg4MDhUYlhGOGZqbXl6UENGd1FWdTlLQVlBdWtRTmtoMmp1amp6TzhsM09fTjEzTVRF?oc=5",
-      "site": "chinanews.com.cn",
-      "siteUrl": "https://www.chinanews.com.cn"
+      "title": "中国地震局：正与苹果公司沟通，力争加快推进地震预警信息接入iOS系统丨C视频 - 四川新闻",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9MSzhKUFpFZzJQemJJbzlxaHg3REZnRTN6RkJ1MW8xYzFfSDJyT0tzWmlPX2x2b0dsUmU0YVN1a0U0ZEZzSHJKTVpfSk90THk4WlpOTFFHeXJZWTUxWVc1bUVVYw?oc=5",
+      "site": "四川新闻",
+      "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
       "id": "FL-b133a2e7d7d9",
@@ -687,6 +675,18 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QMHEwa2NCVC1acGYxSVUyR2QtX2tERmFHYVVCazYzN0JTSFV2dXN1S1F4TTF1dS1TVk1lUWNIaDA1SkZ2YzFkWVpJeFZ0LWFEVmQzMHlsYmI?oc=5",
       "site": "Jiemian.com",
       "siteUrl": "https://www.jiemian.com"
+    },
+    {
+      "id": "FL-6c7570b3f8a2",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 02:37:22 GMT",
+      "ts": 1789353442000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "中国地震台网中心正就地震预警信息接入iOS系统与苹果公司沟通 - news.cctv.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzVHZybTB5dmZYTU1QdnZUM2VxSi1DdTdxVDg5LWZnY0E2bGtINktmM0NINFlOYnp2R2phTG5BSGE4c3czeFdhcVBvQXpwVXJmckFHT1g5ZUFRNm9mVFZqamdUQnA5N3hDeDlMdXhrZXhSMGlwYm5pNQ?oc=5",
+      "site": "news.cctv.com",
+      "siteUrl": "https://news.cctv.com"
     },
     {
       "id": "FL-b0e8286a093d",
@@ -713,15 +713,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-6858037717b9",
+      "id": "FL-52d3fa71159d",
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 11:01:00 GMT",
       "ts": 1789124460000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1386人，失联5130人 - 封面新闻",
+      "title": "尼泊尔泥石流灾害遇难人数升至1386人，失联5130人 - thecover.cn",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YWko2a0l6Z3JYZTI5R3pRMFRBZVlwcFdDQkVMb0t3NmdHUzZ0ME5LTU5kcXhjSW56TjdqQU8zQWpBR0ZySnlkcXY4d184VnRZVDJqNXhNWElXcTFhbWhZX29FMHB5NFJJNnZOdVo3SGFYMENlbHFN?oc=5",
-      "site": "封面新闻",
+      "site": "thecover.cn",
       "siteUrl": "https://m.thecover.cn"
     }
   ]
