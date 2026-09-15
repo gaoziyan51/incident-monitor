@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T16:39:24.130Z",
+  "updated": "2026-09-15T16:51:59.180Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -37,7 +37,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
-      "related": 43
+      "related": 42
     },
     {
       "id": "FL-221f4d43a11f",
@@ -64,16 +64,16 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-ccffda66c965",
+      "id": "FL-bb82130c0d8e",
       "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 15:06:55 GMT",
-      "ts": 1789484815000,
+      "dateISO": "Tue, 15 Sep 2026 15:10:00 GMT",
+      "ts": 1789485000000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1403人遇难 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9WTWkzR2FLM2oxbXN1dkJrS0pPbGVMbmhmRXd0OUMwOGw1RVQzRTVtSHhpOHR6NXVtaFZjT0o1MC14WVlEY2pjV2lNSQ?oc=5",
+      "title": "截至当地时间15日20时，尼泊尔泥石流灾害已致1403人遇难 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95QUNWVVpOd19vWGlpcEl4X1cwSHF2c3piNmtvbksySXVMcHU2UGhxTnFwejRQaURHeUlwTTA5U0dPQWQwbnN1M2hhNTdyNnJLSjUydGJXdW1wNDZmeGcyeERQVGNGMmlCcUlpRy1EVkYycWVFeGc?oc=5",
       "site": "新浪财经",
-      "siteUrl": "https://wap.cj.sina.cn"
+      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-adacbe1e9c57",
@@ -100,15 +100,15 @@
       "siteUrl": "https://www.epochtimes.com"
     },
     {
-      "id": "FL-e4a61252567e",
+      "id": "FL-49740cabc935",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 13:02:46 GMT",
       "ts": 1789477366000,
       "scope": "dom",
       "type": "geo",
-      "title": "PEC 2026 AI创作先锋对谈：在AI海啸中寻找艺术与商业的价值锚点-人工智能 - zhiding.cn",
+      "title": "PEC 2026 AI创作先锋对谈：在AI海啸中寻找艺术与商业的价值锚点-人工智能 - 至顶网",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KSHY2ZG51c3IxMThVUlprQnJ4SGdyRF9jUklKV1VhUXhJSkVTTExFYi1iSWU4cDlwWjZEN2hSU0ZrcG80SEotRkFMUjUtOTBFcHBhbXkyNXJibjZBS0E?oc=5",
-      "site": "zhiding.cn",
+      "site": "至顶网",
       "siteUrl": "https://www.zhiding.cn"
     },
     {
@@ -232,15 +232,15 @@
       "siteUrl": "https://www.guancha.cn"
     },
     {
-      "id": "FL-01005fd2bdf4",
+      "id": "FL-064ca5d40230",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 02:33:56 GMT",
       "ts": 1789439636000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1396人遇难 - news.ifeng.com",
+      "title": "尼泊尔泥石流灾害已致1396人遇难 - 凤凰网",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhTS1vOUhQM0RVb3R3WjRxUVlkTXZGMk9IaVNjSEpZYVdSSGZUMklmaFc1ZEFqYmdwMVRqVWVhZ2Y1cUVmNG1iSVJMYXQ?oc=5",
-      "site": "news.ifeng.com",
+      "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com"
     },
     {
@@ -413,15 +413,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-e4817d4605e3",
+      "id": "FL-95cf74f3e9e4",
       "date": "2026-08-30",
       "dateISO": "Sun, 30 Aug 2026 07:00:00 GMT",
       "ts": 1788073200000,
       "scope": "intl",
       "type": "geo",
-      "title": "现场直击丨尼泊尔泥石流灾区见闻 - news.cn",
+      "title": "现场直击丨尼泊尔泥石流灾区见闻 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PYUIyNEpIQ1BCa3FiWHkyN21PQTdwZUVOdTI3TmtLZ1RTMnA1WDQ1TGwzdnRfcTRJQTlHV1htQWVHOUpTNmJEb2Rmb1NjRFc5Yk4tOFNadGN6Q1VBRUJTd3k5QXpOXy1zU2ZzcU10TWg4dDRYRFJlYkExXzdUVUk?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -581,15 +581,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-4b715bf1288f",
+      "id": "FL-9aff4dbf8471",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 07:57:16 GMT",
       "ts": 1789372636000,
       "scope": "dom",
       "type": "weather",
-      "title": "海南全力防御强降雨 已紧急转移群众3.1万余人 - news.cn",
+      "title": "海南全力防御强降雨 已紧急转移群众3.1万余人 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GWk55OWlfRGU5R1JLVUFUZXVPV1BjWkpsUjBCS0RtTVZIQjRkdV91RDRQQ25vSWNuOF9WQVpURHF4N19tejBlUVpGMko5b09IS2VscFZwYVpKRDhFVUphaGItN0Z5bFRJLXlDZ2VSYmdDUFNhSWZmcjMxdzdIN2c?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "http://www.news.cn"
     },
     {
