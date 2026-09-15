@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T07:18:40.176Z",
+  "updated": "2026-09-15T07:34:43.297Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -25,6 +25,19 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfWmowNGIyc200QU1ESDVxbC1hdmdLWUlCQXNHazV6aVdvY1FYMGFySHFueG50UGc3Q2Z2ZUVXaWNtbUQtNlBMWkRDLU01T2R5blhnY2UtSUR5ZUdHaWt5YWszOFRFQdIBa0FVX3lxTE5ncUFxSTZyWVZGQ05yLWwtOGVLS01kb2lsNjY5cVNfU1VlN1hWSjFtUEx4eEpObTY3c3F5czNZeElUM01KaU5uVF9NQ2FDdGlMY29tbi16UFluSkVGSzFkNXJHZFFTOUU5eW80?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-EV-18d9b0620c3d",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 07:19:21 GMT",
+      "ts": 1789456761000,
+      "scope": "dom",
+      "type": "fire",
+      "title": "青岛外籍货轮起火25死事故国务院提级调查｜即时新闻｜中港台｜on.cc东网 - on.cc東網",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOFZ0QUR5emtaVkxUMWJkNWc2cTdfdklqQW9BZV8xR3ZXZkpHVzl4WUowWVVmNlRLUXBRWUVPb3J5OXVVNEwwSTBMSUMxekU1RzVQSjEwVDFkSDlpOFNaNmNxUVdZNzB5LWFiOGxKd0dPNFJlTDJSLVVud0VpRUdBOFNEWG5CdUdEVERKMXotRQ?oc=5",
+      "site": "on.cc東網",
+      "siteUrl": "https://hk.on.cc",
+      "related": 23
     },
     {
       "id": "FL-ad76b97e04e5",
@@ -73,6 +86,18 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wdFdQWWg4U0RIdm1zc0F3ajlQUHRPT2ROZVR5LTZHZUpCNzE1cXhZbzlxcEVpbnpUb2M4Zm1ibFhPOXhzUDRzb3I5aXJxQWQ1WDM0OE5ubkNxYmhCdk4tRzR6aUVXMHFk?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
+      "id": "FL-be71faf32a4c",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 03:32:43 GMT",
+      "ts": 1789443163000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "海南万宁突现龙卷风 无人员伤亡 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMHNZanEtX21kX1oyQ0tTX0VFQmZYMjlMVzNxdWtuaHZDQnp2OGFBTjlSbG1HdUNTcG42NDRyeHV5aEt0a0toZDNGdEFDZVlvaGtzbmZOV05mQU03Mi1aNkVlTVJ6cWNUWWhCcmlrWmwtQ0JEWXIzUXdiaDdaVEJ0R092YzRmUGt2?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-a73744ba56f9",
@@ -195,27 +220,27 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-aa23bf2fde92",
+      "id": "FL-2821cbb61427",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 01:35:35 GMT",
       "ts": 1789436135000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1396人遇难 - cnr.cn",
+      "title": "尼泊尔泥石流灾害已致1396人遇难 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43Z2JOaVBQQ3ByajZNX3Z2dl8wNmxxLUtQS2pXX3pQTmtVaUltT0pyRlpxOGxfTl9YMmFZeXJReEEwOVZDWnpWTE5oRlg3WkFuY0tQM2pMZ2FiNlRKYVR5a0tKR192UERoUHRMWHByZm5DWi1yeUE?oc=5",
-      "site": "cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://www.cnr.cn"
     },
     {
-      "id": "FL-b7926d5cc2b0",
+      "id": "FL-598cbad9813c",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 01:32:38 GMT",
       "ts": 1789435958000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1396人遇难 - ctdsb.net",
+      "title": "尼泊尔泥石流灾害已致1396人遇难 - 极目新闻",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zV3U5dlJfZnk1aFExQzJCbG5ZMkdKajFiemxWS0hVRUJyTFRRbDZyZjR5TWhYQkhLdVpEZFNBODk4aXhDbmVWOGtzRkVKYi1fOU4tUTBOSUY4NzQ?oc=5",
-      "site": "ctdsb.net",
+      "site": "极目新闻",
       "siteUrl": "https://www.ctdsb.net"
     },
     {
@@ -277,18 +302,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LSk5CbXBMNGJiLUJ5WkFoUDZhSUxWYjRvWV8yeEpDeFZCcXlmTHBYWGJzZktGT0xyNm0tbnNtdGlxUnl3VzB4ay1xY2hBLTROWXBXVE43RGxEUE5MRHdxaHBtS1YwVklM?oc=5",
       "site": "早晨报",
       "siteUrl": "https://www.zaochenbao.com"
-    },
-    {
-      "id": "FL-e0b20b7e83b1",
-      "date": "2026-09-10",
-      "dateISO": "Thu, 10 Sep 2026 15:24:23 GMT",
-      "ts": 1789053863000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "西藏网警：网民恶意对比他国歪曲中国泥石流救援被罚 - 联合早报",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41YTFMaV8talhpWGRhdjJlWng2bThUdEwyTEFvbEgySFBYNDdaQUFXcW5sN3NOT3I3WGpINmVSenFmR1JWMVpYTTZ3R2swOExDVDc0WVJGR0ttWXAwWjdaSWh3NnFBMUpLUWc?oc=5",
-      "site": "联合早报",
-      "siteUrl": "https://www.zaobao.com.sg"
     },
     {
       "id": "FL-63616eb5470d",
@@ -361,19 +374,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByeEVvcHlucE92a1Z3T0Ywei1RT3Ric2RMaVEzNmVtbF9VVEVPMmhrNmliNEl3TGllWktKNjNodUNSSXh3S21KUHA2cEFqckZEV0RNMmpCWWRxSGM4Zm51VUEyV0dkZ9IBa0FVX3lxTFBxM2RNYURrR1hmQ1ktWnBrME1RQ1ZESXBWZHZ4aUNoaURoXy1BLXlySk9tcDZHb25fRmV5SDB5ZTVnck9rdlNmRHdGRkl3QldGb2VEZHA3VkNWT0NITjhmMTRwUWNpZEgxNDFF?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-EV-18d9b0620c3d",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 23:41:21 GMT",
-      "ts": 1789429281000,
-      "scope": "dom",
-      "type": "fire",
-      "title": "新闻8点见丨国务院对青岛货轮火灾提级调查；北京将试鸣防空警报 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbmt6N21OV1BJWFZ1Y0t6dWJFTkozeXowRVVaQWplSnhGMkRrYWE3bHZQal9jcnE2T1g3R3FYSDBHZ2hyQzVIbTd4OXltTlE1YjlJTjNCREJseWo2blJLdjFhWk0yeHNlQk5WZjQxR0VYSmNfWXBBT0x6UHZuRDE3QW5YeWhFX3Ba?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com",
-      "related": 23
     },
     {
       "id": "FL-aeed7a750ca8",
@@ -526,11 +526,11 @@
       "ts": 1789389325000,
       "scope": "dom",
       "type": "geo",
-      "title": "视频｜中方已通报吉隆泥石流灾害失联外籍人员家属DNA采集办法 - jingjiribao.cn",
+      "title": "视频｜中方已通报吉隆泥石流灾害失联外籍人员家属DNA采集办法 - rss.jingjiribao.cn",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YZkR4Y0d0X3puNWh4WURpNGl3UUVaXzVEMkVLelFxMWQ3SjlOSHFWcXhEbkdTWmdYRjh1S05GbE55enluN0g0Ulpub21wOEJiRDhTdDl5ZGd2LXhkUGF6TmxzUQ?oc=5",
-      "site": "jingjiribao.cn",
+      "site": "rss.jingjiribao.cn",
       "siteUrl": "http://www.jingjiribao.cn",
-      "related": 41
+      "related": 42
     },
     {
       "id": "FL-18064121c86e",
@@ -701,16 +701,16 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
-      "id": "FL-93fd2460b77b",
+      "id": "FL-56766cd8d269",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 01:44:00 GMT",
       "ts": 1789350240000,
       "scope": "dom",
       "type": "geo",
-      "title": "地震预警何时接入苹果系统？中国地震局回应 - 观察者网",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tT01WaVdFa3NVQmp3cWoyMklIYUpmRVh0eWtidVA1VTRkcUd0UFloY1JBeVVaSUdiUUtia2VRN2RsZGFLUlI0bmFDbkxPTkFlRzFGeWpoSDhqdnowUXU2TlUtLWV2UQ?oc=5",
+      "title": "地震预警何时接入苹果系统？中国地震局再回应：争取尽早实现 - 观察者网",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QS04yZEZ1YmZuNGd0ZUNma1RpN2ItbnlFcjVrVWtVVzBETTBxQ2NnQkNlSnl4NnBFSUdUcjFrV3AxN0o3dUZ1bGRFUVNWSXVNdjZuUlJEWmEySE9mQzdMeS1zVQ?oc=5",
       "site": "观察者网",
-      "siteUrl": "https://www.guancha.cn"
+      "siteUrl": "https://m.guancha.cn"
     },
     {
       "id": "FL-e8a32a183e42",
