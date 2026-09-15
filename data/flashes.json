@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T05:30:23.914Z",
+  "updated": "2026-09-15T05:49:24.940Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -25,6 +25,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfWmowNGIyc200QU1ESDVxbC1hdmdLWUlCQXNHazV6aVdvY1FYMGFySHFueG50UGc3Q2Z2ZUVXaWNtbUQtNlBMWkRDLU01T2R5blhnY2UtSUR5ZUdHaWt5YWszOFRFQdIBa0FVX3lxTE5ncUFxSTZyWVZGQ05yLWwtOGVLS01kb2lsNjY5cVNfU1VlN1hWSjFtUEx4eEpObTY3c3F5czNZeElUM01KaU5uVF9NQ2FDdGlMY29tbi16UFluSkVGSzFkNXJHZFFTOUU5eW80?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-94f81f78c11a",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 05:44:27 GMT",
+      "ts": 1789451067000,
+      "scope": "dom",
+      "type": "other",
+      "title": "视频丨基本生活需求有保障 记者探访海南保亭临时安置点 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTFpyOS10YnN3c1N4T3diRTZXQ00wYWxSdG9aazh1VU1aLVVkcUJIQnlUU0ZGeVppRHZsQnJJc2w5ZUFobjNPMnNoYlowUDQtZEthNmY0M1YzZFRLOWdaTGtCb3Zyb1lMajM4Qk10cFVtOVIxdE1UblkzZDBicXhKd012ZmkzSWp6cXBWQzFkeHl4ZlhlN0tZcQ?oc=5",
+      "site": "新浪网",
+      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-203809720332",
@@ -63,18 +75,6 @@
       "siteUrl": "https://www.guancha.cn"
     },
     {
-      "id": "FL-2fdacca2c9d8",
-      "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 02:49:05 GMT",
-      "ts": 1789440545000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1396人遇难，请停留3秒，为他们献花 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVUk5SzBWbkpvOFhfNXR1YjJrTFVCZ3hQa1BMSnFpV0NSbUNGTmlVZC1pUEtNYUwtUFRybUswVWJYRHR5cGllajhiZENLU1k3NDBjYlBXVGV1Z0FSRHdhd1JsWG1WZlRPX1Zlc0Q5NzlfYjR2NUtXRDQyU3V3enpiOVdZMUdXQmFuQ2g0ag?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-5ba3222989d6",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 02:47:52 GMT",
@@ -99,15 +99,15 @@
       "siteUrl": "https://news.ifeng.com"
     },
     {
-      "id": "FL-cb45bcae0b04",
+      "id": "FL-f57c0496fbeb",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 02:30:07 GMT",
       "ts": 1789439407000,
       "scope": "dom",
       "type": "geo",
-      "title": "普洱墨江4.5级地震，交通部门迅速排查守护路网安全畅通 - Sohu",
+      "title": "普洱墨江4.5级地震，交通部门迅速排查守护路网安全畅通 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeHpkLVBlYkp2M3o4azVvMnJnNFc0cmRLS1p3bVgzeWd6MkxHVlAwaVJ6RGRfNm00MkdaajB6Rm9rajhOY24wZGlJSDVISGgzUzVBR0xvME5JZ2U1UUliWFpFc0RvQmphWUZGV1E2OEJadThFTm9QSXl4OXhoYzdhb3J2NHF6RTNGcjZRNw?oc=5",
-      "site": "Sohu",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -171,39 +171,39 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-598cbad9813c",
+      "id": "FL-b7926d5cc2b0",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 01:32:38 GMT",
       "ts": 1789435958000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1396人遇难 - 极目新闻",
+      "title": "尼泊尔泥石流灾害已致1396人遇难 - ctdsb.net",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zV3U5dlJfZnk1aFExQzJCbG5ZMkdKajFiemxWS0hVRUJyTFRRbDZyZjR5TWhYQkhLdVpEZFNBODk4aXhDbmVWOGtzRkVKYi1fOU4tUTBOSUY4NzQ?oc=5",
-      "site": "极目新闻",
+      "site": "ctdsb.net",
       "siteUrl": "https://www.ctdsb.net"
     },
     {
-      "id": "FL-6001736ae3d7",
+      "id": "FL-f6caefb4502c",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 01:31:52 GMT",
       "ts": 1789435912000,
       "scope": "intl",
       "type": "geo",
-      "title": "截至当地时间14日20时，尼泊尔泥石流灾害已致1396人遇难 - Sohu",
+      "title": "截至当地时间14日20时，尼泊尔泥石流灾害已致1396人遇难 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMEVPckFoTzBxYVo2bWtBUG5oOU5LeGRtYURZZzBkWTV2YmlOcEczYlByQXFHaWpyY0hwYXcyNlB5OWZVTkthMjdKOGVva1RNbm9hTlFweURKNU5VaWt3bVp0RkZfT0ZnLWlUN2RBeHIyaDhRQjdLVi1Wb3BqMlgzdUxTcGd3M2RC?oc=5",
-      "site": "Sohu",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-88cb2f4ee281",
+      "id": "FL-04dad4d02216",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 01:10:28 GMT",
       "ts": 1789434628000,
       "scope": "dom",
       "type": "geo",
-      "title": "普洱墨江4.5级地震 道路、水路、民航运输正常 - Sohu",
+      "title": "普洱墨江4.5级地震 道路、水路、民航运输正常 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcnlPdEtkYjFSTk1fY21IbnM0OGlaWElzSzNVVHZxTXdhSkc2bi1POWNmVTFhb2VtaVVzMEhFcWdHbTQ1MW54T3lMRXJPWmlTbVd2N1Q3bUJKZEQtRHlrd012aUtMd1VqWVlXeWJvRU5zbnhoT1YtZEstaEpqNHhobmZPQnowalN6am1aSA?oc=5",
-      "site": "Sohu",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -219,15 +219,15 @@
       "siteUrl": "https://politics.gmw.cn"
     },
     {
-      "id": "FL-f69be62a9e56",
+      "id": "FL-126bff5fc289",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 00:50:11 GMT",
       "ts": 1789433411000,
       "scope": "dom",
       "type": "geo",
-      "title": "临沧市耿马县发生2.8级地震 - Sohu",
+      "title": "临沧市耿马县发生2.8级地震 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVko2R3BSX3Bwd2w4R24yelZxbTV6RjBjdnJ6SXJPRnduMXBqdlFxVmVZbC16N2JHQ2ZFME81ajREdXpwald4NS1jeDlnZEQyUy1SeDVWeDVmSUhyUlEyd1ByTWZWYk03WU8tV1p2SjRzaURXZ3pON3pHTGZtS2tIa1RBMnh1MmJ1?oc=5",
-      "site": "Sohu",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -309,9 +309,9 @@
       "ts": 1789429281000,
       "scope": "dom",
       "type": "fire",
-      "title": "新闻8点见丨国务院对青岛货轮火灾提级调查；北京将试鸣防空警报 - Sohu",
+      "title": "新闻8点见丨国务院对青岛货轮火灾提级调查；北京将试鸣防空警报 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbmt6N21OV1BJWFZ1Y0t6dWJFTkozeXowRVVaQWplSnhGMkRrYWE3bHZQal9jcnE2T1g3R3FYSDBHZ2hyQzVIbTd4OXltTlE1YjlJTjNCREJseWo2blJLdjFhWk0yeHNlQk5WZjQxR0VYSmNfWXBBT0x6UHZuRDE3QW5YeWhFX3Ba?oc=5",
-      "site": "Sohu",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com",
       "related": 22
     },
