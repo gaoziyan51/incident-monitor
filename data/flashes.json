@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T17:55:03.387Z",
+  "updated": "2026-09-15T18:07:27.207Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -37,7 +37,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
-      "related": 41
+      "related": 42
     },
     {
       "id": "FL-221f4d43a11f",
@@ -172,18 +172,6 @@
       "siteUrl": "https://www.xinhuanet.com"
     },
     {
-      "id": "FL-5e33d0df997a",
-      "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 05:44:27 GMT",
-      "ts": 1789451067000,
-      "scope": "dom",
-      "type": "other",
-      "title": "视频丨基本生活需求有保障 记者探访海南保亭临时安置点 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTFpyOS10YnN3c1N4T3diRTZXQ00wYWxSdG9aazh1VU1aLVVkcUJIQnlUU0ZGeVppRHZsQnJJc2w5ZUFobjNPMnNoYlowUDQtZEthNmY0M1YzZFRLOWdaTGtCb3Zyb1lMajM4Qk10cFVtOVIxdE1UblkzZDBicXhKd012ZmkzSWp6cXBWQzFkeHl4ZlhlN0tZcQ?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.cn"
-    },
-    {
       "id": "FL-115d96134d0b",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 04:50:00 GMT",
@@ -314,7 +302,7 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaWxheDZiNmllbi1JamJiRjFCMnVBczI2Q0t3Rl9sNEN2Y01oWlhKanJjWWprOXpobjBjYjNqVjJtVEZ6eFBON0ZSV0p2dWN6YnNjaXpmcW9GZ1VkWU1RNk1vRldacmFxQVd0b2ROSDdmV0xEZUNUSUhReV8zRDlWQWExY21selE1aXc?oc=5",
       "site": "jpchinapress.com",
       "siteUrl": "https://www.jpchinapress.com",
-      "related": 22
+      "related": 21
     },
     {
       "id": "FL-5916f330f1a1",
@@ -509,15 +497,15 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-04dfef2ac790",
+      "id": "FL-ec67e51125ca",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 22:00:05 GMT",
       "ts": 1789423205000,
       "scope": "dom",
       "type": "geo",
-      "title": "我市举办青少年地震预警科普和示范演练活动 - 天津日报",
+      "title": "我市举办青少年地震预警科普和示范演练活动 - epaper.tianjinwe.com",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbG5xaU53eEk4WlhzME5aeHk2VG9ZYVVTSU5VYXNJbWV6RkJ3X1lTc1N2TFA2OVZxb0hCSlByVVBjMUduZkJ1UGpVR01LbFNsbFQ5LVpLOEJtVmV6VjE5MDlXMExOQjhrZGw2cnhLZ1JsNW9oVnBPNllFWEkyT011VDRn?oc=5",
-      "site": "天津日报",
+      "site": "epaper.tianjinwe.com",
       "siteUrl": "https://epaper.tianjinwe.com"
     },
     {
@@ -531,6 +519,18 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPaC11eUNPNVVNbE9KQXAtMTdZWUxSQzdncG5aZFUzNXpqSGpGSUFYOHdyOFYxLXlheHl1bmFpZ1pUeU5Mei1VZV9MaEpuN3BSektvNndLcnFxWTJadjNjaFlFNWUwSDU4cUh5RTVHdk5sQjNGOU55eA?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
+    },
+    {
+      "id": "FL-3fd6e106fb4f",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 14:48:41 GMT",
+      "ts": 1789397321000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "墨江发生4.5级地震 消防、电力等部门已抵达震中村寨 - 昆明信息港",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wamNQU2FUbk1OeGEtYTBLZ1ZGZUxWcFZ6ZmZIbUc1LTQxaUo2RnVXSWdEZEFXVkdKaDZTYmpudVpzX3F5eFhTY2YtRDcxSmp1SHhscjhCUEhhcTNVYkIwTkJ3OWp4QQ?oc=5",
+      "site": "昆明信息港",
+      "siteUrl": "https://www.kunming.cn"
     },
     {
       "id": "FL-9f1680501c84",
@@ -629,15 +629,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-d3d0efae420a",
+      "id": "FL-7d88ce967054",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 04:22:56 GMT",
       "ts": 1789359776000,
       "scope": "dom",
       "type": "weather",
-      "title": "海南五指山：暴雨致车辆积水被困 消防紧急营救3人 - 央广网",
+      "title": "海南五指山：暴雨致车辆积水被困 消防紧急营救3人 - cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1iY3VBeFFKbnJ3cHZ2ZmIyaEFCUmdvOFRSaWFVZERhYnhnMkl3aEhrck5na3ZHYzRCWFd1bnhGVF9WZTZPTHhPRVppTUx3N3hiUDFIcnlrdGJTN2ltaV95SE9BaUVvTVdwUktR?oc=5",
-      "site": "央广网",
+      "site": "cnr.cn",
       "siteUrl": "https://www.cnr.cn"
     },
     {
