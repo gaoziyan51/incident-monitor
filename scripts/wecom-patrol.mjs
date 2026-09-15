@@ -61,7 +61,15 @@ const CASUALTY_WORD_RE = /(遇难|失联|失踪|死亡|罹难|伤亡|被困|牺�
 /* 评论/非事件类排除 */
 const COMMENT_RE = /(视频｜|视频\||评论|警示|启示|盘点|解读|综述|一周|回眸|回顾|观察|思考|反思|探访|追问|之问|如何看|为何|说明了什么)/i;
 /* 非事件活动类排除（演练/科普/预警/直播/会议等——无伤亡数字时适用） */
-const NON_EVENT_RE = /(演练|演习|科普|培训|动员|部署会|工作会议|推进会|直播丨|直播\||专栏|访谈|百日攻坚|群防群治|气象(灾害)?(风险)?预警|预警发布|风险提示|紧急提示|演练活动|王維洛|大纪元)/i;
+const NON_EVENT_RE = /(演练|演习|科普|培训|动员|部署会|工作会议|推进会|直播丨|直播\||专栏|访谈|百日攻坚|群防群治|气象(灾害)?(风险)?预警|预警发布|风险提示|紧急提示|王維洛|大纪元|通话|慰问|回应|表态|的可能性|或将)/i;
+
+/* 标题清洗：去掉谷歌新闻的"XXX消息丨"前缀和结尾" - 来源" */
+function cleanTitle(t) {
+  return t
+    .replace(/^[^丨|]{0,12}消息\s*[丨|]\s*/, '')
+    .replace(/\s+-\s+[A-Za-z0-9.\u4e00-\u9fa5（）()]{2,20}\s*$/, '')
+    .trim();
+}
 /* 例行天气预报 */
 const ROUTINE_RE = /(天气预报|天气趋势|未来三天|未来几日|未来十天|蓝色预警|黄色预警|橙色预警|红色预警|发布预警|预警发布|预计.{0,6}(有|出现)|气温)/i;
 
@@ -125,7 +133,7 @@ async function fetchRss(src) {
   for (const b of (xml.match(/<item>([\s\S]*?)<\/item>/g) || [])) {
     const title = (b.match(/<title>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/title>/) || [])[1] || '';
     const pubDate = (b.match(/<pubDate>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/pubDate>/) || [])[1] || '';
-    const clean = title.replace(/<!\[CDATA\[|\]\]>/g, '').replace(/&amp;/g, '&').replace(/&quot;/g, '"').replace(/&#39;/g, "'").trim();
+    const clean = cleanTitle(title.replace(/<!\[CDATA\[|\]\]>/g, '').replace(/&amp;/g, '&').replace(/&quot;/g, '"').replace(/&#39;/g, "'").trim());
     if (!clean) continue;
     const siteM = b.match(/<source url="([^"]+)">([^<]+)<\/source>/);
     items.push({
