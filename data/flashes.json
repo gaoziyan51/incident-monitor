@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T02:25:21.063Z",
+  "updated": "2026-09-15T02:39:49.633Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -25,6 +25,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfWmowNGIyc200QU1ESDVxbC1hdmdLWUlCQXNHazV6aVdvY1FYMGFySHFueG50UGc3Q2Z2ZUVXaWNtbUQtNlBMWkRDLU01T2R5blhnY2UtSUR5ZUdHaWt5YWszOFRFQdIBa0FVX3lxTE5ncUFxSTZyWVZGQ05yLWwtOGVLS01kb2lsNjY5cVNfU1VlN1hWSjFtUEx4eEpObTY3c3F5czNZeElUM01KaU5uVF9NQ2FDdGlMY29tbi16UFluSkVGSzFkNXJHZFFTOUU5eW80?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-cb45bcae0b04",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 02:30:07 GMT",
+      "ts": 1789439407000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "普洱墨江4.5级地震，交通部门迅速排查守护路网安全畅通 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeHpkLVBlYkp2M3o4azVvMnJnNFc0cmRLS1p3bVgzeWd6MkxHVlAwaVJ6RGRfNm00MkdaajB6Rm9rajhOY24wZGlJSDVISGgzUzVBR0xvME5JZ2U1UUliWFpFc0RvQmphWUZGV1E2OEJadThFTm9QSXl4OXhoYzdhb3J2NHF6RTNGcjZRNw?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-4d7ff81c0924",
@@ -63,15 +75,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-f48cad139275",
+      "id": "FL-e1f72c67f05f",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 02:00:48 GMT",
       "ts": 1789437648000,
       "scope": "dom",
       "type": "other",
-      "title": "中央气象台：每 日 天 气 提 示（2026年09月15日） - 新浪网",
+      "title": "中央气象台：每 日 天 气 提 示（2026年09月15日） - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdVNsLTRybmptX09maFZaelB6Nko5N181VXhuZHlTcmpTdWZJYmYwTGRObGFYRjNkN2tZVDRSRjl5THViUUU3ZVlHMHBsdDgzMXhmRXAzX1NsaEpQQTlGZ2RNY2VIS3lQdVo0U2RvSEFDaG1fazdNcmFRUjdpaVBDY0tIcjhCSFIxNW5iQnF2aXRvbVE0V25RUw?oc=5",
-      "site": "新浪网",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -143,18 +155,6 @@
       "type": "geo",
       "title": "截至当地时间14日20时，尼泊尔泥石流灾害已致1396人遇难 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMEVPckFoTzBxYVo2bWtBUG5oOU5LeGRtYURZZzBkWTV2YmlOcEczYlByQXFHaWpyY0hwYXcyNlB5OWZVTkthMjdKOGVva1RNbm9hTlFweURKNU5VaWt3bVp0RkZfT0ZnLWlUN2RBeHIyaDhRQjdLVi1Wb3BqMlgzdUxTcGd3M2RC?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-88cb2f4ee281",
-      "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 01:10:28 GMT",
-      "ts": 1789434628000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "普洱墨江4.5级地震 道路、水路、民航运输正常 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcnlPdEtkYjFSTk1fY21IbnM0OGlaWElzSzNVVHZxTXdhSkc2bi1POWNmVTFhb2VtaVVzMEhFcWdHbTQ1MW54T3lMRXJPWmlTbVd2N1Q3bUJKZEQtRHlrd012aUtMd1VqWVlXeWJvRU5zbnhoT1YtZEstaEpqNHhobmZPQnowalN6am1aSA?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
@@ -289,18 +289,18 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbmt6N21OV1BJWFZ1Y0t6dWJFTkozeXowRVVaQWplSnhGMkRrYWE3bHZQal9jcnE2T1g3R3FYSDBHZ2hyQzVIbTd4OXltTlE1YjlJTjNCREJseWo2blJLdjFhWk0yeHNlQk5WZjQxR0VYSmNfWXBBT0x6UHZuRDE3QW5YeWhFX3Ba?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com",
-      "related": 22
+      "related": 23
     },
     {
-      "id": "FL-aeed7a750ca8",
+      "id": "FL-909ef06a4a75",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 23:33:16 GMT",
       "ts": 1789428796000,
       "scope": "intl",
       "type": "geo",
-      "title": "墨西哥西南近海地区发生5.5级地震 - 新浪网",
+      "title": "墨西哥西南近海地区发生5.5级地震 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96R1FrWUJpajBVT1lxLU00VVloUFdPdXh3NHEzdTI5RjhDVXNoWDBtZTJTcHpkalU1Z3E4dlpBSDFidHVfS0pxdXUzSG5SaGlfeEJ3Zi14d0VnWXVQT3V6TG9vWllIYlQ3ZGZOUUdaVkRPNG1fd0ZGWQ?oc=5",
-      "site": "新浪网",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -316,15 +316,15 @@
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
-      "id": "FL-b46b06e8af75",
+      "id": "FL-bad1abc7e55a",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 23:03:23 GMT",
       "ts": 1789427003000,
       "scope": "dom",
       "type": "geo",
-      "title": "云南临沧市耿马县发生2.8级地震，震源深度8千米 - Jiemian.com",
+      "title": "云南临沧市耿马县发生2.8级地震，震源深度8千米 - jiemian.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SR0FXZ1VGd1B6Rmg4Q2hNN3F5WExoMThBNVl1RGJibC1Ca3VEX2dlMGpoajFRazdmR1Izc1JpU2R0bHRuVWdUVzYxbmszdC1rampaQTVKcHk?oc=5",
-      "site": "Jiemian.com",
+      "site": "jiemian.com",
       "siteUrl": "https://www.jiemian.com"
     },
     {
@@ -364,15 +364,15 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-9baaa860d712",
+      "id": "FL-2211b9933f06",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 17:03:44 GMT",
       "ts": 1789405424000,
       "scope": "dom",
       "type": "weather",
-      "title": "海南暴雨致五指山突发山洪 被困14人已获救 - 新浪网",
+      "title": "海南暴雨致五指山突发山洪 被困14人已获救 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BWk16dnV0bFR3MWo0SGdWWHNLZUdQMy1YR254eDZIUVZIZzdOc3RXa0NxQkxITm9jVW1fbWExbkZGdV9XUERIaWdwd1JMYWpmbmwyRXJfT182TUhxNVlhYW82OElZeE9WLVJfai1HRGVpeUNldlhRTA?oc=5",
-      "site": "新浪网",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -388,15 +388,15 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-6c4dead36774",
+      "id": "FL-9ce4cd6f92ce",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 15:09:44 GMT",
       "ts": 1789398584000,
       "scope": "dom",
       "type": "weather",
-      "title": "愿平安！海南五指山暴雨武警紧急救援 - k.sina.com.cn",
+      "title": "愿平安！海南五指山暴雨武警紧急救援 - 新浪网",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzV1RRQWdJVWE4UXFSd04zOUtBMXNfc0lvVE9DNkc1T0wxb2F3OHc5Z0FJX0prN1c4VWFfaExMY0U5MHJWelg0ODBUcW8zekZaUEVKdjItZVY2aHZnZW1ET1c2T01EVlVKUEtOdHkwVng?oc=5",
-      "site": "k.sina.com.cn",
+      "site": "新浪网",
       "siteUrl": "http://k.sina.com.cn"
     },
     {
@@ -424,15 +424,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-b7e7283c11df",
+      "id": "FL-9f1680501c84",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 13:14:49 GMT",
       "ts": 1789391689000,
       "scope": "dom",
       "type": "weather",
-      "title": "海南防御强降雨紧急转移4.2万余人 13个市县宣布停课 - 新浪网",
+      "title": "海南防御强降雨紧急转移4.2万余人 13个市县宣布停课 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZGJVbGtqWE9zTzBhRDJRRjVkZi1rSWNvNDF6M3ZhUWVuU1liVmFucWdxNU91R2UzaGU4c3ZPUmtGWmRuVWE1TmM0T0VCRF9pWGMzdlFkSmhIcmVSWE9BMDZPVVZHYmRWaWxPLW9xZmhBMEpjVlNRZUVBdEw4cUVxZWVIcw?oc=5",
-      "site": "新浪网",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -470,7 +470,7 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YZkR4Y0d0X3puNWh4WURpNGl3UUVaXzVEMkVLelFxMWQ3SjlOSHFWcXhEbkdTWmdYRjh1S05GbE55enluN0g0Ulpub21wOEJiRDhTdDl5ZGd2LXhkUGF6TmxzUQ?oc=5",
       "site": "jingjiribao.cn",
       "siteUrl": "http://www.jingjiribao.cn",
-      "related": 45
+      "related": 46
     },
     {
       "id": "FL-52fcfdf43df4",
@@ -533,15 +533,15 @@
       "siteUrl": "https://china.kyodonews.net"
     },
     {
-      "id": "FL-4a30551391ea",
+      "id": "FL-f420951c5971",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 10:03:14 GMT",
       "ts": 1789380194000,
       "scope": "dom",
       "type": "weather",
-      "title": "特大暴雨来了，海南多地停课 - 新浪网",
+      "title": "特大暴雨来了，海南多地停课 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNXlTZzNSM1M4aUhJa3l1QTFLMFpaS3pTVDF2R05vZjdoQlRsck5hU0NHa2JVVFROOFEwcGhxdV9VRlBMMVdaYTdlVlJpcEFITlc2VjFfUUVrVGs5ZzNYY1g5MmM2MHQybldzVGtIdExlQmYtQ2xjX3V2aEVYaUJTaFoxRQ?oc=5",
-      "site": "新浪网",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -557,15 +557,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-f592f87e56ca",
+      "id": "FL-b517218cebd3",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 09:26:00 GMT",
       "ts": 1789377960000,
       "scope": "dom",
       "type": "geo",
-      "title": "云南普洱市墨江县发生4.5级地震 震源深度10公里 - cztv.com",
+      "title": "云南普洱市墨江县发生4.5级地震 震源深度10公里 - 新蓝网",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yaU5lSXJ6R0NwOVl3a3NQamJYZ1VrWS1zRXF2MEk1dnRGNGJwZmI3N3pKOWpMb25hQk5NV3pGd1h6ZEh3ZlVncmRfRy1tbFE?oc=5",
-      "site": "cztv.com",
+      "site": "新蓝网",
       "siteUrl": "https://www.cztv.com"
     },
     {
@@ -593,15 +593,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-93cecc50b2e8",
+      "id": "FL-aca302f8939d",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 09:11:37 GMT",
       "ts": 1789377097000,
       "scope": "dom",
       "type": "weather",
-      "title": "13个市县停课！海南局地特大暴雨 - 新浪网",
+      "title": "13个市县停课！海南局地特大暴雨 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObzliT210R2lwWFVXZWZicGVqcEZ4aVlDeWFFb2F2REIxNWF3Ul9vbjltTWdhV3ZEZk9yVHV1YWZ4WHViSExEak5XVTVhSHNTaG5mYWZablduSkd4UFhxTDFzN3dSbElaR2R6eE1pZWNBeFU3WndjWVVqUllNTGJYYV9TNk8tZE5uNGdoMnpkXzZBSnhCSE9ZZQ?oc=5",
-      "site": "新浪网",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -629,16 +629,16 @@
       "siteUrl": "http://www.news.cn"
     },
     {
-      "id": "FL-084bca225a36",
+      "id": "FL-9f43e97b18c0",
       "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 07:35:25 GMT",
-      "ts": 1789371325000,
+      "dateISO": "Mon, 14 Sep 2026 07:35:00 GMT",
+      "ts": 1789371300000,
       "scope": "dom",
       "type": "geo",
-      "title": "中方介绍西藏泥石流灾害外籍人员搜救情况 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9uZU1XYkYxbkJ2Mk5lNG90aGMzY0NwSzFUREhLd3FOVElXZ1diSzhJVG1oRV85aUI2UV9aZXZYMjZSLXRfbDFuN2R0ZHY?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://news.ifeng.com"
+      "title": "外交部发言人介绍西藏泥石流灾害外籍人员搜救情况 - peopleapp.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSWZJaDFJa2hTXzZPUFVLS2ZkZ3VUMWQ3aWt2WFkyUEtYMzZXT05iWmJhTWRvLUtuaEhnR0VlQmVGcFd5TlN2YjJ6TjE2UGI4dFBvUUxMMW0xS2VTYzNoMlhGSlZ2eXdqd250bE9PQzFVN2cwQXBycG1kZ2MyVjM2enJ4OFc3OUJIOEJYZk5aT00?oc=5",
+      "site": "peopleapp.com",
+      "siteUrl": "https://www.peopleapp.com"
     },
     {
       "id": "FL-def32ff8029f",
