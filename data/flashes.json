@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T10:14:07.138Z",
+  "updated": "2026-09-15T10:30:31.097Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,27 +15,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-1a134a5d6448",
-      "date": "2026-08-26",
-      "dateISO": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "ts": 1787727600000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "强降雨致广西多地发生洪涝灾害，解放军和武警部队官兵、民兵持续展开救援 - mod.gov.cn",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vd0VzRncydXJUemRMbXhJaks0eWE0b0VoWTY4VXVJQmxSUTU2TGdpaHRqOXh4VVRyU0tlTks0MjZZeUhZR2R1SEdUdEVBZHBoRk5EVDFweDZtMURf?oc=5",
-      "site": "mod.gov.cn",
-      "siteUrl": "http://www.mod.gov.cn"
-    },
-    {
-      "id": "FL-677dc499b4ba",
+      "id": "FL-767598e6cf26",
       "date": "2026-09-09",
       "dateISO": "Wed, 09 Sep 2026 08:47:00 GMT",
       "ts": 1788943620000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1374人 - 封面新闻",
+      "title": "尼泊尔泥石流灾害遇难人数升至1374人 - thecover.cn",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zVXZBNHFBdWFOQlRXOUc3QmRyZDVJUnBQS1ZyMkFNTXUwd0NnbXZGNGZjNVNWZW43LTFVeXZhQmczcVBLSFBlTWZ3VjBud0VudW1JNmdoaDdFckptc01nSWI0dVBLTS1MR1ByMUhRbW52RmFCUXlN?oc=5",
-      "site": "封面新闻",
+      "site": "thecover.cn",
       "siteUrl": "https://m.thecover.cn"
     },
     {
@@ -63,6 +51,18 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
+      "id": "FL-b36b8ea3d194",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 08:52:00 GMT",
+      "ts": 1789462320000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "拦山洪排内涝，北京苦练防汛“基本功” - 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZZ2g4d3RlLTQ0aGlBRURub0ZHN3Q2ci1iSmZZUHBneXN5WTNxY0VteERlRmc5MnBTNTdYMTFiYmY0bTMyaHVfaGFaR2Z5VFdWN3d0ajJMUWVzQUVuLVRkcnBsU3g?oc=5",
+      "site": "新京报",
+      "siteUrl": "https://www.bjnews.com.cn"
+    },
+    {
       "id": "FL-978c077b9576",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 07:48:42 GMT",
@@ -81,22 +81,22 @@
       "ts": 1789456761000,
       "scope": "dom",
       "type": "fire",
-      "title": "青岛外籍货轮起火25死事故国务院提级调查｜即时新闻｜中港台｜on.cc东网 - on.cc東網",
+      "title": "青岛外籍货轮起火25死事故国务院提级调查｜即时新闻｜中港台｜on.cc东网 - hk.on.cc",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOFZ0QUR5emtaVkxUMWJkNWc2cTdfdklqQW9BZV8xR3ZXZkpHVzl4WUowWVVmNlRLUXBRWUVPb3J5OXVVNEwwSTBMSUMxekU1RzVQSjEwVDFkSDlpOFNaNmNxUVdZNzB5LWFiOGxKd0dPNFJlTDJSLVVud0VpRUdBOFNEWG5CdUdEVERKMXotRQ?oc=5",
-      "site": "on.cc東網",
+      "site": "hk.on.cc",
       "siteUrl": "https://hk.on.cc",
-      "related": 23
+      "related": 22
     },
     {
-      "id": "FL-3d1209753c8a",
+      "id": "FL-ad76b97e04e5",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 06:33:34 GMT",
       "ts": 1789454014000,
       "scope": "dom",
       "type": "weather",
-      "title": "海南全力应对暴雨灾害 已累计转移群众5.5万余人 - news.cn",
+      "title": "海南全力应对暴雨灾害 已累计转移群众5.5万余人 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wWXdYYUJZNm5NOTRKYWFGcHl2b3RWajhIeUJjcTVHSUF3S3ZKeVBoVjFHTkNFdnItMGtiWlp3U0lLazJtVXhfSHloaGdZRWxIMWFlV2FrdkZnWUE2c1FtMEl2aVlVblBzcjhRclFqbnB1NmdJZDExM3A5a1plYzA?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -316,6 +316,30 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
+      "id": "FL-354ad3889d4c",
+      "date": "2026-09-10",
+      "dateISO": "Thu, 10 Sep 2026 21:25:53 GMT",
+      "ts": 1789075553000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害遇难人数升至1374人 - 新浪新闻_手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQncxTG1uTkowQnlxM1pVa3dYcmxPcUJ6NEFMU203Z08tSnU0Q3AxZ2tFaWFXQms5aW9SeW44RmtiOWozTTJCLUIyMkxOMV9qc01lZmxTbC0zeE0xTWFlcGFvUXRkV193OEp1dTVWRmwzWXl4VVJDQWg4MEJESkZsdDRmM2JQOU11Tm5xeVZYQ1dOeFVIVkJCU0pPUmpXZWVNN0FYSERpekM3UUViWlhwV240OFlVVi10WVg1WFRibDgteGczc0FMWmZ3?oc=5",
+      "site": "新浪新闻_手机新浪网",
+      "siteUrl": "https://news.sina.com.cn"
+    },
+    {
+      "id": "FL-e0b20b7e83b1",
+      "date": "2026-09-10",
+      "dateISO": "Thu, 10 Sep 2026 15:24:23 GMT",
+      "ts": 1789053863000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "西藏网警：网民恶意对比他国歪曲中国泥石流救援被罚 - 联合早报",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41YTFMaV8talhpWGRhdjJlWng2bThUdEwyTEFvbEgySFBYNDdaQUFXcW5sN3NOT3I3WGpINmVSenFmR1JWMVpYTTZ3R2swOExDVDc0WVJGR0ttWXAwWjdaSWh3NnFBMUpLUWc?oc=5",
+      "site": "联合早报",
+      "siteUrl": "https://www.zaobao.com.sg"
+    },
+    {
       "id": "FL-63616eb5470d",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 14:23:56 GMT",
@@ -364,15 +388,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-e4817d4605e3",
+      "id": "FL-95cf74f3e9e4",
       "date": "2026-08-30",
       "dateISO": "Sun, 30 Aug 2026 07:00:00 GMT",
       "ts": 1788073200000,
       "scope": "intl",
       "type": "geo",
-      "title": "现场直击丨尼泊尔泥石流灾区见闻 - news.cn",
+      "title": "现场直击丨尼泊尔泥石流灾区见闻 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PYUIyNEpIQ1BCa3FiWHkyN21PQTdwZUVOdTI3TmtLZ1RTMnA1WDQ1TGwzdnRfcTRJQTlHV1htQWVHOUpTNmJEb2Rmb1NjRFc5Yk4tOFNadGN6Q1VBRUJTd3k5QXpOXy1zU2ZzcU10TWg4dDRYRFJlYkExXzdUVUk?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -388,15 +412,15 @@
       "siteUrl": "https://m.voc.com.cn"
     },
     {
-      "id": "FL-bbfe15da4216",
+      "id": "FL-5ab622930f3d",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 02:59:27 GMT",
       "ts": 1789268367000,
       "scope": "intl",
       "type": "geo",
-      "title": "内蒙古阿拉善盟阿拉善左旗发生3.6级地震，震源深度8千米 - 央视网",
+      "title": "内蒙古阿拉善盟阿拉善左旗发生3.6级地震，震源深度8千米 - news.cctv.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByQlJLRGFrT0M4ZHc3SURQcGFZeGxSMFp5Y3owUmpfblZQNGJEQjJUVTFZUmdDdi11OTJkc3hicDVhV2pISE9UQnBET194ZmMxbDhadU5YLW83N2FwQUtjSFBhUDk2Z2k2Q2NlUWJpTzRhU0gwSWNzNQ?oc=5",
-      "site": "央视网",
+      "site": "news.cctv.com",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -410,18 +434,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByeEVvcHlucE92a1Z3T0Ywei1RT3Ric2RMaVEzNmVtbF9VVEVPMmhrNmliNEl3TGllWktKNjNodUNSSXh3S21KUHA2cEFqckZEV0RNMmpCWWRxSGM4Zm51VUEyV0dkZ9IBa0FVX3lxTFBxM2RNYURrR1hmQ1ktWnBrME1RQ1ZESXBWZHZ4aUNoaURoXy1BLXlySk9tcDZHb25fRmV5SDB5ZTVnck9rdlNmRHdGRkl3QldGb2VEZHA3VkNWT0NITjhmMTRwUWNpZEgxNDFF?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-14fe7fc19d62",
-      "date": "2026-08-29",
-      "dateISO": "Sat, 29 Aug 2026 07:00:00 GMT",
-      "ts": 1787986800000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流已致626人死亡 2426人失联 - news.cn",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PYjVKWUZ4T2psOVJsenNtWWs4WFNGcmZVakNzS21POTdVeGJHMWg2c1NYNDBjUjFwUFh5bHBueVFneTN5VmFCMXlIQjVjZXQ1dDh3QzF2Ry1HeFlZN2tydnNqV0tEcnhNZDA2aDRZWHkzeHFuZG54UFpXZ2V2OTA?oc=5",
-      "site": "news.cn",
-      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-fb448a3e9124",
@@ -532,18 +544,6 @@
       "siteUrl": "http://www.chinanews.com.cn"
     },
     {
-      "id": "FL-7d1b29c00db6",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 14:18:00 GMT",
-      "ts": 1789395480000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "日本滨冈核电站丑闻调查报告出炉：篡改地震评估！208项造假 - 驱动之家",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EM2NjTzQzSWhPQ2xTSWFpTmtCaGxDN001YVduNG1kZ05yU0hPWnJPQmdyd3JjUjREb0lBNXhIYXptR0VBOFBvS2FVTkFWcmZfbXZFWnZkRjQ?oc=5",
-      "site": "驱动之家",
-      "siteUrl": "https://news.mydrivers.com"
-    },
-    {
       "id": "FL-9166fc8fde39",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 13:40:44 GMT",
@@ -562,11 +562,11 @@
       "ts": 1789389325000,
       "scope": "dom",
       "type": "geo",
-      "title": "视频｜中方已通报吉隆泥石流灾害失联外籍人员家属DNA采集办法 - jingjiribao.cn",
+      "title": "视频｜中方已通报吉隆泥石流灾害失联外籍人员家属DNA采集办法 - rss.jingjiribao.cn",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YZkR4Y0d0X3puNWh4WURpNGl3UUVaXzVEMkVLelFxMWQ3SjlOSHFWcXhEbkdTWmdYRjh1S05GbE55enluN0g0Ulpub21wOEJiRDhTdDl5ZGd2LXhkUGF6TmxzUQ?oc=5",
-      "site": "jingjiribao.cn",
+      "site": "rss.jingjiribao.cn",
       "siteUrl": "http://www.jingjiribao.cn",
-      "related": 47
+      "related": 43
     },
     {
       "id": "FL-97b6812763e3",
@@ -581,15 +581,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-b517218cebd3",
+      "id": "FL-f592f87e56ca",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 09:26:00 GMT",
       "ts": 1789377960000,
       "scope": "dom",
       "type": "geo",
-      "title": "云南普洱市墨江县发生4.5级地震 震源深度10公里 - 新蓝网",
+      "title": "云南普洱市墨江县发生4.5级地震 震源深度10公里 - cztv.com",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yaU5lSXJ6R0NwOVl3a3NQamJYZ1VrWS1zRXF2MEk1dnRGNGJwZmI3N3pKOWpMb25hQk5NV3pGd1h6ZEh3ZlVncmRfRy1tbFE?oc=5",
-      "site": "新蓝网",
+      "site": "cztv.com",
       "siteUrl": "https://www.cztv.com"
     },
     {
@@ -605,15 +605,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-def32ff8029f",
+      "id": "FL-e74d67111657",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 07:33:35 GMT",
       "ts": 1789371215000,
       "scope": "intl",
       "type": "geo",
-      "title": "印尼亚齐特区发生山体滑坡 已致1死13伤 - 央视网",
+      "title": "印尼亚齐特区发生山体滑坡 已致1死13伤 - news.cctv.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mYmtPZ21ZUzhQZnBlQWM4M1M5ME5pV2lhSEtNRmFUUlNBdEZneTRTRzRrZzF1bGZMWTBIVkdtSGN0SERGMWNlTnNMeTdTY0tFRWFRSjFaVGlmME1sNko3VWRockVLVnNmV0Nkc0tmNURKR3hnZC0ySw?oc=5",
-      "site": "央视网",
+      "site": "news.cctv.com",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -653,15 +653,15 @@
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
-      "id": "FL-80ecb3992f9c",
+      "id": "FL-6c7570b3f8a2",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 02:37:22 GMT",
       "ts": 1789353442000,
       "scope": "dom",
       "type": "geo",
-      "title": "中国地震台网中心正就地震预警信息接入iOS系统与苹果公司沟通 - 央视网",
+      "title": "中国地震台网中心正就地震预警信息接入iOS系统与苹果公司沟通 - news.cctv.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzVHZybTB5dmZYTU1QdnZUM2VxSi1DdTdxVDg5LWZnY0E2bGtINktmM0NINFlOYnp2R2phTG5BSGE4c3czeFdhcVBvQXpwVXJmckFHT1g5ZUFRNm9mVFZqamdUQnA5N3hDeDlMdXhrZXhSMGlwYm5pNQ?oc=5",
-      "site": "央视网",
+      "site": "news.cctv.com",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -677,16 +677,16 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
-      "id": "FL-56766cd8d269",
+      "id": "FL-93fd2460b77b",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 01:44:00 GMT",
       "ts": 1789350240000,
       "scope": "dom",
       "type": "geo",
-      "title": "地震预警何时接入苹果系统？中国地震局再回应：争取尽早实现 - 观察者网",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QS04yZEZ1YmZuNGd0ZUNma1RpN2ItbnlFcjVrVWtVVzBETTBxQ2NnQkNlSnl4NnBFSUdUcjFrV3AxN0o3dUZ1bGRFUVNWSXVNdjZuUlJEWmEySE9mQzdMeS1zVQ?oc=5",
+      "title": "地震预警何时接入苹果系统？中国地震局回应 - 观察者网",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tT01WaVdFa3NVQmp3cWoyMklIYUpmRVh0eWtidVA1VTRkcUd0UFloY1JBeVVaSUdiUUtia2VRN2RsZGFLUlI0bmFDbkxPTkFlRzFGeWpoSDhqdnowUXU2TlUtLWV2UQ?oc=5",
       "site": "观察者网",
-      "siteUrl": "https://m.guancha.cn"
+      "siteUrl": "https://www.guancha.cn"
     },
     {
       "id": "FL-6bd4ba852002",
