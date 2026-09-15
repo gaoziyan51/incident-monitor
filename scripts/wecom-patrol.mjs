@@ -9,7 +9,7 @@
  *  2. 多源印证：同一事件（标题相似分组）被 ≥2 家不同媒体报道，可信度更高
  *  3. 评论类排除：视频｜/评论/警示/启示/盘点/解读等标题一律不推
  *
- * 消息精简为三行：标题 + 地址（从标题提取省市县）+ 来源渠道。
+ * 消息五要素：标题 + 伤亡统计 + 发布时间 + 地址（从标题提取省市县）+ 来源渠道。
  * 运行：node scripts/wecom-patrol.mjs （需环境变量 WECOM_WEBHOOK）
  */
 import { createHash } from 'node:crypto';
@@ -287,8 +287,14 @@ async function main() {
       : c.official ? `${srcLabel}`
       : `${srcLabel} 等 ${keySources.get(c.key).size} 家媒体`;
     const addr = extractAddr(c.title) || '详见标题';
+    const casText = c.deaths || c.missing
+      ? `${c.deaths ? `${c.deaths}人遇难` : ''}${c.deaths && c.missing ? '、' : ''}${c.missing ? `${c.missing}人失联` : ''}（以官方通报为准）`
+      : '暂无伤亡报告，以官方通报为准';
+    const when = new Date(c.ts).toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai', hour12: false, year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' });
     const md = [
       `**${c.title}**`,
+      `伤亡：${casText}`,
+      `时间：${when}`,
       `地址：${addr}`,
       `来源：${srcNote}`,
     ].join('\n');
