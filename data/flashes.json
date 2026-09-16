@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-16T16:50:47.087Z",
+  "updated": "2026-09-16T17:06:24.857Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-42ba1d0df553",
+      "date": "2026-08-26",
+      "dateISO": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "ts": 1787727600000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "西藏土石流：接壤尼泊尔边境山洪暴发 上千人失踪包括多国游客 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CTG9yTTh6cnplOGJ1TG5PUzFQRkwtNjZTTzFLcEMwYzRWQlhzTVF2eGMyUFRzdWlKYldDSTVRcWNVd2RnbkJWU1prR2FMUVhKeVk4X0c4MVNnbUFCTjItZ0JiN0xvd9IBa0FVX3lxTE1PT1F4VHcyMnlBRE5SdUdLeERKN21TU1VXSkdqTTNnWnE1MTkxNi1Yb1ZqbWQtX2ZVdGwtMFhCZjZsVmgwTi1LNkdwYWtOZTE3dDlIVzNiT3cxOHV2dzdnZF9hY2cwV3dsSi1j?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
+    },
     {
       "id": "FL-9546a9fed4e5",
       "date": "2026-09-16",
@@ -133,7 +145,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41OEIxNUxYSG1rSm16Nk9yUFdyTFlua2Jxak5MSUEwVk4zT3diUDlQRG15R0FZaFNJTTBjUE4wWDBtQkxHV1MtbU1VUUNsNkhwWFhXaDZMLTBwbHc2WHJZbVRUQ0dyS3VxWnE0eg?oc=5",
       "site": "xzxw.com",
       "siteUrl": "https://www.xzxw.com",
-      "related": 37
+      "related": 38
     },
     {
       "id": "FL-a704a45dea9a",
@@ -362,7 +374,7 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZcWRUM00xcGFjLWJ6UjU5MjlqM19VSjZDWjJDRXJINDBISmVBRzlKQzV6bmVneXRLX0NyZDdaUm0zMi00QldkQVBWdGJIM2JKSzFXNXNRbHpWS2lFcElaWlprcmw4S2R3a0tub1dqTnRjM2xRY0hMblZhbw?oc=5",
       "site": "中青在线",
       "siteUrl": "http://m.cyol.com",
-      "related": 18
+      "related": 19
     },
     {
       "id": "FL-d91404203dae",
@@ -531,18 +543,6 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CX1BCWlpfQWdzOUk4NER1dmF5Ym5MOE1jem9VWlBhYXZJSmJIRjJEMjAtNlEtUnZjcmpHSkZjOW1GVXJ3WU80Q1BGYVF3NDBGREMwWWVYZWEtY3Qxa3hMdFdBTWFINHBRekRFbWdXa2QzYjFFc0E?oc=5",
       "site": "央广网",
       "siteUrl": "https://www.cnr.cn"
-    },
-    {
-      "id": "FL-26b71d7e9a07",
-      "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 15:09:58 GMT",
-      "ts": 1789484998000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1403人遇难 - 新浪新闻_手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DV3BuZjVma1hEMEFHN2V6STRLcU0wV2NwYmxUQnYxUXRqalI4eUVieDFFdW1abzBTdzAyOTRjSjlObE13Q2pyMVM2U0xrMmU0UlN0MGJXd0tHenhVY1MxV2k0SmFhRmlTSmQ0VGZYY0c?oc=5",
-      "site": "新浪新闻_手机新浪网",
-      "siteUrl": "https://news.sina.com.cn"
     },
     {
       "id": "FL-b36b8ea3d194",
