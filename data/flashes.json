@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-16T11:51:33.896Z",
+  "updated": "2026-09-16T12:08:52.415Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-6fe567902f9c",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 11:45:53 GMT",
+      "ts": 1789559153000,
+      "scope": "dom",
+      "type": "collapse",
+      "title": "栈桥坍塌、杂草丛生，禹王湿地咋“荒”了 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ1pmTU02bDVxR0M2LU9UcUliOHZjYk0tSjE0SFFhTmpzcFBZdlJkYXA1WTZSa0Vxa3dER3p4Qy1CRm51a3JoZldmVkllSkg2RzZrYWRXYS1nekY2eVVEVUxWTnBiaTF0NUxYdFZrcHdibVpPSGx6NFVueVB2SUQwTmh5UFBNV2h3b1BVaQ?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
     {
       "id": "FL-d727fa0a60b3",
       "date": "2026-09-16",
@@ -25,18 +37,18 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVXJRd05nUUJsdjc0czhLcnQ4Y2FaWEM2QXRiU2ZIYXBzSUdGNk5VaWduOWpPRno5c21BTlIyNDZQRkZ6djlJX0lBckYzRXpjMnUySUcxN2NOQ1B5OGlTWl9EY2M1TEphMzRBWFp0ZXJsRno1dlFycl8tcE1FWk9qdDA5MzBwM3gx?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com",
-      "related": 40
+      "related": 43
     },
     {
-      "id": "FL-ebd4411bd89f",
+      "id": "FL-7c2b68ab354a",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 11:36:06 GMT",
       "ts": 1789558566000,
       "scope": "dom",
       "type": "other",
-      "title": "加沙公寓楼深夜倒塌 至少20人死亡近100人受困废墟下 - 联合早报",
+      "title": "加沙公寓楼深夜倒塌 至少20人死亡近100人受困废墟下 - zaobao.com.sg",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RUmdfejg0c0VkRk9TSDlfNGVtaGRNcDI5ZkYtT2s0VFVFSHF3a3gyaU1FZVZmUGlHak9JdWp2SE05dTRwNkk0T3daWUw5TmxWLVRtR01aNjNhc3B3R0c1d1BFdHg2c3dEREE?oc=5",
-      "site": "联合早报",
+      "site": "zaobao.com.sg",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
@@ -86,6 +98,18 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZTFwUHBnNE1BeFR5TnpIdWsxdjcxWmdla2FOY00xWldFazVhamhtOEhCdDc1T0lBWXlNNzdZb2t1cmFOeExSYzl5WWlEblhSbjVCRER0aVRxaUZ6X3JYVmwycmRzbjRvQTJTRkZtSTZnR21UT1JYX1A4WFVUUVBXYmVMTUVrYWJK?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-217081586f79",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 10:31:00 GMT",
+      "ts": 1789554660000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "#四川山体滑坡161人提前转移# 《 谢天谢地0伤亡》刚打开微博，看见四川热搜：今日（9月16日）茂县滑坡，阿坝茂县叠溪镇石大关村发生山体滑坡，没有人员伤亡滑坡造成国道213道路阻断，该山体早已纳入监测，8月24日就把161名受威胁群众全部提前转移安置，道路也 - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DR1lVREV2SVpfQkdwZ2J2NTM3ZUl3M2xtOWpucTJwY2RHRTFxaFFYbTNUQTk1R0dzbEROVW56aG9IcGhUcHhhTzV1MGlZbVpVQWpRSGpVd1BXNW9FZUprSjhTNA?oc=5",
+      "site": "手机新浪网",
+      "siteUrl": "https://www.sina.cn"
     },
     {
       "id": "FL-8c242b228b8b",
@@ -158,18 +182,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5Hb1diRGpSWFlzcjhFaXpOQnBwSlVHUVhkeWFtSFlMWUVEU1o3VjB4NHczQk9Hbkw4UDc5MUhNUml5SUcxdzdNLTBOaEs?oc=5",
       "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com"
-    },
-    {
-      "id": "FL-4e13a442b2b6",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 08:58:44 GMT",
-      "ts": 1789549124000,
-      "scope": "intl",
-      "type": "collapse",
-      "title": "苏丹一金矿发生坍塌事故，造成至少60人死亡 - finance.sina.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBxZTFYV2p1MXRVNWwxQmw2SE5rOWlKb1BFN0xUNnpGRHZ1WlZrbHdPd2tTZDg2RWNiZkVvZWRuUi1BLXItZV9tY2stdw?oc=5",
-      "site": "finance.sina.com.cn",
-      "siteUrl": "https://wap.cj.sina.cn"
     },
     {
       "id": "FL-24990cc10c38",
@@ -250,22 +262,34 @@
       "ts": 1789543680000,
       "scope": "dom",
       "type": "fire",
-      "title": "青岛一艘外籍货轮发生火灾 - cyol.com",
+      "title": "青岛一艘外籍货轮发生火灾 - 中青在线",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZcWRUM00xcGFjLWJ6UjU5MjlqM19VSjZDWjJDRXJINDBISmVBRzlKQzV6bmVneXRLX0NyZDdaUm0zMi00QldkQVBWdGJIM2JKSzFXNXNRbHpWS2lFcElaWlprcmw4S2R3a0tub1dqTnRjM2xRY0hMblZhbw?oc=5",
-      "site": "cyol.com",
+      "site": "中青在线",
       "siteUrl": "http://m.cyol.com",
-      "related": 18
+      "related": 19
     },
     {
-      "id": "FL-90b784652602",
+      "id": "FL-49d976f88853",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 07:25:00 GMT",
+      "ts": 1789543500000,
+      "scope": "dom",
+      "type": "other",
+      "title": "加沙城一建筑倒塌致至少11人死 百余人失踪 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQa0JnVndwRGxIS1dYbzZvY2ZLclRwc3JreEZGNWlobHZOS2U0dWFhWlZXQ004V1lnSThCS2FQZDBjSWlFNmxBVVZXMU5rdVlBZEJvTHBzOE45eTNlUjBNNWZFdURnb05HTWFub1BJZEo5U0NISERLbHJrREp6TnhiZjMxYkZwTVhyejlXVQ?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-bd2f28ca6707",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 07:20:29 GMT",
       "ts": 1789543229000,
       "scope": "dom",
       "type": "other",
-      "title": "中央气象台：今天到明天，湖北、四川、贵州、云南、广西、广东等地有短时强降水 - 深圳新闻网",
+      "title": "中央气象台：今天到明天，湖北、四川、贵州、云南、广西、广东等地有短时强降水 - sznews.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBod1FaY2xHa2JhOUs1bjU1RmRfc2wyYWp3V0J3cU5DdGlUWUdON2VtOWNnRkVxMFJMU0FScXd2d1FYcHBkTUx5Ym5PSGxsOXlGcklTN21TRkVGbmJER0dSSGh5dmpoaWZ3VHlzTFZMLUY1RlpBbUlKcQ?oc=5",
-      "site": "深圳新闻网",
+      "site": "sznews.com",
       "siteUrl": "http://www.sznews.com"
     },
     {
@@ -437,16 +461,28 @@
       "siteUrl": "https://www.cztv.com"
     },
     {
-      "id": "FL-d015bcadd21a",
+      "id": "FL-f1f82737b1d7",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 22:13:00 GMT",
       "ts": 1789510380000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1403人遇难 - 中国网新闻中心",
+      "title": "尼泊尔泥石流灾害已致1403人遇难 - news.china.com.cn",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBySGExLXVMdmFfZGREZUM1d01XRE1nZUxXNHNnU0U0SzROaUFfelVpTWZTNnB3QW56WEFCZktZTWRMQ1ZtNFNrZjZ0ZTV1TFdINTRSdW5CTlpfbWFXMWVxQmVvYWVBbGVpMExB?oc=5",
-      "site": "中国网新闻中心",
+      "site": "news.china.com.cn",
       "siteUrl": "http://news.china.com.cn"
+    },
+    {
+      "id": "FL-c4983000a78b",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 15:28:00 GMT",
+      "ts": 1789486080000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害已致1403人遇难 - finance.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XTXlZSjJuZTFJTXMyOVRPdlB5cFUzNjg1UTBTc2NkVlF6cnh3SWx1MkZuM1p5azhHdnY2YnNSYnlNUGhOQ010SHY5RWV1YzVmSzdkdzk2VVR5ODJ1Y2tYUUtBQllaYlJpTGx2WU8wQ1FQSUl1RFNPVw?oc=5",
+      "site": "finance.sina.com.cn",
+      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-26b71d7e9a07",
@@ -461,18 +497,6 @@
       "siteUrl": "https://news.sina.com.cn"
     },
     {
-      "id": "FL-0b8b148a6522",
-      "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 13:23:00 GMT",
-      "ts": 1789478580000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "最后一名失联人员被找到，江西遂川泥石流灾害共造成13人遇难 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNcWFDS213NjdsSjlHNTluVVp3VjdJV3k0N1Jha2l5SFpLNGpZQTFzLUNGc1g4Z0p3MWJBdUU5Ylpnam1uLXQ2cC1yOXJaRGlKeEhYSTdfRUQxcTlzVmppU0VLQV9yR1ZhclRyUWZrUEFYNVR2cjZtZA?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
-    },
-    {
       "id": "FL-93cfa468b423",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 12:34:58 GMT",
@@ -485,15 +509,15 @@
       "siteUrl": "http://www.xinhuanet.com"
     },
     {
-      "id": "FL-b36b8ea3d194",
+      "id": "FL-64aba0b9242b",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 08:52:00 GMT",
       "ts": 1789462320000,
       "scope": "dom",
       "type": "weather",
-      "title": "拦山洪排内涝，北京苦练防汛“基本功” - 新京报",
+      "title": "拦山洪排内涝，北京苦练防汛“基本功” - bjnews.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aM3lxTlVQLW4wVERMMFJ0d01PRUFwS3BvQV9LWU5kaWZlUjNjZk5KVnZmQ0R4cUNlMHp0TE1JblRJN3V2VGhjRGhlWUt4UURIX01LZmpsRVo2TTZTNU5vYTZ3?oc=5",
-      "site": "新京报",
+      "site": "bjnews.com.cn",
       "siteUrl": "https://m.bjnews.com.cn"
     },
     {
@@ -569,15 +593,15 @@
       "siteUrl": "https://m.thecover.cn"
     },
     {
-      "id": "FL-e0b20b7e83b1",
+      "id": "FL-221fab767f36",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 15:24:23 GMT",
       "ts": 1789053863000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏网警：网民恶意对比他国歪曲中国泥石流救援被罚 - 联合早报",
+      "title": "西藏网警：网民恶意对比他国歪曲中国泥石流救援被罚 - zaobao.com.sg",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41YTFMaV8talhpWGRhdjJlWng2bThUdEwyTEFvbEgySFBYNDdaQUFXcW5sN3NOT3I3WGpINmVSenFmR1JWMVpYTTZ3R2swOExDVDc0WVJGR0ttWXAwWjdaSWh3NnFBMUpLUWc?oc=5",
-      "site": "联合早报",
+      "site": "zaobao.com.sg",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
@@ -677,18 +701,6 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-89db2d234367",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 07:06:28 GMT",
-      "ts": 1789369588000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川阿坝州理县发生3.0级地震，震源深度8千米 - 央视网",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uaWVtYmVtZmRseEF4Tlh1WkVybVJoaFRId1I4aUo1aWhwNkhrU3hsSkZSRkRHNG5nOTJVc0JQRXkwdUcwR1RXX3J0N014U1otTElTaHZJQTNFNm1xQU8tcjVDOEo0SmpvdnN4WWZLbVRRSXlEQ19TMQ?oc=5",
-      "site": "央视网",
-      "siteUrl": "https://news.cctv.com"
-    },
-    {
       "id": "FL-d3d0efae420a",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 04:22:56 GMT",
@@ -699,18 +711,6 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1iY3VBeFFKbnJ3cHZ2ZmIyaEFCUmdvOFRSaWFVZERhYnhnMkl3aEhrck5na3ZHYzRCWFd1bnhGVF9WZTZPTHhPRVppTUx3N3hiUDFIcnlrdGJTN2ltaV95SE9BaUVvTVdwUktR?oc=5",
       "site": "央广网",
       "siteUrl": "https://www.cnr.cn"
-    },
-    {
-      "id": "FL-80ecb3992f9c",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 02:37:22 GMT",
-      "ts": 1789353442000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "中国地震台网中心正就地震预警信息接入iOS系统与苹果公司沟通 - 央视网",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzVHZybTB5dmZYTU1QdnZUM2VxSi1DdTdxVDg5LWZnY0E2bGtINktmM0NINFlOYnp2R2phTG5BSGE4c3czeFdhcVBvQXpwVXJmckFHT1g5ZUFRNm9mVFZqamdUQnA5N3hDeDlMdXhrZXhSMGlwYm5pNQ?oc=5",
-      "site": "央视网",
-      "siteUrl": "https://news.cctv.com"
     },
     {
       "id": "FL-e8a32a183e42",
