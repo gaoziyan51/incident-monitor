@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T23:45:43.552Z",
+  "updated": "2026-09-16T23:53:56.070Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,15 +15,27 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-901e96946dc5",
+      "id": "FL-01049f3dcf6b",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 23:41:00 GMT",
+      "ts": 1789602060000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "亲历尼泊尔泥石流救灾：现场救援、气候变迁与生死哲学｜907编辑部 - thepaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PaktUUHlvMWxvWjRwQk41YTMzQmJnMVJNWlNxaGNvcW1NQ19xNF9tV0MzTFN3MDlaSG1DN3ZYWThJdDVBUWFPcXhBc182eEsxbFBfUGxWYjI1Y3g4V0E?oc=5",
+      "site": "thepaper.cn",
+      "siteUrl": "https://m.thepaper.cn"
+    },
+    {
+      "id": "FL-f1c7d29237ca",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 23:22:56 GMT",
       "ts": 1789600976000,
       "scope": "dom",
       "type": "other",
-      "title": "中央气象台：预计今早至明天，湖北、湖南、江西、四川、重庆、贵州、云南、广西、广东、海南岛等地有短时强降水 - 新浪财经",
+      "title": "中央气象台：预计今早至明天，湖北、湖南、江西、四川、重庆、贵州、云南、广西、广东、海南岛等地有短时强降水 - finance.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVVFFYlE0Ym1hQzc5bTdTZWZVVWppaGtYU1RvYTF6ajd5SjF5OC1UMG1LaldIOEJtQ1hkV25xSGJ4SV9HdFhoYjhVM1JEN1ZmTFRwX3ZWZmR3a25mVlBmRG9ZQTdIVkNXNS1pTHpQeDZPUEpsb1Ixb0dreExydFVTYUZtQ3RRbWd5elIzSkRzUHlZc01WOUJ4SEw2YmtLUm1jOXFrQ0dfOGpNOFJYSEM5eHhjcmNYdFk5WjBtUkFaNXRpT1BqaG9GdlBXYTdLcTZqSFY3a09ibzA?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.cn",
       "siteUrl": "http://finance.sina.cn"
     },
     {
@@ -51,15 +63,15 @@
       "siteUrl": "https://www.sohu.com"
     },
     {
-      "id": "FL-1a8d741d87de",
+      "id": "FL-8e67d037623b",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 18:28:16 GMT",
       "ts": 1789583296000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川茂县突发山体滑坡，提前管控未造成人员伤亡 - 新浪财经",
+      "title": "四川茂县突发山体滑坡，提前管控未造成人员伤亡 - finance.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcmxhUjJxN2k1bmdsLW1YZUs1VVlMeE55N0FMU2NfSmVabWJhN3ZlZmt2N21lOURIYmtmM0ZzZFBkNDVkQmNmbjllcnlXcTVjSWh6N1JlTHFDTkVzaFBlZ0o4SW9OdGlkNmFYVHJrblNNeW1EWnRrSDBLSXlQN3ozV25MbjhmMC1Yb1lidk5ha3B4bi03bFd4Rw?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.cn",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -111,27 +123,27 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-f594dfc5c77b",
+      "id": "FL-6b6aed7ef41b",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 15:18:39 GMT",
       "ts": 1789571919000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1409人遇难 - news.bjd.com.cn",
+      "title": "尼泊尔泥石流灾害已致1409人遇难 - 京报网",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yV09rVm5pZVUzS3Q5cFZsX3VPVllaNTFKSjhRSlpMeTdJVTFFSWc2czJUcWJ6cmZWbmhaTDBzUzlPcVpZRjhGS21FV2FHWHA0clVyUVBpYjhxVE8yTkE?oc=5",
-      "site": "news.bjd.com.cn",
+      "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-825dbff6028c",
+      "id": "FL-c0d8d099ff73",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 15:17:41 GMT",
       "ts": 1789571861000,
       "scope": "intl",
       "type": "geo",
-      "title": "日本茨城县发生4.8级地震，东京有明显震感 - news.bjd.com.cn",
+      "title": "日本茨城县发生4.8级地震，东京有明显震感 - 京报网",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qQS14RUo5U29VNjhiZ0Zlc0xfY0ZkMlFqVUlEM3BSaU5YUGJWaXRBMkl4Z1NSTDhLUUtwcXB6Mk5pVF82TGVhaVF1RnMwZVpMY1kyVzJXcV9uZ3RrQWc?oc=5",
-      "site": "news.bjd.com.cn",
+      "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
@@ -169,7 +181,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWGVFUV8wSmNuNWtpcW9HYWNjRDFHVXNpTkxaY3JrczdzV28xWmVIeUZyYXY1VmkzX0JTUDJGQmpyNEFfdFFhbEFJbkZSTExNR2xOdmFsdzVvREZGWmdBcGpNbmZtODRBWlp1Q29lVGpLckgxWkhtQjFuS0EyaGVZclJaRzdBZ29IRGRBbQ?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com",
-      "related": 40
+      "related": 41
     },
     {
       "id": "FL-a704a45dea9a",
@@ -340,15 +352,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-646c87a4b368",
+      "id": "FL-054ad76a1599",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 08:00:00 GMT",
       "ts": 1789545600000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川茂县定子坝滑坡体发生垮塌，当地已提前将161人全部转移 - 新京报",
+      "title": "四川茂县定子坝滑坡体发生垮塌，当地已提前将161人全部转移 - bjnews.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mSjJkbDRhV1Y2ekdXS28wcFIxc1VRdGZWTXdJQUJPeHFhcThHeFNTenFKdmduUDAwNzd5Ukw1enFPcXV5ai1UTjE1T0xtdl9Vb0VpcUxpMXZvcHYya0F4ME52dkQ?oc=5",
-      "site": "新京报",
+      "site": "bjnews.com.cn",
       "siteUrl": "https://www.bjnews.com.cn"
     },
     {
@@ -449,15 +461,15 @@
       "siteUrl": "https://www.cnr.cn"
     },
     {
-      "id": "FL-77762bc1ac3f",
+      "id": "FL-ce7f795236d8",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 05:51:27 GMT",
       "ts": 1789537887000,
       "scope": "dom",
       "type": "other",
-      "title": "加沙城一建筑倒塌致至少9人死亡、近100人失踪 - news.bjd.com.cn",
+      "title": "加沙城一建筑倒塌致至少9人死亡、近100人失踪 - 京报网",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoN2xfSXpacjliUmI0NWxzcWtvMHkzSWd5ekN6VHB5X05LRlR3Rm1kNHM1ZFl6c29EcXdvejJmTldfY29SRC1mTnRIeUFteDZfRFRia1Q0ZDZ3MkdjQXc?oc=5",
-      "site": "news.bjd.com.cn",
+      "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
@@ -509,27 +521,27 @@
       "siteUrl": "https://www.cnr.cn"
     },
     {
-      "id": "FL-6a573c99cb76",
+      "id": "FL-26b71d7e9a07",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 15:09:58 GMT",
       "ts": 1789484998000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1403人遇难 - news.sina.com.cn",
+      "title": "尼泊尔泥石流灾害已致1403人遇难 - 新浪新闻_手机新浪网",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DV3BuZjVma1hEMEFHN2V6STRLcU0wV2NwYmxUQnYxUXRqalI4eUVieDFFdW1abzBTdzAyOTRjSjlObE13Q2pyMVM2U0xrMmU0UlN0MGJXd0tHenhVY1MxV2k0SmFhRmlTSmQ0VGZYY0c?oc=5",
-      "site": "news.sina.com.cn",
+      "site": "新浪新闻_手机新浪网",
       "siteUrl": "https://news.sina.com.cn"
     },
     {
-      "id": "FL-b36b8ea3d194",
+      "id": "FL-64aba0b9242b",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 08:52:00 GMT",
       "ts": 1789462320000,
       "scope": "dom",
       "type": "weather",
-      "title": "拦山洪排内涝，北京苦练防汛“基本功” - 新京报",
+      "title": "拦山洪排内涝，北京苦练防汛“基本功” - bjnews.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aM3lxTlVQLW4wVERMMFJ0d01PRUFwS3BvQV9LWU5kaWZlUjNjZk5KVnZmQ0R4cUNlMHp0TE1JblRJN3V2VGhjRGhlWUt4UURIX01LZmpsRVo2TTZTNU5vYTZ3?oc=5",
-      "site": "新京报",
+      "site": "bjnews.com.cn",
       "siteUrl": "https://m.bjnews.com.cn"
     },
     {
@@ -579,18 +591,6 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CQ1ZWdmtOdFRiUzBzaC04UVZoVGZ0RmJGVTRseWJrMFdmaktnWVVUcms3UDVTSW9pWFJaNDZ1NnRrZENFQnZ6RmtpZThGQUpxcUVEWE1qQVdUVFg2WkFkaVN2YUxGOXRQQmM3eXloaHYtaG5qMkpFbUY1YzU?oc=5",
       "site": "求是",
       "siteUrl": "https://www.qstheory.cn"
-    },
-    {
-      "id": "FL-63616eb5470d",
-      "date": "2026-09-10",
-      "dateISO": "Thu, 10 Sep 2026 14:23:56 GMT",
-      "ts": 1789050236000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1382人遇难 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yTVR2OE40OXNCTlpXR2FyR2hncU5haXBVOThJM1VqM2xKYjRMS043Z1c4ZjFUWDA1WVM0QkZkZXFQY1BjOW9Zdjd4MEV5QnlGRVh6WGkyV2t1SHRWc2MzcEp4MXcyV0la?oc=5",
-      "site": "央广网",
-      "siteUrl": "https://news.cnr.cn"
     },
     {
       "id": "FL-31aaf7309a8a",
