@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T04:51:15.428Z",
+  "updated": "2026-09-16T05:06:23.610Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -13,6 +13,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CTG9yTTh6cnplOGJ1TG5PUzFQRkwtNjZTTzFLcEMwYzRWQlhzTVF2eGMyUFRzdWlKYldDSTVRcWNVd2RnbkJWU1prR2FMUVhKeVk4X0c4MVNnbUFCTjItZ0JiN0xvd9IBa0FVX3lxTE1PT1F4VHcyMnlBRE5SdUdLeERKN21TU1VXSkdqTTNnWnE1MTkxNi1Yb1ZqbWQtX2ZVdGwtMFhCZjZsVmgwTi1LNkdwYWtOZTE3dDlIVzNiT3cxOHV2dzdnZF9hY2cwV3dsSi1j?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-ec6cab12c898",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 04:59:03 GMT",
+      "ts": 1789534743000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "中国海南暴雨迫使超5.5万人撤离 - 和平日报",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWHNxMTJHbkUzTGE4dkpPb3lkWHM3Y3Jka3ZvQlk1V18wVHlWeWtfMUpJR2JoMTloMEE5T2MzWGdsdk96MDNHVDRSWE5LTDZqTWw2TXgtRFZoM0ZFbVFyWGMzaXJjN1B4bm1CZGpacllLUUhJZ00tMEU1dDUtTEtXeUIxalgxX0hQNmF3NUczS21XNTU4V2gySFRnbUlpeWRMR2tRellWNlZhLWg5VTYyaEk1WHZfc2ozQi1XaTc3YzVMNWpHOEVXc2hTZUFfMGhSOHZDOEN4UXJqU0FUOEhkZ0hiVmRpM2xxb3EwaTcyQm5FckhHQVhz?oc=5",
+      "site": "和平日报",
+      "siteUrl": "https://www.hepingribao.id"
     },
     {
       "id": "FL-91e42a5edce3",
@@ -97,7 +109,7 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OZm9NUjdCZF9nS1pLQzQ3YTJCLU1uNkdqVDBlSjJzZnZLQWNMNTAwVWhmdHlZcWlzZkdvZGJrckRXN0JNYW5XUUtlSnoteWh0X2RnWHp0Q0tqWTNJQ2RJ?oc=5",
       "site": "虎嗅网",
       "siteUrl": "https://m.huxiu.com",
-      "related": 42
+      "related": 43
     },
     {
       "id": "FL-fe186dd0953d",
@@ -146,18 +158,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfWmowNGIyc200QU1ESDVxbC1hdmdLWUlCQXNHazV6aVdvY1FYMGFySHFueG50UGc3Q2Z2ZUVXaWNtbUQtNlBMWkRDLU01T2R5blhnY2UtSUR5ZUdHaWt5YWszOFRFQdIBa0FVX3lxTE5ncUFxSTZyWVZGQ05yLWwtOGVLS01kb2lsNjY5cVNfU1VlN1hWSjFtUEx4eEpObTY3c3F5czNZeElUM01KaU5uVF9NQ2FDdGlMY29tbi16UFluSkVGSzFkNXJHZFFTOUU5eW80?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-ec6cab12c898",
-      "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 22:59:03 GMT",
-      "ts": 1789513143000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "中国海南暴雨迫使超5.5万人撤离 - 和平日报",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWHNxMTJHbkUzTGE4dkpPb3lkWHM3Y3Jka3ZvQlk1V18wVHlWeWtfMUpJR2JoMTloMEE5T2MzWGdsdk96MDNHVDRSWE5LTDZqTWw2TXgtRFZoM0ZFbVFyWGMzaXJjN1B4bm1CZGpacllLUUhJZ00tMEU1dDUtTEtXeUIxalgxX0hQNmF3NUczS21XNTU4V2gySFRnbUlpeWRMR2tRellWNlZhLWg5VTYyaEk1WHZfc2ozQi1XaTc3YzVMNWpHOEVXc2hTZUFfMGhSOHZDOEN4UXJqU0FUOEhkZ0hiVmRpM2xxb3EwaTcyQm5FckhHQVhz?oc=5",
-      "site": "和平日报",
-      "siteUrl": "https://www.hepingribao.id"
     },
     {
       "id": "FL-4f4fe953a381",
@@ -220,15 +220,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-0674fd4d2559",
+      "id": "FL-ec0d2255786c",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 15:44:17 GMT",
       "ts": 1789487057000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1403人遇难 - cnr.cn",
+      "title": "尼泊尔泥石流灾害已致1403人遇难 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CX1BCWlpfQWdzOUk4NER1dmF5Ym5MOE1jem9VWlBhYXZJSmJIRjJEMjAtNlEtUnZjcmpHSkZjOW1GVXJ3WU80Q1BGYVF3NDBGREMwWWVYZWEtY3Qxa3hMdFdBTWFINHBRekRFbWdXa2QzYjFFc0E?oc=5",
-      "site": "cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://www.cnr.cn"
     },
     {
@@ -254,19 +254,6 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rXzVub2V1OFpMUC1Dei0xcnowQWlaTEtxVzlSM1JkcWpZNkxaeUpacjdJV2s5WHJjODluQjBvbHN5TFAwdU9nVTJCOGcxdlNhMkMzcy14SHQ0VzQ?oc=5",
       "site": "极目新闻",
       "siteUrl": "https://www.ctdsb.net"
-    },
-    {
-      "id": "FL-EV-18d9b0620c3d",
-      "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 13:28:43 GMT",
-      "ts": 1789478923000,
-      "scope": "dom",
-      "type": "fire",
-      "title": "新闻8点见丨国务院对青岛货轮火灾提级调查；北京将试鸣防空警报 - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IOS0xZ2hPNFBwdnZ1d00tTmxCQ2pJejFvV3FXZ0llb3ZpVVVlQ01RLTFScDRTOG1XWUJubkJjVkxDbm5BMkREbzlsX01icmV5VWZRdUJfN3FvQ0RJRUNzUzBfQWY?oc=5",
-      "site": "新京报",
-      "siteUrl": "https://www.bjnews.com.cn",
-      "related": 12
     },
     {
       "id": "FL-0b8b148a6522",
@@ -377,18 +364,6 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-ed0b61a28ead",
-      "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 01:40:45 GMT",
-      "ts": 1789436445000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1396人遇难 - Jiemian.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoXzBNcU9RLVhhTmtGLXJoSXNOYS02NFA4VGtiVFJJSGVwSGNlY04yb3h6UzE0ZENrTzVjVVIxVVdOWUFXbHNHWVBmNnRwNVMtZVhyWWU1YXg?oc=5",
-      "site": "Jiemian.com",
-      "siteUrl": "https://www.jiemian.com"
-    },
-    {
       "id": "FL-2821cbb61427",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 01:35:35 GMT",
@@ -485,15 +460,15 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-20349e76752b",
+      "id": "FL-31aaf7309a8a",
       "date": "2026-09-03",
       "dateISO": "Thu, 03 Sep 2026 07:00:00 GMT",
       "ts": 1788418800000,
       "scope": "dom",
       "type": "weather",
-      "title": "台风“沙德尔”带来强降雨，福建全力抢险救援 - fj.people.com.cn",
+      "title": "台风“沙德尔”带来强降雨，福建全力抢险救援 - 人民网-福建频道",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9idjB1WHk1RmxjaXpsRFVqTmtSUXdDbEcwVlp0d2k5TnNndmxBNXhhV0syZmdBVlVCQzZuZk56cmNGeWFCYnp5SkVxaFFvbGQ0TXoxalUyeFJtRHJfa2l2TVhBRXJVQWVfM0E?oc=5",
-      "site": "fj.people.com.cn",
+      "site": "人民网-福建频道",
       "siteUrl": "http://fj.people.com.cn"
     },
     {
@@ -521,16 +496,16 @@
       "siteUrl": "https://m.voc.com.cn"
     },
     {
-      "id": "FL-bbfe15da4216",
+      "id": "FL-40d60e09c577",
       "date": "2026-09-13",
-      "dateISO": "Sun, 13 Sep 2026 02:59:27 GMT",
-      "ts": 1789268367000,
+      "dateISO": "Sun, 13 Sep 2026 15:04:00 GMT",
+      "ts": 1789311840000,
       "scope": "intl",
       "type": "geo",
-      "title": "内蒙古阿拉善盟阿拉善左旗发生3.6级地震，震源深度8千米 - 央视网",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByQlJLRGFrT0M4ZHc3SURQcGFZeGxSMFp5Y3owUmpfblZQNGJEQjJUVTFZUmdDdi11OTJkc3hicDVhV2pISE9UQnBET194ZmMxbDhadU5YLW83N2FwQUtjSFBhUDk2Z2k2Q2NlUWJpTzRhU0gwSWNzNQ?oc=5",
-      "site": "央视网",
-      "siteUrl": "https://news.cctv.com"
+      "title": "尼泊尔泥石流灾害遇难人数升至1392人 - 封面新闻",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TWjViUkt6M2xhR2ZDbEZFbnBOZGVFc2ZxSThOT29tdDBIbk9tWHZIY1NaWk4zek12MXNQeVJXZUhwUGRrc3ZvV1l0alhlMG1DaV9RV0tnVFg3X3pYdGxjSDNpUm5ERGdoWTFVN2tQVXROQjJSakZz?oc=5",
+      "site": "封面新闻",
+      "siteUrl": "https://m.thecover.cn"
     },
     {
       "id": "FL-03e1c60639f5",
@@ -591,6 +566,31 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wamNQU2FUbk1OeGEtYTBLZ1ZGZUxWcFZ6ZmZIbUc1LTQxaUo2RnVXSWdEZEFXVkdKaDZTYmpudVpzX3F5eFhTY2YtRDcxSmp1SHhscjhCUEhhcTNVYkIwTkJ3OWp4QQ?oc=5",
       "site": "昆明信息港",
       "siteUrl": "https://www.kunming.cn"
+    },
+    {
+      "id": "FL-EV-18d9b0620c3d",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 10:27:56 GMT",
+      "ts": 1789381676000,
+      "scope": "dom",
+      "type": "fire",
+      "title": "青岛货轮火灾致25人遇难5人受伤，国务院提级调查：依法严肃追责 - Jiemian.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41VGtOWUhaY0J1WWd6X3Z1N005R2laUk9CZlVpUldYREdMUU5LLTJQSllELXhNQnRoNUV1dDlMSmZJM25saGpUcXBpSU95aEVEZzNOSExB?oc=5",
+      "site": "Jiemian.com",
+      "siteUrl": "https://m.jiemian.com",
+      "related": 18
+    },
+    {
+      "id": "FL-97b6812763e3",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 09:52:58 GMT",
+      "ts": 1789379578000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "云南墨江哈尼族自治县发生4.5级地震 - chinanews.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxOTV6NU5SOV8xdUFoUUZRZXg3QmYzZFN0X19qSjBRSmFGeENqZ0YwcTM0UDVmemVKUTFsRE01SUpJUWtWbVl0cTgybnNiblN1QlVWYXV0RzE1NjgxS1RpMmRRRDVENERQ?oc=5",
+      "site": "chinanews.com.cn",
+      "siteUrl": "https://www.chinanews.com.cn"
     },
     {
       "id": "FL-a180db4ef1a9",
