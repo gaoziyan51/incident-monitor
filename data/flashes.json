@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T18:56:28.520Z",
+  "updated": "2026-09-16T19:08:20.049Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -27,15 +27,15 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-c2a04813577b",
+      "id": "FL-6c37d6eedf5e",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 17:06:14 GMT",
       "ts": 1789578374000,
       "scope": "dom",
       "type": "collapse",
-      "title": "加沙：建筑坍塌致至少20人死亡，搜救工作仍在继续 - UN News",
+      "title": "加沙：建筑坍塌致至少20人死亡，搜救工作仍在继续 - news.un.org",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wdnBqX2d2T1NSQ092SjlCdW1fbVZfak4ycERLSWtGb2VxT21FdXRQSkd5bVFiVkxvZlFlaDZralk5b2FyemR4RlptclBhbDhrR1ZILTc4Zw?oc=5",
-      "site": "UN News",
+      "site": "news.un.org",
       "siteUrl": "https://news.un.org"
     },
     {
@@ -169,7 +169,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41OEIxNUxYSG1rSm16Nk9yUFdyTFlua2Jxak5MSUEwVk4zT3diUDlQRG15R0FZaFNJTTBjUE4wWDBtQkxHV1MtbU1VUUNsNkhwWFhXaDZMLTBwbHc2WHJZbVRUQ0dyS3VxWnE0eg?oc=5",
       "site": "xzxw.com",
       "siteUrl": "https://www.xzxw.com",
-      "related": 37
+      "related": 38
     },
     {
       "id": "FL-a704a45dea9a",
@@ -473,15 +473,15 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-fe8a4c4411cf",
+      "id": "FL-9c63d9d89c05",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 03:40:00 GMT",
       "ts": 1789530000000,
       "scope": "intl",
       "type": "geo",
-      "title": "亚当·图兹：德国民主的地震 - opinion.caixin.com",
+      "title": "亚当·图兹：德国民主的地震 - 财新",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ESnZRZmVCcldwS0RDLWdnTEZNRzI0YUlGV29oaFZ4YjdTdUVlUW5tQ2lVYnE3N0Fmb0U2Wmk1THQ5bTE0SWxUMjIxck1fQUJiZnN6T1BkNEdvSEYwTFpaRjZB?oc=5",
-      "site": "opinion.caixin.com",
+      "site": "财新",
       "siteUrl": "https://opinion.caixin.com"
     },
     {
@@ -581,6 +581,18 @@
       "siteUrl": "https://www.guancha.cn"
     },
     {
+      "id": "FL-7bdcfc2cf898",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 02:17:00 GMT",
+      "ts": 1789438620000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "暴雨致海南五指山交通断联，道路抢险人员:\"全线作战\" - hi.chinanews.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZbUpuajRKemEwZUdNci1hNDIteVpTZDBNVnQ1Y0MwbnpUWEZreGJNTWFQMWsxU0NhamlIdTU5OWMtMjhqeVQwa2hUUkpUNi1FZEhnS2d0ZWgyRXlBTHhnaXFVY08xUjRtdk8wcw?oc=5",
+      "site": "hi.chinanews.com.cn",
+      "siteUrl": "https://www.hi.chinanews.com.cn"
+    },
+    {
       "id": "FL-2821cbb61427",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 01:35:35 GMT",
@@ -605,15 +617,15 @@
       "siteUrl": "https://www.qstheory.cn"
     },
     {
-      "id": "FL-20349e76752b",
+      "id": "FL-31aaf7309a8a",
       "date": "2026-09-03",
       "dateISO": "Thu, 03 Sep 2026 07:00:00 GMT",
       "ts": 1788418800000,
       "scope": "dom",
       "type": "weather",
-      "title": "台风“沙德尔”带来强降雨，福建全力抢险救援 - fj.people.com.cn",
+      "title": "台风“沙德尔”带来强降雨，福建全力抢险救援 - 人民网-福建频道",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9idjB1WHk1RmxjaXpsRFVqTmtSUXdDbEcwVlp0d2k5TnNndmxBNXhhV0syZmdBVlVCQzZuZk56cmNGeWFCYnp5SkVxaFFvbGQ0TXoxalUyeFJtRHJfa2l2TVhBRXJVQWVfM0E?oc=5",
-      "site": "fj.people.com.cn",
+      "site": "人民网-福建频道",
       "siteUrl": "http://fj.people.com.cn"
     },
     {
@@ -639,18 +651,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rWlBVcnZhd0NVTDlFZ3hVN3BYR3RLUFpMZEM0eVkwN2JkRXIzM0V0REJXR2FjeDRxUUVqeDBvMUtKU25TUFNDMzJYdHNucTZ4bDBEWkFjazFwZGZEOVJzVlZyNGtiZ9IBa0FVX3lxTFBOT0pTWlZHV0dDQTNJRFExWFdZcGJDZTI3aDVxeDJQNGk4WldjSzRwa1lJRXF3aW1Id1QwVHM0TlNoRWp2SmtvMURjcEZoTG5kaVlSOTlHcFpVMFpxSkp0MnVUX2NGZWZYZk5N?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-91bdb2ea9dee",
-      "date": "2026-08-23",
-      "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
-      "ts": 1787468400000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "日本茨城县地震致37人受伤 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fZ3lxTFI5WEl3Qjlvb2l4cU5CT1hZdkt1emRwLW1oc0RfcDlvbW90SEJkWnp5QUJCUEdmUzRpVHBlQ0ZCUFlzQVpRbzlOZUhSY1ZucFhuWWE2QUQ4WlR6OVQwakhOaXRVU1djd3JFallBbXl6RlJvSElnUm9BZ2c?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-40d60e09c577",
