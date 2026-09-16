@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T03:22:14.866Z",
+  "updated": "2026-09-16T03:39:19.477Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -184,16 +184,29 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-f612baf862ab",
+      "id": "FL-193221c26840",
       "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 15:14:36 GMT",
-      "ts": 1789485276000,
+      "dateISO": "Tue, 15 Sep 2026 15:11:56 GMT",
+      "ts": 1789485116000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1403人 - 虎嗅网",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CcnQxRDV0dm8xWUlfQmhoaGR6Z3pVQlZGeHFmRjFZZnBPVDZqa0NsaVRXV0ZTdlotT0p0Y1ljTGIta2MtSGRBd2pkM2NCQWhUZkJN?oc=5",
-      "site": "虎嗅网",
-      "siteUrl": "https://www.huxiu.com"
+      "title": "尼泊尔泥石流灾害已致1403人遇难 - 极目新闻",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rXzVub2V1OFpMUC1Dei0xcnowQWlaTEtxVzlSM1JkcWpZNkxaeUpacjdJV2s5WHJjODluQjBvbHN5TFAwdU9nVTJCOGcxdlNhMkMzcy14SHQ0VzQ?oc=5",
+      "site": "极目新闻",
+      "siteUrl": "https://www.ctdsb.net"
+    },
+    {
+      "id": "FL-EV-18d9b0620c3d",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 13:28:43 GMT",
+      "ts": 1789478923000,
+      "scope": "dom",
+      "type": "fire",
+      "title": "新闻8点见丨国务院对青岛货轮火灾提级调查；北京将试鸣防空警报 - 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IOS0xZ2hPNFBwdnZ1d00tTmxCQ2pJejFvV3FXZ0llb3ZpVVVlQ01RLTFScDRTOG1XWUJubkJjVkxDbm5BMkREbzlsX01icmV5VWZRdUJfN3FvQ0RJRUNzUzBfQWY?oc=5",
+      "site": "新京报",
+      "siteUrl": "https://www.bjnews.com.cn",
+      "related": 12
     },
     {
       "id": "FL-0b8b148a6522",
@@ -220,18 +233,6 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-49740cabc935",
-      "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 13:02:46 GMT",
-      "ts": 1789477366000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "PEC 2026 AI创作先锋对谈：在AI海啸中寻找艺术与商业的价值锚点-人工智能 - 至顶网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KSHY2ZG51c3IxMThVUlprQnJ4SGdyRF9jUklKV1VhUXhJSkVTTExFYi1iSWU4cDlwWjZEN2hSU0ZrcG80SEotRkFMUjUtOTBFcHBhbXkyNXJibjZBS0E?oc=5",
-      "site": "至顶网",
-      "siteUrl": "https://www.zhiding.cn"
-    },
-    {
       "id": "FL-93cfa468b423",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 12:34:58 GMT",
@@ -242,19 +243,6 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNZmhLdmNhemtaWkwySFVoeC1RNzJ2cXF5Z2RKNExfWTlHU3J4dW14dGQzUC12cEVldy1fUGZFN1BUQklqb2lqbWxFaTR5eWREVGVvcmNXaXY1SHdqT3dzWFJjOTdwbWhWVkJQM2FWT0Q1RmI1N1E4QngyNVhEQQ?oc=5",
       "site": "新华网",
       "siteUrl": "http://www.xinhuanet.com"
-    },
-    {
-      "id": "FL-EV-18d9b0620c3d",
-      "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 11:58:42 GMT",
-      "ts": 1789473522000,
-      "scope": "dom",
-      "type": "fire",
-      "title": "新闻8点见丨国务院对青岛货轮火灾提级调查；北京将试鸣防空警报 - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IOS0xZ2hPNFBwdnZ1d00tTmxCQ2pJejFvV3FXZ0llb3ZpVVVlQ01RLTFScDRTOG1XWUJubkJjVkxDbm5BMkREbzlsX01icmV5VWZRdUJfN3FvQ0RJRUNzUzBfQWY?oc=5",
-      "site": "新京报",
-      "siteUrl": "https://www.bjnews.com.cn",
-      "related": 12
     },
     {
       "id": "FL-ad6ee0bdda47",
@@ -569,18 +557,6 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-470b743a1716",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 15:40:00 GMT",
-      "ts": 1789400400000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "日本核电站地震评估数据造假 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUR1BFZzFOSUpObS1JWXNDcVlZdVdYVjBvZXNSSXl4cFdGbk5VVDZGQzRUTl81UkVGcThQZk42LWRySXhjcjNDdHZvZ3psYWctY0lnN1BVUjltbVAxelhGOUJGX2NqM0ZtRHl6TFF6ZHYwSTBPdmc?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
-    },
-    {
       "id": "FL-3fd6e106fb4f",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 14:48:41 GMT",
@@ -593,6 +569,18 @@
       "siteUrl": "https://www.kunming.cn"
     },
     {
+      "id": "FL-97b6812763e3",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 09:52:58 GMT",
+      "ts": 1789379578000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "云南墨江哈尼族自治县发生4.5级地震 - chinanews.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxOTV6NU5SOV8xdUFoUUZRZXg3QmYzZFN0X19qSjBRSmFGeENqZ0YwcTM0UDVmemVKUTFsRE01SUpJUWtWbVl0cTgybnNiblN1QlVWYXV0RzE1NjgxS1RpMmRRRDVENERQ?oc=5",
+      "site": "chinanews.com.cn",
+      "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
       "id": "FL-a180db4ef1a9",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 09:27:00 GMT",
@@ -603,6 +591,18 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrVVJVMl9sU3FJSV92VVJJM2pPYkFsMVUzWGJjYUVrVVhrSk5mMnEycm5rZTR2OVFKWUtub1RqTHZHamtUbElwVFRET1dkUUtvZHE2Z2o4b3g3aFJDdEE?oc=5",
       "site": "thepaper.cn",
       "siteUrl": "https://m.thepaper.cn"
+    },
+    {
+      "id": "FL-c8e42d9d5958",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 09:24:26 GMT",
+      "ts": 1789377866000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "云南普洱市墨江县发生4.5级地震 震源深度10公里 - 华龙网",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKLUd0aFI0ZEdid3JoQndya004MlBXZFhscm1TSlE3RGUwYzVXZElKN20xSVU5dXJBU3FVSkZLRmFxVE5HeXlmaWtTLWQyamVGTkc2YUlKbjJsamNmLUVPSHp4YktsbXVJTlpz?oc=5",
+      "site": "华龙网",
+      "siteUrl": "https://www.cqnews.net"
     },
     {
       "id": "FL-def32ff8029f",
