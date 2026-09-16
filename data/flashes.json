@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T18:42:31.980Z",
+  "updated": "2026-09-16T18:56:28.520Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -147,16 +147,16 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-c58e6cdcfffa",
+      "id": "FL-e82f64ca0c7b",
       "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 14:46:29 GMT",
-      "ts": 1789569989000,
+      "dateISO": "Wed, 16 Sep 2026 13:37:41 GMT",
+      "ts": 1789565861000,
       "scope": "intl",
       "type": "collapse",
-      "title": "苏丹金矿坍塌事故已造成至少67名矿工遇难 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Dd1dYUEp5Y1ZyRTNnNWRsMGNTUUViUkl0aHJ4anJOQjlhMmdMWnVudG1UZDJoX0JoNjRqa2VSY09fTDRzQW5NSF9fOE9RUmEwZlFWNXRSaVl2RWZnTXc?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://news.bjd.com.cn"
+      "title": "苏丹金矿坍塌事故已造成至少67名矿工遇难 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52ZlRLWDNGemdWQ1Q2SHMwRnVUZ0x4SFdONXVTQ19nYmJ4eWVxVW1sREFGd2cwMlFaM3J4bDUwVzRPZ1d1cVVGdU14SHpDTnpIZ1duemV4V0V0aXRIZ2xtekF6Q29oeGJLcWNDYU1HMVk1eTVSclFlZA?oc=5",
+      "site": "央视网",
+      "siteUrl": "https://news.cctv.com"
     },
     {
       "id": "FL-EV-f283a898090a",
@@ -292,6 +292,18 @@
       "siteUrl": "https://news.ifeng.com"
     },
     {
+      "id": "FL-23e8a136c85e",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 09:11:00 GMT",
+      "ts": 1789549860000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "国道213线茂县叠溪镇定子坝滑坡阻断道路，从茂县方向前往九寨沟黄龙需绕行 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVTl1Q0NhMlFoX1dSVmFoSG1kWHM3TFJORjNLQUpGSlpmelU0VDYyaTNhY3h0bGJ1N05QVlFjYVhpaHRGT2dMT0J2Q1pnTzMzQXJNeTM2eVREY2xva0Q5TUZaUGNfUm5mNDRfWnNEUUpNSndGSHpKOGI2SGdTYXRhRE9YWTNTYUo5YlA2Yw?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-24990cc10c38",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 08:55:35 GMT",
@@ -389,27 +401,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-d91404203dae",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 07:22:00 GMT",
-      "ts": 1789543320000,
-      "scope": "dom",
-      "type": "other",
-      "title": "加沙城一建筑倒塌致至少11人死 百余人失踪 - 紫牛新闻",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92NEppNktNLXZPUW1FcEtud1Zna01XWTlmcHZTSk1WbWFheE4zZXdWai1hUWctNWhmVUo0SklReW01SDV3NDJTTFlFNWpvWl8tbTlfZ21BLV9GVV9sem1yZjZhUVlqb2FQVFE?oc=5",
-      "site": "紫牛新闻",
-      "siteUrl": "https://www.yzwb.net"
-    },
-    {
-      "id": "FL-90b784652602",
+      "id": "FL-bd2f28ca6707",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 07:20:29 GMT",
       "ts": 1789543229000,
       "scope": "dom",
       "type": "other",
-      "title": "中央气象台：今天到明天，湖北、四川、贵州、云南、广西、广东等地有短时强降水 - 深圳新闻网",
+      "title": "中央气象台：今天到明天，湖北、四川、贵州、云南、广西、广东等地有短时强降水 - sznews.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBod1FaY2xHa2JhOUs1bjU1RmRfc2wyYWp3V0J3cU5DdGlUWUdON2VtOWNnRkVxMFJMU0FScXd2d1FYcHBkTUx5Ym5PSGxsOXlGcklTN21TRkVGbmJER0dSSGh5dmpoaWZ3VHlzTFZMLUY1RlpBbUlKcQ?oc=5",
-      "site": "深圳新闻网",
+      "site": "sznews.com",
       "siteUrl": "http://www.sznews.com"
     },
     {
@@ -473,16 +473,28 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-9c63d9d89c05",
+      "id": "FL-fe8a4c4411cf",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 03:40:00 GMT",
       "ts": 1789530000000,
       "scope": "intl",
       "type": "geo",
-      "title": "亚当·图兹：德国民主的地震 - 财新",
+      "title": "亚当·图兹：德国民主的地震 - opinion.caixin.com",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ESnZRZmVCcldwS0RDLWdnTEZNRzI0YUlGV29oaFZ4YjdTdUVlUW5tQ2lVYnE3N0Fmb0U2Wmk1THQ5bTE0SWxUMjIxck1fQUJiZnN6T1BkNEdvSEYwTFpaRjZB?oc=5",
-      "site": "财新",
+      "site": "opinion.caixin.com",
       "siteUrl": "https://opinion.caixin.com"
+    },
+    {
+      "id": "FL-646c87a4b368",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 03:00:00 GMT",
+      "ts": 1789527600000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川茂县定子坝滑坡体发生垮塌，当地已提前将161人全部转移 - 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mSjJkbDRhV1Y2ekdXS28wcFIxc1VRdGZWTXdJQUJPeHFhcThHeFNTenFKdmduUDAwNzd5Ukw1enFPcXV5ai1UTjE1T0xtdl9Vb0VpcUxpMXZvcHYya0F4ME52dkQ?oc=5",
+      "site": "新京报",
+      "siteUrl": "https://www.bjnews.com.cn"
     },
     {
       "id": "FL-6afc6cbe3184",
@@ -519,18 +531,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfWmowNGIyc200QU1ESDVxbC1hdmdLWUlCQXNHazV6aVdvY1FYMGFySHFueG50UGc3Q2Z2ZUVXaWNtbUQtNlBMWkRDLU01T2R5blhnY2UtSUR5ZUdHaWt5YWszOFRFQdIBa0FVX3lxTE5ncUFxSTZyWVZGQ05yLWwtOGVLS01kb2lsNjY5cVNfU1VlN1hWSjFtUEx4eEpObTY3c3F5czNZeElUM01KaU5uVF9NQ2FDdGlMY29tbi16UFluSkVGSzFkNXJHZFFTOUU5eW80?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-f1f82737b1d7",
-      "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 22:13:00 GMT",
-      "ts": 1789510380000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1403人遇难 - news.china.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBySGExLXVMdmFfZGREZUM1d01XRE1nZUxXNHNnU0U0SzROaUFfelVpTWZTNnB3QW56WEFCZktZTWRMQ1ZtNFNrZjZ0ZTV1TFdINTRSdW5CTlpfbWFXMWVxQmVvYWVBbGVpMExB?oc=5",
-      "site": "news.china.com.cn",
-      "siteUrl": "http://news.china.com.cn"
     },
     {
       "id": "FL-ec0d2255786c",
@@ -605,15 +605,15 @@
       "siteUrl": "https://www.qstheory.cn"
     },
     {
-      "id": "FL-31aaf7309a8a",
+      "id": "FL-20349e76752b",
       "date": "2026-09-03",
       "dateISO": "Thu, 03 Sep 2026 07:00:00 GMT",
       "ts": 1788418800000,
       "scope": "dom",
       "type": "weather",
-      "title": "台风“沙德尔”带来强降雨，福建全力抢险救援 - 人民网-福建频道",
+      "title": "台风“沙德尔”带来强降雨，福建全力抢险救援 - fj.people.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9idjB1WHk1RmxjaXpsRFVqTmtSUXdDbEcwVlp0d2k5TnNndmxBNXhhV0syZmdBVlVCQzZuZk56cmNGeWFCYnp5SkVxaFFvbGQ0TXoxalUyeFJtRHJfa2l2TVhBRXJVQWVfM0E?oc=5",
-      "site": "人民网-福建频道",
+      "site": "fj.people.com.cn",
       "siteUrl": "http://fj.people.com.cn"
     },
     {
