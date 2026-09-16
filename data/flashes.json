@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T17:06:24.857Z",
+  "updated": "2026-09-16T17:19:52.768Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,6 +15,30 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
+      "id": "FL-6c37d6eedf5e",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 17:06:14 GMT",
+      "ts": 1789578374000,
+      "scope": "dom",
+      "type": "collapse",
+      "title": "加沙：建筑坍塌致至少20人死亡，搜救工作仍在继续 - news.un.org",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wdnBqX2d2T1NSQ092SjlCdW1fbVZfak4ycERLSWtGb2VxT21FdXRQSkd5bVFiVkxvZlFlaDZralk5b2FyemR4RlptclBhbDhrR1ZILTc4Zw?oc=5",
+      "site": "news.un.org",
+      "siteUrl": "https://news.un.org"
+    },
+    {
+      "id": "FL-6a992e6f8bc8",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 16:12:00 GMT",
+      "ts": 1789575120000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "日本茨城县南部发生4.8级地震 - gbcode.rthk.hk",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdXpRMkdVY0tKNld6NndiemFMdk1JOGhUbEVERlA3NEg2Z3BTbFllcGk3VUtJOTRCVlhHMzZ3clNfdF93eG1Id0dvWlV6eVY4TEFha29vNk1yQW5uRDVpUVc3WC0wYjYtS2VlV2FQVGtSR2tKSW1JdVBjZGRzQTJhU05BY0xlNVowWlM2Vkp3cmFObGs5b2J2U1NEUVpLMlYtQTVR?oc=5",
+      "site": "gbcode.rthk.hk",
+      "siteUrl": "https://gbcode.rthk.hk"
+    },
+    {
       "id": "FL-9546a9fed4e5",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 15:40:01 GMT",
@@ -25,18 +49,6 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sRmdGN2dYZEZJQ0VNYmhSSjN6Ni1pTXFESjF6dldDczZndmM0UEJaWWFCUHV4blNwVnlreG0xaGlZQWcxcVVCc3U4VzNQcFNJRzIzcnpRQVc0OUE?oc=5",
       "site": "极目新闻",
       "siteUrl": "https://www.ctdsb.net"
-    },
-    {
-      "id": "FL-ca16e0c727fc",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 15:24:15 GMT",
-      "ts": 1789572255000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "日本茨城县发生4.8级地震 东京有明显震感 - chinanews.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZQTJjN2VIdXRHVWxuMkU3emlXVjFKTnR4QTB1Z3hhV3hKeTllNlgyams3dU9KdHZvUUxNd3dfYkw2d2ozX0FDXzkwQ3JuckZfaFlSeWljNDQwMmcwODJ0TnZ0a19BOHFl?oc=5",
-      "site": "chinanews.com.cn",
-      "siteUrl": "https://www.chinanews.com.cn"
     },
     {
       "id": "FL-6b6aed7ef41b",
@@ -145,7 +157,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41OEIxNUxYSG1rSm16Nk9yUFdyTFlua2Jxak5MSUEwVk4zT3diUDlQRG15R0FZaFNJTTBjUE4wWDBtQkxHV1MtbU1VUUNsNkhwWFhXaDZMLTBwbHc2WHJZbVRUQ0dyS3VxWnE0eg?oc=5",
       "site": "xzxw.com",
       "siteUrl": "https://www.xzxw.com",
-      "related": 38
+      "related": 37
     },
     {
       "id": "FL-a704a45dea9a",
@@ -495,18 +507,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5MVY3bFZCYWpkRzdLQVBObEtOUXZUNkdYMjFuWEI5YTROWl81NUxBZEFKclE1X3pfd0FiNXJ6dVRTYmRpS2dZQ0VibE81TjdCdjVKV3Nkeml2OEJka0E?oc=5",
       "site": "thepaper.cn",
       "siteUrl": "https://m.thepaper.cn"
-    },
-    {
-      "id": "FL-646c87a4b368",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 00:00:00 GMT",
-      "ts": 1789516800000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川茂县定子坝滑坡体发生垮塌，当地已提前将161人全部转移 - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mSjJkbDRhV1Y2ekdXS28wcFIxc1VRdGZWTXdJQUJPeHFhcThHeFNTenFKdmduUDAwNzd5Ukw1enFPcXV5ai1UTjE1T0xtdl9Vb0VpcUxpMXZvcHYya0F4ME52dkQ?oc=5",
-      "site": "新京报",
-      "siteUrl": "https://www.bjnews.com.cn"
     },
     {
       "id": "FL-674383638b4c",
