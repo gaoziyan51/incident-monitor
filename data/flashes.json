@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T03:51:11.593Z",
+  "updated": "2026-09-16T04:06:56.651Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -13,6 +13,30 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CTG9yTTh6cnplOGJ1TG5PUzFQRkwtNjZTTzFLcEMwYzRWQlhzTVF2eGMyUFRzdWlKYldDSTVRcWNVd2RnbkJWU1prR2FMUVhKeVk4X0c4MVNnbUFCTjItZ0JiN0xvd9IBa0FVX3lxTE1PT1F4VHcyMnlBRE5SdUdLeERKN21TU1VXSkdqTTNnWnE1MTkxNi1Yb1ZqbWQtX2ZVdGwtMFhCZjZsVmgwTi1LNkdwYWtOZTE3dDlIVzNiT3cxOHV2dzdnZF9hY2cwV3dsSi1j?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-9c63d9d89c05",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 03:40:00 GMT",
+      "ts": 1789530000000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "亚当·图兹：德国民主的地震 - 财新",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ESnZRZmVCcldwS0RDLWdnTEZNRzI0YUlGV29oaFZ4YjdTdUVlUW5tQ2lVYnE3N0Fmb0U2Wmk1THQ5bTE0SWxUMjIxck1fQUJiZnN6T1BkNEdvSEYwTFpaRjZB?oc=5",
+      "site": "财新",
+      "siteUrl": "https://opinion.caixin.com"
+    },
+    {
+      "id": "FL-90b784652602",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 02:49:59 GMT",
+      "ts": 1789526999000,
+      "scope": "dom",
+      "type": "other",
+      "title": "中央气象台：今天到明天，湖北、四川、贵州、云南、广西、广东等地有短时强降水 - 深圳新闻网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PVkViS3V4V1JpVTdBRDNtYUVncTZ3Q2E2UldWV3hKdW0wdWUtbVJ5bS1QWE40OFNSTDl6Y05DYmI0QnRLNWc4UVE0bTlzSjhQVHB2aE5iQkt5SnM2Y0p0M2hMb2JLQ1FpdWVvcHgzVGtqeWZaNEE?oc=5",
+      "site": "深圳新闻网",
+      "siteUrl": "https://www.sznews.com"
     },
     {
       "id": "FL-6afc6cbe3184",
@@ -49,7 +73,7 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OZm9NUjdCZF9nS1pLQzQ3YTJCLU1uNkdqVDBlSjJzZnZLQWNMNTAwVWhmdHlZcWlzZkdvZGJrckRXN0JNYW5XUUtlSnoteWh0X2RnWHp0Q0tqWTNJQ2RJ?oc=5",
       "site": "虎嗅网",
       "siteUrl": "https://m.huxiu.com",
-      "related": 45
+      "related": 41
     },
     {
       "id": "FL-fe186dd0953d",
@@ -74,18 +98,6 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBpcGVRWVpIbGJOWmJzX3RkVFdJendOV0lodkxPdzhhcHgxVXFEaC1tR0Z2b09QVTBCam9ScTZxcmE5MU14NWpxdXBR?oc=5",
       "site": "凤凰网江西",
       "siteUrl": "https://jx.ifeng.com"
-    },
-    {
-      "id": "FL-18d919951342",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 00:36:00 GMT",
-      "ts": 1789518960000,
-      "scope": "intl",
-      "type": "other",
-      "title": "中央气象台：预计今早至明天，内蒙古、陕西、湖北、湖南、四川、重庆、贵州、云南、广西、广东等地有短时强降水 - thepaper.cn",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5MVY3bFZCYWpkRzdLQVBObEtOUXZUNkdYMjFuWEI5YTROWl81NUxBZEFKclE1X3pfd0FiNXJ6dVRTYmRpS2dZQ0VibE81TjdCdjVKV3Nkeml2OEJka0E?oc=5",
-      "site": "thepaper.cn",
-      "siteUrl": "https://m.thepaper.cn"
     },
     {
       "id": "FL-674383638b4c",
@@ -134,6 +146,18 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwV0djVnliNU5BbzBReHA4alBsbnB4Tzd4b01Zb01paUtPNG12UkgtcnRnYWJ0UUNRUVFXZnVIYTRUN2h0M2NDUDlaMkZuN0U?oc=5",
       "site": "新蓝网",
       "siteUrl": "https://www.cztv.com"
+    },
+    {
+      "id": "FL-978c077b9576",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 22:41:05 GMT",
+      "ts": 1789512065000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "王維洛：中尼邊境泥石流到底發生在何時？ - 大纪元",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53RUFELWhwUm5kdDR6QVBURnNUOEpvWGRQbmNJYVJtaWFqcXBzNlJIUmJkbldmNTRsMVAwRzBSVW5aaTZLMkxOX05YX1BGM1VzSjhwRHk2U0tCa292clFaT9IBZkFVX3lxTE5NdTJsWjVEN0puVW1ZTEJVWnlyUXFZbzJTTGhVZmJJWjN5WUo0TmMwWDhJZU1IOW9RNExOcWtzQV9EY0xBMGprTXpUTXRUZ3ZFQXZmMC1UY3lRdmpKZXAtYWdPOEpfZw?oc=5",
+      "site": "大纪元",
+      "siteUrl": "https://www.epochtimes.com"
     },
     {
       "id": "FL-ad34abd61a78",
@@ -209,15 +233,15 @@
       "related": 19
     },
     {
-      "id": "FL-0b8b148a6522",
+      "id": "FL-487c524ea84d",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 13:23:00 GMT",
       "ts": 1789478580000,
       "scope": "dom",
       "type": "geo",
-      "title": "最后一名失联人员被找到，江西遂川泥石流灾害共造成13人遇难 - 新浪财经",
+      "title": "最后一名失联人员被找到，江西遂川泥石流灾害共造成13人遇难 - finance.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNcWFDS213NjdsSjlHNTluVVp3VjdJV3k0N1Jha2l5SFpLNGpZQTFzLUNGc1g4Z0p3MWJBdUU5Ylpnam1uLXQ2cC1yOXJaRGlKeEhYSTdfRUQxcTlzVmppU0VLQV9yR1ZhclRyUWZrUEFYNVR2cjZtZA?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.com.cn",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -255,6 +279,18 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX29JX2FJVG1DQ1hQQjZIY1NpWTNtU3pHTzhjdFFwQkhRRXhYakdLMlo5UlRiMkdleGtWWHUzWlo5VEIyNWs0RllqekhaWU1KVEx5X1F4NHlCbVpVc0ZiYnM2QVM1cnhxM1ZwN1RoU0k5UU9SUnBmREhGRFpzR2oxYlpVUEpDWWFJLTZweg?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-b36b8ea3d194",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 08:52:00 GMT",
+      "ts": 1789462320000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "拦山洪排内涝，北京苦练防汛“基本功” - 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aM3lxTlVQLW4wVERMMFJ0d01PRUFwS3BvQV9LWU5kaWZlUjNjZk5KVnZmQ0R4cUNlMHp0TE1JblRJN3V2VGhjRGhlWUt4UURIX01LZmpsRVo2TTZTNU5vYTZ3?oc=5",
+      "site": "新京报",
+      "siteUrl": "https://m.bjnews.com.cn"
     },
     {
       "id": "FL-c7ab55229c57",
@@ -341,15 +377,15 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-5831589d6e49",
+      "id": "FL-c13166f3b420",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 00:46:59 GMT",
       "ts": 1789433219000,
       "scope": "dom",
       "type": "other",
-      "title": "以习近平同志为核心的党中央坚强领导科学指挥2026年防汛抗洪救灾纪实 - qstheory.cn",
+      "title": "以习近平同志为核心的党中央坚强领导科学指挥2026年防汛抗洪救灾纪实 - 求是",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CQ1ZWdmtOdFRiUzBzaC04UVZoVGZ0RmJGVTRseWJrMFdmaktnWVVUcms3UDVTSW9pWFJaNDZ1NnRrZENFQnZ6RmtpZThGQUpxcUVEWE1qQVdUVFg2WkFkaVN2YUxGOXRQQmM3eXloaHYtaG5qMkpFbUY1YzU?oc=5",
-      "site": "qstheory.cn",
+      "site": "求是",
       "siteUrl": "https://www.qstheory.cn"
     },
     {
@@ -375,18 +411,6 @@
       "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxQbWZHTmY3d084b1hBdXo3bFNpN3dERThOOTBmZFBINUxXRWdRYWNpdmJQYWdrSkRiVFh6VkFkRnVGSjRCSEs5bGNQVWRJZDEzOGlhUXQ1WTdGc0lxVDVjemFUalRGXzZ1SDNNT19VblpnbmszNkNjNnYtQjVxamdQd1BlakYtTU5uTDd2emUzeTk4ZXN3dDRBVlZzWm96bTJ0c2lWR29kYkpBNVY2WUtENmFhYUNSYU9TZGY0d0VTdGJ1Nzk1RTdzMS1YYXFWX05BcjUtZDNNUGdQWS1lcTB0ZzEzVzFZV2lrVUxfckRoWjdQNjEwZDZxV2dqXzVqeFpoU2hHVWpWaVBLcWxjUF9oTHdibVRjcVRVZE1MY0tOOFBLTGUta196WnJOM0pTbzhjbFRPWWlGQXc1S3JGR1VBWlBuLW8wWm1QajhjbTJxVml3N05wTjR1NWdSN3dLOUc0eGxJWFVmdVNtakJjc2Myb2N1d1FpWlZ2RU1RUTVPTGZlTmpvcW9Zdk9tTlE1cFVocWdPVjdNaEpERktrSEZUMHJDbnU0dzNrdlRKUkNmbUd6Y3pZa3YxRjc2Y3FiM19DZXcteU5SMGlkeW5xNWw0NjRiV2hLaEVBZnFpS0R0cS1mU04wMkdsclJnQnlEa05nSDhnQWlSbFZOY0liUlF2eHE3WUR2Zw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr"
-    },
-    {
-      "id": "FL-a2237798f821",
-      "date": "2026-08-20",
-      "dateISO": "Thu, 20 Aug 2026 07:00:00 GMT",
-      "ts": 1787209200000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "哥伦比亚地震：120万人亟需援助，部分社区仍无法抵达 - UN News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3V3JsRVZ2TkMxUkw3dk96SHFpNTEtSHhnQzRzMmJwOEhzZ0JnUHBNcnBMRDByWEhQTk5wbzdUMWwwenNoRVROdVBPN2phUjU3XzVOWVZoUQ?oc=5",
-      "site": "UN News",
-      "siteUrl": "https://news.un.org"
     },
     {
       "id": "FL-1197ee09fcb0",
@@ -557,18 +581,6 @@
       "siteUrl": "https://www.kunming.cn"
     },
     {
-      "id": "FL-4223b0016e20",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 10:13:00 GMT",
-      "ts": 1789380780000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "受云南普洱市墨江县4.5级地震影响，中老铁路部分列车晚点 - thepaper.cn",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50R2lZQWNaXy1PZDIzbTdzcDBjTGtGRXVaM184c00zcm0yclZZMjRyaTNpelZuRVpDbWtZaE9fUURpbHBYS1Z6d0xpeFR1dHl0QVc0QTE4Z3Y2RERza3N5SA?oc=5",
-      "site": "thepaper.cn",
-      "siteUrl": "https://www.thepaper.cn"
-    },
-    {
       "id": "FL-97b6812763e3",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 09:52:58 GMT",
@@ -591,18 +603,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrVVJVMl9sU3FJSV92VVJJM2pPYkFsMVUzWGJjYUVrVVhrSk5mMnEycm5rZTR2OVFKWUtub1RqTHZHamtUbElwVFRET1dkUUtvZHE2Z2o4b3g3aFJDdEE?oc=5",
       "site": "thepaper.cn",
       "siteUrl": "https://m.thepaper.cn"
-    },
-    {
-      "id": "FL-c8e42d9d5958",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 09:24:26 GMT",
-      "ts": 1789377866000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "云南普洱市墨江县发生4.5级地震 震源深度10公里 - 华龙网",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKLUd0aFI0ZEdid3JoQndya004MlBXZFhscm1TSlE3RGUwYzVXZElKN20xSVU5dXJBU3FVSkZLRmFxVE5HeXlmaWtTLWQyamVGTkc2YUlKbjJsamNmLUVPSHp4YktsbXVJTlpz?oc=5",
-      "site": "华龙网",
-      "siteUrl": "https://www.cqnews.net"
     },
     {
       "id": "FL-def32ff8029f",
@@ -677,15 +677,15 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-b803caa200b8",
+      "id": "FL-b0e8286a093d",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 02:35:16 GMT",
       "ts": 1789353316000,
       "scope": "dom",
       "type": "geo",
-      "title": "中国地震局回应“预警信息接入苹果iOS系统”，正在沟通，力争推进！ - stdaily.com",
+      "title": "中国地震局回应“预警信息接入苹果iOS系统”，正在沟通，力争推进！ - 中国科技网",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91b2ZQMHJfOW44Z3dyb0JDU2F2M3F2VjlCeWU3SmxIWGRoZWZOUnhHbENDZVRoNTVmZy12Nms5Wk81T1FvUDBtcGt4ckZpYlFwWmttUkotTkwxWTZpcmVET1c0MkJUMW51MVVDTHA0Nmc?oc=5",
-      "site": "stdaily.com",
+      "site": "中国科技网",
       "siteUrl": "https://www.stdaily.com"
     },
     {
