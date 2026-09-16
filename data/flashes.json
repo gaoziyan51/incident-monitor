@@ -1,19 +1,7 @@
 {
-  "updated": "2026-09-16T19:21:56.627Z",
+  "updated": "2026-09-16T19:36:51.880Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-42ba1d0df553",
-      "date": "2026-08-26",
-      "dateISO": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "ts": 1787727600000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "西藏土石流：接壤尼泊尔边境山洪暴发 上千人失踪包括多国游客 - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CTG9yTTh6cnplOGJ1TG5PUzFQRkwtNjZTTzFLcEMwYzRWQlhzTVF2eGMyUFRzdWlKYldDSTVRcWNVd2RnbkJWU1prR2FMUVhKeVk4X0c4MVNnbUFCTjItZ0JiN0xvd9IBa0FVX3lxTE1PT1F4VHcyMnlBRE5SdUdLeERKN21TU1VXSkdqTTNnWnE1MTkxNi1Yb1ZqbWQtX2ZVdGwtMFhCZjZsVmgwTi1LNkdwYWtOZTE3dDlIVzNiT3cxOHV2dzdnZF9hY2cwV3dsSi1j?oc=5",
-      "site": "BBC",
-      "siteUrl": "https://www.bbc.com"
-    },
     {
       "id": "FL-1a8d741d87de",
       "date": "2026-09-16",
@@ -169,7 +157,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWGVFUV8wSmNuNWtpcW9HYWNjRDFHVXNpTkxaY3JrczdzV28xWmVIeUZyYXY1VmkzX0JTUDJGQmpyNEFfdFFhbEFJbkZSTExNR2xOdmFsdzVvREZGWmdBcGpNbmZtODRBWlp1Q29lVGpLckgxWkhtQjFuS0EyaGVZclJaRzdBZ29IRGRBbQ?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com",
-      "related": 39
+      "related": 37
     },
     {
       "id": "FL-a704a45dea9a",
@@ -401,15 +389,27 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-bd2f28ca6707",
+      "id": "FL-d91404203dae",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 07:22:00 GMT",
+      "ts": 1789543320000,
+      "scope": "dom",
+      "type": "other",
+      "title": "加沙城一建筑倒塌致至少11人死 百余人失踪 - 紫牛新闻",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92NEppNktNLXZPUW1FcEtud1Zna01XWTlmcHZTSk1WbWFheE4zZXdWai1hUWctNWhmVUo0SklReW01SDV3NDJTTFlFNWpvWl8tbTlfZ21BLV9GVV9sem1yZjZhUVlqb2FQVFE?oc=5",
+      "site": "紫牛新闻",
+      "siteUrl": "https://www.yzwb.net"
+    },
+    {
+      "id": "FL-90b784652602",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 07:20:29 GMT",
       "ts": 1789543229000,
       "scope": "dom",
       "type": "other",
-      "title": "中央气象台：今天到明天，湖北、四川、贵州、云南、广西、广东等地有短时强降水 - sznews.com",
+      "title": "中央气象台：今天到明天，湖北、四川、贵州、云南、广西、广东等地有短时强降水 - 深圳新闻网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBod1FaY2xHa2JhOUs1bjU1RmRfc2wyYWp3V0J3cU5DdGlUWUdON2VtOWNnRkVxMFJMU0FScXd2d1FYcHBkTUx5Ym5PSGxsOXlGcklTN21TRkVGbmJER0dSSGh5dmpoaWZ3VHlzTFZMLUY1RlpBbUlKcQ?oc=5",
-      "site": "sznews.com",
+      "site": "深圳新闻网",
       "siteUrl": "http://www.sznews.com"
     },
     {
@@ -449,15 +449,15 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-13932da6d5a8",
+      "id": "FL-4b07cb5dcc11",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 05:59:56 GMT",
       "ts": 1789538396000,
       "scope": "dom",
       "type": "geo",
-      "title": "青海海西州直辖区发生3.6级地震 震源深度10千米 - 央广网",
+      "title": "青海海西州直辖区发生3.6级地震 震源深度10千米 - cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQY0JDcktoc3ZBXzUyRFJFSzN4VHh4cGpJMlRMU3h5eFFwdTUxYmV3cTl3dmtkcUlzVG5neFJvbkxhSzNocWtocUpQMFdnVTdKOF9GVzlhTENJZFdGNUZxV3NaZGloLTRpdTZrcFZiQUpyLW5RU3BMOUhMOUt1enFUZjVJbw?oc=5",
-      "site": "央广网",
+      "site": "cnr.cn",
       "siteUrl": "https://www.cnr.cn"
     },
     {
@@ -483,18 +483,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ESnZRZmVCcldwS0RDLWdnTEZNRzI0YUlGV29oaFZ4YjdTdUVlUW5tQ2lVYnE3N0Fmb0U2Wmk1THQ5bTE0SWxUMjIxck1fQUJiZnN6T1BkNEdvSEYwTFpaRjZB?oc=5",
       "site": "财新",
       "siteUrl": "https://opinion.caixin.com"
-    },
-    {
-      "id": "FL-646c87a4b368",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 03:00:00 GMT",
-      "ts": 1789527600000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川茂县定子坝滑坡体发生垮塌，当地已提前将161人全部转移 - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mSjJkbDRhV1Y2ekdXS28wcFIxc1VRdGZWTXdJQUJPeHFhcThHeFNTenFKdmduUDAwNzd5Ukw1enFPcXV5ai1UTjE1T0xtdl9Vb0VpcUxpMXZvcHYya0F4ME52dkQ?oc=5",
-      "site": "新京报",
-      "siteUrl": "https://www.bjnews.com.cn"
     },
     {
       "id": "FL-6afc6cbe3184",
@@ -533,15 +521,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-ec0d2255786c",
+      "id": "FL-0674fd4d2559",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 15:44:17 GMT",
       "ts": 1789487057000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1403人遇难 - 央广网",
+      "title": "尼泊尔泥石流灾害已致1403人遇难 - cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CX1BCWlpfQWdzOUk4NER1dmF5Ym5MOE1jem9VWlBhYXZJSmJIRjJEMjAtNlEtUnZjcmpHSkZjOW1GVXJ3WU80Q1BGYVF3NDBGREMwWWVYZWEtY3Qxa3hMdFdBTWFINHBRekRFbWdXa2QzYjFFc0E?oc=5",
-      "site": "央广网",
+      "site": "cnr.cn",
       "siteUrl": "https://www.cnr.cn"
     },
     {
@@ -569,15 +557,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-facc0729194c",
+      "id": "FL-08cb7529b0aa",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 03:04:00 GMT",
       "ts": 1789441440000,
       "scope": "intl",
       "type": "geo",
-      "title": "日本核电站地震震动评估被证实造假 - guancha.cn",
+      "title": "日本核电站地震震动评估被证实造假 - 观察者网",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yOHY0OGw4aHZaMmZmLTItWEx1azZJR2Z3WFBvZDNNeGVMQjA1VVlsVVpfV183VnhQM0JpckNtSlVHclg4Mzhkam5ZTkszblJ6aGlramM2SlVkaUN2ZVhCUGNGcENqM1kwb0dhNzhrTzEwYlk?oc=5",
-      "site": "guancha.cn",
+      "site": "观察者网",
       "siteUrl": "https://www.guancha.cn"
     },
     {
@@ -615,6 +603,18 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CQ1ZWdmtOdFRiUzBzaC04UVZoVGZ0RmJGVTRseWJrMFdmaktnWVVUcms3UDVTSW9pWFJaNDZ1NnRrZENFQnZ6RmtpZThGQUpxcUVEWE1qQVdUVFg2WkFkaVN2YUxGOXRQQmM3eXloaHYtaG5qMkpFbUY1YzU?oc=5",
       "site": "求是",
       "siteUrl": "https://www.qstheory.cn"
+    },
+    {
+      "id": "FL-31aaf7309a8a",
+      "date": "2026-09-03",
+      "dateISO": "Thu, 03 Sep 2026 07:00:00 GMT",
+      "ts": 1788418800000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "台风“沙德尔”带来强降雨，福建全力抢险救援 - 人民网-福建频道",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9idjB1WHk1RmxjaXpsRFVqTmtSUXdDbEcwVlp0d2k5TnNndmxBNXhhV0syZmdBVlVCQzZuZk56cmNGeWFCYnp5SkVxaFFvbGQ0TXoxalUyeFJtRHJfa2l2TVhBRXJVQWVfM0E?oc=5",
+      "site": "人民网-福建频道",
+      "siteUrl": "http://fj.people.com.cn"
     },
     {
       "id": "FL-861987facab4",
@@ -677,15 +677,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-84a79a1d7fd4",
+      "id": "FL-2ae0af7757ef",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 11:52:32 GMT",
       "ts": 1789386752000,
       "scope": "dom",
       "type": "geo",
-      "title": "海南强降雨诱发山体滑坡 前往五指山市道路通行受阻 - 央广网",
+      "title": "海南强降雨诱发山体滑坡 前往五指山市道路通行受阻 - cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBubVJWOFU3QmI0MndVX2ZuSEZxOTA0aVRXeFBfTlpNZy1oOUY1YnBmR1NFU21rVWNXNWxnajNjNHFaVGYzZlRhUmMyVWZHRmlWV3dITUY5X2NxQWpobzRYT2E3ZHZPOGFDVFZz?oc=5",
-      "site": "央广网",
+      "site": "cnr.cn",
       "siteUrl": "https://www.cnr.cn"
     },
     {
@@ -701,15 +701,15 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-d3d0efae420a",
+      "id": "FL-7d88ce967054",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 04:22:56 GMT",
       "ts": 1789359776000,
       "scope": "dom",
       "type": "weather",
-      "title": "海南五指山：暴雨致车辆积水被困 消防紧急营救3人 - 央广网",
+      "title": "海南五指山：暴雨致车辆积水被困 消防紧急营救3人 - cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1iY3VBeFFKbnJ3cHZ2ZmIyaEFCUmdvOFRSaWFVZERhYnhnMkl3aEhrck5na3ZHYzRCWFd1bnhGVF9WZTZPTHhPRVppTUx3N3hiUDFIcnlrdGJTN2ltaV95SE9BaUVvTVdwUktR?oc=5",
-      "site": "央广网",
+      "site": "cnr.cn",
       "siteUrl": "https://www.cnr.cn"
     },
     {
