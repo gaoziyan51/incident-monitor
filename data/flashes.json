@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-16T09:23:34.112Z",
+  "updated": "2026-09-16T09:39:00.768Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
       "id": "FL-EV-f283a898090a",
       "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 09:14:42 GMT",
-      "ts": 1789550082000,
+      "dateISO": "Wed, 16 Sep 2026 09:14:36 GMT",
+      "ts": 1789550076000,
       "scope": "dom",
       "type": "geo",
       "title": "海内外多方发来慰问信深切关怀吉隆泥石流受灾群众_滚动图 - 中国西藏网",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tNjNpWlo5YWZCdWtfaXo1elk0ZHBlZ2NGMlI4T1I2YW9jV2dCMFN0aGtmekVNdFViQzN4MFBrdlNDWnV6bGpJaHpWTWh5ZEFoUWUtekExTDUtM3Jzc0UyZC1KczNvd3lTYzBR?oc=5",
       "site": "中国西藏网",
       "siteUrl": "http://www.tibet.cn",
-      "related": 38
+      "related": 37
     },
     {
       "id": "FL-c86aad9a85af",
@@ -98,18 +98,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSDViS3BzdXVZazN4TW05Nl81T0dRNTVNdUZpdlJoUjlIMkZhUGVpN1VuWXJaU21jYzJHMTRUQ3hHTmdHVThaUTVZSUthRHhlUHFnSGpnUkxMUFcxc28wcDVlTE8yajJIaVJSemVhY1ZUV1dZbDZ5al9zZ1FWUDdhQUt5MVh2THRX?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-4d4d2a9895ea",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 08:06:00 GMT",
-      "ts": 1789545960000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "断崖式滑坡！国乒男队陷入20年最大危机，樊振东复出能否逆天破局 - k.sina.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTHd2UVJCUmltTmVJbUV0MkN6eE9HT3p2TjVteE5QelhuLXNNTmV2VUo3ZjV4cHBDLU5nRTN5U29yVTRaQkNDUUJBRjNQa2hIcWJXeTVjT1l0X2g2czgtN3BGdTZyRl9tVTVNVnM4QWlHQXAyR2lXZ1BsNFpLWEZfZExn?oc=5",
-      "site": "k.sina.com.cn",
-      "siteUrl": "https://k.sina.com.cn"
     },
     {
       "id": "FL-605135db23da",
@@ -221,15 +209,15 @@
       "siteUrl": "https://www.sohu.com"
     },
     {
-      "id": "FL-f31206ae0731",
+      "id": "FL-933f8c983113",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 06:19:51 GMT",
       "ts": 1789539591000,
       "scope": "dom",
       "type": "geo",
-      "title": "视频丨四川茂县发生山体滑坡 提前管控未造成人员伤亡 - 新浪财经",
+      "title": "视频丨四川茂县发生山体滑坡 提前管控未造成人员伤亡 - 新浪网",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQUR2ZWJ5ZmU1ZWdmbWUxUlhiMXpLeG40RFJiU05aWFRuR2d5STNOc21nQnAwTlpKLTR3UzZuSlJubkFRUmVkTGhJWlA1TDhIVzIxbkRCbUNZQzdaMG1pVFNSTGJiTW5OaVdsb1VfbklibkNDbkFkZTBUbnowRUpOSXEzWVczMEVzWktYa0otbG9vMVZNUmNaXw?oc=5",
-      "site": "新浪财经",
+      "site": "新浪网",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -341,14 +329,14 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-221f4d43a11f",
+      "id": "FL-4f4fe953a381",
       "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 22:54:50 GMT",
-      "ts": 1789512890000,
-      "scope": "intl",
+      "dateISO": "Tue, 15 Sep 2026 22:55:00 GMT",
+      "ts": 1789512900000,
+      "scope": "dom",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1403人遇难 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUzhHUlg3RXdua0oySUZhWmVVZXpQR2puVVJXbjVoc1dEUUotSEd6U3BsQTJVbWNmRHVja3c4ajZJQVluc1pjY3hWTXdYck1YOFdtQ3NOU1BOM3VyNUk1SjFjLWlOMVU5MXg5LVREU2hWUXFaVkJrMGlja29uX2NxdHJnTkdLWXVHNWNJWg?oc=5",
+      "title": "国内首例！深地震反射探测工程穿越千万人口级城市主城区；“超级CT”扫描全域，探查西安地质“家底” - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQa0pNdmwxZEZ1a2VNaEVUSDg4X0x5eW0tVHFFc2R1d29iSHExR190QnJsd3JxNU9ncVAtcmdvRDZBOWpHQ2ZjSnlKVWhPakQxSkZDaUpJZW15WmIxSGt2aGNzQlRsV0lfWG1WWlZyNm1ZWElJVERTSks0ZFVwTlRJb3RrVWh4OENLQTNxNA?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
@@ -533,6 +521,18 @@
       "siteUrl": "https://www.qstheory.cn"
     },
     {
+      "id": "FL-1197ee09fcb0",
+      "date": "2026-09-10",
+      "dateISO": "Thu, 10 Sep 2026 15:56:00 GMT",
+      "ts": 1789055760000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害遇难人数升至1385人 - thecover.cn",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50QU81cW94T1U0MzNWWEIyV0t5WmVCMDF1ZXU4R1FDZ0s3bTdjbnRxZUw0YXJZTHIxak1QS0x6UEZ6R2xHc2FJU0F6QTlpUldmQmVDWVdKRy1pbXI4c3dCYmJsX29OcWlyejdCUWhob2JBYXdOSThv?oc=5",
+      "site": "thecover.cn",
+      "siteUrl": "https://m.thecover.cn"
+    },
+    {
       "id": "FL-e0b20b7e83b1",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 15:24:23 GMT",
@@ -629,18 +629,6 @@
       "siteUrl": "https://www.cnr.cn"
     },
     {
-      "id": "FL-51284f83e233",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 07:37:15 GMT",
-      "ts": 1789371435000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "外交部发言人介绍西藏泥石流灾害外籍人员搜救情况 - 华声在线",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xWXBtOXV5WGZuc2ZpdmZiNGQ0a2FSUnlBSWZ2SGpndkJkM2FYemk2VGw4QzdOa2lxclpCdExfVzVJUF9xcnExenpmZ0t4MlNMM0xWbF90aEZFVWFzWHVB?oc=5",
-      "site": "华声在线",
-      "siteUrl": "https://m.voc.com.cn"
-    },
-    {
       "id": "FL-def32ff8029f",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 07:33:35 GMT",
@@ -649,6 +637,18 @@
       "type": "geo",
       "title": "印尼亚齐特区发生山体滑坡 已致1死13伤 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mYmtPZ21ZUzhQZnBlQWM4M1M5ME5pV2lhSEtNRmFUUlNBdEZneTRTRzRrZzF1bGZMWTBIVkdtSGN0SERGMWNlTnNMeTdTY0tFRWFRSjFaVGlmME1sNko3VWRockVLVnNmV0Nkc0tmNURKR3hnZC0ySw?oc=5",
+      "site": "央视网",
+      "siteUrl": "https://news.cctv.com"
+    },
+    {
+      "id": "FL-89db2d234367",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 07:06:28 GMT",
+      "ts": 1789369588000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川阿坝州理县发生3.0级地震，震源深度8千米 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uaWVtYmVtZmRseEF4Tlh1WkVybVJoaFRId1I4aUo1aWhwNkhrU3hsSkZSRkRHNG5nOTJVc0JQRXkwdUcwR1RXX3J0N014U1otTElTaHZJQTNFNm1xQU8tcjVDOEo0SmpvdnN4WWZLbVRRSXlEQ19TMQ?oc=5",
       "site": "央视网",
       "siteUrl": "https://news.cctv.com"
     },
