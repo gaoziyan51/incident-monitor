@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T02:38:52.712Z",
+  "updated": "2026-09-16T02:50:25.950Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,6 +15,18 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
+      "id": "FL-6afc6cbe3184",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 02:44:39 GMT",
+      "ts": 1789526679000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "#媒体精选计划 #媒体原创 【“23·7”极端暴雨灾后全面恢复重建，暖暖的新家】三年前，“23·7”极端暴雨突袭京城，山洪肆虐、镇村受创。三年来，北京从应急抢险、修缮恢复，到提质升级、固本强基，乡村面貌、民生业态焕然一新。 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vS0dxMEVoQ091Ym1wbkMyakVsMEFYWHoxSFU5Sm1fTUpibU1INHVreFlqUnBrMzE2RUdNSnE2RlcyOTVjdjl0Wlo0WE12ZmdKNFE?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://www.sohu.com"
+    },
+    {
       "id": "FL-34e09a2be792",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 02:29:32 GMT",
@@ -27,18 +39,6 @@
       "siteUrl": "https://news.china.com"
     },
     {
-      "id": "FL-6afc6cbe3184",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 02:23:45 GMT",
-      "ts": 1789525425000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "#媒体精选计划 #媒体原创 【“23·7”极端暴雨灾后全面恢复重建，暖暖的新家】三年前，“23·7”极端暴雨突袭京城，山洪肆虐、镇村受创。三年来，北京从应急抢险、修缮恢复，到提质升级、固本强基，乡村面貌、民生业态焕然一新。 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVkhxTXVac2g3M2xJaENjSGt2SGJtTzZaWTJjeWNaNENiUlNWNXktdmxmUUx2ZEVGdkFuOFRDLUY0bTlQY3FhUm5LQ2x6MVlhdy1PcVZabmZ3blVOcHU2U2ZIeTloVVZILU8tcnVqWGhScE9aZGphdnhJeENiMXQ1STRCUENYbnhW?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-EV-f283a898090a",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 02:11:21 GMT",
@@ -49,7 +49,7 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OZm9NUjdCZF9nS1pLQzQ3YTJCLU1uNkdqVDBlSjJzZnZLQWNMNTAwVWhmdHlZcWlzZkdvZGJrckRXN0JNYW5XUUtlSnoteWh0X2RnWHp0Q0tqWTNJQ2RJ?oc=5",
       "site": "虎嗅网",
       "siteUrl": "https://m.huxiu.com",
-      "related": 42
+      "related": 43
     },
     {
       "id": "FL-fe186dd0953d",
@@ -100,15 +100,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-ec6cab12c898",
+      "id": "FL-1daa7c69e713",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 22:59:03 GMT",
       "ts": 1789513143000,
       "scope": "dom",
       "type": "weather",
-      "title": "中国海南暴雨迫使超5.5万人撤离 - 和平日报",
+      "title": "中国海南暴雨迫使超5.5万人撤离 - hepingribao.id",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWHNxMTJHbkUzTGE4dkpPb3lkWHM3Y3Jka3ZvQlk1V18wVHlWeWtfMUpJR2JoMTloMEE5T2MzWGdsdk96MDNHVDRSWE5LTDZqTWw2TXgtRFZoM0ZFbVFyWGMzaXJjN1B4bm1CZGpacllLUUhJZ00tMEU1dDUtTEtXeUIxalgxX0hQNmF3NUczS21XNTU4V2gySFRnbUlpeWRMR2tRellWNlZhLWg5VTYyaEk1WHZfc2ozQi1XaTc3YzVMNWpHOEVXc2hTZUFfMGhSOHZDOEN4UXJqU0FUOEhkZ0hiVmRpM2xxb3EwaTcyQm5FckhHQVhz?oc=5",
-      "site": "和平日报",
+      "site": "hepingribao.id",
       "siteUrl": "https://www.hepingribao.id"
     },
     {
@@ -184,6 +184,18 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
+      "id": "FL-f612baf862ab",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 15:14:36 GMT",
+      "ts": 1789485276000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害遇难人数升至1403人 - 虎嗅网",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CcnQxRDV0dm8xWUlfQmhoaGR6Z3pVQlZGeHFmRjFZZnBPVDZqa0NsaVRXV0ZTdlotT0p0Y1ljTGIta2MtSGRBd2pkM2NCQWhUZkJN?oc=5",
+      "site": "虎嗅网",
+      "siteUrl": "https://www.huxiu.com"
+    },
+    {
       "id": "FL-0b8b148a6522",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 13:23:00 GMT",
@@ -257,15 +269,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-b9c7990710ac",
+      "id": "FL-53c0b63d9f62",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 06:48:43 GMT",
       "ts": 1789454923000,
       "scope": "intl",
       "type": "collapse",
-      "title": "外资加速抛售美债转投美股，美国“无风险资产”神话面临崩塌风险-市场参考 - 金十数据",
+      "title": "外资加速抛售美债转投美股，美国“无风险资产”神话面临崩塌风险-市场参考 - xnews.jin10.com",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zWS1YOTJrU1Z0S2ZaSGY3Qmt6RmcyYnF3elJXa0dZRmJ4YTNTZ3psOUZVX21Lb1ktWHVBUFVtRm9aMnU3RXU4U0RGZzMwTk0?oc=5",
-      "site": "金十数据",
+      "site": "xnews.jin10.com",
       "siteUrl": "https://xnews.jin10.com"
     },
     {
@@ -389,6 +401,30 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-2b7ad983a54d",
+      "date": "2026-09-01",
+      "dateISO": "Tue, 01 Sep 2026 07:00:00 GMT",
+      "ts": 1788246000000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "环保天地 - 法国专家：为何有必要强调尼泊尔泥石流的核心诱因是山崩而非冰崩 - RFI",
+      "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxQbWZHTmY3d084b1hBdXo3bFNpN3dERThOOTBmZFBINUxXRWdRYWNpdmJQYWdrSkRiVFh6VkFkRnVGSjRCSEs5bGNQVWRJZDEzOGlhUXQ1WTdGc0lxVDVjemFUalRGXzZ1SDNNT19VblpnbmszNkNjNnYtQjVxamdQd1BlakYtTU5uTDd2emUzeTk4ZXN3dDRBVlZzWm96bTJ0c2lWR29kYkpBNVY2WUtENmFhYUNSYU9TZGY0d0VTdGJ1Nzk1RTdzMS1YYXFWX05BcjUtZDNNUGdQWS1lcTB0ZzEzVzFZV2lrVUxfckRoWjdQNjEwZDZxV2dqXzVqeFpoU2hHVWpWaVBLcWxjUF9oTHdibVRjcVRVZE1MY0tOOFBLTGUta196WnJOM0pTbzhjbFRPWWlGQXc1S3JGR1VBWlBuLW8wWm1QajhjbTJxVml3N05wTjR1NWdSN3dLOUc0eGxJWFVmdVNtakJjc2Myb2N1d1FpWlZ2RU1RUTVPTGZlTmpvcW9Zdk9tTlE1cFVocWdPVjdNaEpERktrSEZUMHJDbnU0dzNrdlRKUkNmbUd6Y3pZa3YxRjc2Y3FiM19DZXcteU5SMGlkeW5xNWw0NjRiV2hLaEVBZnFpS0R0cS1mU04wMkdsclJnQnlEa05nSDhnQWlSbFZOY0liUlF2eHE3WUR2Zw?oc=5",
+      "site": "RFI",
+      "siteUrl": "https://www.rfi.fr"
+    },
+    {
+      "id": "FL-a2237798f821",
+      "date": "2026-08-20",
+      "dateISO": "Thu, 20 Aug 2026 07:00:00 GMT",
+      "ts": 1787209200000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "哥伦比亚地震：120万人亟需援助，部分社区仍无法抵达 - UN News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3V3JsRVZ2TkMxUkw3dk96SHFpNTEtSHhnQzRzMmJwOEhzZ0JnUHBNcnBMRDByWEhQTk5wbzdUMWwwenNoRVROdVBPN2phUjU3XzVOWVZoUQ?oc=5",
+      "site": "UN News",
+      "siteUrl": "https://news.un.org"
+    },
+    {
       "id": "FL-18ed16b30a5c",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 15:56:00 GMT",
@@ -413,15 +449,15 @@
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
-      "id": "FL-7ab0bb23c0bb",
+      "id": "FL-ce673d3f04fd",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 15:18:54 GMT",
       "ts": 1789053534000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1382人遇难 - 央视网",
+      "title": "尼泊尔泥石流灾害已致1382人遇难 - news.cctv.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aVWFzenVvcDVzU1hONFVINmZ3cmZzOGpnVUI0MGFNUVQ1RnlnTlF6dkxseVZZaWFwcDlRQ1dmTG9keDQ3dU1kdzZqMDNJalk1Tk1XMUpfTWtQeW5tRW1mZXI4Y0d1d284bWxTdlJ1N0ZDdi1vbTUxQg?oc=5",
-      "site": "央视网",
+      "site": "news.cctv.com",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -461,39 +497,27 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-54b4382f0fee",
+      "id": "FL-bd05b20d7224",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 21:46:32 GMT",
       "ts": 1789335992000,
       "scope": "dom",
       "type": "geo",
-      "title": "台湾花莲县发生4.1级地震 震源深度14千米 - voc.com.cn",
+      "title": "台湾花莲县发生4.1级地震 震源深度14千米 - 华声在线",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lQkhzbzhGek9aT1B4ZnIzMlA4UEdQMTlqckIybTNMMlRUcjhnZW55OFljN0JYU3pVbGtjOERRV1JtS05QajRTRnRPUVZud3VwLURqY3RjQmQ0aEJaTVpV?oc=5",
-      "site": "voc.com.cn",
+      "site": "华声在线",
       "siteUrl": "https://m.voc.com.cn"
     },
     {
-      "id": "FL-40d60e09c577",
-      "date": "2026-09-13",
-      "dateISO": "Sun, 13 Sep 2026 15:04:00 GMT",
-      "ts": 1789311840000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1392人 - 封面新闻",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TWjViUkt6M2xhR2ZDbEZFbnBOZGVFc2ZxSThOT29tdDBIbk9tWHZIY1NaWk4zek12MXNQeVJXZUhwUGRrc3ZvV1l0alhlMG1DaV9RV0tnVFg3X3pYdGxjSDNpUm5ERGdoWTFVN2tQVXROQjJSakZz?oc=5",
-      "site": "封面新闻",
-      "siteUrl": "https://m.thecover.cn"
-    },
-    {
-      "id": "FL-bbfe15da4216",
+      "id": "FL-5ab622930f3d",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 02:59:27 GMT",
       "ts": 1789268367000,
       "scope": "intl",
       "type": "geo",
-      "title": "内蒙古阿拉善盟阿拉善左旗发生3.6级地震，震源深度8千米 - 央视网",
+      "title": "内蒙古阿拉善盟阿拉善左旗发生3.6级地震，震源深度8千米 - news.cctv.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByQlJLRGFrT0M4ZHc3SURQcGFZeGxSMFp5Y3owUmpfblZQNGJEQjJUVTFZUmdDdi11OTJkc3hicDVhV2pISE9UQnBET194ZmMxbDhadU5YLW83N2FwQUtjSFBhUDk2Z2k2Q2NlUWJpTzRhU0gwSWNzNQ?oc=5",
-      "site": "央视网",
+      "site": "news.cctv.com",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -569,18 +593,6 @@
       "siteUrl": "https://www.kunming.cn"
     },
     {
-      "id": "FL-7ef540b8bf2a",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 10:03:19 GMT",
-      "ts": 1789380199000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "秋筱宫家长子悠仁首次访问东日本大地震灾区 - 共同网",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ncks2UFJKNC1yUG0tVzhveGtlYS1YQ2dOc2VraUJNd3VSVWV5MV9uMkk1dFp1MWNXUXhIaXROaDdmOHBwY2Myb2V5VDZMWG9mUUdJekd0WQ?oc=5",
-      "site": "共同网",
-      "siteUrl": "https://china.kyodonews.net"
-    },
-    {
       "id": "FL-a180db4ef1a9",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 09:27:00 GMT",
@@ -593,27 +605,15 @@
       "siteUrl": "https://m.thepaper.cn"
     },
     {
-      "id": "FL-9aff4dbf8471",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 07:57:16 GMT",
-      "ts": 1789372636000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "海南全力防御强降雨 已紧急转移群众3.1万余人 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GWk55OWlfRGU5R1JLVUFUZXVPV1BjWkpsUjBCS0RtTVZIQjRkdV91RDRQQ25vSWNuOF9WQVpURHF4N19tejBlUVpGMko5b09IS2VscFZwYVpKRDhFVUphaGItN0Z5bFRJLXlDZ2VSYmdDUFNhSWZmcjMxdzdIN2c?oc=5",
-      "site": "新华网",
-      "siteUrl": "http://www.news.cn"
-    },
-    {
-      "id": "FL-def32ff8029f",
+      "id": "FL-e74d67111657",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 07:33:35 GMT",
       "ts": 1789371215000,
       "scope": "intl",
       "type": "geo",
-      "title": "印尼亚齐特区发生山体滑坡 已致1死13伤 - 央视网",
+      "title": "印尼亚齐特区发生山体滑坡 已致1死13伤 - news.cctv.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mYmtPZ21ZUzhQZnBlQWM4M1M5ME5pV2lhSEtNRmFUUlNBdEZneTRTRzRrZzF1bGZMWTBIVkdtSGN0SERGMWNlTnNMeTdTY0tFRWFRSjFaVGlmME1sNko3VWRockVLVnNmV0Nkc0tmNURKR3hnZC0ySw?oc=5",
-      "site": "央视网",
+      "site": "news.cctv.com",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -665,15 +665,15 @@
       "siteUrl": "https://focus.scol.com.cn"
     },
     {
-      "id": "FL-80ecb3992f9c",
+      "id": "FL-6c7570b3f8a2",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 02:37:22 GMT",
       "ts": 1789353442000,
       "scope": "dom",
       "type": "geo",
-      "title": "中国地震台网中心正就地震预警信息接入iOS系统与苹果公司沟通 - 央视网",
+      "title": "中国地震台网中心正就地震预警信息接入iOS系统与苹果公司沟通 - news.cctv.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzVHZybTB5dmZYTU1QdnZUM2VxSi1DdTdxVDg5LWZnY0E2bGtINktmM0NINFlOYnp2R2phTG5BSGE4c3czeFdhcVBvQXpwVXJmckFHT1g5ZUFRNm9mVFZqamdUQnA5N3hDeDlMdXhrZXhSMGlwYm5pNQ?oc=5",
-      "site": "央视网",
+      "site": "news.cctv.com",
       "siteUrl": "https://news.cctv.com"
     },
     {
