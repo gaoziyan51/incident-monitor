@@ -1,19 +1,7 @@
 {
-  "updated": "2026-09-16T19:53:52.415Z",
+  "updated": "2026-09-16T20:07:43.455Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-42ba1d0df553",
-      "date": "2026-08-26",
-      "dateISO": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "ts": 1787727600000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "西藏土石流：接壤尼泊尔边境山洪暴发 上千人失踪包括多国游客 - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CTG9yTTh6cnplOGJ1TG5PUzFQRkwtNjZTTzFLcEMwYzRWQlhzTVF2eGMyUFRzdWlKYldDSTVRcWNVd2RnbkJWU1prR2FMUVhKeVk4X0c4MVNnbUFCTjItZ0JiN0xvd9IBa0FVX3lxTE1PT1F4VHcyMnlBRE5SdUdLeERKN21TU1VXSkdqTTNnWnE1MTkxNi1Yb1ZqbWQtX2ZVdGwtMFhCZjZsVmgwTi1LNkdwYWtOZTE3dDlIVzNiT3cxOHV2dzdnZF9hY2cwV3dsSi1j?oc=5",
-      "site": "BBC",
-      "siteUrl": "https://www.bbc.com"
-    },
     {
       "id": "FL-1a8d741d87de",
       "date": "2026-09-16",
@@ -27,15 +15,15 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-6c37d6eedf5e",
+      "id": "FL-c2a04813577b",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 17:06:14 GMT",
       "ts": 1789578374000,
       "scope": "dom",
       "type": "collapse",
-      "title": "加沙：建筑坍塌致至少20人死亡，搜救工作仍在继续 - news.un.org",
+      "title": "加沙：建筑坍塌致至少20人死亡，搜救工作仍在继续 - UN News",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wdnBqX2d2T1NSQ092SjlCdW1fbVZfak4ycERLSWtGb2VxT21FdXRQSkd5bVFiVkxvZlFlaDZralk5b2FyemR4RlptclBhbDhrR1ZILTc4Zw?oc=5",
-      "site": "news.un.org",
+      "site": "UN News",
       "siteUrl": "https://news.un.org"
     },
     {
@@ -169,7 +157,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWGVFUV8wSmNuNWtpcW9HYWNjRDFHVXNpTkxaY3JrczdzV28xWmVIeUZyYXY1VmkzX0JTUDJGQmpyNEFfdFFhbEFJbkZSTExNR2xOdmFsdzVvREZGWmdBcGpNbmZtODRBWlp1Q29lVGpLckgxWkhtQjFuS0EyaGVZclJaRzdBZ29IRGRBbQ?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com",
-      "related": 38
+      "related": 40
     },
     {
       "id": "FL-a704a45dea9a",
@@ -401,15 +389,15 @@
       "siteUrl": "https://www.yzwb.net"
     },
     {
-      "id": "FL-bd2f28ca6707",
+      "id": "FL-90b784652602",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 07:20:29 GMT",
       "ts": 1789543229000,
       "scope": "dom",
       "type": "other",
-      "title": "中央气象台：今天到明天，湖北、四川、贵州、云南、广西、广东等地有短时强降水 - sznews.com",
+      "title": "中央气象台：今天到明天，湖北、四川、贵州、云南、广西、广东等地有短时强降水 - 深圳新闻网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBod1FaY2xHa2JhOUs1bjU1RmRfc2wyYWp3V0J3cU5DdGlUWUdON2VtOWNnRkVxMFJMU0FScXd2d1FYcHBkTUx5Ym5PSGxsOXlGcklTN21TRkVGbmJER0dSSGh5dmpoaWZ3VHlzTFZMLUY1RlpBbUlKcQ?oc=5",
-      "site": "sznews.com",
+      "site": "深圳新闻网",
       "siteUrl": "http://www.sznews.com"
     },
     {
@@ -533,6 +521,18 @@
       "siteUrl": "https://www.cnr.cn"
     },
     {
+      "id": "FL-26b71d7e9a07",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 15:09:58 GMT",
+      "ts": 1789484998000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害已致1403人遇难 - 新浪新闻_手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DV3BuZjVma1hEMEFHN2V6STRLcU0wV2NwYmxUQnYxUXRqalI4eUVieDFFdW1abzBTdzAyOTRjSjlObE13Q2pyMVM2U0xrMmU0UlN0MGJXd0tHenhVY1MxV2k0SmFhRmlTSmQ0VGZYY0c?oc=5",
+      "site": "新浪新闻_手机新浪网",
+      "siteUrl": "https://news.sina.com.cn"
+    },
+    {
       "id": "FL-b36b8ea3d194",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 08:52:00 GMT",
@@ -557,15 +557,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-facc0729194c",
+      "id": "FL-08cb7529b0aa",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 03:04:00 GMT",
       "ts": 1789441440000,
       "scope": "intl",
       "type": "geo",
-      "title": "日本核电站地震震动评估被证实造假 - guancha.cn",
+      "title": "日本核电站地震震动评估被证实造假 - 观察者网",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yOHY0OGw4aHZaMmZmLTItWEx1azZJR2Z3WFBvZDNNeGVMQjA1VVlsVVpfV183VnhQM0JpckNtSlVHclg4Mzhkam5ZTkszblJ6aGlramM2SlVkaUN2ZVhCUGNGcENqM1kwb0dhNzhrTzEwYlk?oc=5",
-      "site": "guancha.cn",
+      "site": "观察者网",
       "siteUrl": "https://www.guancha.cn"
     },
     {
