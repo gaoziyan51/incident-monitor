@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T04:23:01.553Z",
+  "updated": "2026-09-16T04:39:24.350Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -13,6 +13,30 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CTG9yTTh6cnplOGJ1TG5PUzFQRkwtNjZTTzFLcEMwYzRWQlhzTVF2eGMyUFRzdWlKYldDSTVRcWNVd2RnbkJWU1prR2FMUVhKeVk4X0c4MVNnbUFCTjItZ0JiN0xvd9IBa0FVX3lxTE1PT1F4VHcyMnlBRE5SdUdLeERKN21TU1VXSkdqTTNnWnE1MTkxNi1Yb1ZqbWQtX2ZVdGwtMFhCZjZsVmgwTi1LNkdwYWtOZTE3dDlIVzNiT3cxOHV2dzdnZF9hY2cwV3dsSi1j?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-91e42a5edce3",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 04:37:06 GMT",
+      "ts": 1789533426000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "拦山洪排内涝，北京苦练防汛“基本功” - 新浪新闻_手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvSUNxTGlFNE5iX19CRTV2YUExSlNaV1RISmhiY3o4SllUUm9iZXJMeFpCOHVTbWdhTjZMcE1Rd2VoX1NUQzVGMlB4ZU1DTTh6aHM1aUM3STBVTUIySkxlUXdFemZMb1YxbGZDejlkR0VUY1JLU0E?oc=5",
+      "site": "新浪新闻_手机新浪网",
+      "siteUrl": "https://news.sina.com.cn"
+    },
+    {
+      "id": "FL-c50a3a28d36e",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 04:26:05 GMT",
+      "ts": 1789532765000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "海南五指山山体滑坡2民房被整体掩埋 村干部：已提前转移 人员安全 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13UDE3RUg5RFJCSmNXZVRUajJVd0Jyb2RUX0tYaTQ0NzBDc3FPNnhaRC0yVG4yZFRLUlljenJHTEtOMHlxUVlnbEJrcXFiYWowdDhGWHlkS3RwaE0wNERGWjBfWndJaENvbm0wQnVhNVU?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
     },
     {
       "id": "FL-9c63d9d89c05",
@@ -61,7 +85,7 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OZm9NUjdCZF9nS1pLQzQ3YTJCLU1uNkdqVDBlSjJzZnZLQWNMNTAwVWhmdHlZcWlzZkdvZGJrckRXN0JNYW5XUUtlSnoteWh0X2RnWHp0Q0tqWTNJQ2RJ?oc=5",
       "site": "虎嗅网",
       "siteUrl": "https://m.huxiu.com",
-      "related": 43
+      "related": 42
     },
     {
       "id": "FL-fe186dd0953d",
@@ -112,15 +136,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-1daa7c69e713",
+      "id": "FL-ec6cab12c898",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 22:59:03 GMT",
       "ts": 1789513143000,
       "scope": "dom",
       "type": "weather",
-      "title": "中国海南暴雨迫使超5.5万人撤离 - hepingribao.id",
+      "title": "中国海南暴雨迫使超5.5万人撤离 - 和平日报",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWHNxMTJHbkUzTGE4dkpPb3lkWHM3Y3Jka3ZvQlk1V18wVHlWeWtfMUpJR2JoMTloMEE5T2MzWGdsdk96MDNHVDRSWE5LTDZqTWw2TXgtRFZoM0ZFbVFyWGMzaXJjN1B4bm1CZGpacllLUUhJZ00tMEU1dDUtTEtXeUIxalgxX0hQNmF3NUczS21XNTU4V2gySFRnbUlpeWRMR2tRellWNlZhLWg5VTYyaEk1WHZfc2ozQi1XaTc3YzVMNWpHOEVXc2hTZUFfMGhSOHZDOEN4UXJqU0FUOEhkZ0hiVmRpM2xxb3EwaTcyQm5FckhHQVhz?oc=5",
-      "site": "hepingribao.id",
+      "site": "和平日报",
       "siteUrl": "https://www.hepingribao.id"
     },
     {
@@ -230,7 +254,7 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IOS0xZ2hPNFBwdnZ1d00tTmxCQ2pJejFvV3FXZ0llb3ZpVVVlQ01RLTFScDRTOG1XWUJubkJjVkxDbm5BMkREbzlsX01icmV5VWZRdUJfN3FvQ0RJRUNzUzBfQWY?oc=5",
       "site": "新京报",
       "siteUrl": "https://www.bjnews.com.cn",
-      "related": 19
+      "related": 12
     },
     {
       "id": "FL-0b8b148a6522",
@@ -267,30 +291,6 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNZmhLdmNhemtaWkwySFVoeC1RNzJ2cXF5Z2RKNExfWTlHU3J4dW14dGQzUC12cEVldy1fUGZFN1BUQklqb2lqbWxFaTR5eWREVGVvcmNXaXY1SHdqT3dzWFJjOTdwbWhWVkJQM2FWT0Q1RmI1N1E4QngyNVhEQQ?oc=5",
       "site": "新华网",
       "siteUrl": "http://www.xinhuanet.com"
-    },
-    {
-      "id": "FL-87f2e31a2e0d",
-      "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 10:47:07 GMT",
-      "ts": 1789469227000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "大通县开展2026年地震灾害紧急疏散暨医学救援综合演练 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX29JX2FJVG1DQ1hQQjZIY1NpWTNtU3pHTzhjdFFwQkhRRXhYakdLMlo5UlRiMkdleGtWWHUzWlo5VEIyNWs0RllqekhaWU1KVEx5X1F4NHlCbVpVc0ZiYnM2QVM1cnhxM1ZwN1RoU0k5UU9SUnBmREhGRFpzR2oxYlpVUEpDWWFJLTZweg?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-b36b8ea3d194",
-      "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 08:52:00 GMT",
-      "ts": 1789462320000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "拦山洪排内涝，北京苦练防汛“基本功” - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aM3lxTlVQLW4wVERMMFJ0d01PRUFwS3BvQV9LWU5kaWZlUjNjZk5KVnZmQ0R4cUNlMHp0TE1JblRJN3V2VGhjRGhlWUt4UURIX01LZmpsRVo2TTZTNU5vYTZ3?oc=5",
-      "site": "新京报",
-      "siteUrl": "https://m.bjnews.com.cn"
     },
     {
       "id": "FL-c7ab55229c57",
@@ -423,18 +423,6 @@
       "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxQbWZHTmY3d084b1hBdXo3bFNpN3dERThOOTBmZFBINUxXRWdRYWNpdmJQYWdrSkRiVFh6VkFkRnVGSjRCSEs5bGNQVWRJZDEzOGlhUXQ1WTdGc0lxVDVjemFUalRGXzZ1SDNNT19VblpnbmszNkNjNnYtQjVxamdQd1BlakYtTU5uTDd2emUzeTk4ZXN3dDRBVlZzWm96bTJ0c2lWR29kYkpBNVY2WUtENmFhYUNSYU9TZGY0d0VTdGJ1Nzk1RTdzMS1YYXFWX05BcjUtZDNNUGdQWS1lcTB0ZzEzVzFZV2lrVUxfckRoWjdQNjEwZDZxV2dqXzVqeFpoU2hHVWpWaVBLcWxjUF9oTHdibVRjcVRVZE1MY0tOOFBLTGUta196WnJOM0pTbzhjbFRPWWlGQXc1S3JGR1VBWlBuLW8wWm1QajhjbTJxVml3N05wTjR1NWdSN3dLOUc0eGxJWFVmdVNtakJjc2Myb2N1d1FpWlZ2RU1RUTVPTGZlTmpvcW9Zdk9tTlE1cFVocWdPVjdNaEpERktrSEZUMHJDbnU0dzNrdlRKUkNmbUd6Y3pZa3YxRjc2Y3FiM19DZXcteU5SMGlkeW5xNWw0NjRiV2hLaEVBZnFpS0R0cS1mU04wMkdsclJnQnlEa05nSDhnQWlSbFZOY0liUlF2eHE3WUR2Zw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr"
-    },
-    {
-      "id": "FL-a2237798f821",
-      "date": "2026-08-20",
-      "dateISO": "Thu, 20 Aug 2026 07:00:00 GMT",
-      "ts": 1787209200000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "哥伦比亚地震：120万人亟需援助，部分社区仍无法抵达 - UN News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3V3JsRVZ2TkMxUkw3dk96SHFpNTEtSHhnQzRzMmJwOEhzZ0JnUHBNcnBMRDByWEhQTk5wbzdUMWwwenNoRVROdVBPN2phUjU3XzVOWVZoUQ?oc=5",
-      "site": "UN News",
-      "siteUrl": "https://news.un.org"
     },
     {
       "id": "FL-18ed16b30a5c",
@@ -591,6 +579,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wamNQU2FUbk1OeGEtYTBLZ1ZGZUxWcFZ6ZmZIbUc1LTQxaUo2RnVXSWdEZEFXVkdKaDZTYmpudVpzX3F5eFhTY2YtRDcxSmp1SHhscjhCUEhhcTNVYkIwTkJ3OWp4QQ?oc=5",
       "site": "昆明信息港",
       "siteUrl": "https://www.kunming.cn"
+    },
+    {
+      "id": "FL-97b6812763e3",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 09:52:58 GMT",
+      "ts": 1789379578000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "云南墨江哈尼族自治县发生4.5级地震 - chinanews.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxOTV6NU5SOV8xdUFoUUZRZXg3QmYzZFN0X19qSjBRSmFGeENqZ0YwcTM0UDVmemVKUTFsRE01SUpJUWtWbVl0cTgybnNiblN1QlVWYXV0RzE1NjgxS1RpMmRRRDVENERQ?oc=5",
+      "site": "chinanews.com.cn",
+      "siteUrl": "https://www.chinanews.com.cn"
     },
     {
       "id": "FL-a180db4ef1a9",
