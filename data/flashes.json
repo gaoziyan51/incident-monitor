@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-16T11:07:06.840Z",
+  "updated": "2026-09-16T11:22:58.997Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-d67135609b70",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 11:05:11 GMT",
+      "ts": 1789556711000,
+      "scope": "dom",
+      "type": "other",
+      "title": "加沙城一战损建筑倒塌致至少20人死亡 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVXpaOVFMNmRaamRZOEktWEt3NmpvamZxNHJrWXM2dDJkblZmTmxTZDhSUTJtZDJPeW9CUS1yLXJ1RjBkM3NveGtUaksybk91aGUySkJuUTZwOHZLLVI3SUpNY1p5UjgxWWNJOUtuZHhUNDFrZzRWRzFBSEpINWx0Vm1KUldUcW9t?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
     {
       "id": "FL-331a836c4823",
       "date": "2026-09-16",
@@ -121,18 +133,18 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tNjNpWlo5YWZCdWtfaXo1elk0ZHBlZ2NGMlI4T1I2YW9jV2dCMFN0aGtmekVNdFViQzN4MFBrdlNDWnV6bGpJaHpWTWh5ZEFoUWUtekExTDUtM3Jzc0UyZC1KczNvd3lTYzBR?oc=5",
       "site": "中国西藏网",
       "siteUrl": "http://www.tibet.cn",
-      "related": 37
+      "related": 39
     },
     {
-      "id": "FL-9a56996018fa",
+      "id": "FL-4e13a442b2b6",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 08:58:44 GMT",
       "ts": 1789549124000,
       "scope": "intl",
       "type": "collapse",
-      "title": "苏丹一金矿发生坍塌事故，造成至少60人死亡 - cj.sina.cn",
+      "title": "苏丹一金矿发生坍塌事故，造成至少60人死亡 - finance.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBxZTFYV2p1MXRVNWwxQmw2SE5rOWlKb1BFN0xUNnpGRHZ1WlZrbHdPd2tTZDg2RWNiZkVvZWRuUi1BLXItZV9tY2stdw?oc=5",
-      "site": "cj.sina.cn",
+      "site": "finance.sina.com.cn",
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
@@ -160,15 +172,15 @@
       "siteUrl": "https://news.ifeng.com"
     },
     {
-      "id": "FL-ef7f76e26bdb",
+      "id": "FL-23ed216d897c",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 08:46:30 GMT",
       "ts": 1789548390000,
       "scope": "dom",
       "type": "other",
-      "title": "加沙公寓楼深夜倒塌 至少12人死亡近100人受困废墟下 - zaobao.com.sg",
+      "title": "加沙公寓楼深夜倒塌 至少12人死亡近100人受困废墟下 - 联合早报",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RUmdfejg0c0VkRk9TSDlfNGVtaGRNcDI5ZkYtT2s0VFVFSHF3a3gyaU1FZVZmUGlHak9JdWp2SE05dTRwNkk0T3daWUw5TmxWLVRtR01aNjNhc3B3R0c1d1BFdHg2c3dEREE?oc=5",
-      "site": "zaobao.com.sg",
+      "site": "联合早报",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
@@ -226,9 +238,9 @@
       "ts": 1789543680000,
       "scope": "dom",
       "type": "fire",
-      "title": "青岛一艘外籍货轮发生火灾 - 中青在线",
+      "title": "青岛一艘外籍货轮发生火灾 - cyol.com",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZcWRUM00xcGFjLWJ6UjU5MjlqM19VSjZDWjJDRXJINDBISmVBRzlKQzV6bmVneXRLX0NyZDdaUm0zMi00QldkQVBWdGJIM2JKSzFXNXNRbHpWS2lFcElaWlprcmw4S2R3a0tub1dqTnRjM2xRY0hMblZhbw?oc=5",
-      "site": "中青在线",
+      "site": "cyol.com",
       "siteUrl": "http://m.cyol.com",
       "related": 18
     },
@@ -269,27 +281,27 @@
       "siteUrl": "https://www.sohu.com"
     },
     {
-      "id": "FL-fb23ce1e3050",
+      "id": "FL-519bcd36a4e2",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 06:19:51 GMT",
       "ts": 1789539591000,
       "scope": "dom",
       "type": "geo",
-      "title": "视频丨四川茂县发生山体滑坡 提前管控未造成人员伤亡 - finance.sina.cn",
+      "title": "视频丨四川茂县发生山体滑坡 提前管控未造成人员伤亡 - finance.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQUR2ZWJ5ZmU1ZWdmbWUxUlhiMXpLeG40RFJiU05aWFRuR2d5STNOc21nQnAwTlpKLTR3UzZuSlJubkFRUmVkTGhJWlA1TDhIVzIxbkRCbUNZQzdaMG1pVFNSTGJiTW5OaVdsb1VfbklibkNDbkFkZTBUbnowRUpOSXEzWVczMEVzWktYa0otbG9vMVZNUmNaXw?oc=5",
-      "site": "finance.sina.cn",
+      "site": "finance.sina.com.cn",
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-7f2320214426",
+      "id": "FL-2a7ab2975bc1",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 06:01:50 GMT",
       "ts": 1789538510000,
       "scope": "intl",
       "type": "other",
-      "title": "中国企业紧急驰援尼日利亚埃努古州楼房倒塌事故 - hb.cri.cn",
+      "title": "中国企业紧急驰援尼日利亚埃努古州楼房倒塌事故 - 国际在线",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fUnBZbWVnNHVjZnhTMld2Yl9DTnRiM2sycDQ3bUlZbFdPWlVHNm9JdUR4VGdGM0t6VVRFUVVNQmdEQ1hyVWVualJROExjVWZ6QXlOY1BrakFYc0hMdkFjX1pvRkN6dkxlWUIyTUpBMTFPLWtBbWxYM0dB?oc=5",
-      "site": "hb.cri.cn",
+      "site": "国际在线",
       "siteUrl": "https://hb.cri.cn"
     },
     {
@@ -425,18 +437,6 @@
       "siteUrl": "http://news.china.com.cn"
     },
     {
-      "id": "FL-646c87a4b368",
-      "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 18:00:00 GMT",
-      "ts": 1789495200000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川茂县定子坝滑坡体发生垮塌，当地已提前将161人全部转移 - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mSjJkbDRhV1Y2ekdXS28wcFIxc1VRdGZWTXdJQUJPeHFhcThHeFNTenFKdmduUDAwNzd5Ukw1enFPcXV5ai1UTjE1T0xtdl9Vb0VpcUxpMXZvcHYya0F4ME52dkQ?oc=5",
-      "site": "新京报",
-      "siteUrl": "https://www.bjnews.com.cn"
-    },
-    {
       "id": "FL-2244178adc9f",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 15:16:30 GMT",
@@ -461,15 +461,15 @@
       "siteUrl": "https://news.sina.com.cn"
     },
     {
-      "id": "FL-487c524ea84d",
+      "id": "FL-0b8b148a6522",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 13:23:00 GMT",
       "ts": 1789478580000,
       "scope": "dom",
       "type": "geo",
-      "title": "最后一名失联人员被找到，江西遂川泥石流灾害共造成13人遇难 - finance.sina.com.cn",
+      "title": "最后一名失联人员被找到，江西遂川泥石流灾害共造成13人遇难 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNcWFDS213NjdsSjlHNTluVVp3VjdJV3k0N1Jha2l5SFpLNGpZQTFzLUNGc1g4Z0p3MWJBdUU5Ylpnam1uLXQ2cC1yOXJaRGlKeEhYSTdfRUQxcTlzVmppU0VLQV9yR1ZhclRyUWZrUEFYNVR2cjZtZA?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -569,15 +569,15 @@
       "siteUrl": "https://m.thecover.cn"
     },
     {
-      "id": "FL-221fab767f36",
+      "id": "FL-e0b20b7e83b1",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 15:24:23 GMT",
       "ts": 1789053863000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏网警：网民恶意对比他国歪曲中国泥石流救援被罚 - zaobao.com.sg",
+      "title": "西藏网警：网民恶意对比他国歪曲中国泥石流救援被罚 - 联合早报",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41YTFMaV8talhpWGRhdjJlWng2bThUdEwyTEFvbEgySFBYNDdaQUFXcW5sN3NOT3I3WGpINmVSenFmR1JWMVpYTTZ3R2swOExDVDc0WVJGR0ttWXAwWjdaSWh3NnFBMUpLUWc?oc=5",
-      "site": "zaobao.com.sg",
+      "site": "联合早报",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
