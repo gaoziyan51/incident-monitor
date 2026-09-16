@@ -1,17 +1,17 @@
 {
-  "updated": "2026-09-16T16:23:28.460Z",
+  "updated": "2026-09-16T16:38:32.170Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-9546a9fed4e5",
+      "id": "FL-bdc0affc76e2",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 15:40:01 GMT",
       "ts": 1789573201000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1409人遇难 - 极目新闻",
+      "title": "尼泊尔泥石流灾害已致1409人遇难 - ctdsb.net",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sRmdGN2dYZEZJQ0VNYmhSSjN6Ni1pTXFESjF6dldDczZndmM0UEJaWWFCUHV4blNwVnlreG0xaGlZQWcxcVVCc3U4VzNQcFNJRzIzcnpRQVc0OUE?oc=5",
-      "site": "极目新闻",
+      "site": "ctdsb.net",
       "siteUrl": "https://www.ctdsb.net"
     },
     {
@@ -133,7 +133,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41OEIxNUxYSG1rSm16Nk9yUFdyTFlua2Jxak5MSUEwVk4zT3diUDlQRG15R0FZaFNJTTBjUE4wWDBtQkxHV1MtbU1VUUNsNkhwWFhXaDZMLTBwbHc2WHJZbVRUQ0dyS3VxWnE0eg?oc=5",
       "site": "xzxw.com",
       "siteUrl": "https://www.xzxw.com",
-      "related": 38
+      "related": 39
     },
     {
       "id": "FL-a704a45dea9a",
@@ -172,6 +172,18 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
+      "id": "FL-d0ee7003c366",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 10:41:32 GMT",
+      "ts": 1789555292000,
+      "scope": "dom",
+      "type": "other",
+      "title": "加沙城一战损建筑倒塌致至少20人死亡 - 新华网客户端",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMkVIeDBkU29Ya0JDUWMyTmoyMGtJV1N1MHY5QmRjWXhCcUgzMFNTZUJDeDN6R3c2RU1qOEFOSVRuNWVDd1JQUUJ3TjdYT2Yxc3cxUUJQM3VkSnQyQXFzREpYT0ZFS2xlbXYtcGR6M3ZRRjNONGo3amtkZGxFb05mcDY3emJPMGx2SVFzbEd3ekVuM184b3Yza1RB?oc=5",
+      "site": "新华网客户端",
+      "siteUrl": "https://app.xinhuanet.com"
+    },
+    {
       "id": "FL-863208258cc3",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 10:35:44 GMT",
@@ -180,18 +192,6 @@
       "type": "geo",
       "title": "茂县山体滑坡致岷江河道和国道受阻，事发前一天已实施交通管制 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaVBtQnkyaXVmM3dSc2lMMnRnMDAzYmg1LWEzLTBjenpTSy1USUNLcFctMzVWLVY3bXN1SXByQTBQRnNjak95Rm5FZWJZT3FYWnUxeE92REZWUmM4TGFhLXFWeUVTVUktTzlTVWdPV05rLW12bkkwNzFpVTYtZWhXTk82TmdtSXRGTVgyUQ?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-0178230078fa",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 10:32:37 GMT",
-      "ts": 1789554757000,
-      "scope": "dom",
-      "type": "collapse",
-      "title": "深圳官方通报：一商铺发生坍塌事故，一工人坠亡，涉违章作业 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZTFwUHBnNE1BeFR5TnpIdWsxdjcxWmdla2FOY00xWldFazVhamhtOEhCdDc1T0lBWXlNNzdZb2t1cmFOeExSYzl5WWlEblhSbjVCRER0aVRxaUZ6X3JYVmwycmRzbjRvQTJTRkZtSTZnR21UT1JYX1A4WFVUUVBXYmVMTUVrYWJK?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
@@ -268,15 +268,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-bc41835fa717",
+      "id": "FL-24990cc10c38",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 08:55:35 GMT",
       "ts": 1789548935000,
       "scope": "intl",
       "type": "collapse",
-      "title": "苏丹一金矿发生坍塌事故 造成至少60人死亡 - cn.chinadaily.com.cn",
+      "title": "苏丹一金矿发生坍塌事故 造成至少60人死亡 - 中国日报网",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wZFJCOXJPeEt4OHkxa2NzZW1HUmhsQ21VamUwbDNJRWNPeTZiTm1Sci1aR0h3T0o0eGgyUGVERl92VHNJWEJEdTNtN3JsYXhsNzNIV3dIeEZYLU9TZjRGUUQwWnB6SGN1S3FVNWMwUllXSUIxanFvQ09MUE4?oc=5",
-      "site": "cn.chinadaily.com.cn",
+      "site": "中国日报网",
       "siteUrl": "https://cn.chinadaily.com.cn"
     },
     {
@@ -358,9 +358,9 @@
       "ts": 1789543680000,
       "scope": "dom",
       "type": "fire",
-      "title": "青岛一艘外籍货轮发生火灾 - 中青在线",
+      "title": "青岛一艘外籍货轮发生火灾 - cyol.com",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZcWRUM00xcGFjLWJ6UjU5MjlqM19VSjZDWjJDRXJINDBISmVBRzlKQzV6bmVneXRLX0NyZDdaUm0zMi00QldkQVBWdGJIM2JKSzFXNXNRbHpWS2lFcElaWlprcmw4S2R3a0tub1dqTnRjM2xRY0hMblZhbw?oc=5",
-      "site": "中青在线",
+      "site": "cyol.com",
       "siteUrl": "http://m.cyol.com",
       "related": 18
     },
