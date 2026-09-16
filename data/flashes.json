@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T22:06:22.555Z",
+  "updated": "2026-09-16T22:20:52.563Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -49,18 +49,6 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wdnBqX2d2T1NSQ092SjlCdW1fbVZfak4ycERLSWtGb2VxT21FdXRQSkd5bVFiVkxvZlFlaDZralk5b2FyemR4RlptclBhbDhrR1ZILTc4Zw?oc=5",
       "site": "news.un.org",
       "siteUrl": "https://news.un.org"
-    },
-    {
-      "id": "FL-6a992e6f8bc8",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 16:12:00 GMT",
-      "ts": 1789575120000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "日本茨城县南部发生4.8级地震 - gbcode.rthk.hk",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdXpRMkdVY0tKNld6NndiemFMdk1JOGhUbEVERlA3NEg2Z3BTbFllcGk3VUtJOTRCVlhHMzZ3clNfdF93eG1Id0dvWlV6eVY4TEFha29vNk1yQW5uRDVpUVc3WC0wYjYtS2VlV2FQVGtSR2tKSW1JdVBjZGRzQTJhU05BY0xlNVowWlM2Vkp3cmFObGs5b2J2U1NEUVpLMlYtQTVR?oc=5",
-      "site": "gbcode.rthk.hk",
-      "siteUrl": "https://gbcode.rthk.hk"
     },
     {
       "id": "FL-9546a9fed4e5",
@@ -147,6 +135,18 @@
       "siteUrl": "https://www.sohu.com"
     },
     {
+      "id": "FL-0ecea36e4c8b",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 14:55:27 GMT",
+      "ts": 1789570527000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川茂县发生山体滑坡，161名群众提前转移无伤亡，国道213线茂县段目前已双向管制 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOEoyUGdEU2hNemVwMzFmNHVRcmRhVVUyWTR6ZkU3YU1wWjVoaTlpTTg5SkdOU3BpSkJiczBhWUlEaHIwdDZfeG1xTy1QU2JJeUVUdUVNeklLWlh3aGNyaERhNW5xY0FGZE8wa2p6bW9FMGkzMDVQSTNmWWJhY1F2UUhhQTFmM21x?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-657bacb10816",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 13:48:00 GMT",
@@ -169,7 +169,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWGVFUV8wSmNuNWtpcW9HYWNjRDFHVXNpTkxaY3JrczdzV28xWmVIeUZyYXY1VmkzX0JTUDJGQmpyNEFfdFFhbEFJbkZSTExNR2xOdmFsdzVvREZGWmdBcGpNbmZtODRBWlp1Q29lVGpLckgxWkhtQjFuS0EyaGVZclJaRzdBZ29IRGRBbQ?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com",
-      "related": 41
+      "related": 40
     },
     {
       "id": "FL-a704a45dea9a",
@@ -208,6 +208,18 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
+      "id": "FL-863208258cc3",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 10:35:44 GMT",
+      "ts": 1789554944000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "茂县山体滑坡致岷江河道和国道受阻，事发前一天已实施交通管制 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaVBtQnkyaXVmM3dSc2lMMnRnMDAzYmg1LWEzLTBjenpTSy1USUNLcFctMzVWLVY3bXN1SXByQTBQRnNjak95Rm5FZWJZT3FYWnUxeE92REZWUmM4TGFhLXFWeUVTVUktTzlTVWdPV05rLW12bkkwNzFpVTYtZWhXTk82TmdtSXRGTVgyUQ?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-93cfa468b423",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 10:19:39 GMT",
@@ -228,18 +240,6 @@
       "type": "collapse",
       "title": "苏丹西部一金矿坍塌致63人死亡 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOak9DMkNKc1hFck1SbTc5YV9pblF0Ml9PM0NnWmxHUlVJVmszbk0wU2lHcmJ4Y2VZbFR5ek9EeXYtZUhaQjEyRF9mbDl5ZUhYOTBRMEtJUkVVNDMxbXpmcEd0VmJmdUZLN1RfX194WlFUdTR2YlRTb3B4bTdYQWM1ZmR5a3J4TV84?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-c2866909e670",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 09:47:23 GMT",
-      "ts": 1789552043000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "海南保亭遭强暴雨后：有村民称30余亩菜地全部被淹，海南拨款1900万元用于救灾 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOEVRV3J4LVdFNklocnFpSDlaSjdRaW9TOGZGdkRYTk5fTmJMeDN3NXFQYjZlRHpoVElINEdqVTZsX0N3bm5JTkQwYlFxWHFVUTVRcnBCaDJkOW5Xc28xRVVqMTdHRE9Jd0tGZThyU2EzWV9hd1JMVDJoV09lemIwZnhldTdwdW9SRHd3cg?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
@@ -437,6 +437,18 @@
       "siteUrl": "https://www.cnr.cn"
     },
     {
+      "id": "FL-77762bc1ac3f",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 05:51:27 GMT",
+      "ts": 1789537887000,
+      "scope": "dom",
+      "type": "other",
+      "title": "加沙城一建筑倒塌致至少9人死亡、近100人失踪 - news.bjd.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoN2xfSXpacjliUmI0NWxzcWtvMHkzSWd5ekN6VHB5X05LRlR3Rm1kNHM1ZFl6c29EcXdvejJmTldfY29SRC1mTnRIeUFteDZfRFRia1Q0ZDZ3MkdjQXc?oc=5",
+      "site": "news.bjd.com.cn",
+      "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
       "id": "FL-9c63d9d89c05",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 03:40:00 GMT",
@@ -627,18 +639,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rWlBVcnZhd0NVTDlFZ3hVN3BYR3RLUFpMZEM0eVkwN2JkRXIzM0V0REJXR2FjeDRxUUVqeDBvMUtKU25TUFNDMzJYdHNucTZ4bDBEWkFjazFwZGZEOVJzVlZyNGtiZ9IBa0FVX3lxTFBOT0pTWlZHV0dDQTNJRFExWFdZcGJDZTI3aDVxeDJQNGk4WldjSzRwa1lJRXF3aW1Id1QwVHM0TlNoRWp2SmtvMURjcEZoTG5kaVlSOTlHcFpVMFpxSkp0MnVUX2NGZWZYZk5N?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-91bdb2ea9dee",
-      "date": "2026-08-23",
-      "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
-      "ts": 1787468400000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "日本茨城县地震致37人受伤 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fZ3lxTFI5WEl3Qjlvb2l4cU5CT1hZdkt1emRwLW1oc0RfcDlvbW90SEJkWnp5QUJCUEdmUzRpVHBlQ0ZCUFlzQVpRbzlOZUhSY1ZucFhuWWE2QUQ4WlR6OVQwakhOaXRVU1djd3JFallBbXl6RlJvSElnUm9BZ2c?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-40d60e09c577",
