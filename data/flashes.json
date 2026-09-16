@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T12:08:52.415Z",
+  "updated": "2026-09-16T12:29:39.124Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -37,18 +37,18 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVXJRd05nUUJsdjc0czhLcnQ4Y2FaWEM2QXRiU2ZIYXBzSUdGNk5VaWduOWpPRno5c21BTlIyNDZQRkZ6djlJX0lBckYzRXpjMnUySUcxN2NOQ1B5OGlTWl9EY2M1TEphMzRBWFp0ZXJsRno1dlFycl8tcE1FWk9qdDA5MzBwM3gx?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com",
-      "related": 43
+      "related": 40
     },
     {
-      "id": "FL-7c2b68ab354a",
+      "id": "FL-ebd4411bd89f",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 11:36:06 GMT",
       "ts": 1789558566000,
       "scope": "dom",
       "type": "other",
-      "title": "加沙公寓楼深夜倒塌 至少20人死亡近100人受困废墟下 - zaobao.com.sg",
+      "title": "加沙公寓楼深夜倒塌 至少20人死亡近100人受困废墟下 - 联合早报",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RUmdfejg0c0VkRk9TSDlfNGVtaGRNcDI5ZkYtT2s0VFVFSHF3a3gyaU1FZVZmUGlHak9JdWp2SE05dTRwNkk0T3daWUw5TmxWLVRtR01aNjNhc3B3R0c1d1BFdHg2c3dEREE?oc=5",
-      "site": "zaobao.com.sg",
+      "site": "联合早报",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
@@ -110,6 +110,18 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DR1lVREV2SVpfQkdwZ2J2NTM3ZUl3M2xtOWpucTJwY2RHRTFxaFFYbTNUQTk1R0dzbEROVW56aG9IcGhUcHhhTzV1MGlZbVpVQWpRSGpVd1BXNW9FZUprSjhTNA?oc=5",
       "site": "手机新浪网",
       "siteUrl": "https://www.sina.cn"
+    },
+    {
+      "id": "FL-93cfa468b423",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 10:19:39 GMT",
+      "ts": 1789553979000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "云南墨江4.5级地震震后观察：当地群众生活平稳有序 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83VEJCQWd3bWh6V01tdzRVLVFsaEVPV0tGeHBTR1ZqMFZOdmFlQlM5NEJPWXA2Q2t6SU9TRWtMU3k5R3hHZExmdTJRaXN4SWNMSXBpamxoSDU4SnYzaXFFNndzRFlBc3dxZlA5NWRmWVJnVUszUjZCNGhZOGU2YkE?oc=5",
+      "site": "新华网",
+      "siteUrl": "http://www.news.cn"
     },
     {
       "id": "FL-8c242b228b8b",
@@ -281,16 +293,28 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-bd2f28ca6707",
+      "id": "FL-90b784652602",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 07:20:29 GMT",
       "ts": 1789543229000,
       "scope": "dom",
       "type": "other",
-      "title": "中央气象台：今天到明天，湖北、四川、贵州、云南、广西、广东等地有短时强降水 - sznews.com",
+      "title": "中央气象台：今天到明天，湖北、四川、贵州、云南、广西、广东等地有短时强降水 - 深圳新闻网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBod1FaY2xHa2JhOUs1bjU1RmRfc2wyYWp3V0J3cU5DdGlUWUdON2VtOWNnRkVxMFJMU0FScXd2d1FYcHBkTUx5Ym5PSGxsOXlGcklTN21TRkVGbmJER0dSSGh5dmpoaWZ3VHlzTFZMLUY1RlpBbUlKcQ?oc=5",
-      "site": "sznews.com",
+      "site": "深圳新闻网",
       "siteUrl": "http://www.sznews.com"
+    },
+    {
+      "id": "FL-b2d13116c5ba",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 07:15:29 GMT",
+      "ts": 1789542929000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川茂县发生山体滑坡 161名群众提前转移无伤亡 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xUmN1eHZYWThIN2IwejZLemdfc0QySHhhUmd1RnB6YmlqekI2bVJOT0RRTVZMODJnUmRicjJVMzhkRzFRWnU4VXdUT0JKdXhRUk1DTWFRTjNmc3VnR2pRU3NzQXpMSF91SjU3NGhGLXl6a2ltS0VRcVJrWkI4TkU?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-8279f6b5cb24",
@@ -317,15 +341,15 @@
       "siteUrl": "https://www.sohu.com"
     },
     {
-      "id": "FL-fb23ce1e3050",
+      "id": "FL-519bcd36a4e2",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 06:19:51 GMT",
       "ts": 1789539591000,
       "scope": "dom",
       "type": "geo",
-      "title": "视频丨四川茂县发生山体滑坡 提前管控未造成人员伤亡 - finance.sina.cn",
+      "title": "视频丨四川茂县发生山体滑坡 提前管控未造成人员伤亡 - finance.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQUR2ZWJ5ZmU1ZWdmbWUxUlhiMXpLeG40RFJiU05aWFRuR2d5STNOc21nQnAwTlpKLTR3UzZuSlJubkFRUmVkTGhJWlA1TDhIVzIxbkRCbUNZQzdaMG1pVFNSTGJiTW5OaVdsb1VfbklibkNDbkFkZTBUbnowRUpOSXEzWVczMEVzWktYa0otbG9vMVZNUmNaXw?oc=5",
-      "site": "finance.sina.cn",
+      "site": "finance.sina.com.cn",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -473,18 +497,6 @@
       "siteUrl": "http://news.china.com.cn"
     },
     {
-      "id": "FL-c4983000a78b",
-      "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 15:28:00 GMT",
-      "ts": 1789486080000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1403人遇难 - finance.sina.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XTXlZSjJuZTFJTXMyOVRPdlB5cFUzNjg1UTBTc2NkVlF6cnh3SWx1MkZuM1p5azhHdnY2YnNSYnlNUGhOQ010SHY5RWV1YzVmSzdkdzk2VVR5ODJ1Y2tYUUtBQllaYlJpTGx2WU8wQ1FQSUl1RFNPVw?oc=5",
-      "site": "finance.sina.com.cn",
-      "siteUrl": "https://finance.sina.com.cn"
-    },
-    {
       "id": "FL-26b71d7e9a07",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 15:09:58 GMT",
@@ -497,27 +509,15 @@
       "siteUrl": "https://news.sina.com.cn"
     },
     {
-      "id": "FL-93cfa468b423",
-      "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 12:34:58 GMT",
-      "ts": 1789475698000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "云南墨江4.5级地震震后观察：当地群众生活平稳有序 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNZmhLdmNhemtaWkwySFVoeC1RNzJ2cXF5Z2RKNExfWTlHU3J4dW14dGQzUC12cEVldy1fUGZFN1BUQklqb2lqbWxFaTR5eWREVGVvcmNXaXY1SHdqT3dzWFJjOTdwbWhWVkJQM2FWT0Q1RmI1N1E4QngyNVhEQQ?oc=5",
-      "site": "新华网",
-      "siteUrl": "http://www.xinhuanet.com"
-    },
-    {
-      "id": "FL-64aba0b9242b",
+      "id": "FL-b36b8ea3d194",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 08:52:00 GMT",
       "ts": 1789462320000,
       "scope": "dom",
       "type": "weather",
-      "title": "拦山洪排内涝，北京苦练防汛“基本功” - bjnews.com.cn",
+      "title": "拦山洪排内涝，北京苦练防汛“基本功” - 新京报",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aM3lxTlVQLW4wVERMMFJ0d01PRUFwS3BvQV9LWU5kaWZlUjNjZk5KVnZmQ0R4cUNlMHp0TE1JblRJN3V2VGhjRGhlWUt4UURIX01LZmpsRVo2TTZTNU5vYTZ3?oc=5",
-      "site": "bjnews.com.cn",
+      "site": "新京报",
       "siteUrl": "https://m.bjnews.com.cn"
     },
     {
@@ -593,15 +593,15 @@
       "siteUrl": "https://m.thecover.cn"
     },
     {
-      "id": "FL-221fab767f36",
+      "id": "FL-e0b20b7e83b1",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 15:24:23 GMT",
       "ts": 1789053863000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏网警：网民恶意对比他国歪曲中国泥石流救援被罚 - zaobao.com.sg",
+      "title": "西藏网警：网民恶意对比他国歪曲中国泥石流救援被罚 - 联合早报",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41YTFMaV8talhpWGRhdjJlWng2bThUdEwyTEFvbEgySFBYNDdaQUFXcW5sN3NOT3I3WGpINmVSenFmR1JWMVpYTTZ3R2swOExDVDc0WVJGR0ttWXAwWjdaSWh3NnFBMUpLUWc?oc=5",
-      "site": "zaobao.com.sg",
+      "site": "联合早报",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
