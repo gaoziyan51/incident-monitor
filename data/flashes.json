@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T05:38:30.204Z",
+  "updated": "2026-09-16T05:50:00.750Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -13,6 +13,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CTG9yTTh6cnplOGJ1TG5PUzFQRkwtNjZTTzFLcEMwYzRWQlhzTVF2eGMyUFRzdWlKYldDSTVRcWNVd2RnbkJWU1prR2FMUVhKeVk4X0c4MVNnbUFCTjItZ0JiN0xvd9IBa0FVX3lxTE1PT1F4VHcyMnlBRE5SdUdLeERKN21TU1VXSkdqTTNnWnE1MTkxNi1Yb1ZqbWQtX2ZVdGwtMFhCZjZsVmgwTi1LNkdwYWtOZTE3dDlIVzNiT3cxOHV2dzdnZF9hY2cwV3dsSi1j?oc=5",
       "site": "bbc.com",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-44afbdcb6779",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 05:40:08 GMT",
+      "ts": 1789537208000,
+      "scope": "dom",
+      "type": "other",
+      "title": "加沙城一建筑倒塌致至少9人死亡 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BMFpKRUo5UnlkLXpScTRNZVJpZVlIZFZQeU9NOXhTNERwT0F5SVp4cVg5ZjZySDdwT3RtdmNaTFI5ZERHUG9NMkdNQQ?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://wap.cj.sina.cn"
     },
     {
       "id": "FL-ec6cab12c898",
@@ -109,7 +121,7 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OZm9NUjdCZF9nS1pLQzQ3YTJCLU1uNkdqVDBlSjJzZnZLQWNMNTAwVWhmdHlZcWlzZkdvZGJrckRXN0JNYW5XUUtlSnoteWh0X2RnWHp0Q0tqWTNJQ2RJ?oc=5",
       "site": "虎嗅网",
       "siteUrl": "https://m.huxiu.com",
-      "related": 42
+      "related": 40
     },
     {
       "id": "FL-fe186dd0953d",
@@ -364,15 +376,15 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-c13166f3b420",
+      "id": "FL-5831589d6e49",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 00:46:59 GMT",
       "ts": 1789433219000,
       "scope": "dom",
       "type": "other",
-      "title": "以习近平同志为核心的党中央坚强领导科学指挥2026年防汛抗洪救灾纪实 - 求是",
+      "title": "以习近平同志为核心的党中央坚强领导科学指挥2026年防汛抗洪救灾纪实 - qstheory.cn",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CQ1ZWdmtOdFRiUzBzaC04UVZoVGZ0RmJGVTRseWJrMFdmaktnWVVUcms3UDVTSW9pWFJaNDZ1NnRrZENFQnZ6RmtpZThGQUpxcUVEWE1qQVdUVFg2WkFkaVN2YUxGOXRQQmM3eXloaHYtaG5qMkpFbUY1YzU?oc=5",
-      "site": "求是",
+      "site": "qstheory.cn",
       "siteUrl": "https://www.qstheory.cn"
     },
     {
@@ -579,18 +591,6 @@
       "site": "Jiemian.com",
       "siteUrl": "https://m.jiemian.com",
       "related": 11
-    },
-    {
-      "id": "FL-4223b0016e20",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 10:13:00 GMT",
-      "ts": 1789380780000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "受云南普洱市墨江县4.5级地震影响，中老铁路部分列车晚点 - thepaper.cn",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50R2lZQWNaXy1PZDIzbTdzcDBjTGtGRXVaM184c00zcm0yclZZMjRyaTNpelZuRVpDbWtZaE9fUURpbHBYS1Z6d0xpeFR1dHl0QVc0QTE4Z3Y2RERza3N5SA?oc=5",
-      "site": "thepaper.cn",
-      "siteUrl": "https://www.thepaper.cn"
     },
     {
       "id": "FL-a180db4ef1a9",
