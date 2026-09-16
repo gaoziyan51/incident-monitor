@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-16T14:52:31.880Z",
+  "updated": "2026-09-16T15:07:27.975Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-0ecea36e4c8b",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 14:55:27 GMT",
+      "ts": 1789570527000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川茂县发生山体滑坡，161名群众提前转移无伤亡，国道213线茂县段目前已双向管制 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOEoyUGdEU2hNemVwMzFmNHVRcmRhVVUyWTR6ZkU3YU1wWjVoaTlpTTg5SkdOU3BpSkJiczBhWUlEaHIwdDZfeG1xTy1QU2JJeUVUdUVNeklLWlh3aGNyaERhNW5xY0FGZE8wa2p6bW9FMGkzMDVQSTNmWWJhY1F2UUhhQTFmM21x?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-e82f64ca0c7b",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 13:37:41 GMT",
+      "ts": 1789565861000,
+      "scope": "intl",
+      "type": "collapse",
+      "title": "苏丹金矿坍塌事故已造成至少67名矿工遇难 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52ZlRLWDNGemdWQ1Q2SHMwRnVUZ0x4SFdONXVTQ19nYmJ4eWVxVW1sREFGd2cwMlFaM3J4bDUwVzRPZ1d1cVVGdU14SHpDTnpIZ1duemV4V0V0aXRIZ2xtekF6Q29oeGJLcWNDYU1HMVk1eTVSclFlZA?oc=5",
+      "site": "央视网",
+      "siteUrl": "https://news.cctv.com"
+    },
     {
       "id": "FL-EV-f283a898090a",
       "date": "2026-09-16",
@@ -13,7 +37,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41OEIxNUxYSG1rSm16Nk9yUFdyTFlua2Jxak5MSUEwVk4zT3diUDlQRG15R0FZaFNJTTBjUE4wWDBtQkxHV1MtbU1VUUNsNkhwWFhXaDZMLTBwbHc2WHJZbVRUQ0dyS3VxWnE0eg?oc=5",
       "site": "xzxw.com",
       "siteUrl": "https://www.xzxw.com",
-      "related": 41
+      "related": 39
     },
     {
       "id": "FL-a704a45dea9a",
@@ -40,18 +64,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-6fe567902f9c",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 11:45:53 GMT",
-      "ts": 1789559153000,
-      "scope": "dom",
-      "type": "collapse",
-      "title": "栈桥坍塌、杂草丛生，禹王湿地咋“荒”了 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ1pmTU02bDVxR0M2LU9UcUliOHZjYk0tSjE0SFFhTmpzcFBZdlJkYXA1WTZSa0Vxa3dER3p4Qy1CRm51a3JoZldmVkllSkg2RzZrYWRXYS1nekY2eVVEVUxWTnBiaTF0NUxYdFZrcHdibVpPSGx6NFVueVB2SUQwTmh5UFBNV2h3b1BVaQ?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-d67135609b70",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 11:07:25 GMT",
@@ -62,18 +74,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeDU3QnZ2bkw5UkQxT1VDeWwwazhGdmllLXByTTFsMWh3azBYeDRmVko5eFRrb3NKN0hmMHpFUFk2N2NuQTVqS09QakJMRHg3aEU1VGYtV0o0UXNzRFdGUXlWVEpDM0poOGhJeWRYeW9XVURaRXFaa2pTTlFrUDg3RzgtMVFDYU1n?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-331a836c4823",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 10:49:16 GMT",
-      "ts": 1789555756000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川茂县山体滑坡 161人被提前转移 预警及时无伤亡 - 中华网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CVHZPbmxoME5MNTdIWEtCa1loYmxZS2hLWHlMN1lMRFV0eGFXR2FLNDNIQjVjLVBOeEZWa05tM081cVFhNnRXODd0U0pmN3czZTlaVUprcWo2ck55X2VwWExrUU1OZC15QzdnWjlRLXY?oc=5",
-      "site": "中华网",
-      "siteUrl": "https://news.china.com"
     },
     {
       "id": "FL-863208258cc3",
@@ -148,18 +148,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-8bde52f90fca",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 09:46:07 GMT",
-      "ts": 1789551967000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "茂县定子坝滑坡体垮塌无人员伤亡 国道213线茂县段已双向管制，绕行看这里 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQclJaaFpHSUdKRlFSa2VtU1VhSUxzeU5TSkN1NHF4WUpPbVlSR3VJWnlodHNJWG5PNl9qaGhvUHo5QlByRGRvY3I3blJmZmhuOHBzcjJnX2FwckFlajRxTGdtMVBtRXdfRXdvZTdkQzgyc1dIZTVmNFhKQk9sN2pHcktyMzNqcXlsUURvNg?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-0726765e4baf",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 09:40:00 GMT",
@@ -182,18 +170,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5Hb1diRGpSWFlzcjhFaXpOQnBwSlVHUVhkeWFtSFlMWUVEU1o3VjB4NHczQk9Hbkw4UDc5MUhNUml5SUcxdzdNLTBOaEs?oc=5",
       "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com"
-    },
-    {
-      "id": "FL-37cc65a98530",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 09:11:00 GMT",
-      "ts": 1789549860000,
-      "scope": "dom",
-      "type": "other",
-      "title": "海南五指山强降水基本结束 清淤、抢险、复工有序推进 - 21财经",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNTZDMExJWXVleWdrdkR6QlFqQ1BmMWNlZjR6TWdNZWZjX3hWZlBjNlh1ZGpGWExGRXhLbDRaVjhoNVhjYXhPa1paVkVOR3dpR3VRWVpBRTNFUEdnd1JMa1lPbm1uQXJqWW1ldFRoN1N3WWhVaHVweC1RZU9kMTFQSHJDYjNRMlVkRjVBYkxMSQ?oc=5",
-      "site": "21财经",
-      "siteUrl": "https://www.21jingji.com"
     },
     {
       "id": "FL-24990cc10c38",
@@ -268,17 +244,41 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
+      "id": "FL-a74bbf34ab98",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 07:32:41 GMT",
+      "ts": 1789543961000,
+      "scope": "dom",
+      "type": "other",
+      "title": "海南五指山强降水基本结束 清淤、抢险、复工有序推进 - 央广网",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52bnFwSExVdm9OaGprZEl2RzhiZEVra3EwNG8tOTMyNFg4YmthZFNybGs3OFpYUXNCR2Z4ZmdFTWRzaVNtRU5VUksyamhxNkEtZEhFMWNSS1NzSVlxUEQtLXpVY1JMMFNGZVVjQ0laOA?oc=5",
+      "site": "央广网",
+      "siteUrl": "https://news.cnr.cn"
+    },
+    {
       "id": "FL-EV-18d9b0620c3d",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 07:28:00 GMT",
       "ts": 1789543680000,
       "scope": "dom",
       "type": "fire",
-      "title": "青岛一艘外籍货轮发生火灾 - 中青在线",
+      "title": "青岛一艘外籍货轮发生火灾 - cyol.com",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZcWRUM00xcGFjLWJ6UjU5MjlqM19VSjZDWjJDRXJINDBISmVBRzlKQzV6bmVneXRLX0NyZDdaUm0zMi00QldkQVBWdGJIM2JKSzFXNXNRbHpWS2lFcElaWlprcmw4S2R3a0tub1dqTnRjM2xRY0hMblZhbw?oc=5",
-      "site": "中青在线",
+      "site": "cyol.com",
       "siteUrl": "http://m.cyol.com",
-      "related": 19
+      "related": 18
+    },
+    {
+      "id": "FL-d91404203dae",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 07:22:00 GMT",
+      "ts": 1789543320000,
+      "scope": "dom",
+      "type": "other",
+      "title": "加沙城一建筑倒塌致至少11人死 百余人失踪 - 紫牛新闻",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92NEppNktNLXZPUW1FcEtud1Zna01XWTlmcHZTSk1WbWFheE4zZXdWai1hUWctNWhmVUo0SklReW01SDV3NDJTTFlFNWpvWl8tbTlfZ21BLV9GVV9sem1yZjZhUVlqb2FQVFE?oc=5",
+      "site": "紫牛新闻",
+      "siteUrl": "https://www.yzwb.net"
     },
     {
       "id": "FL-90b784652602",
@@ -339,6 +339,18 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BeTQ5bFFrQnpTLXQ0X0xrTEdQRWZSQXNiaGNHN19Qd0tLOFRWLW1qM2UxeDFuNmJaNVM2SUlpYUt3MXVsTU1PQ2dnQzlZZ3VNc3c?oc=5",
       "site": "Sohu",
       "siteUrl": "https://www.sohu.com"
+    },
+    {
+      "id": "FL-392dffa97a55",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 06:17:31 GMT",
+      "ts": 1789539451000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "青海海西州直辖区发生3.6级地震 震源深度10千米 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcC1qdnpIQUh6U0pZRWpwVXQwNWVRME1xUHlEbExxbDRXVjBLU3BUUmNVcDg4UlhCSW5WdXY0cXV5UlpVT1MxYjRIUXpZMFhRSW1jVGpEOUxIUVdESndoaHVBY19seFozX0E5cjFnaUk3NU56TFJBQm90RUMzTEd3UzctQjE1UFZlVnJxTA?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-2a7ab2975bc1",
@@ -483,18 +495,6 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBySGExLXVMdmFfZGREZUM1d01XRE1nZUxXNHNnU0U0SzROaUFfelVpTWZTNnB3QW56WEFCZktZTWRMQ1ZtNFNrZjZ0ZTV1TFdINTRSdW5CTlpfbWFXMWVxQmVvYWVBbGVpMExB?oc=5",
       "site": "中国网新闻中心",
       "siteUrl": "http://news.china.com.cn"
-    },
-    {
-      "id": "FL-ec0d2255786c",
-      "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 15:44:17 GMT",
-      "ts": 1789487057000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1403人遇难 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxSXBDLTAxcDN6MUhlbFRjOE9WY1dfaVpCLUpETDl0ZWl5YjlFdlp1MW14eGtuREJlU1ZuckpwTm52RzM5WlpKUFhnTGVkVDVvRmw5S2MtemJXMGtxY2F3dUNOS2FFZkc2?oc=5",
-      "site": "央广网",
-      "siteUrl": "https://news.cnr.cn"
     },
     {
       "id": "FL-26b71d7e9a07",
