@@ -1,29 +1,17 @@
 {
-  "updated": "2026-09-16T16:07:54.044Z",
+  "updated": "2026-09-16T16:23:28.460Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-42ba1d0df553",
-      "date": "2026-08-26",
-      "dateISO": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "ts": 1787727600000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "西藏土石流：接壤尼泊尔边境山洪暴发 上千人失踪包括多国游客 - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CTG9yTTh6cnplOGJ1TG5PUzFQRkwtNjZTTzFLcEMwYzRWQlhzTVF2eGMyUFRzdWlKYldDSTVRcWNVd2RnbkJWU1prR2FMUVhKeVk4X0c4MVNnbUFCTjItZ0JiN0xvd9IBa0FVX3lxTE1PT1F4VHcyMnlBRE5SdUdLeERKN21TU1VXSkdqTTNnWnE1MTkxNi1Yb1ZqbWQtX2ZVdGwtMFhCZjZsVmgwTi1LNkdwYWtOZTE3dDlIVzNiT3cxOHV2dzdnZF9hY2cwV3dsSi1j?oc=5",
-      "site": "BBC",
-      "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-bdc0affc76e2",
+      "id": "FL-9546a9fed4e5",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 15:40:01 GMT",
       "ts": 1789573201000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1409人遇难 - ctdsb.net",
+      "title": "尼泊尔泥石流灾害已致1409人遇难 - 极目新闻",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sRmdGN2dYZEZJQ0VNYmhSSjN6Ni1pTXFESjF6dldDczZndmM0UEJaWWFCUHV4blNwVnlreG0xaGlZQWcxcVVCc3U4VzNQcFNJRzIzcnpRQVc0OUE?oc=5",
-      "site": "ctdsb.net",
+      "site": "极目新闻",
       "siteUrl": "https://www.ctdsb.net"
     },
     {
@@ -61,6 +49,30 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qQS14RUo5U29VNjhiZ0Zlc0xfY0ZkMlFqVUlEM3BSaU5YUGJWaXRBMkl4Z1NSTDhLUUtwcXB6Mk5pVF82TGVhaVF1RnMwZVpMY1kyVzJXcV9uZ3RrQWc?oc=5",
       "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
+      "id": "FL-b36f5bc66901",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 15:11:00 GMT",
+      "ts": 1789571460000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害已致1409人遇难 - thepaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9CTUw0WVp2Qk1xcW05aFplY1JPM0NtNzV6eERTR2dDRXJpaVU0OEotWjk0M2swMk9rWlEtTG1GaUZINFk0dkJYakxIcmVOZw?oc=5",
+      "site": "thepaper.cn",
+      "siteUrl": "https://m.thepaper.cn"
+    },
+    {
+      "id": "FL-629d95c449fb",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 15:07:33 GMT",
+      "ts": 1789571253000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "截至当地时间16日20时，尼泊尔泥石流灾害已致1409人遇难 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zLThoM2lfUmFndHgwLTlDd3VuVVYzbmgzQ2pUMTdnZDBGWk1qZ0k5YlQzOExNN1JfZndXVXRGNWlCd1pNckNvbnAwUVQ4akZ2NUE?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://www.sohu.com"
     },
     {
       "id": "FL-727c172e09a2",
@@ -121,7 +133,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41OEIxNUxYSG1rSm16Nk9yUFdyTFlua2Jxak5MSUEwVk4zT3diUDlQRG15R0FZaFNJTTBjUE4wWDBtQkxHV1MtbU1VUUNsNkhwWFhXaDZMLTBwbHc2WHJZbVRUQ0dyS3VxWnE0eg?oc=5",
       "site": "xzxw.com",
       "siteUrl": "https://www.xzxw.com",
-      "related": 41
+      "related": 38
     },
     {
       "id": "FL-a704a45dea9a",
@@ -196,18 +208,6 @@
       "siteUrl": "http://www.news.cn"
     },
     {
-      "id": "FL-8c242b228b8b",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 10:16:10 GMT",
-      "ts": 1789553770000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "阿坝州茂县突发山体滑坡 提前管控未造成人员伤亡 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcGV3bnlLYnlLYjZwYzYwd0M1ZEZKRklzdE5qbUxDQVBSWGEzelo4czVDOVZ0MktNOHA5cFRmeDJGa0tyb01lRVV0blZRZFU5VzdjM1dmRG1zR2dUSllNYVpqY0xsRlpfTW9UellMdkRjb0hIMUZhbmNvRkYtUzRqZnhpNE9IN1l0WnROMA?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-4074d123beef",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 09:51:31 GMT",
@@ -268,15 +268,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-24990cc10c38",
+      "id": "FL-bc41835fa717",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 08:55:35 GMT",
       "ts": 1789548935000,
       "scope": "intl",
       "type": "collapse",
-      "title": "苏丹一金矿发生坍塌事故 造成至少60人死亡 - 中国日报网",
+      "title": "苏丹一金矿发生坍塌事故 造成至少60人死亡 - cn.chinadaily.com.cn",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wZFJCOXJPeEt4OHkxa2NzZW1HUmhsQ21VamUwbDNJRWNPeTZiTm1Sci1aR0h3T0o0eGgyUGVERl92VHNJWEJEdTNtN3JsYXhsNzNIV3dIeEZYLU9TZjRGUUQwWnB6SGN1S3FVNWMwUllXSUIxanFvQ09MUE4?oc=5",
-      "site": "中国日报网",
+      "site": "cn.chinadaily.com.cn",
       "siteUrl": "https://cn.chinadaily.com.cn"
     },
     {
@@ -362,7 +362,7 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZcWRUM00xcGFjLWJ6UjU5MjlqM19VSjZDWjJDRXJINDBISmVBRzlKQzV6bmVneXRLX0NyZDdaUm0zMi00QldkQVBWdGJIM2JKSzFXNXNRbHpWS2lFcElaWlprcmw4S2R3a0tub1dqTnRjM2xRY0hMblZhbw?oc=5",
       "site": "中青在线",
       "siteUrl": "http://m.cyol.com",
-      "related": 19
+      "related": 18
     },
     {
       "id": "FL-d91404203dae",
