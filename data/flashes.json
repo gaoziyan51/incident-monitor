@@ -1,17 +1,17 @@
 {
-  "updated": "2026-09-16T23:07:26.919Z",
+  "updated": "2026-09-16T23:21:00.430Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-42ba1d0df553",
+      "id": "FL-243b1a22aad1",
       "date": "2026-08-26",
       "dateISO": "Wed, 26 Aug 2026 07:00:00 GMT",
       "ts": 1787727600000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏土石流：接壤尼泊尔边境山洪暴发 上千人失踪包括多国游客 - BBC",
+      "title": "西藏土石流：接壤尼泊尔边境山洪暴发 上千人失踪包括多国游客 - bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CTG9yTTh6cnplOGJ1TG5PUzFQRkwtNjZTTzFLcEMwYzRWQlhzTVF2eGMyUFRzdWlKYldDSTVRcWNVd2RnbkJWU1prR2FMUVhKeVk4X0c4MVNnbUFCTjItZ0JiN0xvd9IBa0FVX3lxTE1PT1F4VHcyMnlBRE5SdUdLeERKN21TU1VXSkdqTTNnWnE1MTkxNi1Yb1ZqbWQtX2ZVdGwtMFhCZjZsVmgwTi1LNkdwYWtOZTE3dDlIVzNiT3cxOHV2dzdnZF9hY2cwV3dsSi1j?oc=5",
-      "site": "BBC",
+      "site": "bbc.com",
       "siteUrl": "https://www.bbc.com"
     },
     {
@@ -25,6 +25,18 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tSUZYWG1hUS00YV9xQ1djUF9NeTFneUV1RWxBZXplOGZPWVFydGt1eUJQWmI3S0VQX1EtLUR1TzFmTWkwSFNyQ1l6SGNqOWQzWXd2WUVRcmtZY0ZWSmFpU2pOdWN3c1lhZEQ4QVRn?oc=5",
       "site": "8world",
       "siteUrl": "https://www.8world.com"
+    },
+    {
+      "id": "FL-96802cc1cff4",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 22:23:00 GMT",
+      "ts": 1789597380000,
+      "scope": "dom",
+      "type": "other",
+      "title": "中央气象台：预计今早至明天，湖北、湖南、江西、四川、重庆、贵州、云南、广西、广东、海南岛等地有短时强降水 - thepaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uQjFZbUJUUDhzUXowZDlnaEdTcjNzSV9GSEZ6TlRxM2JTY3RpbXNPQTBUazdrYVoyb1FzbUgtc2dRck1DdnBqT3VaZHROd1FFbXJqRVdkUWN6MWR6V3c?oc=5",
+      "site": "thepaper.cn",
+      "siteUrl": "https://m.thepaper.cn"
     },
     {
       "id": "FL-d67135609b70",
@@ -145,18 +157,6 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zLThoM2lfUmFndHgwLTlDd3VuVVYzbmgzQ2pUMTdnZDBGWk1qZ0k5YlQzOExNN1JfZndXVXRGNWlCd1pNckNvbnAwUVQ4akZ2NUE?oc=5",
       "site": "Sohu",
       "siteUrl": "https://www.sohu.com"
-    },
-    {
-      "id": "FL-0ecea36e4c8b",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 14:55:27 GMT",
-      "ts": 1789570527000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川茂县发生山体滑坡，161名群众提前转移无伤亡，国道213线茂县段目前已双向管制 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOEoyUGdEU2hNemVwMzFmNHVRcmRhVVUyWTR6ZkU3YU1wWjVoaTlpTTg5SkdOU3BpSkJiczBhWUlEaHIwdDZfeG1xTy1QU2JJeUVUdUVNeklLWlh3aGNyaERhNW5xY0FGZE8wa2p6bW9FMGkzMDVQSTNmWWJhY1F2UUhhQTFmM21x?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-657bacb10816",
@@ -497,15 +497,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-674383638b4c",
+      "id": "FL-b230488a052b",
       "date": "2026-09-02",
       "dateISO": "Wed, 02 Sep 2026 07:00:00 GMT",
       "ts": 1788332400000,
       "scope": "dom",
       "type": "geo",
-      "title": "尼泊尔—西藏泥石流：堰塞湖和冰湖是下一个“定时炸弹”？ - BBC",
+      "title": "尼泊尔—西藏泥石流：堰塞湖和冰湖是下一个“定时炸弹”？ - bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfWmowNGIyc200QU1ESDVxbC1hdmdLWUlCQXNHazV6aVdvY1FYMGFySHFueG50UGc3Q2Z2ZUVXaWNtbUQtNlBMWkRDLU01T2R5blhnY2UtSUR5ZUdHaWt5YWszOFRFQdIBa0FVX3lxTE5ncUFxSTZyWVZGQ05yLWwtOGVLS01kb2lsNjY5cVNfU1VlN1hWSjFtUEx4eEpObTY3c3F5czNZeElUM01KaU5uVF9NQ2FDdGlMY29tbi16UFluSkVGSzFkNXJHZFFTOUU5eW80?oc=5",
-      "site": "BBC",
+      "site": "bbc.com",
       "siteUrl": "https://www.bbc.com"
     },
     {
@@ -617,27 +617,27 @@
       "siteUrl": "http://fj.people.com.cn"
     },
     {
-      "id": "FL-861987facab4",
+      "id": "FL-fc0e498bdf07",
       "date": "2026-08-30",
       "dateISO": "Sun, 30 Aug 2026 07:00:00 GMT",
       "ts": 1788073200000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏泥石流：中国称气候变暖导致惨烈灾难 - BBC",
+      "title": "西藏泥石流：中国称气候变暖导致惨烈灾难 - bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44R3gxYndzaTFVdmhMRjlDRE1fWlNQcGc1dTQxRG85WC1YUTFPbHVmMGNSN1VJNnVDN2sxakFicFZla3NKWXUtTWI2Ymh0ODVQYzBNdUdKRUZ4VUQ5U0hGZW1NZXBHUdIBa0FVX3lxTE5BZmQwdGNTV1RjTHg0N3RHZmFjQmFzajZlZzdTOVFTSEtjWE8wUGY1LVlTeElnOFh1X191TW1kTlc1TzZXTkhOcjFXZ2tqWXZKOXgxbmo0S0I2eklUMk1NN3RLSDdmdy16S2pn?oc=5",
-      "site": "BBC",
+      "site": "bbc.com",
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-89d6589d1504",
+      "id": "FL-f7df76261340",
       "date": "2026-08-30",
       "dateISO": "Sun, 30 Aug 2026 07:00:00 GMT",
       "ts": 1788073200000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏泥石流：中国审查洪灾冲击口岸画面，当地灾民情况我们所知甚少 - BBC",
+      "title": "西藏泥石流：中国审查洪灾冲击口岸画面，当地灾民情况我们所知甚少 - bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rWlBVcnZhd0NVTDlFZ3hVN3BYR3RLUFpMZEM0eVkwN2JkRXIzM0V0REJXR2FjeDRxUUVqeDBvMUtKU25TUFNDMzJYdHNucTZ4bDBEWkFjazFwZGZEOVJzVlZyNGtiZ9IBa0FVX3lxTFBOT0pTWlZHV0dDQTNJRFExWFdZcGJDZTI3aDVxeDJQNGk4WldjSzRwa1lJRXF3aW1Id1QwVHM0TlNoRWp2SmtvMURjcEZoTG5kaVlSOTlHcFpVMFpxSkp0MnVUX2NGZWZYZk5N?oc=5",
-      "site": "BBC",
+      "site": "bbc.com",
       "siteUrl": "https://www.bbc.com"
     },
     {
@@ -653,15 +653,15 @@
       "siteUrl": "https://m.thecover.cn"
     },
     {
-      "id": "FL-03e1c60639f5",
+      "id": "FL-5cdc73c89685",
       "date": "2026-09-06",
       "dateISO": "Sun, 06 Sep 2026 07:00:00 GMT",
       "ts": 1788678000000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔给水力发电押下重注，泥石流把问题彻底暴露 - BBC",
+      "title": "尼泊尔给水力发电押下重注，泥石流把问题彻底暴露 - bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByeEVvcHlucE92a1Z3T0Ywei1RT3Ric2RMaVEzNmVtbF9VVEVPMmhrNmliNEl3TGllWktKNjNodUNSSXh3S21KUHA2cEFqckZEV0RNMmpCWWRxSGM4Zm51VUEyV0dkZ9IBa0FVX3lxTFBxM2RNYURrR1hmQ1ktWnBrME1RQ1ZESXBWZHZ4aUNoaURoXy1BLXlySk9tcDZHb25fRmV5SDB5ZTVnck9rdlNmRHdGRkl3QldGb2VEZHA3VkNWT0NITjhmMTRwUWNpZEgxNDFF?oc=5",
-      "site": "BBC",
+      "site": "bbc.com",
       "siteUrl": "https://www.bbc.com"
     },
     {
@@ -713,15 +713,15 @@
       "siteUrl": "https://www.cnr.cn"
     },
     {
-      "id": "FL-e8a32a183e42",
+      "id": "FL-3c635363150e",
       "date": "2026-08-28",
       "dateISO": "Fri, 28 Aug 2026 07:00:00 GMT",
       "ts": 1787900400000,
       "scope": "dom",
       "type": "geo",
-      "title": "尼泊尔—西藏泥石流：堰塞湖风险、逾2000人遇难或失联，中国总理赴前线意味着什么？ - BBC",
+      "title": "尼泊尔—西藏泥石流：堰塞湖风险、逾2000人遇难或失联，中国总理赴前线意味着什么？ - bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SMU9aYk1ieDUtRUYxczloUTVubHBZc2VCWlBtbGlLNmRWdXFGZ2xvUWhfSHZqVS0wYndtZzhUZGZDZlBiQlU0WDV2NUh5bkE1M1VtZURfZWRMaTR4SU4waWJHYXdFd9IBa0FVX3lxTFA3TVBheHVtYmo2X1ppZlgzNnhYZnc3eU9MOUVybUZlUGh0QXMwTklhWXktUm9Bcnh1dVdGcUZvZlVrWGQxTlNKX2xxVV9PRzBRSmR3QWdURDRZVEhja0loSWxWN2RtRmJxR1Y4?oc=5",
-      "site": "BBC",
+      "site": "bbc.com",
       "siteUrl": "https://www.bbc.com"
     }
   ]
