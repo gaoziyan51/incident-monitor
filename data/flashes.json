@@ -1,18 +1,42 @@
 {
-  "updated": "2026-09-16T15:22:56.020Z",
+  "updated": "2026-09-16T15:38:40.682Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-a1fdb63838e2",
+      "id": "FL-ca16e0c727fc",
       "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 15:12:47 GMT",
-      "ts": 1789571567000,
+      "dateISO": "Wed, 16 Sep 2026 15:24:15 GMT",
+      "ts": 1789572255000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1409人遇难 - 新浪新闻_手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByUlpQZXY1TjdpTFJDdDQ5Y3NSU2lkbGRKNHlCUVVQbmZPbzVqUWlsX3FnbWZZMloyMjJ3TTVGcTJ2YWdHZkdPYTJsSVp0RmhBbEVCWFFqQ3JrWHZwVG1uMVJJSnZDUzI3WlhmbEdjNHU?oc=5",
-      "site": "新浪新闻_手机新浪网",
-      "siteUrl": "https://news.sina.com.cn"
+      "title": "日本茨城县发生4.8级地震 东京有明显震感 - chinanews.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZQTJjN2VIdXRHVWxuMkU3emlXVjFKTnR4QTB1Z3hhV3hKeTllNlgyams3dU9KdHZvUUxNd3dfYkw2d2ozX0FDXzkwQ3JuckZfaFlSeWljNDQwMmcwODJ0TnZ0a19BOHFl?oc=5",
+      "site": "chinanews.com.cn",
+      "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
+      "id": "FL-6b6aed7ef41b",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 15:18:39 GMT",
+      "ts": 1789571919000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害已致1409人遇难 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yV09rVm5pZVUzS3Q5cFZsX3VPVllaNTFKSjhRSlpMeTdJVTFFSWc2czJUcWJ6cmZWbmhaTDBzUzlPcVpZRjhGS21FV2FHWHA0clVyUVBpYjhxVE8yTkE?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
+      "id": "FL-c0d8d099ff73",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 15:17:41 GMT",
+      "ts": 1789571861000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "日本茨城县发生4.8级地震，东京有明显震感 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qQS14RUo5U29VNjhiZ0Zlc0xfY0ZkMlFqVUlEM3BSaU5YUGJWaXRBMkl4Z1NSTDhLUUtwcXB6Mk5pVF82TGVhaVF1RnMwZVpMY1kyVzJXcV9uZ3RrQWc?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn"
     },
     {
       "id": "FL-727c172e09a2",
@@ -61,7 +85,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41OEIxNUxYSG1rSm16Nk9yUFdyTFlua2Jxak5MSUEwVk4zT3diUDlQRG15R0FZaFNJTTBjUE4wWDBtQkxHV1MtbU1VUUNsNkhwWFhXaDZMLTBwbHc2WHJZbVRUQ0dyS3VxWnE0eg?oc=5",
       "site": "xzxw.com",
       "siteUrl": "https://www.xzxw.com",
-      "related": 41
+      "related": 40
     },
     {
       "id": "FL-a704a45dea9a",
@@ -208,15 +232,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-24990cc10c38",
+      "id": "FL-bc41835fa717",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 08:55:35 GMT",
       "ts": 1789548935000,
       "scope": "intl",
       "type": "collapse",
-      "title": "苏丹一金矿发生坍塌事故 造成至少60人死亡 - 中国日报网",
+      "title": "苏丹一金矿发生坍塌事故 造成至少60人死亡 - cn.chinadaily.com.cn",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wZFJCOXJPeEt4OHkxa2NzZW1HUmhsQ21VamUwbDNJRWNPeTZiTm1Sci1aR0h3T0o0eGgyUGVERl92VHNJWEJEdTNtN3JsYXhsNzNIV3dIeEZYLU9TZjRGUUQwWnB6SGN1S3FVNWMwUllXSUIxanFvQ09MUE4?oc=5",
-      "site": "中国日报网",
+      "site": "cn.chinadaily.com.cn",
       "siteUrl": "https://cn.chinadaily.com.cn"
     },
     {
@@ -302,7 +326,7 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZcWRUM00xcGFjLWJ6UjU5MjlqM19VSjZDWjJDRXJINDBISmVBRzlKQzV6bmVneXRLX0NyZDdaUm0zMi00QldkQVBWdGJIM2JKSzFXNXNRbHpWS2lFcElaWlprcmw4S2R3a0tub1dqTnRjM2xRY0hMblZhbw?oc=5",
       "site": "中青在线",
       "siteUrl": "http://m.cyol.com",
-      "related": 20
+      "related": 18
     },
     {
       "id": "FL-d91404203dae",
@@ -389,18 +413,6 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-de8d24dc8163",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 04:35:59 GMT",
-      "ts": 1789533359000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "独家访谈 | 殷跃平院士谈喜马拉雅山区冰岩崩泥石流灾害防治：从“被动防御”走向“主动降险” - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWFRkLS10dkcyYV95RFMxNlNlMDhOVGZPYzUtWWZmU0JrN3hwVVRWM1V2ZUJ6T25DNVU4a3g0bTB4T3NWcUN4VFphRGhiWDZUR3dzUFAzZ2xoNm91UGxuZ254OXlmcFd3SkhMNmJsQXh2ZXBqUDVwYmdHSWJ1OS10YkhqeGloY1d2U3ZTUA?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-9c63d9d89c05",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 03:40:00 GMT",
@@ -421,18 +433,6 @@
       "type": "weather",
       "title": "#媒体精选计划 #媒体原创 【“23·7”极端暴雨灾后全面恢复重建，暖暖的新家】三年前，“23·7”极端暴雨突袭京城，山洪肆虐、镇村受创。三年来，北京从应急抢险、修缮恢复，到提质升级、固本强基，乡村面貌、民生业态焕然一新。 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWcFNVNUltdWthUVVtSDlPeVU2S2Fpa1F4Z2RGbHNzVC01WHEzbVlNUXBqVXZTbkx5aUROeXJxbVpkaFhuWXAyRV96b1pQVi1weV81ZFVBb1BzT2tkRzFMVU5OTk5NeTQ?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-767a0100cc5a",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 00:40:00 GMT",
-      "ts": 1789519200000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "【#四川茂县山体滑坡现场视频 】记者16日从四川省茂县应急管理局获悉，9月16日8时40分，茂县叠溪镇石大关村发生滑坡，造成国道213线茂县段K2029+200受阻，因提前预警管控，未造成人员伤亡。岷江上游来水已经分流，目前无险情。据了解，该处不稳定山体在前期 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZXlwVUp2TE9OV3UyMGZlUGFwSm00U3RlWXBVYVFFS0U1Tk93QV9rNjF0V2ptd0RlR3lHamdCLVBEc1ZISWRDanB2TmxuTEpNaG9BeXlGenQweVVkY3FpNEFXNDk3ZHI2eUdneEJrcVNSMTdXcGVvZmdacXRCZEZCYlc3QzlJRkdX?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
@@ -653,15 +653,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-6efe5298d5a2",
+      "id": "FL-40d60e09c577",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 15:04:00 GMT",
       "ts": 1789311840000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1392人 - thecover.cn",
+      "title": "尼泊尔泥石流灾害遇难人数升至1392人 - 封面新闻",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TWjViUkt6M2xhR2ZDbEZFbnBOZGVFc2ZxSThOT29tdDBIbk9tWHZIY1NaWk4zek12MXNQeVJXZUhwUGRrc3ZvV1l0alhlMG1DaV9RV0tnVFg3X3pYdGxjSDNpUm5ERGdoWTFVN2tQVXROQjJSakZz?oc=5",
-      "site": "thecover.cn",
+      "site": "封面新闻",
       "siteUrl": "https://m.thecover.cn"
     },
     {
