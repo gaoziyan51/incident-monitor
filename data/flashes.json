@@ -1,19 +1,7 @@
 {
-  "updated": "2026-09-17T18:26:11.111Z",
+  "updated": "2026-09-17T18:42:00.849Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-42ba1d0df553",
-      "date": "2026-08-26",
-      "dateISO": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "ts": 1787727600000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "西藏土石流：接壤尼泊尔边境山洪暴发 上千人失踪包括多国游客 - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CTG9yTTh6cnplOGJ1TG5PUzFQRkwtNjZTTzFLcEMwYzRWQlhzTVF2eGMyUFRzdWlKYldDSTVRcWNVd2RnbkJWU1prR2FMUVhKeVk4X0c4MVNnbUFCTjItZ0JiN0xvd9IBa0FVX3lxTE1PT1F4VHcyMnlBRE5SdUdLeERKN21TU1VXSkdqTTNnWnE1MTkxNi1Yb1ZqbWQtX2ZVdGwtMFhCZjZsVmgwTi1LNkdwYWtOZTE3dDlIVzNiT3cxOHV2dzdnZF9hY2cwV3dsSi1j?oc=5",
-      "site": "BBC",
-      "siteUrl": "https://www.bbc.com"
-    },
     {
       "id": "FL-01049f3dcf6b",
       "date": "2026-09-16",
@@ -169,7 +157,7 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZcWRUM00xcGFjLWJ6UjU5MjlqM19VSjZDWjJDRXJINDBISmVBRzlKQzV6bmVneXRLX0NyZDdaUm0zMi00QldkQVBWdGJIM2JKSzFXNXNRbHpWS2lFcElaWlprcmw4S2R3a0tub1dqTnRjM2xRY0hMblZhbw?oc=5",
       "site": "中青在线",
       "siteUrl": "http://m.cyol.com",
-      "related": 11
+      "related": 12
     },
     {
       "id": "FL-90b784652602",
@@ -220,15 +208,27 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-ec0d2255786c",
+      "id": "FL-674383638b4c",
+      "date": "2026-09-02",
+      "dateISO": "Wed, 02 Sep 2026 07:00:00 GMT",
+      "ts": 1788332400000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "尼泊尔—西藏泥石流：堰塞湖和冰湖是下一个“定时炸弹”？ - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfWmowNGIyc200QU1ESDVxbC1hdmdLWUlCQXNHazV6aVdvY1FYMGFySHFueG50UGc3Q2Z2ZUVXaWNtbUQtNlBMWkRDLU01T2R5blhnY2UtSUR5ZUdHaWt5YWszOFRFQdIBa0FVX3lxTE5ncUFxSTZyWVZGQ05yLWwtOGVLS01kb2lsNjY5cVNfU1VlN1hWSjFtUEx4eEpObTY3c3F5czNZeElUM01KaU5uVF9NQ2FDdGlMY29tbi16UFluSkVGSzFkNXJHZFFTOUU5eW80?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-0674fd4d2559",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 15:44:17 GMT",
       "ts": 1789487057000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1403人遇难 - 央广网",
+      "title": "尼泊尔泥石流灾害已致1403人遇难 - cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CX1BCWlpfQWdzOUk4NER1dmF5Ym5MOE1jem9VWlBhYXZJSmJIRjJEMjAtNlEtUnZjcmpHSkZjOW1GVXJ3WU80Q1BGYVF3NDBGREMwWWVYZWEtY3Qxa3hMdFdBTWFINHBRekRFbWdXa2QzYjFFc0E?oc=5",
-      "site": "央广网",
+      "site": "cnr.cn",
       "siteUrl": "https://www.cnr.cn"
     },
     {
@@ -244,15 +244,15 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-9dfae008c070",
+      "id": "FL-6f4ff888ce5d",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 17:35:00 GMT",
       "ts": 1789666500000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1410人 失联6145人 - 中国网新闻中心",
+      "title": "尼泊尔泥石流灾害遇难人数升至1410人 失联6145人 - news.china.com.cn",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaYkpJTDNCVENKajFEc185NmxRNWNnUlNkcWNXd1B5bEo1NGY1ZU5OSTY3XzhmTDVpNVhoXzlVazJuRHdKVkY3U002WEVrMDVKQlRLcUZNU1lGRGJMLUxPcUQwcEU0ZjJJeGJz?oc=5",
-      "site": "中国网新闻中心",
+      "site": "news.china.com.cn",
       "siteUrl": "http://news.china.com.cn"
     },
     {
@@ -398,7 +398,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX3l5cU94Y2Mzd0lKMnhZWEJjaXJib2JzS1FWdnQtQUJ2SDZKc2ZMNkY5UUxlbFZUSWFGSEltN2N1QlNiQW54NTVtdGd1dDMzVHlTUmZSZXRuX05TbnhkUU5va0JmNzhBNVRzTlhGMlAyUDhlMVdpQUZxZEF6RmEwOWUzaGRjMlVNT2o5NA?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com",
-      "related": 35
+      "related": 36
     },
     {
       "id": "FL-75503c1f8f8f",
@@ -449,15 +449,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-8ed43de8cc13",
+      "id": "FL-952f52dc19d9",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 09:50:02 GMT",
       "ts": 1789638602000,
       "scope": "dom",
       "type": "geo",
-      "title": "菏泽市住建系统地震应急演练观摩活动在鄄城县举办 - 大众网",
+      "title": "菏泽市住建系统地震应急演练观摩活动在鄄城县举办 - heze.dzwww.com",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xRlFlZlJJa08wOGh5NXRpRndZN0x6VV9nTnRJWFV2dXRVUFZMbjduSVVrVUNxdno0TnlDRjh2MVFyeERRQmJxN3hZbmNGZUFKdmdsWDdEdUFHVXBEeFB4bjhCVFo4N2ph?oc=5",
-      "site": "大众网",
+      "site": "heze.dzwww.com",
       "siteUrl": "https://heze.dzwww.com"
     },
     {
@@ -473,27 +473,27 @@
       "siteUrl": "https://m.thepaper.cn"
     },
     {
-      "id": "FL-776379f542fc",
+      "id": "FL-9b44192b205c",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 09:26:05 GMT",
       "ts": 1789637165000,
       "scope": "intl",
       "type": "other",
-      "title": "中国交建参与尼日利亚楼房倒塌救援 已救出4名被困人员 - 极目新闻",
+      "title": "中国交建参与尼日利亚楼房倒塌救援 已救出4名被困人员 - ctdsb.net",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBueXdoanVTN254LW1QZ2RLTFo4ejluUWluTFlIT180Ym9fQ25yay1zdHJRSG43aHoyY05obzlTWXBSZ25RVGNyZVk1M2N5a2xJbUxDOGJValhCbFk?oc=5",
-      "site": "极目新闻",
+      "site": "ctdsb.net",
       "siteUrl": "https://www.ctdsb.net"
     },
     {
-      "id": "FL-8841bc672202",
+      "id": "FL-c2375999689f",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 09:21:20 GMT",
       "ts": 1789636880000,
       "scope": "intl",
       "type": "geo",
-      "title": "在尼泊尔泥石流中被困11天，获救工人中秋节前回到河南 - 凤凰网",
+      "title": "在尼泊尔泥石流中被困11天，获救工人中秋节前回到河南 - news.ifeng.com",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhcnEzb0x5LXE0MExhejF2NTQzWkRXQ3RteWtWU3lvVmZuTkdWdThBUjk4QjVZTVgzc3hyMzJLaTAzd2hYLVl6UlNXc1A?oc=5",
-      "site": "凤凰网",
+      "site": "news.ifeng.com",
       "siteUrl": "https://news.ifeng.com"
     },
     {
@@ -569,15 +569,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-c9b68acc8729",
+      "id": "FL-553feaef91e2",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 04:08:43 GMT",
       "ts": 1789618123000,
       "scope": "dom",
       "type": "geo",
-      "title": "茂县成功避险一起滑坡灾害，避免了255人可能因灾伤亡丨C视频 - 四川新闻",
+      "title": "茂县成功避险一起滑坡灾害，避免了255人可能因灾伤亡丨C视频 - sichuan.scol.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Hdy1MeFFQdG9DRVRwTURsVE1DMnM0VnVHZW1sc19lZUYtbG9iS2NOT3BBb3E1X2N4ckxVRkhsaHU2cHJNT01sSE5OcEZaRDRtbHB2SjBNX1BXUEo1aFNyZ0Z6Zw?oc=5",
-      "site": "四川新闻",
+      "site": "sichuan.scol.com.cn",
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
