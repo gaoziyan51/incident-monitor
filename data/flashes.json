@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T03:06:34.488Z",
+  "updated": "2026-09-17T03:22:23.757Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -437,18 +437,6 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-d015bcadd21a",
-      "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 22:13:00 GMT",
-      "ts": 1789510380000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1403人遇难 - 中国网新闻中心",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBySGExLXVMdmFfZGREZUM1d01XRE1nZUxXNHNnU0U0SzROaUFfelVpTWZTNnB3QW56WEFCZktZTWRMQ1ZtNFNrZjZ0ZTV1TFdINTRSdW5CTlpfbWFXMWVxQmVvYWVBbGVpMExB?oc=5",
-      "site": "中国网新闻中心",
-      "siteUrl": "http://news.china.com.cn"
-    },
-    {
       "id": "FL-ec0d2255786c",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 15:44:17 GMT",
@@ -456,9 +444,9 @@
       "scope": "intl",
       "type": "geo",
       "title": "尼泊尔泥石流灾害已致1403人遇难 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxSXBDLTAxcDN6MUhlbFRjOE9WY1dfaVpCLUpETDl0ZWl5YjlFdlp1MW14eGtuREJlU1ZuckpwTm52RzM5WlpKUFhnTGVkVDVvRmw5S2MtemJXMGtxY2F3dUNOS2FFZkc2?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CX1BCWlpfQWdzOUk4NER1dmF5Ym5MOE1jem9VWlBhYXZJSmJIRjJEMjAtNlEtUnZjcmpHSkZjOW1GVXJ3WU80Q1BGYVF3NDBGREMwWWVYZWEtY3Qxa3hMdFdBTWFINHBRekRFbWdXa2QzYjFFc0E?oc=5",
       "site": "央广网",
-      "siteUrl": "https://news.cnr.cn"
+      "siteUrl": "https://www.cnr.cn"
     },
     {
       "id": "FL-08cb7529b0aa",
@@ -483,6 +471,18 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JekJsM0phMDJvZWQtN2pXT1hENlRWSjI3UjRIdWQ4TERDQi1jbjVfM2d1SmJyU1JFeE10Sl9ybXM3VGRsVHJucnBBZmdRVmtfZmxXVVNMS2NEeE4zQ2Q1S3YxeTN1SDI2?oc=5",
       "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
+    },
+    {
+      "id": "FL-e25667d90344",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 03:11:02 GMT",
+      "ts": 1789614662000,
+      "scope": "dom",
+      "type": "collapse",
+      "title": "捆绑、失控、崩塌边缘：华为与赛力斯为何走向“分手”？ - 凤凰网科技",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9IbTMxd2RESE1pNmZ1blNhMk1wNDBJX19jNkJNaVBkbFcyNENrTVV1V0p3am85cGFLUEhuZDFSaU9EbmtVQWhCR3FSSlY?oc=5",
+      "site": "凤凰网科技",
+      "siteUrl": "https://tech.ifeng.com"
     },
     {
       "id": "FL-ce20fa22bc21",
