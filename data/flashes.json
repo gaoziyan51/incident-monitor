@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T01:15:50.432Z",
+  "updated": "2026-09-17T01:29:29.061Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -13,6 +13,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CTG9yTTh6cnplOGJ1TG5PUzFQRkwtNjZTTzFLcEMwYzRWQlhzTVF2eGMyUFRzdWlKYldDSTVRcWNVd2RnbkJWU1prR2FMUVhKeVk4X0c4MVNnbUFCTjItZ0JiN0xvd9IBa0FVX3lxTE1PT1F4VHcyMnlBRE5SdUdLeERKN21TU1VXSkdqTTNnWnE1MTkxNi1Yb1ZqbWQtX2ZVdGwtMFhCZjZsVmgwTi1LNkdwYWtOZTE3dDlIVzNiT3cxOHV2dzdnZF9hY2cwV3dsSi1j?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-1a134a5d6448",
+      "date": "2026-08-26",
+      "dateISO": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "ts": 1787727600000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "强降雨致广西多地发生洪涝灾害，解放军和武警部队官兵、民兵持续展开救援 - mod.gov.cn",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vd0VzRncydXJUemRMbXhJaks0eWE0b0VoWTY4VXVJQmxSUTU2TGdpaHRqOXh4VVRyU0tlTks0MjZZeUhZR2R1SEdUdEVBZHBoRk5EVDFweDZtMURf?oc=5",
+      "site": "mod.gov.cn",
+      "siteUrl": "http://www.mod.gov.cn"
     },
     {
       "id": "FL-8d96cac51abc",
@@ -73,18 +85,6 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6dGlnaUE0WXdVZXZIbEdMNzkzaHZCamRld2d6ckM1bUFyQzlicDQxR0hhUXJ2WWpIb2Jlb2RUVjZhckxPNnRkNmw0eWUxRVEtMGc?oc=5",
       "site": "Sohu",
       "siteUrl": "https://www.sohu.com"
-    },
-    {
-      "id": "FL-7c3385779f60",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 18:41:48 GMT",
-      "ts": 1789584108000,
-      "scope": "dom",
-      "type": "collapse",
-      "title": "蘇丹金礦坍塌已82死50傷 失業嚴重促年輕人淘金 - 新唐人電視台",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rNVdWeHlXM2tqTkhkVmNVenlBSGFaM0praEZsbEJESVJ6S05PMEZ6SXlGQlJPX3RjWXlaNGw4MmJHME44a1dzN2N2cG00UXJ1WkR1MTE5ejFlc1Q2Z2RFcdIBZkFVX3lxTE9SRFpMM0h2N2xwWTdjQ2tfeGRLUFZIUzVhczgtUmk3ZVE2UjdFTjlIMkNBUXc1NFNxdi1RdVd2cVowNktIRVlnOTJEN0JpNEdXYURTSUVpWGJDNUlDendnMVdQb2R0QQ?oc=5",
-      "site": "新唐人電視台",
-      "siteUrl": "https://www.ntdtv.com"
     },
     {
       "id": "FL-1a8d741d87de",
@@ -256,15 +256,15 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
-      "id": "FL-93cfa468b423",
+      "id": "FL-a34a1f8cd7b9",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 10:19:39 GMT",
       "ts": 1789553979000,
       "scope": "dom",
       "type": "geo",
-      "title": "云南墨江4.5级地震震后观察：当地群众生活平稳有序 - 新华网",
+      "title": "云南墨江4.5级地震震后观察：当地群众生活平稳有序 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83VEJCQWd3bWh6V01tdzRVLVFsaEVPV0tGeHBTR1ZqMFZOdmFlQlM5NEJPWXA2Q2t6SU9TRWtMU3k5R3hHZExmdTJRaXN4SWNMSXBpamxoSDU4SnYzaXFFNndzRFlBc3dxZlA5NWRmWVJnVUszUjZCNGhZOGU2YkE?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "http://www.news.cn"
     },
     {
@@ -304,15 +304,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-24990cc10c38",
+      "id": "FL-bc41835fa717",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 08:55:35 GMT",
       "ts": 1789548935000,
       "scope": "intl",
       "type": "collapse",
-      "title": "苏丹一金矿发生坍塌事故 造成至少60人死亡 - 中国日报网",
+      "title": "苏丹一金矿发生坍塌事故 造成至少60人死亡 - cn.chinadaily.com.cn",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wZFJCOXJPeEt4OHkxa2NzZW1HUmhsQ21VamUwbDNJRWNPeTZiTm1Sci1aR0h3T0o0eGgyUGVERl92VHNJWEJEdTNtN3JsYXhsNzNIV3dIeEZYLU9TZjRGUUQwWnB6SGN1S3FVNWMwUllXSUIxanFvQ09MUE4?oc=5",
-      "site": "中国日报网",
+      "site": "cn.chinadaily.com.cn",
       "siteUrl": "https://cn.chinadaily.com.cn"
     },
     {
@@ -413,15 +413,15 @@
       "siteUrl": "http://www.sznews.com"
     },
     {
-      "id": "FL-b2d13116c5ba",
+      "id": "FL-7a9df62960ac",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 07:15:29 GMT",
       "ts": 1789542929000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川茂县发生山体滑坡 161名群众提前转移无伤亡 - 新华网",
+      "title": "四川茂县发生山体滑坡 161名群众提前转移无伤亡 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xUmN1eHZYWThIN2IwejZLemdfc0QySHhhUmd1RnB6YmlqekI2bVJOT0RRTVZMODJnUmRicjJVMzhkRzFRWnU4VXdUT0JKdXhRUk1DTWFRTjNmc3VnR2pRU3NzQXpMSF91SjU3NGhGLXl6a2ltS0VRcVJrWkI4TkU?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -521,15 +521,15 @@
       "siteUrl": "https://news.sina.com.cn"
     },
     {
-      "id": "FL-ad76b97e04e5",
+      "id": "FL-3d1209753c8a",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 06:33:34 GMT",
       "ts": 1789454014000,
       "scope": "dom",
       "type": "weather",
-      "title": "海南全力应对暴雨灾害 已累计转移群众5.5万余人 - 新华网",
+      "title": "海南全力应对暴雨灾害 已累计转移群众5.5万余人 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wWXdYYUJZNm5NOTRKYWFGcHl2b3RWajhIeUJjcTVHSUF3S3ZKeVBoVjFHTkNFdnItMGtiWlp3U0lLazJtVXhfSHloaGdZRWxIMWFlV2FrdkZnWUE2c1FtMEl2aVlVblBzcjhRclFqbnB1NmdJZDExM3A5a1plYzA?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -593,15 +593,15 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-20349e76752b",
+      "id": "FL-31aaf7309a8a",
       "date": "2026-09-03",
       "dateISO": "Thu, 03 Sep 2026 07:00:00 GMT",
       "ts": 1788418800000,
       "scope": "dom",
       "type": "weather",
-      "title": "台风“沙德尔”带来强降雨，福建全力抢险救援 - fj.people.com.cn",
+      "title": "台风“沙德尔”带来强降雨，福建全力抢险救援 - 人民网-福建频道",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9idjB1WHk1RmxjaXpsRFVqTmtSUXdDbEcwVlp0d2k5TnNndmxBNXhhV0syZmdBVlVCQzZuZk56cmNGeWFCYnp5SkVxaFFvbGQ0TXoxalUyeFJtRHJfa2l2TVhBRXJVQWVfM0E?oc=5",
-      "site": "fj.people.com.cn",
+      "site": "人民网-福建频道",
       "siteUrl": "http://fj.people.com.cn"
     },
     {
