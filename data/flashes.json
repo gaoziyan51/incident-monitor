@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T02:09:11.331Z",
+  "updated": "2026-09-17T02:24:19.820Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -205,7 +205,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41OEIxNUxYSG1rSm16Nk9yUFdyTFlua2Jxak5MSUEwVk4zT3diUDlQRG15R0FZaFNJTTBjUE4wWDBtQkxHV1MtbU1VUUNsNkhwWFhXaDZMLTBwbHc2WHJZbVRUQ0dyS3VxWnE0eg?oc=5",
       "site": "xzxw.com",
       "siteUrl": "https://www.xzxw.com",
-      "related": 39
+      "related": 38
     },
     {
       "id": "FL-a704a45dea9a",
@@ -266,18 +266,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83VEJCQWd3bWh6V01tdzRVLVFsaEVPV0tGeHBTR1ZqMFZOdmFlQlM5NEJPWXA2Q2t6SU9TRWtMU3k5R3hHZExmdTJRaXN4SWNMSXBpamxoSDU4SnYzaXFFNndzRFlBc3dxZlA5NWRmWVJnVUszUjZCNGhZOGU2YkE?oc=5",
       "site": "新华网",
       "siteUrl": "http://www.news.cn"
-    },
-    {
-      "id": "FL-646c87a4b368",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 10:00:00 GMT",
-      "ts": 1789552800000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川茂县定子坝滑坡体发生垮塌，当地已提前将161人全部转移 - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mSjJkbDRhV1Y2ekdXS28wcFIxc1VRdGZWTXdJQUJPeHFhcThHeFNTenFKdmduUDAwNzd5Ukw1enFPcXV5ai1UTjE1T0xtdl9Vb0VpcUxpMXZvcHYya0F4ME52dkQ?oc=5",
-      "site": "新京报",
-      "siteUrl": "https://www.bjnews.com.cn"
     },
     {
       "id": "FL-0726765e4baf",
@@ -386,7 +374,7 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZcWRUM00xcGFjLWJ6UjU5MjlqM19VSjZDWjJDRXJINDBISmVBRzlKQzV6bmVneXRLX0NyZDdaUm0zMi00QldkQVBWdGJIM2JKSzFXNXNRbHpWS2lFcElaWlprcmw4S2R3a0tub1dqTnRjM2xRY0hMblZhbw?oc=5",
       "site": "中青在线",
       "siteUrl": "http://m.cyol.com",
-      "related": 18
+      "related": 17
     },
     {
       "id": "FL-90b784652602",
@@ -499,14 +487,14 @@
     {
       "id": "FL-ad76b97e04e5",
       "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 06:33:34 GMT",
-      "ts": 1789454014000,
+      "dateISO": "Tue, 15 Sep 2026 06:33:47 GMT",
+      "ts": 1789454027000,
       "scope": "dom",
       "type": "weather",
       "title": "海南全力应对暴雨灾害 已累计转移群众5.5万余人 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wWXdYYUJZNm5NOTRKYWFGcHl2b3RWajhIeUJjcTVHSUF3S3ZKeVBoVjFHTkNFdnItMGtiWlp3U0lLazJtVXhfSHloaGdZRWxIMWFlV2FrdkZnWUE2c1FtMEl2aVlVblBzcjhRclFqbnB1NmdJZDExM3A5a1plYzA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbjMzNnRqSE5pdlBaeW5HMk9TdDJGUmRGZDBTbnROVHNvYjFoNVNaRDZJVWxFVUI3bnRHRWVjVmZBa0pNWlFydkFtVjJHakFjOFNRU0kwV3lSWVdlWTFZNnhaZHE1TnZhX3RhZzg2WTlGSWROTDAwVFpGdDcwSmtRMVU2TzI2VmkwdTJF?oc=5",
       "site": "新华网",
-      "siteUrl": "https://www.news.cn"
+      "siteUrl": "https://www.xinhuanet.com"
     },
     {
       "id": "FL-08cb7529b0aa",
@@ -531,6 +519,54 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JekJsM0phMDJvZWQtN2pXT1hENlRWSjI3UjRIdWQ4TERDQi1jbjVfM2d1SmJyU1JFeE10Sl9ybXM3VGRsVHJucnBBZmdRVmtfZmxXVVNMS2NEeE4zQ2Q1S3YxeTN1SDI2?oc=5",
       "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
+    },
+    {
+      "id": "FL-f59b215beaa3",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 02:08:51 GMT",
+      "ts": 1789610931000,
+      "scope": "intl",
+      "type": "collapse",
+      "title": "科学家：气候变化极有可能促成尼泊尔冰川崩塌事件 - 联合早报",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42YVEtZHp5NUZKVDVvMkJLOVM4YTUyWXFCTFVLcC1LbG1fOUVkNFgtdzY1aVJiOHdvT19SdWZsTkZSaExvdTdrakVSZGZtOXNERE95bWd4RVJvemVwdWd4WmtRVDNRaGNKb0E?oc=5",
+      "site": "联合早报",
+      "siteUrl": "https://www.zaobao.com.sg"
+    },
+    {
+      "id": "FL-fc6deb2977ad",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 02:08:48 GMT",
+      "ts": 1789610928000,
+      "scope": "dom",
+      "type": "collapse",
+      "title": "加沙战损危楼凌晨坍塌约百人被埋，其中近一半是儿童；此前加沙挖出疑似整个家庭遗骸 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQakZKR211NXdWbTVEMzR1blBWbU5NNk9XSmRZdHRfSVpNWEdlWFhWTTlqYVlMOGhHa0lsVVRSaEVtQ1pEU3J3bGdTeFFJaERfNHlrTlR2bGFVcU1LQ3FSbEtUVl9OeWdDd25ZRTFzeTd1RkRzaW5La1RPdWY5UHhqQ0pRbERWcGk3MFJIdQ?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-30f1c1a038ad",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 02:00:03 GMT",
+      "ts": 1789610403000,
+      "scope": "dom",
+      "type": "collapse",
+      "title": "加沙城战损危楼凌晨坍塌，约百人被埋 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQXzh3SUx0VTNFMms1SWx4Tk1aaTFsQVJmOGRVMFBuRnRxc1JDLVdzN2RpbkYwQmo3YjVZTUo3VjRzcUFybDRSUVc3b3Vza3IxYW12LXhXVURYWnNRbncyTFlZNjhoUF96LUxkZWc2VUdPZE4wSWVid04teHA4emJSWW8yUHhGNGdfR0Itdg?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-05c49dbc85c9",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 01:56:35 GMT",
+      "ts": 1789610195000,
+      "scope": "dom",
+      "type": "collapse",
+      "title": "一个时代的坍塌，与另一个黄金时代的崛起 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCdXJ5OUpXS0VvUzlpcjRKR28tRWFaNmt2ZE1YNG14Mm9jbk5rV1YxMnJobkI4VTlhRmdnQlVXanJJVWJHVXhhSkRBcEo0SkpnYms3b0Q4Ym1ja2hwTTdNN0FxcFBCRjdGREk1N3JUQmo?oc=5",
+      "site": "新浪网",
+      "siteUrl": "https://k.sina.com.cn"
     },
     {
       "id": "FL-5c4830f6fcce",
@@ -617,18 +653,6 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-0fb72f0cf70c",
-      "date": "2026-07-05",
-      "dateISO": "Sun, 05 Jul 2026 07:00:00 GMT",
-      "ts": 1783234800000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "广西将重大气象灾害（暴雨）应急响应提升至Ⅱ级 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPX1ZhbEpQbjY1UHl2VVhmLTV2Qmw4SlJ1SGE5OTcyRV9JWjYydmVZZU1TcXNJNWc0dl9HRG5rX05ZeGx5cXBmVVIzR2hQU09xcFowem1BUjYzaVlFbkg2WFlvWWx1WFhNakhOcGJwSU9HRHV3NnluUlFxNE9NMUZ2NXhpOA?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
       "id": "FL-fb448a3e9124",
       "date": "2026-07-11",
       "dateISO": "Sat, 11 Jul 2026 07:00:00 GMT",
@@ -677,18 +701,6 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-89db2d234367",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 07:06:28 GMT",
-      "ts": 1789369588000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川阿坝州理县发生3.0级地震，震源深度8千米 - 央视网",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uaWVtYmVtZmRseEF4Tlh1WkVybVJoaFRId1I4aUo1aWhwNkhrU3hsSkZSRkRHNG5nOTJVc0JQRXkwdUcwR1RXX3J0N014U1otTElTaHZJQTNFNm1xQU8tcjVDOEo0SmpvdnN4WWZLbVRRSXlEQ19TMQ?oc=5",
-      "site": "央视网",
-      "siteUrl": "https://news.cctv.com"
-    },
-    {
       "id": "FL-e8a32a183e42",
       "date": "2026-08-28",
       "dateISO": "Fri, 28 Aug 2026 07:00:00 GMT",
@@ -699,18 +711,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SMU9aYk1ieDUtRUYxczloUTVubHBZc2VCWlBtbGlLNmRWdXFGZ2xvUWhfSHZqVS0wYndtZzhUZGZDZlBiQlU0WDV2NUh5bkE1M1VtZURfZWRMaTR4SU4waWJHYXdFd9IBa0FVX3lxTFA3TVBheHVtYmo2X1ppZlgzNnhYZnc3eU9MOUVybUZlUGh0QXMwTklhWXktUm9Bcnh1dVdGcUZvZlVrWGQxTlNKX2xxVV9PRzBRSmR3QWdURDRZVEhja0loSWxWN2RtRmJxR1Y4?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-561f7491661d",
-      "date": "2026-07-24",
-      "dateISO": "Fri, 24 Jul 2026 07:00:00 GMT",
-      "ts": 1784876400000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "广东、福建多地停工停运停航 台风“红霞”最新影响→ - 中国科技网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wYjRQSE1EUDhxN2RKTWpDRzlDM1VKbFBoQmNjNDZKMUxfaFlZRXNpNlowSUMwLTBPUTJhSnNDWGNvc20td21kR2hhX1MxckFGT25JaklCVHI2elZYX1UxXzlvemNfdkg5V2NWNFdMSWI?oc=5",
-      "site": "中国科技网",
-      "siteUrl": "https://www.stdaily.com"
     },
     {
       "id": "FL-74bfe6e1915a",
