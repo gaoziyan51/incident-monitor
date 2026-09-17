@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T03:51:37.936Z",
+  "updated": "2026-09-17T04:07:10.099Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,15 +15,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-1a134a5d6448",
+      "id": "FL-9e1a8220b229",
       "date": "2026-08-26",
       "dateISO": "Wed, 26 Aug 2026 07:00:00 GMT",
       "ts": 1787727600000,
       "scope": "dom",
       "type": "weather",
-      "title": "强降雨致广西多地发生洪涝灾害，解放军和武警部队官兵、民兵持续展开救援 - mod.gov.cn",
+      "title": "强降雨致广西多地发生洪涝灾害，解放军和武警部队官兵、民兵持续展开救援 - 中华人民共和国国防部",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vd0VzRncydXJUemRMbXhJaks0eWE0b0VoWTY4VXVJQmxSUTU2TGdpaHRqOXh4VVRyU0tlTks0MjZZeUhZR2R1SEdUdEVBZHBoRk5EVDFweDZtMURf?oc=5",
-      "site": "mod.gov.cn",
+      "site": "中华人民共和国国防部",
       "siteUrl": "http://www.mod.gov.cn"
     },
     {
@@ -280,6 +280,18 @@
       "siteUrl": "https://m.thepaper.cn"
     },
     {
+      "id": "FL-17c91d091ccf",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 09:29:03 GMT",
+      "ts": 1789550943000,
+      "scope": "dom",
+      "type": "other",
+      "title": "加沙城一建筑倒塌已致14人死亡，百余人失踪 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5Hb1diRGpSWFlzcjhFaXpOQnBwSlVHUVhkeWFtSFlMWUVEU1o3VjB4NHczQk9Hbkw4UDc5MUhNUml5SUcxdzdNLTBOaEs?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://news.ifeng.com"
+    },
+    {
       "id": "FL-24990cc10c38",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 08:55:35 GMT",
@@ -290,18 +302,6 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wZFJCOXJPeEt4OHkxa2NzZW1HUmhsQ21VamUwbDNJRWNPeTZiTm1Sci1aR0h3T0o0eGgyUGVERl92VHNJWEJEdTNtN3JsYXhsNzNIV3dIeEZYLU9TZjRGUUQwWnB6SGN1S3FVNWMwUllXSUIxanFvQ09MUE4?oc=5",
       "site": "中国日报网",
       "siteUrl": "https://cn.chinadaily.com.cn"
-    },
-    {
-      "id": "FL-df031336b8df",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 08:51:34 GMT",
-      "ts": 1789548694000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川发生山体滑坡，画面曝光 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1yNnExcnBLMXA0NjJXLVl6RFZfQV8xbURuZ0RUTF84WC1fMk1GN05oSHdRcEhqbkVsMWhIZnhYeE1UT1pTWDdQZHZaN20?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://news.ifeng.com"
     },
     {
       "id": "FL-ebd4411bd89f",
@@ -461,6 +461,18 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
+      "id": "FL-b3a7eb2039ef",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 03:41:42 GMT",
+      "ts": 1789616502000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "截至当地时间16日19时，尼泊尔泥石流已致1403人遇难者，失联人数增至6150人 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zeml1bExScEMzajZlTWRKbFphbGN2TEoxQUZVa2JuSzVZZVIwU1F2d290cENNa0hiU2lQak9tYW1vN1ZjZU5hMXBsZzZ1dXlfRnc?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://www.sohu.com"
+    },
+    {
       "id": "FL-134470461f01",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 03:39:41 GMT",
@@ -545,15 +557,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-5286eaaeb538",
+      "id": "FL-05c49dbc85c9",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 01:56:35 GMT",
       "ts": 1789610195000,
       "scope": "dom",
       "type": "collapse",
-      "title": "一个时代的坍塌，与另一个黄金时代的崛起 - k.sina.com.cn",
+      "title": "一个时代的坍塌，与另一个黄金时代的崛起 - 新浪网",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCdXJ5OUpXS0VvUzlpcjRKR28tRWFaNmt2ZE1YNG14Mm9jbk5rV1YxMnJobkI4VTlhRmdnQlVXanJJVWJHVXhhSkRBcEo0SkpnYms3b0Q4Ym1ja2hwTTdNN0FxcFBCRjdGREk1N3JUQmo?oc=5",
-      "site": "k.sina.com.cn",
+      "site": "新浪网",
       "siteUrl": "https://k.sina.com.cn"
     },
     {
@@ -699,18 +711,6 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBubVJWOFU3QmI0MndVX2ZuSEZxOTA0aVRXeFBfTlpNZy1oOUY1YnBmR1NFU21rVWNXNWxnajNjNHFaVGYzZlRhUmMyVWZHRmlWV3dITUY5X2NxQWpobzRYT2E3ZHZPOGFDVFZz?oc=5",
       "site": "央广网",
       "siteUrl": "https://www.cnr.cn"
-    },
-    {
-      "id": "FL-aa6636224576",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 11:21:44 GMT",
-      "ts": 1789384904000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "报告证实日本核电站地震评估造假 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56TUxxMjRaSTVfVldlaGpzN1J1U0ZyZlNmSTlLY3pkeDV6Y01NNkh4REZYNlBFbW03OHowYkU0TXZadDZHUXh3bHdISjY5NEVUeVh1bzl4c2tLOTQxU2NkTTBwWXRlZTBrUUpkTzBPYTBWS2QzaVI5ZDBKNDV0a0k?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-74bfe6e1915a",
