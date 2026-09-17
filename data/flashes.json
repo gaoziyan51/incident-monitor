@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T13:38:32.873Z",
+  "updated": "2026-09-17T13:50:39.205Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -314,7 +314,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX3l5cU94Y2Mzd0lKMnhZWEJjaXJib2JzS1FWdnQtQUJ2SDZKc2ZMNkY5UUxlbFZUSWFGSEltN2N1QlNiQW54NTVtdGd1dDMzVHlTUmZSZXRuX05TbnhkUU5va0JmNzhBNVRzTlhGMlAyUDhlMVdpQUZxZEF6RmEwOWUzaGRjMlVNT2o5NA?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com",
-      "related": 33
+      "related": 34
     },
     {
       "id": "FL-085253f0e9c9",
@@ -327,6 +327,18 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVk1uQ1Mxb0Z4N3ZZcW13a19yNlJKejNISTFPcWRqcDQ3RkY5eHNFSmR1aTczdktXaG44RFVvMTdoNlQwVDJ3VkhySjhPN1ZIaGgwNi1EM2U5aC0tczZVQ3Z2SzNTVVdNRU11cXN0MGJGQ2FNNXlYU2ttaXhzamdpWnBxSjl6NDk3?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-75503c1f8f8f",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 12:46:00 GMT",
+      "ts": 1789649160000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "国际研究机构：尼泊尔泥石流灾害与气候变化密切相关 - thepaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HN0J5OURnR0xMQ2R5Nkh0azNxMnBXbVRvYnY5WlJsejhlcWtKT0FQaklGRFJkdVhMdHM1bGtHeDRfVUpHQmtway1lZWgyMEZoWDR3WDVyaGF3bk1qdkxRMA?oc=5",
+      "site": "thepaper.cn",
+      "siteUrl": "https://www.thepaper.cn"
     },
     {
       "id": "FL-dd8782f6afb9",
@@ -353,27 +365,15 @@
       "siteUrl": "https://news.china.com"
     },
     {
-      "id": "FL-6e44c20f19cb",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 12:20:00 GMT",
-      "ts": 1789647600000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "【环球财经】国际研究机构：尼泊尔泥石流灾害与气候变化密切相关 - 新浪财经_金融信息服务商",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1CeW1XeG1nWGdJalQ0cjRTQ1FyODM2TzVZUzRqMGpQSFZZbGJfODdlMWpPOTAwczBRNk4xNHFZMk9DU3Bpekp2Ukl4WHVCY1k5eTA3dVRaWWd0U0lmbGZOakxCUnk1d2Y1NGJTRTE1djJpUzBSTGxCRA?oc=5",
-      "site": "新浪财经_金融信息服务商",
-      "siteUrl": "https://finance.sina.com.cn"
-    },
-    {
-      "id": "FL-61cbe34d8823",
+      "id": "FL-14a35f1c3be4",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 11:37:48 GMT",
       "ts": 1789645068000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川茂县：滑坡残留体仍存在安全隐患 - finance.sina.com.cn",
+      "title": "四川茂县：滑坡残留体仍存在安全隐患 - 新浪财经_金融信息服务商",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdmtZM3gxVGRQckQwVjdDTUdOV1BrM2tVcTZQeERlLUEwUlVzMWFWdU9SODRNdmduN25ibW0ta0RYQWZod01NNVlEaEd0U2FOY1pjQU0xdHlndHNhbWsyX182UEpWS2tzaWJHSW8zVkNOQTBnODY5UzZvWnNrc29RTWtvNkhEY1VsZFN5U0Q5TVN0UkMtNjNvZg?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "新浪财经_金融信息服务商",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -401,15 +401,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-e08986535aa3",
+      "id": "FL-5a6fe1837250",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 10:11:31 GMT",
       "ts": 1789639891000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川茂县定子坝滑坡体发生垮塌 当地已提前将区域内161人全部转移 - finance.sina.com.cn",
+      "title": "四川茂县定子坝滑坡体发生垮塌 当地已提前将区域内161人全部转移 - 新浪财经_金融信息服务商",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMHNJWUp6bFpPYkIybE9xQ2hUMDBYTDhMMU81ZzVZMVZ4c1luczJaR1JNaTQyNGdtS29KVDhTN0FHRVNWLVRlY1pBSW8zX1BQWW5nVnl3S24yeDhEWDRqek92d3ZfUDcxNEE1M0tLRGZWN3Z2YnRRZG5kblQtcDNSTlgxRlM2RjItc2JtVXZXS2Y0d2czYzR3ag?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "新浪财经_金融信息服务商",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -461,15 +461,15 @@
       "siteUrl": "https://www.oilcn.com"
     },
     {
-      "id": "FL-5a2b90259678",
+      "id": "FL-bf6b71b6639f",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 07:33:48 GMT",
       "ts": 1789630428000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害中被困11天获救，陆海涛今天回到河南，儿子前来迎接，父子紧紧相拥，“见到儿子就什么事都没有了” - finance.sina.com.cn",
+      "title": "尼泊尔泥石流灾害中被困11天获救，陆海涛今天回到河南，儿子前来迎接，父子紧紧相拥，“见到儿子就什么事都没有了” - 新浪财经_金融信息服务商",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPY3FFN1RSbGNpTURWN2VudWMwendrdWJGUFhZVExDZkVJMU9JWWthVHdMNnBZRWlTVkVuWF92MVhac0Z0bl9VX3RqOW0yOWJJczN2T1FfV1Q4TTJKeUtRV2pTZkJKMVZRc2d0ZHNjTWJzaF9Pdl9KbkFXM29DRC1McW9PWGZWb2N1aXRicDMxWERxRVVpQ080TlRCTVlabFpxZnlDeWdQS2xKVG0ydGFBSVc2Yy1XY0xEZ0NfSVF2a0ZzdWoyVXhJRkVteEEwaWQxMHNxZ1E0VQ?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "新浪财经_金融信息服务商",
       "siteUrl": "http://finance.sina.cn"
     },
     {
@@ -641,15 +641,15 @@
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
-      "id": "FL-1d543193d639",
+      "id": "FL-80d0a3d1deb8",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 01:11:32 GMT",
       "ts": 1789607492000,
       "scope": "dom",
       "type": "weather",
-      "title": "海南保亭遭强暴雨后：有村民称30余亩菜地全部被淹，海南拨款1900万元用于救灾 - finance.sina.com.cn",
+      "title": "海南保亭遭强暴雨后：有村民称30余亩菜地全部被淹，海南拨款1900万元用于救灾 - 新浪财经_金融信息服务商",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQall6T0JCTDRBSkpnbDJJXzFpQWRRYTB2WTY2QllLZjB5eG9OQVg4LVMtRWNFci1mRVFVME9yNjNrNFFhd1dST2FkMHRFQzljZzBhTW12S2RtNDcwa3N6eDAtNkxyclJacVJFRWl3MkxoNFdYSXBMU0VGUWVucjJrdlMxRlRXNWIzckJEVnhPT1BkLUhld0k2Mw?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "新浪财经_金融信息服务商",
       "siteUrl": "https://finance.sina.cn"
     },
     {
