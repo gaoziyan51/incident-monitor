@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T16:43:37.428Z",
+  "updated": "2026-09-17T16:55:44.208Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -148,15 +148,15 @@
       "related": 11
     },
     {
-      "id": "FL-90b784652602",
+      "id": "FL-bd2f28ca6707",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 07:20:29 GMT",
       "ts": 1789543229000,
       "scope": "dom",
       "type": "other",
-      "title": "中央气象台：今天到明天，湖北、四川、贵州、云南、广西、广东等地有短时强降水 - 深圳新闻网",
+      "title": "中央气象台：今天到明天，湖北、四川、贵州、云南、广西、广东等地有短时强降水 - sznews.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBod1FaY2xHa2JhOUs1bjU1RmRfc2wyYWp3V0J3cU5DdGlUWUdON2VtOWNnRkVxMFJMU0FScXd2d1FYcHBkTUx5Ym5PSGxsOXlGcklTN21TRkVGbmJER0dSSGh5dmpoaWZ3VHlzTFZMLUY1RlpBbUlKcQ?oc=5",
-      "site": "深圳新闻网",
+      "site": "sznews.com",
       "siteUrl": "http://www.sznews.com"
     },
     {
@@ -208,6 +208,18 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
+      "id": "FL-2821cbb61427",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 01:35:35 GMT",
+      "ts": 1789436135000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害已致1396人遇难 - 央广网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JekJsM0phMDJvZWQtN2pXT1hENlRWSjI3UjRIdWQ4TERDQi1jbjVfM2d1SmJyU1JFeE10Sl9ybXM3VGRsVHJucnBBZmdRVmtfZmxXVVNMS2NEeE4zQ2Q1S3YxeTN1SDI2?oc=5",
+      "site": "央广网",
+      "siteUrl": "https://news.cnr.cn"
+    },
+    {
       "id": "FL-4f2d4c5e06a8",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 15:28:00 GMT",
@@ -244,15 +256,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-2f908e334e01",
+      "id": "FL-e77c16642963",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 14:48:00 GMT",
       "ts": 1789656480000,
       "scope": "dom",
       "type": "geo",
-      "title": "福克斯群岛发生6.5级地震，震源深度100千米 - 新浪财经",
+      "title": "福克斯群岛发生6.5级地震，震源深度100千米 - finance.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9EM1NEOE9HVzhpVUNWemhzd0p0d19NajcwMDViNjBHWnFGSDRWUXNabE53bkNsLVpUdHAxZnlwWkVlZ3c5SVd1OGhHUE9WVmtJbnAyOW4xa1ZUYkJSWVJvWnpQY0o3eDF0Q29rWnE5YmJzVnoya3liTg?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.com.cn",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -328,15 +340,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-8450433e65a8",
+      "id": "FL-f395b3ba2a59",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 13:58:30 GMT",
       "ts": 1789653510000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1410人 失联6145人 - 新浪网",
+      "title": "尼泊尔泥石流灾害遇难人数升至1410人 失联6145人 - cj.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Ia3hFTDhHWjJKTk9xaE1IREtWUm4yYzFoTndpaUtKNDI4NDl0UEJteGRCZlQ1aER6Y3E3d2hzdkM2b3ZNS0I5WFZzaw?oc=5",
-      "site": "新浪网",
+      "site": "cj.sina.cn",
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
@@ -386,7 +398,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX3l5cU94Y2Mzd0lKMnhZWEJjaXJib2JzS1FWdnQtQUJ2SDZKc2ZMNkY5UUxlbFZUSWFGSEltN2N1QlNiQW54NTVtdGd1dDMzVHlTUmZSZXRuX05TbnhkUU5va0JmNzhBNVRzTlhGMlAyUDhlMVdpQUZxZEF6RmEwOWUzaGRjMlVNT2o5NA?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com",
-      "related": 35
+      "related": 32
     },
     {
       "id": "FL-085253f0e9c9",
@@ -437,15 +449,15 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-8ed43de8cc13",
+      "id": "FL-952f52dc19d9",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 09:50:02 GMT",
       "ts": 1789638602000,
       "scope": "dom",
       "type": "geo",
-      "title": "菏泽市住建系统地震应急演练观摩活动在鄄城县举办 - 大众网",
+      "title": "菏泽市住建系统地震应急演练观摩活动在鄄城县举办 - heze.dzwww.com",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xRlFlZlJJa08wOGh5NXRpRndZN0x6VV9nTnRJWFV2dXRVUFZMbjduSVVrVUNxdno0TnlDRjh2MVFyeERRQmJxN3hZbmNGZUFKdmdsWDdEdUFHVXBEeFB4bjhCVFo4N2ph?oc=5",
-      "site": "大众网",
+      "site": "heze.dzwww.com",
       "siteUrl": "https://heze.dzwww.com"
     },
     {
@@ -485,28 +497,16 @@
       "siteUrl": "https://news.ifeng.com"
     },
     {
-      "id": "FL-97c22427f19a",
+      "id": "FL-4a87cf95e2b4",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 08:21:57 GMT",
       "ts": 1789633317000,
       "scope": "dom",
       "type": "geo",
-      "title": "棕榈油“跳水” 豆菜油“滑坡” - 导油网",
+      "title": "棕榈油“跳水” 豆菜油“滑坡” - oilcn.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNM3FfSDZHOTMtbDkxNjNrc0JxSVRfVVE3LXRQWFdpWGdaN1RoMTVqUTJmNHhHbThMOWplWVdrM0xHa0VSZjE3M3hNSHBWYUE3UXZfWTJxYm9qYXlXZkVJcV9GLVVpN2Rnd1NaakpPMDRSNFh1amttdDJWZXB1LWV1emNFUQ?oc=5",
-      "site": "导油网",
+      "site": "oilcn.com",
       "siteUrl": "https://www.oilcn.com"
-    },
-    {
-      "id": "FL-0e57be095358",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 08:19:09 GMT",
-      "ts": 1789633149000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川茂县发生山体滑坡，提前管控未造成人员伤亡 - 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeGptQ25reW9uX3JjQkYzbnFKYWlqTnp0UkNVSy16QWhEQ21WZllCNHllZy1ZbVAyVDRZVC1rRkpxZjJBeXY1U1hzTFVVakhJQ1VINEZRRkMwOWZPRjMxdkdWOE51VHVocVE4TC0xdWZmV2ZEeFRHU1BIdk9abHE2M2NKRFZWMkNTNjFQa1gzVmxxemVLeTJPNQ?oc=5",
-      "site": "新浪网",
-      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-09b514693f29",
@@ -545,15 +545,15 @@
       "siteUrl": "https://mil.gmw.cn"
     },
     {
-      "id": "FL-3c31950bdab0",
+      "id": "FL-af6bb289e19f",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 05:24:00 GMT",
       "ts": 1789622640000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害中被困11天获救，河南木工陆海涛今日平安回到河南，儿子前来迎接，父子紧紧相拥 - 新浪财经",
+      "title": "尼泊尔泥石流灾害中被困11天获救，河南木工陆海涛今日平安回到河南，儿子前来迎接，父子紧紧相拥 - finance.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13Z0hJVF93V1Ixc2VvNTdXOFd2OWNJYlVHc0gwN2tqT0cxblIzZm5xM2N6UGhyWDcxcXNsa20wQTB5VFpmZ01nVHk4NE5HMVc3WWtBaVVNWVB4dmc1ZlhvVzhlaTlDTEoxWF9xM29SdmEzak1PRy1pTQ?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.com.cn",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -605,15 +605,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-8409fb27e16c",
+      "id": "FL-834622dfda06",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 03:36:41 GMT",
       "ts": 1789616201000,
       "scope": "intl",
       "type": "weather",
-      "title": "持续暴雨给越南多地造成损失 救灾工作加紧进行 - zh.vietnamplus.vn",
+      "title": "持续暴雨给越南多地造成损失 救灾工作加紧进行 - Vietnam+ (VietnamPlus)",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHT2JEdVZ2TWw5T0tQUS1UZlZjYU9HYk9reW1QdUlyb2t2YW5Da09Lem1UVHZRMnJOTllTSUVfbE5DcU9ZRTZrZTE5VkFjVjlhTmU2Nm5MajRpM19E?oc=5",
-      "site": "zh.vietnamplus.vn",
+      "site": "Vietnam+ (VietnamPlus)",
       "siteUrl": "https://zh.vietnamplus.vn"
     },
     {
@@ -689,15 +689,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-40d60e09c577",
+      "id": "FL-6efe5298d5a2",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 15:04:00 GMT",
       "ts": 1789311840000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1392人 - 封面新闻",
+      "title": "尼泊尔泥石流灾害遇难人数升至1392人 - thecover.cn",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TWjViUkt6M2xhR2ZDbEZFbnBOZGVFc2ZxSThOT29tdDBIbk9tWHZIY1NaWk4zek12MXNQeVJXZUhwUGRrc3ZvV1l0alhlMG1DaV9RV0tnVFg3X3pYdGxjSDNpUm5ERGdoWTFVN2tQVXROQjJSakZz?oc=5",
-      "site": "封面新闻",
+      "site": "thecover.cn",
       "siteUrl": "https://m.thecover.cn"
     },
     {
