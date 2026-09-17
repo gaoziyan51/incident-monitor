@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T06:39:06.382Z",
+  "updated": "2026-09-17T06:54:03.388Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -25,18 +25,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02cjFSV1R3bENYWlVqR0xiRlI1aVZkVHZFdTQ2RUx6cmxkclZiRmkxLTZIT3M1MFdvWXgzamQ0aHFtX1NaR1dTWkw0azREZWVvcEphSkFpMU9ISU9xWXh3Sg?oc=5",
       "site": "thepaper.cn",
       "siteUrl": "https://www.thepaper.cn"
-    },
-    {
-      "id": "FL-5330c4c493e6",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 23:30:00 GMT",
-      "ts": 1789601400000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "截至当地时间9月16日20时，尼泊尔泥石流灾害造成的遇难人数升至1409人 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON2NXaENUUU82UTQ4NVI0aFBBWFZ0ZUtycXZOYzNLTVVlOTJOU0FOSmRnb29kWW5KMFNTNUZEbl9rUWllUmMxSE10OFNXUjljZ0Vad3ZzOVIzQVVxNHJaekF6SmNybG94QzdXX3puQjVvbFJvYkF5SkpvOHhUWElNWFc3ZzctQmJT?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-96802cc1cff4",
@@ -220,6 +208,18 @@
       "related": 35
     },
     {
+      "id": "FL-8eccef5d7805",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 09:12:00 GMT",
+      "ts": 1789549920000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川茂县发生山体滑坡 161名群众提前转移无伤亡 - 中国网",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4bFVHOUpnLWpVdTRDVDFjMnY1dHZ3M3ZWY3E4YVI4ckJ5SjNhRWdGaVFRR1VpX3dOVUNHVWFWYy1ZUUVBYUQyd2FPdkc5cFJzekdOU25lMlRvaWRLZ2JJUkhqdUdzb0l6NUhPR0NqMA?oc=5",
+      "site": "中国网",
+      "siteUrl": "http://www.china.com.cn"
+    },
+    {
       "id": "FL-3b369a35039f",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 09:01:01 GMT",
@@ -266,7 +266,7 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZcWRUM00xcGFjLWJ6UjU5MjlqM19VSjZDWjJDRXJINDBISmVBRzlKQzV6bmVneXRLX0NyZDdaUm0zMi00QldkQVBWdGJIM2JKSzFXNXNRbHpWS2lFcElaWlprcmw4S2R3a0tub1dqTnRjM2xRY0hMblZhbw?oc=5",
       "site": "中青在线",
       "siteUrl": "http://m.cyol.com",
-      "related": 16
+      "related": 15
     },
     {
       "id": "FL-90b784652602",
@@ -291,18 +291,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xUmN1eHZYWThIN2IwejZLemdfc0QySHhhUmd1RnB6YmlqekI2bVJOT0RRTVZMODJnUmRicjJVMzhkRzFRWnU4VXdUT0JKdXhRUk1DTWFRTjNmc3VnR2pRU3NzQXpMSF91SjU3NGhGLXl6a2ltS0VRcVJrWkI4TkU?oc=5",
       "site": "news.cn",
       "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-da9f50dee8c0",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 06:54:00 GMT",
-      "ts": 1789541640000,
-      "scope": "dom",
-      "type": "collapse",
-      "title": "“眼尖”交警发现异常果断处置，及时化解大面积路面坍塌险情 - 紫牛新闻",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DY0ZSaVFxUHFmRkZpMFVISkdWRmFuckRVZjZyX0NBdFg3dms0RDAwLXJ6ZXFHM2hVbFlTc0NzZi1pMU5wc19TdFdYSjN4YW5UcVdOYnJwTURKMW1ESTFpbFp4V1lpcHJD?oc=5",
-      "site": "紫牛新闻",
-      "siteUrl": "https://www.yzwb.net"
     },
     {
       "id": "FL-0fed9c51ee2f",
@@ -401,6 +389,18 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
+      "id": "FL-bbe59e385aaf",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 06:44:08 GMT",
+      "ts": 1789627448000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流被困11天，获救木工与儿子相拥 ：见到儿子就什么事都没有了 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd2FaeE94RnhNWWw1R290V2tqS0dHZ1l5YnV6QldNV2xCeXBDS204ZTk5NE5DbnNUeVBFM2QzOW1wdTdUMC13YWtDZjlPbWZhcXhpRFc3MlVqRm05NUxLekRjYTdxaHBEUXZjeUtaVVU0NGQzV2ZveEduUVlDOVBuVVdIZVplbzNGUFdUcg?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-2de7c4259838",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 06:05:00 GMT",
@@ -485,15 +485,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-d1350c5654f6",
+      "id": "FL-ca47c5e94270",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 03:28:01 GMT",
       "ts": 1789615681000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流已致1403人死亡 6150人失联 - xinhuanet.com",
+      "title": "尼泊尔泥石流已致1403人死亡 6150人失联 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCa1p4WXQ0bnV2TU9kV3RGd0RDSFJZRWQxeWs5VjZsd0lDU282WUtjUXJHcC1JQUdRTVRFZGJrOEs1czdvZ05ZTVZYWVhxNFRWTFhMNTd2am5BS25QQ2RuSFBLQS1IM1ZLeGwwY3VOalZzR2g5VVNaWFVQcGtRdw?oc=5",
-      "site": "xinhuanet.com",
+      "site": "新华网",
       "siteUrl": "http://www.xinhuanet.com"
     },
     {
