@@ -1,18 +1,18 @@
 {
-  "updated": "2026-09-17T23:05:36.745Z",
+  "updated": "2026-09-17T23:18:03.554Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-01049f3dcf6b",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 23:41:00 GMT",
-      "ts": 1789602060000,
-      "scope": "intl",
+      "id": "FL-243b1a22aad1",
+      "date": "2026-08-26",
+      "dateISO": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "ts": 1787727600000,
+      "scope": "dom",
       "type": "geo",
-      "title": "亲历尼泊尔泥石流救灾：现场救援、气候变迁与生死哲学｜907编辑部 - thepaper.cn",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02cjFSV1R3bENYWlVqR0xiRlI1aVZkVHZFdTQ2RUx6cmxkclZiRmkxLTZIT3M1MFdvWXgzamQ0aHFtX1NaR1dTWkw0azREZWVvcEphSkFpMU9ISU9xWXh3Sg?oc=5",
-      "site": "thepaper.cn",
-      "siteUrl": "https://www.thepaper.cn"
+      "title": "西藏土石流：接壤尼泊尔边境山洪暴发 上千人失踪包括多国游客 - bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CTG9yTTh6cnplOGJ1TG5PUzFQRkwtNjZTTzFLcEMwYzRWQlhzTVF2eGMyUFRzdWlKYldDSTVRcWNVd2RnbkJWU1prR2FMUVhKeVk4X0c4MVNnbUFCTjItZ0JiN0xvd9IBa0FVX3lxTE1PT1F4VHcyMnlBRE5SdUdLeERKN21TU1VXSkdqTTNnWnE1MTkxNi1Yb1ZqbWQtX2ZVdGwtMFhCZjZsVmgwTi1LNkdwYWtOZTE3dDlIVzNiT3cxOHV2dzdnZF9hY2cwV3dsSi1j?oc=5",
+      "site": "bbc.com",
+      "siteUrl": "https://www.bbc.com"
     },
     {
       "id": "FL-96802cc1cff4",
@@ -135,15 +135,15 @@
       "siteUrl": "http://www.china.com.cn"
     },
     {
-      "id": "FL-fac2af0c2b80",
+      "id": "FL-3b369a35039f",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 09:01:01 GMT",
       "ts": 1789549261000,
       "scope": "dom",
       "type": "other",
-      "title": "加沙城一建筑倒塌已致14人死亡 百余人失踪 - news.cnr.cn",
+      "title": "加沙城一建筑倒塌已致14人死亡 百余人失踪 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CQjhqMTMySHlkV2k4UjExclpBbUFMSzVjcjI5M3c0YXFJVkNXTHhscGFoYlJxOXJZeVFseG1kR3JvY1ZPdlB5cXZxWVdmZkpLVmRaQ3FNV3dWdUpMTVdYc0hTU2l2aXNE?oc=5",
-      "site": "news.cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
     },
     {
@@ -159,15 +159,15 @@
       "siteUrl": "https://cn.chinadaily.com.cn"
     },
     {
-      "id": "FL-63599e729c2a",
+      "id": "FL-a74bbf34ab98",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 07:32:41 GMT",
       "ts": 1789543961000,
       "scope": "dom",
       "type": "other",
-      "title": "海南五指山强降水基本结束 清淤、抢险、复工有序推进 - news.cnr.cn",
+      "title": "海南五指山强降水基本结束 清淤、抢险、复工有序推进 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52bnFwSExVdm9OaGprZEl2RzhiZEVra3EwNG8tOTMyNFg4YmthZFNybGs3OFpYUXNCR2Z4ZmdFTWRzaVNtRU5VUksyamhxNkEtZEhFMWNSS1NzSVlxUEQtLXpVY1JMMFNGZVVjQ0laOA?oc=5",
-      "site": "news.cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
     },
     {
@@ -181,7 +181,7 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZcWRUM00xcGFjLWJ6UjU5MjlqM19VSjZDWjJDRXJINDBISmVBRzlKQzV6bmVneXRLX0NyZDdaUm0zMi00QldkQVBWdGJIM2JKSzFXNXNRbHpWS2lFcElaWlprcmw4S2R3a0tub1dqTnRjM2xRY0hMblZhbw?oc=5",
       "site": "中青在线",
       "siteUrl": "http://m.cyol.com",
-      "related": 9
+      "related": 11
     },
     {
       "id": "FL-90b784652602",
@@ -208,15 +208,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-b79bc0488d8a",
+      "id": "FL-0fed9c51ee2f",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 06:37:40 GMT",
       "ts": 1789540660000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川茂县发生山体滑坡 提前管控未造成人员伤亡 - news.cnr.cn",
+      "title": "四川茂县发生山体滑坡 提前管控未造成人员伤亡 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBXcms4anhZZDZ2dTgwMHpRZGhhYkRNLU5QbGtnQXVaUlVqNHhWaFVRcTZGLWlaSEMwRDlSaFllSlZOOTBqb0JZSWF5aHROa2QwVkI0Zlk1M1pHbVpCVjJ3bTh3cklPNWpSMjUyQTd3NzVDQQ?oc=5",
-      "site": "news.cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
     },
     {
@@ -256,6 +256,18 @@
       "siteUrl": "https://www.guancha.cn"
     },
     {
+      "id": "FL-83a7cb814b39",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 23:16:47 GMT",
+      "ts": 1789687007000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "新疆巴音郭楞州库尔勒市发生3.0级地震，震源深度12千米 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yTkN0eGozb05Ya1pjWU9RYjhiLXZvV2F4a19xdng1TUlxV3U0ME1Wc3AxeUtGV1lLbnlmRG5pX3NsR1otelFaQ1Y3WG9NVEc4M29GeHRPN28xZUlaMlE2Y0RONUxfY20xZ1owVVFpNWh5ZnYxRlBCcg?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
+    },
+    {
       "id": "FL-44b2d503090b",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 16:44:03 GMT",
@@ -268,15 +280,15 @@
       "siteUrl": "http://finance.sina.cn"
     },
     {
-      "id": "FL-2b0b51e8390d",
+      "id": "FL-cd7cfbb5d90a",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 15:50:40 GMT",
       "ts": 1789660240000,
       "scope": "dom",
       "type": "geo",
-      "title": "福克斯群岛发生6.5级地震 震源深度100公里 - news.cnr.cn",
+      "title": "福克斯群岛发生6.5级地震 震源深度100公里 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQdFBkSGtLaFVhWnlmV2FoeEE2UWpLOWFLWEFXcXZDSmQ0N1kyck5ralQtZUNvMk8xekdtaEo1RHFTbW1Md0Zuc1IxNndBSzAtTmFKc2s1N1lHZm1QMmhxQXNLdmtHdWFC?oc=5",
-      "site": "news.cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
     },
     {
@@ -591,18 +603,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBoRXRjcGVVcXVFTjY3N2NOanJsTGZ4S3J2MXJQZE1RYmVRZWxCSjd5ZzhObFdkQjZKbDdEY21oYWJnX1lQRXZIcEdqcUd6dw?oc=5",
       "site": "川观新闻",
       "siteUrl": "https://cbgc.scol.com.cn"
-    },
-    {
-      "id": "FL-4a6eb3a82bfd",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 03:58:29 GMT",
-      "ts": 1789617509000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "最新公布：尼泊尔泥石流已致1403人遇难，失联人数增至6150人 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcnlEdkoyMERIc1JHUWtFQ1ZlYWhiT2pJRHBIdUZKUjBkQWV6VkFabVpZaW9md0lUM0lmNElsdlAyVTNSSlliSHZtdkRBQzlVV3FnSTdrd2J4ZHZRNEdaUk9vX214VjFMN1BUYWhGTnJFS0lYM1paU0gtOTRmNWpOSHJWUFdERjVj?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-834622dfda06",
