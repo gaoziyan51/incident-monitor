@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T08:58:47.060Z",
+  "updated": "2026-09-17T09:14:26.305Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -135,15 +135,15 @@
       "siteUrl": "https://www.21jingji.com"
     },
     {
-      "id": "FL-d1df7c983157",
+      "id": "FL-b9a50496f937",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 13:29:30 GMT",
       "ts": 1789565370000,
       "scope": "intl",
       "type": "collapse",
-      "title": "苏丹一座金矿发生坍塌 至少67人死亡 - 8world",
+      "title": "苏丹一座金矿发生坍塌 至少67人死亡 - 8world.com",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56ZlVwTUcyVkd6b1hqUlRsbGFfMUhhTEJYOHdVN2VnOFFPYTdNcDA4bU9LYU1Za004T2NobnFDTXg3M0ZJRVpsY1Y2T1YyTlVCMjhFZm1ld05QbmNIeWZRVWxsS2ZVdURvcUJGNExB?oc=5",
-      "site": "8world",
+      "site": "8world.com",
       "siteUrl": "https://www.8world.com"
     },
     {
@@ -205,7 +205,7 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tNjNpWlo5YWZCdWtfaXo1elk0ZHBlZ2NGMlI4T1I2YW9jV2dCMFN0aGtmekVNdFViQzN4MFBrdlNDWnV6bGpJaHpWTWh5ZEFoUWUtekExTDUtM3Jzc0UyZC1KczNvd3lTYzBR?oc=5",
       "site": "中国西藏网",
       "siteUrl": "http://www.tibet.cn",
-      "related": 34
+      "related": 36
     },
     {
       "id": "FL-3b369a35039f",
@@ -220,15 +220,15 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-24990cc10c38",
+      "id": "FL-bc41835fa717",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 08:55:35 GMT",
       "ts": 1789548935000,
       "scope": "intl",
       "type": "collapse",
-      "title": "苏丹一金矿发生坍塌事故 造成至少60人死亡 - 中国日报网",
+      "title": "苏丹一金矿发生坍塌事故 造成至少60人死亡 - cn.chinadaily.com.cn",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wZFJCOXJPeEt4OHkxa2NzZW1HUmhsQ21VamUwbDNJRWNPeTZiTm1Sci1aR0h3T0o0eGgyUGVERl92VHNJWEJEdTNtN3JsYXhsNzNIV3dIeEZYLU9TZjRGUUQwWnB6SGN1S3FVNWMwUllXSUIxanFvQ09MUE4?oc=5",
-      "site": "中国日报网",
+      "site": "cn.chinadaily.com.cn",
       "siteUrl": "https://cn.chinadaily.com.cn"
     },
     {
@@ -305,15 +305,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-d015bcadd21a",
+      "id": "FL-f1f82737b1d7",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 22:13:00 GMT",
       "ts": 1789510380000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1403人遇难 - 中国网新闻中心",
+      "title": "尼泊尔泥石流灾害已致1403人遇难 - news.china.com.cn",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBySGExLXVMdmFfZGREZUM1d01XRE1nZUxXNHNnU0U0SzROaUFfelVpTWZTNnB3QW56WEFCZktZTWRMQ1ZtNFNrZjZ0ZTV1TFdINTRSdW5CTlpfbWFXMWVxQmVvYWVBbGVpMExB?oc=5",
-      "site": "中国网新闻中心",
+      "site": "news.china.com.cn",
       "siteUrl": "http://news.china.com.cn"
     },
     {
@@ -324,9 +324,21 @@
       "scope": "intl",
       "type": "geo",
       "title": "尼泊尔泥石流灾害已致1403人遇难 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CX1BCWlpfQWdzOUk4NER1dmF5Ym5MOE1jem9VWlBhYXZJSmJIRjJEMjAtNlEtUnZjcmpHSkZjOW1GVXJ3WU80Q1BGYVF3NDBGREMwWWVYZWEtY3Qxa3hMdFdBTWFINHBRekRFbWdXa2QzYjFFc0E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxSXBDLTAxcDN6MUhlbFRjOE9WY1dfaVpCLUpETDl0ZWl5YjlFdlp1MW14eGtuREJlU1ZuckpwTm52RzM5WlpKUFhnTGVkVDVvRmw5S2MtemJXMGtxY2F3dUNOS2FFZkc2?oc=5",
       "site": "央广网",
-      "siteUrl": "https://www.cnr.cn"
+      "siteUrl": "https://news.cnr.cn"
+    },
+    {
+      "id": "FL-26b71d7e9a07",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 15:09:58 GMT",
+      "ts": 1789484998000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害已致1403人遇难 - 新浪新闻_手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DV3BuZjVma1hEMEFHN2V6STRLcU0wV2NwYmxUQnYxUXRqalI4eUVieDFFdW1abzBTdzAyOTRjSjlObE13Q2pyMVM2U0xrMmU0UlN0MGJXd0tHenhVY1MxV2k0SmFhRmlTSmQ0VGZYY0c?oc=5",
+      "site": "新浪新闻_手机新浪网",
+      "siteUrl": "https://news.sina.com.cn"
     },
     {
       "id": "FL-08cb7529b0aa",
@@ -365,27 +377,27 @@
       "siteUrl": "https://www.oilcn.com"
     },
     {
-      "id": "FL-408ae13602a9",
+      "id": "FL-f896daec11f2",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 08:19:31 GMT",
       "ts": 1789633171000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流被困11天获救工人回家，老家村民发声：他父母离世，今年第一次出国打工 - sohu.com",
+      "title": "尼泊尔泥石流被困11天获救工人回家，老家村民发声：他父母离世，今年第一次出国打工 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQll2a01NSTVFSjhRdnRUeEZYcnFYQ3AwVjY4MnNkT3dDRTZFX0xVY0RQcHI0YmFmLUhHNVVRWFc5TFF0TzJkRHB4UjBVYnRFRUZjM2doVkR6eG5mcDhYZnpVX0NrSVQ1bDFMQUptMG1sMmM2V2pMeHNEcVpsWWc2cDZ4b1d1U2pOdlJ5Mg?oc=5",
-      "site": "sohu.com",
+      "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-d981edd3ee4f",
+      "id": "FL-c4152dca493c",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 07:43:57 GMT",
       "ts": 1789631037000,
       "scope": "dom",
       "type": "geo",
-      "title": "20%湿滑坡道地步无压力，雨天试驾2027款埃安i60 - sohu.com",
+      "title": "20%湿滑坡道地步无压力，雨天试驾2027款埃安i60 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeV9qdGd2Z2xpWks5eTBmcTFTb1NqUG5KREZDcThXYXJGTHFsNWlfek1Gdk02QlBGdF9xZHgyeFF2S1NxUzItZTN0Umhjb2gxeXBvR2tfVEdXM0ZTYUdXOTlfQ0R1Vi1pREFFNDhkcVNLamE0RTExTXhnNTF3UTlUT0NPdWxHa0xqRzgzNA?oc=5",
-      "site": "sohu.com",
+      "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -401,39 +413,27 @@
       "siteUrl": "http://finance.sina.cn"
     },
     {
-      "id": "FL-0fe2be5afb21",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 07:09:00 GMT",
-      "ts": 1789628940000,
-      "scope": "dom",
-      "type": "other",
-      "title": "山西一地村委会组织维修管道时遇塌方致一村副主任身亡，镇政府介入处理 - sohu.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORTVwV3Y5ZnBuUm1MS1RQTVF3aEk5SmdYdHBEVGFSQlZnU3FHRm9ZeE1ja0N1NWo0MlhjZDRwbGhOT1JzWTdEeDBuTXR5NHQ1anhBXzEyZzdFbTRUd2c2ZERfX3RKWFNJUXd6SkwtVTFlX2ZhazU2TkxJUzRBQlhfUmRSR2xDMzk5akE?oc=5",
-      "site": "sohu.com",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-ad71a9ce256f",
+      "id": "FL-09b514693f29",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 07:07:47 GMT",
       "ts": 1789628867000,
       "scope": "dom",
       "type": "other",
-      "title": "（外代一线）加沙城一战损建筑倒塌致至少20人死亡 - sohu.com",
+      "title": "（外代一线）加沙城一战损建筑倒塌致至少20人死亡 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTlZrX25ZcE5JSGUwckJ2X0w0WVBWVndsX0t5RFBrR2N1ektrZWl6ajFGb3VPMTZ5aHB5RUF5WDZST205VjNfR1g2eUxWd01DLUpkZl83MGpLVmpiQmZ0azFyVWZCNThXZEdiV3hSMXRRMnBCcDhMRlNxa2JIUC1MNGZfdDFxejRw?oc=5",
-      "site": "sohu.com",
+      "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-1acf5433054f",
+      "id": "FL-bbe59e385aaf",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 06:44:08 GMT",
       "ts": 1789627448000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流被困11天，获救木工与儿子相拥 ：见到儿子就什么事都没有了 - sohu.com",
+      "title": "尼泊尔泥石流被困11天，获救木工与儿子相拥 ：见到儿子就什么事都没有了 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd2FaeE94RnhNWWw1R290V2tqS0dHZ1l5YnV6QldNV2xCeXBDS204ZTk5NE5DbnNUeVBFM2QzOW1wdTdUMC13YWtDZjlPbWZhcXhpRFc3MlVqRm05NUxLekRjYTdxaHBEUXZjeUtaVVU0NGQzV2ZveEduUVlDOVBuVVdIZVplbzNGUFdUcg?oc=5",
-      "site": "sohu.com",
+      "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -497,15 +497,15 @@
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
-      "id": "FL-abbedfc85033",
+      "id": "FL-4a6eb3a82bfd",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 03:58:29 GMT",
       "ts": 1789617509000,
       "scope": "intl",
       "type": "geo",
-      "title": "最新公布：尼泊尔泥石流已致1403人遇难，失联人数增至6150人 - sohu.com",
+      "title": "最新公布：尼泊尔泥石流已致1403人遇难，失联人数增至6150人 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcnlEdkoyMERIc1JHUWtFQ1ZlYWhiT2pJRHBIdUZKUjBkQWV6VkFabVpZaW9md0lUM0lmNElsdlAyVTNSSlliSHZtdkRBQzlVV3FnSTdrd2J4ZHZRNEdaUk9vX214VjFMN1BUYWhGTnJFS0lYM1paU0gtOTRmNWpOSHJWUFdERjVj?oc=5",
-      "site": "sohu.com",
+      "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -533,15 +533,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-ac852edf4348",
+      "id": "FL-1d40d2035db8",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 03:23:45 GMT",
       "ts": 1789615425000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川茂县成功避险一起滑坡灾害，更多细节公布：地质灾害监测员开展日常巡查时发现落石，该点位再次发生零星落石后当地开展24小时动态监测 - sohu.com",
+      "title": "四川茂县成功避险一起滑坡灾害，更多细节公布：地质灾害监测员开展日常巡查时发现落石，该点位再次发生零星落石后当地开展24小时动态监测 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLVE2RzV3cXp5MFphSUNjQTZJNElMMlJpdUYzOXFUdC03cXZhR1hpUlJ0WC0xS0stOFc0eFBELTZnSGhFZ09wbVRTb1dmWjV0ZFhHRWFlZkJqV3BETHNCVDNMS01fRTI3SGpFU3NRTUdoYWdtVFlybXJDNnR4RVNvNXNlM2FKd3BuaWVodg?oc=5",
-      "site": "sohu.com",
+      "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
     {
