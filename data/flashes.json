@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T06:18:28.320Z",
+  "updated": "2026-09-17T06:39:06.382Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -49,18 +49,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uQjFZbUJUUDhzUXowZDlnaEdTcjNzSV9GSEZ6TlRxM2JTY3RpbXNPQTBUazdrYVoyb1FzbUgtc2dRck1DdnBqT3VaZHROd1FFbXJqRVdkUWN6MWR6V3c?oc=5",
       "site": "thepaper.cn",
       "siteUrl": "https://m.thepaper.cn"
-    },
-    {
-      "id": "FL-d67135609b70",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 21:47:33 GMT",
-      "ts": 1789595253000,
-      "scope": "dom",
-      "type": "other",
-      "title": "加沙城一战损建筑倒塌致至少20人死亡 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6dGlnaUE0WXdVZXZIbEdMNzkzaHZCamRld2d6ckM1bUFyQzlicDQxR0hhUXJ2WWpIb2Jlb2RUVjZhckxPNnRkNmw0eWUxRVEtMGc?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://www.sohu.com"
     },
     {
       "id": "FL-d8fd816a5184",
@@ -183,19 +171,6 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-EV-f283a898090a",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 11:37:53 GMT",
-      "ts": 1789558673000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "润本棠向西藏吉隆泥石流灾区捐赠100万元！助力抢险救灾与灾后重建！ - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVXJRd05nUUJsdjc0czhLcnQ4Y2FaWEM2QXRiU2ZIYXBzSUdGNk5VaWduOWpPRno5c21BTlIyNDZQRkZ6djlJX0lBckYzRXpjMnUySUcxN2NOQ1B5OGlTWl9EY2M1TEphMzRBWFp0ZXJsRno1dlFycl8tcE1FWk9qdDA5MzBwM3gx?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com",
-      "related": 35
-    },
-    {
       "id": "FL-d0ee7003c366",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 10:41:32 GMT",
@@ -232,39 +207,52 @@
       "siteUrl": "https://m.thepaper.cn"
     },
     {
-      "id": "FL-fac2af0c2b80",
+      "id": "FL-EV-f283a898090a",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 09:14:36 GMT",
+      "ts": 1789550076000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "海内外多方发来慰问信深切关怀吉隆泥石流受灾群众_滚动图 - 中国西藏网",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tNjNpWlo5YWZCdWtfaXo1elk0ZHBlZ2NGMlI4T1I2YW9jV2dCMFN0aGtmekVNdFViQzN4MFBrdlNDWnV6bGpJaHpWTWh5ZEFoUWUtekExTDUtM3Jzc0UyZC1KczNvd3lTYzBR?oc=5",
+      "site": "中国西藏网",
+      "siteUrl": "http://www.tibet.cn",
+      "related": 35
+    },
+    {
+      "id": "FL-3b369a35039f",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 09:01:01 GMT",
       "ts": 1789549261000,
       "scope": "dom",
       "type": "other",
-      "title": "加沙城一建筑倒塌已致14人死亡 百余人失踪 - news.cnr.cn",
+      "title": "加沙城一建筑倒塌已致14人死亡 百余人失踪 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CQjhqMTMySHlkV2k4UjExclpBbUFMSzVjcjI5M3c0YXFJVkNXTHhscGFoYlJxOXJZeVFseG1kR3JvY1ZPdlB5cXZxWVdmZkpLVmRaQ3FNV3dWdUpMTVdYc0hTU2l2aXNE?oc=5",
-      "site": "news.cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-24990cc10c38",
+      "id": "FL-bc41835fa717",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 08:55:35 GMT",
       "ts": 1789548935000,
       "scope": "intl",
       "type": "collapse",
-      "title": "苏丹一金矿发生坍塌事故 造成至少60人死亡 - 中国日报网",
+      "title": "苏丹一金矿发生坍塌事故 造成至少60人死亡 - cn.chinadaily.com.cn",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wZFJCOXJPeEt4OHkxa2NzZW1HUmhsQ21VamUwbDNJRWNPeTZiTm1Sci1aR0h3T0o0eGgyUGVERl92VHNJWEJEdTNtN3JsYXhsNzNIV3dIeEZYLU9TZjRGUUQwWnB6SGN1S3FVNWMwUllXSUIxanFvQ09MUE4?oc=5",
-      "site": "中国日报网",
+      "site": "cn.chinadaily.com.cn",
       "siteUrl": "https://cn.chinadaily.com.cn"
     },
     {
-      "id": "FL-63599e729c2a",
+      "id": "FL-a74bbf34ab98",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 07:32:41 GMT",
       "ts": 1789543961000,
       "scope": "dom",
       "type": "other",
-      "title": "海南五指山强降水基本结束 清淤、抢险、复工有序推进 - news.cnr.cn",
+      "title": "海南五指山强降水基本结束 清淤、抢险、复工有序推进 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52bnFwSExVdm9OaGprZEl2RzhiZEVra3EwNG8tOTMyNFg4YmthZFNybGs3OFpYUXNCR2Z4ZmdFTWRzaVNtRU5VUksyamhxNkEtZEhFMWNSS1NzSVlxUEQtLXpVY1JMMFNGZVVjQ0laOA?oc=5",
-      "site": "news.cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
     },
     {
@@ -305,39 +293,39 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-42a22a4de1a5",
+      "id": "FL-da9f50dee8c0",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 06:54:00 GMT",
       "ts": 1789541640000,
       "scope": "dom",
       "type": "collapse",
-      "title": "“眼尖”交警发现异常果断处置，及时化解大面积路面坍塌险情 - yzwb.net",
+      "title": "“眼尖”交警发现异常果断处置，及时化解大面积路面坍塌险情 - 紫牛新闻",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DY0ZSaVFxUHFmRkZpMFVISkdWRmFuckRVZjZyX0NBdFg3dms0RDAwLXJ6ZXFHM2hVbFlTc0NzZi1pMU5wc19TdFdYSjN4YW5UcVdOYnJwTURKMW1ESTFpbFp4V1lpcHJD?oc=5",
-      "site": "yzwb.net",
+      "site": "紫牛新闻",
       "siteUrl": "https://www.yzwb.net"
     },
     {
-      "id": "FL-b79bc0488d8a",
+      "id": "FL-0fed9c51ee2f",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 06:37:40 GMT",
       "ts": 1789540660000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川茂县发生山体滑坡 提前管控未造成人员伤亡 - news.cnr.cn",
+      "title": "四川茂县发生山体滑坡 提前管控未造成人员伤亡 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBXcms4anhZZDZ2dTgwMHpRZGhhYkRNLU5QbGtnQXVaUlVqNHhWaFVRcTZGLWlaSEMwRDlSaFllSlZOOTBqb0JZSWF5aHROa2QwVkI0Zlk1M1pHbVpCVjJ3bTh3cklPNWpSMjUyQTd3NzVDQQ?oc=5",
-      "site": "news.cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-fd559656b1b8",
+      "id": "FL-13932da6d5a8",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 05:59:56 GMT",
       "ts": 1789538396000,
       "scope": "dom",
       "type": "geo",
-      "title": "青海海西州直辖区发生3.6级地震 震源深度10千米 - news.cnr.cn",
+      "title": "青海海西州直辖区发生3.6级地震 震源深度10千米 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qc3BQSUxhTFR0ZmpidjVWMnltcTJ6UHowN0gzbE43dV8xQTVpZ2FqWUlnY2tBbnF2VGJBZkJKLUs4X2diWWVkSTY3UXAzRGZYcU9OMHpMNW5ubk5ya2VkWjBUYXdjT0NVZkhYOERvelhhMTVxWnc?oc=5",
-      "site": "news.cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
     },
     {
@@ -353,28 +341,28 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-f1f82737b1d7",
+      "id": "FL-d015bcadd21a",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 22:13:00 GMT",
       "ts": 1789510380000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1403人遇难 - news.china.com.cn",
+      "title": "尼泊尔泥石流灾害已致1403人遇难 - 中国网新闻中心",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBySGExLXVMdmFfZGREZUM1d01XRE1nZUxXNHNnU0U0SzROaUFfelVpTWZTNnB3QW56WEFCZktZTWRMQ1ZtNFNrZjZ0ZTV1TFdINTRSdW5CTlpfbWFXMWVxQmVvYWVBbGVpMExB?oc=5",
-      "site": "news.china.com.cn",
+      "site": "中国网新闻中心",
       "siteUrl": "http://news.china.com.cn"
     },
     {
-      "id": "FL-0674fd4d2559",
+      "id": "FL-ec0d2255786c",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 15:44:17 GMT",
       "ts": 1789487057000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1403人遇难 - cnr.cn",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CX1BCWlpfQWdzOUk4NER1dmF5Ym5MOE1jem9VWlBhYXZJSmJIRjJEMjAtNlEtUnZjcmpHSkZjOW1GVXJ3WU80Q1BGYVF3NDBGREMwWWVYZWEtY3Qxa3hMdFdBTWFINHBRekRFbWdXa2QzYjFFc0E?oc=5",
-      "site": "cnr.cn",
-      "siteUrl": "https://www.cnr.cn"
+      "title": "尼泊尔泥石流灾害已致1403人遇难 - 央广网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxSXBDLTAxcDN6MUhlbFRjOE9WY1dfaVpCLUpETDl0ZWl5YjlFdlp1MW14eGtuREJlU1ZuckpwTm52RzM5WlpKUFhnTGVkVDVvRmw5S2MtemJXMGtxY2F3dUNOS2FFZkc2?oc=5",
+      "site": "央广网",
+      "siteUrl": "https://news.cnr.cn"
     },
     {
       "id": "FL-26b71d7e9a07",
@@ -401,16 +389,28 @@
       "siteUrl": "https://www.guancha.cn"
     },
     {
-      "id": "FL-9d183ccde9c9",
+      "id": "FL-2821cbb61427",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 01:35:35 GMT",
       "ts": 1789436135000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1396人遇难 - news.cnr.cn",
+      "title": "尼泊尔泥石流灾害已致1396人遇难 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JekJsM0phMDJvZWQtN2pXT1hENlRWSjI3UjRIdWQ4TERDQi1jbjVfM2d1SmJyU1JFeE10Sl9ybXM3VGRsVHJucnBBZmdRVmtfZmxXVVNMS2NEeE4zQ2Q1S3YxeTN1SDI2?oc=5",
-      "site": "news.cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
+    },
+    {
+      "id": "FL-2de7c4259838",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 06:05:00 GMT",
+      "ts": 1789625100000,
+      "scope": "dom",
+      "type": "other",
+      "title": "加沙城一战损建筑倒塌致至少20人死亡 - 光明网",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jRXdZclo3eFd0RENxNHg5VTNUTDFKV0hTNkhSRXVWdkZCQld3cHN3djk0QmgwQXI0THJySEstcHl0SWhLdkJ5NXRRS2phTjd6aWl1NHlDbVZZNllDVGxV?oc=5",
+      "site": "光明网",
+      "siteUrl": "https://mil.gmw.cn"
     },
     {
       "id": "FL-1c915cedceb5",
@@ -437,15 +437,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-553feaef91e2",
+      "id": "FL-c9b68acc8729",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 04:08:43 GMT",
       "ts": 1789618123000,
       "scope": "dom",
       "type": "geo",
-      "title": "茂县成功避险一起滑坡灾害，避免了255人可能因灾伤亡丨C视频 - sichuan.scol.com.cn",
+      "title": "茂县成功避险一起滑坡灾害，避免了255人可能因灾伤亡丨C视频 - 四川新闻",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Hdy1MeFFQdG9DRVRwTURsVE1DMnM0VnVHZW1sc19lZUYtbG9iS2NOT3BBb3E1X2N4ckxVRkhsaHU2cHJNT01sSE5OcEZaRDRtbHB2SjBNX1BXUEo1aFNyZ0Z6Zw?oc=5",
-      "site": "sichuan.scol.com.cn",
+      "site": "四川新闻",
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
@@ -485,27 +485,27 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-549cf98ba21f",
+      "id": "FL-d1350c5654f6",
       "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 03:28:03 GMT",
-      "ts": 1789615683000,
+      "dateISO": "Thu, 17 Sep 2026 03:28:01 GMT",
+      "ts": 1789615681000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流已致1403人死亡 6150人失联 - news.cn",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wNU1WVXJmeml4U1pPcnpDRWZsS2p4TXNXUmpUNDZLc0dFNzdoYUFCUGRlQTdZRktBd3dfQW8waHY5YWRCRzdQMTcxcVlvNTRVemFCbXVvZTNWbmtHZU4wdlhmX0NQcVBTMXNCVGlZTHVDQVppMVJ4V2hCaDdCZHM?oc=5",
-      "site": "news.cn",
-      "siteUrl": "https://www.news.cn"
+      "title": "尼泊尔泥石流已致1403人死亡 6150人失联 - xinhuanet.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCa1p4WXQ0bnV2TU9kV3RGd0RDSFJZRWQxeWs5VjZsd0lDU282WUtjUXJHcC1JQUdRTVRFZGJrOEs1czdvZ05ZTVZYWVhxNFRWTFhMNTd2am5BS25QQ2RuSFBLQS1IM1ZLeGwwY3VOalZzR2g5VVNaWFVQcGtRdw?oc=5",
+      "site": "xinhuanet.com",
+      "siteUrl": "http://www.xinhuanet.com"
     },
     {
-      "id": "FL-e25667d90344",
+      "id": "FL-74fb8c28b432",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 03:11:02 GMT",
       "ts": 1789614662000,
       "scope": "dom",
       "type": "collapse",
-      "title": "捆绑、失控、崩塌边缘：华为与赛力斯为何走向“分手”？ - 凤凰网科技",
+      "title": "捆绑、失控、崩塌边缘：华为与赛力斯为何走向“分手”？ - tech.ifeng.com",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9IbTMxd2RESE1pNmZ1blNhMk1wNDBJX19jNkJNaVBkbFcyNENrTVV1V0p3am85cGFLUEhuZDFSaU9EbmtVQWhCR3FSSlY?oc=5",
-      "site": "凤凰网科技",
+      "site": "tech.ifeng.com",
       "siteUrl": "https://tech.ifeng.com"
     },
     {
@@ -689,15 +689,15 @@
       "siteUrl": "http://www.suzhou.gov.cn"
     },
     {
-      "id": "FL-2ae0af7757ef",
+      "id": "FL-84a79a1d7fd4",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 11:52:32 GMT",
       "ts": 1789386752000,
       "scope": "dom",
       "type": "geo",
-      "title": "海南强降雨诱发山体滑坡 前往五指山市道路通行受阻 - cnr.cn",
+      "title": "海南强降雨诱发山体滑坡 前往五指山市道路通行受阻 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBubVJWOFU3QmI0MndVX2ZuSEZxOTA0aVRXeFBfTlpNZy1oOUY1YnBmR1NFU21rVWNXNWxnajNjNHFaVGYzZlRhUmMyVWZHRmlWV3dITUY5X2NxQWpobzRYT2E3ZHZPOGFDVFZz?oc=5",
-      "site": "cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://www.cnr.cn"
     },
     {
