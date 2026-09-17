@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T09:14:26.305Z",
+  "updated": "2026-09-17T09:30:23.843Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -135,15 +135,15 @@
       "siteUrl": "https://www.21jingji.com"
     },
     {
-      "id": "FL-b9a50496f937",
+      "id": "FL-d1df7c983157",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 13:29:30 GMT",
       "ts": 1789565370000,
       "scope": "intl",
       "type": "collapse",
-      "title": "苏丹一座金矿发生坍塌 至少67人死亡 - 8world.com",
+      "title": "苏丹一座金矿发生坍塌 至少67人死亡 - 8world",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56ZlVwTUcyVkd6b1hqUlRsbGFfMUhhTEJYOHdVN2VnOFFPYTdNcDA4bU9LYU1Za004T2NobnFDTXg3M0ZJRVpsY1Y2T1YyTlVCMjhFZm1ld05QbmNIeWZRVWxsS2ZVdURvcUJGNExB?oc=5",
-      "site": "8world.com",
+      "site": "8world",
       "siteUrl": "https://www.8world.com"
     },
     {
@@ -220,15 +220,15 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-bc41835fa717",
+      "id": "FL-24990cc10c38",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 08:55:35 GMT",
       "ts": 1789548935000,
       "scope": "intl",
       "type": "collapse",
-      "title": "苏丹一金矿发生坍塌事故 造成至少60人死亡 - cn.chinadaily.com.cn",
+      "title": "苏丹一金矿发生坍塌事故 造成至少60人死亡 - 中国日报网",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wZFJCOXJPeEt4OHkxa2NzZW1HUmhsQ21VamUwbDNJRWNPeTZiTm1Sci1aR0h3T0o0eGgyUGVERl92VHNJWEJEdTNtN3JsYXhsNzNIV3dIeEZYLU9TZjRGUUQwWnB6SGN1S3FVNWMwUllXSUIxanFvQ09MUE4?oc=5",
-      "site": "cn.chinadaily.com.cn",
+      "site": "中国日报网",
       "siteUrl": "https://cn.chinadaily.com.cn"
     },
     {
@@ -254,7 +254,19 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZcWRUM00xcGFjLWJ6UjU5MjlqM19VSjZDWjJDRXJINDBISmVBRzlKQzV6bmVneXRLX0NyZDdaUm0zMi00QldkQVBWdGJIM2JKSzFXNXNRbHpWS2lFcElaWlprcmw4S2R3a0tub1dqTnRjM2xRY0hMblZhbw?oc=5",
       "site": "中青在线",
       "siteUrl": "http://m.cyol.com",
-      "related": 13
+      "related": 12
+    },
+    {
+      "id": "FL-90b784652602",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 07:20:29 GMT",
+      "ts": 1789543229000,
+      "scope": "dom",
+      "type": "other",
+      "title": "中央气象台：今天到明天，湖北、四川、贵州、云南、广西、广东等地有短时强降水 - 深圳新闻网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBod1FaY2xHa2JhOUs1bjU1RmRfc2wyYWp3V0J3cU5DdGlUWUdON2VtOWNnRkVxMFJMU0FScXd2d1FYcHBkTUx5Ym5PSGxsOXlGcklTN21TRkVGbmJER0dSSGh5dmpoaWZ3VHlzTFZMLUY1RlpBbUlKcQ?oc=5",
+      "site": "深圳新闻网",
+      "siteUrl": "http://www.sznews.com"
     },
     {
       "id": "FL-b2d13116c5ba",
@@ -305,15 +317,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-f1f82737b1d7",
+      "id": "FL-d015bcadd21a",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 22:13:00 GMT",
       "ts": 1789510380000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1403人遇难 - news.china.com.cn",
+      "title": "尼泊尔泥石流灾害已致1403人遇难 - 中国网新闻中心",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBySGExLXVMdmFfZGREZUM1d01XRE1nZUxXNHNnU0U0SzROaUFfelVpTWZTNnB3QW56WEFCZktZTWRMQ1ZtNFNrZjZ0ZTV1TFdINTRSdW5CTlpfbWFXMWVxQmVvYWVBbGVpMExB?oc=5",
-      "site": "news.china.com.cn",
+      "site": "中国网新闻中心",
       "siteUrl": "http://news.china.com.cn"
     },
     {
@@ -327,18 +339,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxSXBDLTAxcDN6MUhlbFRjOE9WY1dfaVpCLUpETDl0ZWl5YjlFdlp1MW14eGtuREJlU1ZuckpwTm52RzM5WlpKUFhnTGVkVDVvRmw5S2MtemJXMGtxY2F3dUNOS2FFZkc2?oc=5",
       "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
-    },
-    {
-      "id": "FL-26b71d7e9a07",
-      "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 15:09:58 GMT",
-      "ts": 1789484998000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1403人遇难 - 新浪新闻_手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DV3BuZjVma1hEMEFHN2V6STRLcU0wV2NwYmxUQnYxUXRqalI4eUVieDFFdW1abzBTdzAyOTRjSjlObE13Q2pyMVM2U0xrMmU0UlN0MGJXd0tHenhVY1MxV2k0SmFhRmlTSmQ0VGZYY0c?oc=5",
-      "site": "新浪新闻_手机新浪网",
-      "siteUrl": "https://news.sina.com.cn"
     },
     {
       "id": "FL-08cb7529b0aa",
@@ -377,27 +377,27 @@
       "siteUrl": "https://www.oilcn.com"
     },
     {
-      "id": "FL-f896daec11f2",
+      "id": "FL-408ae13602a9",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 08:19:31 GMT",
       "ts": 1789633171000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流被困11天获救工人回家，老家村民发声：他父母离世，今年第一次出国打工 - Sohu",
+      "title": "尼泊尔泥石流被困11天获救工人回家，老家村民发声：他父母离世，今年第一次出国打工 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQll2a01NSTVFSjhRdnRUeEZYcnFYQ3AwVjY4MnNkT3dDRTZFX0xVY0RQcHI0YmFmLUhHNVVRWFc5TFF0TzJkRHB4UjBVYnRFRUZjM2doVkR6eG5mcDhYZnpVX0NrSVQ1bDFMQUptMG1sMmM2V2pMeHNEcVpsWWc2cDZ4b1d1U2pOdlJ5Mg?oc=5",
-      "site": "Sohu",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-c4152dca493c",
+      "id": "FL-d981edd3ee4f",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 07:43:57 GMT",
       "ts": 1789631037000,
       "scope": "dom",
       "type": "geo",
-      "title": "20%湿滑坡道地步无压力，雨天试驾2027款埃安i60 - Sohu",
+      "title": "20%湿滑坡道地步无压力，雨天试驾2027款埃安i60 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeV9qdGd2Z2xpWks5eTBmcTFTb1NqUG5KREZDcThXYXJGTHFsNWlfek1Gdk02QlBGdF9xZHgyeFF2S1NxUzItZTN0Umhjb2gxeXBvR2tfVEdXM0ZTYUdXOTlfQ0R1Vi1pREFFNDhkcVNLamE0RTExTXhnNTF3UTlUT0NPdWxHa0xqRzgzNA?oc=5",
-      "site": "Sohu",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -413,27 +413,51 @@
       "siteUrl": "http://finance.sina.cn"
     },
     {
-      "id": "FL-09b514693f29",
+      "id": "FL-0fe2be5afb21",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 07:09:00 GMT",
+      "ts": 1789628940000,
+      "scope": "dom",
+      "type": "other",
+      "title": "山西一地村委会组织维修管道时遇塌方致一村副主任身亡，镇政府介入处理 - sohu.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORTVwV3Y5ZnBuUm1MS1RQTVF3aEk5SmdYdHBEVGFSQlZnU3FHRm9ZeE1ja0N1NWo0MlhjZDRwbGhOT1JzWTdEeDBuTXR5NHQ1anhBXzEyZzdFbTRUd2c2ZERfX3RKWFNJUXd6SkwtVTFlX2ZhazU2TkxJUzRBQlhfUmRSR2xDMzk5akE?oc=5",
+      "site": "sohu.com",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-ad71a9ce256f",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 07:07:47 GMT",
       "ts": 1789628867000,
       "scope": "dom",
       "type": "other",
-      "title": "（外代一线）加沙城一战损建筑倒塌致至少20人死亡 - Sohu",
+      "title": "（外代一线）加沙城一战损建筑倒塌致至少20人死亡 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTlZrX25ZcE5JSGUwckJ2X0w0WVBWVndsX0t5RFBrR2N1ektrZWl6ajFGb3VPMTZ5aHB5RUF5WDZST205VjNfR1g2eUxWd01DLUpkZl83MGpLVmpiQmZ0azFyVWZCNThXZEdiV3hSMXRRMnBCcDhMRlNxa2JIUC1MNGZfdDFxejRw?oc=5",
-      "site": "Sohu",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-bbe59e385aaf",
+      "id": "FL-ff1b4c9d2171",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 07:05:49 GMT",
+      "ts": 1789628749000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川茂县成功避险一起滑坡灾害，避免255人可能因灾伤亡 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9LeXVUeHJXRzRFa0dzbGFGZGVBYTFVdTZrSUVzUlAwc2M3Q3kyMS0wRXg0QmQ0dnhfUEVQdWJ2TEl3cTAxYVJ4MXVCT1g?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://news.ifeng.com"
+    },
+    {
+      "id": "FL-1acf5433054f",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 06:44:08 GMT",
       "ts": 1789627448000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流被困11天，获救木工与儿子相拥 ：见到儿子就什么事都没有了 - Sohu",
+      "title": "尼泊尔泥石流被困11天，获救木工与儿子相拥 ：见到儿子就什么事都没有了 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd2FaeE94RnhNWWw1R290V2tqS0dHZ1l5YnV6QldNV2xCeXBDS204ZTk5NE5DbnNUeVBFM2QzOW1wdTdUMC13YWtDZjlPbWZhcXhpRFc3MlVqRm05NUxLekRjYTdxaHBEUXZjeUtaVVU0NGQzV2ZveEduUVlDOVBuVVdIZVplbzNGUFdUcg?oc=5",
-      "site": "Sohu",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -497,15 +521,15 @@
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
-      "id": "FL-4a6eb3a82bfd",
+      "id": "FL-abbedfc85033",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 03:58:29 GMT",
       "ts": 1789617509000,
       "scope": "intl",
       "type": "geo",
-      "title": "最新公布：尼泊尔泥石流已致1403人遇难，失联人数增至6150人 - Sohu",
+      "title": "最新公布：尼泊尔泥石流已致1403人遇难，失联人数增至6150人 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcnlEdkoyMERIc1JHUWtFQ1ZlYWhiT2pJRHBIdUZKUjBkQWV6VkFabVpZaW9md0lUM0lmNElsdlAyVTNSSlliSHZtdkRBQzlVV3FnSTdrd2J4ZHZRNEdaUk9vX214VjFMN1BUYWhGTnJFS0lYM1paU0gtOTRmNWpOSHJWUFdERjVj?oc=5",
-      "site": "Sohu",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -533,15 +557,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-1d40d2035db8",
+      "id": "FL-ac852edf4348",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 03:23:45 GMT",
       "ts": 1789615425000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川茂县成功避险一起滑坡灾害，更多细节公布：地质灾害监测员开展日常巡查时发现落石，该点位再次发生零星落石后当地开展24小时动态监测 - Sohu",
+      "title": "四川茂县成功避险一起滑坡灾害，更多细节公布：地质灾害监测员开展日常巡查时发现落石，该点位再次发生零星落石后当地开展24小时动态监测 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLVE2RzV3cXp5MFphSUNjQTZJNElMMlJpdUYzOXFUdC03cXZhR1hpUlJ0WC0xS0stOFc0eFBELTZnSGhFZ09wbVRTb1dmWjV0ZFhHRWFlZkJqV3BETHNCVDNMS01fRTI3SGpFU3NRTUdoYWdtVFlybXJDNnR4RVNvNXNlM2FKd3BuaWVodg?oc=5",
-      "site": "Sohu",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -557,16 +581,16 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-1fb6c6bb1569",
+      "id": "FL-e25667d90344",
       "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 02:51:35 GMT",
-      "ts": 1789613495000,
+      "dateISO": "Thu, 17 Sep 2026 03:11:02 GMT",
+      "ts": 1789614662000,
       "scope": "dom",
-      "type": "geo",
-      "title": "四川茂县成功避险一起滑坡灾害，更多细节公布 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qSUhUN3hZQjJPclIwMGE5WFV1a2w1THFzbzYxUzlwSlRJZmViX2w4S2pNNEpOMW5MY0R2V0Vxb0VicHFNN0c0VFVBcUE?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://news.ifeng.com"
+      "type": "collapse",
+      "title": "捆绑、失控、崩塌边缘：华为与赛力斯为何走向“分手”？ - 凤凰网科技",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9IbTMxd2RESE1pNmZ1blNhMk1wNDBJX19jNkJNaVBkbFcyNENrTVV1V0p3am85cGFLUEhuZDFSaU9EbmtVQWhCR3FSSlY?oc=5",
+      "site": "凤凰网科技",
+      "siteUrl": "https://tech.ifeng.com"
     },
     {
       "id": "FL-3c31950bdab0",
@@ -615,18 +639,6 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQall6T0JCTDRBSkpnbDJJXzFpQWRRYTB2WTY2QllLZjB5eG9OQVg4LVMtRWNFci1mRVFVME9yNjNrNFFhd1dST2FkMHRFQzljZzBhTW12S2RtNDcwa3N6eDAtNkxyclJacVJFRWl3MkxoNFdYSXBMU0VGUWVucjJrdlMxRlRXNWIzckJEVnhPT1BkLUhld0k2Mw?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
-    },
-    {
-      "id": "FL-31aaf7309a8a",
-      "date": "2026-09-03",
-      "dateISO": "Thu, 03 Sep 2026 07:00:00 GMT",
-      "ts": 1788418800000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "台风“沙德尔”带来强降雨，福建全力抢险救援 - 人民网-福建频道",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9idjB1WHk1RmxjaXpsRFVqTmtSUXdDbEcwVlp0d2k5TnNndmxBNXhhV0syZmdBVlVCQzZuZk56cmNGeWFCYnp5SkVxaFFvbGQ0TXoxalUyeFJtRHJfa2l2TVhBRXJVQWVfM0E?oc=5",
-      "site": "人民网-福建频道",
-      "siteUrl": "http://fj.people.com.cn"
     },
     {
       "id": "FL-861987facab4",
@@ -687,18 +699,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByeEVvcHlucE92a1Z3T0Ywei1RT3Ric2RMaVEzNmVtbF9VVEVPMmhrNmliNEl3TGllWktKNjNodUNSSXh3S21KUHA2cEFqckZEV0RNMmpCWWRxSGM4Zm51VUEyV0dkZ9IBa0FVX3lxTFBxM2RNYURrR1hmQ1ktWnBrME1RQ1ZESXBWZHZ4aUNoaURoXy1BLXlySk9tcDZHb25fRmV5SDB5ZTVnck9rdlNmRHdGRkl3QldGb2VEZHA3VkNWT0NITjhmMTRwUWNpZEgxNDFF?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-fb448a3e9124",
-      "date": "2026-07-11",
-      "dateISO": "Sat, 11 Jul 2026 07:00:00 GMT",
-      "ts": 1783753200000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "“巴威”已重新增强为“强台风级”！苏州应急响应提升为Ⅲ级 - suzhou.gov.cn",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb09jY09WOHlCWU5PWkhlMy1EZmFiMVIxcms2UGtCQlBfbTBJd3A0THlOOHprR2lTNTFyT003UDYyUmJtdkR5NVpjTEdIMzNWLUMtYWZtUWx1cWxndVZOdjZjOXdOc0Z2ejNxR2p5ZHg1WExkaGNXaVFJb0Q5dWx4bG1YNUZiTGFudms4?oc=5",
-      "site": "suzhou.gov.cn",
-      "siteUrl": "http://www.suzhou.gov.cn"
     },
     {
       "id": "FL-def32ff8029f",
