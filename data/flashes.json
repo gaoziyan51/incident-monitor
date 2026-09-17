@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T18:57:09.927Z",
+  "updated": "2026-09-17T19:09:23.381Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -99,6 +99,18 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
+      "id": "FL-0726765e4baf",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 09:40:00 GMT",
+      "ts": 1789551600000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川茂县发生山体滑坡，国道受阻，应急处置已展开 - thepaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40dnJqT3RRa1lJZzNOVnE1cHR0dWxtUUZPVmpwSmV4SWl3OGh2S3NoRnhTMldmeTg5WndqcGdqZTdOQ1NYZHdTTHhGMjQ2R3N1eWdMSjl4OVotb29ZU0E?oc=5",
+      "site": "thepaper.cn",
+      "siteUrl": "https://m.thepaper.cn"
+    },
+    {
       "id": "FL-8eccef5d7805",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 09:12:00 GMT",
@@ -123,18 +135,6 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-24990cc10c38",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 08:55:35 GMT",
-      "ts": 1789548935000,
-      "scope": "intl",
-      "type": "collapse",
-      "title": "苏丹一金矿发生坍塌事故 造成至少60人死亡 - 中国日报网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wZFJCOXJPeEt4OHkxa2NzZW1HUmhsQ21VamUwbDNJRWNPeTZiTm1Sci1aR0h3T0o0eGgyUGVERl92VHNJWEJEdTNtN3JsYXhsNzNIV3dIeEZYLU9TZjRGUUQwWnB6SGN1S3FVNWMwUllXSUIxanFvQ09MUE4?oc=5",
-      "site": "中国日报网",
-      "siteUrl": "https://cn.chinadaily.com.cn"
-    },
-    {
       "id": "FL-a74bbf34ab98",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 07:32:41 GMT",
@@ -157,18 +157,18 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZcWRUM00xcGFjLWJ6UjU5MjlqM19VSjZDWjJDRXJINDBISmVBRzlKQzV6bmVneXRLX0NyZDdaUm0zMi00QldkQVBWdGJIM2JKSzFXNXNRbHpWS2lFcElaWlprcmw4S2R3a0tub1dqTnRjM2xRY0hMblZhbw?oc=5",
       "site": "中青在线",
       "siteUrl": "http://m.cyol.com",
-      "related": 12
+      "related": 11
     },
     {
-      "id": "FL-bd2f28ca6707",
+      "id": "FL-90b784652602",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 07:20:29 GMT",
       "ts": 1789543229000,
       "scope": "dom",
       "type": "other",
-      "title": "中央气象台：今天到明天，湖北、四川、贵州、云南、广西、广东等地有短时强降水 - sznews.com",
+      "title": "中央气象台：今天到明天，湖北、四川、贵州、云南、广西、广东等地有短时强降水 - 深圳新闻网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBod1FaY2xHa2JhOUs1bjU1RmRfc2wyYWp3V0J3cU5DdGlUWUdON2VtOWNnRkVxMFJMU0FScXd2d1FYcHBkTUx5Ym5PSGxsOXlGcklTN21TRkVGbmJER0dSSGh5dmpoaWZ3VHlzTFZMLUY1RlpBbUlKcQ?oc=5",
-      "site": "sznews.com",
+      "site": "深圳新闻网",
       "siteUrl": "http://www.sznews.com"
     },
     {
@@ -227,9 +227,9 @@
       "scope": "intl",
       "type": "geo",
       "title": "尼泊尔泥石流灾害已致1403人遇难 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CX1BCWlpfQWdzOUk4NER1dmF5Ym5MOE1jem9VWlBhYXZJSmJIRjJEMjAtNlEtUnZjcmpHSkZjOW1GVXJ3WU80Q1BGYVF3NDBGREMwWWVYZWEtY3Qxa3hMdFdBTWFINHBRekRFbWdXa2QzYjFFc0E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxSXBDLTAxcDN6MUhlbFRjOE9WY1dfaVpCLUpETDl0ZWl5YjlFdlp1MW14eGtuREJlU1ZuckpwTm52RzM5WlpKUFhnTGVkVDVvRmw5S2MtemJXMGtxY2F3dUNOS2FFZkc2?oc=5",
       "site": "央广网",
-      "siteUrl": "https://www.cnr.cn"
+      "siteUrl": "https://news.cnr.cn"
     },
     {
       "id": "FL-08cb7529b0aa",
@@ -410,7 +410,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX3l5cU94Y2Mzd0lKMnhZWEJjaXJib2JzS1FWdnQtQUJ2SDZKc2ZMNkY5UUxlbFZUSWFGSEltN2N1QlNiQW54NTVtdGd1dDMzVHlTUmZSZXRuX05TbnhkUU5va0JmNzhBNVRzTlhGMlAyUDhlMVdpQUZxZEF6RmEwOWUzaGRjMlVNT2o5NA?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com",
-      "related": 36
+      "related": 35
     },
     {
       "id": "FL-75503c1f8f8f",
