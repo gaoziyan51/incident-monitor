@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T21:35:48.088Z",
+  "updated": "2026-09-17T21:44:25.658Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -51,15 +51,15 @@
       "siteUrl": "http://www.xinhuanet.com"
     },
     {
-      "id": "FL-6c37d6eedf5e",
+      "id": "FL-c2a04813577b",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 17:06:14 GMT",
       "ts": 1789578374000,
       "scope": "dom",
       "type": "collapse",
-      "title": "加沙：建筑坍塌致至少20人死亡，搜救工作仍在继续 - news.un.org",
+      "title": "加沙：建筑坍塌致至少20人死亡，搜救工作仍在继续 - UN News",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wdnBqX2d2T1NSQ092SjlCdW1fbVZfak4ycERLSWtGb2VxT21FdXRQSkd5bVFiVkxvZlFlaDZralk5b2FyemR4RlptclBhbDhrR1ZILTc4Zw?oc=5",
-      "site": "news.un.org",
+      "site": "UN News",
       "siteUrl": "https://news.un.org"
     },
     {
@@ -256,28 +256,16 @@
       "siteUrl": "https://www.guancha.cn"
     },
     {
-      "id": "FL-bf6b71b6639f",
+      "id": "FL-4f2d4c5e06a8",
       "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 21:06:39 GMT",
-      "ts": 1789679199000,
+      "dateISO": "Thu, 17 Sep 2026 15:28:00 GMT",
+      "ts": 1789658880000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害中被困11天获救，陆海涛今天回到河南，儿子前来迎接，父子紧紧相拥，“见到儿子就什么事都没有了” - 新浪财经_金融信息服务商",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMEtQa2U2VDlRRGpMWlVFc0ozTnVXY2M2YXVfTnF3MTZDS09tM3NTQVlSd01QaW9hRzFYMDZWQndPcUJUc2xmcU9oRWR4YkxucDNRMVRuNExENlJxeFR0a09PYTBzOHUtZFFzdzExSzhvWEgwMW9mX2hlLVdFcEc5czJkRzMxZW1qMTEtTURrb1U1QTNJeEhocW9wcjlFVW5PYm9JNFpzTnR1cWFuV1dmdTFTTVRhOTRfdUZoQnFMNklVZFBZOE5ZNEM4S1Z5TVJuVUhsbFE1Yw?oc=5",
-      "site": "新浪财经_金融信息服务商",
-      "siteUrl": "http://finance.sina.cn"
-    },
-    {
-      "id": "FL-9dfae008c070",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 17:35:00 GMT",
-      "ts": 1789666500000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1410人 失联6145人 - 中国网新闻中心",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaYkpJTDNCVENKajFEc185NmxRNWNnUlNkcWNXd1B5bEo1NGY1ZU5OSTY3XzhmTDVpNVhoXzlVazJuRHdKVkY3U002WEVrMDVKQlRLcUZNU1lGRGJMLUxPcUQwcEU0ZjJJeGJz?oc=5",
-      "site": "中国网新闻中心",
-      "siteUrl": "http://news.china.com.cn"
+      "title": "截至当地时间9月17日19时，尼泊尔泥石流造成的遇难人数升至1410人，失联人数为6145人 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX3kyQWlGVWZfZ1VGVWEyX1F1RFZYdzBrS2phNnc5amFIMEJFYzR3eGZ2UDdrbWZ6NjdwVUNhdEFnWFBpNG0tSjZhWEh1dlZ4YjQ3RkxDNWVkSHpiT0Z2MGZXcUthN2lpQ2F6YWV6N1ZPU3VGUS1IVm5oSXVmWnJNblRoVC1UT19BLWxSWA?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-002445e6c394",
@@ -288,18 +276,6 @@
       "type": "geo",
       "title": "福克斯群岛发生6.5级地震 震源深度100公里 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONTVZY2UtVUNtWDR4TG9qeTgxTlNjRFVlZHpyeXRtV0FPSndqU0pyM1RzQWtrZFotb0FkbVlRa19LWHByQndJaGpFRXlsNENLZ1RxcE9Za1VqRzdPY0lhVGpnUm9QRG8zZW1KdjFVbV84N2lPSU5XRlU3dXdac2pnRXZwMFgwV1ht?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-2904e805ef7d",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 15:07:28 GMT",
-      "ts": 1789657648000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "最新数据：尼泊尔泥石流灾害，遇难人数升至1410人，仍有6145人失联 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWkVoanJlUmk1VkFKT0N2UGJoM1NfZllFT3RDbEd2dlJabFk2V0NsVjNuTjhxeUk0N2N1NUgyOUl2aEt0UnRNNjB3SE1oMnNVcUhGVUZaUzhQTE82dG52SjIxR2RTbnlsaFRINElrd0RoWWQycVQtZGExUG03ZE16YWEzUTU5UUlGdGFYTg?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
@@ -352,6 +328,18 @@
       "siteUrl": "https://www.21jingji.com"
     },
     {
+      "id": "FL-bf6b71b6639f",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 14:33:57 GMT",
+      "ts": 1789655637000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害中被困11天获救，陆海涛今天回到河南，儿子前来迎接，父子紧紧相拥，“见到儿子就什么事都没有了” - 新浪财经_金融信息服务商",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQd3hoZ3dCQ2hncU9TUzBRbG96blN3emFCSzFjMkZJUHdvWlQ3MTlCSlZVTzhVU2FTOUlmbHB1clVxR1hEZFV0RUU0SjA0SmRpOTVOSUxkdzVEYWlVVDQyLTRzcG5yUTRFUmEyZktDT0d6LW9LQXlyTS0tcC02VVB3RE9iUTF1bjVYajdqYTRDUHNNaHdjM2RXZWRFMUxVNmJiWTJCOEhWSzJCQ0xZa08wSjZMZzA3aEFUcktGcUJqMUw0VXk4cVVqdlVjYVJsVzdsemdEd1A4aw?oc=5",
+      "site": "新浪财经_金融信息服务商",
+      "siteUrl": "http://finance.sina.cn"
+    },
+    {
       "id": "FL-3e04dbf8dbb3",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 14:19:00 GMT",
@@ -400,6 +388,18 @@
       "siteUrl": "https://www.jjxw.cn"
     },
     {
+      "id": "FL-3b94c728de6c",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 14:04:01 GMT",
+      "ts": 1789653841000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害遇难人数升至1410人 失联6145人 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVTB0WUhTdzItaG1WN2Myb2JVazVDdkNraE5ucXNuaDFCNGxQMjFtZXVuLWVPbDVqNjcxendqTkk2WTlidkRkTjVUeUpoS09MdjdoR0QzUkV0OWJYSkdha1ZOZTNYcnhfU0dycW9malg2WnplNEdHQUdjUGpfZFlndmhKSlpIWmZKek1JaQ?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-3678ebf44698",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 14:00:12 GMT",
@@ -434,7 +434,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX3l5cU94Y2Mzd0lKMnhZWEJjaXJib2JzS1FWdnQtQUJ2SDZKc2ZMNkY5UUxlbFZUSWFGSEltN2N1QlNiQW54NTVtdGd1dDMzVHlTUmZSZXRuX05TbnhkUU5va0JmNzhBNVRzTlhGMlAyUDhlMVdpQUZxZEF6RmEwOWUzaGRjMlVNT2o5NA?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com",
-      "related": 34
+      "related": 33
     },
     {
       "id": "FL-75503c1f8f8f",
