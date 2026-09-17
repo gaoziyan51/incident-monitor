@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-17T18:08:15.809Z",
+  "updated": "2026-09-17T18:26:11.111Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-42ba1d0df553",
+      "date": "2026-08-26",
+      "dateISO": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "ts": 1787727600000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "西藏土石流：接壤尼泊尔边境山洪暴发 上千人失踪包括多国游客 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CTG9yTTh6cnplOGJ1TG5PUzFQRkwtNjZTTzFLcEMwYzRWQlhzTVF2eGMyUFRzdWlKYldDSTVRcWNVd2RnbkJWU1prR2FMUVhKeVk4X0c4MVNnbUFCTjItZ0JiN0xvd9IBa0FVX3lxTE1PT1F4VHcyMnlBRE5SdUdLeERKN21TU1VXSkdqTTNnWnE1MTkxNi1Yb1ZqbWQtX2ZVdGwtMFhCZjZsVmgwTi1LNkdwYWtOZTE3dDlIVzNiT3cxOHV2dzdnZF9hY2cwV3dsSi1j?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
+    },
     {
       "id": "FL-01049f3dcf6b",
       "date": "2026-09-16",
@@ -73,6 +85,18 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WVHhqUXhCdVdlTGJfQ0pRdHl1bTliaHFZTnpHaExTYkVaM2RRdXBjMEQxTjFiOEljcTd3d3B1bWZhOXFnWWUtZmVINU00R05MZ0RRT0JoVjVyX1JuQUNNSnhjSEpwaXZK?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
+      "id": "FL-3ab2bf927467",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 12:55:39 GMT",
+      "ts": 1789563339000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "平陆运河与六蓝水库溃坝有关？ - rfi.fr",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWjRKaFNrd1JjaklqRGtvc2ZLSWdsX0FzNzJMTHZLeW9aM1lVQmx2eUZuOEVtdG93ZW5DQWZCUTZFSXFrRG9qRWJiSlhxalRoaVZ4SHJTa2dlZDl0cjJWMFFIVDVNWTJkRWM0N0NmRlZyTDQ2bDVWZE5kU0wzOVZGeUlIbUE4QlREbGdma1Z4bHJrMXkza1B1WWVzYkhUMTZabF9sdXlqLUE3UHk0VzZqNU55ZFBtYzFra2FlSTlGM0lZTWR3a184QzZkV1J0RG9rbVpxZWtPb3U3Wk1WTHlHQlB2MlBqNHJvc0U0aFdBcWZWc1U2Y0pOR0t0SQ?oc=5",
+      "site": "rfi.fr",
+      "siteUrl": "https://www.rfi.fr"
     },
     {
       "id": "FL-d0ee7003c366",
@@ -196,18 +220,6 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-674383638b4c",
-      "date": "2026-09-02",
-      "dateISO": "Wed, 02 Sep 2026 07:00:00 GMT",
-      "ts": 1788332400000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "尼泊尔—西藏泥石流：堰塞湖和冰湖是下一个“定时炸弹”？ - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfWmowNGIyc200QU1ESDVxbC1hdmdLWUlCQXNHazV6aVdvY1FYMGFySHFueG50UGc3Q2Z2ZUVXaWNtbUQtNlBMWkRDLU01T2R5blhnY2UtSUR5ZUdHaWt5YWszOFRFQdIBa0FVX3lxTE5ncUFxSTZyWVZGQ05yLWwtOGVLS01kb2lsNjY5cVNfU1VlN1hWSjFtUEx4eEpObTY3c3F5czNZeElUM01KaU5uVF9NQ2FDdGlMY29tbi16UFluSkVGSzFkNXJHZFFTOUU5eW80?oc=5",
-      "site": "BBC",
-      "siteUrl": "https://www.bbc.com"
-    },
-    {
       "id": "FL-ec0d2255786c",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 15:44:17 GMT",
@@ -244,27 +256,27 @@
       "siteUrl": "http://news.china.com.cn"
     },
     {
-      "id": "FL-5b26ececa740",
+      "id": "FL-002445e6c394",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 15:20:02 GMT",
       "ts": 1789658402000,
       "scope": "dom",
       "type": "geo",
-      "title": "福克斯群岛发生6.5级地震 震源深度100公里 - sohu.com",
+      "title": "福克斯群岛发生6.5级地震 震源深度100公里 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONTVZY2UtVUNtWDR4TG9qeTgxTlNjRFVlZHpyeXRtV0FPSndqU0pyM1RzQWtrZFotb0FkbVlRa19LWHByQndJaGpFRXlsNENLZ1RxcE9Za1VqRzdPY0lhVGpnUm9QRG8zZW1KdjFVbV84N2lPSU5XRlU3dXdac2pnRXZwMFgwV1ht?oc=5",
-      "site": "sohu.com",
+      "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-591b33799e58",
+      "id": "FL-2904e805ef7d",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 15:07:28 GMT",
       "ts": 1789657648000,
       "scope": "intl",
       "type": "geo",
-      "title": "最新数据：尼泊尔泥石流灾害，遇难人数升至1410人，仍有6145人失联 - sohu.com",
+      "title": "最新数据：尼泊尔泥石流灾害，遇难人数升至1410人，仍有6145人失联 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWkVoanJlUmk1VkFKT0N2UGJoM1NfZllFT3RDbEd2dlJabFk2V0NsVjNuTjhxeUk0N2N1NUgyOUl2aEt0UnRNNjB3SE1oMnNVcUhGVUZaUzhQTE82dG52SjIxR2RTbnlsaFRINElrd0RoWWQycVQtZGExUG03ZE16YWEzUTU5UUlGdGFYTg?oc=5",
-      "site": "sohu.com",
+      "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -278,6 +290,18 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9EM1NEOE9HVzhpVUNWemhzd0p0d19NajcwMDViNjBHWnFGSDRWUXNabE53bkNsLVpUdHAxZnlwWkVlZ3c5SVd1OGhHUE9WVmtJbnAyOW4xa1ZUYkJSWVJvWnpQY0o3eDF0Q29rWnE5YmJzVnoya3liTg?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
+    },
+    {
+      "id": "FL-187f03a041cf",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 14:45:00 GMT",
+      "ts": 1789656300000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "美国阿拉斯加尼科尔斯基地区发生6.3级地震 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQTB6VXN5ZFRteXZTc2xTNmFUMjIyV3VKN0NnZDRIcHZmQ05MbkRKMXFjT1hVR2lFNVVMWVdxMW9tYnA3X3JDU0RPOU5fdk9NSzZnV1hEZEpmLVhLYVdMUkFYdUJOckJVa0MxYV92UlNuN21iZXNFYTlTSzQwTlhEdFNwd2JQZkpl?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-2e836c754100",
@@ -340,39 +364,27 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-34e78a3d0a2a",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 13:38:45 GMT",
-      "ts": 1789652325000,
-      "scope": "dom",
-      "type": "collapse",
-      "title": "深圳一商铺发生坍塌事故，致一废品回收人员坠落身亡；事故调查报告公布：死者熊某涛违章作业，负有直接责任，鉴于已死亡，免追其责 - sohu.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYXRUWWdNenhrdWlWMTVqWV9ZLWFiWFZvS1lSVkZ3SlFpWUVONlI4NGllZXkwTThhTmEtVGV4R05xYkdUUTlvektNTkExSTBQTTk2dHVvcXc4dFRmN1VISVAxLWFZWGV1cUR3aWVQSl9RbFZEVGlCNms4MTVTMTR1RmRDYU1jdHJ3elJHUQ?oc=5",
-      "site": "sohu.com",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-5feaeee5d9fe",
+      "id": "FL-53d49f159d67",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 13:23:33 GMT",
       "ts": 1789651413000,
       "scope": "dom",
       "type": "geo",
-      "title": "茂县山体滑坡最新消息：提前转移161人受通报表扬 正科学开展排险 - sohu.com",
+      "title": "茂县山体滑坡最新消息：提前转移161人受通报表扬 正科学开展排险 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbFpWUjF3ZHpFQ05WemtKQ2R5WkFqYi1zZ2k0bHJoOVJUdVVFZi0yc2RNcEszUXZXdUY4TlQzSGY0OW5hQjhFdS1ydUc0NVQ3YjRKWWJKazc4a2ctTTA2dmVrcmlnamFNcHdvRDQxUmxFdHMwUXJkbldudzRFM1NRdEVrZ3hmVDhWUEUwOA?oc=5",
-      "site": "sohu.com",
+      "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-9c1df54d1639",
+      "id": "FL-4168ae7615e6",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 13:16:00 GMT",
       "ts": 1789650960000,
       "scope": "dom",
       "type": "geo",
-      "title": "东骧神骏万泰小区：山体滑坡封路近一个月后开始动工保通 - sohu.com",
+      "title": "东骧神骏万泰小区：山体滑坡封路近一个月后开始动工保通 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOUxSd3NsV2t3U2dyN1M1dGx5SWlldjVaLVU1aTd2SFAzRUxFRDMtdWZXZGZxQm9zNUlWUEdjZU1YaXNXaC1kYXU2c0c0d3RsUlctWFhBbkt3UVFOWHNQR1dWYmxGcFJZQzZDaHdpOUFobGdYYUszYnJ1XzZrdVlINDJlZVU4Q2cwTUs4dg?oc=5",
-      "site": "sohu.com",
+      "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -382,23 +394,11 @@
       "ts": 1789650051000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏吉隆县泥石流救援，我是亲历者！ - sohu.com",
+      "title": "西藏吉隆县泥石流救援，我是亲历者！ - Sohu",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX3l5cU94Y2Mzd0lKMnhZWEJjaXJib2JzS1FWdnQtQUJ2SDZKc2ZMNkY5UUxlbFZUSWFGSEltN2N1QlNiQW54NTVtdGd1dDMzVHlTUmZSZXRuX05TbnhkUU5va0JmNzhBNVRzTlhGMlAyUDhlMVdpQUZxZEF6RmEwOWUzaGRjMlVNT2o5NA?oc=5",
-      "site": "sohu.com",
+      "site": "Sohu",
       "siteUrl": "https://m.sohu.com",
-      "related": 36
-    },
-    {
-      "id": "FL-0129aef0d9d1",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 12:55:00 GMT",
-      "ts": 1789649700000,
-      "scope": "intl",
-      "type": "collapse",
-      "title": "苏丹发生金矿坍塌事故，至少82人死亡多人失踪 - sohu.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVk1uQ1Mxb0Z4N3ZZcW13a19yNlJKejNISTFPcWRqcDQ3RkY5eHNFSmR1aTczdktXaG44RFVvMTdoNlQwVDJ3VkhySjhPN1ZIaGgwNi1EM2U5aC0tczZVQ3Z2SzNTVVdNRU11cXN0MGJGQ2FNNXlYU2ttaXhzamdpWnBxSjl6NDk3?oc=5",
-      "site": "sohu.com",
-      "siteUrl": "https://m.sohu.com"
+      "related": 35
     },
     {
       "id": "FL-75503c1f8f8f",
@@ -413,15 +413,15 @@
       "siteUrl": "https://www.thepaper.cn"
     },
     {
-      "id": "FL-efbeaa16c1df",
+      "id": "FL-dd8782f6afb9",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 12:43:40 GMT",
       "ts": 1789649020000,
       "scope": "intl",
       "type": "geo",
-      "title": "国际研究机构：尼泊尔泥石流灾害并非由单一极端天气事件引发，而是由气候变暖、冰川退缩、冻土融化及地质不稳定性共同促成的“复合事件” - sohu.com",
+      "title": "国际研究机构：尼泊尔泥石流灾害并非由单一极端天气事件引发，而是由气候变暖、冰川退缩、冻土融化及地质不稳定性共同促成的“复合事件” - Sohu",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVThzMjNKcG9HTS00M0pJd0ZRQ3Z6X2NqUXEtcGxvOTRUcVJ2cmpQZFhUUUV0Zm1aQWc2YTdVQy1Ha29HbVpaWVZScGlPYW4xcUtUR00xVjBUZlllWFRCVEZOYTA2MHFxWmthRkp2VTBaM0I1SVRKazEwR3FzRGZWTFcwZzE1M3BYb0JxUA?oc=5",
-      "site": "sohu.com",
+      "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -437,15 +437,15 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-918e8ae6a893",
+      "id": "FL-38dcdb37720e",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 10:52:16 GMT",
       "ts": 1789642336000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流被困11天获救，河南木工陆海涛平安回家 - sohu.com",
+      "title": "尼泊尔泥石流被困11天获救，河南木工陆海涛平安回家 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLVh5RU0wYUdpLXJzR1l2OXl4dVdUSHAtNEI2YW03MDlEVGRPTW02R1RCeHIzVVZMN3RObHVtT0l3dzREV2hzb3lpS1llUXF1ZGxobmF5Y1FmRGExN2pUTkdVMzRicEZpYVJjdkRlbkw1UDhEZ3BHMVJaNk80TFdiSVN4VlI1eUpB?oc=5",
-      "site": "sohu.com",
+      "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -497,27 +497,27 @@
       "siteUrl": "https://news.ifeng.com"
     },
     {
-      "id": "FL-97c22427f19a",
+      "id": "FL-4a87cf95e2b4",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 08:21:57 GMT",
       "ts": 1789633317000,
       "scope": "dom",
       "type": "geo",
-      "title": "棕榈油“跳水” 豆菜油“滑坡” - 导油网",
+      "title": "棕榈油“跳水” 豆菜油“滑坡” - oilcn.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNM3FfSDZHOTMtbDkxNjNrc0JxSVRfVVE3LXRQWFdpWGdaN1RoMTVqUTJmNHhHbThMOWplWVdrM0xHa0VSZjE3M3hNSHBWYUE3UXZfWTJxYm9qYXlXZkVJcV9GLVVpN2Rnd1NaakpPMDRSNFh1amttdDJWZXB1LWV1emNFUQ?oc=5",
-      "site": "导油网",
+      "site": "oilcn.com",
       "siteUrl": "https://www.oilcn.com"
     },
     {
-      "id": "FL-ad71a9ce256f",
+      "id": "FL-09b514693f29",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 07:07:47 GMT",
       "ts": 1789628867000,
       "scope": "dom",
       "type": "other",
-      "title": "（外代一线）加沙城一战损建筑倒塌致至少20人死亡 - sohu.com",
+      "title": "（外代一线）加沙城一战损建筑倒塌致至少20人死亡 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTlZrX25ZcE5JSGUwckJ2X0w0WVBWVndsX0t5RFBrR2N1ektrZWl6ajFGb3VPMTZ5aHB5RUF5WDZST205VjNfR1g2eUxWd01DLUpkZl83MGpLVmpiQmZ0azFyVWZCNThXZEdiV3hSMXRRMnBCcDhMRlNxa2JIUC1MNGZfdDFxejRw?oc=5",
-      "site": "sohu.com",
+      "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -593,15 +593,15 @@
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
-      "id": "FL-abbedfc85033",
+      "id": "FL-4a6eb3a82bfd",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 03:58:29 GMT",
       "ts": 1789617509000,
       "scope": "intl",
       "type": "geo",
-      "title": "最新公布：尼泊尔泥石流已致1403人遇难，失联人数增至6150人 - sohu.com",
+      "title": "最新公布：尼泊尔泥石流已致1403人遇难，失联人数增至6150人 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcnlEdkoyMERIc1JHUWtFQ1ZlYWhiT2pJRHBIdUZKUjBkQWV6VkFabVpZaW9md0lUM0lmNElsdlAyVTNSSlliSHZtdkRBQzlVV3FnSTdrd2J4ZHZRNEdaUk9vX214VjFMN1BUYWhGTnJFS0lYM1paU0gtOTRmNWpOSHJWUFdERjVj?oc=5",
-      "site": "sohu.com",
+      "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
     {
