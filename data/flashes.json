@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T15:22:48.141Z",
+  "updated": "2026-09-17T15:38:11.076Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -99,18 +99,6 @@
       "siteUrl": "http://www.china.com.cn"
     },
     {
-      "id": "FL-3b369a35039f",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 09:01:01 GMT",
-      "ts": 1789549261000,
-      "scope": "dom",
-      "type": "other",
-      "title": "加沙城一建筑倒塌已致14人死亡 百余人失踪 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CQjhqMTMySHlkV2k4UjExclpBbUFMSzVjcjI5M3c0YXFJVkNXTHhscGFoYlJxOXJZeVFseG1kR3JvY1ZPdlB5cXZxWVdmZkpLVmRaQ3FNV3dWdUpMTVdYc0hTU2l2aXNE?oc=5",
-      "site": "央广网",
-      "siteUrl": "https://news.cnr.cn"
-    },
-    {
       "id": "FL-a74bbf34ab98",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 07:32:41 GMT",
@@ -184,18 +172,6 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-674383638b4c",
-      "date": "2026-09-02",
-      "dateISO": "Wed, 02 Sep 2026 07:00:00 GMT",
-      "ts": 1788332400000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "尼泊尔—西藏泥石流：堰塞湖和冰湖是下一个“定时炸弹”？ - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfWmowNGIyc200QU1ESDVxbC1hdmdLWUlCQXNHazV6aVdvY1FYMGFySHFueG50UGc3Q2Z2ZUVXaWNtbUQtNlBMWkRDLU01T2R5blhnY2UtSUR5ZUdHaWt5YWszOFRFQdIBa0FVX3lxTE5ncUFxSTZyWVZGQ05yLWwtOGVLS01kb2lsNjY5cVNfU1VlN1hWSjFtUEx4eEpObTY3c3F5czNZeElUM01KaU5uVF9NQ2FDdGlMY29tbi16UFluSkVGSzFkNXJHZFFTOUU5eW80?oc=5",
-      "site": "BBC",
-      "siteUrl": "https://www.bbc.com"
-    },
-    {
       "id": "FL-ec0d2255786c",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 15:44:17 GMT",
@@ -208,16 +184,16 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-08cb7529b0aa",
-      "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 03:04:00 GMT",
-      "ts": 1789441440000,
-      "scope": "intl",
+      "id": "FL-002445e6c394",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 15:17:03 GMT",
+      "ts": 1789658223000,
+      "scope": "dom",
       "type": "geo",
-      "title": "日本核电站地震震动评估被证实造假 - 观察者网",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yOHY0OGw4aHZaMmZmLTItWEx1azZJR2Z3WFBvZDNNeGVMQjA1VVlsVVpfV183VnhQM0JpckNtSlVHclg4Mzhkam5ZTkszblJ6aGlramM2SlVkaUN2ZVhCUGNGcENqM1kwb0dhNzhrTzEwYlk?oc=5",
-      "site": "观察者网",
-      "siteUrl": "https://www.guancha.cn"
+      "title": "福克斯群岛发生6.5级地震 震源深度100公里 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNazlKR2lqVFhZZmd4YkRmV0k5Tkh2NUVHR2lJSExjWWhJbUdqTk81ZWx5dUsxeG95VmJfaFNzbmk3SmlfRDExaEVmd09lb3B0cHgyMmFFTGRMc191Q0kzdENFbmhmMldqQmxzd3RocXFEV3g4ZldFVWhIdUpWdlBTazVHYjAwWEQwS0M5ag?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-2904e805ef7d",
@@ -254,6 +230,18 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQTB6VXN5ZFRteXZTc2xTNmFUMjIyV3VKN0NnZDRIcHZmQ05MbkRKMXFjT1hVR2lFNVVMWVdxMW9tYnA3X3JDU0RPOU5fdk9NSzZnV1hEZEpmLVhLYVdMUkFYdUJOckJVa0MxYV92UlNuN21iZXNFYTlTSzQwTlhEdFNwd2JQZkpl?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-2e836c754100",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 14:40:00 GMT",
+      "ts": 1789656000000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害遇难人数升至1410人，失联6145人 - thepaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45c1NEckYtcC10QTdibkhwS2ZldjhZLTJXVTBhV0locjdGc3dmSGtjS0NpMUYyWWhmSXJ6WUkyUjlsLW1xalFGX1Jfb1FCa21TY2Mzbnppa3RXdC1Ramc?oc=5",
+      "site": "thepaper.cn",
+      "siteUrl": "https://m.thepaper.cn"
     },
     {
       "id": "FL-4f2d4c5e06a8",
@@ -316,6 +304,18 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
+      "id": "FL-cfb3e287aaa3",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 13:38:45 GMT",
+      "ts": 1789652325000,
+      "scope": "dom",
+      "type": "collapse",
+      "title": "深圳一商铺发生坍塌事故，致一废品回收人员坠落身亡；事故调查报告公布：死者熊某涛违章作业，负有直接责任，鉴于已死亡，免追其责 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYXRUWWdNenhrdWlWMTVqWV9ZLWFiWFZvS1lSVkZ3SlFpWUVONlI4NGllZXkwTThhTmEtVGV4R05xYkdUUTlvektNTkExSTBQTTk2dHVvcXc4dFRmN1VISVAxLWFZWGV1cUR3aWVQSl9RbFZEVGlCNms4MTVTMTR1RmRDYU1jdHJ3elJHUQ?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-53d49f159d67",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 13:23:33 GMT",
@@ -350,7 +350,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX3l5cU94Y2Mzd0lKMnhZWEJjaXJib2JzS1FWdnQtQUJ2SDZKc2ZMNkY5UUxlbFZUSWFGSEltN2N1QlNiQW54NTVtdGd1dDMzVHlTUmZSZXRuX05TbnhkUU5va0JmNzhBNVRzTlhGMlAyUDhlMVdpQUZxZEF6RmEwOWUzaGRjMlVNT2o5NA?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com",
-      "related": 35
+      "related": 34
     },
     {
       "id": "FL-085253f0e9c9",
