@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T00:29:41.014Z",
+  "updated": "2026-09-17T00:48:07.054Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -85,6 +85,18 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6dGlnaUE0WXdVZXZIbEdMNzkzaHZCamRld2d6ckM1bUFyQzlicDQxR0hhUXJ2WWpIb2Jlb2RUVjZhckxPNnRkNmw0eWUxRVEtMGc?oc=5",
       "site": "Sohu",
       "siteUrl": "https://www.sohu.com"
+    },
+    {
+      "id": "FL-a908d4b97322",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 21:47:33 GMT",
+      "ts": 1789595253000,
+      "scope": "dom",
+      "type": "other",
+      "title": "加沙城一战损建筑倒塌致至少20人死亡(4) - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBKMzVsdHdMVWJ1aUdja0FYZG9tRlRjRTd6T0g2RFNEUkd2VVhZWlF0WEpNNE1FSXVvSzV1TVpneXlweHpRZWRyag?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://i.ifeng.com"
     },
     {
       "id": "FL-1a8d741d87de",
@@ -205,7 +217,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWGVFUV8wSmNuNWtpcW9HYWNjRDFHVXNpTkxaY3JrczdzV28xWmVIeUZyYXY1VmkzX0JTUDJGQmpyNEFfdFFhbEFJbkZSTExNR2xOdmFsdzVvREZGWmdBcGpNbmZtODRBWlp1Q29lVGpLckgxWkhtQjFuS0EyaGVZclJaRzdBZ29IRGRBbQ?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com",
-      "related": 40
+      "related": 39
     },
     {
       "id": "FL-a704a45dea9a",
@@ -382,11 +394,11 @@
       "ts": 1789543680000,
       "scope": "dom",
       "type": "fire",
-      "title": "青岛一艘外籍货轮发生火灾 - 中青在线",
+      "title": "青岛一艘外籍货轮发生火灾 - cyol.com",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZcWRUM00xcGFjLWJ6UjU5MjlqM19VSjZDWjJDRXJINDBISmVBRzlKQzV6bmVneXRLX0NyZDdaUm0zMi00QldkQVBWdGJIM2JKSzFXNXNRbHpWS2lFcElaWlprcmw4S2R3a0tub1dqTnRjM2xRY0hMblZhbw?oc=5",
-      "site": "中青在线",
+      "site": "cyol.com",
       "siteUrl": "http://m.cyol.com",
-      "related": 19
+      "related": 17
     },
     {
       "id": "FL-d91404203dae",
@@ -492,9 +504,9 @@
       "scope": "intl",
       "type": "geo",
       "title": "尼泊尔泥石流灾害已致1403人遇难 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CX1BCWlpfQWdzOUk4NER1dmF5Ym5MOE1jem9VWlBhYXZJSmJIRjJEMjAtNlEtUnZjcmpHSkZjOW1GVXJ3WU80Q1BGYVF3NDBGREMwWWVYZWEtY3Qxa3hMdFdBTWFINHBRekRFbWdXa2QzYjFFc0E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxSXBDLTAxcDN6MUhlbFRjOE9WY1dfaVpCLUpETDl0ZWl5YjlFdlp1MW14eGtuREJlU1ZuckpwTm52RzM5WlpKUFhnTGVkVDVvRmw5S2MtemJXMGtxY2F3dUNOS2FFZkc2?oc=5",
       "site": "央广网",
-      "siteUrl": "https://www.cnr.cn"
+      "siteUrl": "https://news.cnr.cn"
     },
     {
       "id": "FL-26b71d7e9a07",
@@ -629,6 +641,18 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
+      "id": "FL-91bdb2ea9dee",
+      "date": "2026-08-23",
+      "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
+      "ts": 1787468400000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "日本茨城县地震致37人受伤 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fZ3lxTFI5WEl3Qjlvb2l4cU5CT1hZdkt1emRwLW1oc0RfcDlvbW90SEJkWnp5QUJCUEdmUzRpVHBlQ0ZCUFlzQVpRbzlOZUhSY1ZucFhuWWE2QUQ4WlR6OVQwakhOaXRVU1djd3JFallBbXl6RlJvSElnUm9BZ2c?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
       "id": "FL-40d60e09c577",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 15:04:00 GMT",
@@ -689,18 +713,6 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-d3d0efae420a",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 04:22:56 GMT",
-      "ts": 1789359776000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "海南五指山：暴雨致车辆积水被困 消防紧急营救3人 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1iY3VBeFFKbnJ3cHZ2ZmIyaEFCUmdvOFRSaWFVZERhYnhnMkl3aEhrck5na3ZHYzRCWFd1bnhGVF9WZTZPTHhPRVppTUx3N3hiUDFIcnlrdGJTN2ltaV95SE9BaUVvTVdwUktR?oc=5",
-      "site": "央广网",
-      "siteUrl": "https://www.cnr.cn"
-    },
-    {
       "id": "FL-e8a32a183e42",
       "date": "2026-08-28",
       "dateISO": "Fri, 28 Aug 2026 07:00:00 GMT",
@@ -711,18 +723,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SMU9aYk1ieDUtRUYxczloUTVubHBZc2VCWlBtbGlLNmRWdXFGZ2xvUWhfSHZqVS0wYndtZzhUZGZDZlBiQlU0WDV2NUh5bkE1M1VtZURfZWRMaTR4SU4waWJHYXdFd9IBa0FVX3lxTFA3TVBheHVtYmo2X1ppZlgzNnhYZnc3eU9MOUVybUZlUGh0QXMwTklhWXktUm9Bcnh1dVdGcUZvZlVrWGQxTlNKX2xxVV9PRzBRSmR3QWdURDRZVEhja0loSWxWN2RtRmJxR1Y4?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-201b9eb01da3",
-      "date": "2026-09-11",
-      "dateISO": "Fri, 11 Sep 2026 16:51:00 GMT",
-      "ts": 1789145460000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "网传乐山锦江山太白亭山体滑坡？不实！ - 封面新闻",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSalFZSS1SN0Z3enJkVEpBRmdqOUlXb0o5bHQzbjllSDc5YThTVDJmQVcyYWIta19HU0t1QWFyQWFiN1V2N2hoMnZrWGk3QzU0OVpZMWl6Qkt1d29EVHNRY1VpbkJPSDVjdi1Ca19ZV3ZMbHhxbDhF?oc=5",
-      "site": "封面新闻",
-      "siteUrl": "https://m.thecover.cn"
     }
   ]
 }
