@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T10:51:03.388Z",
+  "updated": "2026-09-17T11:06:41.648Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -51,18 +51,6 @@
       "siteUrl": "http://www.xinhuanet.com"
     },
     {
-      "id": "FL-8e67d037623b",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 18:28:16 GMT",
-      "ts": 1789583296000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川茂县突发山体滑坡，提前管控未造成人员伤亡 - finance.sina.cn",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcmxhUjJxN2k1bmdsLW1YZUs1VVlMeE55N0FMU2NfSmVabWJhN3ZlZmt2N21lOURIYmtmM0ZzZFBkNDVkQmNmbjllcnlXcTVjSWh6N1JlTHFDTkVzaFBlZ0o4SW9OdGlkNmFYVHJrblNNeW1EWnRrSDBLSXlQN3ozV25MbjhmMC1Yb1lidk5ha3B4bi03bFd4Rw?oc=5",
-      "site": "finance.sina.cn",
-      "siteUrl": "https://finance.sina.cn"
-    },
-    {
       "id": "FL-c2a04813577b",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 17:06:14 GMT",
@@ -97,6 +85,18 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WVHhqUXhCdVdlTGJfQ0pRdHl1bTliaHFZTnpHaExTYkVaM2RRdXBjMEQxTjFiOEljcTd3d3B1bWZhOXFnWWUtZmVINU00R05MZ0RRT0JoVjVyX1JuQUNNSnhjSEpwaXZK?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
+      "id": "FL-6b6aed7ef41b",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 15:18:39 GMT",
+      "ts": 1789571919000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害已致1409人遇难 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yV09rVm5pZVUzS3Q5cFZsX3VPVllaNTFKSjhRSlpMeTdJVTFFSWc2czJUcWJ6cmZWbmhaTDBzUzlPcVpZRjhGS21FV2FHWHA0clVyUVBpYjhxVE8yTkE?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn"
     },
     {
       "id": "FL-657bacb10816",
@@ -281,15 +281,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-d015bcadd21a",
+      "id": "FL-f1f82737b1d7",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 22:13:00 GMT",
       "ts": 1789510380000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1403人遇难 - 中国网新闻中心",
+      "title": "尼泊尔泥石流灾害已致1403人遇难 - news.china.com.cn",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBySGExLXVMdmFfZGREZUM1d01XRE1nZUxXNHNnU0U0SzROaUFfelVpTWZTNnB3QW56WEFCZktZTWRMQ1ZtNFNrZjZ0ZTV1TFdINTRSdW5CTlpfbWFXMWVxQmVvYWVBbGVpMExB?oc=5",
-      "site": "中国网新闻中心",
+      "site": "news.china.com.cn",
       "siteUrl": "http://news.china.com.cn"
     },
     {
@@ -305,15 +305,15 @@
       "siteUrl": "https://www.cnr.cn"
     },
     {
-      "id": "FL-08cb7529b0aa",
+      "id": "FL-facc0729194c",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 03:04:00 GMT",
       "ts": 1789441440000,
       "scope": "intl",
       "type": "geo",
-      "title": "日本核电站地震震动评估被证实造假 - 观察者网",
+      "title": "日本核电站地震震动评估被证实造假 - guancha.cn",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yOHY0OGw4aHZaMmZmLTItWEx1azZJR2Z3WFBvZDNNeGVMQjA1VVlsVVpfV183VnhQM0JpckNtSlVHclg4Mzhkam5ZTkszblJ6aGlramM2SlVkaUN2ZVhCUGNGcENqM1kwb0dhNzhrTzEwYlk?oc=5",
-      "site": "观察者网",
+      "site": "guancha.cn",
       "siteUrl": "https://www.guancha.cn"
     },
     {
@@ -327,6 +327,18 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JekJsM0phMDJvZWQtN2pXT1hENlRWSjI3UjRIdWQ4TERDQi1jbjVfM2d1SmJyU1JFeE10Sl9ybXM3VGRsVHJucnBBZmdRVmtfZmxXVVNMS2NEeE4zQ2Q1S3YxeTN1SDI2?oc=5",
       "site": "news.cnr.cn",
       "siteUrl": "https://news.cnr.cn"
+    },
+    {
+      "id": "FL-38dcdb37720e",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 10:52:16 GMT",
+      "ts": 1789642336000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流被困11天获救，河南木工陆海涛平安回家 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLVh5RU0wYUdpLXJzR1l2OXl4dVdUSHAtNEI2YW03MDlEVGRPTW02R1RCeHIzVVZMN3RObHVtT0l3dzREV2hzb3lpS1llUXF1ZGxobmF5Y1FmRGExN2pUTkdVMzRicEZpYVJjdkRlbkw1UDhEZ3BHMVJaNk80TFdiSVN4VlI1eUpB?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-a68cda7355e4",
@@ -421,18 +433,6 @@
       "type": "geo",
       "title": "尼泊尔泥石流被困11天获救工人回家，老家村民发声：他父母离世，今年第一次出国打工 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQll2a01NSTVFSjhRdnRUeEZYcnFYQ3AwVjY4MnNkT3dDRTZFX0xVY0RQcHI0YmFmLUhHNVVRWFc5TFF0TzJkRHB4UjBVYnRFRUZjM2doVkR6eG5mcDhYZnpVX0NrSVQ1bDFMQUptMG1sMmM2V2pMeHNEcVpsWWc2cDZ4b1d1U2pOdlJ5Mg?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-c4152dca493c",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 07:43:57 GMT",
-      "ts": 1789631037000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "20%湿滑坡道地步无压力，雨天试驾2027款埃安i60 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeV9qdGd2Z2xpWks5eTBmcTFTb1NqUG5KREZDcThXYXJGTHFsNWlfek1Gdk02QlBGdF9xZHgyeFF2S1NxUzItZTN0Umhjb2gxeXBvR2tfVEdXM0ZTYUdXOTlfQ0R1Vi1pREFFNDhkcVNLamE0RTExTXhnNTF3UTlUT0NPdWxHa0xqRzgzNA?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
