@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T01:56:31.476Z",
+  "updated": "2026-09-17T02:09:11.331Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -49,30 +49,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02cjFSV1R3bENYWlVqR0xiRlI1aVZkVHZFdTQ2RUx6cmxkclZiRmkxLTZIT3M1MFdvWXgzamQ0aHFtX1NaR1dTWkw0azREZWVvcEphSkFpMU9ISU9xWXh3Sg?oc=5",
       "site": "thepaper.cn",
       "siteUrl": "https://www.thepaper.cn"
-    },
-    {
-      "id": "FL-5330c4c493e6",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 23:30:00 GMT",
-      "ts": 1789601400000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "截至当地时间9月16日20时，尼泊尔泥石流灾害造成的遇难人数升至1409人 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON2NXaENUUU82UTQ4NVI0aFBBWFZ0ZUtycXZOYzNLTVVlOTJOU0FOSmRnb29kWW5KMFNTNUZEbl9rUWllUmMxSE10OFNXUjljZ0Vad3ZzOVIzQVVxNHJaekF6SmNybG94QzdXX3puQjVvbFJvYkF5SkpvOHhUWElNWFc3ZzctQmJT?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-66fc5ee492e2",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 22:48:34 GMT",
-      "ts": 1789598914000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "日本茨城县发生4.8级地震 - 8world",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tSUZYWG1hUS00YV9xQ1djUF9NeTFneUV1RWxBZXplOGZPWVFydGt1eUJQWmI3S0VQX1EtLUR1TzFmTWkwSFNyQ1l6SGNqOWQzWXd2WUVRcmtZY0ZWSmFpU2pOdWN3c1lhZEQ4QVRn?oc=5",
-      "site": "8world",
-      "siteUrl": "https://www.8world.com"
     },
     {
       "id": "FL-d67135609b70",
@@ -221,14 +197,14 @@
     {
       "id": "FL-EV-f283a898090a",
       "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 13:01:40 GMT",
-      "ts": 1789563700000,
+      "dateISO": "Wed, 16 Sep 2026 12:58:00 GMT",
+      "ts": 1789563480000,
       "scope": "dom",
       "type": "geo",
-      "title": "海内外多方发来慰问信深切关怀吉隆泥石流受灾群众 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWGVFUV8wSmNuNWtpcW9HYWNjRDFHVXNpTkxaY3JrczdzV28xWmVIeUZyYXY1VmkzX0JTUDJGQmpyNEFfdFFhbEFJbkZSTExNR2xOdmFsdzVvREZGWmdBcGpNbmZtODRBWlp1Q29lVGpLckgxWkhtQjFuS0EyaGVZclJaRzdBZ29IRGRBbQ?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com",
+      "title": "海内外多方发来慰问信深切关怀吉隆泥石流受灾群众 - xzxw.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41OEIxNUxYSG1rSm16Nk9yUFdyTFlua2Jxak5MSUEwVk4zT3diUDlQRG15R0FZaFNJTTBjUE4wWDBtQkxHV1MtbU1VUUNsNkhwWFhXaDZMLTBwbHc2WHJZbVRUQ0dyS3VxWnE0eg?oc=5",
+      "site": "xzxw.com",
+      "siteUrl": "https://www.xzxw.com",
       "related": 39
     },
     {
@@ -557,6 +533,18 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
+      "id": "FL-5c4830f6fcce",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 01:54:39 GMT",
+      "ts": 1789610079000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "山东移动济南分公司圆满完成济南都市圈地震应急综合演练通信保障 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY1dBdWIzeXhocVlFZkkySzJhM0p0SlcxTnJHT2tlbXMtNTF3Qm02X0ZqeFlETHNhWXlXMzd5d292Q25HazZVN3NwODRjNjNYZDNRdDdTT0NONmFmbzFXZEV3WVVPUzc2N21qTTlpMmR4SnBEYTVLR2JJbnhfNGhPVzhXSllESHlBRVN4SA?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-c16d13c32d99",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 01:11:32 GMT",
@@ -685,6 +673,18 @@
       "type": "geo",
       "title": "印尼亚齐特区发生山体滑坡 已致1死13伤 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mYmtPZ21ZUzhQZnBlQWM4M1M5ME5pV2lhSEtNRmFUUlNBdEZneTRTRzRrZzF1bGZMWTBIVkdtSGN0SERGMWNlTnNMeTdTY0tFRWFRSjFaVGlmME1sNko3VWRockVLVnNmV0Nkc0tmNURKR3hnZC0ySw?oc=5",
+      "site": "央视网",
+      "siteUrl": "https://news.cctv.com"
+    },
+    {
+      "id": "FL-89db2d234367",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 07:06:28 GMT",
+      "ts": 1789369588000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川阿坝州理县发生3.0级地震，震源深度8千米 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uaWVtYmVtZmRseEF4Tlh1WkVybVJoaFRId1I4aUo1aWhwNkhrU3hsSkZSRkRHNG5nOTJVc0JQRXkwdUcwR1RXX3J0N014U1otTElTaHZJQTNFNm1xQU8tcjVDOEo0SmpvdnN4WWZLbVRRSXlEQ19TMQ?oc=5",
       "site": "央视网",
       "siteUrl": "https://news.cctv.com"
     },
