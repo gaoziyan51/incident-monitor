@@ -1,19 +1,7 @@
 {
-  "updated": "2026-09-17T23:18:03.554Z",
+  "updated": "2026-09-17T23:27:58.609Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-243b1a22aad1",
-      "date": "2026-08-26",
-      "dateISO": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "ts": 1787727600000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "西藏土石流：接壤尼泊尔边境山洪暴发 上千人失踪包括多国游客 - bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CTG9yTTh6cnplOGJ1TG5PUzFQRkwtNjZTTzFLcEMwYzRWQlhzTVF2eGMyUFRzdWlKYldDSTVRcWNVd2RnbkJWU1prR2FMUVhKeVk4X0c4MVNnbUFCTjItZ0JiN0xvd9IBa0FVX3lxTE1PT1F4VHcyMnlBRE5SdUdLeERKN21TU1VXSkdqTTNnWnE1MTkxNi1Yb1ZqbWQtX2ZVdGwtMFhCZjZsVmgwTi1LNkdwYWtOZTE3dDlIVzNiT3cxOHV2dzdnZF9hY2cwV3dsSi1j?oc=5",
-      "site": "bbc.com",
-      "siteUrl": "https://www.bbc.com"
-    },
     {
       "id": "FL-96802cc1cff4",
       "date": "2026-09-16",
@@ -446,7 +434,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX3l5cU94Y2Mzd0lKMnhZWEJjaXJib2JzS1FWdnQtQUJ2SDZKc2ZMNkY5UUxlbFZUSWFGSEltN2N1QlNiQW54NTVtdGd1dDMzVHlTUmZSZXRuX05TbnhkUU5va0JmNzhBNVRzTlhGMlAyUDhlMVdpQUZxZEF6RmEwOWUzaGRjMlVNT2o5NA?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com",
-      "related": 33
+      "related": 34
     },
     {
       "id": "FL-75503c1f8f8f",
@@ -557,18 +545,6 @@
       "siteUrl": "https://mil.gmw.cn"
     },
     {
-      "id": "FL-3c31950bdab0",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 05:24:00 GMT",
-      "ts": 1789622640000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害中被困11天获救，河南木工陆海涛今日平安回到河南，儿子前来迎接，父子紧紧相拥 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13Z0hJVF93V1Ixc2VvNTdXOFd2OWNJYlVHc0gwN2tqT0cxblIzZm5xM2N6UGhyWDcxcXNsa20wQTB5VFpmZ01nVHk4NE5HMVc3WWtBaVVNWVB4dmc1ZlhvVzhlaTlDTEoxWF9xM29SdmEzak1PRy1pTQ?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
-    },
-    {
       "id": "FL-14ef82677a96",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 04:15:23 GMT",
@@ -603,6 +579,30 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBoRXRjcGVVcXVFTjY3N2NOanJsTGZ4S3J2MXJQZE1RYmVRZWxCSjd5ZzhObFdkQjZKbDdEY21oYWJnX1lQRXZIcEdqcUd6dw?oc=5",
       "site": "川观新闻",
       "siteUrl": "https://cbgc.scol.com.cn"
+    },
+    {
+      "id": "FL-4a6eb3a82bfd",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 03:58:29 GMT",
+      "ts": 1789617509000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "最新公布：尼泊尔泥石流已致1403人遇难，失联人数增至6150人 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcnlEdkoyMERIc1JHUWtFQ1ZlYWhiT2pJRHBIdUZKUjBkQWV6VkFabVpZaW9md0lUM0lmNElsdlAyVTNSSlliSHZtdkRBQzlVV3FnSTdrd2J4ZHZRNEdaUk9vX214VjFMN1BUYWhGTnJFS0lYM1paU0gtOTRmNWpOSHJWUFdERjVj?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-134470461f01",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 03:39:41 GMT",
+      "ts": 1789616381000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流已致1403人死亡 6150人失联 - 新浪新闻_手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4tV0ZKa29SUlpnMWtkNlJjZWliemFRcjIzSTlnczg5eFhwYnUwak4tVlUzZG9lSXp4YjNxT2RabkRDMGh5dExYdTdpcWJIazB2MVpFejl4RWl5UkZuZWpUeTJSMkFXclNrM3dlbkNJTk92czNr?oc=5",
+      "site": "新浪新闻_手机新浪网",
+      "siteUrl": "https://news.sina.cn"
     },
     {
       "id": "FL-834622dfda06",
