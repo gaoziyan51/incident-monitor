@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T14:38:54.236Z",
+  "updated": "2026-09-17T14:51:01.621Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -135,18 +135,6 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-24990cc10c38",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 08:55:35 GMT",
-      "ts": 1789548935000,
-      "scope": "intl",
-      "type": "collapse",
-      "title": "苏丹一金矿发生坍塌事故 造成至少60人死亡 - 中国日报网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wZFJCOXJPeEt4OHkxa2NzZW1HUmhsQ21VamUwbDNJRWNPeTZiTm1Sci1aR0h3T0o0eGgyUGVERl92VHNJWEJEdTNtN3JsYXhsNzNIV3dIeEZYLU9TZjRGUUQwWnB6SGN1S3FVNWMwUllXSUIxanFvQ09MUE4?oc=5",
-      "site": "中国日报网",
-      "siteUrl": "https://cn.chinadaily.com.cn"
-    },
-    {
       "id": "FL-a74bbf34ab98",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 07:32:41 GMT",
@@ -239,9 +227,21 @@
       "scope": "intl",
       "type": "geo",
       "title": "尼泊尔泥石流灾害已致1403人遇难 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CX1BCWlpfQWdzOUk4NER1dmF5Ym5MOE1jem9VWlBhYXZJSmJIRjJEMjAtNlEtUnZjcmpHSkZjOW1GVXJ3WU80Q1BGYVF3NDBGREMwWWVYZWEtY3Qxa3hMdFdBTWFINHBRekRFbWdXa2QzYjFFc0E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxSXBDLTAxcDN6MUhlbFRjOE9WY1dfaVpCLUpETDl0ZWl5YjlFdlp1MW14eGtuREJlU1ZuckpwTm52RzM5WlpKUFhnTGVkVDVvRmw5S2MtemJXMGtxY2F3dUNOS2FFZkc2?oc=5",
       "site": "央广网",
-      "siteUrl": "https://www.cnr.cn"
+      "siteUrl": "https://news.cnr.cn"
+    },
+    {
+      "id": "FL-2244178adc9f",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 15:16:00 GMT",
+      "ts": 1789485360000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害已致1403人遇难 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjMFhCQnBhSmVCT3A1cmxXSlljUnNXU3p6ZjlmUkk5akcwcGtoRXg1UnVMRWV0UW5zQTNGU09Fd0F2MUJ1MTQ4NkU5NUdqaHBzQnpPalYwLXFkaXpPRDVwZVNNUTlLWWQtcmVBcVdhZFNWQQ?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
       "id": "FL-08cb7529b0aa",
@@ -292,18 +292,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-8450433e65a8",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 13:58:30 GMT",
-      "ts": 1789653510000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1410人 失联6145人 - 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Ia3hFTDhHWjJKTk9xaE1IREtWUm4yYzFoTndpaUtKNDI4NDl0UEJteGRCZlQ1aER6Y3E3d2hzdkM2b3ZNS0I5WFZzaw?oc=5",
-      "site": "新浪网",
-      "siteUrl": "https://wap.cj.sina.cn"
-    },
-    {
       "id": "FL-53d49f159d67",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 13:23:33 GMT",
@@ -338,7 +326,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX3l5cU94Y2Mzd0lKMnhZWEJjaXJib2JzS1FWdnQtQUJ2SDZKc2ZMNkY5UUxlbFZUSWFGSEltN2N1QlNiQW54NTVtdGd1dDMzVHlTUmZSZXRuX05TbnhkUU5va0JmNzhBNVRzTlhGMlAyUDhlMVdpQUZxZEF6RmEwOWUzaGRjMlVNT2o5NA?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com",
-      "related": 33
+      "related": 35
     },
     {
       "id": "FL-085253f0e9c9",
@@ -389,28 +377,16 @@
       "siteUrl": "https://news.china.com"
     },
     {
-      "id": "FL-585a7b446fba",
+      "id": "FL-14a35f1c3be4",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 11:37:48 GMT",
       "ts": 1789645068000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川茂县：滑坡残留体仍存在安全隐患 - 新浪网",
+      "title": "四川茂县：滑坡残留体仍存在安全隐患 - 新浪财经_金融信息服务商",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdmtZM3gxVGRQckQwVjdDTUdOV1BrM2tVcTZQeERlLUEwUlVzMWFWdU9SODRNdmduN25ibW0ta0RYQWZod01NNVlEaEd0U2FOY1pjQU0xdHlndHNhbWsyX182UEpWS2tzaWJHSW8zVkNOQTBnODY5UzZvWnNrc29RTWtvNkhEY1VsZFN5U0Q5TVN0UkMtNjNvZg?oc=5",
-      "site": "新浪网",
+      "site": "新浪财经_金融信息服务商",
       "siteUrl": "https://finance.sina.cn"
-    },
-    {
-      "id": "FL-8841bc672202",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 11:01:30 GMT",
-      "ts": 1789642890000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "在尼泊尔泥石流中被困11天，获救工人中秋节前回到河南 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhcnEzb0x5LXE0MExhejF2NTQzWkRXQ3RteWtWU3lvVmZuTkdWdThBUjk4QjVZTVgzc3hyMzJLaTAzd2hYLVl6UlNXc1A?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://news.ifeng.com"
     },
     {
       "id": "FL-38dcdb37720e",
@@ -425,15 +401,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-45304dd52b53",
+      "id": "FL-5a6fe1837250",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 10:11:31 GMT",
       "ts": 1789639891000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川茂县定子坝滑坡体发生垮塌 当地已提前将区域内161人全部转移 - 新浪网",
+      "title": "四川茂县定子坝滑坡体发生垮塌 当地已提前将区域内161人全部转移 - 新浪财经_金融信息服务商",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMHNJWUp6bFpPYkIybE9xQ2hUMDBYTDhMMU81ZzVZMVZ4c1luczJaR1JNaTQyNGdtS29KVDhTN0FHRVNWLVRlY1pBSW8zX1BQWW5nVnl3S24yeDhEWDRqek92d3ZfUDcxNEE1M0tLRGZWN3Z2YnRRZG5kblQtcDNSTlgxRlM2RjItc2JtVXZXS2Y0d2czYzR3ag?oc=5",
-      "site": "新浪网",
+      "site": "新浪财经_金融信息服务商",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -473,6 +449,30 @@
       "siteUrl": "https://www.ctdsb.net"
     },
     {
+      "id": "FL-8841bc672202",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 09:21:20 GMT",
+      "ts": 1789636880000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "在尼泊尔泥石流中被困11天，获救工人中秋节前回到河南 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhcnEzb0x5LXE0MExhejF2NTQzWkRXQ3RteWtWU3lvVmZuTkdWdThBUjk4QjVZTVgzc3hyMzJLaTAzd2hYLVl6UlNXc1A?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://news.ifeng.com"
+    },
+    {
+      "id": "FL-a6137f417d9f",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 09:21:20 GMT",
+      "ts": 1789636880000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流被困11天获救的工人中秋节前回到河南，他称被困时口渴靠尿液维持，老家村民：还未回到村里，视频上看他比以前瘦了 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBjb2NzSnNhdkYyUGk1OVNvbVFhTHRocEdBOGp2R0FJUy05Q1Q2SHllV3dadjdOeWFjN3N6Ql9kTDJfVjFTNHUtSg?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://i.ifeng.com"
+    },
+    {
       "id": "FL-97c22427f19a",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 08:21:57 GMT",
@@ -485,15 +485,15 @@
       "siteUrl": "https://www.oilcn.com"
     },
     {
-      "id": "FL-e991abc0b52d",
+      "id": "FL-bf6b71b6639f",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 07:33:48 GMT",
       "ts": 1789630428000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害中被困11天获救，陆海涛今天回到河南，儿子前来迎接，父子紧紧相拥，“见到儿子就什么事都没有了” - 新浪网",
+      "title": "尼泊尔泥石流灾害中被困11天获救，陆海涛今天回到河南，儿子前来迎接，父子紧紧相拥，“见到儿子就什么事都没有了” - 新浪财经_金融信息服务商",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPY3FFN1RSbGNpTURWN2VudWMwendrdWJGUFhZVExDZkVJMU9JWWthVHdMNnBZRWlTVkVuWF92MVhac0Z0bl9VX3RqOW0yOWJJczN2T1FfV1Q4TTJKeUtRV2pTZkJKMVZRc2d0ZHNjTWJzaF9Pdl9KbkFXM29DRC1McW9PWGZWb2N1aXRicDMxWERxRVVpQ080TlRCTVlabFpxZnlDeWdQS2xKVG0ydGFBSVc2Yy1XY0xEZ0NfSVF2a0ZzdWoyVXhJRkVteEEwaWQxMHNxZ1E0VQ?oc=5",
-      "site": "新浪网",
+      "site": "新浪财经_金融信息服务商",
       "siteUrl": "http://finance.sina.cn"
     },
     {
@@ -533,15 +533,15 @@
       "siteUrl": "https://mil.gmw.cn"
     },
     {
-      "id": "FL-6d998b87b805",
+      "id": "FL-c6b1c1d938fd",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 05:24:00 GMT",
       "ts": 1789622640000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害中被困11天获救，河南木工陆海涛今日平安回到河南，儿子前来迎接，父子紧紧相拥 - 新浪网",
+      "title": "尼泊尔泥石流灾害中被困11天获救，河南木工陆海涛今日平安回到河南，儿子前来迎接，父子紧紧相拥 - 新浪财经_金融信息服务商",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13Z0hJVF93V1Ixc2VvNTdXOFd2OWNJYlVHc0gwN2tqT0cxblIzZm5xM2N6UGhyWDcxcXNsa20wQTB5VFpmZ01nVHk4NE5HMVc3WWtBaVVNWVB4dmc1ZlhvVzhlaTlDTEoxWF9xM29SdmEzak1PRy1pTQ?oc=5",
-      "site": "新浪网",
+      "site": "新浪财经_金融信息服务商",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -617,15 +617,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-7f4d55118113",
+      "id": "FL-8987a8acd0b6",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 03:13:00 GMT",
       "ts": 1789614780000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川茂县成功避险一起滑坡灾害，更多细节公布 - 新浪网",
+      "title": "四川茂县成功避险一起滑坡灾害，更多细节公布 - 新浪财经_金融信息服务商",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUmdUb3U1WTZ1NzNlZ1JnV04zU2tjN09STWJCeHBMbkk4X2szRFBRS24zSUFDcEZPR0hOLXBfNml0eGRybFphTjNKdEJ1djBtWUMxekQxUDJHcXB2TTdwelp5RGpRTTZGVTJ6b0FMRklvVUxwUzBRZWtLSjBVdWgwQTRfZTF5dk0?oc=5",
-      "site": "新浪网",
+      "site": "新浪财经_金融信息服务商",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -653,15 +653,15 @@
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
-      "id": "FL-1c16525e1719",
+      "id": "FL-80d0a3d1deb8",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 01:11:32 GMT",
       "ts": 1789607492000,
       "scope": "dom",
       "type": "weather",
-      "title": "海南保亭遭强暴雨后：有村民称30余亩菜地全部被淹，海南拨款1900万元用于救灾 - 新浪网",
+      "title": "海南保亭遭强暴雨后：有村民称30余亩菜地全部被淹，海南拨款1900万元用于救灾 - 新浪财经_金融信息服务商",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQall6T0JCTDRBSkpnbDJJXzFpQWRRYTB2WTY2QllLZjB5eG9OQVg4LVMtRWNFci1mRVFVME9yNjNrNFFhd1dST2FkMHRFQzljZzBhTW12S2RtNDcwa3N6eDAtNkxyclJacVJFRWl3MkxoNFdYSXBMU0VGUWVucjJrdlMxRlRXNWIzckJEVnhPT1BkLUhld0k2Mw?oc=5",
-      "site": "新浪网",
+      "site": "新浪财经_金融信息服务商",
       "siteUrl": "https://finance.sina.cn"
     },
     {
