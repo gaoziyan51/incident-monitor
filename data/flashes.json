@@ -1,17 +1,17 @@
 {
-  "updated": "2026-09-17T11:21:28.934Z",
+  "updated": "2026-09-17T11:37:43.873Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-243b1a22aad1",
+      "id": "FL-42ba1d0df553",
       "date": "2026-08-26",
       "dateISO": "Wed, 26 Aug 2026 07:00:00 GMT",
       "ts": 1787727600000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏土石流：接壤尼泊尔边境山洪暴发 上千人失踪包括多国游客 - bbc.com",
+      "title": "西藏土石流：接壤尼泊尔边境山洪暴发 上千人失踪包括多国游客 - BBC",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CTG9yTTh6cnplOGJ1TG5PUzFQRkwtNjZTTzFLcEMwYzRWQlhzTVF2eGMyUFRzdWlKYldDSTVRcWNVd2RnbkJWU1prR2FMUVhKeVk4X0c4MVNnbUFCTjItZ0JiN0xvd9IBa0FVX3lxTE1PT1F4VHcyMnlBRE5SdUdLeERKN21TU1VXSkdqTTNnWnE1MTkxNi1Yb1ZqbWQtX2ZVdGwtMFhCZjZsVmgwTi1LNkdwYWtOZTE3dDlIVzNiT3cxOHV2dzdnZF9hY2cwV3dsSi1j?oc=5",
-      "site": "bbc.com",
+      "site": "BBC",
       "siteUrl": "https://www.bbc.com"
     },
     {
@@ -159,6 +159,19 @@
       "siteUrl": "https://m.thepaper.cn"
     },
     {
+      "id": "FL-EV-f283a898090a",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 09:14:36 GMT",
+      "ts": 1789550076000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "海内外多方发来慰问信深切关怀吉隆泥石流受灾群众_滚动图 - 中国西藏网",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tNjNpWlo5YWZCdWtfaXo1elk0ZHBlZ2NGMlI4T1I2YW9jV2dCMFN0aGtmekVNdFViQzN4MFBrdlNDWnV6bGpJaHpWTWh5ZEFoUWUtekExTDUtM3Jzc0UyZC1KczNvd3lTYzBR?oc=5",
+      "site": "中国西藏网",
+      "siteUrl": "http://www.tibet.cn",
+      "related": 34
+    },
+    {
       "id": "FL-8eccef5d7805",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 09:12:00 GMT",
@@ -171,15 +184,15 @@
       "siteUrl": "http://www.china.com.cn"
     },
     {
-      "id": "FL-fac2af0c2b80",
+      "id": "FL-3b369a35039f",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 09:01:01 GMT",
       "ts": 1789549261000,
       "scope": "dom",
       "type": "other",
-      "title": "加沙城一建筑倒塌已致14人死亡 百余人失踪 - news.cnr.cn",
+      "title": "加沙城一建筑倒塌已致14人死亡 百余人失踪 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CQjhqMTMySHlkV2k4UjExclpBbUFMSzVjcjI5M3c0YXFJVkNXTHhscGFoYlJxOXJZeVFseG1kR3JvY1ZPdlB5cXZxWVdmZkpLVmRaQ3FNV3dWdUpMTVdYc0hTU2l2aXNE?oc=5",
-      "site": "news.cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
     },
     {
@@ -195,15 +208,15 @@
       "siteUrl": "https://cn.chinadaily.com.cn"
     },
     {
-      "id": "FL-63599e729c2a",
+      "id": "FL-a74bbf34ab98",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 07:32:41 GMT",
       "ts": 1789543961000,
       "scope": "dom",
       "type": "other",
-      "title": "海南五指山强降水基本结束 清淤、抢险、复工有序推进 - news.cnr.cn",
+      "title": "海南五指山强降水基本结束 清淤、抢险、复工有序推进 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52bnFwSExVdm9OaGprZEl2RzhiZEVra3EwNG8tOTMyNFg4YmthZFNybGs3OFpYUXNCR2Z4ZmdFTWRzaVNtRU5VUksyamhxNkEtZEhFMWNSS1NzSVlxUEQtLXpVY1JMMFNGZVVjQ0laOA?oc=5",
-      "site": "news.cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
     },
     {
@@ -244,64 +257,51 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-EV-f283a898090a",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 07:10:00 GMT",
-      "ts": 1789542600000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "巴基斯坦记者：西藏吉隆泥石流灾害中方抢险救援工作及时有序--国际 - 人民网",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1URWlpVmxqaGdPTVJzRFM0VXptclBjUXFWNW5KQ2FmWE5sNXp6YmtrdkoxT25tMTR2WTQ5R0FRQV9LQ2o1MW5QclFBRnpoRlZ2QWk1ZlRVRDEtRFN0c1Q3amwzSEw2Nkw4aGJabg?oc=5",
-      "site": "人民网",
-      "siteUrl": "https://world.people.com.cn",
-      "related": 33
-    },
-    {
-      "id": "FL-b79bc0488d8a",
+      "id": "FL-0fed9c51ee2f",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 06:37:40 GMT",
       "ts": 1789540660000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川茂县发生山体滑坡 提前管控未造成人员伤亡 - news.cnr.cn",
+      "title": "四川茂县发生山体滑坡 提前管控未造成人员伤亡 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBXcms4anhZZDZ2dTgwMHpRZGhhYkRNLU5QbGtnQXVaUlVqNHhWaFVRcTZGLWlaSEMwRDlSaFllSlZOOTBqb0JZSWF5aHROa2QwVkI0Zlk1M1pHbVpCVjJ3bTh3cklPNWpSMjUyQTd3NzVDQQ?oc=5",
-      "site": "news.cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-fd559656b1b8",
+      "id": "FL-13932da6d5a8",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 05:59:56 GMT",
       "ts": 1789538396000,
       "scope": "dom",
       "type": "geo",
-      "title": "青海海西州直辖区发生3.6级地震 震源深度10千米 - news.cnr.cn",
+      "title": "青海海西州直辖区发生3.6级地震 震源深度10千米 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qc3BQSUxhTFR0ZmpidjVWMnltcTJ6UHowN0gzbE43dV8xQTVpZ2FqWUlnY2tBbnF2VGJBZkJKLUs4X2diWWVkSTY3UXAzRGZYcU9OMHpMNW5ubk5ya2VkWjBUYXdjT0NVZkhYOERvelhhMTVxWnc?oc=5",
-      "site": "news.cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-b230488a052b",
+      "id": "FL-674383638b4c",
       "date": "2026-09-02",
       "dateISO": "Wed, 02 Sep 2026 07:00:00 GMT",
       "ts": 1788332400000,
       "scope": "dom",
       "type": "geo",
-      "title": "尼泊尔—西藏泥石流：堰塞湖和冰湖是下一个“定时炸弹”？ - bbc.com",
+      "title": "尼泊尔—西藏泥石流：堰塞湖和冰湖是下一个“定时炸弹”？ - BBC",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfWmowNGIyc200QU1ESDVxbC1hdmdLWUlCQXNHazV6aVdvY1FYMGFySHFueG50UGc3Q2Z2ZUVXaWNtbUQtNlBMWkRDLU01T2R5blhnY2UtSUR5ZUdHaWt5YWszOFRFQdIBa0FVX3lxTE5ncUFxSTZyWVZGQ05yLWwtOGVLS01kb2lsNjY5cVNfU1VlN1hWSjFtUEx4eEpObTY3c3F5czNZeElUM01KaU5uVF9NQ2FDdGlMY29tbi16UFluSkVGSzFkNXJHZFFTOUU5eW80?oc=5",
-      "site": "bbc.com",
+      "site": "BBC",
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-f1f82737b1d7",
+      "id": "FL-d015bcadd21a",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 22:13:00 GMT",
       "ts": 1789510380000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1403人遇难 - news.china.com.cn",
+      "title": "尼泊尔泥石流灾害已致1403人遇难 - 中国网新闻中心",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBySGExLXVMdmFfZGREZUM1d01XRE1nZUxXNHNnU0U0SzROaUFfelVpTWZTNnB3QW56WEFCZktZTWRMQ1ZtNFNrZjZ0ZTV1TFdINTRSdW5CTlpfbWFXMWVxQmVvYWVBbGVpMExB?oc=5",
-      "site": "news.china.com.cn",
+      "site": "中国网新闻中心",
       "siteUrl": "http://news.china.com.cn"
     },
     {
@@ -317,27 +317,27 @@
       "siteUrl": "https://www.cnr.cn"
     },
     {
-      "id": "FL-facc0729194c",
+      "id": "FL-08cb7529b0aa",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 03:04:00 GMT",
       "ts": 1789441440000,
       "scope": "intl",
       "type": "geo",
-      "title": "日本核电站地震震动评估被证实造假 - guancha.cn",
+      "title": "日本核电站地震震动评估被证实造假 - 观察者网",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yOHY0OGw4aHZaMmZmLTItWEx1azZJR2Z3WFBvZDNNeGVMQjA1VVlsVVpfV183VnhQM0JpckNtSlVHclg4Mzhkam5ZTkszblJ6aGlramM2SlVkaUN2ZVhCUGNGcENqM1kwb0dhNzhrTzEwYlk?oc=5",
-      "site": "guancha.cn",
+      "site": "观察者网",
       "siteUrl": "https://www.guancha.cn"
     },
     {
-      "id": "FL-9d183ccde9c9",
+      "id": "FL-2821cbb61427",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 01:35:35 GMT",
       "ts": 1789436135000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1396人遇难 - news.cnr.cn",
+      "title": "尼泊尔泥石流灾害已致1396人遇难 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JekJsM0phMDJvZWQtN2pXT1hENlRWSjI3UjRIdWQ4TERDQi1jbjVfM2d1SmJyU1JFeE10Sl9ybXM3VGRsVHJucnBBZmdRVmtfZmxXVVNMS2NEeE4zQ2Q1S3YxeTN1SDI2?oc=5",
-      "site": "news.cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
     },
     {
@@ -365,16 +365,28 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-8fae473adaf3",
+      "id": "FL-e08986535aa3",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 10:11:31 GMT",
       "ts": 1789639891000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川茂县定子坝滑坡体发生垮塌 当地已提前将区域内161人全部转移 - 新浪财经",
+      "title": "四川茂县定子坝滑坡体发生垮塌 当地已提前将区域内161人全部转移 - finance.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMHNJWUp6bFpPYkIybE9xQ2hUMDBYTDhMMU81ZzVZMVZ4c1luczJaR1JNaTQyNGdtS29KVDhTN0FHRVNWLVRlY1pBSW8zX1BQWW5nVnl3S24yeDhEWDRqek92d3ZfUDcxNEE1M0tLRGZWN3Z2YnRRZG5kblQtcDNSTlgxRlM2RjItc2JtVXZXS2Y0d2czYzR3ag?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.com.cn",
       "siteUrl": "https://finance.sina.cn"
+    },
+    {
+      "id": "FL-8ed43de8cc13",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 09:50:02 GMT",
+      "ts": 1789638602000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "菏泽市住建系统地震应急演练观摩活动在鄄城县举办 - 大众网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xRlFlZlJJa08wOGh5NXRpRndZN0x6VV9nTnRJWFV2dXRVUFZMbjduSVVrVUNxdno0TnlDRjh2MVFyeERRQmJxN3hZbmNGZUFKdmdsWDdEdUFHVXBEeFB4bjhCVFo4N2ph?oc=5",
+      "site": "大众网",
+      "siteUrl": "https://heze.dzwww.com"
     },
     {
       "id": "FL-1c915cedceb5",
@@ -437,15 +449,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-44b2d503090b",
+      "id": "FL-5a2b90259678",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 07:33:48 GMT",
       "ts": 1789630428000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害中被困11天获救，陆海涛今天回到河南，儿子前来迎接，父子紧紧相拥，“见到儿子就什么事都没有了” - 新浪财经",
+      "title": "尼泊尔泥石流灾害中被困11天获救，陆海涛今天回到河南，儿子前来迎接，父子紧紧相拥，“见到儿子就什么事都没有了” - finance.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPY3FFN1RSbGNpTURWN2VudWMwendrdWJGUFhZVExDZkVJMU9JWWthVHdMNnBZRWlTVkVuWF92MVhac0Z0bl9VX3RqOW0yOWJJczN2T1FfV1Q4TTJKeUtRV2pTZkJKMVZRc2d0ZHNjTWJzaF9Pdl9KbkFXM29DRC1McW9PWGZWb2N1aXRicDMxWERxRVVpQ080TlRCTVlabFpxZnlDeWdQS2xKVG0ydGFBSVc2Yy1XY0xEZ0NfSVF2a0ZzdWoyVXhJRkVteEEwaWQxMHNxZ1E0VQ?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.com.cn",
       "siteUrl": "http://finance.sina.cn"
     },
     {
@@ -569,15 +581,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-82c0919b3693",
+      "id": "FL-c6683275711d",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 03:13:00 GMT",
       "ts": 1789614780000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川茂县成功避险一起滑坡灾害，更多细节公布 - 新浪财经",
+      "title": "四川茂县成功避险一起滑坡灾害，更多细节公布 - finance.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUmdUb3U1WTZ1NzNlZ1JnV04zU2tjN09STWJCeHBMbkk4X2szRFBRS24zSUFDcEZPR0hOLXBfNml0eGRybFphTjNKdEJ1djBtWUMxekQxUDJHcXB2TTdwelp5RGpRTTZGVTJ6b0FMRklvVUxwUzBRZWtLSjBVdWgwQTRfZTF5dk0?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.com.cn",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -593,15 +605,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-3c31950bdab0",
+      "id": "FL-af6bb289e19f",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 02:15:00 GMT",
       "ts": 1789611300000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害中被困11天获救，河南木工陆海涛今日平安回到河南，儿子前来迎接，父子紧紧相拥 - 新浪财经",
+      "title": "尼泊尔泥石流灾害中被困11天获救，河南木工陆海涛今日平安回到河南，儿子前来迎接，父子紧紧相拥 - finance.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMnd3OHpDSHBxeHR1TnBCNkExdEduaXU1RXg0ekpnNTF4MHJMY0ZfOGhVekNrbVBZYjE4VGdUdElmOTVxSVdSbk9SYnh6UUR5bnFDTmZ2UnRCSGxJcFpJbGhWWUQzbjBac0piTzg5UjNIb2ZpbElzNDFickRHbDR5am5wRXMxNF9oME1fTGdNeE1TNVdIdGVzSmRGNUtLc2tjNDdhVzQwWEJzSHpFQ3YyaTE4c2x0QmdzWjJzT0dUYUJNNTY2V0VFZ2MxYndHSkRBamdFRVE3Zw?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.com.cn",
       "siteUrl": "http://finance.sina.cn"
     },
     {
@@ -617,51 +629,39 @@
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
-      "id": "FL-c16d13c32d99",
+      "id": "FL-1d543193d639",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 01:11:32 GMT",
       "ts": 1789607492000,
       "scope": "dom",
       "type": "weather",
-      "title": "海南保亭遭强暴雨后：有村民称30余亩菜地全部被淹，海南拨款1900万元用于救灾 - 新浪财经",
+      "title": "海南保亭遭强暴雨后：有村民称30余亩菜地全部被淹，海南拨款1900万元用于救灾 - finance.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQall6T0JCTDRBSkpnbDJJXzFpQWRRYTB2WTY2QllLZjB5eG9OQVg4LVMtRWNFci1mRVFVME9yNjNrNFFhd1dST2FkMHRFQzljZzBhTW12S2RtNDcwa3N6eDAtNkxyclJacVJFRWl3MkxoNFdYSXBMU0VGUWVucjJrdlMxRlRXNWIzckJEVnhPT1BkLUhld0k2Mw?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.com.cn",
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-31aaf7309a8a",
-      "date": "2026-09-03",
-      "dateISO": "Thu, 03 Sep 2026 07:00:00 GMT",
-      "ts": 1788418800000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "台风“沙德尔”带来强降雨，福建全力抢险救援 - 人民网-福建频道",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9idjB1WHk1RmxjaXpsRFVqTmtSUXdDbEcwVlp0d2k5TnNndmxBNXhhV0syZmdBVlVCQzZuZk56cmNGeWFCYnp5SkVxaFFvbGQ0TXoxalUyeFJtRHJfa2l2TVhBRXJVQWVfM0E?oc=5",
-      "site": "人民网-福建频道",
-      "siteUrl": "http://fj.people.com.cn"
-    },
-    {
-      "id": "FL-fc0e498bdf07",
+      "id": "FL-861987facab4",
       "date": "2026-08-30",
       "dateISO": "Sun, 30 Aug 2026 07:00:00 GMT",
       "ts": 1788073200000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏泥石流：中国称气候变暖导致惨烈灾难 - bbc.com",
+      "title": "西藏泥石流：中国称气候变暖导致惨烈灾难 - BBC",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44R3gxYndzaTFVdmhMRjlDRE1fWlNQcGc1dTQxRG85WC1YUTFPbHVmMGNSN1VJNnVDN2sxakFicFZla3NKWXUtTWI2Ymh0ODVQYzBNdUdKRUZ4VUQ5U0hGZW1NZXBHUdIBa0FVX3lxTE5BZmQwdGNTV1RjTHg0N3RHZmFjQmFzajZlZzdTOVFTSEtjWE8wUGY1LVlTeElnOFh1X191TW1kTlc1TzZXTkhOcjFXZ2tqWXZKOXgxbmo0S0I2eklUMk1NN3RLSDdmdy16S2pn?oc=5",
-      "site": "bbc.com",
+      "site": "BBC",
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-f7df76261340",
+      "id": "FL-89d6589d1504",
       "date": "2026-08-30",
       "dateISO": "Sun, 30 Aug 2026 07:00:00 GMT",
       "ts": 1788073200000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏泥石流：中国审查洪灾冲击口岸画面，当地灾民情况我们所知甚少 - bbc.com",
+      "title": "西藏泥石流：中国审查洪灾冲击口岸画面，当地灾民情况我们所知甚少 - BBC",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rWlBVcnZhd0NVTDlFZ3hVN3BYR3RLUFpMZEM0eVkwN2JkRXIzM0V0REJXR2FjeDRxUUVqeDBvMUtKU25TUFNDMzJYdHNucTZ4bDBEWkFjazFwZGZEOVJzVlZyNGtiZ9IBa0FVX3lxTFBOT0pTWlZHV0dDQTNJRFExWFdZcGJDZTI3aDVxeDJQNGk4WldjSzRwa1lJRXF3aW1Id1QwVHM0TlNoRWp2SmtvMURjcEZoTG5kaVlSOTlHcFpVMFpxSkp0MnVUX2NGZWZYZk5N?oc=5",
-      "site": "bbc.com",
+      "site": "BBC",
       "siteUrl": "https://www.bbc.com"
     },
     {
@@ -689,15 +689,15 @@
       "siteUrl": "https://m.thecover.cn"
     },
     {
-      "id": "FL-5cdc73c89685",
+      "id": "FL-03e1c60639f5",
       "date": "2026-09-06",
       "dateISO": "Sun, 06 Sep 2026 07:00:00 GMT",
       "ts": 1788678000000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔给水力发电押下重注，泥石流把问题彻底暴露 - bbc.com",
+      "title": "尼泊尔给水力发电押下重注，泥石流把问题彻底暴露 - BBC",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByeEVvcHlucE92a1Z3T0Ywei1RT3Ric2RMaVEzNmVtbF9VVEVPMmhrNmliNEl3TGllWktKNjNodUNSSXh3S21KUHA2cEFqckZEV0RNMmpCWWRxSGM4Zm51VUEyV0dkZ9IBa0FVX3lxTFBxM2RNYURrR1hmQ1ktWnBrME1RQ1ZESXBWZHZ4aUNoaURoXy1BLXlySk9tcDZHb25fRmV5SDB5ZTVnck9rdlNmRHdGRkl3QldGb2VEZHA3VkNWT0NITjhmMTRwUWNpZEgxNDFF?oc=5",
-      "site": "bbc.com",
+      "site": "BBC",
       "siteUrl": "https://www.bbc.com"
     },
     {
@@ -713,15 +713,15 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-3c635363150e",
+      "id": "FL-e8a32a183e42",
       "date": "2026-08-28",
       "dateISO": "Fri, 28 Aug 2026 07:00:00 GMT",
       "ts": 1787900400000,
       "scope": "dom",
       "type": "geo",
-      "title": "尼泊尔—西藏泥石流：堰塞湖风险、逾2000人遇难或失联，中国总理赴前线意味着什么？ - bbc.com",
+      "title": "尼泊尔—西藏泥石流：堰塞湖风险、逾2000人遇难或失联，中国总理赴前线意味着什么？ - BBC",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SMU9aYk1ieDUtRUYxczloUTVubHBZc2VCWlBtbGlLNmRWdXFGZ2xvUWhfSHZqVS0wYndtZzhUZGZDZlBiQlU0WDV2NUh5bkE1M1VtZURfZWRMaTR4SU4waWJHYXdFd9IBa0FVX3lxTFA3TVBheHVtYmo2X1ppZlgzNnhYZnc3eU9MOUVybUZlUGh0QXMwTklhWXktUm9Bcnh1dVdGcUZvZlVrWGQxTlNKX2xxVV9PRzBRSmR3QWdURDRZVEhja0loSWxWN2RtRmJxR1Y4?oc=5",
-      "site": "bbc.com",
+      "site": "BBC",
       "siteUrl": "https://www.bbc.com"
     }
   ]
