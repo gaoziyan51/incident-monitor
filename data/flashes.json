@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T17:06:23.683Z",
+  "updated": "2026-09-18T17:19:01.544Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -172,6 +172,18 @@
       "siteUrl": "https://www.guancha.cn"
     },
     {
+      "id": "FL-26ab7bdb226d",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 01:40:43 GMT",
+      "ts": 1789436443000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "“乐山锦江山太白亭山体滑坡”不实——熊猫斩谣（2026年9月14日） - 封面新闻",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5leVhxd1hBdDhBZ2tRVzktdU11c3lNNENKUFZrNGdHZlZ4bjRpTTh2N21YdjVtQk1NbUdJTm1Jei1WbmpwbXI2TVN1VUZ1eVJGNkRMNTlyWTRyN0FEdERURGFHVnN5X2FlWU0zX3luYU5ET2ktNHpnZjRR?oc=5",
+      "site": "封面新闻",
+      "siteUrl": "https://m.thecover.cn"
+    },
+    {
       "id": "FL-5c327552c46b",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 23:55:47 GMT",
@@ -280,18 +292,6 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-263418d50a2b",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 11:20:00 GMT",
-      "ts": 1789644000000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "驻澳大利亚大使刘劲松就中尼边境泥石流灾害在《澳金融评论报》发表署名文章 - mfa.gov.cn",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IbzJPdEh5eFY3dGI4QVl6dGlrNk1tdmcyXzFnVXNlMkRhanZUcUJDcVFud2wySC1VeEt6bXZBQTVERXRnOURlOXAyMUpUTExnc1RMd01lWE5sRzhjSEZOcVlwR1V2SzVnd2Yxc0ZfZlNta01XT1p1cnZvRQ?oc=5",
-      "site": "mfa.gov.cn",
-      "siteUrl": "https://www.mfa.gov.cn"
-    },
-    {
       "id": "FL-f6be17c76967",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 06:42:00 GMT",
@@ -352,18 +352,6 @@
       "siteUrl": "https://news.ifeng.com"
     },
     {
-      "id": "FL-31aaf7309a8a",
-      "date": "2026-09-03",
-      "dateISO": "Thu, 03 Sep 2026 07:00:00 GMT",
-      "ts": 1788418800000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "台风“沙德尔”带来强降雨，福建全力抢险救援 - 人民网-福建频道",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9idjB1WHk1RmxjaXpsRFVqTmtSUXdDbEcwVlp0d2k5TnNndmxBNXhhV0syZmdBVlVCQzZuZk56cmNGeWFCYnp5SkVxaFFvbGQ0TXoxalUyeFJtRHJfa2l2TVhBRXJVQWVfM0E?oc=5",
-      "site": "人民网-福建频道",
-      "siteUrl": "http://fj.people.com.cn"
-    },
-    {
       "id": "FL-861987facab4",
       "date": "2026-08-30",
       "dateISO": "Sun, 30 Aug 2026 07:00:00 GMT",
@@ -422,6 +410,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SMU9aYk1ieDUtRUYxczloUTVubHBZc2VCWlBtbGlLNmRWdXFGZ2xvUWhfSHZqVS0wYndtZzhUZGZDZlBiQlU0WDV2NUh5bkE1M1VtZURfZWRMaTR4SU4waWJHYXdFd9IBa0FVX3lxTFA3TVBheHVtYmo2X1ppZlgzNnhYZnc3eU9MOUVybUZlUGh0QXMwTklhWXktUm9Bcnh1dVdGcUZvZlVrWGQxTlNKX2xxVV9PRzBRSmR3QWdURDRZVEhja0loSWxWN2RtRmJxR1Y4?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-ba701e3c8ee0",
+      "date": "2026-09-18",
+      "dateISO": "Fri, 18 Sep 2026 16:57:08 GMT",
+      "ts": 1789750628000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "欧洲地中海地震中心：智利圣地亚哥首都大区发生 5 级地震。 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBON2lzY3hFcnFCSFNhblRocUJpV1FTcVRKYmpGTks1S2RkLWpKZWlkZUc1TGgwWmV4aWRIWnl2a2h3U09vb0QwQm1DOA?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://wap.cj.sina.cn"
     },
     {
       "id": "FL-2f5554815009",
@@ -616,6 +616,18 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
+      "id": "FL-af5c21fd6567",
+      "date": "2026-09-18",
+      "dateISO": "Fri, 18 Sep 2026 10:56:00 GMT",
+      "ts": 1789728960000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "就中尼边境泥石流灾害，我大使在《澳金融评论报》发表署名文章 - 观察者网",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1rMHlJWTJjU3RjRDUzbE5zZGloSnB0azhUNW1OVTJGNkJZNDJ1LWNfbV9iczhSTkhTYXJDR2FlblRMOTRTYnNUYUdJZ1pNbkR2bHlFN29lTFRRaEl2QVFDNXNqMFhMQVhnbzV5aW1EejdnSzA?oc=5",
+      "site": "观察者网",
+      "siteUrl": "https://www.guancha.cn"
+    },
+    {
       "id": "FL-8b135b7d5b71",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 09:57:46 GMT",
@@ -650,18 +662,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1TUFhvekFoYlNUbUFTQTNaNklXUFRWdFNJakY2RXZHYk5zT3N3dUp2NXV6ZVBCdVg4emctbkpIU1lKZW41YW4zdGNXeDdhQQ?oc=5",
       "site": "川观新闻",
       "siteUrl": "https://cbgc.scol.com.cn"
-    },
-    {
-      "id": "FL-ed06ad4ddbf0",
-      "date": "2026-09-18",
-      "dateISO": "Fri, 18 Sep 2026 07:48:11 GMT",
-      "ts": 1789717691000,
-      "scope": "dom",
-      "type": "collapse",
-      "title": "不只是冰川融化 科学家指山体“解冻”加剧崩塌风险 - 8world",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZF9QOWZWblFLZENNWkxhMUpNaEZ1a05YeDVSVnlaVFdxRmRUNUtMMmRYMFc0V3ZJNEZrcUZ5WnluNExzdFFCR2pOeVVTbXRkdXA2Ql96and2SEVla0hLVkY4R2I2YjRhOHFvTjQ0b1pyRnJBN1N5MVZQWVppcUFVVnFlRDE4MFFnRVVRb2RoaEhNQQ?oc=5",
-      "site": "8world",
-      "siteUrl": "https://www.8world.com"
     },
     {
       "id": "FL-6c87afbc66ba",
