@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T01:09:55.150Z",
+  "updated": "2026-09-18T01:22:45.271Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -169,7 +169,7 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZcWRUM00xcGFjLWJ6UjU5MjlqM19VSjZDWjJDRXJINDBISmVBRzlKQzV6bmVneXRLX0NyZDdaUm0zMi00QldkQVBWdGJIM2JKSzFXNXNRbHpWS2lFcElaWlprcmw4S2R3a0tub1dqTnRjM2xRY0hMblZhbw?oc=5",
       "site": "中青在线",
       "siteUrl": "http://m.cyol.com",
-      "related": 11
+      "related": 10
     },
     {
       "id": "FL-90b784652602",
@@ -292,6 +292,18 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
+      "id": "FL-2f908e334e01",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 14:48:00 GMT",
+      "ts": 1789656480000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "福克斯群岛发生6.5级地震，震源深度100千米 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9EM1NEOE9HVzhpVUNWemhzd0p0d19NajcwMDViNjBHWnFGSDRWUXNabE53bkNsLVpUdHAxZnlwWkVlZ3c5SVd1OGhHUE9WVmtJbnAyOW4xa1ZUYkJSWVJvWnpQY0o3eDF0Q29rWnE5YmJzVnoya3liTg?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
+    },
+    {
       "id": "FL-ab69eccaa42c",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 14:43:51 GMT",
@@ -396,18 +408,6 @@
       "type": "geo",
       "title": "尼泊尔泥石流灾害遇难人数升至1410人 失联6145人 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVTB0WUhTdzItaG1WN2Myb2JVazVDdkNraE5ucXNuaDFCNGxQMjFtZXVuLWVPbDVqNjcxendqTkk2WTlidkRkTjVUeUpoS09MdjdoR0QzUkV0OWJYSkdha1ZOZTNYcnhfU0dycW9malg2WnplNEdHQUdjUGpfZFlndmhKSlpIWmZKek1JaQ?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-3678ebf44698",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 14:00:12 GMT",
-      "ts": 1789653612000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "截至当地时间17日19时，尼泊尔泥石流已致1410人遇难，失联6145人 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTVNYUVNsbnN2VGxOZ0FwN2pIOUhoRWxLS2pZeTdWTTVGY1MtXzR1Yll2dlNwX3hEQlliWjhNQnFQUzNEYzhMeXp3QmtMYlFhSEhnY3ZRbGpxNU1iZU8tX2FXQnVNM2U2YnMwQ2ZvVUtIVGRkZ2hjQ1JCalZLM3JOMkRXaWl2OUpM?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
