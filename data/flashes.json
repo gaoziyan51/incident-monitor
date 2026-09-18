@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T23:06:32.164Z",
+  "updated": "2026-09-18T23:20:29.355Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -27,15 +27,15 @@
       "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
-      "id": "FL-a704a45dea9a",
+      "id": "FL-3ab2bf927467",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 12:55:39 GMT",
       "ts": 1789563339000,
       "scope": "dom",
       "type": "geo",
-      "title": "平陆运河与六蓝水库溃坝有关？ - RFI",
+      "title": "平陆运河与六蓝水库溃坝有关？ - rfi.fr",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWjRKaFNrd1JjaklqRGtvc2ZLSWdsX0FzNzJMTHZLeW9aM1lVQmx2eUZuOEVtdG93ZW5DQWZCUTZFSXFrRG9qRWJiSlhxalRoaVZ4SHJTa2dlZDl0cjJWMFFIVDVNWTJkRWM0N0NmRlZyTDQ2bDVWZE5kU0wzOVZGeUlIbUE4QlREbGdma1Z4bHJrMXkza1B1WWVzYkhUMTZabF9sdXlqLUE3UHk0VzZqNU55ZFBtYzFra2FlSTlGM0lZTWR3a184QzZkV1J0RG9rbVpxZWtPb3U3Wk1WTHlHQlB2MlBqNHJvc0U0aFdBcWZWc1U2Y0pOR0t0SQ?oc=5",
-      "site": "RFI",
+      "site": "rfi.fr",
       "siteUrl": "https://www.rfi.fr"
     },
     {
@@ -207,18 +207,6 @@
       "siteUrl": "https://m.thepaper.cn"
     },
     {
-      "id": "FL-6dbedf842058",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 14:35:00 GMT",
-      "ts": 1789655700000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "美国阿拉斯加尼科尔斯基地区发生6.3级地震 - 21财经",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcW9ncDFiVlFZMTFFaU9HWW96dUMyYWhncEJUYnJsaW1BV3U4QWVJcExCQkpyeHNIN3FpRXl5d3AzQUgwTGQ2UFBxa21RUm93QXVDd3pNaXY2OV9KOHZINHpKQUtPREtvQ0Q0dS1VSHVfblI5X205OGEyaFctVVpPT0FodE4yRzhMbkdzaHEydw?oc=5",
-      "site": "21财经",
-      "siteUrl": "https://www.21jingji.com"
-    },
-    {
       "id": "FL-3e04dbf8dbb3",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 14:19:00 GMT",
@@ -313,6 +301,18 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qSUhUN3hZQjJPclIwMGE5WFV1a2w1THFzbzYxUzlwSlRJZmViX2w4S2pNNEpOMW5MY0R2V0Vxb0VicHFNN0c0VFVBcUE?oc=5",
       "site": "news.ifeng.com",
       "siteUrl": "https://news.ifeng.com"
+    },
+    {
+      "id": "FL-bf6b71b6639f",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 02:15:00 GMT",
+      "ts": 1789611300000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害中被困11天获救，陆海涛今天回到河南，儿子前来迎接，父子紧紧相拥，“见到儿子就什么事都没有了” - 新浪财经_金融信息服务商",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPLWhxWjNRZzQ5cXJzbmQzZjRMTzdnYjB3bVJoTm5VbHNFOS1jNkVucHNNbmVHcmFIY3FuSjRyOWxoLXVVUmluZHJQZFZWZlNaTWRNWmJBMlZHZGYwcUM0dXZhRFhEMGJOWUhhVlJxd0REYUZvRmI4X0NlZm5GV3N0dHo5TU5IcjBJRXhZVGJJb3NmOEdtOER4VHZBdDNjelRVOVRoeXlGUngtcWJXRW1OYm1nWUMyTExvRTJlcjZjdkhySy03UEVqZ19GVmRJYzd1RzJVQzdwUQ?oc=5",
+      "site": "新浪财经_金融信息服务商",
+      "siteUrl": "http://finance.sina.cn"
     },
     {
       "id": "FL-31aaf7309a8a",
@@ -517,7 +517,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOHQ2b0VRWWEyak9XNF9sbG8yR1hvMkxuZTVRMzA5V2RqbVRzX1JXeW91UFozWVVkYlFkNWJybkVrMzA3eHh6cG1XVGNFX0l4YlJwYmx6MXdYcWJJV3l5ZElxRUJBUEltYzljaHdZN2xwVF9GUDVCV3AyT0J1NTR4REVSS3FaZVN3d19wSQ?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com",
-      "related": 32
+      "related": 33
     },
     {
       "id": "FL-18f2e371b120",
