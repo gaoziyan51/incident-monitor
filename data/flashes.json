@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T06:28:23.171Z",
+  "updated": "2026-09-18T06:45:17.360Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -184,6 +184,18 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
+      "id": "FL-0674fd4d2559",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 15:44:17 GMT",
+      "ts": 1789487057000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害已致1403人遇难 - cnr.cn",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CX1BCWlpfQWdzOUk4NER1dmF5Ym5MOE1jem9VWlBhYXZJSmJIRjJEMjAtNlEtUnZjcmpHSkZjOW1GVXJ3WU80Q1BGYVF3NDBGREMwWWVYZWEtY3Qxa3hMdFdBTWFINHBRekRFbWdXa2QzYjFFc0E?oc=5",
+      "site": "cnr.cn",
+      "siteUrl": "https://www.cnr.cn"
+    },
+    {
       "id": "FL-2244178adc9f",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 15:16:00 GMT",
@@ -209,15 +221,15 @@
       "related": 10
     },
     {
-      "id": "FL-08cb7529b0aa",
+      "id": "FL-facc0729194c",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 03:04:00 GMT",
       "ts": 1789441440000,
       "scope": "intl",
       "type": "geo",
-      "title": "日本核电站地震震动评估被证实造假 - 观察者网",
+      "title": "日本核电站地震震动评估被证实造假 - guancha.cn",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yOHY0OGw4aHZaMmZmLTItWEx1azZJR2Z3WFBvZDNNeGVMQjA1VVlsVVpfV183VnhQM0JpckNtSlVHclg4Mzhkam5ZTkszblJ6aGlramM2SlVkaUN2ZVhCUGNGcENqM1kwb0dhNzhrTzEwYlk?oc=5",
-      "site": "观察者网",
+      "site": "guancha.cn",
       "siteUrl": "https://www.guancha.cn"
     },
     {
@@ -233,15 +245,15 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-387f6d8e5bb4",
+      "id": "FL-83a7cb814b39",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 23:16:47 GMT",
       "ts": 1789687007000,
       "scope": "dom",
       "type": "geo",
-      "title": "新疆巴音郭楞州库尔勒市发生3.0级地震，震源深度12千米 - 新浪财经_金融信息服务商",
+      "title": "新疆巴音郭楞州库尔勒市发生3.0级地震，震源深度12千米 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yTkN0eGozb05Ya1pjWU9RYjhiLXZvV2F4a19xdng1TUlxV3U0ME1Wc3AxeUtGV1lLbnlmRG5pX3NsR1otelFaQ1Y3WG9NVEc4M29GeHRPN28xZUlaMlE2Y0RONUxfY20xZ1owVVFpNWh5ZnYxRlBCcg?oc=5",
-      "site": "新浪财经_金融信息服务商",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -317,15 +329,15 @@
       "siteUrl": "https://www.21jingji.com"
     },
     {
-      "id": "FL-58f2b93b6fbb",
+      "id": "FL-3e04dbf8dbb3",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 14:19:00 GMT",
       "ts": 1789654740000,
       "scope": "dom",
       "type": "geo",
-      "title": "福克斯群岛发生6.5级地震，震源深度100千米 - jiemian.com",
+      "title": "福克斯群岛发生6.5级地震，震源深度100千米 - Jiemian.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8za3VwNXM1Ri1EeHlrNng3WFdNUnM2dk5Vc0M5UFVoYndObFdGcFIwdGYtcDZOZlNhR2xSNkRpVFUySFpJLTF6OEtZeG1UU1AxcnZHT0RmdHY?oc=5",
-      "site": "jiemian.com",
+      "site": "Jiemian.com",
       "siteUrl": "https://www.jiemian.com"
     },
     {
@@ -485,6 +497,18 @@
       "siteUrl": "https://news.ifeng.com"
     },
     {
+      "id": "FL-31aaf7309a8a",
+      "date": "2026-09-03",
+      "dateISO": "Thu, 03 Sep 2026 07:00:00 GMT",
+      "ts": 1788418800000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "台风“沙德尔”带来强降雨，福建全力抢险救援 - 人民网-福建频道",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9idjB1WHk1RmxjaXpsRFVqTmtSUXdDbEcwVlp0d2k5TnNndmxBNXhhV0syZmdBVlVCQzZuZk56cmNGeWFCYnp5SkVxaFFvbGQ0TXoxalUyeFJtRHJfa2l2TVhBRXJVQWVfM0E?oc=5",
+      "site": "人民网-福建频道",
+      "siteUrl": "http://fj.people.com.cn"
+    },
+    {
       "id": "FL-89d6589d1504",
       "date": "2026-08-30",
       "dateISO": "Sun, 30 Aug 2026 07:00:00 GMT",
@@ -521,15 +545,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-40d60e09c577",
+      "id": "FL-6efe5298d5a2",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 15:04:00 GMT",
       "ts": 1789311840000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1392人 - 封面新闻",
+      "title": "尼泊尔泥石流灾害遇难人数升至1392人 - thecover.cn",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TWjViUkt6M2xhR2ZDbEZFbnBOZGVFc2ZxSThOT29tdDBIbk9tWHZIY1NaWk4zek12MXNQeVJXZUhwUGRrc3ZvV1l0alhlMG1DaV9RV0tnVFg3X3pYdGxjSDNpUm5ERGdoWTFVN2tQVXROQjJSakZz?oc=5",
-      "site": "封面新闻",
+      "site": "thecover.cn",
       "siteUrl": "https://m.thecover.cn"
     },
     {
@@ -581,27 +605,27 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-b2595313697c",
+      "id": "FL-1054e84962db",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 05:51:02 GMT",
       "ts": 1789710662000,
       "scope": "dom",
       "type": "geo",
-      "title": "江西上犹县高峰村发生泥石流险情：4栋空置房屋倒塌，无人员伤亡 - 新浪财经_金融信息服务商",
+      "title": "江西上犹县高峰村发生泥石流险情：4栋空置房屋倒塌，无人员伤亡 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUXY0Z211ZFRRMzJISVdUVGhvTWVQOTlCRm04VFJoMFZZRkt0TUI1MmNNanFaX2FETlBYX20zTWVCaXkwVG93SHJ5YUVfdVc4LUdFcUVuRWwtYTBaR2JvNHlWZUZhRmduZkMybko3ZEhDc1dSeHEyeE5JbVdFdHFnSHhqdHhpYUpUNGprYW1QaDFLaUhyZVZQQw?oc=5",
-      "site": "新浪财经_金融信息服务商",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-a686f3d86e29",
+      "id": "FL-96a8f5ef9e87",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 05:32:21 GMT",
       "ts": 1789709541000,
       "scope": "dom",
       "type": "collapse",
-      "title": "视频|内部防线轰然崩塌，白宫深夜举起白旗，美联储绝杀一击究竟击溃了谁？ - 新浪财经_金融信息服务商",
+      "title": "视频|内部防线轰然崩塌，白宫深夜举起白旗，美联储绝杀一击究竟击溃了谁？ - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZWDRSQlcycjBiU294MkZFQkFvUmVIMkRKblY5M05jWE1MNWdOMW95dm9GazRrZHAyMWo5TWtwWE5WWFlIM2FQWndGaTY2UzV1SXRhYU5fVXlWTVNiOGg3aW9Ld0c5bzFTVloxbW5aUnNLcWdhNTc2NA?oc=5",
-      "site": "新浪财经_金融信息服务商",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -615,18 +639,6 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hMjY4TG96UlhkQnVYNWZlWndrQVV2aVIwdHllRXVqZ2VXeGQzamwzTHdrb0Q0emF2dXpUWEpoNXE3SEJLSFRqUW5SVElfYTN2NjRUN0VVWHFLNDF3aGsybG5vWmlzLVpOQlY4?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-23921084238d",
-      "date": "2026-09-18",
-      "dateISO": "Fri, 18 Sep 2026 04:39:56 GMT",
-      "ts": 1789706396000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "台湾民间捐款逾14亿日元支援熊本地震灾区| NHK WORLD-JAPAN News - nhk.or.jp",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56NlBVODd5TER2aFI1U2F4Si14NGw5c1V4cXJlMEMyLXpnZFVkcVZ5RE1kbGZOeWNHWlJqZU92YnlEMXlqc3k5UDRYdm8tczJURFhxekRGa19ueC04am9Cb1E5ZnZFVzQ?oc=5",
-      "site": "nhk.or.jp",
-      "siteUrl": "https://www3.nhk.or.jp"
     },
     {
       "id": "FL-143028de753b",
@@ -689,39 +701,27 @@
       "siteUrl": "http://sm.fjsen.com"
     },
     {
-      "id": "FL-d42ae394b592",
+      "id": "FL-da19358871bc",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 01:44:31 GMT",
       "ts": 1789695871000,
       "scope": "dom",
       "type": "weather",
-      "title": "8栋576套安置房开建 湖北省黄冈市龙卷风受灾群众2027年搬新家 - 中华网",
+      "title": "8栋576套安置房开建 湖北省黄冈市龙卷风受灾群众2027年搬新家 - hb.china.com",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0Z3dmNXJKQ0M1SjlDdTVqcnQ3dk9Lbld3bEhpQlRqNGJ4QXRselBnU1BkS0ZhSTFlYnlDdTV1elAwUEpSVldhOUxlSXR3Qy1hZlVRMm9UZl95Q1BxWHMzQ3ItUUtGSGZS?oc=5",
-      "site": "中华网",
+      "site": "hb.china.com",
       "siteUrl": "https://hb.china.com"
     },
     {
-      "id": "FL-cf9b92b5af34",
-      "date": "2026-09-18",
-      "dateISO": "Fri, 18 Sep 2026 01:03:34 GMT",
-      "ts": 1789693414000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "澳洲移民政策大地震！這六類人受影響 - 新唐人電視台",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SQU1qZ1RxdWV0YWRQVGJ4OFE1WHdua0xEbl9qb0wxT3NZNGZGMWJQZUpxUWd6YnpzX1ZSRE1MREJldk14UXp3TVBKUXBvZVd1c0taV2FaMzU4NjBCRFk5QtIBZkFVX3lxTFBaMzdjRmc4Sm5xYmtwVjNWenNQemlCSmRYVTdwT1FfUDRFX19HVlh5U1VVVTlPX1Y2VTNRUE1CUUpTME1nTUJwLUFsVHgwWjl1UnNIQUFEUzl0RnJvYXJ3WlRsVzlhQQ?oc=5",
-      "site": "新唐人電視台",
-      "siteUrl": "https://www.ntdtv.com"
-    },
-    {
-      "id": "FL-ba4d2bb9d156",
+      "id": "FL-5cc4707cccd0",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 00:05:07 GMT",
       "ts": 1789689907000,
       "scope": "dom",
       "type": "geo",
-      "title": "瞳孔地震！摩托追尾等红灯小车，骑手如此甩锅：“他不该停这儿！” - 手机新浪网",
+      "title": "瞳孔地震！摩托追尾等红灯小车，骑手如此甩锅：“他不该停这儿！” - 新浪网",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1QU1kbnJKOG5CNzhuNHJDWHI4NHRWUE13RGZNQjNYWHRqY0M2Z0lORktwVDdQaUt3bmNEa09PRVR5UUxoaE9nOGJFemMwZkZxclFqYWl6MXd6X2lkLVZoRVZIdE4xS0I0X25MUWUydWNfZW8?oc=5",
-      "site": "手机新浪网",
+      "site": "新浪网",
       "siteUrl": "https://k.sina.com.cn"
     }
   ]
