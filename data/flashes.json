@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T07:41:30.746Z",
+  "updated": "2026-09-18T07:54:24.041Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -75,15 +75,15 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-d0ee7003c366",
+      "id": "FL-3364f4cf5ca9",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 10:41:32 GMT",
       "ts": 1789555292000,
       "scope": "dom",
       "type": "other",
-      "title": "加沙城一战损建筑倒塌致至少20人死亡 - 新华网客户端",
+      "title": "加沙城一战损建筑倒塌致至少20人死亡 - app.xinhuanet.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMkVIeDBkU29Ya0JDUWMyTmoyMGtJV1N1MHY5QmRjWXhCcUgzMFNTZUJDeDN6R3c2RU1qOEFOSVRuNWVDd1JQUUJ3TjdYT2Yxc3cxUUJQM3VkSnQyQXFzREpYT0ZFS2xlbXYtcGR6M3ZRRjNONGo3amtkZGxFb05mcDY3emJPMGx2SVFzbEd3ekVuM184b3Yza1RB?oc=5",
-      "site": "新华网客户端",
+      "site": "app.xinhuanet.com",
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
@@ -169,7 +169,7 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vUDNYWUQ5Sk1YLVdsMTlHNjFKUU1DeGMwanlEVUdfVDZMUkREc1UteUVWakFJNjVGN094UjZyZFBsZzZGMW8wMmRaMUlYMVUxYnc?oc=5",
       "site": "虎嗅网",
       "siteUrl": "https://m.huxiu.com",
-      "related": 35
+      "related": 37
     },
     {
       "id": "FL-674383638b4c",
@@ -182,18 +182,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfWmowNGIyc200QU1ESDVxbC1hdmdLWUlCQXNHazV6aVdvY1FYMGFySHFueG50UGc3Q2Z2ZUVXaWNtbUQtNlBMWkRDLU01T2R5blhnY2UtSUR5ZUdHaWt5YWszOFRFQdIBa0FVX3lxTE5ncUFxSTZyWVZGQ05yLWwtOGVLS01kb2lsNjY5cVNfU1VlN1hWSjFtUEx4eEpObTY3c3F5czNZeElUM01KaU5uVF9NQ2FDdGlMY29tbi16UFluSkVGSzFkNXJHZFFTOUU5eW80?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-ec0d2255786c",
-      "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 15:44:17 GMT",
-      "ts": 1789487057000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1403人遇难 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CX1BCWlpfQWdzOUk4NER1dmF5Ym5MOE1jem9VWlBhYXZJSmJIRjJEMjAtNlEtUnZjcmpHSkZjOW1GVXJ3WU80Q1BGYVF3NDBGREMwWWVYZWEtY3Qxa3hMdFdBTWFINHBRekRFbWdXa2QzYjFFc0E?oc=5",
-      "site": "央广网",
-      "siteUrl": "https://www.cnr.cn"
     },
     {
       "id": "FL-2244178adc9f",
@@ -214,9 +202,9 @@
       "ts": 1789448166000,
       "scope": "dom",
       "type": "fire",
-      "title": "国务院对中国船舶集团青岛北海造船有限公司“9·10”重大火灾事故提级调查 - 人民日报",
+      "title": "国务院对中国船舶集团青岛北海造船有限公司“9·10”重大火灾事故提级调查 - paper.people.com.cn",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQajhWTkhQNHZ1YnYzalZBQWktQThSWnF5U1BNVk9LMFRfSkY4YWZlQy1WVmFqQ1pZVXM4RS0yVldtRGg3Z1VQYzJwTTM5TGRvR05nMGs2Q1RfaFRqd09veGN6Y2UtNDRBSHJDYXp4dEFRM2xHUHRkcVBQcGlKOHltVQ?oc=5",
-      "site": "人民日报",
+      "site": "paper.people.com.cn",
       "siteUrl": "https://paper.people.com.cn",
       "related": 10
     },
@@ -279,18 +267,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQdFBkSGtLaFVhWnlmV2FoeEE2UWpLOWFLWEFXcXZDSmQ0N1kyck5ralQtZUNvMk8xekdtaEo1RHFTbW1Md0Zuc1IxNndBSzAtTmFKc2s1N1lHZm1QMmhxQXNLdmtHdWFC?oc=5",
       "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
-    },
-    {
-      "id": "FL-4f2d4c5e06a8",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 15:28:00 GMT",
-      "ts": 1789658880000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "截至当地时间9月17日19时，尼泊尔泥石流造成的遇难人数升至1410人，失联人数为6145人 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX3kyQWlGVWZfZ1VGVWEyX1F1RFZYdzBrS2phNnc5amFIMEJFYzR3eGZ2UDdrbWZ6NjdwVUNhdEFnWFBpNG0tSjZhWEh1dlZ4YjQ3RkxDNWVkSHpiT0Z2MGZXcUthN2lpQ2F6YWV6N1ZPU3VGUS1IVm5oSXVmWnJNblRoVC1UT19BLWxSWA?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-2e836c754100",
@@ -413,15 +389,15 @@
       "siteUrl": "https://m.thepaper.cn"
     },
     {
-      "id": "FL-8841bc672202",
+      "id": "FL-c2375999689f",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 09:21:20 GMT",
       "ts": 1789636880000,
       "scope": "intl",
       "type": "geo",
-      "title": "在尼泊尔泥石流中被困11天，获救工人中秋节前回到河南 - 凤凰网",
+      "title": "在尼泊尔泥石流中被困11天，获救工人中秋节前回到河南 - news.ifeng.com",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhcnEzb0x5LXE0MExhejF2NTQzWkRXQ3RteWtWU3lvVmZuTkdWdThBUjk4QjVZTVgzc3hyMzJLaTAzd2hYLVl6UlNXc1A?oc=5",
-      "site": "凤凰网",
+      "site": "news.ifeng.com",
       "siteUrl": "https://news.ifeng.com"
     },
     {
@@ -435,6 +411,18 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdGd5UWkwYVp6WW43NTRLZy1rb0tVMTkzNEVvb2tEZ3BOSE5MZ0ZRYk9pYWU2X2czYmQ0TEZWdmVyaWRlNFNjU3JHOGtIMm9GcldNanVibXlSSU12UU04X3htMjNSVVRSbEZ3OGhqT21fX18wZU9pVWNTVmJjYWttOVNtNDBiQ0tRdWdKNUM3bw?oc=5",
       "site": "21财经",
       "siteUrl": "https://www.21jingji.com"
+    },
+    {
+      "id": "FL-2de7c4259838",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 06:05:00 GMT",
+      "ts": 1789625100000,
+      "scope": "dom",
+      "type": "other",
+      "title": "加沙城一战损建筑倒塌致至少20人死亡 - 光明网",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jRXdZclo3eFd0RENxNHg5VTNUTDFKV0hTNkhSRXVWdkZCQld3cHN3djk0QmgwQXI0THJySEstcHl0SWhLdkJ5NXRRS2phTjd6aWl1NHlDbVZZNllDVGxV?oc=5",
+      "site": "光明网",
+      "siteUrl": "https://mil.gmw.cn"
     },
     {
       "id": "FL-14ef82677a96",
@@ -485,15 +473,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-1fb6c6bb1569",
+      "id": "FL-61a53c7642d4",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 02:51:35 GMT",
       "ts": 1789613495000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川茂县成功避险一起滑坡灾害，更多细节公布 - 凤凰网",
+      "title": "四川茂县成功避险一起滑坡灾害，更多细节公布 - news.ifeng.com",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qSUhUN3hZQjJPclIwMGE5WFV1a2w1THFzbzYxUzlwSlRJZmViX2w4S2pNNEpOMW5MY0R2V0Vxb0VicHFNN0c0VFVBcUE?oc=5",
-      "site": "凤凰网",
+      "site": "news.ifeng.com",
       "siteUrl": "https://news.ifeng.com"
     },
     {
@@ -545,15 +533,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-6efe5298d5a2",
+      "id": "FL-40d60e09c577",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 15:04:00 GMT",
       "ts": 1789311840000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1392人 - thecover.cn",
+      "title": "尼泊尔泥石流灾害遇难人数升至1392人 - 封面新闻",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TWjViUkt6M2xhR2ZDbEZFbnBOZGVFc2ZxSThOT29tdDBIbk9tWHZIY1NaWk4zek12MXNQeVJXZUhwUGRrc3ZvV1l0alhlMG1DaV9RV0tnVFg3X3pYdGxjSDNpUm5ERGdoWTFVN2tQVXROQjJSakZz?oc=5",
-      "site": "thecover.cn",
+      "site": "封面新闻",
       "siteUrl": "https://m.thecover.cn"
     },
     {
@@ -567,6 +555,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByeEVvcHlucE92a1Z3T0Ywei1RT3Ric2RMaVEzNmVtbF9VVEVPMmhrNmliNEl3TGllWktKNjNodUNSSXh3S21KUHA2cEFqckZEV0RNMmpCWWRxSGM4Zm51VUEyV0dkZ9IBa0FVX3lxTFBxM2RNYURrR1hmQ1ktWnBrME1RQ1ZESXBWZHZ4aUNoaURoXy1BLXlySk9tcDZHb25fRmV5SDB5ZTVnck9rdlNmRHdGRkl3QldGb2VEZHA3VkNWT0NITjhmMTRwUWNpZEgxNDFF?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-def32ff8029f",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 07:33:35 GMT",
+      "ts": 1789371215000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "印尼亚齐特区发生山体滑坡 已致1死13伤 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mYmtPZ21ZUzhQZnBlQWM4M1M5ME5pV2lhSEtNRmFUUlNBdEZneTRTRzRrZzF1bGZMWTBIVkdtSGN0SERGMWNlTnNMeTdTY0tFRWFRSjFaVGlmME1sNko3VWRockVLVnNmV0Nkc0tmNURKR3hnZC0ySw?oc=5",
+      "site": "央视网",
+      "siteUrl": "https://news.cctv.com"
     },
     {
       "id": "FL-e8a32a183e42",
@@ -701,27 +701,27 @@
       "siteUrl": "http://sm.fjsen.com"
     },
     {
-      "id": "FL-da19358871bc",
+      "id": "FL-d42ae394b592",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 01:44:31 GMT",
       "ts": 1789695871000,
       "scope": "dom",
       "type": "weather",
-      "title": "8栋576套安置房开建 湖北省黄冈市龙卷风受灾群众2027年搬新家 - hb.china.com",
+      "title": "8栋576套安置房开建 湖北省黄冈市龙卷风受灾群众2027年搬新家 - 中华网",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0Z3dmNXJKQ0M1SjlDdTVqcnQ3dk9Lbld3bEhpQlRqNGJ4QXRselBnU1BkS0ZhSTFlYnlDdTV1elAwUEpSVldhOUxlSXR3Qy1hZlVRMm9UZl95Q1BxWHMzQ3ItUUtGSGZS?oc=5",
-      "site": "hb.china.com",
+      "site": "中华网",
       "siteUrl": "https://hb.china.com"
     },
     {
-      "id": "FL-5cc4707cccd0",
+      "id": "FL-4ae8208f848e",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 00:05:07 GMT",
       "ts": 1789689907000,
       "scope": "dom",
       "type": "geo",
-      "title": "瞳孔地震！摩托追尾等红灯小车，骑手如此甩锅：“他不该停这儿！” - 新浪网",
+      "title": "瞳孔地震！摩托追尾等红灯小车，骑手如此甩锅：“他不该停这儿！” - k.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1QU1kbnJKOG5CNzhuNHJDWHI4NHRWUE13RGZNQjNYWHRqY0M2Z0lORktwVDdQaUt3bmNEa09PRVR5UUxoaE9nOGJFemMwZkZxclFqYWl6MXd6X2lkLVZoRVZIdE4xS0I0X25MUWUydWNfZW8?oc=5",
-      "site": "新浪网",
+      "site": "k.sina.com.cn",
       "siteUrl": "https://k.sina.com.cn"
     }
   ]
