@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T01:55:49.796Z",
+  "updated": "2026-09-18T02:07:39.696Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -39,18 +39,6 @@
       "siteUrl": "https://news.un.org"
     },
     {
-      "id": "FL-ca16e0c727fc",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 15:24:15 GMT",
-      "ts": 1789572255000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "日本茨城县发生4.8级地震 东京有明显震感 - chinanews.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZQTJjN2VIdXRHVWxuMkU3emlXVjFKTnR4QTB1Z3hhV3hKeTllNlgyams3dU9KdHZvUUxNd3dfYkw2d2ozX0FDXzkwQ3JuckZfaFlSeWljNDQwMmcwODJ0TnZ0a19BOHFl?oc=5",
-      "site": "chinanews.com.cn",
-      "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
       "id": "FL-b53816897c8a",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 15:21:36 GMT",
@@ -61,6 +49,18 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WVHhqUXhCdVdlTGJfQ0pRdHl1bTliaHFZTnpHaExTYkVaM2RRdXBjMEQxTjFiOEljcTd3d3B1bWZhOXFnWWUtZmVINU00R05MZ0RRT0JoVjVyX1JuQUNNSnhjSEpwaXZK?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
+      "id": "FL-a704a45dea9a",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 12:55:39 GMT",
+      "ts": 1789563339000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "平陆运河与六蓝水库溃坝有关？ - RFI",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWjRKaFNrd1JjaklqRGtvc2ZLSWdsX0FzNzJMTHZLeW9aM1lVQmx2eUZuOEVtdG93ZW5DQWZCUTZFSXFrRG9qRWJiSlhxalRoaVZ4SHJTa2dlZDl0cjJWMFFIVDVNWTJkRWM0N0NmRlZyTDQ2bDVWZE5kU0wzOVZGeUlIbUE4QlREbGdma1Z4bHJrMXkza1B1WWVzYkhUMTZabF9sdXlqLUE3UHk0VzZqNU55ZFBtYzFra2FlSTlGM0lZTWR3a184QzZkV1J0RG9rbVpxZWtPb3U3Wk1WTHlHQlB2MlBqNHJvc0U0aFdBcWZWc1U2Y0pOR0t0SQ?oc=5",
+      "site": "RFI",
+      "siteUrl": "https://www.rfi.fr"
     },
     {
       "id": "FL-d0ee7003c366",
@@ -280,6 +280,18 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
+      "id": "FL-2f908e334e01",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 14:48:00 GMT",
+      "ts": 1789656480000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "福克斯群岛发生6.5级地震，震源深度100千米 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9EM1NEOE9HVzhpVUNWemhzd0p0d19NajcwMDViNjBHWnFGSDRWUXNabE53bkNsLVpUdHAxZnlwWkVlZ3c5SVd1OGhHUE9WVmtJbnAyOW4xa1ZUYkJSWVJvWnpQY0o3eDF0Q29rWnE5YmJzVnoya3liTg?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
+    },
+    {
       "id": "FL-ab69eccaa42c",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 14:43:51 GMT",
@@ -422,7 +434,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX3l5cU94Y2Mzd0lKMnhZWEJjaXJib2JzS1FWdnQtQUJ2SDZKc2ZMNkY5UUxlbFZUSWFGSEltN2N1QlNiQW54NTVtdGd1dDMzVHlTUmZSZXRuX05TbnhkUU5va0JmNzhBNVRzTlhGMlAyUDhlMVdpQUZxZEF6RmEwOWUzaGRjMlVNT2o5NA?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com",
-      "related": 32
+      "related": 33
     },
     {
       "id": "FL-75503c1f8f8f",
@@ -543,30 +555,6 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Hdy1MeFFQdG9DRVRwTURsVE1DMnM0VnVHZW1sc19lZUYtbG9iS2NOT3BBb3E1X2N4ckxVRkhsaHU2cHJNT01sSE5OcEZaRDRtbHB2SjBNX1BXUEo1aFNyZ0Z6Zw?oc=5",
       "site": "四川新闻",
       "siteUrl": "https://sichuan.scol.com.cn"
-    },
-    {
-      "id": "FL-419613d78dc5",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 04:08:00 GMT",
-      "ts": 1789618080000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "茂县成功避险一起滑坡灾害，避免了255人可能因灾伤亡丨C视频 - 川观新闻",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBoRXRjcGVVcXVFTjY3N2NOanJsTGZ4S3J2MXJQZE1RYmVRZWxCSjd5ZzhObFdkQjZKbDdEY21oYWJnX1lQRXZIcEdqcUd6dw?oc=5",
-      "site": "川观新闻",
-      "siteUrl": "https://cbgc.scol.com.cn"
-    },
-    {
-      "id": "FL-134470461f01",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 03:39:41 GMT",
-      "ts": 1789616381000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流已致1403人死亡 6150人失联 - 新浪新闻_手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4tV0ZKa29SUlpnMWtkNlJjZWliemFRcjIzSTlnczg5eFhwYnUwak4tVlUzZG9lSXp4YjNxT2RabkRDMGh5dExYdTdpcWJIazB2MVpFejl4RWl5UkZuZWpUeTJSMkFXclNrM3dlbkNJTk92czNr?oc=5",
-      "site": "新浪新闻_手机新浪网",
-      "siteUrl": "https://news.sina.cn"
     },
     {
       "id": "FL-ca47c5e94270",
@@ -711,6 +699,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SMU9aYk1ieDUtRUYxczloUTVubHBZc2VCWlBtbGlLNmRWdXFGZ2xvUWhfSHZqVS0wYndtZzhUZGZDZlBiQlU0WDV2NUh5bkE1M1VtZURfZWRMaTR4SU4waWJHYXdFd9IBa0FVX3lxTFA3TVBheHVtYmo2X1ppZlgzNnhYZnc3eU9MOUVybUZlUGh0QXMwTklhWXktUm9Bcnh1dVdGcUZvZlVrWGQxTlNKX2xxVV9PRzBRSmR3QWdURDRZVEhja0loSWxWN2RtRmJxR1Y4?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-d42ae394b592",
+      "date": "2026-09-18",
+      "dateISO": "Fri, 18 Sep 2026 01:44:31 GMT",
+      "ts": 1789695871000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "8栋576套安置房开建 湖北省黄冈市龙卷风受灾群众2027年搬新家 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0Z3dmNXJKQ0M1SjlDdTVqcnQ3dk9Lbld3bEhpQlRqNGJ4QXRselBnU1BkS0ZhSTFlYnlDdTV1elAwUEpSVldhOUxlSXR3Qy1hZlVRMm9UZl95Q1BxWHMzQ3ItUUtGSGZS?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://hb.china.com"
     },
     {
       "id": "FL-5cc4707cccd0",
