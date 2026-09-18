@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T05:47:18.803Z",
+  "updated": "2026-09-18T05:56:03.348Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -85,18 +85,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83VEJCQWd3bWh6V01tdzRVLVFsaEVPV0tGeHBTR1ZqMFZOdmFlQlM5NEJPWXA2Q2t6SU9TRWtMU3k5R3hHZExmdTJRaXN4SWNMSXBpamxoSDU4SnYzaXFFNndzRFlBc3dxZlA5NWRmWVJnVUszUjZCNGhZOGU2YkE?oc=5",
       "site": "新华网",
       "siteUrl": "http://www.news.cn"
-    },
-    {
-      "id": "FL-0726765e4baf",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 09:40:00 GMT",
-      "ts": 1789551600000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川茂县发生山体滑坡，国道受阻，应急处置已展开 - thepaper.cn",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40dnJqT3RRa1lJZzNOVnE1cHR0dWxtUUZPVmpwSmV4SWl3OGh2S3NoRnhTMldmeTg5WndqcGdqZTdOQ1NYZHdTTHhGMjQ2R3N1eWdMSjl4OVotb29ZU0E?oc=5",
-      "site": "thepaper.cn",
-      "siteUrl": "https://m.thepaper.cn"
     },
     {
       "id": "FL-8eccef5d7805",
@@ -279,6 +267,18 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQdFBkSGtLaFVhWnlmV2FoeEE2UWpLOWFLWEFXcXZDSmQ0N1kyck5ralQtZUNvMk8xekdtaEo1RHFTbW1Md0Zuc1IxNndBSzAtTmFKc2s1N1lHZm1QMmhxQXNLdmtHdWFC?oc=5",
       "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
+    },
+    {
+      "id": "FL-4f2d4c5e06a8",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 15:28:00 GMT",
+      "ts": 1789658880000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "截至当地时间9月17日19时，尼泊尔泥石流造成的遇难人数升至1410人，失联人数为6145人 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX3kyQWlGVWZfZ1VGVWEyX1F1RFZYdzBrS2phNnc5amFIMEJFYzR3eGZ2UDdrbWZ6NjdwVUNhdEFnWFBpNG0tSjZhWEh1dlZ4YjQ3RkxDNWVkSHpiT0Z2MGZXcUthN2lpQ2F6YWV6N1ZPU3VGUS1IVm5oSXVmWnJNblRoVC1UT19BLWxSWA?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-002445e6c394",
