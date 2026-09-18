@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T20:54:38.355Z",
+  "updated": "2026-09-18T21:06:23.262Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -351,18 +351,6 @@
       "siteUrl": "https://news.ifeng.com"
     },
     {
-      "id": "FL-20349e76752b",
-      "date": "2026-09-03",
-      "dateISO": "Thu, 03 Sep 2026 07:00:00 GMT",
-      "ts": 1788418800000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "台风“沙德尔”带来强降雨，福建全力抢险救援 - fj.people.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9idjB1WHk1RmxjaXpsRFVqTmtSUXdDbEcwVlp0d2k5TnNndmxBNXhhV0syZmdBVlVCQzZuZk56cmNGeWFCYnp5SkVxaFFvbGQ0TXoxalUyeFJtRHJfa2l2TVhBRXJVQWVfM0E?oc=5",
-      "site": "fj.people.com.cn",
-      "siteUrl": "http://fj.people.com.cn"
-    },
-    {
       "id": "FL-89d6589d1504",
       "date": "2026-08-30",
       "dateISO": "Sun, 30 Aug 2026 07:00:00 GMT",
@@ -696,6 +684,18 @@
       "type": "geo",
       "title": "江西上犹县高峰村发生泥石流险情：4栋空置房屋倒塌，无人员伤亡 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUXY0Z211ZFRRMzJISVdUVGhvTWVQOTlCRm04VFJoMFZZRkt0TUI1MmNNanFaX2FETlBYX20zTWVCaXkwVG93SHJ5YUVfdVc4LUdFcUVuRWwtYTBaR2JvNHlWZUZhRmduZkMybko3ZEhDc1dSeHEyeE5JbVdFdHFnSHhqdHhpYUpUNGprYW1QaDFLaUhyZVZQQw?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
+    },
+    {
+      "id": "FL-96a8f5ef9e87",
+      "date": "2026-09-18",
+      "dateISO": "Fri, 18 Sep 2026 05:32:21 GMT",
+      "ts": 1789709541000,
+      "scope": "dom",
+      "type": "collapse",
+      "title": "视频|内部防线轰然崩塌，白宫深夜举起白旗，美联储绝杀一击究竟击溃了谁？ - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZWDRSQlcycjBiU294MkZFQkFvUmVIMkRKblY5M05jWE1MNWdOMW95dm9GazRrZHAyMWo5TWtwWE5WWFlIM2FQWndGaTY2UzV1SXRhYU5fVXlWTVNiOGg3aW9Ld0c5bzFTVloxbW5aUnNLcWdhNTc2NA?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
