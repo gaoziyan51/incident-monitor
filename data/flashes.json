@@ -1,19 +1,7 @@
 {
-  "updated": "2026-09-18T05:56:03.348Z",
+  "updated": "2026-09-18T06:09:04.893Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-42ba1d0df553",
-      "date": "2026-08-26",
-      "dateISO": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "ts": 1787727600000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "西藏土石流：接壤尼泊尔边境山洪暴发 上千人失踪包括多国游客 - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CTG9yTTh6cnplOGJ1TG5PUzFQRkwtNjZTTzFLcEMwYzRWQlhzTVF2eGMyUFRzdWlKYldDSTVRcWNVd2RnbkJWU1prR2FMUVhKeVk4X0c4MVNnbUFCTjItZ0JiN0xvd9IBa0FVX3lxTE1PT1F4VHcyMnlBRE5SdUdLeERKN21TU1VXSkdqTTNnWnE1MTkxNi1Yb1ZqbWQtX2ZVdGwtMFhCZjZsVmgwTi1LNkdwYWtOZTE3dDlIVzNiT3cxOHV2dzdnZF9hY2cwV3dsSi1j?oc=5",
-      "site": "BBC",
-      "siteUrl": "https://www.bbc.com"
-    },
     {
       "id": "FL-b3e995ef1dec",
       "date": "2026-09-16",
@@ -61,6 +49,18 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WVHhqUXhCdVdlTGJfQ0pRdHl1bTliaHFZTnpHaExTYkVaM2RRdXBjMEQxTjFiOEljcTd3d3B1bWZhOXFnWWUtZmVINU00R05MZ0RRT0JoVjVyX1JuQUNNSnhjSEpwaXZK?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
+      "id": "FL-a704a45dea9a",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 12:55:39 GMT",
+      "ts": 1789563339000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "平陆运河与六蓝水库溃坝有关？ - RFI",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWjRKaFNrd1JjaklqRGtvc2ZLSWdsX0FzNzJMTHZLeW9aM1lVQmx2eUZuOEVtdG93ZW5DQWZCUTZFSXFrRG9qRWJiSlhxalRoaVZ4SHJTa2dlZDl0cjJWMFFIVDVNWTJkRWM0N0NmRlZyTDQ2bDVWZE5kU0wzOVZGeUlIbUE4QlREbGdma1Z4bHJrMXkza1B1WWVzYkhUMTZabF9sdXlqLUE3UHk0VzZqNU55ZFBtYzFra2FlSTlGM0lZTWR3a184QzZkV1J0RG9rbVpxZWtPb3U3Wk1WTHlHQlB2MlBqNHJvc0U0aFdBcWZWc1U2Y0pOR0t0SQ?oc=5",
+      "site": "RFI",
+      "siteUrl": "https://www.rfi.fr"
     },
     {
       "id": "FL-d0ee7003c366",
@@ -182,6 +182,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfWmowNGIyc200QU1ESDVxbC1hdmdLWUlCQXNHazV6aVdvY1FYMGFySHFueG50UGc3Q2Z2ZUVXaWNtbUQtNlBMWkRDLU01T2R5blhnY2UtSUR5ZUdHaWt5YWszOFRFQdIBa0FVX3lxTE5ncUFxSTZyWVZGQ05yLWwtOGVLS01kb2lsNjY5cVNfU1VlN1hWSjFtUEx4eEpObTY3c3F5czNZeElUM01KaU5uVF9NQ2FDdGlMY29tbi16UFluSkVGSzFkNXJHZFFTOUU5eW80?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-ec0d2255786c",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 15:44:17 GMT",
+      "ts": 1789487057000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害已致1403人遇难 - 央广网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CX1BCWlpfQWdzOUk4NER1dmF5Ym5MOE1jem9VWlBhYXZJSmJIRjJEMjAtNlEtUnZjcmpHSkZjOW1GVXJ3WU80Q1BGYVF3NDBGREMwWWVYZWEtY3Qxa3hMdFdBTWFINHBRekRFbWdXa2QzYjFFc0E?oc=5",
+      "site": "央广网",
+      "siteUrl": "https://www.cnr.cn"
     },
     {
       "id": "FL-2244178adc9f",
@@ -341,18 +353,6 @@
       "siteUrl": "https://www.jiemian.com"
     },
     {
-      "id": "FL-b8c807288147",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 14:19:00 GMT",
-      "ts": 1789654740000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "安德烈亚诺夫群岛附近发生6.4级左右地震 - Jiemian.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRZzJQd2hZWktjUGJYQnpqUTFmczdyc2FFdzQ1OXBSOXJ6eFY1Qy1hU2J6ZTVxWjcwdWlfSmRPc0d3WFlfNlFIVGUtYWs0SF8wZ25KcURqODY?oc=5",
-      "site": "Jiemian.com",
-      "siteUrl": "https://www.jiemian.com"
-    },
-    {
       "id": "FL-7adbc6c116ac",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 14:16:11 GMT",
@@ -425,15 +425,15 @@
       "siteUrl": "https://m.thepaper.cn"
     },
     {
-      "id": "FL-c2375999689f",
+      "id": "FL-8841bc672202",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 09:21:20 GMT",
       "ts": 1789636880000,
       "scope": "intl",
       "type": "geo",
-      "title": "在尼泊尔泥石流中被困11天，获救工人中秋节前回到河南 - news.ifeng.com",
+      "title": "在尼泊尔泥石流中被困11天，获救工人中秋节前回到河南 - 凤凰网",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhcnEzb0x5LXE0MExhejF2NTQzWkRXQ3RteWtWU3lvVmZuTkdWdThBUjk4QjVZTVgzc3hyMzJLaTAzd2hYLVl6UlNXc1A?oc=5",
-      "site": "news.ifeng.com",
+      "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com"
     },
     {
@@ -497,15 +497,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-61a53c7642d4",
+      "id": "FL-1fb6c6bb1569",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 02:51:35 GMT",
       "ts": 1789613495000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川茂县成功避险一起滑坡灾害，更多细节公布 - news.ifeng.com",
+      "title": "四川茂县成功避险一起滑坡灾害，更多细节公布 - 凤凰网",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qSUhUN3hZQjJPclIwMGE5WFV1a2w1THFzbzYxUzlwSlRJZmViX2w4S2pNNEpOMW5MY0R2V0Vxb0VicHFNN0c0VFVBcUE?oc=5",
-      "site": "news.ifeng.com",
+      "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com"
     },
     {
@@ -569,18 +569,6 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-fb448a3e9124",
-      "date": "2026-07-11",
-      "dateISO": "Sat, 11 Jul 2026 07:00:00 GMT",
-      "ts": 1783753200000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "“巴威”已重新增强为“强台风级”！苏州应急响应提升为Ⅲ级 - suzhou.gov.cn",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb09jY09WOHlCWU5PWkhlMy1EZmFiMVIxcms2UGtCQlBfbTBJd3A0THlOOHprR2lTNTFyT003UDYyUmJtdkR5NVpjTEdIMzNWLUMtYWZtUWx1cWxndVZOdjZjOXdOc0Z2ejNxR2p5ZHg1WExkaGNXaVFJb0Q5dWx4bG1YNUZiTGFudms4?oc=5",
-      "site": "suzhou.gov.cn",
-      "siteUrl": "http://www.suzhou.gov.cn"
-    },
-    {
       "id": "FL-e8a32a183e42",
       "date": "2026-08-28",
       "dateISO": "Fri, 28 Aug 2026 07:00:00 GMT",
@@ -591,6 +579,30 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SMU9aYk1ieDUtRUYxczloUTVubHBZc2VCWlBtbGlLNmRWdXFGZ2xvUWhfSHZqVS0wYndtZzhUZGZDZlBiQlU0WDV2NUh5bkE1M1VtZURfZWRMaTR4SU4waWJHYXdFd9IBa0FVX3lxTFA3TVBheHVtYmo2X1ppZlgzNnhYZnc3eU9MOUVybUZlUGh0QXMwTklhWXktUm9Bcnh1dVdGcUZvZlVrWGQxTlNKX2xxVV9PRzBRSmR3QWdURDRZVEhja0loSWxWN2RtRmJxR1Y4?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-a9a75f5cef3b",
+      "date": "2026-09-18",
+      "dateISO": "Fri, 18 Sep 2026 05:56:00 GMT",
+      "ts": 1789710960000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "受强降雨影响 江西上犹县高峰村发生泥石流险情 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUGpHSFRPbkwteGxKSVVJdlFpLW9pTDU2eUROVDA0RGRycGl6RDU5cE9DVVU0aHl4dm9NY2x6X3c3R0g0Mms4OWE1c284S1lGa2lJdzYtQlM0cHB2cV9RNW0yRU5LSjlMN3pCSUs4NFFnS2RMRnc2MTVDckdYZTR1aHZvUkhVSGhZSTY0Qg?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-b2595313697c",
+      "date": "2026-09-18",
+      "dateISO": "Fri, 18 Sep 2026 05:51:02 GMT",
+      "ts": 1789710662000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "江西上犹县高峰村发生泥石流险情：4栋空置房屋倒塌，无人员伤亡 - 新浪财经_金融信息服务商",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUXY0Z211ZFRRMzJISVdUVGhvTWVQOTlCRm04VFJoMFZZRkt0TUI1MmNNanFaX2FETlBYX20zTWVCaXkwVG93SHJ5YUVfdVc4LUdFcUVuRWwtYTBaR2JvNHlWZUZhRmduZkMybko3ZEhDc1dSeHEyeE5JbVdFdHFnSHhqdHhpYUpUNGprYW1QaDFLaUhyZVZQQw?oc=5",
+      "site": "新浪财经_金融信息服务商",
+      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-a686f3d86e29",
@@ -613,18 +625,6 @@
       "type": "geo",
       "title": "#其它# 上犹县通报五指峰乡泥石流险情：无人员伤亡和失联被困，4栋空置房屋倒塌 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hMjY4TG96UlhkQnVYNWZlWndrQVV2aVIwdHllRXVqZ2VXeGQzamwzTHdrb0Q0emF2dXpUWEpoNXE3SEJLSFRqUW5SVElfYTN2NjRUN0VVWHFLNDF3aGsybG5vWmlzLVpOQlY4?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-d348891c49be",
-      "date": "2026-09-18",
-      "dateISO": "Fri, 18 Sep 2026 04:28:56 GMT",
-      "ts": 1789705736000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "今天凌晨江西省上犹县一地发生泥石流险情，当地回应：无人员伤亡和失联被困，4栋空置房屋倒塌，村内部分交通受阻，通信畅通 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVTdnU2xxdW54S29ISksxX1VieVRiVHZsWlJPSHQyajVWODVZWXVmQjZjbklybUlpRTlYOTlacmxDZ2pXYVRDak9BbGk0V3N3bVkzUDMzeWNwdHVBZF9EaDY5Xy16Qk9tVzlwN0tzM2tGSDVDWDBpWHBtY2FJVDlNdWJEWUR3VlAySmdKdQ?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
