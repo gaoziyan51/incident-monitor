@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T17:29:29.915Z",
+  "updated": "2026-09-18T17:39:08.386Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -39,16 +39,16 @@
       "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
-      "id": "FL-d0ee7003c366",
+      "id": "FL-a704a45dea9a",
       "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 10:41:32 GMT",
-      "ts": 1789555292000,
+      "dateISO": "Wed, 16 Sep 2026 12:55:39 GMT",
+      "ts": 1789563339000,
       "scope": "dom",
-      "type": "other",
-      "title": "加沙城一战损建筑倒塌致至少20人死亡 - 新华网客户端",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMkVIeDBkU29Ya0JDUWMyTmoyMGtJV1N1MHY5QmRjWXhCcUgzMFNTZUJDeDN6R3c2RU1qOEFOSVRuNWVDd1JQUUJ3TjdYT2Yxc3cxUUJQM3VkSnQyQXFzREpYT0ZFS2xlbXYtcGR6M3ZRRjNONGo3amtkZGxFb05mcDY3emJPMGx2SVFzbEd3ekVuM184b3Yza1RB?oc=5",
-      "site": "新华网客户端",
-      "siteUrl": "https://app.xinhuanet.com"
+      "type": "geo",
+      "title": "平陆运河与六蓝水库溃坝有关？ - RFI",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWjRKaFNrd1JjaklqRGtvc2ZLSWdsX0FzNzJMTHZLeW9aM1lVQmx2eUZuOEVtdG93ZW5DQWZCUTZFSXFrRG9qRWJiSlhxalRoaVZ4SHJTa2dlZDl0cjJWMFFIVDVNWTJkRWM0N0NmRlZyTDQ2bDVWZE5kU0wzOVZGeUlIbUE4QlREbGdma1Z4bHJrMXkza1B1WWVzYkhUMTZabF9sdXlqLUE3UHk0VzZqNU55ZFBtYzFra2FlSTlGM0lZTWR3a184QzZkV1J0RG9rbVpxZWtPb3U3Wk1WTHlHQlB2MlBqNHJvc0U0aFdBcWZWc1U2Y0pOR0t0SQ?oc=5",
+      "site": "RFI",
+      "siteUrl": "https://www.rfi.fr"
     },
     {
       "id": "FL-93cfa468b423",
@@ -75,27 +75,27 @@
       "siteUrl": "http://www.china.com.cn"
     },
     {
-      "id": "FL-3b369a35039f",
+      "id": "FL-fac2af0c2b80",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 09:01:01 GMT",
       "ts": 1789549261000,
       "scope": "dom",
       "type": "other",
-      "title": "加沙城一建筑倒塌已致14人死亡 百余人失踪 - 央广网",
+      "title": "加沙城一建筑倒塌已致14人死亡 百余人失踪 - news.cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CQjhqMTMySHlkV2k4UjExclpBbUFMSzVjcjI5M3c0YXFJVkNXTHhscGFoYlJxOXJZeVFseG1kR3JvY1ZPdlB5cXZxWVdmZkpLVmRaQ3FNV3dWdUpMTVdYc0hTU2l2aXNE?oc=5",
-      "site": "央广网",
+      "site": "news.cnr.cn",
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-a74bbf34ab98",
+      "id": "FL-63599e729c2a",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 07:32:41 GMT",
       "ts": 1789543961000,
       "scope": "dom",
       "type": "other",
-      "title": "海南五指山强降水基本结束 清淤、抢险、复工有序推进 - 央广网",
+      "title": "海南五指山强降水基本结束 清淤、抢险、复工有序推进 - news.cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52bnFwSExVdm9OaGprZEl2RzhiZEVra3EwNG8tOTMyNFg4YmthZFNybGs3OFpYUXNCR2Z4ZmdFTWRzaVNtRU5VUksyamhxNkEtZEhFMWNSS1NzSVlxUEQtLXpVY1JMMFNGZVVjQ0laOA?oc=5",
-      "site": "央广网",
+      "site": "news.cnr.cn",
       "siteUrl": "https://news.cnr.cn"
     },
     {
@@ -111,15 +111,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-0fed9c51ee2f",
+      "id": "FL-b79bc0488d8a",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 06:37:40 GMT",
       "ts": 1789540660000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川茂县发生山体滑坡 提前管控未造成人员伤亡 - 央广网",
+      "title": "四川茂县发生山体滑坡 提前管控未造成人员伤亡 - news.cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBXcms4anhZZDZ2dTgwMHpRZGhhYkRNLU5QbGtnQXVaUlVqNHhWaFVRcTZGLWlaSEMwRDlSaFllSlZOOTBqb0JZSWF5aHROa2QwVkI0Zlk1M1pHbVpCVjJ3bTh3cklPNWpSMjUyQTd3NzVDQQ?oc=5",
-      "site": "央广网",
+      "site": "news.cnr.cn",
       "siteUrl": "https://news.cnr.cn"
     },
     {
@@ -172,16 +172,28 @@
       "siteUrl": "https://www.guancha.cn"
     },
     {
-      "id": "FL-5c327552c46b",
+      "id": "FL-3274f0855c02",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 23:55:47 GMT",
       "ts": 1789689347000,
       "scope": "dom",
       "type": "geo",
-      "title": "新疆巴音郭楞州库尔勒市发生3.0级地震 - 央广网",
+      "title": "新疆巴音郭楞州库尔勒市发生3.0级地震 - news.cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3YXBUdUtSM25hdG1IaktvQno3UUNMMnJUbFV3QnY0ZXo1SVg3dEF4RFd3S01IOU9Oc1pxRk83eVFCM05UdVBNMFZoSjZuc0NtR2w2Y1FhdVFTM0NuUUI1b0d0SmIzTkRkR3VMYTZvMk5nZw?oc=5",
-      "site": "央广网",
+      "site": "news.cnr.cn",
       "siteUrl": "https://news.cnr.cn"
+    },
+    {
+      "id": "FL-83a7cb814b39",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 23:16:47 GMT",
+      "ts": 1789687007000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "新疆巴音郭楞州库尔勒市发生3.0级地震，震源深度12千米 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yTkN0eGozb05Ya1pjWU9RYjhiLXZvV2F4a19xdng1TUlxV3U0ME1Wc3AxeUtGV1lLbnlmRG5pX3NsR1otelFaQ1Y3WG9NVEc4M29GeHRPN28xZUlaMlE2Y0RONUxfY20xZ1owVVFpNWh5ZnYxRlBCcg?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-1b4b3fe72edc",
@@ -208,15 +220,15 @@
       "siteUrl": "http://news.china.com.cn"
     },
     {
-      "id": "FL-cd7cfbb5d90a",
+      "id": "FL-2b0b51e8390d",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 15:50:40 GMT",
       "ts": 1789660240000,
       "scope": "dom",
       "type": "geo",
-      "title": "福克斯群岛发生6.5级地震 震源深度100公里 - 央广网",
+      "title": "福克斯群岛发生6.5级地震 震源深度100公里 - news.cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQdFBkSGtLaFVhWnlmV2FoeEE2UWpLOWFLWEFXcXZDSmQ0N1kyck5ralQtZUNvMk8xekdtaEo1RHFTbW1Md0Zuc1IxNndBSzAtTmFKc2s1N1lHZm1QMmhxQXNLdmtHdWFC?oc=5",
-      "site": "央广网",
+      "site": "news.cnr.cn",
       "siteUrl": "https://news.cnr.cn"
     },
     {
@@ -616,18 +628,6 @@
       "siteUrl": "https://www.guancha.cn"
     },
     {
-      "id": "FL-b1ad8214ec2e",
-      "date": "2026-09-18",
-      "dateISO": "Fri, 18 Sep 2026 10:34:58 GMT",
-      "ts": 1789727698000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "江西上猶今日凌晨突發泥石流（視頻） - 大纪元",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yRHM4c3ZoZHJnY09BQzhwalR4dDFYY1lNbHNlQlJZa0tydlFKNHRvZ3dCVVlZZWdtZ3d6aERTMndrZnd5MWs5TEdqakhUNkI4azFTcURSS0g2eFZNRTFFV9IBZkFVX3lxTFBlaU9WSGlOdmVHRXlwZ1UyUlNOdjlkZk0tYS1wUVRnbVlhX2xrNlFWS3ZuMC12SE5LMWlqUklXalJWcjVLazN0RWZjTkRXaXhvVEFPQWVxN294cGJiZ2s3NjR1a0dhQQ?oc=5",
-      "site": "大纪元",
-      "siteUrl": "https://www.epochtimes.com"
-    },
-    {
       "id": "FL-8b135b7d5b71",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 09:57:46 GMT",
@@ -664,15 +664,15 @@
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
-      "id": "FL-6c87afbc66ba",
+      "id": "FL-5df4782103cb",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 06:51:00 GMT",
       "ts": 1789714260000,
       "scope": "dom",
       "type": "geo",
-      "title": "九州新干线在熊本地震52天后恢复全线运行 - china.kyodonews.net",
+      "title": "九州新干线在熊本地震52天后恢复全线运行 - 共同网",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Wb01tOFZ4Z2F1OFU0VFQ1UzZWVjVjcWhoRVJHQi1RTzFDcTdfMVBuR1VsSmdHRnhXVjBDMlc0dWVxcG9mQktxWGl1bV9uV19raEFxZUkwdw?oc=5",
-      "site": "china.kyodonews.net",
+      "site": "共同网",
       "siteUrl": "https://china.kyodonews.net"
     },
     {
