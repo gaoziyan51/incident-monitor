@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T22:20:31.929Z",
+  "updated": "2026-09-18T22:36:26.161Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -171,18 +171,6 @@
       "siteUrl": "https://www.guancha.cn"
     },
     {
-      "id": "FL-a2237798f821",
-      "date": "2026-08-20",
-      "dateISO": "Thu, 20 Aug 2026 07:00:00 GMT",
-      "ts": 1787209200000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "哥伦比亚地震：120万人亟需援助，部分社区仍无法抵达 - UN News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3V3JsRVZ2TkMxUkw3dk96SHFpNTEtSHhnQzRzMmJwOEhzZ0JnUHBNcnBMRDByWEhQTk5wbzdUMWwwenNoRVROdVBPN2phUjU3XzVOWVZoUQ?oc=5",
-      "site": "UN News",
-      "siteUrl": "https://news.un.org"
-    },
-    {
       "id": "FL-5c327552c46b",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 23:55:47 GMT",
@@ -193,18 +181,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3YXBUdUtSM25hdG1IaktvQno3UUNMMnJUbFV3QnY0ZXo1SVg3dEF4RFd3S01IOU9Oc1pxRk83eVFCM05UdVBNMFZoSjZuc0NtR2w2Y1FhdVFTM0NuUUI1b0d0SmIzTkRkR3VMYTZvMk5nZw?oc=5",
       "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
-    },
-    {
-      "id": "FL-9dfae008c070",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 17:35:00 GMT",
-      "ts": 1789666500000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1410人 失联6145人 - 中国网新闻中心",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaYkpJTDNCVENKajFEc185NmxRNWNnUlNkcWNXd1B5bEo1NGY1ZU5OSTY3XzhmTDVpNVhoXzlVazJuRHdKVkY3U002WEVrMDVKQlRLcUZNU1lGRGJMLUxPcUQwcEU0ZjJJeGJz?oc=5",
-      "site": "中国网新闻中心",
-      "siteUrl": "http://news.china.com.cn"
     },
     {
       "id": "FL-cd7cfbb5d90a",
@@ -315,15 +291,15 @@
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
-      "id": "FL-95b56978b022",
+      "id": "FL-918a1bb69786",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 03:48:50 GMT",
       "ts": 1789616930000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流已致1403人死亡 6150人失联 - 新京报",
+      "title": "尼泊尔泥石流已致1403人死亡 6150人失联 - bjnews.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YbzNWSlc2WV9YaFlsUTJEV2pDSTIydEZFZE9fZVRpQVJlTkM4Z0pNTHJTVk5pcWg1dk1rdHl6QkNWSWVrNTB3S1VxSUVjLVpLUWY2c250WmRlVDZBM3QzTVR1bUw?oc=5",
-      "site": "新京报",
+      "site": "bjnews.com.cn",
       "siteUrl": "https://www.bjnews.com.cn"
     },
     {
@@ -423,15 +399,27 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-4b736f3f7478",
+      "id": "FL-3b94c728de6c",
+      "date": "2026-09-18",
+      "dateISO": "Fri, 18 Sep 2026 22:26:30 GMT",
+      "ts": 1789770390000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害遇难人数升至1410人 失联6145人 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVnh2U1Z1TkdhelU0RXFzUWIyaFBPeVh2N00zeldIdHRTaTVZVVpYZ1BtT1BLbzFmSldpdEhhRmJSeFlzMkFOV1JUYVhXSEdXVUV0dFlPT01UYmsxN1RqSnpwdWdhOF90QUpPU1I1MlFpbjNOM01GbDNveGtYLUl0ekJMcDJ0dndjV3AtTA?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-418eed2ca087",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 21:18:20 GMT",
       "ts": 1789766300000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川发生地震 - 新浪财经_金融信息服务商",
+      "title": "四川发生地震 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbnNNU3l0eWVraTlZTWdYUWNPRDZfMTRKSXNBc0VUOGNFQUR4eXdvM3U5b29pcWRyMlY1VFFlRkgxSms4LThwcTBNTkxnYzRiY0hKODFFSkl1SzVtZU0zV09tbkpMTXVuMl9tLWw0UVVnSjJXbldheVdrMXJjcGlpdkxTR1FiRDBUcmhYaVI5R05CRmhyYnM2dldNUDZLbU5QRmhONHVFOWs3YjZudlVmZFM3NlBzLVZMSXZZa1JidTFUOUdwWFhfanpTT1RuMWd3dUtBWERhY2U?oc=5",
-      "site": "新浪财经_金融信息服务商",
+      "site": "新浪财经",
       "siteUrl": "http://finance.sina.cn"
     },
     {
@@ -507,6 +495,18 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
+      "id": "FL-0bd91beea333",
+      "date": "2026-09-18",
+      "dateISO": "Fri, 18 Sep 2026 13:13:19 GMT",
+      "ts": 1789737199000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川甘孜州新龙县发生3.2级地震 震源深度11千米 - 手机网易网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCd2lyTEVCYUMzUnpDOXllanFQcFlmazVGeXotb282Sk5Od0NnUWRIeG9LWlF2R1g0YUIxYmFyYkMyUlVRN2ZlWVFybUFERjNLU0pFN1lGM0QtUXpaNXZ0UUhn?oc=5",
+      "site": "手机网易网",
+      "siteUrl": "https://www.163.com"
+    },
+    {
       "id": "FL-EV-f283a898090a",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 13:01:19 GMT",
@@ -517,7 +517,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOHQ2b0VRWWEyak9XNF9sbG8yR1hvMkxuZTVRMzA5V2RqbVRzX1JXeW91UFozWVVkYlFkNWJybkVrMzA3eHh6cG1XVGNFX0l4YlJwYmx6MXdYcWJJV3l5ZElxRUJBUEltYzljaHdZN2xwVF9GUDVCV3AyT0J1NTR4REVSS3FaZVN3d19wSQ?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com",
-      "related": 33
+      "related": 32
     },
     {
       "id": "FL-18f2e371b120",
@@ -532,15 +532,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-2a0ff693572a",
+      "id": "FL-f2e9cf190c4e",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 12:50:00 GMT",
       "ts": 1789735800000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川甘孜州新龙县发生3.2级地震 震源深度11千米 - 新浪财经_金融信息服务商",
+      "title": "四川甘孜州新龙县发生3.2级地震 震源深度11千米 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUnVqekEwRERQUnJrVDEtYzZMb01SdDZXbUE5X1BUNUtMSFN3eE8zRGtqbW5YRXQzb0JKUzd5bVlNRGVLbDNLR2Z0MGFGWEQ5bm5hUzZ4M3ZxTDdSc2ZVdmVPS1cxOXJvLXZvSWdJQzQwLUIxSlM2UzlxZC01TkVmUjB5Yy1vMWhGUS1qUEw5MDRSazRtMEZjNg?oc=5",
-      "site": "新浪财经_金融信息服务商",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -568,27 +568,27 @@
       "siteUrl": "https://www.jiemian.com"
     },
     {
-      "id": "FL-54aa6c95db85",
+      "id": "FL-2e7ef6f2785a",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 12:09:00 GMT",
       "ts": 1789733340000,
       "scope": "dom",
       "type": "geo",
-      "title": "刚刚，四川一地接连发生地震！ - 新浪财经_金融信息服务商",
+      "title": "刚刚，四川一地接连发生地震！ - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94VUd4Yjh5a2VqRkp6ZDRqdEZDQkdWMTg3a29obTh3a0d5dzJDa29LTnMzdFVVY1VGU2gwMWVuVThmODA1Y3FxUmU2dFEtZlJWdlRPckVDMFJhUTlOZUJJUWtuaW1sbmVSam5uYjMtLU1oeHZiRWoxSA?oc=5",
-      "site": "新浪财经_金融信息服务商",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-bcb01f0ab4e4",
+      "id": "FL-7b41ca145de0",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 11:37:50 GMT",
       "ts": 1789731470000,
       "scope": "dom",
       "type": "geo",
-      "title": "织密应急通信防护网护航广西经济社会高质量发展（附图片）|广西壮族自治区|山体滑坡|抢险救灾|南宁市|贵港市_手机新浪网 - 新浪财经_金融信息服务商",
+      "title": "织密应急通信防护网护航广西经济社会高质量发展（附图片）|广西壮族自治区|山体滑坡|抢险救灾|南宁市|贵港市_手机新浪网 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDQ2l3NnQwUFB0Rkg4eDhQS2owei1paUd4eF9PVmI5eG0xR3Q3WmtMa2tLdHZkZ29SNERKVTRmbWExeGRaRDh4NjVPZjJaeXB3WEdkMTB5bmQtc3F4eXBPLUV4dmkzTjJXaFJ6cUdpOFFMU2VGb3Bvcw?oc=5",
-      "site": "新浪财经_金融信息服务商",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -616,15 +616,15 @@
       "siteUrl": "https://www.epochtimes.com"
     },
     {
-      "id": "FL-cab4e3595b43",
+      "id": "FL-8b135b7d5b71",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 09:57:46 GMT",
       "ts": 1789725466000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流被困11天获救，河南木工陆海涛平安回家 - 新浪财经_金融信息服务商",
+      "title": "尼泊尔泥石流被困11天获救，河南木工陆海涛平安回家 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPelFWcXB4cFdwWXBVcThQamVUbUY0Z244cldaWmJGWktxNVRZTFhVa3lJOVBfNlRESkNCOHA4R2tTZ0JHdHF0RnpIMGx6c0cyeGRJeGo3c1FFLV9OTXhOMHlNaVlEVXRuSnU2V0ZhRjNna3dVVmV0REFhdnFuaHQ5TVRRdkpuTUxBTGZkbU5rY0RvWWE4X0hhYlk0NDM3c2lVWTBGaXVDTm5LclIyWmFDVVRXM3lwc0Utdm4wR3ZzelYyMEt4LVNMaE1fSGtWMFptNDlmZGcxYk0?oc=5",
-      "site": "新浪财经_金融信息服务商",
+      "site": "新浪财经",
       "siteUrl": "http://finance.sina.cn"
     },
     {
@@ -664,15 +664,15 @@
       "siteUrl": "https://china.kyodonews.net"
     },
     {
-      "id": "FL-26ff639ca998",
+      "id": "FL-357eb3aba27c",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 06:39:16 GMT",
       "ts": 1789713556000,
       "scope": "dom",
       "type": "geo",
-      "title": "受强降雨影响 江西上犹县高峰村发生泥石流险情 - 新浪财经_金融信息服务商",
+      "title": "受强降雨影响 江西上犹县高峰村发生泥石流险情 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOemJteENyM0JEcUJvbThrdUZLQ2NBb2RTRFBYTnVMeFFwVnFrMm1qdTlXWDdYUHNMZU85LXRnb05ybVZvNGpXRk45U3VoYncwNnVnVWxhNE44TUN1RFlxSjFRWjZsRHFQTkRUNXFTSXhQQm9PV0pNb0RudU9xcVRLLUFlSkUzQjJmTzAyQmJBTVZaaWVUb3VTSw?oc=5",
-      "site": "新浪财经_金融信息服务商",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -688,15 +688,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-b2595313697c",
+      "id": "FL-1054e84962db",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 05:51:02 GMT",
       "ts": 1789710662000,
       "scope": "dom",
       "type": "geo",
-      "title": "江西上犹县高峰村发生泥石流险情：4栋空置房屋倒塌，无人员伤亡 - 新浪财经_金融信息服务商",
+      "title": "江西上犹县高峰村发生泥石流险情：4栋空置房屋倒塌，无人员伤亡 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUXY0Z211ZFRRMzJISVdUVGhvTWVQOTlCRm04VFJoMFZZRkt0TUI1MmNNanFaX2FETlBYX20zTWVCaXkwVG93SHJ5YUVfdVc4LUdFcUVuRWwtYTBaR2JvNHlWZUZhRmduZkMybko3ZEhDc1dSeHEyeE5JbVdFdHFnSHhqdHhpYUpUNGprYW1QaDFLaUhyZVZQQw?oc=5",
-      "site": "新浪财经_金融信息服务商",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -718,9 +718,9 @@
       "ts": 1789109482000,
       "scope": "dom",
       "type": "fire",
-      "title": "青岛一艘外籍货轮发生火灾 造成重大人员伤亡 - 新京报",
+      "title": "青岛一艘外籍货轮发生火灾 造成重大人员伤亡 - bjnews.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45U204ZEdEdEpDSW9KS1pLOHNENExGbzdXdHI4dXFTZzZWck4xV3R0UWw0QzFaZWE2aThfTXphNGNOQl9FeTBFcWhGRmc3RGMzRkJrRGVRaGc4RDBuYy01VkVUNjA?oc=5",
-      "site": "新京报",
+      "site": "bjnews.com.cn",
       "siteUrl": "https://www.bjnews.com.cn",
       "related": 8
     }
