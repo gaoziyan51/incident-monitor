@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T09:06:36.701Z",
+  "updated": "2026-09-18T09:22:00.988Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -145,7 +145,7 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZcWRUM00xcGFjLWJ6UjU5MjlqM19VSjZDWjJDRXJINDBISmVBRzlKQzV6bmVneXRLX0NyZDdaUm0zMi00QldkQVBWdGJIM2JKSzFXNXNRbHpWS2lFcElaWlprcmw4S2R3a0tub1dqTnRjM2xRY0hMblZhbw?oc=5",
       "site": "中青在线",
       "siteUrl": "http://m.cyol.com",
-      "related": 11
+      "related": 10
     },
     {
       "id": "FL-b2d13116c5ba",
@@ -182,7 +182,7 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vUDNYWUQ5Sk1YLVdsMTlHNjFKUU1DeGMwanlEVUdfVDZMUkREc1UteUVWakFJNjVGN094UjZyZFBsZzZGMW8wMmRaMUlYMVUxYnc?oc=5",
       "site": "huxiu.com",
       "siteUrl": "https://m.huxiu.com",
-      "related": 30
+      "related": 36
     },
     {
       "id": "FL-674383638b4c",
@@ -209,15 +209,15 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-2244178adc9f",
+      "id": "FL-0193c4b3b08a",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 15:16:00 GMT",
       "ts": 1789485360000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1403人遇难 - 京报网",
+      "title": "尼泊尔泥石流灾害已致1403人遇难 - xinwen.bjd.com.cn",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjMFhCQnBhSmVCT3A1cmxXSlljUnNXU3p6ZjlmUkk5akcwcGtoRXg1UnVMRWV0UW5zQTNGU09Fd0F2MUJ1MTQ4NkU5NUdqaHBzQnpPalYwLXFkaXpPRDVwZVNNUTlLWWQtcmVBcVdhZFNWQQ?oc=5",
-      "site": "京报网",
+      "site": "xinwen.bjd.com.cn",
       "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
@@ -293,15 +293,15 @@
       "siteUrl": "https://m.thepaper.cn"
     },
     {
-      "id": "FL-5a6b5903e026",
+      "id": "FL-fe58a9275009",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 14:38:00 GMT",
       "ts": 1789655880000,
       "scope": "intl",
       "type": "geo",
-      "title": "美国阿拉斯加尼科尔斯基地区发生6.3级地震 - 京报网",
+      "title": "美国阿拉斯加尼科尔斯基地区发生6.3级地震 - xinwen.bjd.com.cn",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55blByblljLXJUbGtUS0Qta0FLSlBMVUVDR3ZpdmN0UmtBZDRxYjhzYXhkdzZJMzF5Z292TnBXMkUyYllIZmFqaFI5MHIyWlR4ZThQVGtpV015WTlrUnd5T1dwajB0b2dvQnJlU1NwVnM3Zw?oc=5",
-      "site": "京报网",
+      "site": "xinwen.bjd.com.cn",
       "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
@@ -401,6 +401,18 @@
       "siteUrl": "https://news.ifeng.com"
     },
     {
+      "id": "FL-4521164698e8",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 07:37:42 GMT",
+      "ts": 1789630662000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川茂县成功避险一起滑坡灾害，避免255人可能因灾伤亡 - chinanews.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4TmRjaW9YMGszZFJOX0ViLUhCWWNkdWZvdzh3N0NtbnNkTzlaM1ZJZTYwUzEzQTlyb0xWRk4tSjdVSjM3LUJ5alRXUjFRdEhoTWFOeDJfQlVHejRMeUtfdnJkOHdZTV9D?oc=5",
+      "site": "chinanews.com.cn",
+      "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
       "id": "FL-f6be17c76967",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 06:42:00 GMT",
@@ -411,18 +423,6 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdGd5UWkwYVp6WW43NTRLZy1rb0tVMTkzNEVvb2tEZ3BOSE5MZ0ZRYk9pYWU2X2czYmQ0TEZWdmVyaWRlNFNjU3JHOGtIMm9GcldNanVibXlSSU12UU04X3htMjNSVVRSbEZ3OGhqT21fX18wZU9pVWNTVmJjYWttOVNtNDBiQ0tRdWdKNUM3bw?oc=5",
       "site": "21财经",
       "siteUrl": "https://www.21jingji.com"
-    },
-    {
-      "id": "FL-2de7c4259838",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 06:05:00 GMT",
-      "ts": 1789625100000,
-      "scope": "dom",
-      "type": "other",
-      "title": "加沙城一战损建筑倒塌致至少20人死亡 - 光明网",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jRXdZclo3eFd0RENxNHg5VTNUTDFKV0hTNkhSRXVWdkZCQld3cHN3djk0QmgwQXI0THJySEstcHl0SWhLdkJ5NXRRS2phTjd6aWl1NHlDbVZZNllDVGxV?oc=5",
-      "site": "光明网",
-      "siteUrl": "https://mil.gmw.cn"
     },
     {
       "id": "FL-14ef82677a96",
@@ -459,18 +459,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wNU1WVXJmeml4U1pPcnpDRWZsS2p4TXNXUmpUNDZLc0dFNzdoYUFCUGRlQTdZRktBd3dfQW8waHY5YWRCRzdQMTcxcVlvNTRVemFCbXVvZTNWbmtHZU4wdlhmX0NQcVBTMXNCVGlZTHVDQVppMVJ4V2hCaDdCZHM?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-5258af5761cd",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 03:04:33 GMT",
-      "ts": 1789614273000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川茂县成功避险一起滑坡灾害 更多细节公布 - chinanews.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KZFBfckZxUTlSS2RYd2JITjllcEJlQml2MVhWdUJaYmo1R0JESXU5OXY3Z1p3RTNGMVBMb0VtX1o5bW5lQzkzLWQ4UEdzaS1mZ1dNZ1REc1hzWXRtRjVCTzhKcDdnWDRz?oc=5",
-      "site": "chinanews.com.cn",
-      "siteUrl": "https://www.chinanews.com.cn"
     },
     {
       "id": "FL-1fb6c6bb1569",
@@ -545,6 +533,18 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
+      "id": "FL-fb448a3e9124",
+      "date": "2026-07-11",
+      "dateISO": "Sat, 11 Jul 2026 07:00:00 GMT",
+      "ts": 1783753200000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "“巴威”已重新增强为“强台风级”！苏州应急响应提升为Ⅲ级 - suzhou.gov.cn",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb09jY09WOHlCWU5PWkhlMy1EZmFiMVIxcms2UGtCQlBfbTBJd3A0THlOOHprR2lTNTFyT003UDYyUmJtdkR5NVpjTEdIMzNWLUMtYWZtUWx1cWxndVZOdjZjOXdOc0Z2ejNxR2p5ZHg1WExkaGNXaVFJb0Q5dWx4bG1YNUZiTGFudms4?oc=5",
+      "site": "suzhou.gov.cn",
+      "siteUrl": "http://www.suzhou.gov.cn"
+    },
+    {
       "id": "FL-def32ff8029f",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 07:33:35 GMT",
@@ -569,16 +569,16 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-c9e7ba6792f8",
+      "id": "FL-16971aea7af3",
       "date": "2026-09-18",
-      "dateISO": "Fri, 18 Sep 2026 08:46:00 GMT",
-      "ts": 1789721160000,
+      "dateISO": "Fri, 18 Sep 2026 08:46:29 GMT",
+      "ts": 1789721189000,
       "scope": "dom",
       "type": "geo",
-      "title": "在茂县石大关山体滑坡中，他最早“吹哨”预警并协助转移群众，被应急管理部点名表扬丨C视频 - 川观新闻",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1TUFhvekFoYlNUbUFTQTNaNklXUFRWdFNJakY2RXZHYk5zT3N3dUp2NXV6ZVBCdVg4emctbkpIU1lKZW41YW4zdGNXeDdhQQ?oc=5",
-      "site": "川观新闻",
-      "siteUrl": "https://cbgc.scol.com.cn"
+      "title": "在茂县石大关山体滑坡中，他最早“吹哨”预警并协助转移群众，被应急管理部点名表扬丨C视频 - 四川新闻",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zTXBPYzEwbzg4cjgxNzlELVpIdXF3Z2VlVlVyUUw2ZmdSYTVrUHdJbC1nTkhUNlNwTU1oclFMbTFEanJ0SkpubFlHNmtQS3QtOVN3WWVwVU9RLVdXSHlCSFYzWQ?oc=5",
+      "site": "四川新闻",
+      "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
       "id": "FL-ed06ad4ddbf0",
@@ -591,18 +591,6 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZF9QOWZWblFLZENNWkxhMUpNaEZ1a05YeDVSVnlaVFdxRmRUNUtMMmRYMFc0V3ZJNEZrcUZ5WnluNExzdFFCR2pOeVVTbXRkdXA2Ql96and2SEVla0hLVkY4R2I2YjRhOHFvTjQ0b1pyRnJBN1N5MVZQWVppcUFVVnFlRDE4MFFnRVVRb2RoaEhNQQ?oc=5",
       "site": "8world",
       "siteUrl": "https://www.8world.com"
-    },
-    {
-      "id": "FL-75217012a91c",
-      "date": "2026-09-18",
-      "dateISO": "Fri, 18 Sep 2026 07:46:21 GMT",
-      "ts": 1789717581000,
-      "scope": "intl",
-      "type": "collapse",
-      "title": "求战无果、靠山崩塌！沙特向美求援碰壁，就只能“砸钱换和平”？ - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX29EN1hRMlpoLWNsZlNENVR2UXRtRDRfUDJPWFRuWHJTZjFORXlsV0pBNVgwTWgwWERwS1B0VGVXU0NTeFBnM0VRZlNtZ1A0ZlBxX2h1STM5cUY3ZTJfcVRsbGM3WlBxUVNzNmQwWWsyclJqSk4yN1VON0pubnZIM2VBQlBCSWtLcngwTQ?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-5df4782103cb",
@@ -687,6 +675,18 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFMmF3OW1MeDFCWHdYcFVaWEVDa3AyWWNhTlBmSGFZenlHMWZ5cDZvSW01eWFzNzhBR0VCRzJCVFVtOVdlNWhnOHpzNm1LbUFXRXA3X18tS3J4dGVpSnl3WGRUaXFaVHVQZ09F?oc=5",
       "site": "汽车之家",
       "siteUrl": "https://chejiahao.autohome.com.cn"
+    },
+    {
+      "id": "FL-2f0d17ec68f4",
+      "date": "2026-09-18",
+      "dateISO": "Fri, 18 Sep 2026 03:06:16 GMT",
+      "ts": 1789700776000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "江西上犹发生泥石流，监控拍下有车辆被冲走，村民：听到轰隆声后赶紧跑 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRFhSOWpsVXRKSGVNQ19sNGZrSmloejVRem5TWGh2b2M0OUoxRzh5Y3Y0MTVpd3pBcmRSN1dGTTlrRk9LcVJ0OWZ5MmpkZkVpX011MGJCMUkxZ1RFNFRYWUtVRmRMblpKeW9qVGs3R3VmX0swUkNtdW5idTVscjQ4R1A3THEyMlRC?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-87ff3efb2ef5",
