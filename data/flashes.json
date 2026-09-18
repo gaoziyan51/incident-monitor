@@ -1,19 +1,7 @@
 {
-  "updated": "2026-09-18T13:57:06.622Z",
+  "updated": "2026-09-18T14:10:21.555Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-01049f3dcf6b",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 23:41:00 GMT",
-      "ts": 1789602060000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "亲历尼泊尔泥石流救灾：现场救援、气候变迁与生死哲学｜907编辑部 - thepaper.cn",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02cjFSV1R3bENYWlVqR0xiRlI1aVZkVHZFdTQ2RUx6cmxkclZiRmkxLTZIT3M1MFdvWXgzamQ0aHFtX1NaR1dTWkw0azREZWVvcEphSkFpMU9ISU9xWXh3Sg?oc=5",
-      "site": "thepaper.cn",
-      "siteUrl": "https://www.thepaper.cn"
-    },
     {
       "id": "FL-b3e995ef1dec",
       "date": "2026-09-16",
@@ -121,19 +109,6 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52bnFwSExVdm9OaGprZEl2RzhiZEVra3EwNG8tOTMyNFg4YmthZFNybGs3OFpYUXNCR2Z4ZmdFTWRzaVNtRU5VUksyamhxNkEtZEhFMWNSS1NzSVlxUEQtLXpVY1JMMFNGZVVjQ0laOA?oc=5",
       "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
-    },
-    {
-      "id": "FL-EV-18d9b0620c3d",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 07:28:00 GMT",
-      "ts": 1789543680000,
-      "scope": "dom",
-      "type": "fire",
-      "title": "青岛一艘外籍货轮发生火灾 - 中青在线",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZcWRUM00xcGFjLWJ6UjU5MjlqM19VSjZDWjJDRXJINDBISmVBRzlKQzV6bmVneXRLX0NyZDdaUm0zMi00QldkQVBWdGJIM2JKSzFXNXNRbHpWS2lFcElaWlprcmw4S2R3a0tub1dqTnRjM2xRY0hMblZhbw?oc=5",
-      "site": "中青在线",
-      "siteUrl": "http://m.cyol.com",
-      "related": 9
     },
     {
       "id": "FL-b2d13116c5ba",
@@ -353,6 +328,18 @@
       "siteUrl": "https://www.mfa.gov.cn"
     },
     {
+      "id": "FL-4521164698e8",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 07:37:42 GMT",
+      "ts": 1789630662000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川茂县成功避险一起滑坡灾害，避免255人可能因灾伤亡 - chinanews.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4TmRjaW9YMGszZFJOX0ViLUhCWWNkdWZvdzh3N0NtbnNkTzlaM1ZJZTYwUzEzQTlyb0xWRk4tSjdVSjM3LUJ5alRXUjFRdEhoTWFOeDJfQlVHejRMeUtfdnJkOHdZTV9D?oc=5",
+      "site": "chinanews.com.cn",
+      "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
       "id": "FL-f6be17c76967",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 06:42:00 GMT",
@@ -389,15 +376,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-c9b68acc8729",
+      "id": "FL-553feaef91e2",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 04:08:43 GMT",
       "ts": 1789618123000,
       "scope": "dom",
       "type": "geo",
-      "title": "茂县成功避险一起滑坡灾害，避免了255人可能因灾伤亡丨C视频 - 四川新闻",
+      "title": "茂县成功避险一起滑坡灾害，避免了255人可能因灾伤亡丨C视频 - sichuan.scol.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Hdy1MeFFQdG9DRVRwTURsVE1DMnM0VnVHZW1sc19lZUYtbG9iS2NOT3BBb3E1X2N4ckxVRkhsaHU2cHJNT01sSE5OcEZaRDRtbHB2SjBNX1BXUEo1aFNyZ0Z6Zw?oc=5",
-      "site": "四川新闻",
+      "site": "sichuan.scol.com.cn",
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
@@ -605,15 +592,15 @@
       "siteUrl": "https://www.jiemian.com"
     },
     {
-      "id": "FL-c2c7d0f4f8bc",
+      "id": "FL-1229c5c0493c",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 12:07:27 GMT",
       "ts": 1789733247000,
       "scope": "dom",
       "type": "fire",
-      "title": "东北虫灾大爆发 内蒙下冰雹 山东旱稻树木起火（视频） - 人民报手机版",
+      "title": "东北虫灾大爆发 内蒙下冰雹 山东旱稻树木起火（视频） - renminbao.com",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mMkZKSXo1a2tSZTlhLTlWOW1rb1JGa1ktSzl3TDQ2WXpaOXN2OFBZMHdPLVlwTFYyRzREazd4cEZtSFlTVmFTMzBJVjJEVjVhekt2R2x4VDJrNHhocVRJQThQTDluOEhnZmhCMQ?oc=5",
-      "site": "人民报手机版",
+      "site": "renminbao.com",
       "siteUrl": "https://www.renminbao.com"
     },
     {
@@ -641,15 +628,15 @@
       "siteUrl": "http://finance.sina.cn"
     },
     {
-      "id": "FL-16971aea7af3",
+      "id": "FL-e0c839b1d53e",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 08:46:29 GMT",
       "ts": 1789721189000,
       "scope": "dom",
       "type": "geo",
-      "title": "在茂县石大关山体滑坡中，他最早“吹哨”预警并协助转移群众，被应急管理部点名表扬丨C视频 - 四川新闻",
+      "title": "在茂县石大关山体滑坡中，他最早“吹哨”预警并协助转移群众，被应急管理部点名表扬丨C视频 - sichuan.scol.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zTXBPYzEwbzg4cjgxNzlELVpIdXF3Z2VlVlVyUUw2ZmdSYTVrUHdJbC1nTkhUNlNwTU1oclFMbTFEanJ0SkpubFlHNmtQS3QtOVN3WWVwVU9RLVdXSHlCSFYzWQ?oc=5",
-      "site": "四川新闻",
+      "site": "sichuan.scol.com.cn",
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
@@ -723,6 +710,19 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORklNaXlFbjdzZVlrMlc1dEVDXzZPZUhzbjJkTkZNcExPNk1EUDFzOUxTZTJaSEJhMlFEeDZPVkpoUm15d2REQ09HODNPc2NHQnNDZDZEdHZOYTRVdE1uR3FhRG5XYWlkamVnQ0lkb1lfd1d4cWJMMXpDVUV6WlZOWnc3OEJpcm9PNjBfYg?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-EV-18d9b0620c3d",
+      "date": "2026-09-11",
+      "dateISO": "Fri, 11 Sep 2026 06:51:22 GMT",
+      "ts": 1789109482000,
+      "scope": "dom",
+      "type": "fire",
+      "title": "青岛一艘外籍货轮发生火灾 造成重大人员伤亡 - 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45U204ZEdEdEpDSW9KS1pLOHNENExGbzdXdHI4dXFTZzZWck4xV3R0UWw0QzFaZWE2aThfTXphNGNOQl9FeTBFcWhGRmc3RGMzRkJrRGVRaGc4RDBuYy01VkVUNjA?oc=5",
+      "site": "新京报",
+      "siteUrl": "https://www.bjnews.com.cn",
+      "related": 8
     }
   ]
 }
