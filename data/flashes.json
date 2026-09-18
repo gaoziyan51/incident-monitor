@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T14:58:51.966Z",
+  "updated": "2026-09-18T15:13:32.256Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -63,15 +63,15 @@
       "siteUrl": "http://www.news.cn"
     },
     {
-      "id": "FL-8eccef5d7805",
+      "id": "FL-2ec426a3c9d2",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 09:12:00 GMT",
       "ts": 1789549920000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川茂县发生山体滑坡 161名群众提前转移无伤亡 - 中国网",
+      "title": "四川茂县发生山体滑坡 161名群众提前转移无伤亡 - china.com.cn",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4bFVHOUpnLWpVdTRDVDFjMnY1dHZ3M3ZWY3E4YVI4ckJ5SjNhRWdGaVFRR1VpX3dOVUNHVWFWYy1ZUUVBYUQyd2FPdkc5cFJzekdOU25lMlRvaWRLZ2JJUkhqdUdzb0l6NUhPR0NqMA?oc=5",
-      "site": "中国网",
+      "site": "china.com.cn",
       "siteUrl": "http://www.china.com.cn"
     },
     {
@@ -133,7 +133,7 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vUDNYWUQ5Sk1YLVdsMTlHNjFKUU1DeGMwanlEVUdfVDZMUkREc1UteUVWakFJNjVGN094UjZyZFBsZzZGMW8wMmRaMUlYMVUxYnc?oc=5",
       "site": "虎嗅网",
       "siteUrl": "https://m.huxiu.com",
-      "related": 29
+      "related": 28
     },
     {
       "id": "FL-674383638b4c",
@@ -196,15 +196,15 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-042d782d748f",
+      "id": "FL-1b4b3fe72edc",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 22:54:52 GMT",
       "ts": 1789685692000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流被困11天获救工人回到河南 父子紧紧相拥 - news.hsw.cn",
+      "title": "尼泊尔泥石流被困11天获救工人回到河南 父子紧紧相拥 - 华商网",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tdk1MU2RsUndscHRCRUR5Wm4xdW1OdDgyOW5OSnBUMWMteHBxWWVpXzRub1NBQXpFSnBRU1gzSnVpdFVzNW9pUXdRNG1BdE44RnVYWE5oRWZkanJuMnhn?oc=5",
-      "site": "news.hsw.cn",
+      "site": "华商网",
       "siteUrl": "https://news.hsw.cn"
     },
     {
@@ -268,16 +268,28 @@
       "siteUrl": "https://www.jiemian.com"
     },
     {
-      "id": "FL-75503c1f8f8f",
+      "id": "FL-bb14d3989034",
       "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 12:46:00 GMT",
-      "ts": 1789649160000,
+      "dateISO": "Thu, 17 Sep 2026 14:04:43 GMT",
+      "ts": 1789653883000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "理论＋实操！市应急管理局联合地震监测中心站开展校园防震减灾科普活动 - 九江新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtdVd6anpnQWt6Q2IxY3NVekZ2emc1ZmZERWJUNjR6ZllUTWxBWV96LU1vU1RXcm5GazBucDdGUkd2SlVjMnZKVG1XX3djMXZuLXZIVUpDNXROVTRwbTNF?oc=5",
+      "site": "九江新闻网",
+      "siteUrl": "https://www.jjxw.cn"
+    },
+    {
+      "id": "FL-f1b74b512812",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 12:55:59 GMT",
+      "ts": 1789649759000,
       "scope": "intl",
       "type": "geo",
-      "title": "国际研究机构：尼泊尔泥石流灾害与气候变化密切相关 - thepaper.cn",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HN0J5OURnR0xMQ2R5Nkh0azNxMnBXbVRvYnY5WlJsejhlcWtKT0FQaklGRFJkdVhMdHM1bGtHeDRfVUpHQmtway1lZWgyMEZoWDR3WDVyaGF3bk1qdkxRMA?oc=5",
-      "site": "thepaper.cn",
-      "siteUrl": "https://www.thepaper.cn"
+      "title": "国际研究机构：尼泊尔泥石流灾害与气候变化密切相关 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54dmJJQUh3UE5aNVVhOXhKRDJaY01KQmg0YmFEQk1wNklPa2VCZkpObWUwRDlmT0dRNVVqLXhwOC1fS1FWdno0SkJLVWlnelRHSFBIYUZDWGdoaDVZQzd0WWtBNUpCR2VPRGROR0k3dkVsYzcwOG16UA?oc=5",
+      "site": "央视网",
+      "siteUrl": "https://news.cctv.com"
     },
     {
       "id": "FL-263418d50a2b",
@@ -304,18 +316,6 @@
       "siteUrl": "https://www.21jingji.com"
     },
     {
-      "id": "FL-68ccd8e2211d",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 05:02:01 GMT",
-      "ts": 1789621321000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流已致1403人死亡，6150人失联 - 中国宁波网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XY3pDTEx1SmdENTQ3RmtiX2tVT3QyTEUxSXgyZndjTE0wY2t4Yl84TG1fRm9hWkk4NlNJa0hKUnZkdzRJeW1rX3FBcmp0R1pWRWdCOFBoMUQzN2FVc09yQWlPeFBBWi1f?oc=5",
-      "site": "中国宁波网",
-      "siteUrl": "http://news.cnnb.com.cn"
-    },
-    {
       "id": "FL-14ef82677a96",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 04:15:23 GMT",
@@ -328,15 +328,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-553feaef91e2",
+      "id": "FL-c9b68acc8729",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 04:08:43 GMT",
       "ts": 1789618123000,
       "scope": "dom",
       "type": "geo",
-      "title": "茂县成功避险一起滑坡灾害，避免了255人可能因灾伤亡丨C视频 - sichuan.scol.com.cn",
+      "title": "茂县成功避险一起滑坡灾害，避免了255人可能因灾伤亡丨C视频 - 四川新闻",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Hdy1MeFFQdG9DRVRwTURsVE1DMnM0VnVHZW1sc19lZUYtbG9iS2NOT3BBb3E1X2N4ckxVRkhsaHU2cHJNT01sSE5OcEZaRDRtbHB2SjBNX1BXUEo1aFNyZ0Z6Zw?oc=5",
-      "site": "sichuan.scol.com.cn",
+      "site": "四川新闻",
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
@@ -350,6 +350,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wNU1WVXJmeml4U1pPcnpDRWZsS2p4TXNXUmpUNDZLc0dFNzdoYUFCUGRlQTdZRktBd3dfQW8waHY5YWRCRzdQMTcxcVlvNTRVemFCbXVvZTNWbmtHZU4wdlhmX0NQcVBTMXNCVGlZTHVDQVppMVJ4V2hCaDdCZHM?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-1fb6c6bb1569",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 02:51:35 GMT",
+      "ts": 1789613495000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川茂县成功避险一起滑坡灾害，更多细节公布 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qSUhUN3hZQjJPclIwMGE5WFV1a2w1THFzbzYxUzlwSlRJZmViX2w4S2pNNEpOMW5MY0R2V0Vxb0VicHFNN0c0VFVBcUE?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://news.ifeng.com"
     },
     {
       "id": "FL-31aaf7309a8a",
@@ -400,18 +412,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-40d60e09c577",
-      "date": "2026-09-13",
-      "dateISO": "Sun, 13 Sep 2026 15:04:00 GMT",
-      "ts": 1789311840000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1392人 - 封面新闻",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TWjViUkt6M2xhR2ZDbEZFbnBOZGVFc2ZxSThOT29tdDBIbk9tWHZIY1NaWk4zek12MXNQeVJXZUhwUGRrc3ZvV1l0alhlMG1DaV9RV0tnVFg3X3pYdGxjSDNpUm5ERGdoWTFVN2tQVXROQjJSakZz?oc=5",
-      "site": "封面新闻",
-      "siteUrl": "https://m.thecover.cn"
-    },
-    {
       "id": "FL-03e1c60639f5",
       "date": "2026-09-06",
       "dateISO": "Sun, 06 Sep 2026 07:00:00 GMT",
@@ -436,15 +436,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-911922bdabfa",
+      "id": "FL-98710c1e45d0",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 14:38:24 GMT",
       "ts": 1789742304000,
       "scope": "dom",
       "type": "geo",
-      "title": "中国地震台网正式测定......_7x24快讯_新浪财经 - cj.sina.cn",
+      "title": "中国地震台网正式测定......_7x24快讯_新浪财经 - 新浪财经_金融信息服务商",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwRmFoVlJXVlhWXzJGVkxTc2J0QmJxMHlwYldxeUNfdTAwemhMM2hNQ2hKdnhFV3lVWUZVNHNWa0FIMVJ5cFlaYnJnZw?oc=5",
-      "site": "cj.sina.cn",
+      "site": "新浪财经_金融信息服务商",
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
@@ -458,6 +458,18 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5rcUtwTnJjNjFaSTNDdGtnZkRrc1lib1lfZFZiLUVLeXRwbzdlT0lsSG93MmpqNmNEZnRKMy1vRTYyOWxUQnhSYmVZTFQ?oc=5",
       "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com"
+    },
+    {
+      "id": "FL-e2dfd85164ce",
+      "date": "2026-09-18",
+      "dateISO": "Fri, 18 Sep 2026 14:29:13 GMT",
+      "ts": 1789741753000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "中国电信甘肃公司河东片区地震灾害应急通信保障实战演练在天水市清水县举行 - tianshui.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yZjJlZ0lTVWxqM3hkTXhSdzlSbDczalctMzJud1VVVkhIS3RPaFRXRW5CRGpTX01HNHNEbzlVX2FMcGJOcVp0dEV5SU1ZWVhTbXYwa3VNdWs2T3V2RVR5Nlc4dmhkSWlPYlE?oc=5",
+      "site": "tianshui.com.cn",
+      "siteUrl": "http://www.tianshui.com.cn"
     },
     {
       "id": "FL-32b6e6d90fee",
@@ -628,28 +640,16 @@
       "siteUrl": "http://finance.sina.cn"
     },
     {
-      "id": "FL-e0c839b1d53e",
+      "id": "FL-1c6d8e79609b",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 08:46:29 GMT",
       "ts": 1789721189000,
       "scope": "dom",
       "type": "geo",
-      "title": "在茂县石大关山体滑坡中，他最早“吹哨”预警并协助转移群众，被应急管理部点名表扬丨C视频 - sichuan.scol.com.cn",
+      "title": "在茂县石大关山体滑坡中，他最早发现并预警，协助转移群众，被应急管理部点名表扬丨C视频 - 四川新闻",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zTXBPYzEwbzg4cjgxNzlELVpIdXF3Z2VlVlVyUUw2ZmdSYTVrUHdJbC1nTkhUNlNwTU1oclFMbTFEanJ0SkpubFlHNmtQS3QtOVN3WWVwVU9RLVdXSHlCSFYzWQ?oc=5",
-      "site": "sichuan.scol.com.cn",
+      "site": "四川新闻",
       "siteUrl": "https://sichuan.scol.com.cn"
-    },
-    {
-      "id": "FL-a21057271bb6",
-      "date": "2026-09-18",
-      "dateISO": "Fri, 18 Sep 2026 08:46:00 GMT",
-      "ts": 1789721160000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "在茂县石大关山体滑坡中，他最早发现并预警，协助转移群众，被应急管理部点名表扬丨C视频 - 川观新闻",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1TUFhvekFoYlNUbUFTQTNaNklXUFRWdFNJakY2RXZHYk5zT3N3dUp2NXV6ZVBCdVg4emctbkpIU1lKZW41YW4zdGNXeDdhQQ?oc=5",
-      "site": "川观新闻",
-      "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
       "id": "FL-ed06ad4ddbf0",
