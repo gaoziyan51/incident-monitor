@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T14:10:21.555Z",
+  "updated": "2026-09-18T14:24:57.013Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -27,28 +27,16 @@
       "siteUrl": "https://news.un.org"
     },
     {
-      "id": "FL-ca16e0c727fc",
+      "id": "FL-6b6aed7ef41b",
       "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 15:24:15 GMT",
-      "ts": 1789572255000,
+      "dateISO": "Wed, 16 Sep 2026 15:18:00 GMT",
+      "ts": 1789571880000,
       "scope": "intl",
       "type": "geo",
-      "title": "日本茨城县发生4.8级地震 东京有明显震感 - chinanews.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZQTJjN2VIdXRHVWxuMkU3emlXVjFKTnR4QTB1Z3hhV3hKeTllNlgyams3dU9KdHZvUUxNd3dfYkw2d2ozX0FDXzkwQ3JuckZfaFlSeWljNDQwMmcwODJ0TnZ0a19BOHFl?oc=5",
-      "site": "chinanews.com.cn",
-      "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-b53816897c8a",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 15:21:36 GMT",
-      "ts": 1789572096000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1409人遇难 - chinanews.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WVHhqUXhCdVdlTGJfQ0pRdHl1bTliaHFZTnpHaExTYkVaM2RRdXBjMEQxTjFiOEljcTd3d3B1bWZhOXFnWWUtZmVINU00R05MZ0RRT0JoVjVyX1JuQUNNSnhjSEpwaXZK?oc=5",
-      "site": "chinanews.com.cn",
-      "siteUrl": "https://www.chinanews.com.cn"
+      "title": "尼泊尔泥石流灾害已致1409人遇难 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95a1k2V1dIMkllSFlhWHM3dkNITUp4NVVkZFpzNE1tSDVzQkJHSWlldjFhRnQya3pTeVFOZjNfdUNSSTJNOHc3SjB3aHlpaWtWcFhfeXpjel9wb1NWdTNCamRDM0VBVkJxV3VGeHBKU2podw?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
       "id": "FL-d0ee7003c366",
@@ -208,15 +196,15 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-27b6f75f6e07",
+      "id": "FL-387f6d8e5bb4",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 23:16:47 GMT",
       "ts": 1789687007000,
       "scope": "dom",
       "type": "geo",
-      "title": "新疆巴音郭楞州库尔勒市发生3.0级地震，震源深度12千米 - finance.sina.cn",
+      "title": "新疆巴音郭楞州库尔勒市发生3.0级地震，震源深度12千米 - 新浪财经_金融信息服务商",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yTkN0eGozb05Ya1pjWU9RYjhiLXZvV2F4a19xdng1TUlxV3U0ME1Wc3AxeUtGV1lLbnlmRG5pX3NsR1otelFaQ1Y3WG9NVEc4M29GeHRPN28xZUlaMlE2Y0RONUxfY20xZ1owVVFpNWh5ZnYxRlBCcg?oc=5",
-      "site": "finance.sina.cn",
+      "site": "新浪财经_金融信息服务商",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -328,18 +316,6 @@
       "siteUrl": "https://www.mfa.gov.cn"
     },
     {
-      "id": "FL-4521164698e8",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 07:37:42 GMT",
-      "ts": 1789630662000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川茂县成功避险一起滑坡灾害，避免255人可能因灾伤亡 - chinanews.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4TmRjaW9YMGszZFJOX0ViLUhCWWNkdWZvdzh3N0NtbnNkTzlaM1ZJZTYwUzEzQTlyb0xWRk4tSjdVSjM3LUJ5alRXUjFRdEhoTWFOeDJfQlVHejRMeUtfdnJkOHdZTV9D?oc=5",
-      "site": "chinanews.com.cn",
-      "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
       "id": "FL-f6be17c76967",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 06:42:00 GMT",
@@ -376,15 +352,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-553feaef91e2",
+      "id": "FL-c9b68acc8729",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 04:08:43 GMT",
       "ts": 1789618123000,
       "scope": "dom",
       "type": "geo",
-      "title": "茂县成功避险一起滑坡灾害，避免了255人可能因灾伤亡丨C视频 - sichuan.scol.com.cn",
+      "title": "茂县成功避险一起滑坡灾害，避免了255人可能因灾伤亡丨C视频 - 四川新闻",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Hdy1MeFFQdG9DRVRwTURsVE1DMnM0VnVHZW1sc19lZUYtbG9iS2NOT3BBb3E1X2N4ckxVRkhsaHU2cHJNT01sSE5OcEZaRDRtbHB2SjBNX1BXUEo1aFNyZ0Z6Zw?oc=5",
-      "site": "sichuan.scol.com.cn",
+      "site": "四川新闻",
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
@@ -410,6 +386,18 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qSUhUN3hZQjJPclIwMGE5WFV1a2w1THFzbzYxUzlwSlRJZmViX2w4S2pNNEpOMW5MY0R2V0Vxb0VicHFNN0c0VFVBcUE?oc=5",
       "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com"
+    },
+    {
+      "id": "FL-31aaf7309a8a",
+      "date": "2026-09-03",
+      "dateISO": "Thu, 03 Sep 2026 07:00:00 GMT",
+      "ts": 1788418800000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "台风“沙德尔”带来强降雨，福建全力抢险救援 - 人民网-福建频道",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9idjB1WHk1RmxjaXpsRFVqTmtSUXdDbEcwVlp0d2k5TnNndmxBNXhhV0syZmdBVlVCQzZuZk56cmNGeWFCYnp5SkVxaFFvbGQ0TXoxalUyeFJtRHJfa2l2TVhBRXJVQWVfM0E?oc=5",
+      "site": "人民网-福建频道",
+      "siteUrl": "http://fj.people.com.cn"
     },
     {
       "id": "FL-861987facab4",
@@ -508,15 +496,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-73d3e3d50709",
+      "id": "FL-4b736f3f7478",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 13:27:43 GMT",
       "ts": 1789738063000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川发生地震 - finance.sina.cn",
+      "title": "四川发生地震 - 新浪财经_金融信息服务商",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdkgzYU8zWUtuMjlHZGZwQk5xeU45Y3BKWnBTV2hpcDN2dXlkSG8yVEtYZnBDYnVoZmdtdmtfbTVYYXJkRWhDN3ZWZl8xQzRaRE9LVjQySWNvZDU3QnlDNkVWLVpTdnhudFlTcE1Nb1YzN3RhN2xjdEVzdjZTSU50YjNmOUFTNElBOUJzTjBPQWUzU0J0VS1GbGtpenIydXRvYWdkNGN2d1lyalJ2Uzl6YmpQXzY4UTVmU0taSTAyc1VGZkNmdlhJSENuOTlndVV2Y0tESnY1SQ?oc=5",
-      "site": "finance.sina.cn",
+      "site": "新浪财经_金融信息服务商",
       "siteUrl": "http://finance.sina.cn"
     },
     {
@@ -532,27 +520,27 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-97eefdbc7f54",
+      "id": "FL-ef620f6cb371",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 12:52:00 GMT",
       "ts": 1789735920000,
       "scope": "dom",
       "type": "geo",
-      "title": "中国地震台网自动测定......_7x24快讯_新浪财经 - cj.sina.cn",
+      "title": "中国地震台网自动测定......_7x24快讯_新浪财经 - 新浪财经_金融信息服务商",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE56TjRYUWhaUnJQREpYbnViOW9FSmNKN0hEWE85WDJ6cHpmSFc1OEo2U3hTemxLWkpjYzcyMEo4ZzBqczd5RFRuZjk0NA?oc=5",
-      "site": "cj.sina.cn",
+      "site": "新浪财经_金融信息服务商",
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
-      "id": "FL-4d1ddf491e11",
+      "id": "FL-2a0ff693572a",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 12:50:00 GMT",
       "ts": 1789735800000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川甘孜州新龙县发生3.2级地震 震源深度11千米 - finance.sina.cn",
+      "title": "四川甘孜州新龙县发生3.2级地震 震源深度11千米 - 新浪财经_金融信息服务商",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUnVqekEwRERQUnJrVDEtYzZMb01SdDZXbUE5X1BUNUtMSFN3eE8zRGtqbW5YRXQzb0JKUzd5bVlNRGVLbDNLR2Z0MGFGWEQ5bm5hUzZ4M3ZxTDdSc2ZVdmVPS1cxOXJvLXZvSWdJQzQwLUIxSlM2UzlxZC01TkVmUjB5Yy1vMWhGUS1qUEw5MDRSazRtMEZjNg?oc=5",
-      "site": "finance.sina.cn",
+      "site": "新浪财经_金融信息服务商",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -592,51 +580,75 @@
       "siteUrl": "https://www.jiemian.com"
     },
     {
-      "id": "FL-1229c5c0493c",
+      "id": "FL-54aa6c95db85",
+      "date": "2026-09-18",
+      "dateISO": "Fri, 18 Sep 2026 12:09:00 GMT",
+      "ts": 1789733340000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "刚刚，四川一地接连发生地震！ - 新浪财经_金融信息服务商",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94VUd4Yjh5a2VqRkp6ZDRqdEZDQkdWMTg3a29obTh3a0d5dzJDa29LTnMzdFVVY1VGU2gwMWVuVThmODA1Y3FxUmU2dFEtZlJWdlRPckVDMFJhUTlOZUJJUWtuaW1sbmVSam5uYjMtLU1oeHZiRWoxSA?oc=5",
+      "site": "新浪财经_金融信息服务商",
+      "siteUrl": "https://finance.sina.cn"
+    },
+    {
+      "id": "FL-c2c7d0f4f8bc",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 12:07:27 GMT",
       "ts": 1789733247000,
       "scope": "dom",
       "type": "fire",
-      "title": "东北虫灾大爆发 内蒙下冰雹 山东旱稻树木起火（视频） - renminbao.com",
+      "title": "东北虫灾大爆发 内蒙下冰雹 山东旱稻树木起火（视频） - 人民报手机版",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mMkZKSXo1a2tSZTlhLTlWOW1rb1JGa1ktSzl3TDQ2WXpaOXN2OFBZMHdPLVlwTFYyRzREazd4cEZtSFlTVmFTMzBJVjJEVjVhekt2R2x4VDJrNHhocVRJQThQTDluOEhnZmhCMQ?oc=5",
-      "site": "renminbao.com",
+      "site": "人民报手机版",
       "siteUrl": "https://www.renminbao.com"
     },
     {
-      "id": "FL-312453ef5d8d",
+      "id": "FL-bcb01f0ab4e4",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 11:37:50 GMT",
       "ts": 1789731470000,
       "scope": "dom",
       "type": "geo",
-      "title": "织密应急通信防护网护航广西经济社会高质量发展（附图片）|广西壮族自治区|山体滑坡|抢险救灾|南宁市|贵港市_手机新浪网 - finance.sina.cn",
+      "title": "织密应急通信防护网护航广西经济社会高质量发展（附图片）|广西壮族自治区|山体滑坡|抢险救灾|南宁市|贵港市_手机新浪网 - 新浪财经_金融信息服务商",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDQ2l3NnQwUFB0Rkg4eDhQS2owei1paUd4eF9PVmI5eG0xR3Q3WmtMa2tLdHZkZ29SNERKVTRmbWExeGRaRDh4NjVPZjJaeXB3WEdkMTB5bmQtc3F4eXBPLUV4dmkzTjJXaFJ6cUdpOFFMU2VGb3Bvcw?oc=5",
-      "site": "finance.sina.cn",
+      "site": "新浪财经_金融信息服务商",
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-3b7c2d4850ef",
+      "id": "FL-b1ad8214ec2e",
+      "date": "2026-09-18",
+      "dateISO": "Fri, 18 Sep 2026 10:34:58 GMT",
+      "ts": 1789727698000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "江西上猶今日凌晨突發泥石流（視頻） - 大纪元",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yRHM4c3ZoZHJnY09BQzhwalR4dDFYY1lNbHNlQlJZa0tydlFKNHRvZ3dCVVlZZWdtZ3d6aERTMndrZnd5MWs5TEdqakhUNkI4azFTcURSS0g2eFZNRTFFV9IBZkFVX3lxTFBlaU9WSGlOdmVHRXlwZ1UyUlNOdjlkZk0tYS1wUVRnbVlhX2xrNlFWS3ZuMC12SE5LMWlqUklXalJWcjVLazN0RWZjTkRXaXhvVEFPQWVxN294cGJiZ2s3NjR1a0dhQQ?oc=5",
+      "site": "大纪元",
+      "siteUrl": "https://www.epochtimes.com"
+    },
+    {
+      "id": "FL-cab4e3595b43",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 09:59:32 GMT",
       "ts": 1789725572000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流被困11天获救，河南木工陆海涛平安回家 - finance.sina.cn",
+      "title": "尼泊尔泥石流被困11天获救，河南木工陆海涛平安回家 - 新浪财经_金融信息服务商",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPelFWcXB4cFdwWXBVcThQamVUbUY0Z244cldaWmJGWktxNVRZTFhVa3lJOVBfNlRESkNCOHA4R2tTZ0JHdHF0RnpIMGx6c0cyeGRJeGo3c1FFLV9OTXhOMHlNaVlEVXRuSnU2V0ZhRjNna3dVVmV0REFhdnFuaHQ5TVRRdkpuTUxBTGZkbU5rY0RvWWE4X0hhYlk0NDM3c2lVWTBGaXVDTm5LclIyWmFDVVRXM3lwc0Utdm4wR3ZzelYyMEt4LVNMaE1fSGtWMFptNDlmZGcxYk0?oc=5",
-      "site": "finance.sina.cn",
+      "site": "新浪财经_金融信息服务商",
       "siteUrl": "http://finance.sina.cn"
     },
     {
-      "id": "FL-e0c839b1d53e",
+      "id": "FL-16971aea7af3",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 08:46:29 GMT",
       "ts": 1789721189000,
       "scope": "dom",
       "type": "geo",
-      "title": "在茂县石大关山体滑坡中，他最早“吹哨”预警并协助转移群众，被应急管理部点名表扬丨C视频 - sichuan.scol.com.cn",
+      "title": "在茂县石大关山体滑坡中，他最早“吹哨”预警并协助转移群众，被应急管理部点名表扬丨C视频 - 四川新闻",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zTXBPYzEwbzg4cjgxNzlELVpIdXF3Z2VlVlVyUUw2ZmdSYTVrUHdJbC1nTkhUNlNwTU1oclFMbTFEanJ0SkpubFlHNmtQS3QtOVN3WWVwVU9RLVdXSHlCSFYzWQ?oc=5",
-      "site": "sichuan.scol.com.cn",
+      "site": "四川新闻",
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
@@ -652,15 +664,15 @@
       "siteUrl": "https://www.8world.com"
     },
     {
-      "id": "FL-5df4782103cb",
+      "id": "FL-6c87afbc66ba",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 06:51:00 GMT",
       "ts": 1789714260000,
       "scope": "dom",
       "type": "geo",
-      "title": "九州新干线在熊本地震52天后恢复全线运行 - 共同网",
+      "title": "九州新干线在熊本地震52天后恢复全线运行 - china.kyodonews.net",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Wb01tOFZ4Z2F1OFU0VFQ1UzZWVjVjcWhoRVJHQi1RTzFDcTdfMVBuR1VsSmdHRnhXVjBDMlc0dWVxcG9mQktxWGl1bV9uV19raEFxZUkwdw?oc=5",
-      "site": "共同网",
+      "site": "china.kyodonews.net",
       "siteUrl": "https://china.kyodonews.net"
     },
     {
@@ -676,40 +688,28 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-34fd293907da",
+      "id": "FL-b2595313697c",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 05:51:02 GMT",
       "ts": 1789710662000,
       "scope": "dom",
       "type": "geo",
-      "title": "江西上犹县高峰村发生泥石流险情：4栋空置房屋倒塌，无人员伤亡 - finance.sina.cn",
+      "title": "江西上犹县高峰村发生泥石流险情：4栋空置房屋倒塌，无人员伤亡 - 新浪财经_金融信息服务商",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUXY0Z211ZFRRMzJISVdUVGhvTWVQOTlCRm04VFJoMFZZRkt0TUI1MmNNanFaX2FETlBYX20zTWVCaXkwVG93SHJ5YUVfdVc4LUdFcUVuRWwtYTBaR2JvNHlWZUZhRmduZkMybko3ZEhDc1dSeHEyeE5JbVdFdHFnSHhqdHhpYUpUNGprYW1QaDFLaUhyZVZQQw?oc=5",
-      "site": "finance.sina.cn",
+      "site": "新浪财经_金融信息服务商",
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-1c473abd7f09",
+      "id": "FL-a686f3d86e29",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 05:32:21 GMT",
       "ts": 1789709541000,
       "scope": "dom",
       "type": "collapse",
-      "title": "视频|内部防线轰然崩塌，白宫深夜举起白旗，美联储绝杀一击究竟击溃了谁？ - finance.sina.cn",
+      "title": "视频|内部防线轰然崩塌，白宫深夜举起白旗，美联储绝杀一击究竟击溃了谁？ - 新浪财经_金融信息服务商",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZWDRSQlcycjBiU294MkZFQkFvUmVIMkRKblY5M05jWE1MNWdOMW95dm9GazRrZHAyMWo5TWtwWE5WWFlIM2FQWndGaTY2UzV1SXRhYU5fVXlWTVNiOGg3aW9Ld0c5bzFTVloxbW5aUnNLcWdhNTc2NA?oc=5",
-      "site": "finance.sina.cn",
+      "site": "新浪财经_金融信息服务商",
       "siteUrl": "https://finance.sina.cn"
-    },
-    {
-      "id": "FL-2f0d17ec68f4",
-      "date": "2026-09-18",
-      "dateISO": "Fri, 18 Sep 2026 03:57:44 GMT",
-      "ts": 1789703864000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "江西上犹发生泥石流，监控拍下有车辆被冲走，村民：听到轰隆声后赶紧跑 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORklNaXlFbjdzZVlrMlc1dEVDXzZPZUhzbjJkTkZNcExPNk1EUDFzOUxTZTJaSEJhMlFEeDZPVkpoUm15d2REQ09HODNPc2NHQnNDZDZEdHZOYTRVdE1uR3FhRG5XYWlkamVnQ0lkb1lfd1d4cWJMMXpDVUV6WlZOWnc3OEJpcm9PNjBfYg?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-EV-18d9b0620c3d",
