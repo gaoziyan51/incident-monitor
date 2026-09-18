@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T09:22:00.988Z",
+  "updated": "2026-09-18T09:38:00.143Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -182,7 +182,7 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vUDNYWUQ5Sk1YLVdsMTlHNjFKUU1DeGMwanlEVUdfVDZMUkREc1UteUVWakFJNjVGN094UjZyZFBsZzZGMW8wMmRaMUlYMVUxYnc?oc=5",
       "site": "huxiu.com",
       "siteUrl": "https://m.huxiu.com",
-      "related": 36
+      "related": 31
     },
     {
       "id": "FL-674383638b4c",
@@ -425,6 +425,18 @@
       "siteUrl": "https://www.21jingji.com"
     },
     {
+      "id": "FL-2de7c4259838",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 06:05:00 GMT",
+      "ts": 1789625100000,
+      "scope": "dom",
+      "type": "other",
+      "title": "加沙城一战损建筑倒塌致至少20人死亡 - 光明网",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jRXdZclo3eFd0RENxNHg5VTNUTDFKV0hTNkhSRXVWdkZCQld3cHN3djk0QmgwQXI0THJySEstcHl0SWhLdkJ5NXRRS2phTjd6aWl1NHlDbVZZNllDVGxV?oc=5",
+      "site": "光明网",
+      "siteUrl": "https://mil.gmw.cn"
+    },
+    {
       "id": "FL-14ef82677a96",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 04:15:23 GMT",
@@ -531,18 +543,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByeEVvcHlucE92a1Z3T0Ywei1RT3Ric2RMaVEzNmVtbF9VVEVPMmhrNmliNEl3TGllWktKNjNodUNSSXh3S21KUHA2cEFqckZEV0RNMmpCWWRxSGM4Zm51VUEyV0dkZ9IBa0FVX3lxTFBxM2RNYURrR1hmQ1ktWnBrME1RQ1ZESXBWZHZ4aUNoaURoXy1BLXlySk9tcDZHb25fRmV5SDB5ZTVnck9rdlNmRHdGRkl3QldGb2VEZHA3VkNWT0NITjhmMTRwUWNpZEgxNDFF?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-fb448a3e9124",
-      "date": "2026-07-11",
-      "dateISO": "Sat, 11 Jul 2026 07:00:00 GMT",
-      "ts": 1783753200000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "“巴威”已重新增强为“强台风级”！苏州应急响应提升为Ⅲ级 - suzhou.gov.cn",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb09jY09WOHlCWU5PWkhlMy1EZmFiMVIxcms2UGtCQlBfbTBJd3A0THlOOHprR2lTNTFyT003UDYyUmJtdkR5NVpjTEdIMzNWLUMtYWZtUWx1cWxndVZOdjZjOXdOc0Z2ejNxR2p5ZHg1WExkaGNXaVFJb0Q5dWx4bG1YNUZiTGFudms4?oc=5",
-      "site": "suzhou.gov.cn",
-      "siteUrl": "http://www.suzhou.gov.cn"
     },
     {
       "id": "FL-def32ff8029f",
