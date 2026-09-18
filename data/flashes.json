@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T03:29:00.481Z",
+  "updated": "2026-09-18T03:41:59.335Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -49,6 +49,18 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wdnBqX2d2T1NSQ092SjlCdW1fbVZfak4ycERLSWtGb2VxT21FdXRQSkd5bVFiVkxvZlFlaDZralk5b2FyemR4RlptclBhbDhrR1ZILTc4Zw?oc=5",
       "site": "UN News",
       "siteUrl": "https://news.un.org"
+    },
+    {
+      "id": "FL-ca16e0c727fc",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 15:24:15 GMT",
+      "ts": 1789572255000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "日本茨城县发生4.8级地震 东京有明显震感 - chinanews.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZQTJjN2VIdXRHVWxuMkU3emlXVjFKTnR4QTB1Z3hhV3hKeTllNlgyams3dU9KdHZvUUxNd3dfYkw2d2ozX0FDXzkwQ3JuckZfaFlSeWljNDQwMmcwODJ0TnZ0a19BOHFl?oc=5",
+      "site": "chinanews.com.cn",
+      "siteUrl": "https://www.chinanews.com.cn"
     },
     {
       "id": "FL-b53816897c8a",
@@ -159,19 +171,6 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-EV-18d9b0620c3d",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 07:28:00 GMT",
-      "ts": 1789543680000,
-      "scope": "dom",
-      "type": "fire",
-      "title": "青岛一艘外籍货轮发生火灾 - 中青在线",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZcWRUM00xcGFjLWJ6UjU5MjlqM19VSjZDWjJDRXJINDBISmVBRzlKQzV6bmVneXRLX0NyZDdaUm0zMi00QldkQVBWdGJIM2JKSzFXNXNRbHpWS2lFcElaWlprcmw4S2R3a0tub1dqTnRjM2xRY0hMblZhbw?oc=5",
-      "site": "中青在线",
-      "siteUrl": "http://m.cyol.com",
-      "related": 11
-    },
-    {
       "id": "FL-b2d13116c5ba",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 07:15:29 GMT",
@@ -218,6 +217,19 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CX1BCWlpfQWdzOUk4NER1dmF5Ym5MOE1jem9VWlBhYXZJSmJIRjJEMjAtNlEtUnZjcmpHSkZjOW1GVXJ3WU80Q1BGYVF3NDBGREMwWWVYZWEtY3Qxa3hMdFdBTWFINHBRekRFbWdXa2QzYjFFc0E?oc=5",
       "site": "央广网",
       "siteUrl": "https://www.cnr.cn"
+    },
+    {
+      "id": "FL-EV-18d9b0620c3d",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 04:56:06 GMT",
+      "ts": 1789448166000,
+      "scope": "dom",
+      "type": "fire",
+      "title": "国务院对中国船舶集团青岛北海造船有限公司“9·10”重大火灾事故提级调查 - 人民日报",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQajhWTkhQNHZ1YnYzalZBQWktQThSWnF5U1BNVk9LMFRfSkY4YWZlQy1WVmFqQ1pZVXM4RS0yVldtRGg3Z1VQYzJwTTM5TGRvR05nMGs2Q1RfaFRqd09veGN6Y2UtNDRBSHJDYXp4dEFRM2xHUHRkcVBQcGlKOHltVQ?oc=5",
+      "site": "人民日报",
+      "siteUrl": "https://paper.people.com.cn",
+      "related": 10
     },
     {
       "id": "FL-08cb7529b0aa",
@@ -653,28 +665,16 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-fa35ac7d126c",
+      "id": "FL-b31446269ec7",
       "date": "2026-09-18",
-      "dateISO": "Fri, 18 Sep 2026 02:27:30 GMT",
-      "ts": 1789698450000,
+      "dateISO": "Fri, 18 Sep 2026 02:21:23 GMT",
+      "ts": 1789698083000,
       "scope": "intl",
       "type": "geo",
-      "title": "朝鲜丰溪里核试验，在8年之后仍引发地震 - cnnews.chosun.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYkJDaGtIUGtuU1ZBRVMxblZDdU51Nld1NHpIRElQZm5zRVFNdTFEemJndk93ZHM4THVXRzNobXRIaHFISzNEWjZvLVpDRzJOdUNMYU93SXRLOWlsYWRiQkU5MTE2LWRFeWdaYlhWRWdNbS1yWDhUZ0RGR1ZjSnFfLTZGZVpIX2phb2w3RlFBVzItdw?oc=5",
-      "site": "cnnews.chosun.com",
+      "title": "朝鲜丰溪里核试验，在8年之后仍引发地震 - 朝鮮日報中文版",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcV9RRTIxaDk1dEh0aGJZd2Zod0k2TWMwLXNhdks5Q0xZSVJSRTFLU080RFBqcWxEQy16RXhMeDhRR3NnQVlTeFpEYUxSc0x1ZnVzMTVSNHlFX3hfWE13VWRSNHVoQ2NVaUgwMkdlYkpPODI1RldDeXFQUUNMZG5DaHBWa2VyNm8?oc=5",
+      "site": "朝鮮日報中文版",
       "siteUrl": "https://cnnews.chosun.com"
-    },
-    {
-      "id": "FL-d008345e87f1",
-      "date": "2026-09-18",
-      "dateISO": "Fri, 18 Sep 2026 02:05:28 GMT",
-      "ts": 1789697128000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "长虹能源豪赌锂电，短债压顶遭遇业绩滑坡，毛利率承压与减值掣肘盈利 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdnI4TVUxMDZSSDF5dGQ0NGRjaHNzemhQdnNkWmZkY1lveEF5YTJtM21TdVJ4NWdZeEIydVd1MEctbURWVF8zNUhraERZcjlxdVFxUWlhdUp6THpwTVdmdnBVOWo5U2tjSDNsVk41YkpfMHRCMkpLRENydFhCUkF3WmJ6MnVHS1ZlZHc?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://cj.sina.cn"
     },
     {
       "id": "FL-516c0eff9d59",
