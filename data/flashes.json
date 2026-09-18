@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T02:07:39.696Z",
+  "updated": "2026-09-18T02:23:15.605Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -51,27 +51,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-a704a45dea9a",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 12:55:39 GMT",
-      "ts": 1789563339000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "平陆运河与六蓝水库溃坝有关？ - RFI",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWjRKaFNrd1JjaklqRGtvc2ZLSWdsX0FzNzJMTHZLeW9aM1lVQmx2eUZuOEVtdG93ZW5DQWZCUTZFSXFrRG9qRWJiSlhxalRoaVZ4SHJTa2dlZDl0cjJWMFFIVDVNWTJkRWM0N0NmRlZyTDQ2bDVWZE5kU0wzOVZGeUlIbUE4QlREbGdma1Z4bHJrMXkza1B1WWVzYkhUMTZabF9sdXlqLUE3UHk0VzZqNU55ZFBtYzFra2FlSTlGM0lZTWR3a184QzZkV1J0RG9rbVpxZWtPb3U3Wk1WTHlHQlB2MlBqNHJvc0U0aFdBcWZWc1U2Y0pOR0t0SQ?oc=5",
-      "site": "RFI",
-      "siteUrl": "https://www.rfi.fr"
-    },
-    {
-      "id": "FL-d0ee7003c366",
+      "id": "FL-3364f4cf5ca9",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 10:41:32 GMT",
       "ts": 1789555292000,
       "scope": "dom",
       "type": "other",
-      "title": "加沙城一战损建筑倒塌致至少20人死亡 - 新华网客户端",
+      "title": "加沙城一战损建筑倒塌致至少20人死亡 - app.xinhuanet.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMkVIeDBkU29Ya0JDUWMyTmoyMGtJV1N1MHY5QmRjWXhCcUgzMFNTZUJDeDN6R3c2RU1qOEFOSVRuNWVDd1JQUUJ3TjdYT2Yxc3cxUUJQM3VkSnQyQXFzREpYT0ZFS2xlbXYtcGR6M3ZRRjNONGo3amtkZGxFb05mcDY3emJPMGx2SVFzbEd3ekVuM184b3Yza1RB?oc=5",
-      "site": "新华网客户端",
+      "site": "app.xinhuanet.com",
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
@@ -196,15 +184,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-ec0d2255786c",
+      "id": "FL-0674fd4d2559",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 15:44:17 GMT",
       "ts": 1789487057000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1403人遇难 - 央广网",
+      "title": "尼泊尔泥石流灾害已致1403人遇难 - cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CX1BCWlpfQWdzOUk4NER1dmF5Ym5MOE1jem9VWlBhYXZJSmJIRjJEMjAtNlEtUnZjcmpHSkZjOW1GVXJ3WU80Q1BGYVF3NDBGREMwWWVYZWEtY3Qxa3hMdFdBTWFINHBRekRFbWdXa2QzYjFFc0E?oc=5",
-      "site": "央广网",
+      "site": "cnr.cn",
       "siteUrl": "https://www.cnr.cn"
     },
     {
@@ -242,18 +230,6 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yTkN0eGozb05Ya1pjWU9RYjhiLXZvV2F4a19xdng1TUlxV3U0ME1Wc3AxeUtGV1lLbnlmRG5pX3NsR1otelFaQ1Y3WG9NVEc4M29GeHRPN28xZUlaMlE2Y0RONUxfY20xZ1owVVFpNWh5ZnYxRlBCcg?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
-    },
-    {
-      "id": "FL-44b2d503090b",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 16:44:03 GMT",
-      "ts": 1789663443000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害中被困11天获救，陆海涛今天回到河南，儿子前来迎接，父子紧紧相拥，“见到儿子就什么事都没有了” - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV1lCT1NONU9PVEF0MFpjM25oVDJfaXNoeF81dVlvUjg2SkdnODBnYV82eER5UUZnYnliTjlMX1FfZkxXczVuenhhRTlSenVvZ1BmSU1oU1FVZS1RcVJhMHpqQUJITC1yc19KYlNsNkRlZDhJamplQ3JqaExlRnUzMGh6WXZLUlFBTENsZjZGUUsyNXdjc0FEMV9rcFBWMjY3aDBkYzhMN0dUQWQwZ1RkWElseVp1VThqYlEtV3hDMUt2VFRwSVVxX0thOWo0cUpTc1RmZDNqUQ?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "http://finance.sina.cn"
     },
     {
       "id": "FL-2b0b51e8390d",
@@ -400,18 +376,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-3678ebf44698",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 14:00:12 GMT",
-      "ts": 1789653612000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "截至当地时间17日19时，尼泊尔泥石流已致1410人遇难，失联6145人 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTVNYUVNsbnN2VGxOZ0FwN2pIOUhoRWxLS2pZeTdWTTVGY1MtXzR1Yll2dlNwX3hEQlliWjhNQnFQUzNEYzhMeXp3QmtMYlFhSEhnY3ZRbGpxNU1iZU8tX2FXQnVNM2U2YnMwQ2ZvVUtIVGRkZ2hjQ1JCalZLM3JOMkRXaWl2OUpM?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-d346741d5f54",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 13:28:00 GMT",
@@ -434,7 +398,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX3l5cU94Y2Mzd0lKMnhZWEJjaXJib2JzS1FWdnQtQUJ2SDZKc2ZMNkY5UUxlbFZUSWFGSEltN2N1QlNiQW54NTVtdGd1dDMzVHlTUmZSZXRuX05TbnhkUU5va0JmNzhBNVRzTlhGMlAyUDhlMVdpQUZxZEF6RmEwOWUzaGRjMlVNT2o5NA?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com",
-      "related": 33
+      "related": 35
     },
     {
       "id": "FL-75503c1f8f8f",
@@ -461,15 +425,15 @@
       "siteUrl": "https://au.china-embassy.gov.cn"
     },
     {
-      "id": "FL-8ed43de8cc13",
+      "id": "FL-952f52dc19d9",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 09:50:02 GMT",
       "ts": 1789638602000,
       "scope": "dom",
       "type": "geo",
-      "title": "菏泽市住建系统地震应急演练观摩活动在鄄城县举办 - 大众网",
+      "title": "菏泽市住建系统地震应急演练观摩活动在鄄城县举办 - heze.dzwww.com",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xRlFlZlJJa08wOGh5NXRpRndZN0x6VV9nTnRJWFV2dXRVUFZMbjduSVVrVUNxdno0TnlDRjh2MVFyeERRQmJxN3hZbmNGZUFKdmdsWDdEdUFHVXBEeFB4bjhCVFo4N2ph?oc=5",
-      "site": "大众网",
+      "site": "heze.dzwww.com",
       "siteUrl": "https://heze.dzwww.com"
     },
     {
@@ -483,18 +447,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VWElndU1NZmFvX1RnbU5xY3JBNWFjZTZ0R2NsWF9ydm1QTDFzR09wbVJGVWl6bFVmSHRIOVVfMjdjejdzM0U2YS1EamFGclZYNkIxRS0tNGI5NFJ2Wnc?oc=5",
       "site": "thepaper.cn",
       "siteUrl": "https://m.thepaper.cn"
-    },
-    {
-      "id": "FL-776379f542fc",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 09:26:05 GMT",
-      "ts": 1789637165000,
-      "scope": "intl",
-      "type": "other",
-      "title": "中国交建参与尼日利亚楼房倒塌救援 已救出4名被困人员 - 极目新闻",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBueXdoanVTN254LW1QZ2RLTFo4ejluUWluTFlIT180Ym9fQ25yay1zdHJRSG43aHoyY05obzlTWXBSZ25RVGNyZVk1M2N5a2xJbUxDOGJValhCbFk?oc=5",
-      "site": "极目新闻",
-      "siteUrl": "https://www.ctdsb.net"
     },
     {
       "id": "FL-8841bc672202",
@@ -677,6 +629,18 @@
       "siteUrl": "http://www.suzhou.gov.cn"
     },
     {
+      "id": "FL-55d6c57ae661",
+      "date": "2026-07-11",
+      "dateISO": "Sat, 11 Jul 2026 07:00:00 GMT",
+      "ts": 1783753200000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "苏州风力持续增大！国家防总已对江苏等地启动防汛防台风四级应急响应！ - suzhou.gov.cn",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQnhZbF9ocExyRHNScVJIM2VORjVQVXJfZ29pVlRJT1lEZjJHeEVJRnlCNDlQcHZsY1RyaGJoNjMwUlZaS3VXQ1I1U0NpdUNUdlI0cXc4U1VNN1BaZGx5Rk9HNy01RUhYTnFDblVIamhTYWJod2lIZHp2bGZzMWNva2JPYThWYzRhQ0RvWA?oc=5",
+      "site": "suzhou.gov.cn",
+      "siteUrl": "https://www.suzhou.gov.cn"
+    },
+    {
       "id": "FL-97b15e91007f",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 10:34:00 GMT",
@@ -701,6 +665,42 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
+      "id": "FL-b31446269ec7",
+      "date": "2026-09-18",
+      "dateISO": "Fri, 18 Sep 2026 02:21:23 GMT",
+      "ts": 1789698083000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "朝鲜丰溪里核试验，在8年之后仍引发地震 - 朝鮮日報中文版",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcV9RRTIxaDk1dEh0aGJZd2Zod0k2TWMwLXNhdks5Q0xZSVJSRTFLU080RFBqcWxEQy16RXhMeDhRR3NnQVlTeFpEYUxSc0x1ZnVzMTVSNHlFX3hfWE13VWRSNHVoQ2NVaUgwMkdlYkpPODI1RldDeXFQUUNMZG5DaHBWa2VyNm8?oc=5",
+      "site": "朝鮮日報中文版",
+      "siteUrl": "https://cnnews.chosun.com"
+    },
+    {
+      "id": "FL-516c0eff9d59",
+      "date": "2026-09-18",
+      "dateISO": "Fri, 18 Sep 2026 02:04:30 GMT",
+      "ts": 1789697070000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "华西地区降雨增强！需防范滑坡、泥石流等次生灾害！冷空气将影响内蒙古及东北地区 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMkJBdHdQcnNMMDhyQjlPaTRkNWFzRW1WV0J3S0ppcU9saXhJdXh4YnREZDNYRUJXSVBxaGg5NjVueHBiczBBZnk2aUs5amQ2NXl3WGhqaXE5a3FTa3MtLWU3R3ZZeW1lNjg5MF85NFE5aTN1QTRyUG14RW9fSUdCYThHQjZrVzNs?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-87ff3efb2ef5",
+      "date": "2026-09-18",
+      "dateISO": "Fri, 18 Sep 2026 02:01:00 GMT",
+      "ts": 1789696860000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "三明市沙县区这一滑坡成功避险案例获应急管理部通报表扬！ - 东南网",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Cc1V1aG1fTjNVa2RYbEZ0aTVodWdsWWdCQmVLSUpETW1YZG5iRjh6MTNJWGtST0dCeE5LZGVPOFNVVWtjT1lZUWRWN2dRN3ZFb0ZycmdvcWpySjY4Z1NoWA?oc=5",
+      "site": "东南网",
+      "siteUrl": "http://sm.fjsen.com"
+    },
+    {
       "id": "FL-d42ae394b592",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 01:44:31 GMT",
@@ -713,15 +713,15 @@
       "siteUrl": "https://hb.china.com"
     },
     {
-      "id": "FL-5cc4707cccd0",
+      "id": "FL-ba4d2bb9d156",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 00:05:07 GMT",
       "ts": 1789689907000,
       "scope": "dom",
       "type": "geo",
-      "title": "瞳孔地震！摩托追尾等红灯小车，骑手如此甩锅：“他不该停这儿！” - 新浪网",
+      "title": "瞳孔地震！摩托追尾等红灯小车，骑手如此甩锅：“他不该停这儿！” - 手机新浪网",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1QU1kbnJKOG5CNzhuNHJDWHI4NHRWUE13RGZNQjNYWHRqY0M2Z0lORktwVDdQaUt3bmNEa09PRVR5UUxoaE9nOGJFemMwZkZxclFqYWl6MXd6X2lkLVZoRVZIdE4xS0I0X25MUWUydWNfZW8?oc=5",
-      "site": "新浪网",
+      "site": "手机新浪网",
       "siteUrl": "https://k.sina.com.cn"
     }
   ]
