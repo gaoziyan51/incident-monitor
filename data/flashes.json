@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T03:11:57.239Z",
+  "updated": "2026-09-18T03:29:00.481Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -13,6 +13,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CTG9yTTh6cnplOGJ1TG5PUzFQRkwtNjZTTzFLcEMwYzRWQlhzTVF2eGMyUFRzdWlKYldDSTVRcWNVd2RnbkJWU1prR2FMUVhKeVk4X0c4MVNnbUFCTjItZ0JiN0xvd9IBa0FVX3lxTE1PT1F4VHcyMnlBRE5SdUdLeERKN21TU1VXSkdqTTNnWnE1MTkxNi1Yb1ZqbWQtX2ZVdGwtMFhCZjZsVmgwTi1LNkdwYWtOZTE3dDlIVzNiT3cxOHV2dzdnZF9hY2cwV3dsSi1j?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-01049f3dcf6b",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 23:41:00 GMT",
+      "ts": 1789602060000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "亲历尼泊尔泥石流救灾：现场救援、气候变迁与生死哲学｜907编辑部 - thepaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02cjFSV1R3bENYWlVqR0xiRlI1aVZkVHZFdTQ2RUx6cmxkclZiRmkxLTZIT3M1MFdvWXgzamQ0aHFtX1NaR1dTWkw0azREZWVvcEphSkFpMU9ISU9xWXh3Sg?oc=5",
+      "site": "thepaper.cn",
+      "siteUrl": "https://www.thepaper.cn"
     },
     {
       "id": "FL-b3e995ef1dec",
@@ -157,7 +169,7 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZcWRUM00xcGFjLWJ6UjU5MjlqM19VSjZDWjJDRXJINDBISmVBRzlKQzV6bmVneXRLX0NyZDdaUm0zMi00QldkQVBWdGJIM2JKSzFXNXNRbHpWS2lFcElaWlprcmw4S2R3a0tub1dqTnRjM2xRY0hMblZhbw?oc=5",
       "site": "中青在线",
       "siteUrl": "http://m.cyol.com",
-      "related": 10
+      "related": 11
     },
     {
       "id": "FL-b2d13116c5ba",
@@ -256,27 +268,15 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-7379c594c1f0",
+      "id": "FL-4f2d4c5e06a8",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 15:28:00 GMT",
       "ts": 1789658880000,
       "scope": "intl",
       "type": "geo",
-      "title": "截至当地时间9月17日19时，尼泊尔泥石流造成的遇难人数升至1410人，失联人数为6145人 - sohu.com",
+      "title": "截至当地时间9月17日19时，尼泊尔泥石流造成的遇难人数升至1410人，失联人数为6145人 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX3kyQWlGVWZfZ1VGVWEyX1F1RFZYdzBrS2phNnc5amFIMEJFYzR3eGZ2UDdrbWZ6NjdwVUNhdEFnWFBpNG0tSjZhWEh1dlZ4YjQ3RkxDNWVkSHpiT0Z2MGZXcUthN2lpQ2F6YWV6N1ZPU3VGUS1IVm5oSXVmWnJNblRoVC1UT19BLWxSWA?oc=5",
-      "site": "sohu.com",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-52f9b48f5a7c",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 14:43:51 GMT",
-      "ts": 1789656231000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1410人，失联6145人 - sohu.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORndUQ2h3TEFZc0xVcndVY1F3NGg4eDNMbnBUMEx5TFhFODZkaWhPQjJCVnZObTZFeDFMQ2t1eTB6MlpNQXdWSlFhWVRWUXdrbW5SUG5NOUVaX0Z2d1BJaTFvakxPM2tZUUtaRE8wZ21EenNMM3JPWGlLdzVvTlc0dUo4RXRlSUJNUm5Oeg?oc=5",
-      "site": "sohu.com",
+      "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -304,15 +304,15 @@
       "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
-      "id": "FL-575e14e36923",
+      "id": "FL-6dbedf842058",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 14:35:00 GMT",
       "ts": 1789655700000,
       "scope": "intl",
       "type": "geo",
-      "title": "美国阿拉斯加尼科尔斯基地区发生6.3级地震 - 21jingji.com",
+      "title": "美国阿拉斯加尼科尔斯基地区发生6.3级地震 - 21财经",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcW9ncDFiVlFZMTFFaU9HWW96dUMyYWhncEJUYnJsaW1BV3U4QWVJcExCQkpyeHNIN3FpRXl5d3AzQUgwTGQ2UFBxa21RUm93QXVDd3pNaXY2OV9KOHZINHpKQUtPREtvQ0Q0dS1VSHVfblI5X205OGEyaFctVVpPT0FodE4yRzhMbkdzaHEydw?oc=5",
-      "site": "21jingji.com",
+      "site": "21财经",
       "siteUrl": "https://www.21jingji.com"
     },
     {
@@ -364,15 +364,15 @@
       "siteUrl": "https://www.jjxw.cn"
     },
     {
-      "id": "FL-9327d0352bc9",
+      "id": "FL-3b94c728de6c",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 14:04:01 GMT",
       "ts": 1789653841000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1410人 失联6145人 - sohu.com",
+      "title": "尼泊尔泥石流灾害遇难人数升至1410人 失联6145人 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVTB0WUhTdzItaG1WN2Myb2JVazVDdkNraE5ucXNuaDFCNGxQMjFtZXVuLWVPbDVqNjcxendqTkk2WTlidkRkTjVUeUpoS09MdjdoR0QzUkV0OWJYSkdha1ZOZTNYcnhfU0dycW9malg2WnplNEdHQUdjUGpfZFlndmhKSlpIWmZKek1JaQ?oc=5",
-      "site": "sohu.com",
+      "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -394,9 +394,9 @@
       "ts": 1789650051000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏吉隆县泥石流救援，我是亲历者！ - sohu.com",
+      "title": "西藏吉隆县泥石流救援，我是亲历者！ - Sohu",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX3l5cU94Y2Mzd0lKMnhZWEJjaXJib2JzS1FWdnQtQUJ2SDZKc2ZMNkY5UUxlbFZUSWFGSEltN2N1QlNiQW54NTVtdGd1dDMzVHlTUmZSZXRuX05TbnhkUU5va0JmNzhBNVRzTlhGMlAyUDhlMVdpQUZxZEF6RmEwOWUzaGRjMlVNT2o5NA?oc=5",
-      "site": "sohu.com",
+      "site": "Sohu",
       "siteUrl": "https://m.sohu.com",
       "related": 35
     },
@@ -461,15 +461,15 @@
       "siteUrl": "https://news.ifeng.com"
     },
     {
-      "id": "FL-5627948f1899",
+      "id": "FL-f6be17c76967",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 06:42:00 GMT",
       "ts": 1789627320000,
       "scope": "intl",
       "type": "geo",
-      "title": "现场画面：尼泊尔泥石流灾害中被困11天获救，木工陆海涛今天回到河南，儿子前来迎接，父子紧紧相拥，“见到儿子就什么事都没有了” - 21jingji.com",
+      "title": "现场画面：尼泊尔泥石流灾害中被困11天获救，木工陆海涛今天回到河南，儿子前来迎接，父子紧紧相拥，“见到儿子就什么事都没有了” - 21财经",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdGd5UWkwYVp6WW43NTRLZy1rb0tVMTkzNEVvb2tEZ3BOSE5MZ0ZRYk9pYWU2X2czYmQ0TEZWdmVyaWRlNFNjU3JHOGtIMm9GcldNanVibXlSSU12UU04X3htMjNSVVRSbEZ3OGhqT21fX18wZU9pVWNTVmJjYWttOVNtNDBiQ0tRdWdKNUM3bw?oc=5",
-      "site": "21jingji.com",
+      "site": "21财经",
       "siteUrl": "https://www.21jingji.com"
     },
     {
@@ -655,12 +655,12 @@
     {
       "id": "FL-fa35ac7d126c",
       "date": "2026-09-18",
-      "dateISO": "Fri, 18 Sep 2026 02:17:29 GMT",
-      "ts": 1789697849000,
+      "dateISO": "Fri, 18 Sep 2026 02:27:30 GMT",
+      "ts": 1789698450000,
       "scope": "intl",
       "type": "geo",
       "title": "朝鲜丰溪里核试验，在8年之后仍引发地震 - cnnews.chosun.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX29RaTBPeXA2ekcyNDdrNGJTSFdEdUQybWljQ1FrS0Fqbm43SmxkVlB5MGdpbV9POWdpTHVVRlQ4cE9ZVTgxMmx5Z2NfMEJGdjhFTTlvbUl2YUtxNU5WdkJLNjlzaUhTUjNWdDl0TTd0bEFzY3RNQkNSX0ZjR0NyOHYzVlVYQm9nckN4bURvanVIUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYkJDaGtIUGtuU1ZBRVMxblZDdU51Nld1NHpIRElQZm5zRVFNdTFEemJndk93ZHM4THVXRzNobXRIaHFISzNEWjZvLVpDRzJOdUNMYU93SXRLOWlsYWRiQkU5MTE2LWRFeWdaYlhWRWdNbS1yWDhUZ0RGR1ZjSnFfLTZGZVpIX2phb2w3RlFBVzItdw?oc=5",
       "site": "cnnews.chosun.com",
       "siteUrl": "https://cnnews.chosun.com"
     },
@@ -677,15 +677,15 @@
       "siteUrl": "https://cj.sina.cn"
     },
     {
-      "id": "FL-1af4d93200c1",
+      "id": "FL-516c0eff9d59",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 02:04:30 GMT",
       "ts": 1789697070000,
       "scope": "intl",
       "type": "geo",
-      "title": "华西地区降雨增强！需防范滑坡、泥石流等次生灾害！冷空气将影响内蒙古及东北地区 - sohu.com",
+      "title": "华西地区降雨增强！需防范滑坡、泥石流等次生灾害！冷空气将影响内蒙古及东北地区 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMkJBdHdQcnNMMDhyQjlPaTRkNWFzRW1WV0J3S0ppcU9saXhJdXh4YnREZDNYRUJXSVBxaGg5NjVueHBiczBBZnk2aUs5amQ2NXl3WGhqaXE5a3FTa3MtLWU3R3ZZeW1lNjg5MF85NFE5aTN1QTRyUG14RW9fSUdCYThHQjZrVzNs?oc=5",
-      "site": "sohu.com",
+      "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -713,15 +713,15 @@
       "siteUrl": "https://hb.china.com"
     },
     {
-      "id": "FL-4ae8208f848e",
+      "id": "FL-ba4d2bb9d156",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 00:05:07 GMT",
       "ts": 1789689907000,
       "scope": "dom",
       "type": "geo",
-      "title": "瞳孔地震！摩托追尾等红灯小车，骑手如此甩锅：“他不该停这儿！” - k.sina.com.cn",
+      "title": "瞳孔地震！摩托追尾等红灯小车，骑手如此甩锅：“他不该停这儿！” - 手机新浪网",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1QU1kbnJKOG5CNzhuNHJDWHI4NHRWUE13RGZNQjNYWHRqY0M2Z0lORktwVDdQaUt3bmNEa09PRVR5UUxoaE9nOGJFemMwZkZxclFqYWl6MXd6X2lkLVZoRVZIdE4xS0I0X25MUWUydWNfZW8?oc=5",
-      "site": "k.sina.com.cn",
+      "site": "手机新浪网",
       "siteUrl": "https://k.sina.com.cn"
     }
   ]
