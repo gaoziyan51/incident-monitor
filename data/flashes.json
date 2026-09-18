@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T04:07:03.728Z",
+  "updated": "2026-09-18T04:22:07.169Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -63,15 +63,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-3364f4cf5ca9",
+      "id": "FL-d0ee7003c366",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 10:41:32 GMT",
       "ts": 1789555292000,
       "scope": "dom",
       "type": "other",
-      "title": "加沙城一战损建筑倒塌致至少20人死亡 - app.xinhuanet.com",
+      "title": "加沙城一战损建筑倒塌致至少20人死亡 - 新华网客户端",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMkVIeDBkU29Ya0JDUWMyTmoyMGtJV1N1MHY5QmRjWXhCcUgzMFNTZUJDeDN6R3c2RU1qOEFOSVRuNWVDd1JQUUJ3TjdYT2Yxc3cxUUJQM3VkSnQyQXFzREpYT0ZFS2xlbXYtcGR6M3ZRRjNONGo3amtkZGxFb05mcDY3emJPMGx2SVFzbEd3ekVuM184b3Yza1RB?oc=5",
-      "site": "app.xinhuanet.com",
+      "site": "新华网客户端",
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
@@ -171,6 +171,18 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
+      "id": "FL-674383638b4c",
+      "date": "2026-09-02",
+      "dateISO": "Wed, 02 Sep 2026 07:00:00 GMT",
+      "ts": 1788332400000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "尼泊尔—西藏泥石流：堰塞湖和冰湖是下一个“定时炸弹”？ - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfWmowNGIyc200QU1ESDVxbC1hdmdLWUlCQXNHazV6aVdvY1FYMGFySHFueG50UGc3Q2Z2ZUVXaWNtbUQtNlBMWkRDLU01T2R5blhnY2UtSUR5ZUdHaWt5YWszOFRFQdIBa0FVX3lxTE5ncUFxSTZyWVZGQ05yLWwtOGVLS01kb2lsNjY5cVNfU1VlN1hWSjFtUEx4eEpObTY3c3F5czNZeElUM01KaU5uVF9NQ2FDdGlMY29tbi16UFluSkVGSzFkNXJHZFFTOUU5eW80?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
+    },
+    {
       "id": "FL-ec0d2255786c",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 15:44:17 GMT",
@@ -193,18 +205,18 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQajhWTkhQNHZ1YnYzalZBQWktQThSWnF5U1BNVk9LMFRfSkY4YWZlQy1WVmFqQ1pZVXM4RS0yVldtRGg3Z1VQYzJwTTM5TGRvR05nMGs2Q1RfaFRqd09veGN6Y2UtNDRBSHJDYXp4dEFRM2xHUHRkcVBQcGlKOHltVQ?oc=5",
       "site": "人民日报",
       "siteUrl": "https://paper.people.com.cn",
-      "related": 9
+      "related": 10
     },
     {
-      "id": "FL-facc0729194c",
+      "id": "FL-08cb7529b0aa",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 03:04:00 GMT",
       "ts": 1789441440000,
       "scope": "intl",
       "type": "geo",
-      "title": "日本核电站地震震动评估被证实造假 - guancha.cn",
+      "title": "日本核电站地震震动评估被证实造假 - 观察者网",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yOHY0OGw4aHZaMmZmLTItWEx1azZJR2Z3WFBvZDNNeGVMQjA1VVlsVVpfV183VnhQM0JpckNtSlVHclg4Mzhkam5ZTkszblJ6aGlramM2SlVkaUN2ZVhCUGNGcENqM1kwb0dhNzhrTzEwYlk?oc=5",
-      "site": "guancha.cn",
+      "site": "观察者网",
       "siteUrl": "https://www.guancha.cn"
     },
     {
@@ -256,15 +268,15 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-7379c594c1f0",
+      "id": "FL-4f2d4c5e06a8",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 15:28:00 GMT",
       "ts": 1789658880000,
       "scope": "intl",
       "type": "geo",
-      "title": "截至当地时间9月17日19时，尼泊尔泥石流造成的遇难人数升至1410人，失联人数为6145人 - sohu.com",
+      "title": "截至当地时间9月17日19时，尼泊尔泥石流造成的遇难人数升至1410人，失联人数为6145人 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX3kyQWlGVWZfZ1VGVWEyX1F1RFZYdzBrS2phNnc5amFIMEJFYzR3eGZ2UDdrbWZ6NjdwVUNhdEFnWFBpNG0tSjZhWEh1dlZ4YjQ3RkxDNWVkSHpiT0Z2MGZXcUthN2lpQ2F6YWV6N1ZPU3VGUS1IVm5oSXVmWnJNblRoVC1UT19BLWxSWA?oc=5",
-      "site": "sohu.com",
+      "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -352,15 +364,15 @@
       "siteUrl": "https://www.jjxw.cn"
     },
     {
-      "id": "FL-9327d0352bc9",
+      "id": "FL-3b94c728de6c",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 14:04:01 GMT",
       "ts": 1789653841000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1410人 失联6145人 - sohu.com",
+      "title": "尼泊尔泥石流灾害遇难人数升至1410人 失联6145人 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVTB0WUhTdzItaG1WN2Myb2JVazVDdkNraE5ucXNuaDFCNGxQMjFtZXVuLWVPbDVqNjcxendqTkk2WTlidkRkTjVUeUpoS09MdjdoR0QzUkV0OWJYSkdha1ZOZTNYcnhfU0dycW9malg2WnplNEdHQUdjUGpfZFlndmhKSlpIWmZKek1JaQ?oc=5",
-      "site": "sohu.com",
+      "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -382,11 +394,11 @@
       "ts": 1789650051000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏吉隆县泥石流救援，我是亲历者！ - sohu.com",
+      "title": "西藏吉隆县泥石流救援，我是亲历者！ - Sohu",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX3l5cU94Y2Mzd0lKMnhZWEJjaXJib2JzS1FWdnQtQUJ2SDZKc2ZMNkY5UUxlbFZUSWFGSEltN2N1QlNiQW54NTVtdGd1dDMzVHlTUmZSZXRuX05TbnhkUU5va0JmNzhBNVRzTlhGMlAyUDhlMVdpQUZxZEF6RmEwOWUzaGRjMlVNT2o5NA?oc=5",
-      "site": "sohu.com",
+      "site": "Sohu",
       "siteUrl": "https://m.sohu.com",
-      "related": 35
+      "related": 34
     },
     {
       "id": "FL-75503c1f8f8f",
@@ -413,15 +425,15 @@
       "siteUrl": "https://au.china-embassy.gov.cn"
     },
     {
-      "id": "FL-952f52dc19d9",
+      "id": "FL-8ed43de8cc13",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 09:50:02 GMT",
       "ts": 1789638602000,
       "scope": "dom",
       "type": "geo",
-      "title": "菏泽市住建系统地震应急演练观摩活动在鄄城县举办 - heze.dzwww.com",
+      "title": "菏泽市住建系统地震应急演练观摩活动在鄄城县举办 - 大众网",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xRlFlZlJJa08wOGh5NXRpRndZN0x6VV9nTnRJWFV2dXRVUFZMbjduSVVrVUNxdno0TnlDRjh2MVFyeERRQmJxN3hZbmNGZUFKdmdsWDdEdUFHVXBEeFB4bjhCVFo4N2ph?oc=5",
-      "site": "heze.dzwww.com",
+      "site": "大众网",
       "siteUrl": "https://heze.dzwww.com"
     },
     {
@@ -507,18 +519,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KZFBfckZxUTlSS2RYd2JITjllcEJlQml2MVhWdUJaYmo1R0JESXU5OXY3Z1p3RTNGMVBMb0VtX1o5bW5lQzkzLWQ4UEdzaS1mZ1dNZ1REc1hzWXRtRjVCTzhKcDdnWDRz?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-80d0a3d1deb8",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 01:11:32 GMT",
-      "ts": 1789607492000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "海南保亭遭强暴雨后：有村民称30余亩菜地全部被淹，海南拨款1900万元用于救灾 - 新浪财经_金融信息服务商",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQall6T0JCTDRBSkpnbDJJXzFpQWRRYTB2WTY2QllLZjB5eG9OQVg4LVMtRWNFci1mRVFVME9yNjNrNFFhd1dST2FkMHRFQzljZzBhTW12S2RtNDcwa3N6eDAtNkxyclJacVJFRWl3MkxoNFdYSXBMU0VGUWVucjJrdlMxRlRXNWIzckJEVnhPT1BkLUhld0k2Mw?oc=5",
-      "site": "新浪财经_金融信息服务商",
-      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-861987facab4",
@@ -617,6 +617,18 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
+      "id": "FL-155097c847d5",
+      "date": "2026-09-18",
+      "dateISO": "Fri, 18 Sep 2026 04:13:54 GMT",
+      "ts": 1789704834000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "江西上犹县高峰村发生泥石流险情 官方通报：无人员伤亡和失联被困 - 新浪财经_金融信息服务商",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXpkRzRJR3pzWEVRY2YwcWdaWUlNTlV4TE9ZTzEtMy1vdVZlX3VJRGFpYWpMTE8tNXNsa2xmb1ZzVk1FcXBOSi0tMTl4eWtqNVVraWduM0J2WnRmbFJKZi1NNmhOZEhBOE1xa3hBTDJlNjZseTVhOExLSE9oaFB1MWdpLVV0Y0FmbkFFZENPczBaVnVwcXBUUQ?oc=5",
+      "site": "新浪财经_金融信息服务商",
+      "siteUrl": "https://finance.sina.cn"
+    },
+    {
       "id": "FL-143028de753b",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 04:00:46 GMT",
@@ -653,18 +665,6 @@
       "siteUrl": "https://chejiahao.autohome.com.cn"
     },
     {
-      "id": "FL-e4897ad99189",
-      "date": "2026-09-18",
-      "dateISO": "Fri, 18 Sep 2026 03:36:55 GMT",
-      "ts": 1789702615000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "江西上犹县高峰村发生泥石流险情，官方通报：无人员伤亡和失联被困 - sohu.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeXZJS0hhTE45bEVuaWdFOFdYRU8wRnp6Qklzb01BWDJYZmV1WDZ2dnlNWkRxSzNvWFhINTl5R0k5YTI4WUVXZVRwOEdiaDNmQ1ZEYm9PTFpDcnBRUEVWb0dkU2ozU3dJc0pZVHItSElfd2c4ZmU2UDdYRGc4N083bVlPRk5OeHNL?oc=5",
-      "site": "sohu.com",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-b31446269ec7",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 02:27:30 GMT",
@@ -677,15 +677,15 @@
       "siteUrl": "https://cnnews.chosun.com"
     },
     {
-      "id": "FL-1af4d93200c1",
+      "id": "FL-516c0eff9d59",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 02:04:30 GMT",
       "ts": 1789697070000,
       "scope": "intl",
       "type": "geo",
-      "title": "华西地区降雨增强！需防范滑坡、泥石流等次生灾害！冷空气将影响内蒙古及东北地区 - sohu.com",
+      "title": "华西地区降雨增强！需防范滑坡、泥石流等次生灾害！冷空气将影响内蒙古及东北地区 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMkJBdHdQcnNMMDhyQjlPaTRkNWFzRW1WV0J3S0ppcU9saXhJdXh4YnREZDNYRUJXSVBxaGg5NjVueHBiczBBZnk2aUs5amQ2NXl3WGhqaXE5a3FTa3MtLWU3R3ZZeW1lNjg5MF85NFE5aTN1QTRyUG14RW9fSUdCYThHQjZrVzNs?oc=5",
-      "site": "sohu.com",
+      "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
     {
