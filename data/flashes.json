@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T21:44:03.239Z",
+  "updated": "2026-09-18T21:53:31.680Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -399,6 +399,18 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
+      "id": "FL-fb448a3e9124",
+      "date": "2026-07-11",
+      "dateISO": "Sat, 11 Jul 2026 07:00:00 GMT",
+      "ts": 1783753200000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "“巴威”已重新增强为“强台风级”！苏州应急响应提升为Ⅲ级 - suzhou.gov.cn",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb09jY09WOHlCWU5PWkhlMy1EZmFiMVIxcms2UGtCQlBfbTBJd3A0THlOOHprR2lTNTFyT003UDYyUmJtdkR5NVpjTEdIMzNWLUMtYWZtUWx1cWxndVZOdjZjOXdOc0Z2ejNxR2p5ZHg1WExkaGNXaVFJb0Q5dWx4bG1YNUZiTGFudms4?oc=5",
+      "site": "suzhou.gov.cn",
+      "siteUrl": "http://www.suzhou.gov.cn"
+    },
+    {
       "id": "FL-def32ff8029f",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 07:33:35 GMT",
@@ -491,18 +503,6 @@
       "type": "geo",
       "title": "四川甘孜州新龙县发生3.6级地震 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUmx4dXIxOWZfa1hoQnFXR0o2OW4yYzE2dFhGWjRteG5xS0lmQXh1T1Y1WDJzRjUwSFp4elM1TTlCNjRFSUF5aDVLMHZGTFExbGRaeWNtQjF5WWZoa1h4OU9jTmxCdWhNcTVhVGlBTEZJcHhCaTA3WGNXOXVXdlVFLWtBdEYxSkdvRXVHYg?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-ecaecde7bb62",
-      "date": "2026-09-18",
-      "dateISO": "Fri, 18 Sep 2026 13:42:09 GMT",
-      "ts": 1789738929000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "探访尼泊尔泥石流获救工人陆海涛老家：为儿子结婚和买房欠债，出国务工前写承诺书“决不赖账” - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUkVZb3RySWduSmZDcVkxSzhNeHNYdjZqNkMtSEZDRXVmX0RtQU50NUV0eUloUEZLeHk4YW5mS0dzNktDb1hZNDByX3pMUEVaMUFIa2o1MjVRLXVKelpBNnplSmFvWS1jY1ZmV0pOa0NPbTNmcS1PeHlqenAxX1lqeEkzb3Y3dGZz?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
