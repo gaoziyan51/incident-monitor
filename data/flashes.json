@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T17:39:08.386Z",
+  "updated": "2026-09-18T17:47:20.335Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -39,18 +39,6 @@
       "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
-      "id": "FL-a704a45dea9a",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 12:55:39 GMT",
-      "ts": 1789563339000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "平陆运河与六蓝水库溃坝有关？ - RFI",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWjRKaFNrd1JjaklqRGtvc2ZLSWdsX0FzNzJMTHZLeW9aM1lVQmx2eUZuOEVtdG93ZW5DQWZCUTZFSXFrRG9qRWJiSlhxalRoaVZ4SHJTa2dlZDl0cjJWMFFIVDVNWTJkRWM0N0NmRlZyTDQ2bDVWZE5kU0wzOVZGeUlIbUE4QlREbGdma1Z4bHJrMXkza1B1WWVzYkhUMTZabF9sdXlqLUE3UHk0VzZqNU55ZFBtYzFra2FlSTlGM0lZTWR3a184QzZkV1J0RG9rbVpxZWtPb3U3Wk1WTHlHQlB2MlBqNHJvc0U0aFdBcWZWc1U2Y0pOR0t0SQ?oc=5",
-      "site": "RFI",
-      "siteUrl": "https://www.rfi.fr"
-    },
-    {
       "id": "FL-93cfa468b423",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 10:19:39 GMT",
@@ -63,15 +51,15 @@
       "siteUrl": "http://www.news.cn"
     },
     {
-      "id": "FL-2ec426a3c9d2",
+      "id": "FL-8eccef5d7805",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 09:12:00 GMT",
       "ts": 1789549920000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川茂县发生山体滑坡 161名群众提前转移无伤亡 - china.com.cn",
+      "title": "四川茂县发生山体滑坡 161名群众提前转移无伤亡 - 中国网",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4bFVHOUpnLWpVdTRDVDFjMnY1dHZ3M3ZWY3E4YVI4ckJ5SjNhRWdGaVFRR1VpX3dOVUNHVWFWYy1ZUUVBYUQyd2FPdkc5cFJzekdOU25lMlRvaWRLZ2JJUkhqdUdzb0l6NUhPR0NqMA?oc=5",
-      "site": "china.com.cn",
+      "site": "中国网",
       "siteUrl": "http://www.china.com.cn"
     },
     {
@@ -129,9 +117,9 @@
       "ts": 1789524681000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏吉隆口岸遭遇跨境泥石流致43人遇难519人失联 - huxiu.com",
+      "title": "西藏吉隆口岸遭遇跨境泥石流致43人遇难519人失联 - 虎嗅网",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vUDNYWUQ5Sk1YLVdsMTlHNjFKUU1DeGMwanlEVUdfVDZMUkREc1UteUVWakFJNjVGN094UjZyZFBsZzZGMW8wMmRaMUlYMVUxYnc?oc=5",
-      "site": "huxiu.com",
+      "site": "虎嗅网",
       "siteUrl": "https://m.huxiu.com",
       "related": 28
     },
@@ -172,6 +160,18 @@
       "siteUrl": "https://www.guancha.cn"
     },
     {
+      "id": "FL-26ab7bdb226d",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 01:40:43 GMT",
+      "ts": 1789436443000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "“乐山锦江山太白亭山体滑坡”不实——熊猫斩谣（2026年9月14日） - 封面新闻",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5leVhxd1hBdDhBZ2tRVzktdU11c3lNNENKUFZrNGdHZlZ4bjRpTTh2N21YdjVtQk1NbUdJTm1Jei1WbmpwbXI2TVN1VUZ1eVJGNkRMNTlyWTRyN0FEdERURGFHVnN5X2FlWU0zX3luYU5ET2ktNHpnZjRR?oc=5",
+      "site": "封面新闻",
+      "siteUrl": "https://m.thecover.cn"
+    },
+    {
       "id": "FL-3274f0855c02",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 23:55:47 GMT",
@@ -182,18 +182,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3YXBUdUtSM25hdG1IaktvQno3UUNMMnJUbFV3QnY0ZXo1SVg3dEF4RFd3S01IOU9Oc1pxRk83eVFCM05UdVBNMFZoSjZuc0NtR2w2Y1FhdVFTM0NuUUI1b0d0SmIzTkRkR3VMYTZvMk5nZw?oc=5",
       "site": "news.cnr.cn",
       "siteUrl": "https://news.cnr.cn"
-    },
-    {
-      "id": "FL-83a7cb814b39",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 23:16:47 GMT",
-      "ts": 1789687007000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "新疆巴音郭楞州库尔勒市发生3.0级地震，震源深度12千米 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yTkN0eGozb05Ya1pjWU9RYjhiLXZvV2F4a19xdng1TUlxV3U0ME1Wc3AxeUtGV1lLbnlmRG5pX3NsR1otelFaQ1Y3WG9NVEc4M29GeHRPN28xZUlaMlE2Y0RONUxfY20xZ1owVVFpNWh5ZnYxRlBCcg?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-1b4b3fe72edc",
@@ -352,6 +340,18 @@
       "siteUrl": "https://news.ifeng.com"
     },
     {
+      "id": "FL-31aaf7309a8a",
+      "date": "2026-09-03",
+      "dateISO": "Thu, 03 Sep 2026 07:00:00 GMT",
+      "ts": 1788418800000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "台风“沙德尔”带来强降雨，福建全力抢险救援 - 人民网-福建频道",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9idjB1WHk1RmxjaXpsRFVqTmtSUXdDbEcwVlp0d2k5TnNndmxBNXhhV0syZmdBVlVCQzZuZk56cmNGeWFCYnp5SkVxaFFvbGQ0TXoxalUyeFJtRHJfa2l2TVhBRXJVQWVfM0E?oc=5",
+      "site": "人民网-福建频道",
+      "siteUrl": "http://fj.people.com.cn"
+    },
+    {
       "id": "FL-861987facab4",
       "date": "2026-08-30",
       "dateISO": "Sun, 30 Aug 2026 07:00:00 GMT",
@@ -436,15 +436,15 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
-      "id": "FL-2f5554815009",
+      "id": "FL-848fa9255161",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 14:40:00 GMT",
       "ts": 1789742400000,
       "scope": "dom",
       "type": "geo",
-      "title": "新疆阿克苏地区沙雅县发生3.7级地震，震源深度17千米 - yicai.com",
+      "title": "新疆阿克苏地区沙雅县发生3.7级地震，震源深度17千米 - 第一财经",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KR0UxSWtyRkNCY0RnQlNsc3YzbEJxZ19oUUcwUFFpWTRBVDJoaWwwX3VpV0VsOGpUZ0tEazAtU1lTcWNzdVphVTRFRE5xbFY2bTBNVg?oc=5",
-      "site": "yicai.com",
+      "site": "第一财经",
       "siteUrl": "https://www.yicai.com"
     },
     {
@@ -568,15 +568,15 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-33d2eb98cdc7",
+      "id": "FL-b6ef7eac2e92",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 12:09:00 GMT",
       "ts": 1789733340000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川甘孜州新龙县发生3.6级地震，震源深度15千米 - yicai.com",
+      "title": "四川甘孜州新龙县发生3.6级地震，震源深度15千米 - 第一财经",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84dnFsX2s5NXZoNTlFVVlzb05tUEtyd244M08wWFNBR2tzOEoxMUJyRFFuTUM2emxJR3lobHdOMVctSjVMQnl1Um1pb0hKcllFcDdF?oc=5",
-      "site": "yicai.com",
+      "site": "第一财经",
       "siteUrl": "https://www.yicai.com"
     },
     {
