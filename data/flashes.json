@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T01:22:45.271Z",
+  "updated": "2026-09-18T01:36:12.074Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -170,18 +170,6 @@
       "site": "中青在线",
       "siteUrl": "http://m.cyol.com",
       "related": 10
-    },
-    {
-      "id": "FL-90b784652602",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 07:20:29 GMT",
-      "ts": 1789543229000,
-      "scope": "dom",
-      "type": "other",
-      "title": "中央气象台：今天到明天，湖北、四川、贵州、云南、广西、广东等地有短时强降水 - 深圳新闻网",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBod1FaY2xHa2JhOUs1bjU1RmRfc2wyYWp3V0J3cU5DdGlUWUdON2VtOWNnRkVxMFJMU0FScXd2d1FYcHBkTUx5Ym5PSGxsOXlGcklTN21TRkVGbmJER0dSSGh5dmpoaWZ3VHlzTFZMLUY1RlpBbUlKcQ?oc=5",
-      "site": "深圳新闻网",
-      "siteUrl": "http://www.sznews.com"
     },
     {
       "id": "FL-b2d13116c5ba",
@@ -388,15 +376,15 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-db1f431b5aef",
+      "id": "FL-bb14d3989034",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 14:04:43 GMT",
       "ts": 1789653883000,
       "scope": "dom",
       "type": "geo",
-      "title": "理论＋实操！市应急管理局联合地震监测中心站开展校园防震减灾科普活动 - jjxw.cn",
+      "title": "理论＋实操！市应急管理局联合地震监测中心站开展校园防震减灾科普活动 - 九江新闻网",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtdVd6anpnQWt6Q2IxY3NVekZ2emc1ZmZERWJUNjR6ZllUTWxBWV96LU1vU1RXcm5GazBucDdGUkd2SlVjMnZKVG1XX3djMXZuLXZIVUpDNXROVTRwbTNF?oc=5",
-      "site": "jjxw.cn",
+      "site": "九江新闻网",
       "siteUrl": "https://www.jjxw.cn"
     },
     {
@@ -408,6 +396,18 @@
       "type": "geo",
       "title": "尼泊尔泥石流灾害遇难人数升至1410人 失联6145人 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVTB0WUhTdzItaG1WN2Myb2JVazVDdkNraE5ucXNuaDFCNGxQMjFtZXVuLWVPbDVqNjcxendqTkk2WTlidkRkTjVUeUpoS09MdjdoR0QzUkV0OWJYSkdha1ZOZTNYcnhfU0dycW9malg2WnplNEdHQUdjUGpfZFlndmhKSlpIWmZKek1JaQ?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-3678ebf44698",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 14:00:12 GMT",
+      "ts": 1789653612000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "截至当地时间17日19时，尼泊尔泥石流已致1410人遇难，失联6145人 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTVNYUVNsbnN2VGxOZ0FwN2pIOUhoRWxLS2pZeTdWTTVGY1MtXzR1Yll2dlNwX3hEQlliWjhNQnFQUzNEYzhMeXp3QmtMYlFhSEhnY3ZRbGpxNU1iZU8tX2FXQnVNM2U2YnMwQ2ZvVUtIVGRkZ2hjQ1JCalZLM3JOMkRXaWl2OUpM?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
@@ -569,18 +569,6 @@
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
-      "id": "FL-134470461f01",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 03:39:41 GMT",
-      "ts": 1789616381000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流已致1403人死亡 6150人失联 - 新浪新闻_手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4tV0ZKa29SUlpnMWtkNlJjZWliemFRcjIzSTlnczg5eFhwYnUwak4tVlUzZG9lSXp4YjNxT2RabkRDMGh5dExYdTdpcWJIazB2MVpFejl4RWl5UkZuZWpUeTJSMkFXclNrM3dlbkNJTk92czNr?oc=5",
-      "site": "新浪新闻_手机新浪网",
-      "siteUrl": "https://news.sina.cn"
-    },
-    {
       "id": "FL-ca47c5e94270",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 03:28:03 GMT",
@@ -651,6 +639,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rWlBVcnZhd0NVTDlFZ3hVN3BYR3RLUFpMZEM0eVkwN2JkRXIzM0V0REJXR2FjeDRxUUVqeDBvMUtKU25TUFNDMzJYdHNucTZ4bDBEWkFjazFwZGZEOVJzVlZyNGtiZ9IBa0FVX3lxTFBOT0pTWlZHV0dDQTNJRFExWFdZcGJDZTI3aDVxeDJQNGk4WldjSzRwa1lJRXF3aW1Id1QwVHM0TlNoRWp2SmtvMURjcEZoTG5kaVlSOTlHcFpVMFpxSkp0MnVUX2NGZWZYZk5N?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-91bdb2ea9dee",
+      "date": "2026-08-23",
+      "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
+      "ts": 1787468400000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "日本茨城县地震致37人受伤 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fZ3lxTFI5WEl3Qjlvb2l4cU5CT1hZdkt1emRwLW1oc0RfcDlvbW90SEJkWnp5QUJCUEdmUzRpVHBlQ0ZCUFlzQVpRbzlOZUhSY1ZucFhuWWE2QUQ4WlR6OVQwakhOaXRVU1djd3JFallBbXl6RlJvSElnUm9BZ2c?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-40d60e09c577",
