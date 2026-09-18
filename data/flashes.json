@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T18:57:31.065Z",
+  "updated": "2026-09-18T19:10:36.343Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,15 +15,15 @@
       "siteUrl": "http://www.news.cn"
     },
     {
-      "id": "FL-6c37d6eedf5e",
+      "id": "FL-c2a04813577b",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 17:06:14 GMT",
       "ts": 1789578374000,
       "scope": "dom",
       "type": "collapse",
-      "title": "加沙：建筑坍塌致至少20人死亡，搜救工作仍在继续 - news.un.org",
+      "title": "加沙：建筑坍塌致至少20人死亡，搜救工作仍在继续 - UN News",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wdnBqX2d2T1NSQ092SjlCdW1fbVZfak4ycERLSWtGb2VxT21FdXRQSkd5bVFiVkxvZlFlaDZralk5b2FyemR4RlptclBhbDhrR1ZILTc4Zw?oc=5",
-      "site": "news.un.org",
+      "site": "UN News",
       "siteUrl": "https://news.un.org"
     },
     {
@@ -51,15 +51,15 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-d0ee7003c366",
+      "id": "FL-3364f4cf5ca9",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 10:41:32 GMT",
       "ts": 1789555292000,
       "scope": "dom",
       "type": "other",
-      "title": "加沙城一战损建筑倒塌致至少20人死亡 - 新华网客户端",
+      "title": "加沙城一战损建筑倒塌致至少20人死亡 - app.xinhuanet.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMkVIeDBkU29Ya0JDUWMyTmoyMGtJV1N1MHY5QmRjWXhCcUgzMFNTZUJDeDN6R3c2RU1qOEFOSVRuNWVDd1JQUUJ3TjdYT2Yxc3cxUUJQM3VkSnQyQXFzREpYT0ZFS2xlbXYtcGR6M3ZRRjNONGo3amtkZGxFb05mcDY3emJPMGx2SVFzbEd3ekVuM184b3Yza1RB?oc=5",
-      "site": "新华网客户端",
+      "site": "app.xinhuanet.com",
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
@@ -133,19 +133,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBXcms4anhZZDZ2dTgwMHpRZGhhYkRNLU5QbGtnQXVaUlVqNHhWaFVRcTZGLWlaSEMwRDlSaFllSlZOOTBqb0JZSWF5aHROa2QwVkI0Zlk1M1pHbVpCVjJ3bTh3cklPNWpSMjUyQTd3NzVDQQ?oc=5",
       "site": "news.cnr.cn",
       "siteUrl": "https://news.cnr.cn"
-    },
-    {
-      "id": "FL-EV-f283a898090a",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 02:11:21 GMT",
-      "ts": 1789524681000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "西藏吉隆口岸遭遇跨境泥石流致43人遇难519人失联 - 虎嗅网",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vUDNYWUQ5Sk1YLVdsMTlHNjFKUU1DeGMwanlEVUdfVDZMUkREc1UteUVWakFJNjVGN094UjZyZFBsZzZGMW8wMmRaMUlYMVUxYnc?oc=5",
-      "site": "虎嗅网",
-      "siteUrl": "https://m.huxiu.com",
-      "related": 28
     },
     {
       "id": "FL-674383638b4c",
@@ -460,18 +447,6 @@
       "siteUrl": "https://www.yicai.com"
     },
     {
-      "id": "FL-0d8faf4a655c",
-      "date": "2026-09-18",
-      "dateISO": "Fri, 18 Sep 2026 14:38:24 GMT",
-      "ts": 1789742304000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "中国地震台网正式测定......_7x24快讯_新浪财经 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwRmFoVlJXVlhWXzJGVkxTc2J0QmJxMHlwYldxeUNfdTAwemhMM2hNQ2hKdnhFV3lVWUZVNHNWa0FIMVJ5cFlaYnJnZw?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://wap.cj.sina.cn"
-    },
-    {
       "id": "FL-59de6f3625ca",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 14:32:30 GMT",
@@ -542,6 +517,19 @@
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdkgzYU8zWUtuMjlHZGZwQk5xeU45Y3BKWnBTV2hpcDN2dXlkSG8yVEtYZnBDYnVoZmdtdmtfbTVYYXJkRWhDN3ZWZl8xQzRaRE9LVjQySWNvZDU3QnlDNkVWLVpTdnhudFlTcE1Nb1YzN3RhN2xjdEVzdjZTSU50YjNmOUFTNElBOUJzTjBPQWUzU0J0VS1GbGtpenIydXRvYWdkNGN2d1lyalJ2Uzl6YmpQXzY4UTVmU0taSTAyc1VGZkNmdlhJSENuOTlndVV2Y0tESnY1SQ?oc=5",
       "site": "新浪财经",
       "siteUrl": "http://finance.sina.cn"
+    },
+    {
+      "id": "FL-EV-f283a898090a",
+      "date": "2026-09-18",
+      "dateISO": "Fri, 18 Sep 2026 13:01:19 GMT",
+      "ts": 1789736479000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "西藏吉隆县泥石流救援，我在一线守护！ - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOHQ2b0VRWWEyak9XNF9sbG8yR1hvMkxuZTVRMzA5V2RqbVRzX1JXeW91UFozWVVkYlFkNWJybkVrMzA3eHh6cG1XVGNFX0l4YlJwYmx6MXdYcWJJV3l5ZElxRUJBUEltYzljaHdZN2xwVF9GUDVCV3AyT0J1NTR4REVSS3FaZVN3d19wSQ?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com",
+      "related": 37
     },
     {
       "id": "FL-18f2e371b120",
@@ -710,6 +698,18 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZWDRSQlcycjBiU294MkZFQkFvUmVIMkRKblY5M05jWE1MNWdOMW95dm9GazRrZHAyMWo5TWtwWE5WWFlIM2FQWndGaTY2UzV1SXRhYU5fVXlWTVNiOGg3aW9Ld0c5bzFTVloxbW5aUnNLcWdhNTc2NA?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
+    },
+    {
+      "id": "FL-d348891c49be",
+      "date": "2026-09-18",
+      "dateISO": "Fri, 18 Sep 2026 04:28:56 GMT",
+      "ts": 1789705736000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "今天凌晨江西省上犹县一地发生泥石流险情，当地回应：无人员伤亡和失联被困，4栋空置房屋倒塌，村内部分交通受阻，通信畅通 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVTdnU2xxdW54S29ISksxX1VieVRiVHZsWlJPSHQyajVWODVZWXVmQjZjbklybUlpRTlYOTlacmxDZ2pXYVRDak9BbGk0V3N3bVkzUDMzeWNwdHVBZF9EaDY5Xy16Qk9tVzlwN0tzM2tGSDVDWDBpWHBtY2FJVDlNdWJEWUR3VlAySmdKdQ?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-EV-18d9b0620c3d",
