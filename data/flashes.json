@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T17:19:01.544Z",
+  "updated": "2026-09-18T17:29:29.915Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -170,18 +170,6 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yOHY0OGw4aHZaMmZmLTItWEx1azZJR2Z3WFBvZDNNeGVMQjA1VVlsVVpfV183VnhQM0JpckNtSlVHclg4Mzhkam5ZTkszblJ6aGlramM2SlVkaUN2ZVhCUGNGcENqM1kwb0dhNzhrTzEwYlk?oc=5",
       "site": "观察者网",
       "siteUrl": "https://www.guancha.cn"
-    },
-    {
-      "id": "FL-26ab7bdb226d",
-      "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 01:40:43 GMT",
-      "ts": 1789436443000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "“乐山锦江山太白亭山体滑坡”不实——熊猫斩谣（2026年9月14日） - 封面新闻",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5leVhxd1hBdDhBZ2tRVzktdU11c3lNNENKUFZrNGdHZlZ4bjRpTTh2N21YdjVtQk1NbUdJTm1Jei1WbmpwbXI2TVN1VUZ1eVJGNkRMNTlyWTRyN0FEdERURGFHVnN5X2FlWU0zX3luYU5ET2ktNHpnZjRR?oc=5",
-      "site": "封面新闻",
-      "siteUrl": "https://m.thecover.cn"
     },
     {
       "id": "FL-5c327552c46b",
@@ -400,6 +388,18 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
+      "id": "FL-def32ff8029f",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 07:33:35 GMT",
+      "ts": 1789371215000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "印尼亚齐特区发生山体滑坡 已致1死13伤 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mYmtPZ21ZUzhQZnBlQWM4M1M5ME5pV2lhSEtNRmFUUlNBdEZneTRTRzRrZzF1bGZMWTBIVkdtSGN0SERGMWNlTnNMeTdTY0tFRWFRSjFaVGlmME1sNko3VWRockVLVnNmV0Nkc0tmNURKR3hnZC0ySw?oc=5",
+      "site": "央视网",
+      "siteUrl": "https://news.cctv.com"
+    },
+    {
       "id": "FL-e8a32a183e42",
       "date": "2026-08-28",
       "dateISO": "Fri, 28 Aug 2026 07:00:00 GMT",
@@ -556,18 +556,6 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-0b923dc789e6",
-      "date": "2026-09-18",
-      "dateISO": "Fri, 18 Sep 2026 12:34:53 GMT",
-      "ts": 1789734893000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "常德市地震局走进复基小学开展防震减灾科普宣传活动 - cdyee.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pbHRILUgxd1QyanFUeEZfdkpwN2F0T3JUNl9EX211MFBtTjY0ZjJiMnV1Q3BXbVdFLTBuUjlRRTdHWVM2NEszRUYwY0hwaW1Lcl9xaFhuZ2NXa096OE5CdEFQRm1RNU83WnNlMWVuMTVaSE0?oc=5",
-      "site": "cdyee.com",
-      "siteUrl": "http://www.cdyee.com"
-    },
-    {
       "id": "FL-33d2eb98cdc7",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 12:09:00 GMT",
@@ -626,6 +614,18 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1rMHlJWTJjU3RjRDUzbE5zZGloSnB0azhUNW1OVTJGNkJZNDJ1LWNfbV9iczhSTkhTYXJDR2FlblRMOTRTYnNUYUdJZ1pNbkR2bHlFN29lTFRRaEl2QVFDNXNqMFhMQVhnbzV5aW1EejdnSzA?oc=5",
       "site": "观察者网",
       "siteUrl": "https://www.guancha.cn"
+    },
+    {
+      "id": "FL-b1ad8214ec2e",
+      "date": "2026-09-18",
+      "dateISO": "Fri, 18 Sep 2026 10:34:58 GMT",
+      "ts": 1789727698000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "江西上猶今日凌晨突發泥石流（視頻） - 大纪元",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yRHM4c3ZoZHJnY09BQzhwalR4dDFYY1lNbHNlQlJZa0tydlFKNHRvZ3dCVVlZZWdtZ3d6aERTMndrZnd5MWs5TEdqakhUNkI4azFTcURSS0g2eFZNRTFFV9IBZkFVX3lxTFBlaU9WSGlOdmVHRXlwZ1UyUlNOdjlkZk0tYS1wUVRnbVlhX2xrNlFWS3ZuMC12SE5LMWlqUklXalJWcjVLazN0RWZjTkRXaXhvVEFPQWVxN294cGJiZ2s3NjR1a0dhQQ?oc=5",
+      "site": "大纪元",
+      "siteUrl": "https://www.epochtimes.com"
     },
     {
       "id": "FL-8b135b7d5b71",
