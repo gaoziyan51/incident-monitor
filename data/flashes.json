@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T08:23:10.389Z",
+  "updated": "2026-09-18T08:38:58.770Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -135,6 +135,19 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
+      "id": "FL-EV-18d9b0620c3d",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 07:28:00 GMT",
+      "ts": 1789543680000,
+      "scope": "dom",
+      "type": "fire",
+      "title": "青岛一艘外籍货轮发生火灾 - cyol.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZcWRUM00xcGFjLWJ6UjU5MjlqM19VSjZDWjJDRXJINDBISmVBRzlKQzV6bmVneXRLX0NyZDdaUm0zMi00QldkQVBWdGJIM2JKSzFXNXNRbHpWS2lFcElaWlprcmw4S2R3a0tub1dqTnRjM2xRY0hMblZhbw?oc=5",
+      "site": "cyol.com",
+      "siteUrl": "http://m.cyol.com",
+      "related": 11
+    },
+    {
       "id": "FL-b2d13116c5ba",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 07:15:29 GMT",
@@ -169,7 +182,7 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vUDNYWUQ5Sk1YLVdsMTlHNjFKUU1DeGMwanlEVUdfVDZMUkREc1UteUVWakFJNjVGN094UjZyZFBsZzZGMW8wMmRaMUlYMVUxYnc?oc=5",
       "site": "虎嗅网",
       "siteUrl": "https://m.huxiu.com",
-      "related": 37
+      "related": 36
     },
     {
       "id": "FL-674383638b4c",
@@ -191,9 +204,9 @@
       "scope": "intl",
       "type": "geo",
       "title": "尼泊尔泥石流灾害已致1403人遇难 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CX1BCWlpfQWdzOUk4NER1dmF5Ym5MOE1jem9VWlBhYXZJSmJIRjJEMjAtNlEtUnZjcmpHSkZjOW1GVXJ3WU80Q1BGYVF3NDBGREMwWWVYZWEtY3Qxa3hMdFdBTWFINHBRekRFbWdXa2QzYjFFc0E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxSXBDLTAxcDN6MUhlbFRjOE9WY1dfaVpCLUpETDl0ZWl5YjlFdlp1MW14eGtuREJlU1ZuckpwTm52RzM5WlpKUFhnTGVkVDVvRmw5S2MtemJXMGtxY2F3dUNOS2FFZkc2?oc=5",
       "site": "央广网",
-      "siteUrl": "https://www.cnr.cn"
+      "siteUrl": "https://news.cnr.cn"
     },
     {
       "id": "FL-2244178adc9f",
@@ -208,17 +221,16 @@
       "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
-      "id": "FL-EV-18d9b0620c3d",
+      "id": "FL-6a573c99cb76",
       "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 04:56:06 GMT",
-      "ts": 1789448166000,
-      "scope": "dom",
-      "type": "fire",
-      "title": "国务院对中国船舶集团青岛北海造船有限公司“9·10”重大火灾事故提级调查 - 人民日报",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQajhWTkhQNHZ1YnYzalZBQWktQThSWnF5U1BNVk9LMFRfSkY4YWZlQy1WVmFqQ1pZVXM4RS0yVldtRGg3Z1VQYzJwTTM5TGRvR05nMGs2Q1RfaFRqd09veGN6Y2UtNDRBSHJDYXp4dEFRM2xHUHRkcVBQcGlKOHltVQ?oc=5",
-      "site": "人民日报",
-      "siteUrl": "https://paper.people.com.cn",
-      "related": 10
+      "dateISO": "Tue, 15 Sep 2026 15:09:58 GMT",
+      "ts": 1789484998000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害已致1403人遇难 - news.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DV3BuZjVma1hEMEFHN2V6STRLcU0wV2NwYmxUQnYxUXRqalI4eUVieDFFdW1abzBTdzAyOTRjSjlObE13Q2pyMVM2U0xrMmU0UlN0MGJXd0tHenhVY1MxV2k0SmFhRmlTSmQ0VGZYY0c?oc=5",
+      "site": "news.sina.com.cn",
+      "siteUrl": "https://news.sina.com.cn"
     },
     {
       "id": "FL-08cb7529b0aa",
@@ -281,18 +293,6 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-4f2d4c5e06a8",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 15:28:00 GMT",
-      "ts": 1789658880000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "截至当地时间9月17日19时，尼泊尔泥石流造成的遇难人数升至1410人，失联人数为6145人 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX3kyQWlGVWZfZ1VGVWEyX1F1RFZYdzBrS2phNnc5amFIMEJFYzR3eGZ2UDdrbWZ6NjdwVUNhdEFnWFBpNG0tSjZhWEh1dlZ4YjQ3RkxDNWVkSHpiT0Z2MGZXcUthN2lpQ2F6YWV6N1ZPU3VGUS1IVm5oSXVmWnJNblRoVC1UT19BLWxSWA?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-2e836c754100",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 14:40:00 GMT",
@@ -329,15 +329,15 @@
       "siteUrl": "https://www.21jingji.com"
     },
     {
-      "id": "FL-3e04dbf8dbb3",
+      "id": "FL-58f2b93b6fbb",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 14:19:00 GMT",
       "ts": 1789654740000,
       "scope": "dom",
       "type": "geo",
-      "title": "福克斯群岛发生6.5级地震，震源深度100千米 - Jiemian.com",
+      "title": "福克斯群岛发生6.5级地震，震源深度100千米 - jiemian.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8za3VwNXM1Ri1EeHlrNng3WFdNUnM2dk5Vc0M5UFVoYndObFdGcFIwdGYtcDZOZlNhR2xSNkRpVFUySFpJLTF6OEtZeG1UU1AxcnZHT0RmdHY?oc=5",
-      "site": "Jiemian.com",
+      "site": "jiemian.com",
       "siteUrl": "https://www.jiemian.com"
     },
     {
@@ -423,6 +423,18 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdGd5UWkwYVp6WW43NTRLZy1rb0tVMTkzNEVvb2tEZ3BOSE5MZ0ZRYk9pYWU2X2czYmQ0TEZWdmVyaWRlNFNjU3JHOGtIMm9GcldNanVibXlSSU12UU04X3htMjNSVVRSbEZ3OGhqT21fX18wZU9pVWNTVmJjYWttOVNtNDBiQ0tRdWdKNUM3bw?oc=5",
       "site": "21财经",
       "siteUrl": "https://www.21jingji.com"
+    },
+    {
+      "id": "FL-2de7c4259838",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 06:05:00 GMT",
+      "ts": 1789625100000,
+      "scope": "dom",
+      "type": "other",
+      "title": "加沙城一战损建筑倒塌致至少20人死亡 - 光明网",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jRXdZclo3eFd0RENxNHg5VTNUTDFKV0hTNkhSRXVWdkZCQld3cHN3djk0QmgwQXI0THJySEstcHl0SWhLdkJ5NXRRS2phTjd6aWl1NHlDbVZZNllDVGxV?oc=5",
+      "site": "光明网",
+      "siteUrl": "https://mil.gmw.cn"
     },
     {
       "id": "FL-14ef82677a96",
@@ -533,18 +545,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-40d60e09c577",
-      "date": "2026-09-13",
-      "dateISO": "Sun, 13 Sep 2026 15:04:00 GMT",
-      "ts": 1789311840000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1392人 - 封面新闻",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TWjViUkt6M2xhR2ZDbEZFbnBOZGVFc2ZxSThOT29tdDBIbk9tWHZIY1NaWk4zek12MXNQeVJXZUhwUGRrc3ZvV1l0alhlMG1DaV9RV0tnVFg3X3pYdGxjSDNpUm5ERGdoWTFVN2tQVXROQjJSakZz?oc=5",
-      "site": "封面新闻",
-      "siteUrl": "https://m.thecover.cn"
-    },
-    {
       "id": "FL-03e1c60639f5",
       "date": "2026-09-06",
       "dateISO": "Sun, 06 Sep 2026 07:00:00 GMT",
@@ -581,16 +581,28 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-ed06ad4ddbf0",
+      "id": "FL-ff6668f4b4a3",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 07:48:11 GMT",
       "ts": 1789717691000,
       "scope": "dom",
       "type": "collapse",
-      "title": "不只是冰川融化 科学家指山体“解冻”加剧崩塌风险 - 8world",
+      "title": "不只是冰川融化 科学家指山体“解冻”加剧崩塌风险 - 8world.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZF9QOWZWblFLZENNWkxhMUpNaEZ1a05YeDVSVnlaVFdxRmRUNUtMMmRYMFc0V3ZJNEZrcUZ5WnluNExzdFFCR2pOeVVTbXRkdXA2Ql96and2SEVla0hLVkY4R2I2YjRhOHFvTjQ0b1pyRnJBN1N5MVZQWVppcUFVVnFlRDE4MFFnRVVRb2RoaEhNQQ?oc=5",
-      "site": "8world",
+      "site": "8world.com",
       "siteUrl": "https://www.8world.com"
+    },
+    {
+      "id": "FL-75217012a91c",
+      "date": "2026-09-18",
+      "dateISO": "Fri, 18 Sep 2026 07:46:21 GMT",
+      "ts": 1789717581000,
+      "scope": "intl",
+      "type": "collapse",
+      "title": "求战无果、靠山崩塌！沙特向美求援碰壁，就只能“砸钱换和平”？ - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX29EN1hRMlpoLWNsZlNENVR2UXRtRDRfUDJPWFRuWHJTZjFORXlsV0pBNVgwTWgwWERwS1B0VGVXU0NTeFBnM0VRZlNtZ1A0ZlBxX2h1STM5cUY3ZTJfcVRsbGM3WlBxUVNzNmQwWWsyclJqSk4yN1VON0pubnZIM2VBQlBCSWtLcngwTQ?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-5df4782103cb",
@@ -677,18 +689,6 @@
       "siteUrl": "https://chejiahao.autohome.com.cn"
     },
     {
-      "id": "FL-4168598e4b07",
-      "date": "2026-09-18",
-      "dateISO": "Fri, 18 Sep 2026 03:58:31 GMT",
-      "ts": 1789703911000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "【视频】暴雨致城市内涝，轿车被困积水中 - 汽车之家",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53eTl5LWxQdDMyMlhOY0tKVkhNMHJUY3hXLThtQ2VUNDhLdHpzQWtXWHJPVzVFajkyUTZOTVBWMDNoQkFtOGE3RWQ5LWUzbU1DVEZhUVJVSk5XTUU?oc=5",
-      "site": "汽车之家",
-      "siteUrl": "https://chejiahao.autohome.com.cn"
-    },
-    {
       "id": "FL-87ff3efb2ef5",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 02:01:00 GMT",
@@ -713,15 +713,15 @@
       "siteUrl": "https://hb.china.com"
     },
     {
-      "id": "FL-ba4d2bb9d156",
+      "id": "FL-4ae8208f848e",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 00:05:07 GMT",
       "ts": 1789689907000,
       "scope": "dom",
       "type": "geo",
-      "title": "瞳孔地震！摩托追尾等红灯小车，骑手如此甩锅：“他不该停这儿！” - 手机新浪网",
+      "title": "瞳孔地震！摩托追尾等红灯小车，骑手如此甩锅：“他不该停这儿！” - k.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1QU1kbnJKOG5CNzhuNHJDWHI4NHRWUE13RGZNQjNYWHRqY0M2Z0lORktwVDdQaUt3bmNEa09PRVR5UUxoaE9nOGJFemMwZkZxclFqYWl6MXd6X2lkLVZoRVZIdE4xS0I0X25MUWUydWNfZW8?oc=5",
-      "site": "手机新浪网",
+      "site": "k.sina.com.cn",
       "siteUrl": "https://k.sina.com.cn"
     }
   ]
