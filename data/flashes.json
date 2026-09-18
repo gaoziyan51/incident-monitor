@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T14:24:57.013Z",
+  "updated": "2026-09-18T14:38:14.394Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -63,15 +63,15 @@
       "siteUrl": "http://www.news.cn"
     },
     {
-      "id": "FL-8eccef5d7805",
+      "id": "FL-2ec426a3c9d2",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 09:12:00 GMT",
       "ts": 1789549920000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川茂县发生山体滑坡 161名群众提前转移无伤亡 - 中国网",
+      "title": "四川茂县发生山体滑坡 161名群众提前转移无伤亡 - china.com.cn",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4bFVHOUpnLWpVdTRDVDFjMnY1dHZ3M3ZWY3E4YVI4ckJ5SjNhRWdGaVFRR1VpX3dOVUNHVWFWYy1ZUUVBYUQyd2FPdkc5cFJzekdOU25lMlRvaWRLZ2JJUkhqdUdzb0l6NUhPR0NqMA?oc=5",
-      "site": "中国网",
+      "site": "china.com.cn",
       "siteUrl": "http://www.china.com.cn"
     },
     {
@@ -388,18 +388,6 @@
       "siteUrl": "https://news.ifeng.com"
     },
     {
-      "id": "FL-31aaf7309a8a",
-      "date": "2026-09-03",
-      "dateISO": "Thu, 03 Sep 2026 07:00:00 GMT",
-      "ts": 1788418800000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "台风“沙德尔”带来强降雨，福建全力抢险救援 - 人民网-福建频道",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9idjB1WHk1RmxjaXpsRFVqTmtSUXdDbEcwVlp0d2k5TnNndmxBNXhhV0syZmdBVlVCQzZuZk56cmNGeWFCYnp5SkVxaFFvbGQ0TXoxalUyeFJtRHJfa2l2TVhBRXJVQWVfM0E?oc=5",
-      "site": "人民网-福建频道",
-      "siteUrl": "http://fj.people.com.cn"
-    },
-    {
       "id": "FL-861987facab4",
       "date": "2026-08-30",
       "dateISO": "Sun, 30 Aug 2026 07:00:00 GMT",
@@ -436,15 +424,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-40d60e09c577",
+      "id": "FL-6efe5298d5a2",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 15:04:00 GMT",
       "ts": 1789311840000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1392人 - 封面新闻",
+      "title": "尼泊尔泥石流灾害遇难人数升至1392人 - thecover.cn",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TWjViUkt6M2xhR2ZDbEZFbnBOZGVFc2ZxSThOT29tdDBIbk9tWHZIY1NaWk4zek12MXNQeVJXZUhwUGRrc3ZvV1l0alhlMG1DaV9RV0tnVFg3X3pYdGxjSDNpUm5ERGdoWTFVN2tQVXROQjJSakZz?oc=5",
-      "site": "封面新闻",
+      "site": "thecover.cn",
       "siteUrl": "https://m.thecover.cn"
     },
     {
@@ -470,6 +458,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SMU9aYk1ieDUtRUYxczloUTVubHBZc2VCWlBtbGlLNmRWdXFGZ2xvUWhfSHZqVS0wYndtZzhUZGZDZlBiQlU0WDV2NUh5bkE1M1VtZURfZWRMaTR4SU4waWJHYXdFd9IBa0FVX3lxTFA3TVBheHVtYmo2X1ppZlgzNnhYZnc3eU9MOUVybUZlUGh0QXMwTklhWXktUm9Bcnh1dVdGcUZvZlVrWGQxTlNKX2xxVV9PRzBRSmR3QWdURDRZVEhja0loSWxWN2RtRmJxR1Y4?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-32b6e6d90fee",
+      "date": "2026-09-18",
+      "dateISO": "Fri, 18 Sep 2026 14:26:49 GMT",
+      "ts": 1789741609000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川甘孜州新龙县发生3.6级地震 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUmx4dXIxOWZfa1hoQnFXR0o2OW4yYzE2dFhGWjRteG5xS0lmQXh1T1Y1WDJzRjUwSFp4elM1TTlCNjRFSUF5aDVLMHZGTFExbGRaeWNtQjF5WWZoa1h4OU9jTmxCdWhNcTVhVGlBTEZJcHhCaTA3WGNXOXVXdlVFLWtBdEYxSkdvRXVHYg?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-ecaecde7bb62",
@@ -664,15 +664,15 @@
       "siteUrl": "https://www.8world.com"
     },
     {
-      "id": "FL-6c87afbc66ba",
+      "id": "FL-5df4782103cb",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 06:51:00 GMT",
       "ts": 1789714260000,
       "scope": "dom",
       "type": "geo",
-      "title": "九州新干线在熊本地震52天后恢复全线运行 - china.kyodonews.net",
+      "title": "九州新干线在熊本地震52天后恢复全线运行 - 共同网",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Wb01tOFZ4Z2F1OFU0VFQ1UzZWVjVjcWhoRVJHQi1RTzFDcTdfMVBuR1VsSmdHRnhXVjBDMlc0dWVxcG9mQktxWGl1bV9uV19raEFxZUkwdw?oc=5",
-      "site": "china.kyodonews.net",
+      "site": "共同网",
       "siteUrl": "https://china.kyodonews.net"
     },
     {
