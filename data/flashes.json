@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T06:57:25.279Z",
+  "updated": "2026-09-18T07:11:28.098Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -63,15 +63,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-3ab2bf927467",
+      "id": "FL-a704a45dea9a",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 12:55:39 GMT",
       "ts": 1789563339000,
       "scope": "dom",
       "type": "geo",
-      "title": "平陆运河与六蓝水库溃坝有关？ - rfi.fr",
+      "title": "平陆运河与六蓝水库溃坝有关？ - RFI",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWjRKaFNrd1JjaklqRGtvc2ZLSWdsX0FzNzJMTHZLeW9aM1lVQmx2eUZuOEVtdG93ZW5DQWZCUTZFSXFrRG9qRWJiSlhxalRoaVZ4SHJTa2dlZDl0cjJWMFFIVDVNWTJkRWM0N0NmRlZyTDQ2bDVWZE5kU0wzOVZGeUlIbUE4QlREbGdma1Z4bHJrMXkza1B1WWVzYkhUMTZabF9sdXlqLUE3UHk0VzZqNU55ZFBtYzFra2FlSTlGM0lZTWR3a184QzZkV1J0RG9rbVpxZWtPb3U3Wk1WTHlHQlB2MlBqNHJvc0U0aFdBcWZWc1U2Y0pOR0t0SQ?oc=5",
-      "site": "rfi.fr",
+      "site": "RFI",
       "siteUrl": "https://www.rfi.fr"
     },
     {
@@ -165,11 +165,11 @@
       "ts": 1789524681000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏吉隆口岸遭遇跨境泥石流致43人遇难519人失联 - huxiu.com",
+      "title": "西藏吉隆口岸遭遇跨境泥石流致43人遇难519人失联 - 虎嗅网",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vUDNYWUQ5Sk1YLVdsMTlHNjFKUU1DeGMwanlEVUdfVDZMUkREc1UteUVWakFJNjVGN094UjZyZFBsZzZGMW8wMmRaMUlYMVUxYnc?oc=5",
-      "site": "huxiu.com",
+      "site": "虎嗅网",
       "siteUrl": "https://m.huxiu.com",
-      "related": 36
+      "related": 35
     },
     {
       "id": "FL-674383638b4c",
@@ -182,6 +182,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfWmowNGIyc200QU1ESDVxbC1hdmdLWUlCQXNHazV6aVdvY1FYMGFySHFueG50UGc3Q2Z2ZUVXaWNtbUQtNlBMWkRDLU01T2R5blhnY2UtSUR5ZUdHaWt5YWszOFRFQdIBa0FVX3lxTE5ncUFxSTZyWVZGQ05yLWwtOGVLS01kb2lsNjY5cVNfU1VlN1hWSjFtUEx4eEpObTY3c3F5czNZeElUM01KaU5uVF9NQ2FDdGlMY29tbi16UFluSkVGSzFkNXJHZFFTOUU5eW80?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-ec0d2255786c",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 15:44:17 GMT",
+      "ts": 1789487057000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害已致1403人遇难 - 央广网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CX1BCWlpfQWdzOUk4NER1dmF5Ym5MOE1jem9VWlBhYXZJSmJIRjJEMjAtNlEtUnZjcmpHSkZjOW1GVXJ3WU80Q1BGYVF3NDBGREMwWWVYZWEtY3Qxa3hMdFdBTWFINHBRekRFbWdXa2QzYjFFc0E?oc=5",
+      "site": "央广网",
+      "siteUrl": "https://www.cnr.cn"
     },
     {
       "id": "FL-2244178adc9f",
@@ -317,15 +329,15 @@
       "siteUrl": "https://www.21jingji.com"
     },
     {
-      "id": "FL-58f2b93b6fbb",
+      "id": "FL-3e04dbf8dbb3",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 14:19:00 GMT",
       "ts": 1789654740000,
       "scope": "dom",
       "type": "geo",
-      "title": "福克斯群岛发生6.5级地震，震源深度100千米 - jiemian.com",
+      "title": "福克斯群岛发生6.5级地震，震源深度100千米 - Jiemian.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8za3VwNXM1Ri1EeHlrNng3WFdNUnM2dk5Vc0M5UFVoYndObFdGcFIwdGYtcDZOZlNhR2xSNkRpVFUySFpJLTF6OEtZeG1UU1AxcnZHT0RmdHY?oc=5",
-      "site": "jiemian.com",
+      "site": "Jiemian.com",
       "siteUrl": "https://www.jiemian.com"
     },
     {
@@ -401,15 +413,15 @@
       "siteUrl": "https://m.thepaper.cn"
     },
     {
-      "id": "FL-c2375999689f",
+      "id": "FL-8841bc672202",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 09:21:20 GMT",
       "ts": 1789636880000,
       "scope": "intl",
       "type": "geo",
-      "title": "在尼泊尔泥石流中被困11天，获救工人中秋节前回到河南 - news.ifeng.com",
+      "title": "在尼泊尔泥石流中被困11天，获救工人中秋节前回到河南 - 凤凰网",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhcnEzb0x5LXE0MExhejF2NTQzWkRXQ3RteWtWU3lvVmZuTkdWdThBUjk4QjVZTVgzc3hyMzJLaTAzd2hYLVl6UlNXc1A?oc=5",
-      "site": "news.ifeng.com",
+      "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com"
     },
     {
@@ -473,15 +485,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-61a53c7642d4",
+      "id": "FL-1fb6c6bb1569",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 02:51:35 GMT",
       "ts": 1789613495000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川茂县成功避险一起滑坡灾害，更多细节公布 - news.ifeng.com",
+      "title": "四川茂县成功避险一起滑坡灾害，更多细节公布 - 凤凰网",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qSUhUN3hZQjJPclIwMGE5WFV1a2w1THFzbzYxUzlwSlRJZmViX2w4S2pNNEpOMW5MY0R2V0Vxb0VicHFNN0c0VFVBcUE?oc=5",
-      "site": "news.ifeng.com",
+      "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com"
     },
     {
@@ -533,15 +545,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-40d60e09c577",
+      "id": "FL-6efe5298d5a2",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 15:04:00 GMT",
       "ts": 1789311840000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1392人 - 封面新闻",
+      "title": "尼泊尔泥石流灾害遇难人数升至1392人 - thecover.cn",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TWjViUkt6M2xhR2ZDbEZFbnBOZGVFc2ZxSThOT29tdDBIbk9tWHZIY1NaWk4zek12MXNQeVJXZUhwUGRrc3ZvV1l0alhlMG1DaV9RV0tnVFg3X3pYdGxjSDNpUm5ERGdoWTFVN2tQVXROQjJSakZz?oc=5",
-      "site": "封面新闻",
+      "site": "thecover.cn",
       "siteUrl": "https://m.thecover.cn"
     },
     {
@@ -555,18 +567,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByeEVvcHlucE92a1Z3T0Ywei1RT3Ric2RMaVEzNmVtbF9VVEVPMmhrNmliNEl3TGllWktKNjNodUNSSXh3S21KUHA2cEFqckZEV0RNMmpCWWRxSGM4Zm51VUEyV0dkZ9IBa0FVX3lxTFBxM2RNYURrR1hmQ1ktWnBrME1RQ1ZESXBWZHZ4aUNoaURoXy1BLXlySk9tcDZHb25fRmV5SDB5ZTVnck9rdlNmRHdGRkl3QldGb2VEZHA3VkNWT0NITjhmMTRwUWNpZEgxNDFF?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-def32ff8029f",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 07:33:35 GMT",
-      "ts": 1789371215000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "印尼亚齐特区发生山体滑坡 已致1死13伤 - 央视网",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mYmtPZ21ZUzhQZnBlQWM4M1M5ME5pV2lhSEtNRmFUUlNBdEZneTRTRzRrZzF1bGZMWTBIVkdtSGN0SERGMWNlTnNMeTdTY0tFRWFRSjFaVGlmME1sNko3VWRockVLVnNmV0Nkc0tmNURKR3hnZC0ySw?oc=5",
-      "site": "央视网",
-      "siteUrl": "https://news.cctv.com"
     },
     {
       "id": "FL-e8a32a183e42",
@@ -701,27 +701,27 @@
       "siteUrl": "http://sm.fjsen.com"
     },
     {
-      "id": "FL-d42ae394b592",
+      "id": "FL-da19358871bc",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 01:44:31 GMT",
       "ts": 1789695871000,
       "scope": "dom",
       "type": "weather",
-      "title": "8栋576套安置房开建 湖北省黄冈市龙卷风受灾群众2027年搬新家 - 中华网",
+      "title": "8栋576套安置房开建 湖北省黄冈市龙卷风受灾群众2027年搬新家 - hb.china.com",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0Z3dmNXJKQ0M1SjlDdTVqcnQ3dk9Lbld3bEhpQlRqNGJ4QXRselBnU1BkS0ZhSTFlYnlDdTV1elAwUEpSVldhOUxlSXR3Qy1hZlVRMm9UZl95Q1BxWHMzQ3ItUUtGSGZS?oc=5",
-      "site": "中华网",
+      "site": "hb.china.com",
       "siteUrl": "https://hb.china.com"
     },
     {
-      "id": "FL-4ae8208f848e",
+      "id": "FL-5cc4707cccd0",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 00:05:07 GMT",
       "ts": 1789689907000,
       "scope": "dom",
       "type": "geo",
-      "title": "瞳孔地震！摩托追尾等红灯小车，骑手如此甩锅：“他不该停这儿！” - k.sina.com.cn",
+      "title": "瞳孔地震！摩托追尾等红灯小车，骑手如此甩锅：“他不该停这儿！” - 新浪网",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1QU1kbnJKOG5CNzhuNHJDWHI4NHRWUE13RGZNQjNYWHRqY0M2Z0lORktwVDdQaUt3bmNEa09PRVR5UUxoaE9nOGJFemMwZkZxclFqYWl6MXd6X2lkLVZoRVZIdE4xS0I0X25MUWUydWNfZW8?oc=5",
-      "site": "k.sina.com.cn",
+      "site": "新浪网",
       "siteUrl": "https://k.sina.com.cn"
     }
   ]
