@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T05:37:02.623Z",
+  "updated": "2026-09-18T05:47:18.803Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -27,15 +27,15 @@
       "siteUrl": "http://www.xinhuanet.com"
     },
     {
-      "id": "FL-6c37d6eedf5e",
+      "id": "FL-c2a04813577b",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 17:06:14 GMT",
       "ts": 1789578374000,
       "scope": "dom",
       "type": "collapse",
-      "title": "加沙：建筑坍塌致至少20人死亡，搜救工作仍在继续 - news.un.org",
+      "title": "加沙：建筑坍塌致至少20人死亡，搜救工作仍在继续 - UN News",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wdnBqX2d2T1NSQ092SjlCdW1fbVZfak4ycERLSWtGb2VxT21FdXRQSkd5bVFiVkxvZlFlaDZralk5b2FyemR4RlptclBhbDhrR1ZILTc4Zw?oc=5",
-      "site": "news.un.org",
+      "site": "UN News",
       "siteUrl": "https://news.un.org"
     },
     {
@@ -257,18 +257,6 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-1b4b3fe72edc",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 22:54:52 GMT",
-      "ts": 1789685692000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流被困11天获救工人回到河南 父子紧紧相拥 - 华商网",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tdk1MU2RsUndscHRCRUR5Wm4xdW1OdDgyOW5OSnBUMWMteHBxWWVpXzRub1NBQXpFSnBRU1gzSnVpdFVzNW9pUXdRNG1BdE44RnVYWE5oRWZkanJuMnhn?oc=5",
-      "site": "华商网",
-      "siteUrl": "https://news.hsw.cn"
-    },
-    {
       "id": "FL-9dfae008c070",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 17:35:00 GMT",
@@ -435,6 +423,18 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VWElndU1NZmFvX1RnbU5xY3JBNWFjZTZ0R2NsWF9ydm1QTDFzR09wbVJGVWl6bFVmSHRIOVVfMjdjejdzM0U2YS1EamFGclZYNkIxRS0tNGI5NFJ2Wnc?oc=5",
       "site": "thepaper.cn",
       "siteUrl": "https://m.thepaper.cn"
+    },
+    {
+      "id": "FL-c2375999689f",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 09:21:20 GMT",
+      "ts": 1789636880000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "在尼泊尔泥石流中被困11天，获救工人中秋节前回到河南 - news.ifeng.com",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhcnEzb0x5LXE0MExhejF2NTQzWkRXQ3RteWtWU3lvVmZuTkdWdThBUjk4QjVZTVgzc3hyMzJLaTAzd2hYLVl6UlNXc1A?oc=5",
+      "site": "news.ifeng.com",
+      "siteUrl": "https://news.ifeng.com"
     },
     {
       "id": "FL-f6be17c76967",
