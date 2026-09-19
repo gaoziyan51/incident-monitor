@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T11:19:35.653Z",
+  "updated": "2026-09-19T11:30:12.037Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -61,7 +61,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
-      "related": 40
+      "related": 36
     },
     {
       "id": "FL-2244178adc9f",
@@ -112,18 +112,6 @@
       "siteUrl": "https://www.mfa.gov.cn"
     },
     {
-      "id": "FL-78ceadf2c48b",
-      "date": "2026-08-13",
-      "dateISO": "Thu, 13 Aug 2026 07:00:00 GMT",
-      "ts": 1786604400000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "哥伦比亚地震已致265人死亡 逾5.3万人受灾 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13SlJnLTNCd3V0QmItbFVfNHJSVkNJX01RdmY4ZkZXRXdQdEUxS29nemhPbDU1VTM5cFVTZzhfSjA3YVA3UkxMREJNbDh3SzN5UEM3Nlh3ZkU2aGlWNVBvaVo3cEJBNjZ1LTZuZFRNU2dFTW1iT3c5VXVLaTNwekU?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
       "id": "FL-f7df76261340",
       "date": "2026-08-30",
       "dateISO": "Sun, 30 Aug 2026 07:00:00 GMT",
@@ -170,6 +158,42 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByeEVvcHlucE92a1Z3T0Ywei1RT3Ric2RMaVEzNmVtbF9VVEVPMmhrNmliNEl3TGllWktKNjNodUNSSXh3S21KUHA2cEFqckZEV0RNMmpCWWRxSGM4Zm51VUEyV0dkZ9IBa0FVX3lxTFBxM2RNYURrR1hmQ1ktWnBrME1RQ1ZESXBWZHZ4aUNoaURoXy1BLXlySk9tcDZHb25fRmV5SDB5ZTVnck9rdlNmRHdGRkl3QldGb2VEZHA3VkNWT0NITjhmMTRwUWNpZEgxNDFF?oc=5",
       "site": "bbc.com",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-6fccdbeea622",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 11:26:41 GMT",
+      "ts": 1789817201000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川茂县是如何做到避险滑坡灾害的 预警与转移环环相扣 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XV1A5RTFJd1lfTlQxR2R2UFh0S0h3S3N2bVhKc0E4djJ3Z3VVMkpkNGRhZWY3SlFHeHZ3QXFMR1FNcHlUVkxUQTNDWE1qeWwtQlRDcUFIMHl6VTRwbFAydENBMUg2VDhyWEx5dXNGNlo?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
+    },
+    {
+      "id": "FL-e06c6c72cc6e",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 11:13:38 GMT",
+      "ts": 1789816418000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川攀枝花泥石流救援进展 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ00wMnp4SlBheDROdmQwX1Y4SUtmRDE5eWN3T1psT1FIcTBlY2hheXNqSlg0aExCLWRQZU56cU9DUFBSQThCUDlXbEtZNWg0OXJWSHJDVVRHUVR5S0tIeUE4Y1pCWTdrQ1g1RWV6QTZuTzRycjBNYzJRSS1tN185RWVWTmRZODhS?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-b9bc20d40f2e",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 11:02:36 GMT",
+      "ts": 1789815756000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川攀枝花盐边县格萨拉乡泥石流救援进展：拉网式排查与空地协同搜救 - 虎嗅网",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hTnlUVnI1TGF1cE82ZzJEYVhSM2t5OGdjRS10WDgxdjRyUk9lMjl6TF9hMWZQZFQ2WGNfa1VjOHJaT00zd09pTG1kREdqUlJLeF9V?oc=5",
+      "site": "虎嗅网",
+      "siteUrl": "https://www.huxiu.com"
     },
     {
       "id": "FL-357a54fbb602",
@@ -388,15 +412,15 @@
       "siteUrl": "https://www.8world.com"
     },
     {
-      "id": "FL-6d546ff44eaf",
+      "id": "FL-c1f4de7a271f",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 04:19:00 GMT",
       "ts": 1789791540000,
       "scope": "dom",
       "type": "geo",
-      "title": "攀枝花盐边县突发泥石流，地灾专家工作组赶赴现场 - cbgc.scol.com.cn",
+      "title": "攀枝花盐边县突发泥石流，地灾专家工作组赶赴现场 - 川观新闻",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE50MFg0SWlJNUtzbXl3ZjRlZmxkcnJFUFVLWFI0MGJZUE1YZnBjeG9RWlNieG9DX3FCM0lNMXNySURoYXVLOXduTnNVU2Ixdw?oc=5",
-      "site": "cbgc.scol.com.cn",
+      "site": "川观新闻",
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
@@ -616,18 +640,6 @@
       "siteUrl": "http://finance.sina.cn"
     },
     {
-      "id": "FL-f49296c4ab56",
-      "date": "2026-08-31",
-      "dateISO": "Mon, 31 Aug 2026 00:47:32 GMT",
-      "ts": 1788137252000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "中方向尼泊尔提供应对泥石流灾害紧急人道主义援助_构建人类命运共同体 - 习近平外交思想和新时代中国外交",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXYXlkQXlBbTlwZ0ZCaVotb3dtei1lV3AxZEFtVFVPV0tYbXYyamF2TU1TeDdSNTJQSGZXNk14THBpZnhJa2Y1VHJnTm5FYk5jZzF5QnhmVDl1b1VCM3lPQVVXMmxyWlc5VUhHMEJwdWVtQ2dUVWc?oc=5",
-      "site": "习近平外交思想和新时代中国外交",
-      "siteUrl": "https://cn.chinadiplomacy.org.cn"
-    },
-    {
       "id": "FL-9f43e97b18c0",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 07:35:00 GMT",
@@ -674,18 +686,6 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXOERRaldsTmdBV2FBZ2NJZG1FN1RhSGFvTkNBNnRpTUp6TENQcUNrSXBSVTdLSDVXUGotMm9vU0dWS1FkUHJIR09ia0o5OVRqZEk0?oc=5",
       "site": "华尔街见闻",
       "siteUrl": "https://wallstreetcn.com"
-    },
-    {
-      "id": "FL-f2e9cf190c4e",
-      "date": "2026-09-18",
-      "dateISO": "Fri, 18 Sep 2026 12:50:00 GMT",
-      "ts": 1789735800000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川甘孜州新龙县发生3.2级地震 震源深度11千米 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUnVqekEwRERQUnJrVDEtYzZMb01SdDZXbUE5X1BUNUtMSFN3eE8zRGtqbW5YRXQzb0JKUzd5bVlNRGVLbDNLR2Z0MGFGWEQ5bm5hUzZ4M3ZxTDdSc2ZVdmVPS1cxOXJvLXZvSWdJQzQwLUIxSlM2UzlxZC01TkVmUjB5Yy1vMWhGUS1qUEw5MDRSazRtMEZjNg?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-b6ef7eac2e92",
