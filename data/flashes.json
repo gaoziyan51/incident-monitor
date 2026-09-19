@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T02:46:54.006Z",
+  "updated": "2026-09-19T02:55:24.763Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -87,15 +87,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-0fed9c51ee2f",
+      "id": "FL-b79bc0488d8a",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 06:37:40 GMT",
       "ts": 1789540660000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川茂县发生山体滑坡 提前管控未造成人员伤亡 - 央广网",
+      "title": "四川茂县发生山体滑坡 提前管控未造成人员伤亡 - news.cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBXcms4anhZZDZ2dTgwMHpRZGhhYkRNLU5QbGtnQXVaUlVqNHhWaFVRcTZGLWlaSEMwRDlSaFllSlZOOTBqb0JZSWF5aHROa2QwVkI0Zlk1M1pHbVpCVjJ3bTh3cklPNWpSMjUyQTd3NzVDQQ?oc=5",
-      "site": "央广网",
+      "site": "news.cnr.cn",
       "siteUrl": "https://news.cnr.cn"
     },
     {
@@ -159,15 +159,15 @@
       "siteUrl": "https://www.jiemian.com"
     },
     {
-      "id": "FL-cd7cfbb5d90a",
+      "id": "FL-2b0b51e8390d",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 15:50:40 GMT",
       "ts": 1789660240000,
       "scope": "dom",
       "type": "geo",
-      "title": "福克斯群岛发生6.5级地震 震源深度100公里 - 央广网",
+      "title": "福克斯群岛发生6.5级地震 震源深度100公里 - news.cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQdFBkSGtLaFVhWnlmV2FoeEE2UWpLOWFLWEFXcXZDSmQ0N1kyck5ralQtZUNvMk8xekdtaEo1RHFTbW1Md0Zuc1IxNndBSzAtTmFKc2s1N1lHZm1QMmhxQXNLdmtHdWFC?oc=5",
-      "site": "央广网",
+      "site": "news.cnr.cn",
       "siteUrl": "https://news.cnr.cn"
     },
     {
@@ -291,15 +291,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-31aaf7309a8a",
+      "id": "FL-20349e76752b",
       "date": "2026-09-03",
       "dateISO": "Thu, 03 Sep 2026 07:00:00 GMT",
       "ts": 1788418800000,
       "scope": "dom",
       "type": "weather",
-      "title": "台风“沙德尔”带来强降雨，福建全力抢险救援 - 人民网-福建频道",
+      "title": "台风“沙德尔”带来强降雨，福建全力抢险救援 - fj.people.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9idjB1WHk1RmxjaXpsRFVqTmtSUXdDbEcwVlp0d2k5TnNndmxBNXhhV0syZmdBVlVCQzZuZk56cmNGeWFCYnp5SkVxaFFvbGQ0TXoxalUyeFJtRHJfa2l2TVhBRXJVQWVfM0E?oc=5",
-      "site": "人民网-福建频道",
+      "site": "fj.people.com.cn",
       "siteUrl": "http://fj.people.com.cn"
     },
     {
@@ -349,6 +349,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByeEVvcHlucE92a1Z3T0Ywei1RT3Ric2RMaVEzNmVtbF9VVEVPMmhrNmliNEl3TGllWktKNjNodUNSSXh3S21KUHA2cEFqckZEV0RNMmpCWWRxSGM4Zm51VUEyV0dkZ9IBa0FVX3lxTFBxM2RNYURrR1hmQ1ktWnBrME1RQ1ZESXBWZHZ4aUNoaURoXy1BLXlySk9tcDZHb25fRmV5SDB5ZTVnck9rdlNmRHdGRkl3QldGb2VEZHA3VkNWT0NITjhmMTRwUWNpZEgxNDFF?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-d40ea5831f7d",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 02:49:00 GMT",
+      "ts": 1789786140000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "攀枝花盐边县支六河村附近突发泥石流，有人员失联 - 川观新闻",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnaHFQbmxlSVZGcktxQ0lTV202WTJZS29vV1pDd1J6NHZfdk0yZVZEY3dfbUtYc3loR2ZwNFVJNWFhRnBCYmFxYlY3RmxiQQ?oc=5",
+      "site": "川观新闻",
+      "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
       "id": "FL-418eed2ca087",
@@ -483,27 +495,27 @@
       "siteUrl": "https://wallstreetcn.com"
     },
     {
-      "id": "FL-2f5554815009",
+      "id": "FL-848fa9255161",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 14:40:00 GMT",
       "ts": 1789742400000,
       "scope": "dom",
       "type": "geo",
-      "title": "新疆阿克苏地区沙雅县发生3.7级地震，震源深度17千米 - yicai.com",
+      "title": "新疆阿克苏地区沙雅县发生3.7级地震，震源深度17千米 - 第一财经",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KR0UxSWtyRkNCY0RnQlNsc3YzbEJxZ19oUUcwUFFpWTRBVDJoaWwwX3VpV0VsOGpUZ0tEazAtU1lTcWNzdVphVTRFRE5xbFY2bTBNVg?oc=5",
-      "site": "yicai.com",
+      "site": "第一财经",
       "siteUrl": "https://www.yicai.com"
     },
     {
-      "id": "FL-59de6f3625ca",
+      "id": "FL-3b2d24766087",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 14:32:30 GMT",
       "ts": 1789741950000,
       "scope": "dom",
       "type": "geo",
-      "title": "河南南阳市西峡县突发3.0级地震？官方辟谣 - 凤凰网",
+      "title": "河南南阳市西峡县突发3.0级地震？官方辟谣 - news.ifeng.com",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5rcUtwTnJjNjFaSTNDdGtnZkRrc1lib1lfZFZiLUVLeXRwbzdlT0lsSG93MmpqNmNEZnRKMy1vRTYyOWxUQnhSYmVZTFQ?oc=5",
-      "site": "凤凰网",
+      "site": "news.ifeng.com",
       "siteUrl": "https://news.ifeng.com"
     },
     {
@@ -565,7 +577,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOHQ2b0VRWWEyak9XNF9sbG8yR1hvMkxuZTVRMzA5V2RqbVRzX1JXeW91UFozWVVkYlFkNWJybkVrMzA3eHh6cG1XVGNFX0l4YlJwYmx6MXdYcWJJV3l5ZElxRUJBUEltYzljaHdZN2xwVF9GUDVCV3AyT0J1NTR4REVSS3FaZVN3d19wSQ?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com",
-      "related": 36
+      "related": 34
     },
     {
       "id": "FL-18f2e371b120",
@@ -592,15 +604,15 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-33d2eb98cdc7",
+      "id": "FL-b6ef7eac2e92",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 12:09:00 GMT",
       "ts": 1789733340000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川甘孜州新龙县发生3.6级地震，震源深度15千米 - yicai.com",
+      "title": "四川甘孜州新龙县发生3.6级地震，震源深度15千米 - 第一财经",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84dnFsX2s5NXZoNTlFVVlzb05tUEtyd244M08wWFNBR2tzOEoxMUJyRFFuTUM2emxJR3lobHdOMVctSjVMQnl1Um1pb0hKcllFcDdF?oc=5",
-      "site": "yicai.com",
+      "site": "第一财经",
       "siteUrl": "https://www.yicai.com"
     },
     {
@@ -676,18 +688,6 @@
       "siteUrl": "https://china.kyodonews.net"
     },
     {
-      "id": "FL-357eb3aba27c",
-      "date": "2026-09-18",
-      "dateISO": "Fri, 18 Sep 2026 06:39:16 GMT",
-      "ts": 1789713556000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "受强降雨影响 江西上犹县高峰村发生泥石流险情 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOemJteENyM0JEcUJvbThrdUZLQ2NBb2RTRFBYTnVMeFFwVnFrMm1qdTlXWDdYUHNMZU85LXRnb05ybVZvNGpXRk45U3VoYncwNnVnVWxhNE44TUN1RFlxSjFRWjZsRHFQTkRUNXFTSXhQQm9PV0pNb0RudU9xcVRLLUFlSkUzQjJmTzAyQmJBTVZaaWVUb3VTSw?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.cn"
-    },
-    {
       "id": "FL-3c916c4ad57a",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 05:56:42 GMT",
@@ -722,7 +722,7 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45U204ZEdEdEpDSW9KS1pLOHNENExGbzdXdHI4dXFTZzZWck4xV3R0UWw0QzFaZWE2aThfTXphNGNOQl9FeTBFcWhGRmc3RGMzRkJrRGVRaGc4RDBuYy01VkVUNjA?oc=5",
       "site": "新京报",
       "siteUrl": "https://www.bjnews.com.cn",
-      "related": 8
+      "related": 7
     }
   ]
 }
