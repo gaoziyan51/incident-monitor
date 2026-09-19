@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T22:30:25.382Z",
+  "updated": "2026-09-19T22:43:49.065Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -61,6 +61,18 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EUFZBcldCdGxBNFo0ZmYwQms1WmI0WGkwMXE3WHV0eERicmJicng4TkxLeUlPTnpWQ21iazh3NzZjaXpTUGtoM29MRUhYdkpKMGVfVzJHQkttUQ?oc=5",
       "site": "jfdaily.com",
       "siteUrl": "https://www.jfdaily.com"
+    },
+    {
+      "id": "FL-b2f868160f6d",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 22:03:00 GMT",
+      "ts": 1789855380000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "澳廣視新聞｜四川盐边县泥石流2死3人仍失踪｜ - TDM",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONXVlcGJsQ0ppYXIxT0xWUzU0TGJRWHpEazBzVHZmODhhS0VTUUcwNzI5SUdlV0dIWWRLUWVEbU1JNEwtTmtPTkItYmcyNGRDRGtzdEo5cGt0bWE4NkhKbks1RHpZYTduT2RqdU1rT1QwblpYMkZWVWhwVjhSUE9CTkYzZlp3UjRfNmx2VVp3?oc=5",
+      "site": "TDM",
+      "siteUrl": "https://www.tdm.com.mo"
     },
     {
       "id": "FL-9d0d44fce02f",
@@ -147,6 +159,30 @@
       "siteUrl": "https://www.sohu.com"
     },
     {
+      "id": "FL-1e02fd583bc5",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 16:33:12 GMT",
+      "ts": 1789835592000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "凌晨突发泥石流，5名司机弃车逃生，当地村民打亮手电筒将他们救起 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeC0zaGdydDdOaThwZ1JsWEt4R2wzQ0NaVkpOT0tmMm9uU1MwY0tsUVBtUGEwUGdteDE1N0NDWEpHS1g4QndoZm1OU2QtNXRIMlRVTkdWZTV4eU52VzFUN0NIMzdJZ2g3b0xRdjU0cW1fRDFYd29IQWE5cXYxVkFjMHg0eEdHSHV2WktReEJjVDVWU1VkdGJ2bFg2ZjdNY09fOEttUEFvcTFhN2YzTTVOS0Zab0x1TEdGWEN2d09RR3RsRF9uYmRnbUpPOWhVeVZTUmNWc3pKSQ?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "http://finance.sina.cn"
+    },
+    {
+      "id": "FL-bbf3785e5d60",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 16:22:40 GMT",
+      "ts": 1789834960000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "新疆阿克苏地区沙雅县发生4.1级地震 震源深度21千米 - 极目新闻",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03bHdRRGdJVEhaTkVLRlhGZzRESlpGUm5Fb1g2TmtObFd6LXJYaWZxeUhDWjhlbXhEa3lFMFFGVnRNdDZXUWY0amJlNHRXWTU1TXZ4U2s1cnhDQjg?oc=5",
+      "site": "极目新闻",
+      "siteUrl": "https://www.ctdsb.net"
+    },
+    {
       "id": "FL-7d27c153bce8",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 16:15:00 GMT",
@@ -231,15 +267,15 @@
       "siteUrl": "https://www.ctdsb.net"
     },
     {
-      "id": "FL-1f073a188b23",
+      "id": "FL-634655a790a5",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 15:01:00 GMT",
       "ts": 1789830060000,
       "scope": "dom",
       "type": "weather",
-      "title": "离谱！暴雨时男篮被疏散到停车场顶层，还好全员平安无恙！ - news.qq.com",
+      "title": "离谱！暴雨时男篮被疏散到停车场顶层，还好全员平安无恙！ - QQ News",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zV1hqb2FYT21wNjBqQ2FxQ2lUVE51MF9uUk8xRlc3TE1yUDNaWUZKQWZnek9uaTF2ZlN2R1JGd2VkZnRFU3BINjVTU0JkcmJRdGxyczV3?oc=5",
-      "site": "news.qq.com",
+      "site": "QQ News",
       "siteUrl": "https://news.qq.com"
     },
     {
@@ -289,18 +325,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xemRsaW1QcmlsQmFQUVY5bkZxeEczUTNiYlUzdm5JYTVOLUNObVZKR0hERUVJS1Jua2EwTDZDMy1qaXRZY2lZMGppTWNiZnRabi0tem4xeDhtd1draXFvRUFKTnhXUWRJ?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-4f7d3ef39bf6",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 14:22:56 GMT",
-      "ts": 1789827776000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "凌晨突发泥石流，5人弃车逃生，当地村民打亮手电筒将他们救起 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8ybzJoZ19qS3J0eVI5eGhXeThPczFLYUpxSTVjdm9SQ2FjVGJ3NGxtRkxZZHJIa0ZYQzZ3LU0tMmZTN1hqUThqY0xidlBIN3hCUzRCMG5R?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://www.sohu.com"
     },
     {
       "id": "FL-6316beeeb430",
@@ -433,18 +457,6 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSS2V5blJlNElRTnFNY3BCLTJLTkw1blRFbGV2R0ZOUm43Q0lGODMxTXpMSDY0aGlIQUpPV0RoRzFuZ0JWWm9tYnJKb1RycnBtMldOY2dtT1AtRFJsRVdSSkp6TQ?oc=5",
       "site": "jingjiribao.cn",
       "siteUrl": "http://www.jingjiribao.cn"
-    },
-    {
-      "id": "FL-d32db147235e",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 12:01:00 GMT",
-      "ts": 1789819260000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川消防救援机动总队在格萨拉乡泥石流现场展开搜救 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbHpBVTN3a09KZlFBdzluaVp4bFh5Ym9GZUVMcTg1VmtCUjExVmxELUZYU1EyYWtqbUxlT2tER2x4MW1rcmNlNjFxZ3oxSnYxcGxFU2xoVjlTNzVMdUxGTm0ySXJKaVFkVmRkRXhFc2xNSkdsYzNvVFdpVDk4LTJ1c0pLTHRtZ01j?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-29f180a3d158",
@@ -616,18 +628,6 @@
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
-      "id": "FL-8aefff332f77",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 03:35:00 GMT",
-      "ts": 1789788900000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "关注 | 四川盐边县突发泥石流，已致5人失联 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OcEdrTk4wRG15Uzd0OHVtME5XYzBNRWsydmwxTlppZmI2ZUtTMXdpYkZEZlBoVjFrMS10RmtYbzR1RFFrdG1IWkdjM1VRalhEZjlWVmlmakFyM0swd0VHNlUwTkZJX2hOS1FlaTA3MXBQdUduZkE?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
-    },
-    {
       "id": "FL-f766744f09a8",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 03:32:00 GMT",
@@ -722,7 +722,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
       "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn",
-      "related": 7
+      "related": 6
     }
   ]
 }
