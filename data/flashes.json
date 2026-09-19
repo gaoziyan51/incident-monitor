@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T01:07:12.196Z",
+  "updated": "2026-09-19T01:21:34.171Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -171,15 +171,15 @@
       "siteUrl": "https://news.un.org"
     },
     {
-      "id": "FL-60ab6176a35d",
+      "id": "FL-26b98e591626",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 22:56:00 GMT",
       "ts": 1789685760000,
       "scope": "dom",
       "type": "geo",
-      "title": "新疆巴音郭楞州库尔勒市发生3.0级地震，震源深度12千米 - Jiemian.com",
+      "title": "新疆巴音郭楞州库尔勒市发生3.0级地震，震源深度12千米 - jiemian.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41YXM1dVFRc3M4MDNCTVVvaEVNaU1TOGZ3WkFmOTg2U2dZR0ViTnJhc0Y0WnptS2Nad0pkT1htbUx5WkJwUW1fN1JFOHI1V2hDTVJydzlLRjE?oc=5",
-      "site": "Jiemian.com",
+      "site": "jiemian.com",
       "siteUrl": "https://www.jiemian.com"
     },
     {
@@ -207,15 +207,15 @@
       "siteUrl": "https://m.thepaper.cn"
     },
     {
-      "id": "FL-3e04dbf8dbb3",
+      "id": "FL-58f2b93b6fbb",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 14:19:00 GMT",
       "ts": 1789654740000,
       "scope": "dom",
       "type": "geo",
-      "title": "福克斯群岛发生6.5级地震，震源深度100千米 - Jiemian.com",
+      "title": "福克斯群岛发生6.5级地震，震源深度100千米 - jiemian.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8za3VwNXM1Ri1EeHlrNng3WFdNUnM2dk5Vc0M5UFVoYndObFdGcFIwdGYtcDZOZlNhR2xSNkRpVFUySFpJLTF6OEtZeG1UU1AxcnZHT0RmdHY?oc=5",
-      "site": "Jiemian.com",
+      "site": "jiemian.com",
       "siteUrl": "https://www.jiemian.com"
     },
     {
@@ -315,16 +315,16 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-1fb6c6bb1569",
+      "id": "FL-bf6b71b6639f",
       "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 02:51:35 GMT",
-      "ts": 1789613495000,
-      "scope": "dom",
+      "dateISO": "Thu, 17 Sep 2026 02:15:00 GMT",
+      "ts": 1789611300000,
+      "scope": "intl",
       "type": "geo",
-      "title": "四川茂县成功避险一起滑坡灾害，更多细节公布 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qSUhUN3hZQjJPclIwMGE5WFV1a2w1THFzbzYxUzlwSlRJZmViX2w4S2pNNEpOMW5MY0R2V0Vxb0VicHFNN0c0VFVBcUE?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://news.ifeng.com"
+      "title": "尼泊尔泥石流灾害中被困11天获救，陆海涛今天回到河南，儿子前来迎接，父子紧紧相拥，“见到儿子就什么事都没有了” - 新浪财经_金融信息服务商",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPLWhxWjNRZzQ5cXJzbmQzZjRMTzdnYjB3bVJoTm5VbHNFOS1jNkVucHNNbmVHcmFIY3FuSjRyOWxoLXVVUmluZHJQZFZWZlNaTWRNWmJBMlZHZGYwcUM0dXZhRFhEMGJOWUhhVlJxd0REYUZvRmI4X0NlZm5GV3N0dHo5TU5IcjBJRXhZVGJJb3NmOEdtOER4VHZBdDNjelRVOVRoeXlGUngtcWJXRW1OYm1nWUMyTExvRTJlcjZjdkhySy03UEVqZ19GVmRJYzd1RzJVQzdwUQ?oc=5",
+      "site": "新浪财经_金融信息服务商",
+      "siteUrl": "http://finance.sina.cn"
     },
     {
       "id": "FL-20349e76752b",
@@ -387,6 +387,18 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
+      "id": "FL-4b736f3f7478",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 01:18:24 GMT",
+      "ts": 1789780704000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川发生地震 - 新浪财经_金融信息服务商",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQUFOVm80YzRQLWtnTjJWS09DdUJQQmhHdnBubmRfMXg4YzduTWdjUDdkSW41VEJMd2NzNDRvS2RqNGpuT0hqNmRRRjh6YVUtN1lpTElwZ0F4WkFDTHY3S2Itcy12cHFLSl9QZEtHeTlHUVlaYjVWN1Nsakw2Z3NOTS1pSEl3RlRXS3R3Y0lkNXk4bkdDRVVQRk44MlZGLVdyMzFqNi1uU1g4cnBtRFlCYTkxYXZzd0NZRjVRUnNnYm5SdG5wb1pBaG83R3VweUxtRlVOY3VsanM?oc=5",
+      "site": "新浪财经_金融信息服务商",
+      "siteUrl": "http://finance.sina.cn"
+    },
+    {
       "id": "FL-bc43722da1c0",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 00:28:27 GMT",
@@ -397,18 +409,6 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQck40T0tkLWphblJoZzlWaWRnTTNIdF9Dc3JtLUJic1JNWTZlX0w2WXpqaS1UUlExQ1FBWE1pS2Yxb1NISWdPTW1uWDBDU1YwMHI1MEtqeHVXNERSZ25SMlI0YkNiS0xPdjl2STducDBZbnlNcEhaLWttUFJ6MmRxODZUTkpTMUVaOUQxTF9vdFBaSUc2MDBFZA?oc=5",
       "site": "新浪财经_金融信息服务商",
       "siteUrl": "https://finance.sina.cn"
-    },
-    {
-      "id": "FL-4b736f3f7478",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 00:28:19 GMT",
-      "ts": 1789777699000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川发生地震 - 新浪财经_金融信息服务商",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNkxaTGx5a1NLU1VkWHN6Q2F1ZjhoakN0U2hKV2VXUUUzbFEzbjRCdElQb0VaYVlXS1RfX1BsUjd0MnBNbndoODBUTVJRMEhneElFUC1JT3B6QzlMY01MTF9pZ3VEdlhMR3dmMnAxOEJBUWRjSE92cmJkSnVZYjZVamdWTE9aTHhpOFBvV3E2RTlRdzlrRFhaSUlmamlnZDBqUW5MLVpMRHdmb3BkeVdjejczYnc0T3BEbU9heGNJR3BwSGlPbHJxSkFrWkx0amh1ZlEzc0FKTQ?oc=5",
-      "site": "新浪财经_金融信息服务商",
-      "siteUrl": "http://finance.sina.cn"
     },
     {
       "id": "FL-fb448a3e9124",
@@ -553,7 +553,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOHQ2b0VRWWEyak9XNF9sbG8yR1hvMkxuZTVRMzA5V2RqbVRzX1JXeW91UFozWVVkYlFkNWJybkVrMzA3eHh6cG1XVGNFX0l4YlJwYmx6MXdYcWJJV3l5ZElxRUJBUEltYzljaHdZN2xwVF9GUDVCV3AyT0J1NTR4REVSS3FaZVN3d19wSQ?oc=5",
       "site": "sohu.com",
       "siteUrl": "https://m.sohu.com",
-      "related": 33
+      "related": 35
     },
     {
       "id": "FL-8f00a0c110ae",
@@ -604,15 +604,15 @@
       "siteUrl": "https://www.yicai.com"
     },
     {
-      "id": "FL-31b770409d8d",
+      "id": "FL-8f941bc89b50",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 12:09:00 GMT",
       "ts": 1789733340000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川甘孜州新龙县附近发生3.8级左右地震 - Jiemian.com",
+      "title": "四川甘孜州新龙县附近发生3.8级左右地震 - jiemian.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YT0hpMXpJZ1hEaU5JbVBRZFMxLVhIUFhCZGk2T3V5aFpwUzZMWE9vVGl3TVcyaWVRaDBsT2dRQkJ4Ti0waDFzWDczQVNyTGVOMktQLWVBWUM?oc=5",
-      "site": "Jiemian.com",
+      "site": "jiemian.com",
       "siteUrl": "https://www.jiemian.com"
     },
     {
