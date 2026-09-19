@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T18:48:39.763Z",
+  "updated": "2026-09-19T18:56:38.921Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -13,7 +13,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
       "site": "rfi.fr",
       "siteUrl": "https://www.rfi.fr",
-      "related": 28
+      "related": 27
     },
     {
       "id": "FL-263418d50a2b",
@@ -38,18 +38,6 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xTno1YTNKekRJNTI2am9rVXAwUjhHNGI4Rk9BZF9BRUhPZU1ZRG41WS0yVmUyaW1jU09IMmFZN1NPWUxXWXZzZ21aMFlEQWMzSnozQ0xQbGV6aUlXUmpzNE5VdW1tZ08xWDROZXBCM2tUc1QwWnJr?oc=5",
       "site": "news.cn",
       "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-5cdc73c89685",
-      "date": "2026-09-06",
-      "dateISO": "Sun, 06 Sep 2026 07:00:00 GMT",
-      "ts": 1788678000000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔给水力发电押下重注，泥石流把问题彻底暴露 - bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByeEVvcHlucE92a1Z3T0Ywei1RT3Ric2RMaVEzNmVtbF9VVEVPMmhrNmliNEl3TGllWktKNjNodUNSSXh3S21KUHA2cEFqckZEV0RNMmpCWWRxSGM4Zm51VUEyV0dkZ9IBa0FVX3lxTFBxM2RNYURrR1hmQ1ktWnBrME1RQ1ZESXBWZHZ4aUNoaURoXy1BLXlySk9tcDZHb25fRmV5SDB5ZTVnck9rdlNmRHdGRkl3QldGb2VEZHA3VkNWT0NITjhmMTRwUWNpZEgxNDFF?oc=5",
-      "site": "bbc.com",
-      "siteUrl": "https://www.bbc.com"
     },
     {
       "id": "FL-370933268f3d",
@@ -172,15 +160,15 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
-      "id": "FL-634655a790a5",
+      "id": "FL-1f073a188b23",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 15:01:00 GMT",
       "ts": 1789830060000,
       "scope": "dom",
       "type": "weather",
-      "title": "离谱！暴雨时男篮被疏散到停车场顶层，还好全员平安无恙！ - QQ News",
+      "title": "离谱！暴雨时男篮被疏散到停车场顶层，还好全员平安无恙！ - news.qq.com",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zV1hqb2FYT21wNjBqQ2FxQ2lUVE51MF9uUk8xRlc3TE1yUDNaWUZKQWZnek9uaTF2ZlN2R1JGd2VkZnRFU3BINjVTU0JkcmJRdGxyczV3?oc=5",
-      "site": "QQ News",
+      "site": "news.qq.com",
       "siteUrl": "https://news.qq.com"
     },
     {
@@ -470,6 +458,18 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTXliQmlPd3NoUVJudWxoenB2bEgzZWtpYkxJeUZ5b0lPUndxMk9yQ1NBSlRBRWZGbEs0QmNOWjdLaVppMmw5dEpFd0VDaFVNc1dJeUstN1VvYUdUczFQMUNRTy1YSGY3TnN6eXZxMU53bldJRno0eXJRVVJFQ0xFNnFqZXJhVDRDMDJBamZFRjhfUU92SmJuWA?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
+    },
+    {
+      "id": "FL-0bf298917846",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 08:11:00 GMT",
+      "ts": 1789805460000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川盐边县格萨拉乡泥石流灾害救援工作正在有序进行 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNRHpOUUlheUJZTHNGeVVOQWxvU3lIZ2xxbTRGNTRxMjJMVDNzMzFSdXZkdUctbU1Za0RvS3R2Vm5JcWkzb3hJQnN1UXppRXRsbGpJd2VNbEVjZ1VPMmpHczJKcHkwVXBvV0pYdDhPcndCRmg5dVJhaQ?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-1da67d21562d",
