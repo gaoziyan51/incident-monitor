@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T18:07:08.210Z",
+  "updated": "2026-09-19T18:23:04.045Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -25,7 +25,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
-      "related": 32
+      "related": 30
     },
     {
       "id": "FL-263418d50a2b",
@@ -40,15 +40,15 @@
       "siteUrl": "https://www.mfa.gov.cn"
     },
     {
-      "id": "FL-ca47c5e94270",
+      "id": "FL-549cf98ba21f",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 03:28:01 GMT",
       "ts": 1789615681000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流已致1403人死亡 6150人失联 - 新华网",
+      "title": "尼泊尔泥石流已致1403人死亡 6150人失联 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xTno1YTNKekRJNTI2am9rVXAwUjhHNGI4Rk9BZF9BRUhPZU1ZRG41WS0yVmUyaW1jU09IMmFZN1NPWUxXWXZzZ21aMFlEQWMzSnozQ0xQbGV6aUlXUmpzNE5VdW1tZ08xWDROZXBCM2tUc1QwWnJr?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -124,18 +124,6 @@
       "siteUrl": "https://www.sohu.com"
     },
     {
-      "id": "FL-57ade8d4f9c8",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 16:37:12 GMT",
-      "ts": 1789835832000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川盐边县泥石流已致2人遇难 3人失联 - 手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4Vk51Qm9JbUtnWGUzYWNfN00wSm9zQzQ3QlAyZzRYTjZ4bk95WHBzdjZOSTliZzRic3FBS2UtVVVWbFF0d1UweTJWcS00N3RwWUFQczM2bkVmcldWRHRvWUdWWGFsajJuSjhyeWIyLTA0b3NaZDNZb0RBQmx4Q1k?oc=5",
-      "site": "手机新浪网",
-      "siteUrl": "https://k.sina.com.cn"
-    },
-    {
       "id": "FL-34a36cc4a397",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 16:01:00 GMT",
@@ -148,15 +136,15 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-52918bcd5e17",
+      "id": "FL-ad8f77a9c807",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 15:48:38 GMT",
       "ts": 1789832918000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川盐边县泥石流已致2人遇难 3人失联 - 新华网",
+      "title": "四川盐边县泥石流已致2人遇难 3人失联 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5a1dFUFF5eXBKODNxckZGdFBrOC1WRHB0YkJrSHN3TGs3Q01yRDUzVVBQRHhvNUxZSGw2TzcxdnYyTTVuRzQybE1Xd1V0aWQxcWh4TjRrR2MyeVU3MWZ1WGRmNk9lYWo0VDNwWGJpVTZIaTNJODR6T3h3SlhRalE?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -364,6 +352,18 @@
       "siteUrl": "https://www.sohu.com"
     },
     {
+      "id": "FL-b2c12cff28c1",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 12:04:02 GMT",
+      "ts": 1789819442000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "视频 | 四川盐边县突发泥石流，已致5人失联，应急管理部针对四川启动国家地质灾害四级应急响应 - jingjiribao.cn",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSS2V5blJlNElRTnFNY3BCLTJLTkw1blRFbGV2R0ZOUm43Q0lGODMxTXpMSDY0aGlIQUpPV0RoRzFuZ0JWWm9tYnJKb1RycnBtMldOY2dtT1AtRFJsRVdSSkp6TQ?oc=5",
+      "site": "jingjiribao.cn",
+      "siteUrl": "http://www.jingjiribao.cn"
+    },
+    {
       "id": "FL-6fccdbeea622",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 11:26:41 GMT",
@@ -388,15 +388,15 @@
       "siteUrl": "https://www.xinouzhou.com"
     },
     {
-      "id": "FL-413c80397b1e",
+      "id": "FL-29f180a3d158",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 10:39:58 GMT",
       "ts": 1789814398000,
       "scope": "dom",
       "type": "geo",
-      "title": "现场画面丨四川盐边县突发泥石流 已致5人失联 - 新华网",
+      "title": "现场画面丨四川盐边县突发泥石流 已致5人失联 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwTjhULUV3bE9rN1FBZmJTbnpPVlNMWkxhQm5UR2pLamlHZnhGQUREUkFEMHpZQnpEcHJOUlQyVW1XbDhvcmZ5T19vNTMxTWxhSkowUm01dE5Ic1dWbHJoQ3h3VEhGM2c2RkJiRnM0Z3ltOHNNcFZBZERXdkhfOGc?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
