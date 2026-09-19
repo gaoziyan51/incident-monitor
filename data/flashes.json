@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-19T15:20:01.670Z",
+  "updated": "2026-09-19T15:31:03.698Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-c2a04813577b",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 17:06:14 GMT",
+      "ts": 1789578374000,
+      "scope": "dom",
+      "type": "collapse",
+      "title": "加沙：建筑坍塌致至少20人死亡，搜救工作仍在继续 - UN News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wdnBqX2d2T1NSQ092SjlCdW1fbVZfak4ycERLSWtGb2VxT21FdXRQSkd5bVFiVkxvZlFlaDZralk5b2FyemR4RlptclBhbDhrR1ZILTc4Zw?oc=5",
+      "site": "UN News",
+      "siteUrl": "https://news.un.org"
+    },
+    {
+      "id": "FL-6b6aed7ef41b",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 15:18:00 GMT",
+      "ts": 1789571880000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害已致1409人遇难 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95a1k2V1dIMkllSFlhWHM3dkNITUp4NVVkZFpzNE1tSDVzQkJHSWlldjFhRnQya3pTeVFOZjNfdUNSSTJNOHc3SjB3aHlpaWtWcFhfeXpjel9wb1NWdTNCamRDM0VBVkJxV3VGeHBKU2podw?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://xinwen.bjd.com.cn"
+    },
     {
       "id": "FL-EV-f283a898090a",
       "date": "2026-09-15",
@@ -13,7 +37,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
-      "related": 35
+      "related": 33
     },
     {
       "id": "FL-263418d50a2b",
@@ -86,6 +110,18 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVkRlYlRldzkybWwxUzBFVl8xSHBwTWtnam1teVhycVRfamtCWmFWTzZKR213Mnc3bG1ReE13Y1NjOXc3VmhjY2NPdGVrOHFWUERpbC1ObDg4bDFWTzNMMnVsY210RkZvMDNXa2JTZGI3VVZQMUwwYVR1THhueHpmNlY5SFdvZ0h3THh0Z1YwWF9UMmkzLWVvNA?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
+    },
+    {
+      "id": "FL-7b645574bb4e",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 15:07:58 GMT",
+      "ts": 1789830478000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害遇难人数升至1436人 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5YblZRdUFCdWpfZGpTaXJmcktucVZtOHlkYjJVcWc3eXlZQUtRQVhPelNwNndJTFJ0Zm1YSFVNbkFzZk5hTW9WSDgtTkE?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://news.ifeng.com"
     },
     {
       "id": "FL-2a6a783d59c6",
@@ -484,18 +520,6 @@
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
-      "id": "FL-346c825c8e26",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 04:01:29 GMT",
-      "ts": 1789790489000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "#其它# 四川攀枝花盐边县突发泥石流 已致5人失联 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NUjFfY1VLU2FjamE2X0tyQ1ZOanRkN2x0SkpwaVJZamlydEtzVmEzaXJOM3VLM18xMGZWNk9IYjMyN092S1JNd1N3d04xb2tUS25fWjRlOTBRUllRdHlscGJSVzEyc1E?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-3c244e2465de",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 03:55:40 GMT",
@@ -592,18 +616,6 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-64525d696bcd",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 03:07:34 GMT",
-      "ts": 1789787254000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川攀枝花盐边县支六河村附近突发泥石流 有人员失联 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85VVdCSExhMlhQMlRNTVRFWkxXN2kxUkRkRnlNNkJhaV8wQXI2UVd1N0ZZVG91bnRtUTRPeWNuTUV3QjgxRnk5ZlhTb2tBbFh0UVlUVU53MmlGSVl3ZGlaSWpUR3p3MXQyNm8zOS1iVUkzM29PWE9uXw?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.cn"
-    },
-    {
       "id": "FL-0dae8f4ed4f3",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 02:45:53 GMT",
@@ -650,18 +662,6 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQck40T0tkLWphblJoZzlWaWRnTTNIdF9Dc3JtLUJic1JNWTZlX0w2WXpqaS1UUlExQ1FBWE1pS2Yxb1NISWdPTW1uWDBDU1YwMHI1MEtqeHVXNERSZ25SMlI0YkNiS0xPdjl2STducDBZbnlNcEhaLWttUFJ6MmRxODZUTkpTMUVaOUQxTF9vdFBaSUc2MDBFZA?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
-    },
-    {
-      "id": "FL-74e19103995f",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 00:19:36 GMT",
-      "ts": 1789777176000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1436人 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VejU3RTVDTUpVMlVXZFZCeUpjTkVSYzlwRmFNZlV0S3l6dDFhWHFtaTJLQU1zZGxfTVM2NXVVQmllUlVaT3FMSlRvT0hiaDJFaXdjM00zQVROdlFtVjFfUHlHQlB4Zw?oc=5",
-      "site": "东方财富",
-      "siteUrl": "https://finance.eastmoney.com"
     },
     {
       "id": "FL-418eed2ca087",
