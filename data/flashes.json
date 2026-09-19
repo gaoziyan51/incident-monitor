@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T06:41:21.039Z",
+  "updated": "2026-09-19T06:55:50.667Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -27,18 +27,6 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-a8313f5d9c0f",
-      "date": "2026-09-09",
-      "dateISO": "Wed, 09 Sep 2026 07:00:00 GMT",
-      "ts": 1788937200000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "江西遂川高坪镇泥石流已致12人遇难 - 中国科技网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YRjA1MkdaZ2E3TkQyaGx0QWlKOXJpX3JMcHA3R0J0UXpQQTcwRlpFNWZSamp1NHNwc1N2Wm9Lb1ltdlZ2QjNIaTcxZThFTTc3S0VhSjBkY05HOWRlOHBjdFQxQ2hTN2sydzZESWVQMGQ?oc=5",
-      "site": "中国科技网",
-      "siteUrl": "https://www.stdaily.com"
-    },
-    {
       "id": "FL-674383638b4c",
       "date": "2026-09-02",
       "dateISO": "Wed, 02 Sep 2026 07:00:00 GMT",
@@ -61,7 +49,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
-      "related": 43
+      "related": 45
     },
     {
       "id": "FL-2244178adc9f",
@@ -134,18 +122,6 @@
       "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxQekE0d0ZoUlkzQWpLM0l4TWx5a29mcmZkLXpqTGpKS2VublhpQWlLcTEySVNEcmFscFJhTnNiWmgtUWd5a1JoamtzYWdPR2UzVkZlMkVtdzJLMnAwVFA4RzU5ODB0ZlFWSHpiN3BGU3NwYWdFeXlKNld0ekN5UTVtWHdfWU02Sm5sYmQ1MV96S2pPODVwaGN1aVhKa0NYSHZaNUZ1MS1pakE1VV9PS0FDbFBwY3A0OGl1Vjh1N3VQWm0wbkNNbGdLZDVadlQ1SHhxZmF6eVdkRWhpQUdIQ3NBM3VfeWE5cWh5Wm5OVi1ZUXItUktlUk1hbjVPWGRKamFnYTBROS10QkZHZDViMjQ5aXU1WDJqc3Y0dkpoZm1mVUR1UlAzSnZ0OFBoMERaS0JTemgtUWI5OXhEekhqR0JwTHI1Rmh3bG52LTU0bFdRYUZLQUFYSTJZa19oZEFCclFKX1RwRDJtTlJHZWIxRS1Td1NfTjZub0dQanExTldCVGNDckx0amk4M2Y2NWR1NXJOQWFqLWVfYVR6bF9QR0hmMERZRW5OZW1GaURfSzVXLUxCd1dwUU12M3BJREJLRGt5MUg2R3lHZWhuZ2lQQW9KOXpxX0F2QUs5SXloSkhxTVcxNTNYVS1PaTg1c1E1V2kwZC1LbGNRQUo?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr"
-    },
-    {
-      "id": "FL-a2237798f821",
-      "date": "2026-08-20",
-      "dateISO": "Thu, 20 Aug 2026 07:00:00 GMT",
-      "ts": 1787209200000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "哥伦比亚地震：120万人亟需援助，部分社区仍无法抵达 - UN News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3V3JsRVZ2TkMxUkw3dk96SHFpNTEtSHhnQzRzMmJwOEhzZ0JnUHBNcnBMRDByWEhQTk5wbzdUMWwwenNoRVROdVBPN2phUjU3XzVOWVZoUQ?oc=5",
-      "site": "UN News",
-      "siteUrl": "https://news.un.org"
     },
     {
       "id": "FL-f1b74b512812",
@@ -268,6 +244,18 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
+      "id": "FL-b45a2669f15d",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 06:21:00 GMT",
+      "ts": 1789798860000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "19日凌晨，四川省攀枝花市盐边县格萨拉乡支六河村石家沟隧道附近突发泥石流。据初步统计 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vMlZmODJmbkVxS1VnaThoaGtTelNwdEJ2dDdmMXc0Y0g3ZmVKYk9BZmVMNk5RMEVxak1GcWNTLXlfYWJ5NmVSVlZUNlRWV19OZE44WVhFbFZTdXdPc1VYYlNKUQ?oc=5",
+      "site": "新浪网",
+      "siteUrl": "https://www.sina.cn"
+    },
+    {
       "id": "FL-3175be3d637c",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 06:19:00 GMT",
@@ -374,6 +362,18 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM2pqWFlfVHI0Rk1TWkxkT21LMnlsSzFwaFBLbS1CZE03b2xUejJSUWoyVFJwYktlZ2w5c2R0RW1lWndKaTdGZ0NacnNvUkhobzhIeVNqQ3ZUNVRkMWhVT0xDTVU0dnRuMnViTHp2YVNuY0xZTHppTFNxakEtMXYwelg5NDRUem8xTkEwUjdfa2VkQzcwLTBNQw?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
+    },
+    {
+      "id": "FL-3c2fa66663c6",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 04:30:00 GMT",
+      "ts": 1789792200000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川盐边县突发泥石流 已致5人失联 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0amtpdzI1YTh6a2U3Vno4MHZfVzItM1pRbVlxOWh0OHlsaVFVdFlPV2tzSHJ6NVhEUXBfYm5fa0l0dWZBcm52Z19jdjd6cGwwX2dCR3oxeEJTZ1gzaWNLandVOXdVbFhLU1dXbmowZVJJTjcwWEJRbQ?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-c1f4de7a271f",
@@ -508,18 +508,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-62e5350b3227",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 03:26:04 GMT",
-      "ts": 1789788364000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川攀枝花盐边县支六河村附近突发泥石流 有人员失联 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TR0doalNwNTN2Z1pfTGhpeFJsVzMxWmU1TzVScXZIZkNIVFRWSmExck8wbWswY3BaLS1Bdy1GelluSk8xWV9IMG0wVjREODQ3akNKVGY1Q2Jud1drVnc?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://news.bjd.com.cn"
-    },
-    {
       "id": "FL-2cba548b9986",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 03:23:00 GMT",
@@ -566,6 +554,18 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcFAxOE92LWRqODlrbHUyRnBuNWhfR1BVYWYxYzk5Q3VXbXpuQVpVUGlnZ0VNaEZkQlZwMkJRcEVBdzBPSXhxMENJaE82TXp2UW0wZzV5cFhVNzNWc2QxSFZ1WG5DRHRZeVAwQVlSQ0pzT2dqMk5wanhSMFA2TVlOUk9kU1JfNnBM?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-c0e90e110d59",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 02:56:52 GMT",
+      "ts": 1789786612000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川攀枝花盐边县支六河村附近突发泥石流 有人员失联 - qlwb.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94LW1SYk1KVk92ZXprcmZQUFlibWlqWGtUbEl6ZlNSQ1Y3QWpsM2xUWHhUWmo0NlI3QXRleTRUdWVGdkVZR1ROY2IyT2VldlBqYWtnNW54NA?oc=5",
+      "site": "qlwb.com.cn",
+      "siteUrl": "https://www.qlwb.com.cn"
     },
     {
       "id": "FL-be570077ac7b",
