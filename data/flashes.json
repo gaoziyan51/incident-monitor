@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T13:35:55.854Z",
+  "updated": "2026-09-19T13:44:39.429Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,6 +15,18 @@
       "siteUrl": "https://news.un.org"
     },
     {
+      "id": "FL-9b466137c8fe",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 15:18:00 GMT",
+      "ts": 1789571880000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害已致1409人遇难 - xinwen.bjd.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95a1k2V1dIMkllSFlhWHM3dkNITUp4NVVkZFpzNE1tSDVzQkJHSWlldjFhRnQya3pTeVFOZjNfdUNSSTJNOHc3SjB3aHlpaWtWcFhfeXpjel9wb1NWdTNCamRDM0VBVkJxV3VGeHBKU2podw?oc=5",
+      "site": "xinwen.bjd.com.cn",
+      "siteUrl": "https://xinwen.bjd.com.cn"
+    },
+    {
       "id": "FL-EV-f283a898090a",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 16:15:32 GMT",
@@ -25,7 +37,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
-      "related": 35
+      "related": 31
     },
     {
       "id": "FL-263418d50a2b",
@@ -52,39 +64,39 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-f7df76261340",
+      "id": "FL-89d6589d1504",
       "date": "2026-08-30",
       "dateISO": "Sun, 30 Aug 2026 07:00:00 GMT",
       "ts": 1788073200000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏泥石流：中国审查洪灾冲击口岸画面，当地灾民情况我们所知甚少 - bbc.com",
+      "title": "西藏泥石流：中国审查洪灾冲击口岸画面，当地灾民情况我们所知甚少 - BBC",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rWlBVcnZhd0NVTDlFZ3hVN3BYR3RLUFpMZEM0eVkwN2JkRXIzM0V0REJXR2FjeDRxUUVqeDBvMUtKU25TUFNDMzJYdHNucTZ4bDBEWkFjazFwZGZEOVJzVlZyNGtiZ9IBa0FVX3lxTFBOT0pTWlZHV0dDQTNJRFExWFdZcGJDZTI3aDVxeDJQNGk4WldjSzRwa1lJRXF3aW1Id1QwVHM0TlNoRWp2SmtvMURjcEZoTG5kaVlSOTlHcFpVMFpxSkp0MnVUX2NGZWZYZk5N?oc=5",
-      "site": "bbc.com",
+      "site": "BBC",
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-72ec13198685",
+      "id": "FL-e4ef799b67f2",
       "date": "2026-08-30",
       "dateISO": "Sun, 30 Aug 2026 07:00:00 GMT",
       "ts": 1788073200000,
       "scope": "dom",
       "type": "geo",
-      "title": "中国：气候变暖导致尼泊尔—西藏泥石流灾难 - bbc.com",
+      "title": "中国：气候变暖导致尼泊尔—西藏泥石流灾难 - BBC",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44R3gxYndzaTFVdmhMRjlDRE1fWlNQcGc1dTQxRG85WC1YUTFPbHVmMGNSN1VJNnVDN2sxakFicFZla3NKWXUtTWI2Ymh0ODVQYzBNdUdKRUZ4VUQ5U0hGZW1NZXBHUQ?oc=5",
-      "site": "bbc.com",
+      "site": "BBC",
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-5cdc73c89685",
+      "id": "FL-03e1c60639f5",
       "date": "2026-09-06",
       "dateISO": "Sun, 06 Sep 2026 07:00:00 GMT",
       "ts": 1788678000000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔给水力发电押下重注，泥石流把问题彻底暴露 - bbc.com",
+      "title": "尼泊尔给水力发电押下重注，泥石流把问题彻底暴露 - BBC",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByeEVvcHlucE92a1Z3T0Ywei1RT3Ric2RMaVEzNmVtbF9VVEVPMmhrNmliNEl3TGllWktKNjNodUNSSXh3S21KUHA2cEFqckZEV0RNMmpCWWRxSGM4Zm51VUEyV0dkZ9IBa0FVX3lxTFBxM2RNYURrR1hmQ1ktWnBrME1RQ1ZESXBWZHZ4aUNoaURoXy1BLXlySk9tcDZHb25fRmV5SDB5ZTVnck9rdlNmRHdGRkl3QldGb2VEZHA3VkNWT0NITjhmMTRwUWNpZEgxNDFF?oc=5",
-      "site": "bbc.com",
+      "site": "BBC",
       "siteUrl": "https://www.bbc.com"
     },
     {
@@ -124,15 +136,15 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-22f2a10461dd",
+      "id": "FL-6f3bc624e812",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 12:34:02 GMT",
       "ts": 1789821242000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏那曲市申扎县发生4.0级地震，震源深度10千米 - 虎嗅网",
+      "title": "西藏那曲市申扎县发生4.0级地震，震源深度10千米 - huxiu.com",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzbzZ1TUg0aFZfN3l6bDhtMmhGaGwtbGVFSFRxNzVsMFBWcU5vVmZ4RThEV2ROTzJhOF9ESUlXWTZxUFJXZzl1eUxRS2pnUTJJRjBJ?oc=5",
-      "site": "虎嗅网",
+      "site": "huxiu.com",
       "siteUrl": "https://www.huxiu.com"
     },
     {
@@ -160,15 +172,15 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-6491f2ae3c7e",
+      "id": "FL-f5d617c8cd39",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 12:19:00 GMT",
       "ts": 1789820340000,
       "scope": "dom",
       "type": "collapse",
-      "title": "为女性、LGBT发声的Lady Gaga被曝代孕，粉丝怒斥：人设崩塌 - 观察者网",
+      "title": "为女性、LGBT发声的Lady Gaga被曝代孕，粉丝怒斥：人设崩塌 - guancha.cn",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hZWNTdktRbTlkdDk3UWJRRE9KTGFyZnBPdzVOZHFQUkprNjNqams2T2hHRmlHSmhURUs0SGltYmNHRHVIeGZyLTdiRVJBcndmZVhCdTJZTy1vY3g0QldfYkVJMGZsVF9ya2cxdFVteWE?oc=5",
-      "site": "观察者网",
+      "site": "guancha.cn",
       "siteUrl": "https://m.guancha.cn"
     },
     {
@@ -206,18 +218,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XV1A5RTFJd1lfTlQxR2R2UFh0S0h3S3N2bVhKc0E4djJ3Z3VVMkpkNGRhZWY3SlFHeHZ3QXFMR1FNcHlUVkxUQTNDWE1qeWwtQlRDcUFIMHl6VTRwbFAydENBMUg2VDhyWEx5dXNGNlo?oc=5",
       "site": "中华网",
       "siteUrl": "https://news.china.com"
-    },
-    {
-      "id": "FL-e06c6c72cc6e",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 11:13:38 GMT",
-      "ts": 1789816418000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川攀枝花泥石流救援进展 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ00wMnp4SlBheDROdmQwX1Y4SUtmRDE5eWN3T1psT1FIcTBlY2hheXNqSlg0aExCLWRQZU56cU9DUFBSQThCUDlXbEtZNWg0OXJWSHJDVVRHUVR5S0tIeUE4Y1pCWTdrQ1g1RWV6QTZuTzRycjBNYzJRSS1tN185RWVWTmRZODhS?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-7e095671af1f",
@@ -472,15 +472,15 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-81f40ecaeadd",
+      "id": "FL-080c12cbad4d",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 04:35:28 GMT",
       "ts": 1789792528000,
       "scope": "dom",
       "type": "geo",
-      "title": "中国四川省发生泥石流 五人失联 - 8world.com",
+      "title": "中国四川省发生泥石流 五人失联 - 8world",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQRnJHVFotdUZIVi1tTmQ1RXNacHpyMHBpVXQ1Zy1acno5REVJQTVpc2ZQLUlCdThETXBUaU9XZmFHMTVPbzhjMExZRWtRYXZrT1FWYTZxUDJZdGxNcGlyVVI2bWdiaFRJNF83eDF3?oc=5",
-      "site": "8world.com",
+      "site": "8world",
       "siteUrl": "https://www.8world.com"
     },
     {
@@ -530,6 +530,18 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcWRYdzgxNmRjV05xTmFnVXFPS0JKSjFqX1pGc0xMamdZQ285bWpvWVhrXzVaN1AxMFoxMVFRQlFSYjJmMUFSbVVtdDVRcG8zeXNRQnJIbEFUeldWMDBiVzdwZ0lyQUVWRG1sZnY3NmRyOC1vZXlqcmhKbkszLUkxZFp1MzRVeUFRUmlVejB2VmVGVzdjYW9WUA?oc=5",
       "site": "新浪财经_金融信息服务商",
       "siteUrl": "https://finance.sina.cn"
+    },
+    {
+      "id": "FL-7db9786d142f",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 03:36:57 GMT",
+      "ts": 1789789017000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川盐边县突发泥石流已致5人失联 救援力量紧急响应 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xOXB6czVfMjVyUlhER1FhNDFpQS1NTU9nLUw4a1JMWmRQZnlGdzhFTGlZWDBLcnFMZkh3eU5OeHRjMnBWSTE4dzhZNUl2bnh5LXVQSUg5VlNReWlKdG9lUU8tSTNqa3duclIxTktzRGg?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
     },
     {
       "id": "FL-f766744f09a8",
@@ -650,18 +662,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pWmdOYXpGSmJoTnZjMTAxMUpBNnFXT3NkUnZBREpYdmh1SnVjdThDeXA4NjE5czYtbXNGdVl5OTljMWR5MGpYZTh2YWo2S2JQeUhuRGRoX1dDa0FlYzBlTDJuWkk?oc=5",
       "site": "科学网—新闻",
       "siteUrl": "https://news.sciencenet.cn"
-    },
-    {
-      "id": "FL-bc43722da1c0",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 00:28:27 GMT",
-      "ts": 1789777707000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "江西省上犹县发生泥石流险情，官方通报：无人员伤亡和失联被困，4栋空置房屋倒塌，村内部分交通受阻，通信畅通 - 新浪财经_金融信息服务商",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQck40T0tkLWphblJoZzlWaWRnTTNIdF9Dc3JtLUJic1JNWTZlX0w2WXpqaS1UUlExQ1FBWE1pS2Yxb1NISWdPTW1uWDBDU1YwMHI1MEtqeHVXNERSZ25SMlI0YkNiS0xPdjl2STducDBZbnlNcEhaLWttUFJ6MmRxODZUTkpTMUVaOUQxTF9vdFBaSUc2MDBFZA?oc=5",
-      "site": "新浪财经_金融信息服务商",
-      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-4b736f3f7478",
