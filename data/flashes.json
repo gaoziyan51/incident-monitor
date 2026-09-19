@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T23:06:00.496Z",
+  "updated": "2026-09-19T23:18:26.163Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -39,6 +39,18 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
+      "id": "FL-e4ef799b67f2",
+      "date": "2026-08-30",
+      "dateISO": "Sun, 30 Aug 2026 07:00:00 GMT",
+      "ts": 1788073200000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "中国：气候变暖导致尼泊尔—西藏泥石流灾难 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44R3gxYndzaTFVdmhMRjlDRE1fWlNQcGc1dTQxRG85WC1YUTFPbHVmMGNSN1VJNnVDN2sxakFicFZla3NKWXUtTWI2Ymh0ODVQYzBNdUdKRUZ4VUQ5U0hGZW1NZXBHUQ?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
+    },
+    {
       "id": "FL-03e1c60639f5",
       "date": "2026-09-06",
       "dateISO": "Sun, 06 Sep 2026 07:00:00 GMT",
@@ -49,6 +61,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByeEVvcHlucE92a1Z3T0Ywei1RT3Ric2RMaVEzNmVtbF9VVEVPMmhrNmliNEl3TGllWktKNjNodUNSSXh3S21KUHA2cEFqckZEV0RNMmpCWWRxSGM4Zm51VUEyV0dkZ9IBa0FVX3lxTFBxM2RNYURrR1hmQ1ktWnBrME1RQ1ZESXBWZHZ4aUNoaURoXy1BLXlySk9tcDZHb25fRmV5SDB5ZTVnck9rdlNmRHdGRkl3QldGb2VEZHA3VkNWT0NITjhmMTRwUWNpZEgxNDFF?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-3d01a069fcce",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 22:54:16 GMT",
+      "ts": 1789858456000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "新疆阿克苏地区沙雅县发生4.1级地震 震源深度21千米 - 华商网",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NZEtEMFp0ZmppaUlYR1FOdUE4MkwwTVJnQm1rMldnVjRvblpOUUtsTS1jMXJzMHo5cU1kQjhaQkNUNVk5RWdCN3A1UWxTYm1IaG8tV09JY0tPUmhlVUpR?oc=5",
+      "site": "华商网",
+      "siteUrl": "https://news.hsw.cn"
     },
     {
       "id": "FL-1b1da2d96401",
@@ -63,18 +87,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-06f2c145d86a",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 22:20:00 GMT",
-      "ts": 1789856400000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "新疆阿克苏地区沙雅县发生4.1级地震，震源深度21千米 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HbTVteXJsMkVvU0E4QXVFcXhWYmRtMHRYMEV3M0t6ZVZqcXpCVUxPd1JWS3BlN2N5Sm9aZ3o3dFowYzFrSVR4WlVLMUkzeUFfNU9QYk8xdjF3NTc5dGtHc3pZNmZQeXlfU3RpUDBOZnFpT2NFOWNESQ?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
-    },
-    {
       "id": "FL-cbd15b7de552",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 22:17:00 GMT",
@@ -85,18 +97,6 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92ZFQ1OWRmeDRYSDd6bVJqeGVISHphVFQ3SEdyWUxBS1lCa3FpbFF5Smh5N2pZdjdReGpOYnhpRnAyVk5pTExKSTVGREFiUm5xR3QtckpqR3VWSnJLVUcyWnVkaldkVjJwM05mOVhPNHU0T2hvZ0E?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
-    },
-    {
-      "id": "FL-d2e5f77d5d04",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 22:16:00 GMT",
-      "ts": 1789856160000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "新疆阿克苏地区沙雅县发生4.1级地震，震源深度21千米 - jfdaily.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EUFZBcldCdGxBNFo0ZmYwQms1WmI0WGkwMXE3WHV0eERicmJicng4TkxLeUlPTnpWQ21iazh3NzZjaXpTUGtoM29MRUhYdkpKMGVfVzJHQkttUQ?oc=5",
-      "site": "jfdaily.com",
-      "siteUrl": "https://www.jfdaily.com"
     },
     {
       "id": "FL-21e596d93bf5",
@@ -243,18 +243,6 @@
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
-      "id": "FL-34a36cc4a397",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 16:01:00 GMT",
-      "ts": 1789833660000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "新疆阿克苏地区沙雅县发生4.1级地震 震源深度21千米 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aZFZCMDJ0ckhwMjdSRlRiX3NDVWNqVEZ4RXRlWEdKT3lTd3V2T3RuUEY2cFpVc3JmNFNMdDVINFZ5bDk2dXRQZ0xRS2c0UFF5NWp5YnNuVXphUDBaQ2cteWtCZE5wUWN4SnVfZDRUdE5HRWFIajYtRQ?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
-    },
-    {
       "id": "FL-749aed081520",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 15:51:18 GMT",
@@ -315,15 +303,15 @@
       "siteUrl": "https://www.ctdsb.net"
     },
     {
-      "id": "FL-634655a790a5",
+      "id": "FL-1f073a188b23",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 15:01:00 GMT",
       "ts": 1789830060000,
       "scope": "dom",
       "type": "weather",
-      "title": "离谱！暴雨时男篮被疏散到停车场顶层，还好全员平安无恙！ - QQ News",
+      "title": "离谱！暴雨时男篮被疏散到停车场顶层，还好全员平安无恙！ - news.qq.com",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zV1hqb2FYT21wNjBqQ2FxQ2lUVE51MF9uUk8xRlc3TE1yUDNaWUZKQWZnek9uaTF2ZlN2R1JGd2VkZnRFU3BINjVTU0JkcmJRdGxyczV3?oc=5",
-      "site": "QQ News",
+      "site": "news.qq.com",
       "siteUrl": "https://news.qq.com"
     },
     {
@@ -495,6 +483,18 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
+      "id": "FL-6fccdbeea622",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 11:26:41 GMT",
+      "ts": 1789817201000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川茂县是如何做到避险滑坡灾害的 预警与转移环环相扣 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XV1A5RTFJd1lfTlQxR2R2UFh0S0h3S3N2bVhKc0E4djJ3Z3VVMkpkNGRhZWY3SlFHeHZ3QXFMR1FNcHlUVkxUQTNDWE1qeWwtQlRDcUFIMHl6VTRwbFAydENBMUg2VDhyWEx5dXNGNlo?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
+    },
+    {
       "id": "FL-413c80397b1e",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 10:39:58 GMT",
@@ -601,7 +601,7 @@
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE02VHF4djFNelIzRjJjdFJOMFVIVUg3bnM2d2ZrM0RyQ0RwVmdHVUM2UHE5azB4aW5hNWJqNkRTclFLOXNWb3c?oc=5",
       "site": "茉莉花新闻网",
       "siteUrl": "https://molihua.org",
-      "related": 28
+      "related": 32
     },
     {
       "id": "FL-080c12cbad4d",
@@ -714,14 +714,14 @@
     {
       "id": "FL-EV-18d9b0620c3d",
       "date": "2026-09-11",
-      "dateISO": "Fri, 11 Sep 2026 01:07:34 GMT",
-      "ts": 1789088854000,
+      "dateISO": "Fri, 11 Sep 2026 06:51:22 GMT",
+      "ts": 1789109482000,
       "scope": "dom",
       "type": "fire",
-      "title": "青岛货轮火灾致25人遇难 - 人民日报",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
-      "site": "人民日报",
-      "siteUrl": "http://paper.people.com.cn",
+      "title": "青岛一艘外籍货轮发生火灾 造成重大人员伤亡 - 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45U204ZEdEdEpDSW9KS1pLOHNENExGbzdXdHI4dXFTZzZWck4xV3R0UWw0QzFaZWE2aThfTXphNGNOQl9FeTBFcWhGRmc3RGMzRkJrRGVRaGc4RDBuYy01VkVUNjA?oc=5",
+      "site": "新京报",
+      "siteUrl": "https://www.bjnews.com.cn",
       "related": 7
     }
   ]
