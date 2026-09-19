@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T11:06:06.166Z",
+  "updated": "2026-09-19T11:19:35.653Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -112,6 +112,18 @@
       "siteUrl": "https://www.mfa.gov.cn"
     },
     {
+      "id": "FL-78ceadf2c48b",
+      "date": "2026-08-13",
+      "dateISO": "Thu, 13 Aug 2026 07:00:00 GMT",
+      "ts": 1786604400000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "哥伦比亚地震已致265人死亡 逾5.3万人受灾 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13SlJnLTNCd3V0QmItbFVfNHJSVkNJX01RdmY4ZkZXRXdQdEUxS29nemhPbDU1VTM5cFVTZzhfSjA3YVA3UkxMREJNbDh3SzN5UEM3Nlh3ZkU2aGlWNVBvaVo3cEJBNjZ1LTZuZFRNU2dFTW1iT3c5VXVLaTNwekU?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
       "id": "FL-f7df76261340",
       "date": "2026-08-30",
       "dateISO": "Sun, 30 Aug 2026 07:00:00 GMT",
@@ -167,9 +179,9 @@
       "scope": "dom",
       "type": "geo",
       "title": "四川盐边突发泥石流灾害，当地民兵紧急投入抢险救援 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOW5pc1F0bGwyWjAzQWVqdktQeFFXXzM1Mi1Bb2R0OVRjZ3Q4UzNsQnc5dERlMUlMdnZSSEZrdmNDcUhjaGZrOXNHaTVqcHNBVTJpZFJCcUpBNFppd1o4c2cxNG03czBncmR6WnJ5WUhIWVZzRVh2V25MaEs4d0FoQVM4SnRXanJm?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeW5hRUdQT3RMUWJhWUpGNklRT0g3REpTSGU0UF9hTzBBT3o0SERDZFQwUVh4VVpjRnVvREZkN24xUm1KR1ZGUXVqUHZYVkxyTzJvb2hObG9GNnRHS1RjTTFOOXEzZXQ0NnY4d0dIZ3RlVmxJYkU3N0QwOFhVMU51MUYtMDE0Ylplc0o0?oc=5",
       "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
+      "siteUrl": "https://www.sohu.com"
     },
     {
       "id": "FL-e90fbb196203",
@@ -408,18 +420,6 @@
       "type": "geo",
       "title": "#其它# 四川攀枝花盐边县突发泥石流 已致5人失联 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NUjFfY1VLU2FjamE2X0tyQ1ZOanRkN2x0SkpwaVJZamlydEtzVmEzaXJOM3VLM18xMGZWNk9IYjMyN092S1JNd1N3d04xb2tUS25fWjRlOTBRUllRdHlscGJSVzEyc1E?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-645ab63503ee",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 03:57:50 GMT",
-      "ts": 1789790270000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川攀枝花盐边县突发泥石流，已致5人失联 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaVJvVkRIRHNiVHp2NXJmWHVXeUdZMURUYWNlQk9uNkViU0JLUlVOTWZlWUJsVXdpeGpwMUlkYWZlRGlvWUduWGp0NGdtbV8yc1ZEYWk1M29xRlBvWkRwZDJOUkRhSndoeUtEYy0xTm9nangxUldSdnJaNnFCUGYtWU5VSnZoVnFmM19qUA?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
