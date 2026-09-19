@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T19:27:48.698Z",
+  "updated": "2026-09-19T19:37:09.042Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -25,6 +25,18 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xTno1YTNKekRJNTI2am9rVXAwUjhHNGI4Rk9BZF9BRUhPZU1ZRG41WS0yVmUyaW1jU09IMmFZN1NPWUxXWXZzZ21aMFlEQWMzSnozQ0xQbGV6aUlXUmpzNE5VdW1tZ08xWDROZXBCM2tUc1QwWnJr?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-89d6589d1504",
+      "date": "2026-08-30",
+      "dateISO": "Sun, 30 Aug 2026 07:00:00 GMT",
+      "ts": 1788073200000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "西藏泥石流：中国审查洪灾冲击口岸画面，当地灾民情况我们所知甚少 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rWlBVcnZhd0NVTDlFZ3hVN3BYR3RLUFpMZEM0eVkwN2JkRXIzM0V0REJXR2FjeDRxUUVqeDBvMUtKU25TUFNDMzJYdHNucTZ4bDBEWkFjazFwZGZEOVJzVlZyNGtiZ9IBa0FVX3lxTFBOT0pTWlZHV0dDQTNJRFExWFdZcGJDZTI3aDVxeDJQNGk4WldjSzRwa1lJRXF3aW1Id1QwVHM0TlNoRWp2SmtvMURjcEZoTG5kaVlSOTlHcFpVMFpxSkp0MnVUX2NGZWZYZk5N?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
     },
     {
       "id": "FL-03e1c60639f5",
@@ -399,18 +411,6 @@
       "siteUrl": "https://m.gmw.cn"
     },
     {
-      "id": "FL-418eed2ca087",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 10:08:01 GMT",
-      "ts": 1789812481000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川发生地震 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcHhfQ3Y1WjF5dUoxcHplbUF5MDNCc19jM214ZUh6Y3RGaXBvS2xJWHpVeDU1SXY0X0hTcXh0VmJTaHNnOWRSRFF2NmV3V194cXo1WE5KSnZRZWdRbnNoUHY4bTV2VlZzVE1xWFN4bUU2ZFM4SmNQR1g2ZzhXemVPTWs1Y1ZRT0hCS09JTFNuZzJ5dVhucVZMZlFoUTdTZGJuN3dmZ2pHQm5Ubi1qRnQ2MXJVNktJdkhzRE5Va3dOdDFNLXQtZHBNLTVlQmN4bEtvbkJGYkk5VTA?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "http://finance.sina.cn"
-    },
-    {
       "id": "FL-b28b4711cf0b",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 10:02:00 GMT",
@@ -565,7 +565,7 @@
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE02VHF4djFNelIzRjJjdFJOMFVIVUg3bnM2d2ZrM0RyQ0RwVmdHVUM2UHE5azB4aW5hNWJqNkRTclFLOXNWb3c?oc=5",
       "site": "茉莉花新闻网",
       "siteUrl": "https://molihua.org",
-      "related": 25
+      "related": 27
     },
     {
       "id": "FL-080c12cbad4d",
@@ -714,15 +714,15 @@
     {
       "id": "FL-EV-18d9b0620c3d",
       "date": "2026-09-11",
-      "dateISO": "Fri, 11 Sep 2026 06:51:22 GMT",
-      "ts": 1789109482000,
+      "dateISO": "Fri, 11 Sep 2026 01:07:34 GMT",
+      "ts": 1789088854000,
       "scope": "dom",
       "type": "fire",
-      "title": "青岛一艘外籍货轮发生火灾 造成重大人员伤亡 - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45U204ZEdEdEpDSW9KS1pLOHNENExGbzdXdHI4dXFTZzZWck4xV3R0UWw0QzFaZWE2aThfTXphNGNOQl9FeTBFcWhGRmc3RGMzRkJrRGVRaGc4RDBuYy01VkVUNjA?oc=5",
-      "site": "新京报",
-      "siteUrl": "https://www.bjnews.com.cn",
-      "related": 7
+      "title": "青岛货轮火灾致25人遇难 - 人民日报",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
+      "site": "人民日报",
+      "siteUrl": "http://paper.people.com.cn",
+      "related": 6
     }
   ]
 }
