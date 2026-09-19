@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-19T16:21:06.014Z",
+  "updated": "2026-09-19T16:36:33.086Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-9b466137c8fe",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 15:18:00 GMT",
+      "ts": 1789571880000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害已致1409人遇难 - xinwen.bjd.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95a1k2V1dIMkllSFlhWHM3dkNITUp4NVVkZFpzNE1tSDVzQkJHSWlldjFhRnQya3pTeVFOZjNfdUNSSTJNOHc3SjB3aHlpaWtWcFhfeXpjel9wb1NWdTNCamRDM0VBVkJxV3VGeHBKU2podw?oc=5",
+      "site": "xinwen.bjd.com.cn",
+      "siteUrl": "https://xinwen.bjd.com.cn"
+    },
     {
       "id": "FL-EV-f283a898090a",
       "date": "2026-09-15",
@@ -76,14 +88,26 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-7f66b9d26d07",
+      "id": "FL-bbf3785e5d60",
       "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 16:10:52 GMT",
-      "ts": 1789834252000,
+      "dateISO": "Sat, 19 Sep 2026 16:22:40 GMT",
+      "ts": 1789834960000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川盐边县泥石流已致2人遇难3人失联 - 新浪财经_金融信息服务商",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdTFIT21qNHJpU20yTlJLVzJ4NGdMazVqNVQzZHNqX3BNUU1GOTNCdW5PWUlrS25MeFQydzcyTnRwa212eWFZOWE1aHdIbUdIMjFNckY5VVRkVzFURUw1QV9WZ1FXRkJZWTRpVWhabmVkN2pTVnBRUE1FcjdBN1hhVkgwSU5pckl3QjNsQjNURFdmc05namQ2dg?oc=5",
+      "title": "新疆阿克苏地区沙雅县发生4.1级地震 震源深度21千米 - 极目新闻",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03bHdRRGdJVEhaTkVLRlhGZzRESlpGUm5Fb1g2TmtObFd6LXJYaWZxeUhDWjhlbXhEa3lFMFFGVnRNdDZXUWY0amJlNHRXWTU1TXZ4U2s1cnhDQjg?oc=5",
+      "site": "极目新闻",
+      "siteUrl": "https://www.ctdsb.net"
+    },
+    {
+      "id": "FL-ec9cc5f41f68",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 16:20:52 GMT",
+      "ts": 1789834852000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川盐边县泥石流已致2人遇难，3人失联 - 新浪财经_金融信息服务商",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY1d5UFNESVZNS0VGa18xNjZ5RHl1ZHgxUnJrLXBqdXd4Z2pab2UyTjY5OG1jX1Z4alNaUFI3TmpzVlF0X1FfRHFXNFhZRnFtcVdPdHRNMlJtbVZfUkt4ZXBlZjZTTkRWak4yQmtUcFZVbVRHWmlnTFlkSzdyc2J0N0xxVUtvQWZrSHdrTG9GU2VUWEhack5VNg?oc=5",
       "site": "新浪财经_金融信息服务商",
       "siteUrl": "https://finance.sina.cn"
     },
@@ -194,18 +218,6 @@
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVzVPVnRCa1hQTlRRYW1NRW5VVmllNUx6aWxnZFJOVTEtYkx4MXdWM01EckxfQVBmYUhoVG1SM0RWaDdHNUc1MFVqVVRsU25xVXZUU3FyN1RhcUx6aUxPcTlkWklmeENXbnFIQzdIQW43ekpOY0Iwc0t4Q1hqRm1Ha2dSb0JRSUwzRE1TdkVFVDlwWWdkdHlMS2JZdkZhYmFCRHdhRFlRMDNJdG1NZTRHb0t0dXhPdkZZRHNuVUM0Vl8wVWtLVVo3SS1yaGgydUZQNGJGQkdyaw?oc=5",
       "site": "新浪财经_金融信息服务商",
       "siteUrl": "http://finance.sina.cn"
-    },
-    {
-      "id": "FL-4f7d3ef39bf6",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 14:22:56 GMT",
-      "ts": 1789827776000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "凌晨突发泥石流，5人弃车逃生，当地村民打亮手电筒将他们救起 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUzBiQXBzOWVNaUYyUnlsdTZtQVhiMXEwUV91bk9GOXczN1RfcERvYjI5T1FzTTRXVU1oOWxhbWRUMFNMamJnLWlNeTE3Sy0yRnJjdEZiSG1kQmJCLTVYb1RCaE9DX1RlTjltdHExN2lDSnRxVXdCTUZKMHp5aVVIdUR6TGhkSnIyNmd6OQ?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-79ee75089a47",
@@ -580,18 +592,6 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-3c69877c28d5",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 03:32:03 GMT",
-      "ts": 1789788723000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川盐边县突发泥石流，已致5人失联 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YNG5sLWFFT1ctTkJhcF9SXzVJMEI5bDFUbENDVEhLNk5PLUVfTkNCTkRpMzNGUXgtRlBTeFp4cGJwS1lBdFhzMWhwekRoaWtGbUl1X0pxRm5PV0d4Qnc?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://news.bjd.com.cn"
-    },
-    {
       "id": "FL-f766744f09a8",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 03:32:00 GMT",
@@ -676,16 +676,16 @@
       "siteUrl": "https://news.sciencenet.cn"
     },
     {
-      "id": "FL-bb2daeb977d4",
-      "date": "2026-09-18",
-      "dateISO": "Fri, 18 Sep 2026 20:15:45 GMT",
-      "ts": 1789762545000,
-      "scope": "intl",
-      "type": "collapse",
-      "title": "暴赚17000%的神话破灭！“土耳其版高盛”轰然崩塌，140亿美元惨遭清算 - 华尔街见闻",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXOERRaldsTmdBV2FBZ2NJZG1FN1RhSGFvTkNBNnRpTUp6TENQcUNrSXBSVTdLSDVXUGotMm9vU0dWS1FkUHJIR09ia0o5OVRqZEk0?oc=5",
-      "site": "华尔街见闻",
-      "siteUrl": "https://wallstreetcn.com"
+      "id": "FL-e8a32a183e42",
+      "date": "2026-08-28",
+      "dateISO": "Fri, 28 Aug 2026 07:00:00 GMT",
+      "ts": 1787900400000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "尼泊尔—西藏泥石流：堰塞湖风险、逾2000人遇难或失联，中国总理赴前线意味着什么？ - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SMU9aYk1ieDUtRUYxczloUTVubHBZc2VCWlBtbGlLNmRWdXFGZ2xvUWhfSHZqVS0wYndtZzhUZGZDZlBiQlU0WDV2NUh5bkE1M1VtZURfZWRMaTR4SU4waWJHYXdFd9IBa0FVX3lxTFA3TVBheHVtYmo2X1ppZlgzNnhYZnc3eU9MOUVybUZlUGh0QXMwTklhWXktUm9Bcnh1dVdGcUZvZlVrWGQxTlNKX2xxVV9PRzBRSmR3QWdURDRZVEhja0loSWxWN2RtRmJxR1Y4?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
     },
     {
       "id": "FL-16971aea7af3",
