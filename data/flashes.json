@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T17:28:46.603Z",
+  "updated": "2026-09-19T17:38:19.535Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -37,7 +37,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
-      "related": 28
+      "related": 29
     },
     {
       "id": "FL-263418d50a2b",
@@ -194,6 +194,18 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4UHZVREtPX3liZ1JTT3FOVXdBaG1oYlRhNERxWmtDWUkzNkRyRjBKY3RMc3V5V3Rjc2lTTS1wZWRWelREMUFfSE1HaHp3WWhBaGVIalhGcmxFTFk?oc=5",
       "site": "ctdsb.net",
       "siteUrl": "https://www.ctdsb.net"
+    },
+    {
+      "id": "FL-21e596d93bf5",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 15:15:33 GMT",
+      "ts": 1789830933000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害遇难人数升至1436人 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBncHI5M3E0eXl4RnEwWVdVX0pDcHc2eERIb1A2bzVneGZEWTFKWW5zSFo3OGNuVGNfN3N2NHJWVjZUbHNsWVptcGk2QQ?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://wap.cj.sina.cn"
     },
     {
       "id": "FL-a7b9385dc9bc",
@@ -456,18 +468,6 @@
       "type": "geo",
       "title": "四川攀枝花发生泥石流，有人员失联 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORXZMemUwa205Nk1Ram1OYXhFbDIwOUYzUGpiRldOX1UtYmlNTDFLSmxKWVdxbXFDY3l1UHVoT1NiWm9sVUEwb2hER1hwbXMzbkQ3dVlxeUZaSDQtckZ1RlN2dy1lNlRKcmY5aDVuSDY2VDZXbTI2ajVYMXZLWHVETG1mRG8xWml0S1dFWG91TjJiOWZGN1NTeg?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.cn"
-    },
-    {
-      "id": "FL-ef4bc2566c3a",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 06:37:25 GMT",
-      "ts": 1789799845000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "攀枝花盐边县突发泥石流 省应急管理厅已派出工作组赶赴现场 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcHhyMGJic2xiU3ViZG5KLXY2Q3RJNDVuRGE4SmQtRGlsTVI4bV9SOGJFSFVxU0ItMTJPOW05RlhQdlhhai1SZjFtZEJlb3BlX2F0bndGNFRDbzQ4Mlp6c19wNEdvVUxTNEUxdV9ENHdhMXBJeGJlNjZITU5RYk85Qm1HN25xNlY0SGRqaElwallBdFItRndQXw?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
