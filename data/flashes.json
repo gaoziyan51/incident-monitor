@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T10:54:06.848Z",
+  "updated": "2026-09-20T11:06:14.684Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -219,6 +219,18 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
+      "id": "FL-a3c3b9f6fe07",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 07:56:46 GMT",
+      "ts": 1789891006000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "日本奄美大岛附近海域发生5.0级地震 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LbmxCMVlRRVNObFRxSnV3VDd0bHBfVy05S3d6UmlMTy1oR2ZvaE1sZml0dDlDSWJrcGppSGE4VzJzNTVzWTVkS0Jicw?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://wap.cj.sina.cn"
+    },
+    {
       "id": "FL-00b29f9642a1",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 06:18:13 GMT",
@@ -339,15 +351,15 @@
       "siteUrl": "http://finance.sina.cn"
     },
     {
-      "id": "FL-31bfdff10c61",
+      "id": "FL-e44bfae95a64",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 01:10:00 GMT",
       "ts": 1789866600000,
       "scope": "intl",
       "type": "geo",
-      "title": "墨西哥举行全国地震演习--国际 - world.people.com.cn",
+      "title": "墨西哥举行全国地震演习--国际 - 人民网",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9admtFekU0elpZUEYwNndTRFMwZUd4RFp4N3pMdnlQajFZQ0ZrQ1NoNGhvaFRoX3VQYWJzSHE0d0d2TWdScHJ5OUtpb3hPY3JhT1psWkZOVFQ4ajNWM0hvSDhac2Y1THE0RW1ENQ?oc=5",
-      "site": "world.people.com.cn",
+      "site": "人民网",
       "siteUrl": "https://world.people.com.cn"
     },
     {
@@ -685,7 +697,7 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWmt5VGRaNWc0dGozSW1oTTZ5TG1NM3lPdWhoSzBUY1ZYUF9MLUMxU19oVTN4Rk51N3BqSkFaVWwxMXluNmtORlBEZE1BWmRjRGY1NUxzQlptTE5pczRQeThwaFZWTFdwUk83S3Q4alJzZnZFbzQxZXhIYk1TVzc3cFVhaw?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn",
-      "related": 28
+      "related": 30
     },
     {
       "id": "FL-16971aea7af3",
@@ -711,18 +723,6 @@
       "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn",
       "related": 5
-    },
-    {
-      "id": "FL-240120bbffca",
-      "date": "2026-09-04",
-      "dateISO": "Fri, 04 Sep 2026 23:57:00 GMT",
-      "ts": 1788566220000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "沈晓明赴石门县调研指导暴雨洪涝灾害受灾群众转移安置工作 - 湖南省人民政府",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LQ3JlTUZvN0xBYmhJbmptZDdBWE92RWQwZTBuQUpPMjBKWTc0VHFQTVR0dV9adVV0c1piTk0zUTVuNElMM3RWR1VrM0tEdlVvb3YzZUREcDBKdl9Mb2UwclpEU1otSXViNVJIejBqU0FrbTJ6TUJJV0pVekZicHM?oc=5",
-      "site": "湖南省人民政府",
-      "siteUrl": "https://hunan.gov.cn"
     }
   ]
 }
