@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T18:38:29.668Z",
+  "updated": "2026-09-20T18:48:22.399Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -25,6 +25,19 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xUmN1eHZYWThIN2IwejZLemdfc0QySHhhUmd1RnB6YmlqekI2bVJOT0RRTVZMODJnUmRicjJVMzhkRzFRWnU4VXdUT0JKdXhRUk1DTWFRTjNmc3VnR2pRU3NzQXpMSF91SjU3NGhGLXl6a2ltS0VRcVJrWkI4TkU?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-EV-f283a898090a",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 16:15:32 GMT",
+      "ts": 1789488932000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "尼泊尔泥石流： 灾害到底发生在什么时间？谁上传了吉隆口岸的视频？ - RFI",
+      "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
+      "site": "RFI",
+      "siteUrl": "https://www.rfi.fr",
+      "related": 24
     },
     {
       "id": "FL-263418d50a2b",
@@ -130,9 +143,9 @@
       "scope": "intl",
       "type": "geo",
       "title": "尼泊尔泥石流灾害已致1451人遇难 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hVXJJWllBd3ktRkFqbkVoN1J4OHVPbjU4b0dETTZ3RGY0VVJpSF9KWUFURFpVcnRUTXVfNktkenJLdjgzNWVwNXo2QUVYZ2otQUNCU3YwWlpEamQ5S0dxRENFSjFwa2Jz?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XLXdjWmM5VWFGd1pjWm9UeXJpaW5kaXNHTFdKOEZUeng4R3BlWUdvaGhSSWxZdHc4cnd5YTlTeWhCazRUM3hTeE4xcHROb0NqU1p3REtIdk1NLVhLb3FNaldsZkxyT05IeVlaSTBRYU9SdWlNVXc?oc=5",
       "site": "央广网",
-      "siteUrl": "https://news.cnr.cn"
+      "siteUrl": "https://www.cnr.cn"
     },
     {
       "id": "FL-97f4ac112dc7",
@@ -169,6 +182,18 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aVVJZNkxUMl9DdE9oYlphZWIwMEViOUlvbjMxdDhzZXNwSENzRTV6aFE3X1ZrWjBxZndXNng5aTl2SHhMcVZoSlJKeE5LQkdsOTRfQU5nSGhWaG8?oc=5",
       "site": "极目新闻",
       "siteUrl": "https://www.ctdsb.net"
+    },
+    {
+      "id": "FL-53fb62917ecf",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 13:55:00 GMT",
+      "ts": 1789912500000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川盐边县发生泥石流 致两人死亡三人失联 - 早晨报",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xejFjN05NQUpIWThWejVweUVsR3JtX0tnQjlHWE5Fakt3ZnFnQU1lZUVUZGx4Z2NfcWJLU0VnVVFRaTVlNzhEU1FIU3RkYUQ5b3kzMG0yVWJjVThjcG9IOFg5aDlQVzV2?oc=5",
+      "site": "早晨报",
+      "siteUrl": "https://www.zaochenbao.com"
     },
     {
       "id": "FL-4f9f1505eb12",
@@ -291,27 +316,27 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-d008345e87f1",
+      "id": "FL-d8a2637232d4",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 08:28:27 GMT",
       "ts": 1789892907000,
       "scope": "dom",
       "type": "geo",
-      "title": "长虹能源豪赌锂电，短债压顶遭遇业绩滑坡，毛利率承压与减值掣肘盈利 - 新浪财经",
+      "title": "长虹能源豪赌锂电，短债压顶遭遇业绩滑坡，毛利率承压与减值掣肘盈利 - finance.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSUtxS2VuY0JFTDFjVmw5dVRkNGtwdGdwel8xQTBMZmhiZjhCSmlaQ0o5MHFGRE13bEdiQUc2ZC0yb2N1Y3IyZWN5WWEtYmQtMC1LSnVDeDJfbDB6dzU0SEFIMVg2NWVBTkFpcDg4NHVpTDN4XzVoTFc4cUZ2YjdIcGZ4d1hzMXc?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.cn",
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-a81d31e5daa5",
+      "id": "FL-457bef398e34",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 08:10:00 GMT",
       "ts": 1789891800000,
       "scope": "dom",
       "type": "geo",
-      "title": "新疆和田地区策勒县发生3.2级地震，震源深度10千米 - 新浪财经",
+      "title": "新疆和田地区策勒县发生3.2级地震，震源深度10千米 - finance.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX2NfU0lXX3lkRmMxdE4yUkdITjdxQkh1Ul9uSVFIVzlGTjNhRFhidWNpOTJZXzdsNlFXal96c3ZPaE1HLWFxS19TbUpIY1Y3ODdhMC1fek1sM0ZmcUNFdkl5TnRBMS1jVVhRWS0xQ2p4SkJwdFNvZnVFTFVhZUx2R0VsR0I5S1pfVDFRVTh2NWN3T1UzcjJiVFNWcEJFa2pG?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.cn",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -351,15 +376,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-00b29f9642a1",
+      "id": "FL-404022a5642d",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 03:53:13 GMT",
       "ts": 1789876393000,
       "scope": "dom",
       "type": "geo",
-      "title": "村民打手电筒救起被困泥石流5人 - 新浪财经",
+      "title": "村民打手电筒救起被困泥石流5人 - finance.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVERBWVA2RktyR1RDZlFQWUtSYlJqN0NmdzBBZTIzNFVzeUQ0aU5sc0FVZXpHRnBWUHp1VTlhemo1TjQ3V3E0MS1xejdQdWxVakd2NmI1Mk5XZm1iUjAyRHZKdWhpTV8xeUxPOWlRcm9fV2tod3RZMW5BUlBIVnpCb2dveUp2UkVZQl9SX09VTEowQ0VvbXI2ZVJwb3BkNXZ0ekQxQkJ4c1NvNFp4dmd3czVuN0lnY055UjBUc0tzNXVDdm1pUXp6SG5FZXRJZ3JZaFB1cUpXOEI?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.cn",
       "siteUrl": "http://finance.sina.cn"
     },
     {
@@ -483,30 +508,6 @@
       "siteUrl": "https://news.ifeng.com"
     },
     {
-      "id": "FL-e1dd73c57501",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 21:35:55 GMT",
-      "ts": 1789853755000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "墨西哥举行全国地震演习(3) - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE42QTRyY3lCY1liTkhJT2lYX2hSTWgxUFU5UEJPRHRtc25PeUtjWGJWT1R0OWRkYUlQeEJveEkzRWxJY0tKeGdWbA?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://i.ifeng.com"
-    },
-    {
-      "id": "FL-49642f344c72",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 18:40:00 GMT",
-      "ts": 1789843200000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川盐边县泥石流增至最少2死 当局续搜寻失联人员 - gbcode.rthk.hk",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUFVwZGdLUG93VlI4MUFxbGxlSTlPNEExZUpJbXg0OGN1TUxIVnJCNWMteGxlSzMyU3YybXY2VEg1UE96aTNld0hSUTl1MXRncENNekxScnZTVEdVNEUzME1XLXFHbkNVZUI3a1FCdjlLcmVaY2ZFVVExZmZRMEVra0lMejBFZ2dVSzNuZ0kwNA?oc=5",
-      "site": "gbcode.rthk.hk",
-      "siteUrl": "https://gbcode.rthk.hk"
-    },
-    {
       "id": "FL-fb76370c2157",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 16:18:09 GMT",
@@ -517,6 +518,18 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WM3lHMmZGSE04bHRrNW92Y3p2bTY4a1BXWGJZRjJFQ1ZYeXVPeXZySWpHQ2pXMGJjVF85MW14Sk5KZ3lEV0lxMGxmdjVLaHA5QnVSN3QxTmVFcjFsYnBkQmV2aTluaWJRNGVlNEtBakc?oc=5",
       "site": "央广网",
       "siteUrl": "https://sc.cnr.cn"
+    },
+    {
+      "id": "FL-5ca4f01afb4e",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 16:07:00 GMT",
+      "ts": 1789834020000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害遇难人数升至1436人 - 中国网新闻中心",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OemVDMFB6UktrS25iVEVBWnFaX05JTFZNZmx2bWJNYUxpdERnUWowQjlnTWxyTVNVYk5kRVBVSk9JUmFoSnYtVDI3RlM0N0NSZkg2dlV6XzBmajI2b3NEY1lNWTVoYzNxLU9V?oc=5",
+      "site": "中国网新闻中心",
+      "siteUrl": "http://news.china.com.cn"
     },
     {
       "id": "FL-749aed081520",
@@ -567,15 +580,15 @@
       "siteUrl": "https://m.cls.cn"
     },
     {
-      "id": "FL-2933b147663e",
+      "id": "FL-413c80397b1e",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 10:40:04 GMT",
       "ts": 1789814404000,
       "scope": "dom",
       "type": "geo",
-      "title": "现场画面丨四川盐边县突发泥石流 已致5人失联 - xinhuanet.com",
+      "title": "现场画面丨四川盐边县突发泥石流 已致5人失联 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lMnhGS2MxVk5ENkExcjBtZ2hoeG5hblRZVTFtWFhKTTFvd1lvWjgwcjY2bVNyS3NEVTB2T0JhVFBIVFFSU25Udmh4NzRiWGdtWE9Kb3pCMlhubEQzdG9xa25iX0xYN19IWGNCazJrMm91OS1JQ3NOX1JkRkpoZw?oc=5",
-      "site": "xinhuanet.com",
+      "site": "新华网",
       "siteUrl": "http://www.xinhuanet.com"
     },
     {
@@ -675,19 +688,6 @@
       "siteUrl": "https://www.thepaper.cn"
     },
     {
-      "id": "FL-EV-f283a898090a",
-      "date": "2026-09-07",
-      "dateISO": "Mon, 07 Sep 2026 07:00:00 GMT",
-      "ts": 1788764400000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "院士解读西藏吉隆泥石流：真正危险的不止是冰川 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWmt5VGRaNWc0dGozSW1oTTZ5TG1NM3lPdWhoSzBUY1ZYUF9MLUMxU19oVTN4Rk51N3BqSkFaVWwxMXluNmtORlBEZE1BWmRjRGY1NUxzQlptTE5pczRQeThwaFZWTFdwUk83S3Q4alJzZnZFbzQxZXhIYk1TVzc3cFVhaw?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn",
-      "related": 24
-    },
-    {
       "id": "FL-e8a32a183e42",
       "date": "2026-08-28",
       "dateISO": "Fri, 28 Aug 2026 07:00:00 GMT",
@@ -722,7 +722,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
       "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn",
-      "related": 5
+      "related": 7
     }
   ]
 }
