@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T04:41:32.404Z",
+  "updated": "2026-09-20T04:54:35.187Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -25,7 +25,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
-      "related": 30
+      "related": 32
     },
     {
       "id": "FL-263418d50a2b",
@@ -52,15 +52,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-31aaf7309a8a",
+      "id": "FL-20349e76752b",
       "date": "2026-09-03",
       "dateISO": "Thu, 03 Sep 2026 07:00:00 GMT",
       "ts": 1788418800000,
       "scope": "dom",
       "type": "weather",
-      "title": "台风“沙德尔”带来强降雨，福建全力抢险救援 - 人民网-福建频道",
+      "title": "台风“沙德尔”带来强降雨，福建全力抢险救援 - fj.people.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9idjB1WHk1RmxjaXpsRFVqTmtSUXdDbEcwVlp0d2k5TnNndmxBNXhhV0syZmdBVlVCQzZuZk56cmNGeWFCYnp5SkVxaFFvbGQ0TXoxalUyeFJtRHJfa2l2TVhBRXJVQWVfM0E?oc=5",
-      "site": "人民网-福建频道",
+      "site": "fj.people.com.cn",
       "siteUrl": "http://fj.people.com.cn"
     },
     {
@@ -76,27 +76,27 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-bc2125d4da0e",
+      "id": "FL-89339ee58015",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 03:47:28 GMT",
       "ts": 1789876048000,
       "scope": "dom",
       "type": "geo",
-      "title": "攀枝花盐边泥石流致2人遇难3人失联，消防投入搜救犬和无人机开展救援 - 凤凰网",
+      "title": "攀枝花盐边泥石流致2人遇难3人失联，消防投入搜救犬和无人机开展救援 - i.ifeng.com",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9lRmtkaDNzbUJzbXhuVjBuTFZjYnVwaUR3TTJPZ3p2eGdLRzVfeXB0WmRETXM2YjFzZ2NLUFk2d1dEQ2ViUXQ1VQ?oc=5",
-      "site": "凤凰网",
+      "site": "i.ifeng.com",
       "siteUrl": "https://i.ifeng.com"
     },
     {
-      "id": "FL-71188032b664",
+      "id": "FL-f8079e54ad56",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 03:42:34 GMT",
       "ts": 1789875754000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川攀枝花盐边发生泥石流灾害 两天累计转移安置群众173人 - 央广网",
+      "title": "四川攀枝花盐边发生泥石流灾害 两天累计转移安置群众173人 - sc.cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Pa3JRR2c0VnZTM28xc1dZRXJweUlyYU1YSm9iX2dUQVhNNlZkQkpBWUVrVTlUc2tSRldOazk2TmdoMnBQU1VLMmlsdzFMNWFqMV9YVkYxUlBxRnRkbGJ0V1E2R2JwYVYzUHhfQ3FB?oc=5",
-      "site": "央广网",
+      "site": "sc.cnr.cn",
       "siteUrl": "https://sc.cnr.cn"
     },
     {
@@ -256,15 +256,27 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-ffb2f4bd8dbf",
+      "id": "FL-cd36f1493372",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 01:01:36 GMT",
+      "ts": 1789866096000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川盐边突发泥石流：村民打电筒救出5人，已安全转移173人 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdU1ZUHRod2lMM3hpdzlmT3IyeGtFOXc1OEpTUmx6MWk4UXdVanNDNkJZcUFZWXVaX2p2cmY2cUt4bHZpZVNoVzRfSVVxZFNMT29HWjQxT3Z1c3hxYkJkbklTR0FRdkJJSm1OckstRllKX2JGdVZrYWt3cms0ZlRrSWFfUTV4dHJtQmI2UA?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-a8b01ab08690",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 00:44:54 GMT",
       "ts": 1789865094000,
       "scope": "dom",
       "type": "geo",
-      "title": "盐边发生泥石流险情致人员失联，18户30位村民提前转移成功避险 - 四川在线",
+      "title": "盐边发生泥石流险情致人员失联，18户30位村民提前转移成功避险 - pzh.scol.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51dzBPOVd0LWlteXh4VVVPZzM4LTZXcXZNcG1Ja1d3UWxCb3pnTEFaYkhfZ3J2Nk44LW4tb2RGSGJoanpnY2x4T1I2SF9TS3haTmEzWG9YTkFlc2c4VXc?oc=5",
-      "site": "四川在线",
+      "site": "pzh.scol.com.cn",
       "siteUrl": "https://pzh.scol.com.cn"
     },
     {
@@ -424,39 +436,27 @@
       "siteUrl": "https://gbcode.rthk.hk"
     },
     {
-      "id": "FL-bbf3785e5d60",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 16:22:40 GMT",
-      "ts": 1789834960000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "新疆阿克苏地区沙雅县发生4.1级地震 震源深度21千米 - 极目新闻",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03bHdRRGdJVEhaTkVLRlhGZzRESlpGUm5Fb1g2TmtObFd6LXJYaWZxeUhDWjhlbXhEa3lFMFFGVnRNdDZXUWY0amJlNHRXWTU1TXZ4U2s1cnhDQjg?oc=5",
-      "site": "极目新闻",
-      "siteUrl": "https://www.ctdsb.net"
-    },
-    {
-      "id": "FL-fb76370c2157",
+      "id": "FL-4a61f726f18b",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 16:18:09 GMT",
       "ts": 1789834689000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川盐边县突发泥石流 2人遇难 尚有3人失联 - 央广网",
+      "title": "四川盐边县突发泥石流 2人遇难 尚有3人失联 - sc.cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WM3lHMmZGSE04bHRrNW92Y3p2bTY4a1BXWGJZRjJFQ1ZYeXVPeXZySWpHQ2pXMGJjVF85MW14Sk5KZ3lEV0lxMGxmdjVLaHA5QnVSN3QxTmVFcjFsYnBkQmV2aTluaWJRNGVlNEtBakc?oc=5",
-      "site": "央广网",
+      "site": "sc.cnr.cn",
       "siteUrl": "https://sc.cnr.cn"
     },
     {
-      "id": "FL-983442a8ab39",
+      "id": "FL-1c9ebc93aa9c",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 16:15:56 GMT",
       "ts": 1789834556000,
       "scope": "dom",
       "type": "geo",
-      "title": "盐边县发生泥石流险情，截至19日23时搜救到2名失联人员，已无生命体征 - 四川在线",
+      "title": "盐边县发生泥石流险情，截至19日23时搜救到2名失联人员，已无生命体征 - pzh.scol.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPN1NOT1NVdnpGalZYclFmamhWWjJJcGNrNDg5cktOc2lWQi00UzVPSFctaHpGQm02ZWtxblh4dkowVkpWci02RWxDYWtleTJZWmRyS1pvcUNHVERqYXc?oc=5",
-      "site": "四川在线",
+      "site": "pzh.scol.com.cn",
       "siteUrl": "https://pzh.scol.com.cn"
     },
     {
@@ -496,15 +496,15 @@
       "siteUrl": "https://news.sina.cn"
     },
     {
-      "id": "FL-a67a1b3057fd",
+      "id": "FL-6d5866496cce",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 15:23:21 GMT",
       "ts": 1789831401000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1436人 - 京报网",
+      "title": "尼泊尔泥石流灾害遇难人数升至1436人 - news.bjd.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PSGkyUUZsWTVzSmNCOGUycmoyS3JYdWFCZDhUVDNLZ1Y0cW96c0ZkSWlhb21na0ZhVzI2UU5iZXZVME1BdVRjbEhOSjRpWHpQZWpPYmtEUnFNZENZRUE?oc=5",
-      "site": "京报网",
+      "site": "news.bjd.com.cn",
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
@@ -628,15 +628,15 @@
       "siteUrl": "https://m.voc.com.cn"
     },
     {
-      "id": "FL-d791be57a6e1",
+      "id": "FL-e8ff86e24718",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 06:01:00 GMT",
       "ts": 1789797660000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川盐边一村庄附近突发泥石流致5人失联，当地正在搜救 - bjnews.com.cn",
+      "title": "四川盐边一村庄附近突发泥石流致5人失联，当地正在搜救 - 新京报",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRUXFHdnRiVU1HYjZHRzNleVZsSi1zYzE1T0ZyUHVZWFp1UWNodGpWaGlSU1cxdmdWSkJGZzJfWTJaNkh4RXkya3hFYVVFd3JkOGpsYnd0T3Itb2l5b3ZLNEc5elo?oc=5",
-      "site": "bjnews.com.cn",
+      "site": "新京报",
       "siteUrl": "https://www.bjnews.com.cn"
     },
     {
@@ -664,27 +664,27 @@
       "siteUrl": "https://www.thepaper.cn"
     },
     {
-      "id": "FL-f0ee7768c9f2",
+      "id": "FL-719294f352e0",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 02:49:00 GMT",
       "ts": 1789786140000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川盐边县突发泥石流，已致5人失联 - 中国宁波网",
+      "title": "四川盐边县突发泥石流，已致5人失联 - news.cnnb.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13a2NJOUY4SlJhNTdNQ0F4aHRiRFlNMENCUF9JeUZwZDFTU3p2T1ZKemRLdVdibVdqRlUtYUwxSkpjSW90TjVsT1FsRUZiQnhKQzl4WW9MTU84cFlNOHJ1NldGYVlQZzlL?oc=5",
-      "site": "中国宁波网",
+      "site": "news.cnnb.com.cn",
       "siteUrl": "http://news.cnnb.com.cn"
     },
     {
-      "id": "FL-fac6b6a41c71",
+      "id": "FL-73e998d07cb3",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 02:47:27 GMT",
       "ts": 1789786047000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川攀枝花盐边县支六河村附近突发泥石流 有人员失联 - bjnews.com.cn",
+      "title": "四川攀枝花盐边县支六河村附近突发泥石流 有人员失联 - 新京报",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTNEJLdjFUZGx2OXpOYV9Zd09Va21yVkZiYldST0ctcU12ak5kMTJUWDItTWVLUVR2MU9iSk1wZVVsOGFsa1NsdVp5WWhXWnl4ZnVVT1pndy1IZk4ya2QxOU9pLUU?oc=5",
-      "site": "bjnews.com.cn",
+      "site": "新京报",
       "siteUrl": "https://www.bjnews.com.cn"
     },
     {
