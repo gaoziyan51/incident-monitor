@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T09:53:47.607Z",
+  "updated": "2026-09-20T10:06:16.067Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -75,6 +75,18 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
+      "id": "FL-0544b80c2043",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 09:42:00 GMT",
+      "ts": 1789897320000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "巴布亚新几内亚发生6.2级地震，震源深度120千米 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTMjMxaXpBWEhiaGMyM21OMHJQdGFfQS1CbHdTaXY4MGFZVi1jMExySlZ0MVBaQ0o3V2xSczl6R0MxWVlhbm14X20xTlNNOGNsVU5yVjFibUpZYjlQT2toRWktMlhkX1JBSW0wR1JpeUhDY1lqLXA1VA?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
+    },
+    {
       "id": "FL-37eaf8c9fd9a",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 09:26:29 GMT",
@@ -87,15 +99,15 @@
       "siteUrl": "http://www.yn.xinhuanet.com"
     },
     {
-      "id": "FL-024e35eff45d",
+      "id": "FL-5ea46c40eda3",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 09:11:15 GMT",
       "ts": 1789895475000,
       "scope": "dom",
       "type": "geo",
-      "title": "土木工程学院周颖团队在《自然·通讯》发表建筑结构地震动力响应智能预测研究成果并入选编辑精选 - news.tongji.edu.cn",
+      "title": "土木工程学院周颖团队在《自然·通讯》发表建筑结构地震动力响应智能预测研究成果并入选编辑精选 - 同济大学新闻网",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80akxmdTdSXzRVUi1fUmlGYWo2bktiMXlMZ2VjaGZ3alhJaFNqTExoM2VtQzdIYkFreU9EVHR4cWdCa2pIWVJDZGRBVDZvNWF5MkdmM000bHNBZw?oc=5",
-      "site": "news.tongji.edu.cn",
+      "site": "同济大学新闻网",
       "siteUrl": "https://news.tongji.edu.cn"
     },
     {
@@ -495,18 +507,6 @@
       "siteUrl": "https://pzh.scol.com.cn"
     },
     {
-      "id": "FL-34a36cc4a397",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 16:01:00 GMT",
-      "ts": 1789833660000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "新疆阿克苏地区沙雅县发生4.1级地震 震源深度21千米 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aZFZCMDJ0ckhwMjdSRlRiX3NDVWNqVEZ4RXRlWEdKT3lTd3V2T3RuUEY2cFpVc3JmNFNMdDVINFZ5bDk2dXRQZ0xRS2c0UFF5NWp5YnNuVXphUDBaQ2cteWtCZE5wUWN4SnVfZDRUdE5HRWFIajYtRQ?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
-    },
-    {
       "id": "FL-7eef43295216",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 15:51:18 GMT",
@@ -697,7 +697,7 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWmt5VGRaNWc0dGozSW1oTTZ5TG1NM3lPdWhoSzBUY1ZYUF9MLUMxU19oVTN4Rk51N3BqSkFaVWwxMXluNmtORlBEZE1BWmRjRGY1NUxzQlptTE5pczRQeThwaFZWTFdwUk83S3Q4alJzZnZFbzQxZXhIYk1TVzc3cFVhaw?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn",
-      "related": 30
+      "related": 29
     },
     {
       "id": "FL-16971aea7af3",
