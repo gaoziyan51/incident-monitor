@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T12:55:52.177Z",
+  "updated": "2026-09-20T13:06:43.198Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -13,6 +13,18 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wdnBqX2d2T1NSQ092SjlCdW1fbVZfak4ycERLSWtGb2VxT21FdXRQSkd5bVFiVkxvZlFlaDZralk5b2FyemR4RlptclBhbDhrR1ZILTc4Zw?oc=5",
       "site": "news.un.org",
       "siteUrl": "https://news.un.org"
+    },
+    {
+      "id": "FL-6b6aed7ef41b",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 15:18:00 GMT",
+      "ts": 1789571880000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害已致1409人遇难 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95a1k2V1dIMkllSFlhWHM3dkNITUp4NVVkZFpzNE1tSDVzQkJHSWlldjFhRnQya3pTeVFOZjNfdUNSSTJNOHc3SjB3aHlpaWtWcFhfeXpjel9wb1NWdTNCamRDM0VBVkJxV3VGeHBKU2podw?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
       "id": "FL-b2d13116c5ba",
@@ -71,18 +83,6 @@
       "type": "geo",
       "title": "西藏泥石流：中国审查洪灾冲击口岸画面，当地灾民情况我们所知甚少 - BBC",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rWlBVcnZhd0NVTDlFZ3hVN3BYR3RLUFpMZEM0eVkwN2JkRXIzM0V0REJXR2FjeDRxUUVqeDBvMUtKU25TUFNDMzJYdHNucTZ4bDBEWkFjazFwZGZEOVJzVlZyNGtiZ9IBa0FVX3lxTFBOT0pTWlZHV0dDQTNJRFExWFdZcGJDZTI3aDVxeDJQNGk4WldjSzRwa1lJRXF3aW1Id1QwVHM0TlNoRWp2SmtvMURjcEZoTG5kaVlSOTlHcFpVMFpxSkp0MnVUX2NGZWZYZk5N?oc=5",
-      "site": "BBC",
-      "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-861987facab4",
-      "date": "2026-08-30",
-      "dateISO": "Sun, 30 Aug 2026 07:00:00 GMT",
-      "ts": 1788073200000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "西藏泥石流：中国称气候变暖导致惨烈灾难 - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44R3gxYndzaTFVdmhMRjlDRE1fWlNQcGc1dTQxRG85WC1YUTFPbHVmMGNSN1VJNnVDN2sxakFicFZla3NKWXUtTWI2Ymh0ODVQYzBNdUdKRUZ4VUQ5U0hGZW1NZXBHUdIBa0FVX3lxTE5BZmQwdGNTV1RjTHg0N3RHZmFjQmFzajZlZzdTOVFTSEtjWE8wUGY1LVlTeElnOFh1X191TW1kTlc1TzZXTkhOcjFXZ2tqWXZKOXgxbmo0S0I2eklUMk1NN3RLSDdmdy16S2pn?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
     },
@@ -387,6 +387,18 @@
       "siteUrl": "https://pzh.scol.com.cn"
     },
     {
+      "id": "FL-83aeb073b87e",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 00:40:26 GMT",
+      "ts": 1789864826000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川盐边县突发泥石流已致5人失联 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wdFVVVDJVNjZhZ0xTSk5heGIzdjZtLWlCVUYxYmJ6T0pscGljWUZLSFJmMmg1LUdxV1RZWU5CM2RIX3ZaSWlOd1NadkF4QmtNQ0RQTEU4MEtkSnpTc01fTVNSc3ZiZnVSOVMzQjV3VGU5NmFxeG1BSA?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
+    },
+    {
       "id": "FL-14694e5635c7",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 00:24:20 GMT",
@@ -397,30 +409,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjaXJBUV9sR1gxZFFiZ1ZFZmtmekF4dWFldkZCLXp1ZEo4STVOT3E4Q25xaHZIV1hBWVJ1WlZsVkViSTFkTnI4ZV9Oa1E5SlJ6cEZjQk94ektnVExPRDVyek1R?oc=5",
       "site": "观点网",
       "siteUrl": "https://www.guandian.cn"
-    },
-    {
-      "id": "FL-64d860a7f8c5",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 00:24:11 GMT",
-      "ts": 1789863851000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川攀枝花突发泥石流，有人员失联 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUXhNTjAzMWVMWHR2SFpsZ1MtOEtGLUdUU2MtNlAtMi1GSUVSOXF4WnlYazdVUzZNVHJ6c0w0TGJ2djlvcDR4S3h6d0dONy1tUE1CbDVTejItMmYzelFtRHhpYzFUSzBkU29GVWFNNko2YWxVd2lfUmdnM3JqS0gtaEY1Z2k?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
-    },
-    {
-      "id": "FL-66f04c172b5a",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 00:19:22 GMT",
-      "ts": 1789863562000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "（新华视界）墨西哥举行全国地震演习 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVVhZaXAybnFsYVNncWJUc01UUDRhblQySUFjVUJXWkRfd0dwYmtPRGRteDE3REJhMWtJTlFRcTVMT05aWHNtVzZ2MUhqOUF3TDMtcklVVWV3RWlGTXc4NEtkM29pM1Z3ejFzdWdndk1ickliN3lHZUNsVjJ1ZDRIX2NmRXBKdw?oc=5",
-      "site": "新华网",
-      "siteUrl": "http://www.xinhuanet.com"
     },
     {
       "id": "FL-03e1c60639f5",
@@ -457,6 +445,30 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBneTVvREZGLWpuUzVIVlg0WXQyV3NHLTRkSWhBNWFVTldVTE1iZW5PS3dUSFJQUTMtTVd2WXdyYXJYZVRkMmZmU1JVUFc2ckE4WGhGbjhkaWhFUmViNEtMVFVpVXJQTkdmbVNwYktsZkl0dmdNYzBiZw?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
+    },
+    {
+      "id": "FL-d7939e987363",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 21:52:23 GMT",
+      "ts": 1789854743000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "墨西哥举行全国地震演习 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NOWRJaFhtaEpDU3RyeV9QZmJlYmNlMDBSY1JXZHRDb1pJRmMwVkM5ZzhqUFZyR2JTSm1kaWNHdmRzekNMLTRNaGpidE9ELV9KaUJOR1NYQXlkMzBmc0JIUlNxR1VmdTVkaVVvU0FFekJGUkthS1owUkhWZ2M0UVE?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-06b4cb8645b2",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 21:35:55 GMT",
+      "ts": 1789853755000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "墨西哥举行全国地震演习(4) - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5rc2l1d2NkS0c0dWVKNUJKT2htbmZhMThLU2NZM2szcG5vMER2TC1xck5TeTlhRXNTRnVubDdKSU9HNTVVYnFDdjNRTnU?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://news.ifeng.com"
     },
     {
       "id": "FL-49642f344c72",
@@ -505,18 +517,6 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WUEJZZElLOU55Qy1WTlFYSzN0cmNJMWpXYjhyc1lCZVRDbkdhZ3c0a3dmV0w3aWhaLXQyNzlCWFoxVmlYYXBBRjZoM1pqeDNFYk1NazlSTnRoQ3Q1WjdUTzRyWUtWbFpiaWhmOXhOMmM1Rlc4aGs4?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-a96975409b54",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 15:45:00 GMT",
-      "ts": 1789832700000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "新疆阿克苏地区库车市发生3.6级地震，震源深度20千米 - 新浪新闻_手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdWlyQkhwSVlYUEZNY0VUcDlGUy1mMHlUWVUxZm55RmpxV0lMZGh2SmZobm1CdnUxTXI4RndWSnVCT2Zuajk2RTZWOEgzUDJodnhqYlZ2TENFWkwwSXBJSTJoUnVycEhyOXMzN2hlS0R2MkpWOEFrR2VIREItLWtyU19LdGZ4QQ?oc=5",
-      "site": "新浪新闻_手机新浪网",
-      "siteUrl": "https://news.sina.cn"
     },
     {
       "id": "FL-8058ec871ce0",
@@ -615,6 +615,18 @@
       "siteUrl": "https://m.bjnews.com.cn"
     },
     {
+      "id": "FL-f766744f09a8",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 03:32:00 GMT",
+      "ts": 1789788720000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "攀枝花盐边县突发泥石流已致5人失联 省应急管理厅已派出工作组赶赴现场 - 川观新闻",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1JQm9nby15RXY4c3NRcEZSdWE0emlQamhpa21hTTNYNXA2bGpGeHpQTVJrZ0U2TXktaWpFY1kyMW5ieGpGNTZJYWRFdnhuZw?oc=5",
+      "site": "川观新闻",
+      "siteUrl": "https://cbgc.scol.com.cn"
+    },
+    {
       "id": "FL-4f0e1aff96b2",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 03:27:00 GMT",
@@ -627,18 +639,6 @@
       "siteUrl": "https://www.thepaper.cn"
     },
     {
-      "id": "FL-a689dfa51633",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 03:05:22 GMT",
-      "ts": 1789787122000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "攀枝花盐边县支六河村附近突发泥石流，有人员失联丨C视频 - 四川新闻",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB6dXVqWHRqQVBITThCTWFva0xxZWpFdm5JVXlrZEtRdXZOUC1aOGVadFk0d0JEUldkOWJUdmROTWdkejJ0cWphOERYRHVmUkQ0RjJJaUVhUVVqN21vQVBxXzU3NA?oc=5",
-      "site": "四川新闻",
-      "siteUrl": "https://sichuan.scol.com.cn"
-    },
-    {
       "id": "FL-f0ee7768c9f2",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 02:49:00 GMT",
@@ -649,6 +649,18 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13a2NJOUY4SlJhNTdNQ0F4aHRiRFlNMENCUF9JeUZwZDFTU3p2T1ZKemRLdVdibVdqRlUtYUwxSkpjSW90TjVsT1FsRUZiQnhKQzl4WW9MTU84cFlNOHJ1NldGYVlQZzlL?oc=5",
       "site": "中国宁波网",
       "siteUrl": "http://news.cnnb.com.cn"
+    },
+    {
+      "id": "FL-17b1d784301b",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 02:45:00 GMT",
+      "ts": 1789785900000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川攀枝花盐边县支六河村附近突发泥石流，有人员失联 - thepaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jSDllZGF6bEhRRnpfbWtBVUgxUHhxSkdoUW9vemc2bkptM0pGM0xuQkxaWDNXUmlvRENiNDdnUXhLRkNtVVdsbDNUOHRQM1ZvRU96OEJPRmhLZUZDelBUNg?oc=5",
+      "site": "thepaper.cn",
+      "siteUrl": "https://www.thepaper.cn"
     },
     {
       "id": "FL-26499ac85060",
@@ -685,19 +697,7 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWmt5VGRaNWc0dGozSW1oTTZ5TG1NM3lPdWhoSzBUY1ZYUF9MLUMxU19oVTN4Rk51N3BqSkFaVWwxMXluNmtORlBEZE1BWmRjRGY1NUxzQlptTE5pczRQeThwaFZWTFdwUk83S3Q4alJzZnZFbzQxZXhIYk1TVzc3cFVhaw?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn",
-      "related": 29
-    },
-    {
-      "id": "FL-e8a32a183e42",
-      "date": "2026-08-28",
-      "dateISO": "Fri, 28 Aug 2026 07:00:00 GMT",
-      "ts": 1787900400000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "尼泊尔—西藏泥石流：堰塞湖风险、逾2000人遇难或失联，中国总理赴前线意味着什么？ - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SMU9aYk1ieDUtRUYxczloUTVubHBZc2VCWlBtbGlLNmRWdXFGZ2xvUWhfSHZqVS0wYndtZzhUZGZDZlBiQlU0WDV2NUh5bkE1M1VtZURfZWRMaTR4SU4waWJHYXdFd9IBa0FVX3lxTFA3TVBheHVtYmo2X1ppZlgzNnhYZnc3eU9MOUVybUZlUGh0QXMwTklhWXktUm9Bcnh1dVdGcUZvZlVrWGQxTlNKX2xxVV9PRzBRSmR3QWdURDRZVEhja0loSWxWN2RtRmJxR1Y4?oc=5",
-      "site": "BBC",
-      "siteUrl": "https://www.bbc.com"
+      "related": 28
     },
     {
       "id": "FL-16971aea7af3",
