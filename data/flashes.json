@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T12:08:03.782Z",
+  "updated": "2026-09-20T12:25:57.238Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -87,6 +87,18 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
+      "id": "FL-855317e465ee",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 12:11:00 GMT",
+      "ts": 1789906260000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "零伤亡背后：茂县山体滑坡的“三道防线” - 川观新闻",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1VX1BhRFpCUnNjbnRwdmtvRzRpMlhVWjdEVDM3ZXRpQkdXYmxQSk1YeFR1UFRFVmlkaWRQX2M3bXkzbndDQ3JlSDhYMWh0UQ?oc=5",
+      "site": "川观新闻",
+      "siteUrl": "https://cbgc.scol.com.cn"
+    },
+    {
       "id": "FL-dcb49716ce15",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 10:33:25 GMT",
@@ -111,15 +123,15 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-37eaf8c9fd9a",
+      "id": "FL-4667ffafc419",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 09:26:29 GMT",
       "ts": 1789896389000,
       "scope": "dom",
       "type": "geo",
-      "title": "昭通彝良：跑赢泥石流的23分钟 - 新华网",
+      "title": "昭通彝良：跑赢泥石流的23分钟 - yn.xinhuanet.com",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVDRTZlI5SWtJZEJFajkyOW00dmxmTzI2ZjV3Y2lWODJra0dNUUljZTRXNFZyLWlqQ3pPZzJtM0RGVDc4SGhUWkxwOG5zZEdoTHgtTDMzVGZJOVY5OWN1d201Sktray0xdmdEOGVzSk12QjRteVhOa050ZXhLRlA0T0hn?oc=5",
-      "site": "新华网",
+      "site": "yn.xinhuanet.com",
       "siteUrl": "http://www.yn.xinhuanet.com"
     },
     {
@@ -243,18 +255,6 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
-      "id": "FL-00b29f9642a1",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 06:18:13 GMT",
-      "ts": 1789885093000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "村民打手电筒救起被困泥石流5人 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYWRQLVVJaHFzUGh2UE5JVGtSVU9QZmp2dHA2b1l5cmY3enVmV202dEF2MENGZk51dEFEcUlBRXFST1c0dy1TZ0NJQXRMQlh2Q0ZzbmM2NjdQNWlfWGRRODVPYVpVUlYzMGJTeTJZaUlubjVDaHlqRnhWdmU5TkpZZlVod0gxejJsM2llMV9XLU91THZieFI1TlB0MG9nLTF1aFBhTldlWW5iamxfSzRHODVfZFdQUEtZTDBBZ2NyVDI4UzdaR0VWWlNkVnl1Ui1RWVpDVXc5bGE?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "http://finance.sina.cn"
-    },
-    {
       "id": "FL-0d8989a9c398",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 05:27:12 GMT",
@@ -291,15 +291,15 @@
       "siteUrl": "https://i.ifeng.com"
     },
     {
-      "id": "FL-2fc189f1692b",
+      "id": "FL-136ead83eaff",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 03:42:34 GMT",
       "ts": 1789875754000,
       "scope": "dom",
       "type": "other",
-      "title": "四川盐边两天累计转移安置群众173人 - sc.cnr.cn",
+      "title": "四川盐边两天累计转移安置群众173人 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Pa3JRR2c0VnZTM28xc1dZRXJweUlyYU1YSm9iX2dUQVhNNlZkQkpBWUVrVTlUc2tSRldOazk2TmdoMnBQU1VLMmlsdzFMNWFqMV9YVkYxUlBxRnRkbGJ0V1E2R2JwYVYzUHhfQ3FB?oc=5",
-      "site": "sc.cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://sc.cnr.cn"
     },
     {
@@ -399,18 +399,6 @@
       "siteUrl": "https://pzh.scol.com.cn"
     },
     {
-      "id": "FL-83aeb073b87e",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 00:40:26 GMT",
-      "ts": 1789864826000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川盐边县突发泥石流已致5人失联 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wdFVVVDJVNjZhZ0xTSk5heGIzdjZtLWlCVUYxYmJ6T0pscGljWUZLSFJmMmg1LUdxV1RZWU5CM2RIX3ZaSWlOd1NadkF4QmtNQ0RQTEU4MEtkSnpTc01fTVNSc3ZiZnVSOVMzQjV3VGU5NmFxeG1BSA?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.cn"
-    },
-    {
       "id": "FL-14694e5635c7",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 00:24:20 GMT",
@@ -495,27 +483,27 @@
       "siteUrl": "https://gbcode.rthk.hk"
     },
     {
-      "id": "FL-4a61f726f18b",
+      "id": "FL-fb76370c2157",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 16:18:09 GMT",
       "ts": 1789834689000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川盐边县突发泥石流 2人遇难 尚有3人失联 - sc.cnr.cn",
+      "title": "四川盐边县突发泥石流 2人遇难 尚有3人失联 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WM3lHMmZGSE04bHRrNW92Y3p2bTY4a1BXWGJZRjJFQ1ZYeXVPeXZySWpHQ2pXMGJjVF85MW14Sk5KZ3lEV0lxMGxmdjVLaHA5QnVSN3QxTmVFcjFsYnBkQmV2aTluaWJRNGVlNEtBakc?oc=5",
-      "site": "sc.cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://sc.cnr.cn"
     },
     {
-      "id": "FL-749aed081520",
+      "id": "FL-7eef43295216",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 15:51:18 GMT",
       "ts": 1789833078000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1436人 - 央广网",
+      "title": "尼泊尔泥石流灾害遇难人数升至1436人 - news.cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aVE5oUFFzTTBXSEo4YjZTRHdyeWh3WGo2cy1fdlc0Q3dPQUdZaWR0Q1VMWjdGcG9mZnRWY28wRDQ1dmIyakNJcFlaWkpRbEtfY0t1cW5CcU5ON3ZGcXNBZUV4ZWN1bkR4?oc=5",
-      "site": "央广网",
+      "site": "news.cnr.cn",
       "siteUrl": "https://news.cnr.cn"
     },
     {
@@ -627,6 +615,18 @@
       "siteUrl": "https://m.voc.com.cn"
     },
     {
+      "id": "FL-e8ff86e24718",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 06:01:00 GMT",
+      "ts": 1789797660000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川盐边一村庄附近突发泥石流致5人失联，当地正在搜救 - 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82WHktdXVray1lNVhoOTVOZFBJT2M4TnpSM3hjcGlUenZJR3NocWR4VmZ6V19VcU8xODc1Rl82eEpDQlozSC1qVnVwWC11OGY0SkVNU2U3Wk42VkV1ZFh1N1B3?oc=5",
+      "site": "新京报",
+      "siteUrl": "https://m.bjnews.com.cn"
+    },
+    {
       "id": "FL-4f0e1aff96b2",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 03:27:00 GMT",
@@ -685,7 +685,7 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWmt5VGRaNWc0dGozSW1oTTZ5TG1NM3lPdWhoSzBUY1ZYUF9MLUMxU19oVTN4Rk51N3BqSkFaVWwxMXluNmtORlBEZE1BWmRjRGY1NUxzQlptTE5pczRQeThwaFZWTFdwUk83S3Q4alJzZnZFbzQxZXhIYk1TVzc3cFVhaw?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn",
-      "related": 27
+      "related": 28
     },
     {
       "id": "FL-e8a32a183e42",
