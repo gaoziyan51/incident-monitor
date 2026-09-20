@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T10:46:36.295Z",
+  "updated": "2026-09-20T10:54:06.848Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -77,14 +77,14 @@
     {
       "id": "FL-dcb49716ce15",
       "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 09:47:37 GMT",
-      "ts": 1789897657000,
+      "dateISO": "Sun, 20 Sep 2026 10:33:25 GMT",
+      "ts": 1789900405000,
       "scope": "intl",
       "type": "geo",
       "title": "巴布亚新几内亚发生6.2级地震，震源深度120千米 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXcDNhT2hIZGh6c0FaUnVfbE9RUGhpQTFYeXpYUzA4NnZiVWpGUmRnMVRSdDdyV3BKQjE5aGlZOFIxclhIMllsVXZjUE1WQjFHenZYOG5CdTFhY3MyMnc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sNE5vVnloeVN2OTEzcGV4cE1GQU9GS241MXUtUE15cUo5NjdSMWoxYS0yelNXN2c1RFpmLU9jQnk5S2hta2pOUWlhSGNvZmhSTFVDRUYtelc4bHRkWTBvWExpVENKb095NnV5Z2dDcFJxZw?oc=5",
       "site": "京报网",
-      "siteUrl": "https://news.bjd.com.cn"
+      "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
       "id": "FL-0544b80c2043",
@@ -387,18 +387,6 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-83aeb073b87e",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 00:40:26 GMT",
-      "ts": 1789864826000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川盐边县突发泥石流已致5人失联 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wdFVVVDJVNjZhZ0xTSk5heGIzdjZtLWlCVUYxYmJ6T0pscGljWUZLSFJmMmg1LUdxV1RZWU5CM2RIX3ZaSWlOd1NadkF4QmtNQ0RQTEU4MEtkSnpTc01fTVNSc3ZiZnVSOVMzQjV3VGU5NmFxeG1BSA?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.cn"
-    },
-    {
       "id": "FL-14694e5635c7",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 00:24:20 GMT",
@@ -627,6 +615,18 @@
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
+      "id": "FL-f19f97e1a4b9",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 06:11:43 GMT",
+      "ts": 1789798303000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川盐边县石家沟隧道附近突发泥石流 地灾专家已赶赴现场 - 华声在线",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNbDFNMkRhanVWOURCTDJlaWctbkNEbnBpRlEwV2ZKR3A0cmZnWnZOR29jY0cwRWlDVEVSbFVPN0k5RE5vYVduOFg1VXJsN2dMTDFTb0xMSERWWUtxc1RF?oc=5",
+      "site": "华声在线",
+      "siteUrl": "https://m.voc.com.cn"
+    },
+    {
       "id": "FL-a689dfa51633",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 03:05:22 GMT",
@@ -685,7 +685,7 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWmt5VGRaNWc0dGozSW1oTTZ5TG1NM3lPdWhoSzBUY1ZYUF9MLUMxU19oVTN4Rk51N3BqSkFaVWwxMXluNmtORlBEZE1BWmRjRGY1NUxzQlptTE5pczRQeThwaFZWTFdwUk83S3Q4alJzZnZFbzQxZXhIYk1TVzc3cFVhaw?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn",
-      "related": 29
+      "related": 28
     },
     {
       "id": "FL-16971aea7af3",
