@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T03:23:57.043Z",
+  "updated": "2026-09-20T03:38:31.146Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -13,7 +13,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
       "site": "rfi.fr",
       "siteUrl": "https://www.rfi.fr",
-      "related": 29
+      "related": 30
     },
     {
       "id": "FL-263418d50a2b",
@@ -40,14 +40,50 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-4eaaa535a1b8",
+      "id": "FL-20349e76752b",
+      "date": "2026-09-03",
+      "dateISO": "Thu, 03 Sep 2026 07:00:00 GMT",
+      "ts": 1788418800000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "台风“沙德尔”带来强降雨，福建全力抢险救援 - fj.people.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9idjB1WHk1RmxjaXpsRFVqTmtSUXdDbEcwVlp0d2k5TnNndmxBNXhhV0syZmdBVlVCQzZuZk56cmNGeWFCYnp5SkVxaFFvbGQ0TXoxalUyeFJtRHJfa2l2TVhBRXJVQWVfM0E?oc=5",
+      "site": "fj.people.com.cn",
+      "siteUrl": "http://fj.people.com.cn"
+    },
+    {
+      "id": "FL-5ae134236d05",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 03:26:58 GMT",
+      "ts": 1789874818000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "新疆阿克蘇和重慶榮昌同日地震 - 新唐人電視台",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PSW1wSU9xMHBDazFkd0k2UlhtUW9oWjFyWGhRbEhZdlRaYmRtWEM0ZkZueUpsbl8xQ0pwaDNyWl95MFBWZjdFLWtDeUk3LXM2UDJqeUtUZF9BQ0Z0WmFZddIBZkFVX3lxTE90V2pwaHIzX2pDOUFpd3R5NVlNX3BYRTgtZTB0MVFtdU5vZ09PcXZNZG1XV1lXcVVGa01tTlVrcXhmLUVpeWlQeXVITjhTTFUwSHBkV0pzak83SVFDQXgxRk1RTVRfUQ?oc=5",
+      "site": "新唐人電視台",
+      "siteUrl": "https://www.ntdtv.com"
+    },
+    {
+      "id": "FL-f048d787726b",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 03:14:30 GMT",
+      "ts": 1789874070000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "河北唐山发生2.4级地震，震源深度18公里 - 极目新闻",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiTG5CSFNqWHdJSmFkODZ4aGFoRUp0QUR0TUJlaVZLWFE1Tjk0bzNRSDVGRXdxbnU5ZHdfSlFjT3hVR2oxa2hFZUdWMDk1UjRsOHZpNHBtVEpNb2s?oc=5",
+      "site": "极目新闻",
+      "siteUrl": "https://www.ctdsb.net"
+    },
+    {
+      "id": "FL-834ff008aa8f",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 02:58:00 GMT",
       "ts": 1789873080000,
-      "scope": "intl",
+      "scope": "dom",
       "type": "geo",
-      "title": "朝鲜核试验场地震活动持续加剧 - 大纪元",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTcGtjYWNTNjhGajN6SmQwbzhyZ1dPVWkwaU11WVBONEQ3MUcxc3hHYUVGbVk4Ny1KcDNYd1BTVGFMSHhnQzVNSUdXSHhvNVRSM1lZalpzUExyYV9ZVTVZdA?oc=5",
+      "title": "朝鮮核試驗場地震活動持續加劇 - 大纪元",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTcGtjYWNTNjhGajN6SmQwbzhyZ1dPVWkwaU11WVBONEQ3MUcxc3hHYUVGbVk4Ny1KcDNYd1BTVGFMSHhnQzVNSUdXSHhvNVRSM1lZalpzUExyYV9ZVTVZdNIBZkFVX3lxTFB2bHpkdnpqNFpxZUdrVXoxOUwyREp4NUhRVVZxWGFOTUREY3lMNW55MUFyc1JCQWU0bFdiRFNQcC1tb1UzZlZMWjFYbHROQjZyOFFXSzBGbS0xU0xzMjlHLTNmQ0d2Zw?oc=5",
       "site": "大纪元",
       "siteUrl": "https://www.epochtimes.com"
     },
@@ -280,18 +316,6 @@
       "siteUrl": "https://news.hsw.cn"
     },
     {
-      "id": "FL-a67a1857ebeb",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 22:22:36 GMT",
-      "ts": 1789856556000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "新疆阿克苏地区沙雅县发生4.1级地震，震源深度21千米 - sohu.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNDNFUnk3ckMtUl96YmJyYXA3al9Za0xQRmFpN3lBMlNxOWNqTmpLT1BhNUtjdEZzMVFxZ1F4bE92ZjQyTUZjRklRUzdpbFFFZGxsTklvYkxoa2RlSGk2ODBpRVkyUGszNEdiN0RXMlFIV0pWQWNnTTQ0MzdBdnY5cXdKcUZuVGlSaXBUSg?oc=5",
-      "site": "sohu.com",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-06f2c145d86a",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 22:20:00 GMT",
@@ -460,18 +484,6 @@
       "siteUrl": "https://www.ctdsb.net"
     },
     {
-      "id": "FL-1f073a188b23",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 15:01:00 GMT",
-      "ts": 1789830060000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "离谱！暴雨时男篮被疏散到停车场顶层，还好全员平安无恙！ - news.qq.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zV1hqb2FYT21wNjBqQ2FxQ2lUVE51MF9uUk8xRlc3TE1yUDNaWUZKQWZnek9uaTF2ZlN2R1JGd2VkZnRFU3BINjVTU0JkcmJRdGxyczV3?oc=5",
-      "site": "news.qq.com",
-      "siteUrl": "https://news.qq.com"
-    },
-    {
       "id": "FL-34d1c87d1818",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 14:53:32 GMT",
@@ -506,18 +518,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xemRsaW1QcmlsQmFQUVY5bkZxeEczUTNiYlUzdm5JYTVOLUNObVZKR0hERUVJS1Jua2EwTDZDMy1qaXRZY2lZMGppTWNiZnRabi0tem4xeDhtd1draXFvRUFKTnhXUWRJ?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-8e6034388c7f",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 13:33:00 GMT",
-      "ts": 1789824780000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川攀枝花泥石流救援最新进展_推荐 - 大众网",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pd0RZYUZOckN1T21iUjU0Y2ZFLXF1T0VkelZxOFRlUnQ2eTIxTTItWWpUQkVoMWRFeUVOUjNkOG9BODNYR1dCZk1ybFhtT2pzcnhYbVpNQVp1a0VURWVQZ2Voem94ZWtwUkpB?oc=5",
-      "site": "大众网",
-      "siteUrl": "https://www.dzwww.com"
     },
     {
       "id": "FL-a3c2585b56e7",
