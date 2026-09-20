@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T05:31:57.039Z",
+  "updated": "2026-09-20T05:45:30.538Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -25,7 +25,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
-      "related": 29
+      "related": 27
     },
     {
       "id": "FL-263418d50a2b",
@@ -146,18 +146,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTcGtjYWNTNjhGajN6SmQwbzhyZ1dPVWkwaU11WVBONEQ3MUcxc3hHYUVGbVk4Ny1KcDNYd1BTVGFMSHhnQzVNSUdXSHhvNVRSM1lZalpzUExyYV9ZVTVZdNIBZkFVX3lxTFB2bHpkdnpqNFpxZUdrVXoxOUwyREp4NUhRVVZxWGFOTUREY3lMNW55MUFyc1JCQWU0bFdiRFNQcC1tb1UzZlZMWjFYbHROQjZyOFFXSzBGbS0xU0xzMjlHLTNmQ0d2Zw?oc=5",
       "site": "大纪元",
       "siteUrl": "https://www.epochtimes.com"
-    },
-    {
-      "id": "FL-72702da4fa5d",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 02:29:56 GMT",
-      "ts": 1789871396000,
-      "scope": "dom",
-      "type": "other",
-      "title": "今天夜间到明天白天，山东多地局部有小雨；中央气象台：今早到明天，河北、湖北、湖南、浙江、福建、四川、重庆、云南等地有短时强降水 - qlwb.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84eGFPa05MZmtxY0VIZ2lRLVBqalVyNGpqXzlnUk1JbVpYd1dPNUVKRkZSOGVHMUg2ZmFxMlhjNTlkV2NLUndYRFNvdGN2NkJNOE1Xc1NZcw?oc=5",
-      "site": "qlwb.com.cn",
-      "siteUrl": "https://www.qlwb.com.cn"
     },
     {
       "id": "FL-00b29f9642a1",
@@ -340,18 +328,6 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-66f04c172b5a",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 00:19:22 GMT",
-      "ts": 1789863562000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "（新华视界）墨西哥举行全国地震演习 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVVhZaXAybnFsYVNncWJUc01UUDRhblQySUFjVUJXWkRfd0dwYmtPRGRteDE3REJhMWtJTlFRcTVMT05aWHNtVzZ2MUhqOUF3TDMtcklVVWV3RWlGTXc4NEtkM29pM1Z3ejFzdWdndk1ickliN3lHZUNsVjJ1ZDRIX2NmRXBKdw?oc=5",
-      "site": "新华网",
-      "siteUrl": "http://www.xinhuanet.com"
-    },
-    {
       "id": "FL-03e1c60639f5",
       "date": "2026-09-06",
       "dateISO": "Sun, 06 Sep 2026 07:00:00 GMT",
@@ -400,6 +376,18 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
+      "id": "FL-21e596d93bf5",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 22:11:00 GMT",
+      "ts": 1789855860000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害遇难人数升至1436人 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBneTVvREZGLWpuUzVIVlg0WXQyV3NHLTRkSWhBNWFVTldVTE1iZW5PS3dUSFJQUTMtTVd2WXdyYXJYZVRkMmZmU1JVUFc2ckE4WGhGbjhkaWhFUmViNEtMVFVpVXJQTkdmbVNwYktsZkl0dmdNYzBiZw?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
+    },
+    {
       "id": "FL-ebeca6492794",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 22:01:30 GMT",
@@ -410,6 +398,18 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zSE93Qm9UU2FycXpiU2w4N0tFRm1QTGd3Z0I0SFZTYUJCT0VOTHYxaXZtdjNpVERZMW5pOWY5alprUUdjREMyVXA2eXpUWXZsSDdkVWxmWnVKbWxXZ0YtS0M0RjZxQzlP?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
+      "id": "FL-d7939e987363",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 21:52:23 GMT",
+      "ts": 1789854743000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "墨西哥举行全国地震演习 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NOWRJaFhtaEpDU3RyeV9QZmJlYmNlMDBSY1JXZHRDb1pJRmMwVkM5ZzhqUFZyR2JTSm1kaWNHdmRzekNMLTRNaGpidE9ELV9KaUJOR1NYQXlkMzBmc0JIUlNxR1VmdTVkaVVvU0FFekJGUkthS1owUkhWZ2M0UVE?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-49642f344c72",
@@ -676,16 +676,16 @@
       "siteUrl": "http://news.cnnb.com.cn"
     },
     {
-      "id": "FL-17b1d784301b",
+      "id": "FL-73e998d07cb3",
       "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 02:45:00 GMT",
-      "ts": 1789785900000,
+      "dateISO": "Sat, 19 Sep 2026 02:47:27 GMT",
+      "ts": 1789786047000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川攀枝花盐边县支六河村附近突发泥石流，有人员失联 - thepaper.cn",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jSDllZGF6bEhRRnpfbWtBVUgxUHhxSkdoUW9vemc2bkptM0pGM0xuQkxaWDNXUmlvRENiNDdnUXhLRkNtVVdsbDNUOHRQM1ZvRU96OEJPRmhLZUZDelBUNg?oc=5",
-      "site": "thepaper.cn",
-      "siteUrl": "https://www.thepaper.cn"
+      "title": "四川攀枝花盐边县支六河村附近突发泥石流 有人员失联 - 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTNEJLdjFUZGx2OXpOYV9Zd09Va21yVkZiYldST0ctcU12ak5kMTJUWDItTWVLUVR2MU9iSk1wZVVsOGFsa1NsdVp5WWhXWnl4ZnVVT1pndy1IZk4ya2QxOU9pLUU?oc=5",
+      "site": "新京报",
+      "siteUrl": "https://www.bjnews.com.cn"
     },
     {
       "id": "FL-26499ac85060",
