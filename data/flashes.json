@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T05:06:23.955Z",
+  "updated": "2026-09-20T05:20:08.101Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -25,7 +25,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
-      "related": 33
+      "related": 30
     },
     {
       "id": "FL-263418d50a2b",
@@ -88,15 +88,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-89339ee58015",
+      "id": "FL-bc2125d4da0e",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 03:47:28 GMT",
       "ts": 1789876048000,
       "scope": "dom",
       "type": "geo",
-      "title": "攀枝花盐边泥石流致2人遇难3人失联，消防投入搜救犬和无人机开展救援 - i.ifeng.com",
+      "title": "攀枝花盐边泥石流致2人遇难3人失联，消防投入搜救犬和无人机开展救援 - 凤凰网",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9lRmtkaDNzbUJzbXhuVjBuTFZjYnVwaUR3TTJPZ3p2eGdLRzVfeXB0WmRETXM2YjFzZ2NLUFk2d1dEQ2ViUXQ1VQ?oc=5",
-      "site": "i.ifeng.com",
+      "site": "凤凰网",
       "siteUrl": "https://i.ifeng.com"
     },
     {
@@ -160,15 +160,15 @@
       "siteUrl": "http://finance.sina.cn"
     },
     {
-      "id": "FL-d7ef30028095",
+      "id": "FL-7226dbb45053",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 02:12:00 GMT",
       "ts": 1789870320000,
       "scope": "dom",
       "type": "geo",
-      "title": "河北唐山市迁西县发生2.4级地震，震源深度18千米 - Jiemian.com",
+      "title": "河北唐山市迁西县发生2.4级地震，震源深度18千米 - jiemian.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nb2llRGpTa0pjWVN3eDNFREE0dGdPbDJYY0pMOWVDNXV0X3RtWmZGbEtDQjNvMXNYdEQ1OW5iYjR4VlNtRm02Z2ZKZk9iY0ZuX0dGZmlMWUc?oc=5",
-      "site": "Jiemian.com",
+      "site": "jiemian.com",
       "siteUrl": "https://www.jiemian.com"
     },
     {
@@ -268,15 +268,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-a8b01ab08690",
+      "id": "FL-ffb2f4bd8dbf",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 00:44:54 GMT",
       "ts": 1789865094000,
       "scope": "dom",
       "type": "geo",
-      "title": "盐边发生泥石流险情致人员失联，18户30位村民提前转移成功避险 - pzh.scol.com.cn",
+      "title": "盐边发生泥石流险情致人员失联，18户30位村民提前转移成功避险 - 四川在线",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51dzBPOVd0LWlteXh4VVVPZzM4LTZXcXZNcG1Ja1d3UWxCb3pnTEFaYkhfZ3J2Nk44LW4tb2RGSGJoanpnY2x4T1I2SF9TS3haTmEzWG9YTkFlc2c4VXc?oc=5",
-      "site": "pzh.scol.com.cn",
+      "site": "四川在线",
       "siteUrl": "https://pzh.scol.com.cn"
     },
     {
@@ -424,18 +424,6 @@
       "siteUrl": "https://gbcode.rthk.hk"
     },
     {
-      "id": "FL-6d9d554990bf",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 17:09:03 GMT",
-      "ts": 1789837743000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川攀枝花泥石流已致2人遇难，其余3名失联人员正在全力搜救中 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMWxwSzZpRms5WTJmanlwRGY4aVl0cnJwWklPUmNWZV9EYjRBWnhuZEdSQkhWX3Fza1JvWUlzRk9WZkdlSmZ1ZjRQNTBDMzFVOVNYQXBmcWVXUENYQVQ0QndzUmE4UFdhYWJBUFVMcEpNX3lXXzJxOEJaVlQ2bHd1V1pKc0U3RjllbEU5Y3NUMHJuY2tOZklKWQ?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.cn"
-    },
-    {
       "id": "FL-fb76370c2157",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 16:18:09 GMT",
@@ -448,15 +436,15 @@
       "siteUrl": "https://sc.cnr.cn"
     },
     {
-      "id": "FL-1c9ebc93aa9c",
+      "id": "FL-983442a8ab39",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 16:15:56 GMT",
       "ts": 1789834556000,
       "scope": "dom",
       "type": "geo",
-      "title": "盐边县发生泥石流险情，截至19日23时搜救到2名失联人员，已无生命体征 - pzh.scol.com.cn",
+      "title": "盐边县发生泥石流险情，截至19日23时搜救到2名失联人员，已无生命体征 - 四川在线",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPN1NOT1NVdnpGalZYclFmamhWWjJJcGNrNDg5cktOc2lWQi00UzVPSFctaHpGQm02ZWtxblh4dkowVkpWci02RWxDYWtleTJZWmRyS1pvcUNHVERqYXc?oc=5",
-      "site": "pzh.scol.com.cn",
+      "site": "四川在线",
       "siteUrl": "https://pzh.scol.com.cn"
     },
     {
@@ -506,6 +494,18 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PSGkyUUZsWTVzSmNCOGUycmoyS3JYdWFCZDhUVDNLZ1Y0cW96c0ZkSWlhb21na0ZhVzI2UU5iZXZVME1BdVRjbEhOSjRpWHpQZWpPYmtEUnFNZENZRUE?oc=5",
       "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
+      "id": "FL-34d1c87d1818",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 14:53:32 GMT",
+      "ts": 1789829612000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川盐边县格萨拉乡泥石流灾害救援工作正在有序推进 - chinanews.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XTE9yckxKbkJIMzJCcllWblQ2Y3kwaHg5MDdOTW53eWFZQ20tNlB2Z0RPU0RzMy05NXhPMmsyVEF0N2JINDkwTTUzUXNEWFlMbGp4R1pSai1Qd0puVW1ZZWlCaVU2dGtkU0ZtbmNJc3oyQmY4RXNubnpMcUlWZw?oc=5",
+      "site": "chinanews.com.cn",
+      "siteUrl": "https://www.chinanews.com.cn"
     },
     {
       "id": "FL-8058ec871ce0",
@@ -664,15 +664,15 @@
       "siteUrl": "https://www.thepaper.cn"
     },
     {
-      "id": "FL-719294f352e0",
+      "id": "FL-f0ee7768c9f2",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 02:49:00 GMT",
       "ts": 1789786140000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川盐边县突发泥石流，已致5人失联 - news.cnnb.com.cn",
+      "title": "四川盐边县突发泥石流，已致5人失联 - 中国宁波网",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13a2NJOUY4SlJhNTdNQ0F4aHRiRFlNMENCUF9JeUZwZDFTU3p2T1ZKemRLdVdibVdqRlUtYUwxSkpjSW90TjVsT1FsRUZiQnhKQzl4WW9MTU84cFlNOHJ1NldGYVlQZzlL?oc=5",
-      "site": "news.cnnb.com.cn",
+      "site": "中国宁波网",
       "siteUrl": "http://news.cnnb.com.cn"
     },
     {
