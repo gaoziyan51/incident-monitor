@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T12:25:57.238Z",
+  "updated": "2026-09-20T12:40:59.962Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -265,18 +265,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tcDVPS2RDaDVxeVFiT1FfdENveDAxX0JtUU9CZXJUcGh5WHpXWTI2TTRfSFpGeXc3ajg5YVFfTkVxTGRNVG9yaXdQb0RQLU0wSHdZdER0S0pwWDFiRk1vbDl4VTJyVUN3?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-ff674acaa3c7",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 05:18:57 GMT",
-      "ts": 1789881537000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "河北唐山市迁西县发生2.4级地震 震源深度18公里 - 中华网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fazdjaVFiZURIYU5JeVhGQnZCaXhuOTdhNENGTVRTclZxVkxGcmhpbGlBMFBDNTUxMnNiUU9hLWJUWHQzS1ppaENOejZmTTRPVVRlU2lhRHV5OE4tendxanNYUVU1RWMxWWtLWGVYTC0?oc=5",
-      "site": "中华网",
-      "siteUrl": "https://news.china.com"
     },
     {
       "id": "FL-bc2125d4da0e",
@@ -675,6 +663,18 @@
       "siteUrl": "https://news.sciencenet.cn"
     },
     {
+      "id": "FL-fb448a3e9124",
+      "date": "2026-07-11",
+      "dateISO": "Sat, 11 Jul 2026 07:00:00 GMT",
+      "ts": 1783753200000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "“巴威”已重新增强为“强台风级”！苏州应急响应提升为Ⅲ级 - suzhou.gov.cn",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb09jY09WOHlCWU5PWkhlMy1EZmFiMVIxcms2UGtCQlBfbTBJd3A0THlOOHprR2lTNTFyT003UDYyUmJtdkR5NVpjTEdIMzNWLUMtYWZtUWx1cWxndVZOdjZjOXdOc0Z2ejNxR2p5ZHg1WExkaGNXaVFJb0Q5dWx4bG1YNUZiTGFudms4?oc=5",
+      "site": "suzhou.gov.cn",
+      "siteUrl": "http://www.suzhou.gov.cn"
+    },
+    {
       "id": "FL-EV-f283a898090a",
       "date": "2026-09-07",
       "dateISO": "Mon, 07 Sep 2026 07:00:00 GMT",
@@ -685,7 +685,7 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWmt5VGRaNWc0dGozSW1oTTZ5TG1NM3lPdWhoSzBUY1ZYUF9MLUMxU19oVTN4Rk51N3BqSkFaVWwxMXluNmtORlBEZE1BWmRjRGY1NUxzQlptTE5pczRQeThwaFZWTFdwUk83S3Q4alJzZnZFbzQxZXhIYk1TVzc3cFVhaw?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn",
-      "related": 28
+      "related": 29
     },
     {
       "id": "FL-e8a32a183e42",
