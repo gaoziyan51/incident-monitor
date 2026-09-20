@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T21:31:12.731Z",
+  "updated": "2026-09-20T21:44:54.863Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -13,18 +13,6 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wdnBqX2d2T1NSQ092SjlCdW1fbVZfak4ycERLSWtGb2VxT21FdXRQSkd5bVFiVkxvZlFlaDZralk5b2FyemR4RlptclBhbDhrR1ZILTc4Zw?oc=5",
       "site": "UN News",
       "siteUrl": "https://news.un.org"
-    },
-    {
-      "id": "FL-6b6aed7ef41b",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 15:18:00 GMT",
-      "ts": 1789571880000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1409人遇难 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95a1k2V1dIMkllSFlhWHM3dkNITUp4NVVkZFpzNE1tSDVzQkJHSWlldjFhRnQya3pTeVFOZjNfdUNSSTJNOHc3SjB3aHlpaWtWcFhfeXpjel9wb1NWdTNCamRDM0VBVkJxV3VGeHBKU2podw?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
       "id": "FL-b2d13116c5ba",
@@ -98,6 +86,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44R3gxYndzaTFVdmhMRjlDRE1fWlNQcGc1dTQxRG85WC1YUTFPbHVmMGNSN1VJNnVDN2sxakFicFZla3NKWXUtTWI2Ymh0ODVQYzBNdUdKRUZ4VUQ5U0hGZW1NZXBHUdIBa0FVX3lxTE5BZmQwdGNTV1RjTHg0N3RHZmFjQmFzajZlZzdTOVFTSEtjWE8wUGY1LVlTeElnOFh1X191TW1kTlc1TzZXTkhOcjFXZ2tqWXZKOXgxbmo0S0I2eklUMk1NN3RLSDdmdy16S2pn?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-03bd2c968fe2",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 21:35:37 GMT",
+      "ts": 1789940137000,
+      "scope": "dom",
+      "type": "fire",
+      "title": "【视频】湿滑坡道不溜车？埃安i60零火线穿越惊艳全场 - 汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Ob3MyaXVJNUZQbXJ5ZHZEbld3cWtGb0dxM1g2OU9wbHozT3RjMEZrQkNReko3alVMaHo1MExLcHA4OU96TndfaGdva2h4cy1GcWRwMzJTWDBRaEk?oc=5",
+      "site": "汽车之家",
+      "siteUrl": "https://chejiahao.autohome.com.cn"
     },
     {
       "id": "FL-96f979608021",
@@ -496,16 +496,16 @@
       "siteUrl": "https://news.hsw.cn"
     },
     {
-      "id": "FL-49642f344c72",
+      "id": "FL-cbd15b7de552",
       "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 18:40:00 GMT",
-      "ts": 1789843200000,
+      "dateISO": "Sat, 19 Sep 2026 22:05:57 GMT",
+      "ts": 1789855557000,
       "scope": "dom",
-      "type": "geo",
-      "title": "四川盐边县泥石流增至最少2死 当局续搜寻失联人员 - gbcode.rthk.hk",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUFVwZGdLUG93VlI4MUFxbGxlSTlPNEExZUpJbXg0OGN1TUxIVnJCNWMteGxlSzMyU3YybXY2VEg1UE96aTNld0hSUTl1MXRncENNekxScnZTVEdVNEUzME1XLXFHbkNVZUI3a1FCdjlLcmVaY2ZFVVExZmZRMEVra0lMejBFZ2dVSzNuZ0kwNA?oc=5",
-      "site": "gbcode.rthk.hk",
-      "siteUrl": "https://gbcode.rthk.hk"
+      "type": "other",
+      "title": "中央气象台：预计今早到明天，河北、湖北、湖南、浙江、福建、四川、重庆、云南、广西、广东、台湾岛等地有短时强降水 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xQTBvQUR1NXVLQ0RLNlFfc1Q0ZHpsQmhFZHczOExTYjlTSUxQTlk4T1VCMTE1N2tnNm9MRkx2dkJkWk9HN0V6ZDBNb0t5SkFCVzlqZ1JCUTU0U3NsVjhiVlRLN1JpdDZNS1BmeHhEbXF6LVhtSTMyVw?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-fb76370c2157",
