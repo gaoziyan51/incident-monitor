@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T10:20:24.848Z",
+  "updated": "2026-09-20T10:36:42.261Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -123,18 +123,6 @@
       "siteUrl": "https://news.tongji.edu.cn"
     },
     {
-      "id": "FL-bd60f242c777",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 08:50:00 GMT",
-      "ts": 1789894200000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "记者走进四川盐边泥石流搜救核心现场：搜救仍在继续 - 中国网",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rTTNFRmsyU3hWcTJSSTJJN3ZBWERIX3gxcTQ5TksxenhkcFlFWDhzV0Q5Y3k3OTNqbGxBVHhtZE9mbjlqNk1lekg3ZmpacnA4WDFMdWxxVjhsMVVUNlg3bGRON0xaOGxmbnlVcTIwRQ?oc=5",
-      "site": "中国网",
-      "siteUrl": "http://www.china.com.cn"
-    },
-    {
       "id": "FL-0e239f30cfcd",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 08:46:17 GMT",
@@ -147,27 +135,39 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-dff2c984e8b0",
+      "id": "FL-9170068ef423",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 08:41:01 GMT",
+      "ts": 1789893661000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "记者走进四川盐边泥石流搜救核心现场：搜救仍在继续 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRTVvSjdfMDBrNzRWUlhtSWdLREhhSDhDZklwWFhKRmtWNmVIdkx6SDQzLWtZaE5mSlRDM2tMUlUteE5pbHBQdW52QVdZbjJHNUEzSEpuaW5fdGgxcGI1NlpMSktzdFRZWG9qd3JNNFA4aEtYUFp1eVRzRVBxVjNzSHZQZUprZkd4?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-3bed18830d49",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 08:38:21 GMT",
       "ts": 1789893501000,
       "scope": "dom",
       "type": "geo",
-      "title": "久治部署节前安全：汛期、假期、冬春风险“三重叠加” 紧盯水电站滑坡隐患 - 新浪财经",
+      "title": "久治部署节前安全：汛期、假期、冬春风险“三重叠加” 紧盯水电站滑坡隐患 - finance.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxOVzJFNTl6RkVGWGNlcVQ2UkJGYk9Ed25Mb1ZVM294ZnN3ZjFBWDJrbUNnSXpfaGpTNzhoeTdlaUxBZExyV3pIaG5VazdCWW1pVzZObG0weXRDWThuZXdZZGh3V3RYejd3ZWtkTVFnM0hxUVdPYlBZODEwd3lUZjdWMl90dmhuM3hwTHhhUE5YMFh3WWh4Y0djWU0wQUxNOTZYSjBTM1pZQXdGai1scmZJbkhqY2poLTJjN1B3cmNjTXRrM1JhUWtGWHozeHRaM0FKWkE4QXZ5MTFJcU42Sk1uT1g4clVlUlpIUEFWMFJhNTM0MEN4ZVFtbVVqcFQ5SDRMUFhzMUM1ZnFmZXA5OHRlVE0wWjVNak5VNkppd1VYNU9qeVF3TXh5ZjBIcnZTaHliR3k2UFdMN3ZfbnQ2aW5nS2UyZW9hQzBqLUw3V3FNRHk0dndkdlZ6MlhIcnpfekZkeDJfQkpHaTB2MmFjRGZTYXFBRWczdnRRVm8xcHVHdlZTY2VUUngxY1FyVnpwM0JiQmFhZWgwZGNQTUZreHNVMWwtQkRBVHpPOGY4LTB4YlZuRVFCQW12eUw2Ul9zS1djWjJyTDhOdlAteE1nUmRibTRXNkxrOUFEclNRY0JyeDB0UQ?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.cn",
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-d008345e87f1",
+      "id": "FL-d8a2637232d4",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 08:28:27 GMT",
       "ts": 1789892907000,
       "scope": "dom",
       "type": "geo",
-      "title": "长虹能源豪赌锂电，短债压顶遭遇业绩滑坡，毛利率承压与减值掣肘盈利 - 新浪财经",
+      "title": "长虹能源豪赌锂电，短债压顶遭遇业绩滑坡，毛利率承压与减值掣肘盈利 - finance.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSUtxS2VuY0JFTDFjVmw5dVRkNGtwdGdwel8xQTBMZmhiZjhCSmlaQ0o5MHFGRE13bEdiQUc2ZC0yb2N1Y3IyZWN5WWEtYmQtMC1LSnVDeDJfbDB6dzU0SEFIMVg2NWVBTkFpcDg4NHVpTDN4XzVoTFc4cUZ2YjdIcGZ4d1hzMXc?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.cn",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -195,15 +195,15 @@
       "siteUrl": "https://mediaselangor.com"
     },
     {
-      "id": "FL-a81d31e5daa5",
+      "id": "FL-457bef398e34",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 08:10:00 GMT",
       "ts": 1789891800000,
       "scope": "dom",
       "type": "geo",
-      "title": "新疆和田地区策勒县发生3.2级地震，震源深度10千米 - 新浪财经",
+      "title": "新疆和田地区策勒县发生3.2级地震，震源深度10千米 - finance.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX2NfU0lXX3lkRmMxdE4yUkdITjdxQkh1Ul9uSVFIVzlGTjNhRFhidWNpOTJZXzdsNlFXal96c3ZPaE1HLWFxS19TbUpIY1Y3ODdhMC1fek1sM0ZmcUNFdkl5TnRBMS1jVVhRWS0xQ2p4SkJwdFNvZnVFTFVhZUx2R0VsR0I5S1pfVDFRVTh2NWN3T1UzcjJiVFNWcEJFa2pG?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.cn",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -219,15 +219,15 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-00b29f9642a1",
+      "id": "FL-404022a5642d",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 06:18:13 GMT",
       "ts": 1789885093000,
       "scope": "dom",
       "type": "geo",
-      "title": "村民打手电筒救起被困泥石流5人 - 新浪财经",
+      "title": "村民打手电筒救起被困泥石流5人 - finance.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYWRQLVVJaHFzUGh2UE5JVGtSVU9QZmp2dHA2b1l5cmY3enVmV202dEF2MENGZk51dEFEcUlBRXFST1c0dy1TZ0NJQXRMQlh2Q0ZzbmM2NjdQNWlfWGRRODVPYVpVUlYzMGJTeTJZaUlubjVDaHlqRnhWdmU5TkpZZlVod0gxejJsM2llMV9XLU91THZieFI1TlB0MG9nLTF1aFBhTldlWW5iamxfSzRHODVfZFdQUEtZTDBBZ2NyVDI4UzdaR0VWWlNkVnl1Ui1RWVpDVXc5bGE?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.cn",
       "siteUrl": "http://finance.sina.cn"
     },
     {
@@ -243,15 +243,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-bc2125d4da0e",
+      "id": "FL-89339ee58015",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 03:47:28 GMT",
       "ts": 1789876048000,
       "scope": "dom",
       "type": "geo",
-      "title": "攀枝花盐边泥石流致2人遇难3人失联，消防投入搜救犬和无人机开展救援 - 凤凰网",
+      "title": "攀枝花盐边泥石流致2人遇难3人失联，消防投入搜救犬和无人机开展救援 - i.ifeng.com",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9lRmtkaDNzbUJzbXhuVjBuTFZjYnVwaUR3TTJPZ3p2eGdLRzVfeXB0WmRETXM2YjFzZ2NLUFk2d1dEQ2ViUXQ1VQ?oc=5",
-      "site": "凤凰网",
+      "site": "i.ifeng.com",
       "siteUrl": "https://i.ifeng.com"
     },
     {
@@ -303,15 +303,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-1e02fd583bc5",
+      "id": "FL-8122a9d91c6c",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 02:33:13 GMT",
       "ts": 1789871593000,
       "scope": "dom",
       "type": "geo",
-      "title": "凌晨突发泥石流，5名司机弃车逃生，当地村民打亮手电筒将他们救起 - 新浪财经",
+      "title": "凌晨突发泥石流，5名司机弃车逃生，当地村民打亮手电筒将他们救起 - finance.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOajBkVjExcW9sbmUyMnd2SzQwRktwa29LcHdEbzQ2M0VUajg2QU85WFVVNzlFbkRuVTdON2NHMEd4Y3VVQkhTWEFDOGZwRlFMVlJpVHYzRFp4S1R2bDBIQ1ZvdVZpT0JSTGdvUHo1OW1MVHlMOHFUZXhISUw3VkJORXZPbEZRLTBhdjFmME5vQ3NZY25pd3RLSGczQWNVWHVWWDlMbG1pZUNpbmVOR0RmdFpkMWU3Mm5GV0pPOHpDcDZZMTd4RVI0LWp5THE4QmxIQlBwOTNENjM?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.cn",
       "siteUrl": "http://finance.sina.cn"
     },
     {
@@ -327,15 +327,15 @@
       "siteUrl": "https://www.jiemian.com"
     },
     {
-      "id": "FL-6bbcb8ed929b",
+      "id": "FL-1e3738e7bd3c",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 01:23:13 GMT",
       "ts": 1789867393000,
       "scope": "dom",
       "type": "other",
-      "title": "中央气象台：预计今早到明天，河北、湖北、湖南、浙江、福建、四川、重庆、云南、广西、广东等地有短时强降水 - 新浪财经",
+      "title": "中央气象台：预计今早到明天，河北、湖北、湖南、浙江、福建、四川、重庆、云南、广西、广东等地有短时强降水 - finance.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPREJQNDZrYzdrSG15R3dLOFhtWnBqZTZxMUFSYjdkcTdkZFNsY182ZDNkcm1oMEZ6SzBTRkpna0k2d0MtQkYwNmNFRDlGMnBfM3Q3VVJMNEwtX0hGWXZueHhWUFA1LUFINzhRekRncWhyemdXeWZicV9JbFhURnlUcmljdWhGamYwUUFFU05TNW9PbEstMl95R0UwVExqb1YxY05lNHdxNkMxYnNvcnVYQlNqT3pIZVdvTHB6MGoxSldmaXNIWlRaQmpWanNrLU1JR3JHRHlaNA?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.cn",
       "siteUrl": "http://finance.sina.cn"
     },
     {
@@ -375,27 +375,27 @@
       "siteUrl": "https://pzh.scol.com.cn"
     },
     {
-      "id": "FL-3c244e2465de",
+      "id": "FL-1c2fbe8886a1",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 00:44:23 GMT",
       "ts": 1789865063000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川盐边县突发泥石流，已致5人失联 - 新浪财经",
+      "title": "四川盐边县突发泥石流，已致5人失联 - finance.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVnYtLWN6eExWZGlxRmNBcVJRdUdGRWFyVGZ0dVB5cEo3VTQtMVZDVzFUSm52d2JEcmFnMWZyWUZiSnVGeHI3cjhKQ0UyNTJSdnRVN3VTWGFmNHdjN3B1MHZFQVpVOXgxVEZ6SDZJNE9VQXdXRVdMTkIzRWZVY3FVZVZjYndFZXo5c1N0TE9lUDdjSjBjbnpsSw?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.cn",
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-83aeb073b87e",
+      "id": "FL-73cecaf3e323",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 00:40:26 GMT",
       "ts": 1789864826000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川盐边县突发泥石流已致5人失联 - 新浪财经",
+      "title": "四川盐边县突发泥石流已致5人失联 - finance.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wdFVVVDJVNjZhZ0xTSk5heGIzdjZtLWlCVUYxYmJ6T0pscGljWUZLSFJmMmg1LUdxV1RZWU5CM2RIX3ZaSWlOd1NadkF4QmtNQ0RQTEU4MEtkSnpTc01fTVNSc3ZiZnVSOVMzQjV3VGU5NmFxeG1BSA?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.cn",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -483,15 +483,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-a7b9385dc9bc",
+      "id": "FL-f887df5c661a",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 19:39:18 GMT",
       "ts": 1789846758000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川盐边县泥石流灾害：已致5人失联 搜救仍在紧张进行 - 新浪财经",
+      "title": "四川盐边县泥石流灾害：已致5人失联 搜救仍在紧张进行 - finance.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RbkdVN21PaDJzb3dmZG14WHBkNXZwX3psem9wb1hoWU9vSnVwcW9NZkR1Y19iQXVQQVNtMGNyVXpvTFpwQmI3REtsVzZwWk1SLUZFMVd5UzZhekE4SVg3RExhUktPR0VfN2dqV0ZNNFVHWWRMTVp5QQ?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.cn",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -555,28 +555,16 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-a96975409b54",
+      "id": "FL-1c5efb7dcf64",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 15:45:00 GMT",
       "ts": 1789832700000,
       "scope": "dom",
       "type": "geo",
-      "title": "新疆阿克苏地区库车市发生3.6级地震，震源深度20千米 - 新浪新闻_手机新浪网",
+      "title": "新疆阿克苏地区库车市发生3.6级地震，震源深度20千米 - news.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdWlyQkhwSVlYUEZNY0VUcDlGUy1mMHlUWVUxZm55RmpxV0lMZGh2SmZobm1CdnUxTXI4RndWSnVCT2Zuajk2RTZWOEgzUDJodnhqYlZ2TENFWkwwSXBJSTJoUnVycEhyOXMzN2hlS0R2MkpWOEFrR2VIREItLWtyU19LdGZ4QQ?oc=5",
-      "site": "新浪新闻_手机新浪网",
+      "site": "news.sina.cn",
       "siteUrl": "https://news.sina.cn"
-    },
-    {
-      "id": "FL-981e2ba35a3d",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 12:33:00 GMT",
-      "ts": 1789821180000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "盐边县突发泥石流，消防员用“无人机+搜救犬”开展搜救丨C视频 - cbgc.scol.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zV1lJTnhiM2pWLXdBSVllSjNBbEp4ZDYySUxUYWoyYVNsWDAwNmcyaHZjZWFSS3Q3eFlNWnVtZDlDWWdFcVNXLW5CNjBIdw?oc=5",
-      "site": "cbgc.scol.com.cn",
-      "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
       "id": "FL-008835b9873c",
@@ -627,16 +615,28 @@
       "siteUrl": "https://www.hi.chinanews.com.cn"
     },
     {
-      "id": "FL-21242eecef33",
+      "id": "FL-cb5cd44c15c0",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 07:21:00 GMT",
       "ts": 1789802460000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流被困11天的中国工人已回国，同去务工的邻居因上夜班躲过一劫 - cbgc.scol.com.cn",
+      "title": "尼泊尔泥石流被困11天的中国工人已回国，同去务工的邻居因上夜班躲过一劫 - 川观新闻",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBuQ09VWmRzaC0wdDdsaThKbDRwcWFvMDBoYVhwMWJXVlQ5dk9mbVlQT0t6NkJkN0NYREQ0bnZXQVlfX3E5T0FKOUhnMUw4QQ?oc=5",
-      "site": "cbgc.scol.com.cn",
+      "site": "川观新闻",
       "siteUrl": "https://cbgc.scol.com.cn"
+    },
+    {
+      "id": "FL-f19f97e1a4b9",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 06:11:43 GMT",
+      "ts": 1789798303000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川盐边县石家沟隧道附近突发泥石流 地灾专家已赶赴现场 - 华声在线",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNbDFNMkRhanVWOURCTDJlaWctbkNEbnBpRlEwV2ZKR3A0cmZnWnZOR29jY0cwRWlDVEVSbFVPN0k5RE5vYVduOFg1VXJsN2dMTDFTb0xMSERWWUtxc1RF?oc=5",
+      "site": "华声在线",
+      "siteUrl": "https://m.voc.com.cn"
     },
     {
       "id": "FL-a689dfa51633",
