@@ -1,19 +1,7 @@
 {
-  "updated": "2026-09-20T19:54:47.195Z",
+  "updated": "2026-09-20T20:06:10.447Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-c2a04813577b",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 17:06:14 GMT",
-      "ts": 1789578374000,
-      "scope": "dom",
-      "type": "collapse",
-      "title": "加沙：建筑坍塌致至少20人死亡，搜救工作仍在继续 - UN News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wdnBqX2d2T1NSQ092SjlCdW1fbVZfak4ycERLSWtGb2VxT21FdXRQSkd5bVFiVkxvZlFlaDZralk5b2FyemR4RlptclBhbDhrR1ZILTc4Zw?oc=5",
-      "site": "UN News",
-      "siteUrl": "https://news.un.org"
-    },
     {
       "id": "FL-b2d13116c5ba",
       "date": "2026-09-16",
@@ -37,7 +25,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
-      "related": 23
+      "related": 20
     },
     {
       "id": "FL-263418d50a2b",
@@ -88,16 +76,16 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-96f979608021",
+      "id": "FL-4a23ad06e7a5",
       "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 19:32:14 GMT",
-      "ts": 1789932734000,
+      "dateISO": "Sun, 20 Sep 2026 19:36:13 GMT",
+      "ts": 1789932973000,
       "scope": "dom",
       "type": "collapse",
-      "title": "苏丹东部5座矿井坍塌致10死21伤 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jc2hiTTdVVjdndGJsQWVGVjJJdDdGUklBOV9ZZWZYT3RsSVA1RHlGZ2RTMFM4RWZSYl9mZVRzSFdtOXNITF9yLTUzbnBPaHlPSnpvZWJpRlo3aklhMExxdFZzYw?oc=5",
-      "site": "东方财富",
-      "siteUrl": "https://emwap.eastmoney.com"
+      "title": "苏丹东部5座矿井坍塌致10死21伤 - finance.eastmoney.com",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HMXNmbXZFNjBxU1Q0OUNsdktyUkNmWUFLbjFPMWtyaXgxLUhWcUgyekVqYTFCY0VRMUdCZE93WkVvWmdhM2FwN1R6cnNVV2ROTDFxS3pjVkJHdnJzYjIyblZCTWUydw?oc=5",
+      "site": "finance.eastmoney.com",
+      "siteUrl": "https://finance.eastmoney.com"
     },
     {
       "id": "FL-9b22456855d2",
@@ -124,16 +112,16 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-931cd2b0805b",
+      "id": "FL-22825af67378",
       "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 16:39:33 GMT",
-      "ts": 1789922373000,
-      "scope": "dom",
+      "dateISO": "Sun, 20 Sep 2026 15:31:00 GMT",
+      "ts": 1789918260000,
+      "scope": "intl",
       "type": "geo",
-      "title": "总参谋部：积极应对中南部和南部地区的暴雨、洪水、山洪和山体滑坡。 - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUTNEdnItXzhlQ3hFTkd2NnJRS1Fja1FuMjZrazVKb1dsUl9ybEM2VDRJSHZCWkxkN016RnEzTEFWOUQtWURNR21xNnJvMi1MQjZRNndkQkxacjNCOUtFNXFkNEtYTllFWGhNQ01mbTg2NVRrcG9SbUZJS2VlaWR5UmNrNmtIaDdjYVBLbkMwVUlxZEVLYWdDQk11Yk11RlB0LWRibmI0eHdQN2FWN3lDTFZja3EwZFM0S1Y5dDVGWXl6a0E?oc=5",
-      "site": "Vietnam.vn",
-      "siteUrl": "https://www.vietnam.vn"
+      "title": "最新｜截至当地时间20日17时，尼泊尔泥石流灾害造成的遇难人数升至1451人 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkYktPemhKLWxyd1pfQ200SHBseTNXZk5BdkYtcFUxU0N3d2dQZFNXeGVobmpleURPRm90Q0JUSnVpaXVLMGVYdGUxSlhWSUg1YUE?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://www.sohu.com"
     },
     {
       "id": "FL-2ae82370baf8",
@@ -328,6 +316,18 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
+      "id": "FL-e8e807819b33",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 08:19:12 GMT",
+      "ts": 1789892352000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "日本奄美大岛附近海域发生5.0级地震 - xinwen.bjd.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZTWg2WlZ0NXBmS0NXbmFKT0k2QmI2bDhneTE5NjFjQ1pjd09TWXpYWnhPRHhhYjVJdnFqakZDNHFQNEZ3ZFM5aTRoeHZRWHh6MUx4bXBlTTdNN3FOVjdsanhZY0dPcF8zSXpSNzBKZnJSQQ?oc=5",
+      "site": "xinwen.bjd.com.cn",
+      "siteUrl": "https://xinwen.bjd.com.cn"
+    },
+    {
       "id": "FL-bf67202d129f",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 08:10:00 GMT",
@@ -398,18 +398,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUHU5MnNEd0xoRS1HTjNXMGtXWGkzSndkb1V2aVJlMGhNZVlyY3hPTm9NWmxlSnNjT25faTl6dGJ2dHpiSmpSMXlYWmlWNmppLXp4OEh2R3ppb1lFbXpUc0tJVDN2dGQ1akJ4UHFIWnR2VWlmTzQxU0N4WlFxelIwVXEyYzZoUmlh?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-6ebc80d4c749",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 02:45:00 GMT",
-      "ts": 1789872300000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "唐山发生地震 - QQ News",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MUUVKWGdqbmYyclFndDd0Xzd1YVRJVlJ5Nk1TN1lkNDcyekNhQndaY3RzNXQ4LWFkMkNsZldVUXkySjNKSDA3VFZKQVNoejNaQ1pqYTdn?oc=5",
-      "site": "QQ News",
-      "siteUrl": "https://news.qq.com"
     },
     {
       "id": "FL-31bfdff10c61",
@@ -542,6 +530,18 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WUEJZZElLOU55Qy1WTlFYSzN0cmNJMWpXYjhyc1lCZVRDbkdhZ3c0a3dmV0w3aWhaLXQyNzlCWFoxVmlYYXBBRjZoM1pqeDNFYk1NazlSTnRoQ3Q1WjdUTzRyWUtWbFpiaWhmOXhOMmM1Rlc4aGs4?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-34d1c87d1818",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 14:53:32 GMT",
+      "ts": 1789829612000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川盐边县格萨拉乡泥石流灾害救援工作正在有序推进 - chinanews.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XTE9yckxKbkJIMzJCcllWblQ2Y3kwaHg5MDdOTW53eWFZQ20tNlB2Z0RPU0RzMy05NXhPMmsyVEF0N2JINDkwTTUzUXNEWFlMbGp4R1pSai1Qd0puVW1ZZWlCaVU2dGtkU0ZtbmNJc3oyQmY4RXNubnpMcUlWZw?oc=5",
+      "site": "chinanews.com.cn",
+      "siteUrl": "https://www.chinanews.com.cn"
     },
     {
       "id": "FL-de86dc0b1938",
@@ -722,7 +722,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
       "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn",
-      "related": 5
+      "related": 6
     }
   ]
 }
