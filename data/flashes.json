@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T22:45:39.865Z",
+  "updated": "2026-09-20T22:54:26.063Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -37,7 +37,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
-      "related": 23
+      "related": 24
     },
     {
       "id": "FL-263418d50a2b",
@@ -114,14 +114,14 @@
     {
       "id": "FL-96f979608021",
       "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 19:32:14 GMT",
-      "ts": 1789932734000,
+      "dateISO": "Sun, 20 Sep 2026 21:05:35 GMT",
+      "ts": 1789938335000,
       "scope": "dom",
       "type": "collapse",
       "title": "苏丹东部5座矿井坍塌致10死21伤 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jc2hiTTdVVjdndGJsQWVGVjJJdDdGUklBOV9ZZWZYT3RsSVA1RHlGZ2RTMFM4RWZSYl9mZVRzSFdtOXNITF9yLTUzbnBPaHlPSnpvZWJpRlo3aklhMExxdFZzYw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HMXNmbXZFNjBxU1Q0OUNsdktyUkNmWUFLbjFPMWtyaXgxLUhWcUgyekVqYTFCY0VRMUdCZE93WkVvWmdhM2FwN1R6cnNVV2ROTDFxS3pjVkJHdnJzYjIyblZCTWUydw?oc=5",
       "site": "东方财富",
-      "siteUrl": "https://emwap.eastmoney.com"
+      "siteUrl": "https://finance.eastmoney.com"
     },
     {
       "id": "FL-9b22456855d2",
@@ -460,6 +460,18 @@
       "siteUrl": "https://www.guandian.cn"
     },
     {
+      "id": "FL-26f2e204b2d9",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 00:07:00 GMT",
+      "ts": 1789862820000,
+      "scope": "dom",
+      "type": "other",
+      "title": "中央气象台：预计今早到明天，河北、湖北、湖南、浙江等地有短时强降水 - 海报新闻",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10ZmEyeWh4M2dNTHIxcWlqRjZJMEtUWV9FblhGU3V2SU9xa0I0Sm9RQmd0LUlqQkZSTzFXQms4ZlMwSnV6Ul9VNE1Yc2xGOUJt?oc=5",
+      "site": "海报新闻",
+      "siteUrl": "https://hb.dzwww.com"
+    },
+    {
       "id": "FL-03e1c60639f5",
       "date": "2026-09-06",
       "dateISO": "Sun, 06 Sep 2026 07:00:00 GMT",
@@ -482,18 +494,6 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fTTVPeGRHbWRhQ19wRS1IMGlibFV5V1lNS0hWR09HZEhGWGN5aThzYk9zbTdBeDBxUm9kdUJMWnhsczl1aGJMN1dUZ2ZfYVdpMDZWSTNWczhJTTRMN2FJ?oc=5",
       "site": "华商网",
       "siteUrl": "https://news.hsw.cn"
-    },
-    {
-      "id": "FL-cbd15b7de552",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 22:05:57 GMT",
-      "ts": 1789855557000,
-      "scope": "dom",
-      "type": "other",
-      "title": "中央气象台：预计今早到明天，河北、湖北、湖南、浙江、福建、四川、重庆、云南、广西、广东、台湾岛等地有短时强降水 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xQTBvQUR1NXVLQ0RLNlFfc1Q0ZHpsQmhFZHczOExTYjlTSUxQTlk4T1VCMTE1N2tnNm9MRkx2dkJkWk9HN0V6ZDBNb0t5SkFCVzlqZ1JCUTU0U3NsVjhiVlRLN1JpdDZNS1BmeHhEbXF6LVhtSTMyVw?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-fb76370c2157",
