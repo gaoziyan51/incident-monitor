@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-20T20:20:07.700Z",
+  "updated": "2026-09-20T20:31:50.587Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-6c37d6eedf5e",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 17:06:14 GMT",
+      "ts": 1789578374000,
+      "scope": "dom",
+      "type": "collapse",
+      "title": "加沙：建筑坍塌致至少20人死亡，搜救工作仍在继续 - news.un.org",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wdnBqX2d2T1NSQ092SjlCdW1fbVZfak4ycERLSWtGb2VxT21FdXRQSkd5bVFiVkxvZlFlaDZralk5b2FyemR4RlptclBhbDhrR1ZILTc4Zw?oc=5",
+      "site": "news.un.org",
+      "siteUrl": "https://news.un.org"
+    },
     {
       "id": "FL-b2d13116c5ba",
       "date": "2026-09-16",
@@ -21,11 +33,11 @@
       "ts": 1789488932000,
       "scope": "dom",
       "type": "geo",
-      "title": "尼泊尔泥石流： 灾害到底发生在什么时间？谁上传了吉隆口岸的视频？ - RFI",
+      "title": "尼泊尔泥石流： 灾害到底发生在什么时间？谁上传了吉隆口岸的视频？ - rfi.fr",
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
-      "site": "RFI",
+      "site": "rfi.fr",
       "siteUrl": "https://www.rfi.fr",
-      "related": 21
+      "related": 23
     },
     {
       "id": "FL-263418d50a2b",
@@ -148,27 +160,27 @@
       "siteUrl": "https://www.cnr.cn"
     },
     {
-      "id": "FL-97f4ac112dc7",
+      "id": "FL-fbcf98053530",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 15:09:39 GMT",
       "ts": 1789916979000,
       "scope": "intl",
       "type": "geo",
-      "title": "泰国多地强降雨致山体滑坡 - 联合早报",
+      "title": "泰国多地强降雨致山体滑坡 - zaobao.com.sg",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11Y3ZqRmJRaHRsdG9jTTNna0NNQkRHWmJNRHFVZTVrNHROckdsWWxVT1A1cnZOby1PYVdKQk40c3J0aWZBSVhvVThyMHA1bzRiWmVvQTRUUUxvMDI3bmQ0eXlBLVNjZE0?oc=5",
-      "site": "联合早报",
+      "site": "zaobao.com.sg",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
-      "id": "FL-ae5560ac146a",
+      "id": "FL-0dba1fa16032",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 14:21:00 GMT",
       "ts": 1789914060000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1451人遇难 - finance.sina.com.cn",
+      "title": "尼泊尔泥石流灾害已致1451人遇难 - 新浪财经_金融信息服务商",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xUFlZVUotNXVVdGU3Vi1MOTRyWE5RT1hubklfZ3dEMUlYY1NVNjdUM2VNblRHOTU3Q2piRlM5NWJpTG1pLVJrQzZva2o1ZXRvQWVINVdScE5McGZuWWNYU3hDSVNaUE1mX0M1T3lPZDBNVWk0V1NnSA?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "新浪财经_金融信息服务商",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -208,15 +220,15 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-b88e3048f617",
+      "id": "FL-b7c890035807",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 12:11:17 GMT",
       "ts": 1789906277000,
       "scope": "dom",
       "type": "geo",
-      "title": "零伤亡背后：茂县山体滑坡的“三道防线” - 四川新闻",
+      "title": "零伤亡背后：茂县山体滑坡的“三道防线” - sichuan.scol.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ueXllbkRvUjUzZkZuRkt5SVNFbEk2SWpnRGJDclVhdFNoLXlQMm14cUNBdVRGcnZBQmhyTHg2QnNVY2RvOHpUVkZhOHp1NFFRS2FzU1IzS2dBc0pSazNLbV9zRQ?oc=5",
-      "site": "四川新闻",
+      "site": "sichuan.scol.com.cn",
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
@@ -244,15 +256,15 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-d9761e2a73e6",
+      "id": "FL-328c1a0a7f34",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 09:42:00 GMT",
       "ts": 1789897320000,
       "scope": "intl",
       "type": "geo",
-      "title": "巴布亚新几内亚发生6.2级地震，震源深度120千米 - finance.sina.com.cn",
+      "title": "巴布亚新几内亚发生6.2级地震，震源深度120千米 - 新浪财经_金融信息服务商",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTMjMxaXpBWEhiaGMyM21OMHJQdGFfQS1CbHdTaXY4MGFZVi1jMExySlZ0MVBaQ0o3V2xSczl6R0MxWVlhbm14X20xTlNNOGNsVU5yVjFibUpZYjlQT2toRWktMlhkX1JBSW0wR1JpeUhDY1lqLXA1VA?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "新浪财经_金融信息服务商",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -280,15 +292,15 @@
       "siteUrl": "https://m.cls.cn"
     },
     {
-      "id": "FL-024e35eff45d",
+      "id": "FL-5ea46c40eda3",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 09:16:52 GMT",
       "ts": 1789895812000,
       "scope": "dom",
       "type": "geo",
-      "title": "土木工程学院周颖团队在《自然·通讯》发表建筑结构地震动力响应智能预测研究成果并入选编辑精选 - news.tongji.edu.cn",
+      "title": "土木工程学院周颖团队在《自然·通讯》发表建筑结构地震动力响应智能预测研究成果并入选编辑精选 - 同济大学新闻网",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80akxmdTdSXzRVUi1fUmlGYWo2bktiMXlMZ2VjaGZ3alhJaFNqTExoM2VtQzdIYkFreU9EVHR4cWdCa2pIWVJDZGRBVDZvNWF5MkdmM000bHNBZw?oc=5",
-      "site": "news.tongji.edu.cn",
+      "site": "同济大学新闻网",
       "siteUrl": "https://news.tongji.edu.cn"
     },
     {
@@ -316,27 +328,27 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-8a362303ba1d",
+      "id": "FL-c22d238af330",
       "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 08:21:00 GMT",
-      "ts": 1789892460000,
+      "dateISO": "Sun, 20 Sep 2026 08:28:27 GMT",
+      "ts": 1789892907000,
       "scope": "dom",
       "type": "geo",
-      "title": "新疆和田地区策勒县发生3.2级地震，震源深度10千米 - finance.sina.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1weThEbDYzQVNYU3N0S1hSZkxVb3VrQjZuVWUzY3d4eUpkVTJ4Ni1TY3Awbktfb2t1LUdFSVZPRU1hNXdkYjFzZjJDSzhocnlkVmtITlZKVko2WFJ5b3lSaThPMXg3VjFueVpFaWhfOVFUVkhyNUNOdw?oc=5",
-      "site": "finance.sina.com.cn",
-      "siteUrl": "https://finance.sina.com.cn"
+      "title": "长虹能源豪赌锂电，短债压顶遭遇业绩滑坡，毛利率承压与减值掣肘盈利 - 新浪财经_金融信息服务商",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSUtxS2VuY0JFTDFjVmw5dVRkNGtwdGdwel8xQTBMZmhiZjhCSmlaQ0o5MHFGRE13bEdiQUc2ZC0yb2N1Y3IyZWN5WWEtYmQtMC1LSnVDeDJfbDB6dzU0SEFIMVg2NWVBTkFpcDg4NHVpTDN4XzVoTFc4cUZ2YjdIcGZ4d1hzMXc?oc=5",
+      "site": "新浪财经_金融信息服务商",
+      "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-457bef398e34",
+      "id": "FL-bf67202d129f",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 08:10:00 GMT",
       "ts": 1789891800000,
       "scope": "dom",
       "type": "geo",
-      "title": "新疆和田地区策勒县发生3.2级地震，震源深度10千米 - finance.sina.cn",
+      "title": "新疆和田地区策勒县发生3.2级地震，震源深度10千米 - 新浪财经_金融信息服务商",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX2NfU0lXX3lkRmMxdE4yUkdITjdxQkh1Ul9uSVFIVzlGTjNhRFhidWNpOTJZXzdsNlFXal96c3ZPaE1HLWFxS19TbUpIY1Y3ODdhMC1fek1sM0ZmcUNFdkl5TnRBMS1jVVhRWS0xQ2p4SkJwdFNvZnVFTFVhZUx2R0VsR0I5S1pfVDFRVTh2NWN3T1UzcjJiVFNWcEJFa2pG?oc=5",
-      "site": "finance.sina.cn",
+      "site": "新浪财经_金融信息服务商",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -364,15 +376,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-404022a5642d",
+      "id": "FL-425799cc39c0",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 03:53:13 GMT",
       "ts": 1789876393000,
       "scope": "dom",
       "type": "geo",
-      "title": "村民打手电筒救起被困泥石流5人 - finance.sina.cn",
+      "title": "村民打手电筒救起被困泥石流5人 - 新浪财经_金融信息服务商",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVERBWVA2RktyR1RDZlFQWUtSYlJqN0NmdzBBZTIzNFVzeUQ0aU5sc0FVZXpHRnBWUHp1VTlhemo1TjQ3V3E0MS1xejdQdWxVakd2NmI1Mk5XZm1iUjAyRHZKdWhpTV8xeUxPOWlRcm9fV2tod3RZMW5BUlBIVnpCb2dveUp2UkVZQl9SX09VTEowQ0VvbXI2ZVJwb3BkNXZ0ekQxQkJ4c1NvNFp4dmd3czVuN0lnY055UjBUc0tzNXVDdm1pUXp6SG5FZXRJZ3JZaFB1cUpXOEI?oc=5",
-      "site": "finance.sina.cn",
+      "site": "新浪财经_金融信息服务商",
       "siteUrl": "http://finance.sina.cn"
     },
     {
@@ -508,15 +520,15 @@
       "siteUrl": "http://news.china.com.cn"
     },
     {
-      "id": "FL-749aed081520",
+      "id": "FL-7eef43295216",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 15:51:18 GMT",
       "ts": 1789833078000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1436人 - 央广网",
+      "title": "尼泊尔泥石流灾害遇难人数升至1436人 - news.cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aVE5oUFFzTTBXSEo4YjZTRHdyeWh3WGo2cy1fdlc0Q3dPQUdZaWR0Q1VMWjdGcG9mZnRWY28wRDQ1dmIyakNJcFlaWkpRbEtfY0t1cW5CcU5ON3ZGcXNBZUV4ZWN1bkR4?oc=5",
-      "site": "央广网",
+      "site": "news.cnr.cn",
       "siteUrl": "https://news.cnr.cn"
     },
     {
@@ -530,18 +542,6 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WUEJZZElLOU55Qy1WTlFYSzN0cmNJMWpXYjhyc1lCZVRDbkdhZ3c0a3dmV0w3aWhaLXQyNzlCWFoxVmlYYXBBRjZoM1pqeDNFYk1NazlSTnRoQ3Q1WjdUTzRyWUtWbFpiaWhmOXhOMmM1Rlc4aGs4?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-34d1c87d1818",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 14:53:32 GMT",
-      "ts": 1789829612000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川盐边县格萨拉乡泥石流灾害救援工作正在有序推进 - chinanews.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XTE9yckxKbkJIMzJCcllWblQ2Y3kwaHg5MDdOTW53eWFZQ20tNlB2Z0RPU0RzMy05NXhPMmsyVEF0N2JINDkwTTUzUXNEWFlMbGp4R1pSai1Qd0puVW1ZZWlCaVU2dGtkU0ZtbmNJc3oyQmY4RXNubnpMcUlWZw?oc=5",
-      "site": "chinanews.com.cn",
-      "siteUrl": "https://www.chinanews.com.cn"
     },
     {
       "id": "FL-008835b9873c",
@@ -700,15 +700,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-16971aea7af3",
+      "id": "FL-e0c839b1d53e",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 08:46:29 GMT",
       "ts": 1789721189000,
       "scope": "dom",
       "type": "geo",
-      "title": "在茂县石大关山体滑坡中，他最早“吹哨”预警并协助转移群众，被应急管理部点名表扬丨C视频 - 四川新闻",
+      "title": "在茂县石大关山体滑坡中，他最早“吹哨”预警并协助转移群众，被应急管理部点名表扬丨C视频 - sichuan.scol.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zTXBPYzEwbzg4cjgxNzlELVpIdXF3Z2VlVlVyUUw2ZmdSYTVrUHdJbC1nTkhUNlNwTU1oclFMbTFEanJ0SkpubFlHNmtQS3QtOVN3WWVwVU9RLVdXSHlCSFYzWQ?oc=5",
-      "site": "四川新闻",
+      "site": "sichuan.scol.com.cn",
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
@@ -722,7 +722,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
       "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn",
-      "related": 7
+      "related": 5
     }
   ]
 }
