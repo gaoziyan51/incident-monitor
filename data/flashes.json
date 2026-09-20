@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T16:46:33.442Z",
+  "updated": "2026-09-20T16:55:25.921Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,15 +15,15 @@
       "siteUrl": "https://news.un.org"
     },
     {
-      "id": "FL-7a9df62960ac",
+      "id": "FL-b2d13116c5ba",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 07:15:29 GMT",
       "ts": 1789542929000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川茂县发生山体滑坡 161名群众提前转移无伤亡 - news.cn",
+      "title": "四川茂县发生山体滑坡 161名群众提前转移无伤亡 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xUmN1eHZYWThIN2IwejZLemdfc0QySHhhUmd1RnB6YmlqekI2bVJOT0RRTVZMODJnUmRicjJVMzhkRzFRWnU4VXdUT0JKdXhRUk1DTWFRTjNmc3VnR2pRU3NzQXpMSF91SjU3NGhGLXl6a2ltS0VRcVJrWkI4TkU?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -52,15 +52,15 @@
       "siteUrl": "https://www.mfa.gov.cn"
     },
     {
-      "id": "FL-549cf98ba21f",
+      "id": "FL-ca47c5e94270",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 03:28:01 GMT",
       "ts": 1789615681000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流已致1403人死亡 6150人失联 - news.cn",
+      "title": "尼泊尔泥石流已致1403人死亡 6150人失联 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xTno1YTNKekRJNTI2am9rVXAwUjhHNGI4Rk9BZF9BRUhPZU1ZRG41WS0yVmUyaW1jU09IMmFZN1NPWUxXWXZzZ21aMFlEQWMzSnozQ0xQbGV6aUlXUmpzNE5VdW1tZ08xWDROZXBCM2tUc1QwWnJr?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -100,15 +100,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-6be1027fe7b3",
+      "id": "FL-c32a67addca6",
       "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 16:45:07 GMT",
-      "ts": 1789922707000,
+      "dateISO": "Sun, 20 Sep 2026 16:49:14 GMT",
+      "ts": 1789922954000,
       "scope": "intl",
       "type": "geo",
-      "title": "请停留三秒，为他们祈福️尼泊尔泥石流灾害遇难人数已升至1451人#尼泊尔泥石流 - sohu.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV0pqUVdoNWxTZ183MDJTWkdtZWF1Yk80WmpNeVE1SUxoelYyNFpuUWRsdWtNMUQ0d25uUVh3XzEtLUR4TThmSTNlZkdYUF9vTTVCMC1MZW9EblJ1SXZkLVFjeV9wY2ZvTXFULVFpeXF2T2pUNElpOFlXLWxQaDhuWVVEd1cwYVh6UmtwYg?oc=5",
-      "site": "sohu.com",
+      "title": "#其它# 请停留三秒，为他们祈福️尼泊尔泥石流灾害遇难人数已升至1451人#尼泊尔泥石流 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10Zi1Rd2Y0U2oxX1RWaGRWUTBodzlWQzR6Y1NDRmZiVl9rS0hmZzJ2SEJwQVdRcmlvcDhlWU44M1dqUS1Ic3J3LUZaSXFXQmJPOVlucUc0b1lHQWxMN2p2QWZNTGs2bE5qX2k0?oc=5",
+      "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -122,18 +122,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WQ0syYVBnR2wtNWVqa2xGUXpxR1NyNVItR2Y3WTRmd1FsOFpST3c4ajZMOTNjUWZKVUFYRlZOSzZRNDZiVXYxdTJMbHk0ZlVOZmk5QXl2RktFWnlyRXJUZ1RzelJjVkIz?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-11fb917c8127",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 15:13:27 GMT",
-      "ts": 1789917207000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1451人遇难 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XLXdjWmM5VWFGd1pjWm9UeXJpaW5kaXNHTFdKOEZUeng4R3BlWUdvaGhSSWxZdHc4cnd5YTlTeWhCazRUM3hTeE4xcHROb0NqU1p3REtIdk1NLVhLb3FNaldsZkxyT05IeVlaSTBRYU9SdWlNVXc?oc=5",
-      "site": "央广网",
-      "siteUrl": "https://www.cnr.cn"
     },
     {
       "id": "FL-97f4ac112dc7",
@@ -268,27 +256,27 @@
       "siteUrl": "https://news.tongji.edu.cn"
     },
     {
-      "id": "FL-d147e6cd4b49",
+      "id": "FL-0e239f30cfcd",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 08:46:17 GMT",
       "ts": 1789893977000,
       "scope": "dom",
       "type": "geo",
-      "title": "记者走进四川盐边泥石流搜救核心现场：搜救仍在继续 - news.cn",
+      "title": "记者走进四川盐边泥石流搜救核心现场：搜救仍在继续 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOTVXODRLQldfeUhEdENZS3NKREVLU0IwWTZ5UFFEanNITi02Z2dQXzhMV1JKTGhuak55OFlhRmw1TktJcVNjanFJMk9pUENJNTlvUTRCalN3M2FBam1OT0dyUmV5cnVNMmNVVVFwUlo0YkFmWTMxTV9HWGZDTENxbC1jSQ?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-cc02c3c80b00",
+      "id": "FL-9170068ef423",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 08:42:33 GMT",
       "ts": 1789893753000,
       "scope": "dom",
       "type": "geo",
-      "title": "记者走进四川盐边泥石流搜救核心现场：搜救仍在继续 - sohu.com",
+      "title": "记者走进四川盐边泥石流搜救核心现场：搜救仍在继续 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOWNpa1BoTmR6UDF3X00zTTRTZ1dQSjBFZXNDRzlMTWFpZk1NeG5WYXlEOHlGaEx4MTNnRndJUHNSM09qSXQxZE5NQkYxOXM3eHlrb2pueVJtNF96TGNqenNmUWZRU0UwSjhUU2NJc3VVLThOVmN6dE9FQUhuNXdva3BNNmZ2ek1q?oc=5",
-      "site": "sohu.com",
+      "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -316,15 +304,15 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-fade7ba54086",
+      "id": "FL-6cffd8000a14",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 08:07:00 GMT",
       "ts": 1789891620000,
       "scope": "intl",
       "type": "geo",
-      "title": "日本奄美大岛附近海域发生5.0级地震 - sohu.com",
+      "title": "日本奄美大岛附近海域发生5.0级地震 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPazQ4dmZWVVlKTUJpRU0xTUF3dnU5Ui1vMVJuc0Nta3N3R3hSekloS3NzOEN1NWdsLUZCTHNUU1R3NkpjbkFMWDNTX3VpNVRSQm5hR2VlSFJQYmRJZzVjb3dFZjVFQWdYbEthOHV4SjM2aFlndTI1aTdMWjN4NmRrMTZaLXVzVV8y?oc=5",
-      "site": "sohu.com",
+      "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -376,15 +364,15 @@
       "siteUrl": "https://sc.cnr.cn"
     },
     {
-      "id": "FL-8176a580ea87",
+      "id": "FL-921b6e80e956",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 03:42:00 GMT",
       "ts": 1789875720000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川攀枝花盐边发生泥石流灾害 两天累计转移安置群众173人 - sohu.com",
+      "title": "四川攀枝花盐边发生泥石流灾害 两天累计转移安置群众173人 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSmFCcWxQUlF5aEV0eVBDc1NKQkdzY0NNQkZJMDhMRHRMNDMwS3VrMV9fYUpnR2xVYmFoNmU1N3IxbkVONkVPdnp0WDhtWU1MSEtGVTNWcGhqNTM5TW9UeEZHT0UxUXNra1VrREhHd3FBaDFGcVNqMnJOY05Pa2lTTnBQRTdjU1J4anpV?oc=5",
-      "site": "sohu.com",
+      "site": "Sohu",
       "siteUrl": "https://www.sohu.com"
     },
     {
@@ -424,15 +412,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-ffb2f4bd8dbf",
+      "id": "FL-a8b01ab08690",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 00:44:54 GMT",
       "ts": 1789865094000,
       "scope": "dom",
       "type": "geo",
-      "title": "盐边发生泥石流险情致人员失联，18户30位村民提前转移成功避险 - 四川在线",
+      "title": "盐边发生泥石流险情致人员失联，18户30位村民提前转移成功避险 - pzh.scol.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51dzBPOVd0LWlteXh4VVVPZzM4LTZXcXZNcG1Ja1d3UWxCb3pnTEFaYkhfZ3J2Nk44LW4tb2RGSGJoanpnY2x4T1I2SF9TS3haTmEzWG9YTkFlc2c4VXc?oc=5",
-      "site": "四川在线",
+      "site": "pzh.scol.com.cn",
       "siteUrl": "https://pzh.scol.com.cn"
     },
     {
@@ -496,16 +484,28 @@
       "siteUrl": "https://news.hsw.cn"
     },
     {
-      "id": "FL-d3243b50a9de",
+      "id": "FL-d7939e987363",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 21:52:23 GMT",
       "ts": 1789854743000,
       "scope": "intl",
       "type": "geo",
-      "title": "墨西哥举行全国地震演习 - news.cn",
+      "title": "墨西哥举行全国地震演习 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SbmtRS2N5a2xpYnJyY3dDa1BHY0MtR3lMRXBKSzJNdVhTdWZSSmhTNkllZjluM1ppamxScnhjd0RzZmR5ejlfUkwtR05xU3A2SnJ6UTNGRGlYT2F2S0lvb0hxeUFlZHRweEd6ZUwxUFJMSmh3eGsycWYxNDdfZlU?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-e1dd73c57501",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 21:35:55 GMT",
+      "ts": 1789853755000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "墨西哥举行全国地震演习(3) - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE42QTRyY3lCY1liTkhJT2lYX2hSTWgxUFU5UEJPRHRtc25PeUtjWGJWT1R0OWRkYUlQeEJveEkzRWxJY0tKeGdWbA?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://i.ifeng.com"
     },
     {
       "id": "FL-49642f344c72",
@@ -556,15 +556,15 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-ad8f77a9c807",
+      "id": "FL-52918bcd5e17",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 15:48:40 GMT",
       "ts": 1789832920000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川盐边县泥石流已致2人遇难 3人失联 - news.cn",
+      "title": "四川盐边县泥石流已致2人遇难 3人失联 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WUEJZZElLOU55Qy1WTlFYSzN0cmNJMWpXYjhyc1lCZVRDbkdhZ3c0a3dmV0w3aWhaLXQyNzlCWFoxVmlYYXBBRjZoM1pqeDNFYk1NazlSTnRoQ3Q1WjdUTzRyWUtWbFpiaWhmOXhOMmM1Rlc4aGs4?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -722,7 +722,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
       "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn",
-      "related": 5
+      "related": 6
     }
   ]
 }
