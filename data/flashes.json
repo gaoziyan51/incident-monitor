@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T09:07:58.704Z",
+  "updated": "2026-09-20T09:21:22.731Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -207,15 +207,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-89339ee58015",
+      "id": "FL-bc2125d4da0e",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 03:47:28 GMT",
       "ts": 1789876048000,
       "scope": "dom",
       "type": "geo",
-      "title": "攀枝花盐边泥石流致2人遇难3人失联，消防投入搜救犬和无人机开展救援 - i.ifeng.com",
+      "title": "攀枝花盐边泥石流致2人遇难3人失联，消防投入搜救犬和无人机开展救援 - 凤凰网",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9lRmtkaDNzbUJzbXhuVjBuTFZjYnVwaUR3TTJPZ3p2eGdLRzVfeXB0WmRETXM2YjFzZ2NLUFk2d1dEQ2ViUXQ1VQ?oc=5",
-      "site": "i.ifeng.com",
+      "site": "凤凰网",
       "siteUrl": "https://i.ifeng.com"
     },
     {
@@ -255,18 +255,6 @@
       "siteUrl": "https://www.epochtimes.com"
     },
     {
-      "id": "FL-a4124dfb2c44",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 02:46:53 GMT",
-      "ts": 1789872413000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "河北唐山2.4级地震 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNVFNakQtUms3QTN0NFJ4ejlqa0dleXREQk1KRXhJYWgxQVBYR2pZN2c2WXpfMURMekhHU210ZzVuQmd5VVJDeHdMYzdRREN2bUMzcTk4MEJXU01HMVp2Rjd0cWxWWE0wMjNvdGdJc3VJVUJvOWwtVjhXdHRHTDh2NFo4aWxCVzdpTlBtXw?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-1e02fd583bc5",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 02:33:13 GMT",
@@ -303,15 +291,15 @@
       "siteUrl": "http://finance.sina.cn"
     },
     {
-      "id": "FL-e44bfae95a64",
+      "id": "FL-31bfdff10c61",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 01:10:00 GMT",
       "ts": 1789866600000,
       "scope": "intl",
       "type": "geo",
-      "title": "墨西哥举行全国地震演习--国际 - 人民网",
+      "title": "墨西哥举行全国地震演习--国际 - world.people.com.cn",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9admtFekU0elpZUEYwNndTRFMwZUd4RFp4N3pMdnlQajFZQ0ZrQ1NoNGhvaFRoX3VQYWJzSHE0d0d2TWdScHJ5OUtpb3hPY3JhT1psWkZOVFQ4ajNWM0hvSDhac2Y1THE0RW1ENQ?oc=5",
-      "site": "人民网",
+      "site": "world.people.com.cn",
       "siteUrl": "https://world.people.com.cn"
     },
     {
@@ -399,16 +387,28 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-7d2e668e38b8",
+      "id": "FL-3d01a069fcce",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 22:54:16 GMT",
       "ts": 1789858456000,
       "scope": "dom",
       "type": "geo",
-      "title": "新疆阿克苏地区沙雅县发生4.1级地震 震源深度21千米 - news.hsw.cn",
+      "title": "新疆阿克苏地区沙雅县发生4.1级地震 震源深度21千米 - 华商网",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fTTVPeGRHbWRhQ19wRS1IMGlibFV5V1lNS0hWR09HZEhGWGN5aThzYk9zbTdBeDBxUm9kdUJMWnhsczl1aGJMN1dUZ2ZfYVdpMDZWSTNWczhJTTRMN2FJ?oc=5",
-      "site": "news.hsw.cn",
+      "site": "华商网",
       "siteUrl": "https://news.hsw.cn"
+    },
+    {
+      "id": "FL-21e596d93bf5",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 22:11:00 GMT",
+      "ts": 1789855860000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害遇难人数升至1436人 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBneTVvREZGLWpuUzVIVlg0WXQyV3NHLTRkSWhBNWFVTldVTE1iZW5PS3dUSFJQUTMtTVd2WXdyYXJYZVRkMmZmU1JVUFc2ckE4WGhGbjhkaWhFUmViNEtMVFVpVXJQTkdmbVNwYktsZkl0dmdNYzBiZw?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-d7939e987363",
@@ -471,15 +471,15 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-7eef43295216",
+      "id": "FL-749aed081520",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 15:51:18 GMT",
       "ts": 1789833078000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1436人 - news.cnr.cn",
+      "title": "尼泊尔泥石流灾害遇难人数升至1436人 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aVE5oUFFzTTBXSEo4YjZTRHdyeWh3WGo2cy1fdlc0Q3dPQUdZaWR0Q1VMWjdGcG9mZnRWY28wRDQ1dmIyakNJcFlaWkpRbEtfY0t1cW5CcU5ON3ZGcXNBZUV4ZWN1bkR4?oc=5",
-      "site": "news.cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
     },
     {
@@ -519,15 +519,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-3751fb5b22b7",
+      "id": "FL-981e2ba35a3d",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 12:33:00 GMT",
       "ts": 1789821180000,
       "scope": "dom",
       "type": "geo",
-      "title": "盐边县突发泥石流，消防员用“无人机+搜救犬”开展搜救丨C视频 - 川观新闻",
+      "title": "盐边县突发泥石流，消防员用“无人机+搜救犬”开展搜救丨C视频 - cbgc.scol.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zV1lJTnhiM2pWLXdBSVllSjNBbEp4ZDYySUxUYWoyYVNsWDAwNmcyaHZjZWFSS3Q3eFlNWnVtZDlDWWdFcVNXLW5CNjBIdw?oc=5",
-      "site": "川观新闻",
+      "site": "cbgc.scol.com.cn",
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
@@ -567,27 +567,15 @@
       "siteUrl": "http://www.xinhuanet.com"
     },
     {
-      "id": "FL-1da67d21562d",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 08:09:23 GMT",
-      "ts": 1789805363000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川盐边县格萨拉乡泥石流灾害救援工作正在有序进行 - chinanews.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BWTQxcE15bjBXNDUwMmx6Z21uSkFOeGhiQW5PU1htYmVFRzRSeU4tV3lYZEJWT3F6ejFOd0taWHpoNVZRZnZYLXIzRk9YSTV4em5aMi1rb3EtRkRTTzd5aENoaTZRVWFI?oc=5",
-      "site": "chinanews.com.cn",
-      "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-cb5cd44c15c0",
+      "id": "FL-21242eecef33",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 07:21:00 GMT",
       "ts": 1789802460000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流被困11天的中国工人已回国，同去务工的邻居因上夜班躲过一劫 - 川观新闻",
+      "title": "尼泊尔泥石流被困11天的中国工人已回国，同去务工的邻居因上夜班躲过一劫 - cbgc.scol.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBuQ09VWmRzaC0wdDdsaThKbDRwcWFvMDBoYVhwMWJXVlQ5dk9mbVlQT0t6NkJkN0NYREQ0bnZXQVlfX3E5T0FKOUhnMUw4QQ?oc=5",
-      "site": "川观新闻",
+      "site": "cbgc.scol.com.cn",
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
@@ -615,15 +603,15 @@
       "siteUrl": "https://m.bjnews.com.cn"
     },
     {
-      "id": "FL-f766744f09a8",
+      "id": "FL-597e0aaef9cc",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 03:32:00 GMT",
       "ts": 1789788720000,
       "scope": "dom",
       "type": "geo",
-      "title": "攀枝花盐边县突发泥石流已致5人失联 省应急管理厅已派出工作组赶赴现场 - 川观新闻",
+      "title": "攀枝花盐边县突发泥石流已致5人失联 省应急管理厅已派出工作组赶赴现场 - cbgc.scol.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1JQm9nby15RXY4c3NRcEZSdWE0emlQamhpa21hTTNYNXA2bGpGeHpQTVJrZ0U2TXktaWpFY1kyMW5ieGpGNTZJYWRFdnhuZw?oc=5",
-      "site": "川观新闻",
+      "site": "cbgc.scol.com.cn",
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
@@ -639,6 +627,18 @@
       "siteUrl": "https://www.thepaper.cn"
     },
     {
+      "id": "FL-a689dfa51633",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 03:05:22 GMT",
+      "ts": 1789787122000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "攀枝花盐边县支六河村附近突发泥石流，有人员失联丨C视频 - 四川新闻",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB6dXVqWHRqQVBITThCTWFva0xxZWpFdm5JVXlrZEtRdXZOUC1aOGVadFk0d0JEUldkOWJUdmROTWdkejJ0cWphOERYRHVmUkQ0RjJJaUVhUVVqN21vQVBxXzU3NA?oc=5",
+      "site": "四川新闻",
+      "siteUrl": "https://sichuan.scol.com.cn"
+    },
+    {
       "id": "FL-f0ee7768c9f2",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 02:49:00 GMT",
@@ -651,18 +651,6 @@
       "siteUrl": "http://news.cnnb.com.cn"
     },
     {
-      "id": "FL-17b1d784301b",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 02:45:00 GMT",
-      "ts": 1789785900000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川攀枝花盐边县支六河村附近突发泥石流，有人员失联 - thepaper.cn",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jSDllZGF6bEhRRnpfbWtBVUgxUHhxSkdoUW9vemc2bkptM0pGM0xuQkxaWDNXUmlvRENiNDdnUXhLRkNtVVdsbDNUOHRQM1ZvRU96OEJPRmhLZUZDelBUNg?oc=5",
-      "site": "thepaper.cn",
-      "siteUrl": "https://www.thepaper.cn"
-    },
-    {
       "id": "FL-26499ac85060",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 02:41:06 GMT",
@@ -673,6 +661,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pWmdOYXpGSmJoTnZjMTAxMUpBNnFXT3NkUnZBREpYdmh1SnVjdThDeXA4NjE5czYtbXNGdVl5OTljMWR5MGpYZTh2YWo2S2JQeUhuRGRoX1dDa0FlYzBlTDJuWkk?oc=5",
       "site": "科学网—新闻",
       "siteUrl": "https://news.sciencenet.cn"
+    },
+    {
+      "id": "FL-fb448a3e9124",
+      "date": "2026-07-11",
+      "dateISO": "Sat, 11 Jul 2026 07:00:00 GMT",
+      "ts": 1783753200000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "“巴威”已重新增强为“强台风级”！苏州应急响应提升为Ⅲ级 - suzhou.gov.cn",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb09jY09WOHlCWU5PWkhlMy1EZmFiMVIxcms2UGtCQlBfbTBJd3A0THlOOHprR2lTNTFyT003UDYyUmJtdkR5NVpjTEdIMzNWLUMtYWZtUWx1cWxndVZOdjZjOXdOc0Z2ejNxR2p5ZHg1WExkaGNXaVFJb0Q5dWx4bG1YNUZiTGFudms4?oc=5",
+      "site": "suzhou.gov.cn",
+      "siteUrl": "http://www.suzhou.gov.cn"
     },
     {
       "id": "FL-EV-f283a898090a",
@@ -722,7 +722,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
       "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn",
-      "related": 6
+      "related": 5
     }
   ]
 }
