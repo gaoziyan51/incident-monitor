@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T07:53:41.308Z",
+  "updated": "2026-09-20T08:06:59.266Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -27,15 +27,15 @@
       "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
-      "id": "FL-7a9df62960ac",
+      "id": "FL-b2d13116c5ba",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 07:15:29 GMT",
       "ts": 1789542929000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川茂县发生山体滑坡 161名群众提前转移无伤亡 - news.cn",
+      "title": "四川茂县发生山体滑坡 161名群众提前转移无伤亡 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xUmN1eHZYWThIN2IwejZLemdfc0QySHhhUmd1RnB6YmlqekI2bVJOT0RRTVZMODJnUmRicjJVMzhkRzFRWnU4VXdUT0JKdXhRUk1DTWFRTjNmc3VnR2pRU3NzQXpMSF91SjU3NGhGLXl6a2ltS0VRcVJrWkI4TkU?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -76,15 +76,15 @@
       "siteUrl": "https://www.mfa.gov.cn"
     },
     {
-      "id": "FL-549cf98ba21f",
+      "id": "FL-ca47c5e94270",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 03:28:01 GMT",
       "ts": 1789615681000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流已致1403人死亡 6150人失联 - news.cn",
+      "title": "尼泊尔泥石流已致1403人死亡 6150人失联 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xTno1YTNKekRJNTI2am9rVXAwUjhHNGI4Rk9BZF9BRUhPZU1ZRG41WS0yVmUyaW1jU09IMmFZN1NPWUxXWXZzZ21aMFlEQWMzSnozQ0xQbGV6aUlXUmpzNE5VdW1tZ08xWDROZXBCM2tUc1QwWnJr?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -184,28 +184,16 @@
       "siteUrl": "https://www.ctdsb.net"
     },
     {
-      "id": "FL-7226dbb45053",
+      "id": "FL-d7ef30028095",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 02:12:00 GMT",
       "ts": 1789870320000,
       "scope": "dom",
       "type": "geo",
-      "title": "河北唐山市迁西县发生2.4级地震，震源深度18千米 - jiemian.com",
+      "title": "河北唐山市迁西县发生2.4级地震，震源深度18千米 - Jiemian.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nb2llRGpTa0pjWVN3eDNFREE0dGdPbDJYY0pMOWVDNXV0X3RtWmZGbEtDQjNvMXNYdEQ1OW5iYjR4VlNtRm02Z2ZKZk9iY0ZuX0dGZmlMWUc?oc=5",
-      "site": "jiemian.com",
+      "site": "Jiemian.com",
       "siteUrl": "https://www.jiemian.com"
-    },
-    {
-      "id": "FL-6bbcb8ed929b",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 01:58:13 GMT",
-      "ts": 1789869493000,
-      "scope": "dom",
-      "type": "other",
-      "title": "中央气象台：预计今早到明天，河北、湖北、湖南、浙江、福建、四川、重庆、云南、广西、广东等地有短时强降水 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRmR5bXgzV1N5TGtKWVJGWWZNTDRGMjY5SnNENHROWktLS01SbXhkYllBS2JuMDF3UkZJVHVpc1I3cTZsUDlyQmJZdUUtdW95S2hyXzRqSFZzc1F4M3dvUW9kZ1g4LWRHUXI1RFd3RHN0X0ZRVnVjZmZfVU9rSGtfUTc2RkhFRlhZcl8wTVhYLTdacTZSNTl2YllDRmp3M0tOYXpNOFF4MFhIV2NhUFdqZGlKMnhoY0NpNHFSRVF2NGRNZTAxMWFvNVROdWlsbjg5X0xUTk4xOA?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "http://finance.sina.cn"
     },
     {
       "id": "FL-1e02fd583bc5",
@@ -216,6 +204,18 @@
       "type": "geo",
       "title": "凌晨突发泥石流，5名司机弃车逃生，当地村民打亮手电筒将他们救起 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPczEzTnNHLTM5ZTlQdUo1ZTUxRFlMdnctZy1teUpYOHN5d0lmdHdMVTdGSmFsdzl4RUYwQjEzY0tuQWotUWI5NHY0dXpYcjlSUF9CYW01TVlkclVmSWczNDc5VW9ySnN4MkZycGZsU2tLaXZObWRlT2JfSlFJVmplN3VYcFF4VEhTN2hDeGgzdUg3em83dHhTd2RkYUZUcXlWYjVHWHA4NFZZc0RXbngxYlJZMDhkc0U0TTBwSXZuck9DRGNlLUZiX0J3ZzIxa2huRGtxSFA3MzU?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "http://finance.sina.cn"
+    },
+    {
+      "id": "FL-6bbcb8ed929b",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 01:23:13 GMT",
+      "ts": 1789867393000,
+      "scope": "dom",
+      "type": "other",
+      "title": "中央气象台：预计今早到明天，河北、湖北、湖南、浙江、福建、四川、重庆、云南、广西、广东等地有短时强降水 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPREJQNDZrYzdrSG15R3dLOFhtWnBqZTZxMUFSYjdkcTdkZFNsY182ZDNkcm1oMEZ6SzBTRkpna0k2d0MtQkYwNmNFRDlGMnBfM3Q3VVJMNEwtX0hGWXZueHhWUFA1LUFINzhRekRncWhyemdXeWZicV9JbFhURnlUcmljdWhGamYwUUFFU05TNW9PbEstMl95R0UwVExqb1YxY05lNHdxNkMxYnNvcnVYQlNqT3pIZVdvTHB6MGoxSldmaXNIWlRaQmpWanNrLU1JR3JHRHlaNA?oc=5",
       "site": "新浪财经",
       "siteUrl": "http://finance.sina.cn"
     },
@@ -304,6 +304,18 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
+      "id": "FL-6aeede226ca9",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 00:19:22 GMT",
+      "ts": 1789863562000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "（新华视界）墨西哥举行全国地震演习 - xinhuanet.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVVhZaXAybnFsYVNncWJUc01UUDRhblQySUFjVUJXWkRfd0dwYmtPRGRteDE3REJhMWtJTlFRcTVMT05aWHNtVzZ2MUhqOUF3TDMtcklVVWV3RWlGTXc4NEtkM29pM1Z3ejFzdWdndk1ickliN3lHZUNsVjJ1ZDRIX2NmRXBKdw?oc=5",
+      "site": "xinhuanet.com",
+      "siteUrl": "http://www.xinhuanet.com"
+    },
+    {
       "id": "FL-03e1c60639f5",
       "date": "2026-09-06",
       "dateISO": "Sun, 06 Sep 2026 07:00:00 GMT",
@@ -314,18 +326,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByeEVvcHlucE92a1Z3T0Ywei1RT3Ric2RMaVEzNmVtbF9VVEVPMmhrNmliNEl3TGllWktKNjNodUNSSXh3S21KUHA2cEFqckZEV0RNMmpCWWRxSGM4Zm51VUEyV0dkZ9IBa0FVX3lxTFBxM2RNYURrR1hmQ1ktWnBrME1RQ1ZESXBWZHZ4aUNoaURoXy1BLXlySk9tcDZHb25fRmV5SDB5ZTVnck9rdlNmRHdGRkl3QldGb2VEZHA3VkNWT0NITjhmMTRwUWNpZEgxNDFF?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-b76916d9992c",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 23:23:00 GMT",
-      "ts": 1789860180000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川盐边泥石流致2 人遇难，救援现场全力搜救|攀枝花|盐边县|泥石流_新浪新闻 - 手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1SdTc0NzlKR3JmU19ESS1HZktyRTczS1R3WFRFWE9EMkxIN0xuUnZoM0MyZDlIY0dSaGZhOXd6cS1hdWlGZWlVUEFPc1JDZW1Db2NWNjRTdjR6ZlhSRVZRQzhEcw?oc=5",
-      "site": "手机新浪网",
-      "siteUrl": "https://www.sina.cn"
     },
     {
       "id": "FL-bd15a0c268c6",
@@ -340,15 +340,15 @@
       "siteUrl": "https://www.sohu.com"
     },
     {
-      "id": "FL-7d2e668e38b8",
+      "id": "FL-3d01a069fcce",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 22:54:16 GMT",
       "ts": 1789858456000,
       "scope": "dom",
       "type": "geo",
-      "title": "新疆阿克苏地区沙雅县发生4.1级地震 震源深度21千米 - news.hsw.cn",
+      "title": "新疆阿克苏地区沙雅县发生4.1级地震 震源深度21千米 - 华商网",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fTTVPeGRHbWRhQ19wRS1IMGlibFV5V1lNS0hWR09HZEhGWGN5aThzYk9zbTdBeDBxUm9kdUJMWnhsczl1aGJMN1dUZ2ZfYVdpMDZWSTNWczhJTTRMN2FJ?oc=5",
-      "site": "news.hsw.cn",
+      "site": "华商网",
       "siteUrl": "https://news.hsw.cn"
     },
     {
@@ -364,15 +364,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-d3243b50a9de",
+      "id": "FL-d7939e987363",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 21:52:23 GMT",
       "ts": 1789854743000,
       "scope": "intl",
       "type": "geo",
-      "title": "墨西哥举行全国地震演习 - news.cn",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NOWRJaFhtaEpDU3RyeV9QZmJlYmNlMDBSY1JXZHRDb1pJRmMwVkM5ZzhqUFZyR2JTSm1kaWNHdmRzekNMLTRNaGpidE9ELV9KaUJOR1NYQXlkMzBmc0JIUlNxR1VmdTVkaVVvU0FFekJGUkthS1owUkhWZ2M0UVE?oc=5",
-      "site": "news.cn",
+      "title": "墨西哥举行全国地震演习 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SbmtRS2N5a2xpYnJyY3dDa1BHY0MtR3lMRXBKSzJNdVhTdWZSSmhTNkllZjluM1ppamxScnhjd0RzZmR5ejlfUkwtR05xU3A2SnJ6UTNGRGlYT2F2S0lvb0hxeUFlZHRweEd6ZUwxUFJMSmh3eGsycWYxNDdfZlU?oc=5",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -448,15 +448,15 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-ad8f77a9c807",
+      "id": "FL-52918bcd5e17",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 15:48:40 GMT",
       "ts": 1789832920000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川盐边县泥石流已致2人遇难 3人失联 - news.cn",
+      "title": "四川盐边县泥石流已致2人遇难 3人失联 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WUEJZZElLOU55Qy1WTlFYSzN0cmNJMWpXYjhyc1lCZVRDbkdhZ3c0a3dmV0w3aWhaLXQyNzlCWFoxVmlYYXBBRjZoM1pqeDNFYk1NazlSTnRoQ3Q1WjdUTzRyWUtWbFpiaWhmOXhOMmM1Rlc4aGs4?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -604,15 +604,15 @@
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
-      "id": "FL-d791be57a6e1",
+      "id": "FL-e8ff86e24718",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 06:01:00 GMT",
       "ts": 1789797660000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川盐边一村庄附近突发泥石流致5人失联，当地正在搜救 - bjnews.com.cn",
+      "title": "四川盐边一村庄附近突发泥石流致5人失联，当地正在搜救 - 新京报",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82WHktdXVray1lNVhoOTVOZFBJT2M4TnpSM3hjcGlUenZJR3NocWR4VmZ6V19VcU8xODc1Rl82eEpDQlozSC1qVnVwWC11OGY0SkVNU2U3Wk42VkV1ZFh1N1B3?oc=5",
-      "site": "bjnews.com.cn",
+      "site": "新京报",
       "siteUrl": "https://m.bjnews.com.cn"
     },
     {
@@ -700,15 +700,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-16971aea7af3",
+      "id": "FL-e0c839b1d53e",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 08:46:29 GMT",
       "ts": 1789721189000,
       "scope": "dom",
       "type": "geo",
-      "title": "在茂县石大关山体滑坡中，他最早“吹哨”预警并协助转移群众，被应急管理部点名表扬丨C视频 - 四川新闻",
+      "title": "在茂县石大关山体滑坡中，他最早“吹哨”预警并协助转移群众，被应急管理部点名表扬丨C视频 - sichuan.scol.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zTXBPYzEwbzg4cjgxNzlELVpIdXF3Z2VlVlVyUUw2ZmdSYTVrUHdJbC1nTkhUNlNwTU1oclFMbTFEanJ0SkpubFlHNmtQS3QtOVN3WWVwVU9RLVdXSHlCSFYzWQ?oc=5",
-      "site": "四川新闻",
+      "site": "sichuan.scol.com.cn",
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
@@ -722,7 +722,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
       "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn",
-      "related": 5
+      "related": 6
     }
   ]
 }
