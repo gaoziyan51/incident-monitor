@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T11:06:14.684Z",
+  "updated": "2026-09-20T11:19:40.520Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -255,15 +255,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-bc2125d4da0e",
+      "id": "FL-89339ee58015",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 03:47:28 GMT",
       "ts": 1789876048000,
       "scope": "dom",
       "type": "geo",
-      "title": "攀枝花盐边泥石流致2人遇难3人失联，消防投入搜救犬和无人机开展救援 - 凤凰网",
+      "title": "攀枝花盐边泥石流致2人遇难3人失联，消防投入搜救犬和无人机开展救援 - i.ifeng.com",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9lRmtkaDNzbUJzbXhuVjBuTFZjYnVwaUR3TTJPZ3p2eGdLRzVfeXB0WmRETXM2YjFzZ2NLUFk2d1dEQ2ViUXQ1VQ?oc=5",
-      "site": "凤凰网",
+      "site": "i.ifeng.com",
       "siteUrl": "https://i.ifeng.com"
     },
     {
@@ -286,7 +286,7 @@
       "scope": "dom",
       "type": "geo",
       "title": "四川攀枝花盐边发生泥石流灾害 两天累计转移安置群众173人 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSmFCcWxQUlF5aEV0eVBDc1NKQkdzY0NNQkZJMDhMRHRMNDMwS3VrMV9fYUpnR2xVYmFoNmU1N3IxbkVONkVPdnp0WDhtWU1MSEtGVTNWcGhqNTM5TW9UeEZHT0UxUXNra1VrREhHd3FBaDFGcVNqMnJOY05Pa2lTTnBQRTdjU1J4anpV?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcmNLRUtBNVA3YnJGRTRBeVpwLXd0QXJ5REJiYks2VTJjRHZHVVgteURDRGFVcXpFMXQzeTlOUXF6Y0h5MEhoOTE1MTA3N1c2Nk43YXRWN0RUT0phaDhLY1p3T0dLT2ZCeWJ3d3A2bG1wRjU2X3ViU2ZsXzQ4VTdRMTBXaS1sUWp4UXpTYURnQQ?oc=5",
       "site": "Sohu",
       "siteUrl": "https://www.sohu.com"
     },
@@ -627,18 +627,6 @@
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
-      "id": "FL-f19f97e1a4b9",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 06:11:43 GMT",
-      "ts": 1789798303000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川盐边县石家沟隧道附近突发泥石流 地灾专家已赶赴现场 - 华声在线",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNbDFNMkRhanVWOURCTDJlaWctbkNEbnBpRlEwV2ZKR3A0cmZnWnZOR29jY0cwRWlDVEVSbFVPN0k5RE5vYVduOFg1VXJsN2dMTDFTb0xMSERWWUtxc1RF?oc=5",
-      "site": "华声在线",
-      "siteUrl": "https://m.voc.com.cn"
-    },
-    {
       "id": "FL-a689dfa51633",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 03:05:22 GMT",
@@ -697,7 +685,7 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWmt5VGRaNWc0dGozSW1oTTZ5TG1NM3lPdWhoSzBUY1ZYUF9MLUMxU19oVTN4Rk51N3BqSkFaVWwxMXluNmtORlBEZE1BWmRjRGY1NUxzQlptTE5pczRQeThwaFZWTFdwUk83S3Q4alJzZnZFbzQxZXhIYk1TVzc3cFVhaw?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn",
-      "related": 30
+      "related": 28
     },
     {
       "id": "FL-16971aea7af3",
@@ -723,6 +711,18 @@
       "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn",
       "related": 5
+    },
+    {
+      "id": "FL-9a1a5448f231",
+      "date": "2026-09-04",
+      "dateISO": "Fri, 04 Sep 2026 23:57:00 GMT",
+      "ts": 1788566220000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "沈晓明赴石门县调研指导暴雨洪涝灾害受灾群众转移安置工作 - hunan.gov.cn",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LQ3JlTUZvN0xBYmhJbmptZDdBWE92RWQwZTBuQUpPMjBKWTc0VHFQTVR0dV9adVV0c1piTk0zUTVuNElMM3RWR1VrM0tEdlVvb3YzZUREcDBKdl9Mb2UwclpEU1otSXViNVJIejBqU0FrbTJ6TUJJV0pVekZicHM?oc=5",
+      "site": "hunan.gov.cn",
+      "siteUrl": "https://hunan.gov.cn"
     }
   ]
 }
