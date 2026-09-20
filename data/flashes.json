@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T13:20:20.922Z",
+  "updated": "2026-09-20T13:31:38.371Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -85,6 +85,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44R3gxYndzaTFVdmhMRjlDRE1fWlNQcGc1dTQxRG85WC1YUTFPbHVmMGNSN1VJNnVDN2sxakFicFZla3NKWXUtTWI2Ymh0ODVQYzBNdUdKRUZ4VUQ5U0hGZW1NZXBHUdIBa0FVX3lxTE5BZmQwdGNTV1RjTHg0N3RHZmFjQmFzajZlZzdTOVFTSEtjWE8wUGY1LVlTeElnOFh1X191TW1kTlc1TzZXTkhOcjFXZ2tqWXZKOXgxbmo0S0I2eklUMk1NN3RLSDdmdy16S2pn?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-4070bae74ea0",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 13:22:16 GMT",
+      "ts": 1789910536000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川盐边县发生泥石流 致两人死亡三人失联 - zaobao.com.sg",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EWEVFeG0zSF80d2loUW9wOTg5RmRrazBrWUtzMkl1T3c0c2dxMHRFRUVsaEdQNjZLNEl6TmhuNllySm5IYmhtMTRZbDA1c1NKaVlORW1CLTdaNVVKcUoycUVyMGU1SDMxdWc?oc=5",
+      "site": "zaobao.com.sg",
+      "siteUrl": "https://www.zaobao.com.sg"
     },
     {
       "id": "FL-b88e3048f617",
@@ -241,18 +253,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKTHo1UmlTdmJKeGxXek52anlrYVV2R3dtWXAtbjNwdjltQjY5NHRUb2duVmt2d0k1ZHBiaTRGSk1VaFhLOVJjRTVFa2hETlRfRkVxODBXUXZGX05wWHc?oc=5",
       "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
-    },
-    {
-      "id": "FL-a3c3b9f6fe07",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 07:56:46 GMT",
-      "ts": 1789891006000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "日本奄美大岛附近海域发生5.0级地震 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LbmxCMVlRRVNObFRxSnV3VDd0bHBfVy05S3d6UmlMTy1oR2ZvaE1sZml0dDlDSWJrcGppSGE4VzJzNTVzWTVkS0Jicw?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://wap.cj.sina.cn"
     },
     {
       "id": "FL-0d8989a9c398",
@@ -685,7 +685,7 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWmt5VGRaNWc0dGozSW1oTTZ5TG1NM3lPdWhoSzBUY1ZYUF9MLUMxU19oVTN4Rk51N3BqSkFaVWwxMXluNmtORlBEZE1BWmRjRGY1NUxzQlptTE5pczRQeThwaFZWTFdwUk83S3Q4alJzZnZFbzQxZXhIYk1TVzc3cFVhaw?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn",
-      "related": 27
+      "related": 26
     },
     {
       "id": "FL-e8a32a183e42",
