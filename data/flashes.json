@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T03:09:47.307Z",
+  "updated": "2026-09-20T03:23:57.043Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -13,7 +13,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
       "site": "rfi.fr",
       "siteUrl": "https://www.rfi.fr",
-      "related": 28
+      "related": 29
     },
     {
       "id": "FL-263418d50a2b",
@@ -40,28 +40,16 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-20349e76752b",
-      "date": "2026-09-03",
-      "dateISO": "Thu, 03 Sep 2026 07:00:00 GMT",
-      "ts": 1788418800000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "台风“沙德尔”带来强降雨，福建全力抢险救援 - fj.people.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9idjB1WHk1RmxjaXpsRFVqTmtSUXdDbEcwVlp0d2k5TnNndmxBNXhhV0syZmdBVlVCQzZuZk56cmNGeWFCYnp5SkVxaFFvbGQ0TXoxalUyeFJtRHJfa2l2TVhBRXJVQWVfM0E?oc=5",
-      "site": "fj.people.com.cn",
-      "siteUrl": "http://fj.people.com.cn"
-    },
-    {
-      "id": "FL-89d6589d1504",
-      "date": "2026-08-30",
-      "dateISO": "Sun, 30 Aug 2026 07:00:00 GMT",
-      "ts": 1788073200000,
-      "scope": "dom",
+      "id": "FL-4eaaa535a1b8",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 02:58:00 GMT",
+      "ts": 1789873080000,
+      "scope": "intl",
       "type": "geo",
-      "title": "西藏泥石流：中国审查洪灾冲击口岸画面，当地灾民情况我们所知甚少 - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rWlBVcnZhd0NVTDlFZ3hVN3BYR3RLUFpMZEM0eVkwN2JkRXIzM0V0REJXR2FjeDRxUUVqeDBvMUtKU25TUFNDMzJYdHNucTZ4bDBEWkFjazFwZGZEOVJzVlZyNGtiZ9IBa0FVX3lxTFBOT0pTWlZHV0dDQTNJRFExWFdZcGJDZTI3aDVxeDJQNGk4WldjSzRwa1lJRXF3aW1Id1QwVHM0TlNoRWp2SmtvMURjcEZoTG5kaVlSOTlHcFpVMFpxSkp0MnVUX2NGZWZYZk5N?oc=5",
-      "site": "BBC",
-      "siteUrl": "https://www.bbc.com"
+      "title": "朝鲜核试验场地震活动持续加剧 - 大纪元",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTcGtjYWNTNjhGajN6SmQwbzhyZ1dPVWkwaU11WVBONEQ3MUcxc3hHYUVGbVk4Ny1KcDNYd1BTVGFMSHhnQzVNSUdXSHhvNVRSM1lZalpzUExyYV9ZVTVZdA?oc=5",
+      "site": "大纪元",
+      "siteUrl": "https://www.epochtimes.com"
     },
     {
       "id": "FL-72702da4fa5d",
@@ -146,6 +134,18 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9admtFekU0elpZUEYwNndTRFMwZUd4RFp4N3pMdnlQajFZQ0ZrQ1NoNGhvaFRoX3VQYWJzSHE0d0d2TWdScHJ5OUtpb3hPY3JhT1psWkZOVFQ4ajNWM0hvSDhac2Y1THE0RW1ENQ?oc=5",
       "site": "人民网",
       "siteUrl": "https://world.people.com.cn"
+    },
+    {
+      "id": "FL-d040f21a3527",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 01:05:31 GMT",
+      "ts": 1789866331000,
+      "scope": "dom",
+      "type": "other",
+      "title": "中央气象台：预计今早到明天，浙江、河北、湖北、湖南、福建、四川、重庆等地有短时强降水 - sohu.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaG5BblR5YU9GRmo2WFlpOUZUN0RnUDhNRWhEaGxBbFRlN21rUjBpc2d2dFI4a2lYeUgzdk9HbkRIVWw5d1p5eFhXTzZGWWJKa0RjT3B4VUV2d3haR3V0VXlYaWNnSWVicFgxLXNpRDhsWWM4S1djbkhXSGJhaTljNk4wNEYzeUR3UG9UNA?oc=5",
+      "site": "sohu.com",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-2353619aec3b",
@@ -254,18 +254,6 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdEJFWHdUaFlyYkpSTjF6S1Y3cXRLdWZjNjU5cmU1TGxzTmJ6SEM1cm1OQnZXUlRRQU9MZm9tMHFYS0JWVTZmQkYxTlc0MHFNOTFJVFI4aVJaSHdYcDQ1azI0UkVfU0JQV0lLQ2lGUElzWDlpQmRJVDVSbWZSc09oZ1dXNjdPeWtaNndaWU8yY1hKSkFXUW5faQ?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
-    },
-    {
-      "id": "FL-03e1c60639f5",
-      "date": "2026-09-06",
-      "dateISO": "Sun, 06 Sep 2026 07:00:00 GMT",
-      "ts": 1788678000000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔给水力发电押下重注，泥石流把问题彻底暴露 - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByeEVvcHlucE92a1Z3T0Ywei1RT3Ric2RMaVEzNmVtbF9VVEVPMmhrNmliNEl3TGllWktKNjNodUNSSXh3S21KUHA2cEFqckZEV0RNMmpCWWRxSGM4Zm51VUEyV0dkZ9IBa0FVX3lxTFBxM2RNYURrR1hmQ1ktWnBrME1RQ1ZESXBWZHZ4aUNoaURoXy1BLXlySk9tcDZHb25fRmV5SDB5ZTVnck9rdlNmRHdGRkl3QldGb2VEZHA3VkNWT0NITjhmMTRwUWNpZEgxNDFF?oc=5",
-      "site": "BBC",
-      "siteUrl": "https://www.bbc.com"
     },
     {
       "id": "FL-b76916d9992c",
@@ -614,6 +602,18 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BWTQxcE15bjBXNDUwMmx6Z21uSkFOeGhiQW5PU1htYmVFRzRSeU4tV3lYZEJWT3F6ejFOd0taWHpoNVZRZnZYLXIzRk9YSTV4em5aMi1rb3EtRkRTTzd5aENoaTZRVWFI?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
+      "id": "FL-cb5cd44c15c0",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 07:21:00 GMT",
+      "ts": 1789802460000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流被困11天的中国工人已回国，同去务工的邻居因上夜班躲过一劫 - 川观新闻",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBuQ09VWmRzaC0wdDdsaThKbDRwcWFvMDBoYVhwMWJXVlQ5dk9mbVlQT0t6NkJkN0NYREQ0bnZXQVlfX3E5T0FKOUhnMUw4QQ?oc=5",
+      "site": "川观新闻",
+      "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
       "id": "FL-f19f97e1a4b9",
