@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-20T06:26:25.751Z",
+  "updated": "2026-09-20T06:41:57.241Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-c2a04813577b",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 17:06:14 GMT",
+      "ts": 1789578374000,
+      "scope": "dom",
+      "type": "collapse",
+      "title": "加沙：建筑坍塌致至少20人死亡，搜救工作仍在继续 - UN News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wdnBqX2d2T1NSQ092SjlCdW1fbVZfak4ycERLSWtGb2VxT21FdXRQSkd5bVFiVkxvZlFlaDZralk5b2FyemR4RlptclBhbDhrR1ZILTc4Zw?oc=5",
+      "site": "UN News",
+      "siteUrl": "https://news.un.org"
+    },
     {
       "id": "FL-b2d13116c5ba",
       "date": "2026-09-16",
@@ -50,6 +62,18 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xTno1YTNKekRJNTI2am9rVXAwUjhHNGI4Rk9BZF9BRUhPZU1ZRG41WS0yVmUyaW1jU09IMmFZN1NPWUxXWXZzZ21aMFlEQWMzSnozQ0xQbGV6aUlXUmpzNE5VdW1tZ08xWDROZXBCM2tUc1QwWnJr?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-31aaf7309a8a",
+      "date": "2026-09-03",
+      "dateISO": "Thu, 03 Sep 2026 07:00:00 GMT",
+      "ts": 1788418800000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "台风“沙德尔”带来强降雨，福建全力抢险救援 - 人民网-福建频道",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9idjB1WHk1RmxjaXpsRFVqTmtSUXdDbEcwVlp0d2k5TnNndmxBNXhhV0syZmdBVlVCQzZuZk56cmNGeWFCYnp5SkVxaFFvbGQ0TXoxalUyeFJtRHJfa2l2TVhBRXJVQWVfM0E?oc=5",
+      "site": "人民网-福建频道",
+      "siteUrl": "http://fj.people.com.cn"
     },
     {
       "id": "FL-89d6589d1504",
@@ -232,18 +256,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-cd36f1493372",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 01:01:36 GMT",
-      "ts": 1789866096000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川盐边突发泥石流：村民打电筒救出5人，已安全转移173人 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdU1ZUHRod2lMM3hpdzlmT3IyeGtFOXc1OEpTUmx6MWk4UXdVanNDNkJZcUFZWXVaX2p2cmY2cUt4bHZpZVNoVzRfSVVxZFNMT29HWjQxT3Z1c3hxYkJkbklTR0FRdkJJSm1OckstRllKX2JGdVZrYWt3cms0ZlRrSWFfUTV4dHJtQmI2UA?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-ffb2f4bd8dbf",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 00:44:54 GMT",
@@ -340,15 +352,15 @@
       "siteUrl": "https://www.sina.cn"
     },
     {
-      "id": "FL-7d2e668e38b8",
+      "id": "FL-3d01a069fcce",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 22:54:16 GMT",
       "ts": 1789858456000,
       "scope": "dom",
       "type": "geo",
-      "title": "新疆阿克苏地区沙雅县发生4.1级地震 震源深度21千米 - news.hsw.cn",
+      "title": "新疆阿克苏地区沙雅县发生4.1级地震 震源深度21千米 - 华商网",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fTTVPeGRHbWRhQ19wRS1IMGlibFV5V1lNS0hWR09HZEhGWGN5aThzYk9zbTdBeDBxUm9kdUJMWnhsczl1aGJMN1dUZ2ZfYVdpMDZWSTNWczhJTTRMN2FJ?oc=5",
-      "site": "news.hsw.cn",
+      "site": "华商网",
       "siteUrl": "https://news.hsw.cn"
     },
     {
@@ -592,18 +604,6 @@
       "siteUrl": "http://www.xinhuanet.com"
     },
     {
-      "id": "FL-418eed2ca087",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 10:38:01 GMT",
-      "ts": 1789814281000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川发生地震 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSXFESkxkcV9FNVpfem43OTFwX25uSUt6R3F4S28teWtxa3k5cW8wNHZsdC1Kd19USjVvQTBiV01uXzJFZ2ZNRVJQZC03d0hnUUZ3WXFyNWVCY2VRWndMdU1KRkJhcURNY0tJR0VacjJBd3lmS1ZadG12WGVHWl9Bamlac1p5eTRRQXFXdmxRQWkzal81T0hxY1hyS1A0M25fX2JqQzlCLUliVDktTHBDWm11RXl4ckN3WGFxMlJKd0dhcWxaUFExNHZvXzEtZUFqdnVuSlZ1bHo?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "http://finance.sina.cn"
-    },
-    {
       "id": "FL-1da67d21562d",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 08:09:23 GMT",
@@ -626,18 +626,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBuQ09VWmRzaC0wdDdsaThKbDRwcWFvMDBoYVhwMWJXVlQ5dk9mbVlQT0t6NkJkN0NYREQ0bnZXQVlfX3E5T0FKOUhnMUw4QQ?oc=5",
       "site": "川观新闻",
       "siteUrl": "https://cbgc.scol.com.cn"
-    },
-    {
-      "id": "FL-f19f97e1a4b9",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 06:11:43 GMT",
-      "ts": 1789798303000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川盐边县石家沟隧道附近突发泥石流 地灾专家已赶赴现场 - 华声在线",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNbDFNMkRhanVWOURCTDJlaWctbkNEbnBpRlEwV2ZKR3A0cmZnWnZOR29jY0cwRWlDVEVSbFVPN0k5RE5vYVduOFg1VXJsN2dMTDFTb0xMSERWWUtxc1RF?oc=5",
-      "site": "华声在线",
-      "siteUrl": "https://m.voc.com.cn"
     },
     {
       "id": "FL-c1f4de7a271f",
@@ -698,6 +686,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pWmdOYXpGSmJoTnZjMTAxMUpBNnFXT3NkUnZBREpYdmh1SnVjdThDeXA4NjE5czYtbXNGdVl5OTljMWR5MGpYZTh2YWo2S2JQeUhuRGRoX1dDa0FlYzBlTDJuWkk?oc=5",
       "site": "科学网—新闻",
       "siteUrl": "https://news.sciencenet.cn"
+    },
+    {
+      "id": "FL-e8a32a183e42",
+      "date": "2026-08-28",
+      "dateISO": "Fri, 28 Aug 2026 07:00:00 GMT",
+      "ts": 1787900400000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "尼泊尔—西藏泥石流：堰塞湖风险、逾2000人遇难或失联，中国总理赴前线意味着什么？ - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SMU9aYk1ieDUtRUYxczloUTVubHBZc2VCWlBtbGlLNmRWdXFGZ2xvUWhfSHZqVS0wYndtZzhUZGZDZlBiQlU0WDV2NUh5bkE1M1VtZURfZWRMaTR4SU4waWJHYXdFd9IBa0FVX3lxTFA3TVBheHVtYmo2X1ppZlgzNnhYZnc3eU9MOUVybUZlUGh0QXMwTklhWXktUm9Bcnh1dVdGcUZvZlVrWGQxTlNKX2xxVV9PRzBRSmR3QWdURDRZVEhja0loSWxWN2RtRmJxR1Y4?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
     },
     {
       "id": "FL-16971aea7af3",
