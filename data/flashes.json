@@ -1,19 +1,7 @@
 {
-  "updated": "2026-09-20T16:07:02.419Z",
+  "updated": "2026-09-20T16:21:36.409Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-c2a04813577b",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 17:06:14 GMT",
-      "ts": 1789578374000,
-      "scope": "dom",
-      "type": "collapse",
-      "title": "加沙：建筑坍塌致至少20人死亡，搜救工作仍在继续 - UN News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wdnBqX2d2T1NSQ092SjlCdW1fbVZfak4ycERLSWtGb2VxT21FdXRQSkd5bVFiVkxvZlFlaDZralk5b2FyemR4RlptclBhbDhrR1ZILTc4Zw?oc=5",
-      "site": "UN News",
-      "siteUrl": "https://news.un.org"
-    },
     {
       "id": "FL-b2d13116c5ba",
       "date": "2026-09-16",
@@ -25,6 +13,19 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xUmN1eHZYWThIN2IwejZLemdfc0QySHhhUmd1RnB6YmlqekI2bVJOT0RRTVZMODJnUmRicjJVMzhkRzFRWnU4VXdUT0JKdXhRUk1DTWFRTjNmc3VnR2pRU3NzQXpMSF91SjU3NGhGLXl6a2ltS0VRcVJrWkI4TkU?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-EV-f283a898090a",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 16:15:32 GMT",
+      "ts": 1789488932000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "尼泊尔泥石流： 灾害到底发生在什么时间？谁上传了吉隆口岸的视频？ - rfi.fr",
+      "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
+      "site": "rfi.fr",
+      "siteUrl": "https://www.rfi.fr",
+      "related": 30
     },
     {
       "id": "FL-263418d50a2b",
@@ -375,28 +376,16 @@
       "siteUrl": "https://www.sohu.com"
     },
     {
-      "id": "FL-00541760dc01",
+      "id": "FL-f048d787726b",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 03:14:30 GMT",
       "ts": 1789874070000,
       "scope": "dom",
       "type": "geo",
-      "title": "河北唐山发生2.4级地震，震源深度18公里 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcTAtU0JXbEQwVU1UUzl3bzlrRUJKSVBKZGIxTDVIUGVoQkwtVmhUdlRTZW02eFUwNVhDb0ZyY2pqRVVQcUpodHdndHlZd091VkRNSlZsaTNZWlBuRDBNYUFVbFAxaWdwa0I0blBPZDI4T0tkbDkyeFI5cnFHVGJoczV2M2RIaEtYMDdxUA?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-1e02fd583bc5",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 01:48:13 GMT",
-      "ts": 1789868893000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "凌晨突发泥石流，5名司机弃车逃生，当地村民打亮手电筒将他们救起 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQXMyS2VwNGV4cElmNUl6R2FpWmVKTzM2RFBVamlqSGVnaG5QejhxYTBfNzdjNElHOTJVX2ZIRXZoMnZwWE42Sk1RSjFIY1V3dkFjV3N2c2NCRzRWUXVGN05GRFpBcmtEYkZkcjFWcGJpdWdMWTd6eVhyUmJMc2tmOUhzcE1URUU2Z2RwaDlGRkV3ZnlTdUduM2RHOWhQWC12bXdPNmZRM29Jd3MtT2RNRGFWUnV3QnV1T0hfWkNsdm5EaFFhbkVYR3BqT2JJNDlaNGRTeGpMaGg?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "http://finance.sina.cn"
+      "title": "河北唐山发生2.4级地震，震源深度18公里 - 极目新闻",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiTG5CSFNqWHdJSmFkODZ4aGFoRUp0QUR0TUJlaVZLWFE1Tjk0bzNRSDVGRXdxbnU5ZHdfSlFjT3hVR2oxa2hFZUdWMDk1UjRsOHZpNHBtVEpNb2s?oc=5",
+      "site": "极目新闻",
+      "siteUrl": "https://www.ctdsb.net"
     },
     {
       "id": "FL-e44bfae95a64",
@@ -505,6 +494,18 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fTTVPeGRHbWRhQ19wRS1IMGlibFV5V1lNS0hWR09HZEhGWGN5aThzYk9zbTdBeDBxUm9kdUJMWnhsczl1aGJMN1dUZ2ZfYVdpMDZWSTNWczhJTTRMN2FJ?oc=5",
       "site": "华商网",
       "siteUrl": "https://news.hsw.cn"
+    },
+    {
+      "id": "FL-d7939e987363",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 21:52:23 GMT",
+      "ts": 1789854743000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "墨西哥举行全国地震演习 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SbmtRS2N5a2xpYnJyY3dDa1BHY0MtR3lMRXBKSzJNdVhTdWZSSmhTNkllZjluM1ppamxScnhjd0RzZmR5ejlfUkwtR05xU3A2SnJ6UTNGRGlYT2F2S0lvb0hxeUFlZHRweEd6ZUwxUFJMSmh3eGsycWYxNDdfZlU?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-49642f344c72",
@@ -651,6 +652,18 @@
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
+      "id": "FL-4f0e1aff96b2",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 03:27:00 GMT",
+      "ts": 1789788420000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川盐边县突发泥石流，已致5人失联 - thepaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwZlNHaEFxU1RfX0J3bDg3Mm02RWZvRmg0SHVmMWRpRk8tUW1VclNacXU4U1NYWlI1dUwyYXhtZWlqU0xYVDlZLWRKV0x1SmZCRlh2VllWNmphVThFbmFBZQ?oc=5",
+      "site": "thepaper.cn",
+      "siteUrl": "https://www.thepaper.cn"
+    },
+    {
       "id": "FL-a689dfa51633",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 03:05:22 GMT",
@@ -673,19 +686,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13a2NJOUY4SlJhNTdNQ0F4aHRiRFlNMENCUF9JeUZwZDFTU3p2T1ZKemRLdVdibVdqRlUtYUwxSkpjSW90TjVsT1FsRUZiQnhKQzl4WW9MTU84cFlNOHJ1NldGYVlQZzlL?oc=5",
       "site": "中国宁波网",
       "siteUrl": "http://news.cnnb.com.cn"
-    },
-    {
-      "id": "FL-EV-f283a898090a",
-      "date": "2026-09-07",
-      "dateISO": "Mon, 07 Sep 2026 07:00:00 GMT",
-      "ts": 1788764400000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "院士解读西藏吉隆泥石流：真正危险的不止是冰川 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWmt5VGRaNWc0dGozSW1oTTZ5TG1NM3lPdWhoSzBUY1ZYUF9MLUMxU19oVTN4Rk51N3BqSkFaVWwxMXluNmtORlBEZE1BWmRjRGY1NUxzQlptTE5pczRQeThwaFZWTFdwUk83S3Q4alJzZnZFbzQxZXhIYk1TVzc3cFVhaw?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn",
-      "related": 29
     },
     {
       "id": "FL-e8a32a183e42",
