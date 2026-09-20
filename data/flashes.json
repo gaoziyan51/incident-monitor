@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-20T11:53:32.625Z",
+  "updated": "2026-09-20T12:08:03.782Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-c2a04813577b",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 17:06:14 GMT",
+      "ts": 1789578374000,
+      "scope": "dom",
+      "type": "collapse",
+      "title": "加沙：建筑坍塌致至少20人死亡，搜救工作仍在继续 - UN News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wdnBqX2d2T1NSQ092SjlCdW1fbVZfak4ycERLSWtGb2VxT21FdXRQSkd5bVFiVkxvZlFlaDZralk5b2FyemR4RlptclBhbDhrR1ZILTc4Zw?oc=5",
+      "site": "UN News",
+      "siteUrl": "https://news.un.org"
+    },
     {
       "id": "FL-b2d13116c5ba",
       "date": "2026-09-16",
@@ -267,27 +279,27 @@
       "siteUrl": "https://news.china.com"
     },
     {
-      "id": "FL-89339ee58015",
+      "id": "FL-bc2125d4da0e",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 03:47:28 GMT",
       "ts": 1789876048000,
       "scope": "dom",
       "type": "geo",
-      "title": "攀枝花盐边泥石流致2人遇难3人失联，消防投入搜救犬和无人机开展救援 - i.ifeng.com",
+      "title": "攀枝花盐边泥石流致2人遇难3人失联，消防投入搜救犬和无人机开展救援 - 凤凰网",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9lRmtkaDNzbUJzbXhuVjBuTFZjYnVwaUR3TTJPZ3p2eGdLRzVfeXB0WmRETXM2YjFzZ2NLUFk2d1dEQ2ViUXQ1VQ?oc=5",
-      "site": "i.ifeng.com",
+      "site": "凤凰网",
       "siteUrl": "https://i.ifeng.com"
     },
     {
-      "id": "FL-136ead83eaff",
+      "id": "FL-2fc189f1692b",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 03:42:34 GMT",
       "ts": 1789875754000,
       "scope": "dom",
       "type": "other",
-      "title": "四川盐边两天累计转移安置群众173人 - 央广网",
+      "title": "四川盐边两天累计转移安置群众173人 - sc.cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Pa3JRR2c0VnZTM28xc1dZRXJweUlyYU1YSm9iX2dUQVhNNlZkQkpBWUVrVTlUc2tSRldOazk2TmdoMnBQU1VLMmlsdzFMNWFqMV9YVkYxUlBxRnRkbGJ0V1E2R2JwYVYzUHhfQ3FB?oc=5",
-      "site": "央广网",
+      "site": "sc.cnr.cn",
       "siteUrl": "https://sc.cnr.cn"
     },
     {
@@ -387,6 +399,18 @@
       "siteUrl": "https://pzh.scol.com.cn"
     },
     {
+      "id": "FL-83aeb073b87e",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 00:40:26 GMT",
+      "ts": 1789864826000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川盐边县突发泥石流已致5人失联 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wdFVVVDJVNjZhZ0xTSk5heGIzdjZtLWlCVUYxYmJ6T0pscGljWUZLSFJmMmg1LUdxV1RZWU5CM2RIX3ZaSWlOd1NadkF4QmtNQ0RQTEU4MEtkSnpTc01fTVNSc3ZiZnVSOVMzQjV3VGU5NmFxeG1BSA?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
+    },
+    {
       "id": "FL-14694e5635c7",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 00:24:20 GMT",
@@ -471,28 +495,16 @@
       "siteUrl": "https://gbcode.rthk.hk"
     },
     {
-      "id": "FL-fb76370c2157",
+      "id": "FL-4a61f726f18b",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 16:18:09 GMT",
       "ts": 1789834689000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川盐边县突发泥石流 2人遇难 尚有3人失联 - 央广网",
+      "title": "四川盐边县突发泥石流 2人遇难 尚有3人失联 - sc.cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WM3lHMmZGSE04bHRrNW92Y3p2bTY4a1BXWGJZRjJFQ1ZYeXVPeXZySWpHQ2pXMGJjVF85MW14Sk5KZ3lEV0lxMGxmdjVLaHA5QnVSN3QxTmVFcjFsYnBkQmV2aTluaWJRNGVlNEtBakc?oc=5",
-      "site": "央广网",
+      "site": "sc.cnr.cn",
       "siteUrl": "https://sc.cnr.cn"
-    },
-    {
-      "id": "FL-983442a8ab39",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 16:15:56 GMT",
-      "ts": 1789834556000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "盐边县发生泥石流险情，截至19日23时搜救到2名失联人员，已无生命体征 - 四川在线",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPN1NOT1NVdnpGalZYclFmamhWWjJJcGNrNDg5cktOc2lWQi00UzVPSFctaHpGQm02ZWtxblh4dkowVkpWci02RWxDYWtleTJZWmRyS1pvcUNHVERqYXc?oc=5",
-      "site": "四川在线",
-      "siteUrl": "https://pzh.scol.com.cn"
     },
     {
       "id": "FL-749aed081520",
@@ -591,15 +603,15 @@
       "siteUrl": "https://www.hi.chinanews.com.cn"
     },
     {
-      "id": "FL-21242eecef33",
+      "id": "FL-cb5cd44c15c0",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 07:21:00 GMT",
       "ts": 1789802460000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流被困11天的中国工人已回国，同去务工的邻居因上夜班躲过一劫 - cbgc.scol.com.cn",
+      "title": "尼泊尔泥石流被困11天的中国工人已回国，同去务工的邻居因上夜班躲过一劫 - 川观新闻",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBuQ09VWmRzaC0wdDdsaThKbDRwcWFvMDBoYVhwMWJXVlQ5dk9mbVlQT0t6NkJkN0NYREQ0bnZXQVlfX3E5T0FKOUhnMUw4QQ?oc=5",
-      "site": "cbgc.scol.com.cn",
+      "site": "川观新闻",
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
@@ -663,18 +675,6 @@
       "siteUrl": "https://news.sciencenet.cn"
     },
     {
-      "id": "FL-fb448a3e9124",
-      "date": "2026-07-11",
-      "dateISO": "Sat, 11 Jul 2026 07:00:00 GMT",
-      "ts": 1783753200000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "“巴威”已重新增强为“强台风级”！苏州应急响应提升为Ⅲ级 - suzhou.gov.cn",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb09jY09WOHlCWU5PWkhlMy1EZmFiMVIxcms2UGtCQlBfbTBJd3A0THlOOHprR2lTNTFyT003UDYyUmJtdkR5NVpjTEdIMzNWLUMtYWZtUWx1cWxndVZOdjZjOXdOc0Z2ejNxR2p5ZHg1WExkaGNXaVFJb0Q5dWx4bG1YNUZiTGFudms4?oc=5",
-      "site": "suzhou.gov.cn",
-      "siteUrl": "http://www.suzhou.gov.cn"
-    },
-    {
       "id": "FL-EV-f283a898090a",
       "date": "2026-09-07",
       "dateISO": "Mon, 07 Sep 2026 07:00:00 GMT",
@@ -685,7 +685,7 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWmt5VGRaNWc0dGozSW1oTTZ5TG1NM3lPdWhoSzBUY1ZYUF9MLUMxU19oVTN4Rk51N3BqSkFaVWwxMXluNmtORlBEZE1BWmRjRGY1NUxzQlptTE5pczRQeThwaFZWTFdwUk83S3Q4alJzZnZFbzQxZXhIYk1TVzc3cFVhaw?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn",
-      "related": 28
+      "related": 27
     },
     {
       "id": "FL-e8a32a183e42",
