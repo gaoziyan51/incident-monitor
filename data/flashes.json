@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T22:06:26.193Z",
+  "updated": "2026-09-20T22:20:21.642Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -13,18 +13,6 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wdnBqX2d2T1NSQ092SjlCdW1fbVZfak4ycERLSWtGb2VxT21FdXRQSkd5bVFiVkxvZlFlaDZralk5b2FyemR4RlptclBhbDhrR1ZILTc4Zw?oc=5",
       "site": "UN News",
       "siteUrl": "https://news.un.org"
-    },
-    {
-      "id": "FL-6b6aed7ef41b",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 15:18:00 GMT",
-      "ts": 1789571880000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1409人遇难 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95a1k2V1dIMkllSFlhWHM3dkNITUp4NVVkZFpzNE1tSDVzQkJHSWlldjFhRnQya3pTeVFOZjNfdUNSSTJNOHc3SjB3aHlpaWtWcFhfeXpjel9wb1NWdTNCamRDM0VBVkJxV3VGeHBKU2podw?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
       "id": "FL-b2d13116c5ba",
@@ -45,9 +33,9 @@
       "ts": 1789488932000,
       "scope": "dom",
       "type": "geo",
-      "title": "尼泊尔泥石流： 灾害到底发生在什么时间？谁上传了吉隆口岸的视频？ - RFI",
+      "title": "尼泊尔泥石流： 灾害到底发生在什么时间？谁上传了吉隆口岸的视频？ - rfi.fr",
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
-      "site": "RFI",
+      "site": "rfi.fr",
       "siteUrl": "https://www.rfi.fr",
       "related": 23
     },
@@ -86,6 +74,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44R3gxYndzaTFVdmhMRjlDRE1fWlNQcGc1dTQxRG85WC1YUTFPbHVmMGNSN1VJNnVDN2sxakFicFZla3NKWXUtTWI2Ymh0ODVQYzBNdUdKRUZ4VUQ5U0hGZW1NZXBHUdIBa0FVX3lxTE5BZmQwdGNTV1RjTHg0N3RHZmFjQmFzajZlZzdTOVFTSEtjWE8wUGY1LVlTeElnOFh1X191TW1kTlc1TzZXTkhOcjFXZ2tqWXZKOXgxbmo0S0I2eklUMk1NN3RLSDdmdy16S2pn?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-91bdb2ea9dee",
+      "date": "2026-08-23",
+      "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
+      "ts": 1787468400000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "日本茨城县地震致37人受伤 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fZ3lxTFI5WEl3Qjlvb2l4cU5CT1hZdkt1emRwLW1oc0RfcDlvbW90SEJkWnp5QUJCUEdmUzRpVHBlQ0ZCUFlzQVpRbzlOZUhSY1ZucFhuWWE2QUQ4WlR6OVQwakhOaXRVU1djd3JFallBbXl6RlJvSElnUm9BZ2c?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-03bd2c968fe2",
@@ -167,9 +167,9 @@
       "scope": "intl",
       "type": "geo",
       "title": "尼泊尔泥石流灾害已致1451人遇难 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hVXJJWllBd3ktRkFqbkVoN1J4OHVPbjU4b0dETTZ3RGY0VVJpSF9KWUFURFpVcnRUTXVfNktkenJLdjgzNWVwNXo2QUVYZ2otQUNCU3YwWlpEamQ5S0dxRENFSjFwa2Jz?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XLXdjWmM5VWFGd1pjWm9UeXJpaW5kaXNHTFdKOEZUeng4R3BlWUdvaGhSSWxZdHc4cnd5YTlTeWhCazRUM3hTeE4xcHROb0NqU1p3REtIdk1NLVhLb3FNaldsZkxyT05IeVlaSTBRYU9SdWlNVXc?oc=5",
       "site": "央广网",
-      "siteUrl": "https://news.cnr.cn"
+      "siteUrl": "https://www.cnr.cn"
     },
     {
       "id": "FL-97f4ac112dc7",
@@ -244,15 +244,15 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-b7c890035807",
+      "id": "FL-b88e3048f617",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 12:11:17 GMT",
       "ts": 1789906277000,
       "scope": "dom",
       "type": "geo",
-      "title": "零伤亡背后：茂县山体滑坡的“三道防线” - sichuan.scol.com.cn",
+      "title": "零伤亡背后：茂县山体滑坡的“三道防线” - 四川新闻",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ueXllbkRvUjUzZkZuRkt5SVNFbEk2SWpnRGJDclVhdFNoLXlQMm14cUNBdVRGcnZBQmhyTHg2QnNVY2RvOHpUVkZhOHp1NFFRS2FzU1IzS2dBc0pSazNLbV9zRQ?oc=5",
-      "site": "sichuan.scol.com.cn",
+      "site": "四川新闻",
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
@@ -496,16 +496,16 @@
       "siteUrl": "https://news.hsw.cn"
     },
     {
-      "id": "FL-49642f344c72",
+      "id": "FL-cbd15b7de552",
       "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 18:40:00 GMT",
-      "ts": 1789843200000,
+      "dateISO": "Sat, 19 Sep 2026 22:05:57 GMT",
+      "ts": 1789855557000,
       "scope": "dom",
-      "type": "geo",
-      "title": "四川盐边县泥石流增至最少2死 当局续搜寻失联人员 - gbcode.rthk.hk",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUFVwZGdLUG93VlI4MUFxbGxlSTlPNEExZUpJbXg0OGN1TUxIVnJCNWMteGxlSzMyU3YybXY2VEg1UE96aTNld0hSUTl1MXRncENNekxScnZTVEdVNEUzME1XLXFHbkNVZUI3a1FCdjlLcmVaY2ZFVVExZmZRMEVra0lMejBFZ2dVSzNuZ0kwNA?oc=5",
-      "site": "gbcode.rthk.hk",
-      "siteUrl": "https://gbcode.rthk.hk"
+      "type": "other",
+      "title": "中央气象台：预计今早到明天，河北、湖北、湖南、浙江、福建、四川、重庆、云南、广西、广东、台湾岛等地有短时强降水 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xQTBvQUR1NXVLQ0RLNlFfc1Q0ZHpsQmhFZHczOExTYjlTSUxQTlk4T1VCMTE1N2tnNm9MRkx2dkJkWk9HN0V6ZDBNb0t5SkFCVzlqZ1JCUTU0U3NsVjhiVlRLN1JpdDZNS1BmeHhEbXF6LVhtSTMyVw?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-fb76370c2157",
@@ -532,15 +532,15 @@
       "siteUrl": "http://news.china.com.cn"
     },
     {
-      "id": "FL-749aed081520",
+      "id": "FL-7eef43295216",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 15:51:18 GMT",
       "ts": 1789833078000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1436人 - 央广网",
+      "title": "尼泊尔泥石流灾害遇难人数升至1436人 - news.cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aVE5oUFFzTTBXSEo4YjZTRHdyeWh3WGo2cy1fdlc0Q3dPQUdZaWR0Q1VMWjdGcG9mZnRWY28wRDQ1dmIyakNJcFlaWkpRbEtfY0t1cW5CcU5ON3ZGcXNBZUV4ZWN1bkR4?oc=5",
-      "site": "央广网",
+      "site": "news.cnr.cn",
       "siteUrl": "https://news.cnr.cn"
     },
     {
@@ -700,15 +700,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-e0c839b1d53e",
+      "id": "FL-16971aea7af3",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 08:46:29 GMT",
       "ts": 1789721189000,
       "scope": "dom",
       "type": "geo",
-      "title": "在茂县石大关山体滑坡中，他最早“吹哨”预警并协助转移群众，被应急管理部点名表扬丨C视频 - sichuan.scol.com.cn",
+      "title": "在茂县石大关山体滑坡中，他最早“吹哨”预警并协助转移群众，被应急管理部点名表扬丨C视频 - 四川新闻",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zTXBPYzEwbzg4cjgxNzlELVpIdXF3Z2VlVlVyUUw2ZmdSYTVrUHdJbC1nTkhUNlNwTU1oclFMbTFEanJ0SkpubFlHNmtQS3QtOVN3WWVwVU9RLVdXSHlCSFYzWQ?oc=5",
-      "site": "sichuan.scol.com.cn",
+      "site": "四川新闻",
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
