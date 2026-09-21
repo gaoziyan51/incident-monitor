@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T11:01:21.142Z",
+  "updated": "2026-09-21T11:19:43.523Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -39,15 +39,15 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-340d5e981918",
+      "id": "FL-f8061d91b549",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
       "ts": 1787468400000,
       "scope": "dom",
       "type": "blast",
-      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
+      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -75,27 +75,27 @@
       "siteUrl": "https://mil.huanqiu.com"
     },
     {
-      "id": "FL-5e90cc979fa1",
+      "id": "FL-784deda002a9",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 10:50:10 GMT",
       "ts": 1789901410000,
       "scope": "intl",
       "type": "blast",
-      "title": "乌克兰首都基辅传出爆炸声 - 央广网",
+      "title": "乌克兰首都基辅传出爆炸声 - news.cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuWEJUZnJZcWNmZkZWWFhMblRoNmFnSmZoWW9fZ3ZfRWNoQ0g4bWxIZGNNNXdJclphTW1HNDluMmQweGV1TVhxVTZZUk96bVc2cnRySDNqY2xHZUJyb0N3LTlSN21LT3pJ?oc=5",
-      "site": "央广网",
+      "site": "news.cnr.cn",
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-0615dd398028",
+      "id": "FL-f38e3c0cb20f",
       "date": "2026-08-02",
       "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
       "ts": 1785654000000,
       "scope": "intl",
       "type": "blast",
-      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - 新华网",
+      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -111,16 +111,28 @@
       "siteUrl": "https://finance.eastmoney.com"
     },
     {
-      "id": "FL-160d55aeb47e",
+      "id": "FL-5414e00ffd4e",
       "date": "2026-06-22",
       "dateISO": "Mon, 22 Jun 2026 07:00:00 GMT",
       "ts": 1782111600000,
       "scope": "intl",
       "type": "blast",
-      "title": "卡塔尔工厂爆炸已致13人死亡 - 新华网",
+      "title": "卡塔尔工厂爆炸已致13人死亡 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mR2pTX0YxWjBwQ2lLNC1XZjFhd3IwVEYtWkZFR3ZBU3B5RTFHR1BldmQ3OEkxN2NaWTMzYUkwWENDeEliY3dVNEloOExFS1B6SlZQTENHdWVmTWpUM042M2hRcmo4QS1qdl85cXlhZHJ3R3JGTEU4?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-78ab57caf0f6",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 11:17:54 GMT",
+      "ts": 1789989474000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "两便利店遭爆炸物袭击 警方追查两蒙面男 - mediaselangor.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdjdfY1NGMjhiOGEzMjdySER5MEhNUkZvSy1sWWFSRTBIamYxMDhLdjJNUGpMMEpRY3JFUHBSdHU3ZlVBeTNxQXpDc19XSmg5R0oxZzNB?oc=5",
+      "site": "mediaselangor.com",
+      "siteUrl": "https://mediaselangor.com"
     },
     {
       "id": "FL-51431bb3c903",
@@ -183,28 +195,28 @@
       "siteUrl": "https://www.ajudaily.com"
     },
     {
-      "id": "FL-689e52b351bd",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 08:13:20 GMT",
-      "ts": 1789978400000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Worker files lawsuit one year after orphan well explosion in Ohio’s Wayne National Forest - Ohio Capital Journal",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdTY0Q3ZwWFljNmlCbkZSanE4T0xUTE9CQW9hQ2RFOE5QRWtSQlZVUURxbEVpb3RUWng1TF82LXJrS0w0U2FzeDJLNTQxWnd3UkZTOGdkaXJKbWhJeTg4TFhuaU5qZzQwTzZPRGFnTUNJY1VmMXFxcjFORzVRUEhOVVFQczk4aUt1X1hFLW4xR1Q1blR5aDhUbHdMOVFCOUVUSkZ1a3RuZHcyZk1ONG1McHkyel9ia2FzZDFNaExiUDZubElLTVZZLVRTaw?oc=5",
-      "site": "Ohio Capital Journal",
-      "siteUrl": "https://ohiocapitaljournal.com"
-    },
-    {
-      "id": "FL-81167d1eaa21",
+      "id": "FL-d63d1606ed12",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 07:56:59 GMT",
       "ts": 1789977419000,
       "scope": "intl",
       "type": "blast",
-      "title": "Three South Korean military officers wounded in explosion near border - aljazeera.com",
+      "title": "Three South Korean military officers wounded in explosion near border - Al Jazeera",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSWQ3a25ZckpwMmswR2U2VGJka0gzQ3hLQXlQSkg0OTl3bU93UWlNOGQtYUMxMjMwQ3RkU2tMWmF3UlVMZDBzNUN0bzdNTjlVeVVRZ2xFbmpHaUxkYzBnY1V3VHZHZkNBZ2xOaWhPWHlxV0E2LTRoTE5iNUZVV0l6cTZsdDRSRHFZZmJ0RFFEbm9rR2ZWelNuQ1VOdnLSAaIBQVVfeXFMTW9odWtndGRuMEhuRnN2SjFpS1VhbVlyU2ljQXc2RUpGbzVDbkhveU92Y0MwRG1Da1JOYXV3UTBlTXd0VTdrYVhYNUlhX1ZaM0pRQ2lKelg0clMtNUp2RkEzVlhWZ0dtbVBReE4yRnJldGwxWjd0OGw5dXF4Yl9wQ1R4emF2OTFpY0ZYN2NVS1M2VFA0VnZTU0J4QWl4XzJSazRB?oc=5",
-      "site": "aljazeera.com",
+      "site": "Al Jazeera",
       "siteUrl": "https://www.aljazeera.com"
+    },
+    {
+      "id": "FL-86f839e2dd96",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 07:55:00 GMT",
+      "ts": 1789977300000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Worker files lawsuit one year after orphan well explosion in Ohio’s Wayne National Forest - News From The States",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaWpFQjd0RjVwTmJrY2ZXcHR3VFRma0VBTy11N3k3SXNSWU5oaUNOQ3FYeVVPRmZ6dDNDS3htUHdvRmJieldXc0k4LUpyNk1aemtCZlZfN0NUd3loMWNaSEZlQTVVV1ZmdHo0Q2NzbEI0b3AzdjVlYXA1c3U0UGtDZWdsTG1fdXNoN0hiV1NxNDE2dExLbEdnZGx3djhZUkJ2UkZYbkNfaFdxT0lVMlhkVXZUM3BpRnNhc1pxNnMtZ1NIS2xoT3c?oc=5",
+      "site": "News From The States",
+      "siteUrl": "https://www.newsfromthestates.com"
     },
     {
       "id": "FL-1b678743d226",
@@ -279,15 +291,15 @@
       "siteUrl": "https://news.ifeng.com"
     },
     {
-      "id": "FL-0acb474fc24a",
+      "id": "FL-628013cff6a6",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 04:32:40 GMT",
       "ts": 1789965160000,
       "scope": "intl",
       "type": "blast",
-      "title": "Powerful explosions at Syrian army site near Aleppo injure at least four - aljazeera.com",
+      "title": "Powerful explosions at Syrian army site near Aleppo injure at least four - Al Jazeera",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNGdIZWVDZGY1SmNoNWhZb1BFZHNWWlQtTnM0MFlxSHVCZUdpbzY1M2NBMDllWTB3bnhDSkdXa3BUaVB1cDdRY2haZi1rOHJUS2RBYmRONWZOUk1XNWQ4alItMlBXenJvSlJ2YUgtR0xYc3I5MTg2a3BoV05kc1lodW9FZ1doalZNMFhaSmpYVnZNM1JtcWVZLXNUUWNYX3phVmkwcnpNOG9mRmV5NlJEZFdsd0rSAboBQVVfeXFMTVFkcF9BM3lWTUJJLUFIRGh2SWNnMnlWQmpIYVRQUG9KdDBmcVExUlpoZWdyQjc3RUpYZDJobTdDaEFoUHZtdXQwdXN5WmFCTGtaZVlhT2xlc1BWaTJfSGZzS1ZlclR0ellGNHNYZHVlc0FGLTFTdnBaQU1wUGZhWnBLaGdGUmFaVFFhTTNEV0lsYTduMG91VGFfenNBWHliREZGcXBicU5vV1VVdHAtV3BRQWhYVHVEQ21n?oc=5",
-      "site": "aljazeera.com",
+      "site": "Al Jazeera",
       "siteUrl": "https://www.aljazeera.com"
     },
     {
@@ -315,39 +327,39 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-7544e3165c34",
+      "id": "FL-f6d04b239c6e",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 02:01:00 GMT",
       "ts": 1789956060000,
       "scope": "intl",
       "type": "blast",
-      "title": "贝鲁特港爆炸案接近进入起诉阶段—— 阿纳多卢通讯社 - UA.NEWS",
+      "title": "贝鲁特港爆炸案接近进入起诉阶段—— 阿纳多卢通讯社 - ua.news",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUzdJM1JzeXlNdHo0Si1xZ0daMHVQdHFuclZIOGZrbGd5a0tKNXZCbHBNYlpOZzlFT3gzUFBjaTEzYW8xSVY4bHVfaE1GbVZJQ2ZxZmpmeHdoQjBjTWoyenFWVkFneEJDN282OUVwRTYxYkFBYjRtdXVGNVR6ME1oOUxydjgtVDNLYTN4ZnEyM2tZNUxSdnh2Y1BLVUQteDVyd21xNWZVOFl5cHp3?oc=5",
-      "site": "UA.NEWS",
+      "site": "ua.news",
       "siteUrl": "https://ua.news"
     },
     {
-      "id": "FL-8085ef1e43e9",
+      "id": "FL-1366bb63c867",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 01:56:18 GMT",
       "ts": 1789955778000,
       "scope": "intl",
       "type": "blast",
-      "title": "沙特利雅得再一次传出爆炸声 导弹拦截声音响起 - military.china.com",
+      "title": "沙特利雅得再一次传出爆炸声 导弹拦截声音响起 - 中华军事",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YaVU0S2lieFd5V1k5Qms1YUhBalREV1NMZ0V4S3VURXFDMlVqMTNYVXJpVmJWYjBXaWZUTzRtWFNvdzNaWmEtd01ySktMX25CMGo0QWlUZ1ZKRnltOFRMVENmdG9aM3NMSmU2SmI3WFM?oc=5",
-      "site": "military.china.com",
+      "site": "中华军事",
       "siteUrl": "https://military.china.com"
     },
     {
-      "id": "FL-b042a088a326",
+      "id": "FL-dbcf7399ae0d",
       "date": "2026-08-03",
       "dateISO": "Mon, 03 Aug 2026 07:00:00 GMT",
       "ts": 1785740400000,
       "scope": "intl",
       "type": "blast",
-      "title": "巴基斯坦西北部发生爆炸致14人死亡 - 新华网",
+      "title": "巴基斯坦西北部发生爆炸致14人死亡 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     }
   ]
