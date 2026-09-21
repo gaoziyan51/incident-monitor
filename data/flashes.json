@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T14:32:19.294Z",
+  "updated": "2026-09-21T14:46:33.207Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -123,6 +123,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-5e80c3d0a0a0",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 14:22:05 GMT",
+      "ts": 1790000525000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "叙利亚一武器库爆炸，至少4人受伤 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWUzdkTmRVb0o0ZkRuVWRPVlRsWVF0NXhIbzdIdjU2NEpZWTMwR3VrNXkwVEhDSGlNcFZOeUoxMEdWNENIelJwWjJsTGhRcEpLcjNNQ2RFNUxSUnVWZGc?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
       "id": "FL-d9a030c9540a",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 13:18:45 GMT",
@@ -133,18 +145,6 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcC1jVlhHVTRfck9YU3BpVlduZXJEbGZxZnMtX2NIZFlQZnZjVmtVVDBBNElBTzhFcU5RdW4yT3JHVVJoRUhsZTVNWlNQOTVlcjhPNl9VNXdvejlfWUdRcFN2RC00R0lKOF95Y3lOMGtnNURNaVRkVG9ueURZWXc5UXFpUkVFU3FmVDVFZDkxVVY2dkFzaXY2S2gxOA?oc=5",
       "site": "FireRescue1",
       "siteUrl": "https://www.firerescue1.com"
-    },
-    {
-      "id": "FL-b7de92cfab30",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 12:33:22 GMT",
-      "ts": 1789994002000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Explosion injures 3 South Korean military officers inside DMZ bordering North Korea - wbaltv.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNajVBZWhkU21CSnU5R043LXp1S3ZZT0xzbUdGaGVSWnZLYzNCbFNOcERGLVA2RC00VDRPZmk3M2JpclZkQjFrd1ZWajk3cmhMTzBfRVV3a1plVVI3akVWYmFqYkdQcDhjdFJhMXF3SFNSU3RhQzZxM0VvNkl0SXlWdDZVOGY?oc=5",
-      "site": "wbaltv.com",
-      "siteUrl": "https://www.wbaltv.com"
     },
     {
       "id": "FL-e582b144d7b1",
@@ -279,18 +279,6 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-2015bde555f8",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 05:04:10 GMT",
-      "ts": 1789967050000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "外媒：叙利亚北部一军事设施发生剧烈爆炸，造成至少4人受伤 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sWnJHcnNVbTNPcnhfa0twVTZwREtqQU5sTTd4akthVlktRDJ3RmtqdHY2RlNZNjZfRVJSTVpqaEI3dGVWSERSMHdQRQ?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://wap.cj.sina.cn"
-    },
-    {
       "id": "FL-3e6e598ab98b",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 04:40:42 GMT",
@@ -361,18 +349,6 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUzdJM1JzeXlNdHo0Si1xZ0daMHVQdHFuclZIOGZrbGd5a0tKNXZCbHBNYlpOZzlFT3gzUFBjaTEzYW8xSVY4bHVfaE1GbVZJQ2ZxZmpmeHdoQjBjTWoyenFWVkFneEJDN282OUVwRTYxYkFBYjRtdXVGNVR6ME1oOUxydjgtVDNLYTN4ZnEyM2tZNUxSdnh2Y1BLVUQteDVyd21xNWZVOFl5cHp3?oc=5",
       "site": "UA.NEWS",
       "siteUrl": "https://ua.news"
-    },
-    {
-      "id": "FL-8085ef1e43e9",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 01:56:18 GMT",
-      "ts": 1789955778000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "沙特利雅得再一次传出爆炸声 导弹拦截声音响起 - military.china.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YaVU0S2lieFd5V1k5Qms1YUhBalREV1NMZ0V4S3VURXFDMlVqMTNYVXJpVmJWYjBXaWZUTzRtWFNvdzNaWmEtd01ySktMX25CMGo0QWlUZ1ZKRnltOFRMVENmdG9aM3NMSmU2SmI3WFM?oc=5",
-      "site": "military.china.com",
-      "siteUrl": "https://military.china.com"
     },
     {
       "id": "FL-b042a088a326",
