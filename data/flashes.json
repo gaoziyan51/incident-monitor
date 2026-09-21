@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T14:20:20.023Z",
+  "updated": "2026-09-21T14:32:19.294Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -135,15 +135,27 @@
       "siteUrl": "https://www.firerescue1.com"
     },
     {
-      "id": "FL-14c010d82db5",
+      "id": "FL-b7de92cfab30",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 12:33:22 GMT",
+      "ts": 1789994002000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Explosion injures 3 South Korean military officers inside DMZ bordering North Korea - wbaltv.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNajVBZWhkU21CSnU5R043LXp1S3ZZT0xzbUdGaGVSWnZLYzNCbFNOcERGLVA2RC00VDRPZmk3M2JpclZkQjFrd1ZWajk3cmhMTzBfRVV3a1plVVI3akVWYmFqYkdQcDhjdFJhMXF3SFNSU3RhQzZxM0VvNkl0SXlWdDZVOGY?oc=5",
+      "site": "wbaltv.com",
+      "siteUrl": "https://www.wbaltv.com"
+    },
+    {
+      "id": "FL-e582b144d7b1",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 12:02:42 GMT",
       "ts": 1789992162000,
       "scope": "dom",
       "type": "blast",
-      "title": "住客称酒店空调疑爆炸致中毒，现场泄漏大量白色粉末与刺鼻气体，当时：酒店拒绝沟通协商 - 搜狐网",
+      "title": "住客称酒店空调疑爆炸致中毒，现场泄漏大量白色粉末与刺鼻气体，当时：酒店拒绝沟通协商 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMHR4VmZleXRvMjRMZjhLRnJkS254c3dlbmJMczlvaUJuX2VxelVldmJ4ako4Z0tQdVlXX0FMWlI1QXBadmxHNXhuSVRlTVJhb1ZBcmk3c3JaVUgtNlI0dmNZejVXVmRxZDZOTnBuYjdhdkdZX1ZSX2RLMFJHQ1d3RnN2bW16dzJy?oc=5",
-      "site": "搜狐网",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
