@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T05:54:07.671Z",
+  "updated": "2026-09-21T06:02:13.517Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -39,6 +39,18 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
+      "id": "FL-ed5bb4de52b7",
+      "date": "2026-07-02",
+      "dateISO": "Thu, 02 Jul 2026 07:00:00 GMT",
+      "ts": 1782975600000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "涉留神峪特别重大瓦斯爆炸事故 崔瑞军被查 - 中国日报网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwQldTMXJVdFF1VDFZdGpMSG9kcElHUTdDWkpNbEpBeVJLMVltU3JaY05MZG5PR3NnWUFHMURJelctUkhNalZTQWM0d2N2ZU81blNIRW9fZ0hyMExJQ2tRZE1CRllnRnFJcXVWbXpwMnMwMWlwT1R5Qmt4aDE?oc=5",
+      "site": "中国日报网",
+      "siteUrl": "https://cn.chinadaily.com.cn"
+    },
+    {
       "id": "FL-340d5e981918",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
@@ -51,15 +63,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-5e90cc979fa1",
+      "id": "FL-784deda002a9",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 10:50:10 GMT",
       "ts": 1789901410000,
       "scope": "intl",
       "type": "blast",
-      "title": "乌克兰首都基辅传出爆炸声 - 央广网",
+      "title": "乌克兰首都基辅传出爆炸声 - news.cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuWEJUZnJZcWNmZkZWWFhMblRoNmFnSmZoWW9fZ3ZfRWNoQ0g4bWxIZGNNNXdJclphTW1HNDluMmQweGV1TVhxVTZZUk96bVc2cnRySDNqY2xHZUJyb0N3LTlSN21LT3pJ?oc=5",
-      "site": "央广网",
+      "site": "news.cnr.cn",
       "siteUrl": "https://news.cnr.cn"
     },
     {
@@ -183,15 +195,15 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-628013cff6a6",
+      "id": "FL-0acb474fc24a",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 04:30:00 GMT",
       "ts": 1789965000000,
       "scope": "intl",
       "type": "blast",
-      "title": "Powerful explosions at Syrian army site near Aleppo injure at least four - Al Jazeera",
+      "title": "Powerful explosions at Syrian army site near Aleppo injure at least four - aljazeera.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNGdIZWVDZGY1SmNoNWhZb1BFZHNWWlQtTnM0MFlxSHVCZUdpbzY1M2NBMDllWTB3bnhDSkdXa3BUaVB1cDdRY2haZi1rOHJUS2RBYmRONWZOUk1XNWQ4alItMlBXenJvSlJ2YUgtR0xYc3I5MTg2a3BoV05kc1lodW9FZ1doalZNMFhaSmpYVnZNM1JtcWVZLXNUUWNYX3phVmkwcnpNOG9mRmV5NlJEZFdsd0rSAboBQVVfeXFMTVFkcF9BM3lWTUJJLUFIRGh2SWNnMnlWQmpIYVRQUG9KdDBmcVExUlpoZWdyQjc3RUpYZDJobTdDaEFoUHZtdXQwdXN5WmFCTGtaZVlhT2xlc1BWaTJfSGZzS1ZlclR0ellGNHNYZHVlc0FGLTFTdnBaQU1wUGZhWnBLaGdGUmFaVFFhTTNEV0lsYTduMG91VGFfenNBWHliREZGcXBicU5vV1VVdHAtV3BRQWhYVHVEQ21n?oc=5",
-      "site": "Al Jazeera",
+      "site": "aljazeera.com",
       "siteUrl": "https://www.aljazeera.com"
     },
     {
