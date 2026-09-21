@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T02:19:34.754Z",
+  "updated": "2026-09-21T02:31:22.632Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -231,6 +231,18 @@
       "siteUrl": "https://www.21jingji.com"
     },
     {
+      "id": "FL-26084bbeb81f",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 14:20:43 GMT",
+      "ts": 1789827643000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "叙利亚东部军事设施爆炸造成11人死亡 - 联合早报",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JTG1LNnFOMEtvQUlaNVZzd3ktOHViTTEtZTBQdGQ0WlQ5SlhRUlMwYjhucS1UWlhpWk43aXFCMlBURmFQdlA1VW9rNXU4ZzRpcUpIX3ZrR2l0YkQyTFZBYXMxaUw5N1U0Z2c?oc=5",
+      "site": "联合早报",
+      "siteUrl": "https://www.zaobao.com.sg"
+    },
+    {
       "id": "FL-288840eb89b8",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 12:41:05 GMT",
@@ -313,6 +325,18 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mR2pTX0YxWjBwQ2lLNC1XZjFhd3IwVEYtWkZFR3ZBU3B5RTFHR1BldmQ3OEkxN2NaWTMzYUkwWENDeEliY3dVNEloOExFS1B6SlZQTENHdWVmTWpUM042M2hRcmo4QS1qdl85cXlhZHJ3R3JGTEU4?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-f22d7e028e3a",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 02:24:17 GMT",
+      "ts": 1789957457000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "张杰粤语版天下真的燃爆了，虽然已经很晚了但这一嗓子直接把我唱醒了！ - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNE5TSzNFbjFtVU1zUkFDdi1rVXpuUEdkRnJwNWpUMTF2UU9oaTAtMkhGWVpxbVI2STlyWnVOaVdnVnBfMnJDY3lxNlVxRmhJWFZNbUpqSngwMTZNcEZTSm1lSDJGQTF1bmphODVZU2dVbmVBTEJXdjdFaHZHWWpZaDE3NllMUDR3Z3BabjF2TmhRYnFxekJDT2FZTDl0dGlJeEtsTF9JaUY1N2lxWUticU4xSmdRTWRHWUpZblR3Z0toWUNQNWhucmtaeGtPbjQ5ZUNNNzV4NVFvNnZFSG44NmpvRGIxdw?oc=5",
+      "site": "手机新浪网",
+      "siteUrl": "https://k.sina.com.cn"
     },
     {
       "id": "FL-4d0b63864261",
