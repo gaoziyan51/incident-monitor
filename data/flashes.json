@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T04:56:02.901Z",
+  "updated": "2026-09-21T05:03:36.434Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -73,18 +73,6 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONnhUQ0tob2xMSW1mUHdpcGJFNXRFcVdDbV9Pb2o0YlBWdk1lZTQycl81d1BEWm96bHQwQUowNEVWNUhheEgyMWFmcGFJMXpqNjNCNFAxMkk0eHlzeVJYckRDV1YzUVhvWE9kSER3RUZ6THB0dkFKLWtJVUhOdXc4M3RHOFd3Z1Vwd0Y3UnlFalEySkNIMnfSAZsBQVVfeXFMUFR1T2czeUV4dVJPdUZMZTlGM1lENkRXaExkXzRwR3BFTWFUaE1DTDQ3c1FPRHFqaGhaTVVzR1dRVDljVGE3c1RtQVhWZjJuaXJRcWpDaFMzSXoyVGRhbWtaSmRNT01Wb2ZVbFJ0NjNaZExyRkZkVUVKWldmekt0NjVPSG1TRUVfemNBaU8xWW16NVpiMWdxWlFpNkU?oc=5",
       "site": "WANE 15",
       "siteUrl": "https://www.wane.com"
-    },
-    {
-      "id": "FL-3d90b05f49d0",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 13:40:00 GMT",
-      "ts": 1789911600000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "外媒：叙利亚北部一军事设施发生剧烈爆炸，造成至少4人受伤 - 环球网",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zMElfM3NkaUJtWjNDanltY2VOVHRnYkNscGVhY25CbjRmenlVWFVCRVo3SHR0NFJNRWRTeDJheW1wclc0WVk0THBFaHdyeGZNWm9qb2h3?oc=5",
-      "site": "环球网",
-      "siteUrl": "https://mil.huanqiu.com"
     },
     {
       "id": "FL-5e90cc979fa1",
@@ -195,6 +183,18 @@
       "siteUrl": "https://www.sohu.com"
     },
     {
+      "id": "FL-2015bde555f8",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 04:40:00 GMT",
+      "ts": 1789965600000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "外媒：叙利亚北部一军事设施发生剧烈爆炸，造成至少4人受伤 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tYTNUNWthZUVLUFNhUk5RdklWSzJTb1NOZmlGR19LSlR0OW1ibXpPYjNxOXN1d2NRNnJDU21CbGVXSUtORDNvWk1nU3IzdE9vaTNYZUZWM2FzSHdYVWthNmctb09WWGJpZ0dXQmwwNElHWllqVDRWMw?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
+    },
+    {
       "id": "FL-628013cff6a6",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 04:30:00 GMT",
@@ -207,27 +207,27 @@
       "siteUrl": "https://www.aljazeera.com"
     },
     {
-      "id": "FL-aa92ae4d0e31",
+      "id": "FL-776ec1e80534",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 04:27:46 GMT",
       "ts": 1789964866000,
       "scope": "dom",
       "type": "blast",
-      "title": "韩媒：韩朝边境非军事区疑似地雷爆炸致3人受伤 - 新浪财经",
+      "title": "韩媒：韩朝边境非军事区疑似地雷爆炸致3人受伤 - cj.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01SzRFUURpY1JjRFRPSUNPY0lMdHltV0FhTEN0NzdGam92enJxNzV4cm9JX05EWHZtUDNpM28tT0VvaGlkQXVSVTNZWQ?oc=5",
-      "site": "新浪财经",
+      "site": "cj.sina.cn",
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
-      "id": "FL-a0b9e6f6698a",
+      "id": "FL-5b9fa950e230",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 03:46:32 GMT",
       "ts": 1789962392000,
       "scope": "intl",
       "type": "blast",
-      "title": "叙利亚一军队营地发生强烈爆炸，至少四人受伤 - 新浪财经",
+      "title": "叙利亚一军队营地发生强烈爆炸，至少四人受伤 - finance.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wd3VHa3RYOC1OQTlBb1paeEhXZmNXUFNJZ2dralg3TE0yaHE0Q29GRHJWTFk2M1ZPQmhoeWp5b0poTW1xSThLbTFaWGc1Y0h2TmJtY0VwY2VSemwzY3Vzd1RpSHUxX0Z1UlVvSlY1M3NOcFpjV2t3SQ?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.cn",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -243,15 +243,15 @@
       "siteUrl": "https://www.thepaper.cn"
     },
     {
-      "id": "FL-e60118565e00",
+      "id": "FL-da78bdb49a38",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 02:53:00 GMT",
       "ts": 1789959180000,
       "scope": "intl",
       "type": "blast",
-      "title": "韩朝军事分界线附近发生爆炸，3 人受伤其中2 名军人重伤|3人|两名韩国军人|韩朝军事分界线|地雷爆炸|韩国军人 - 手机新浪网",
+      "title": "韩朝军事分界线附近发生爆炸，3 人受伤其中2 名军人重伤|3人|两名韩国军人|韩朝军事分界线|地雷爆炸|韩国军人 - sina.cn",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ILXVsak1NUlFlT3BFQ2c5VUFFcGZqM3hybW92ZHZ1VHpPcTBmVGJiZTNMdUttTHdqM1VvZ2EyMXQtS1NERS1wc3lWZ3RVYWwtbzJXWVQxVVZWUzJ6N0wzZnZrTQ?oc=5",
-      "site": "手机新浪网",
+      "site": "sina.cn",
       "siteUrl": "https://www.sina.cn"
     },
     {
@@ -291,27 +291,27 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-8322700da7a8",
+      "id": "FL-a4c84c6d032d",
       "date": "2026-06-05",
       "dateISO": "Fri, 05 Jun 2026 07:00:00 GMT",
       "ts": 1780642800000,
       "scope": "dom",
       "type": "blast",
-      "title": "辽宁本溪一商铺疑似液化气罐泄漏引发爆炸：2人死亡13人轻微伤 - cnr.cn",
+      "title": "辽宁本溪一商铺疑似液化气罐泄漏引发爆炸：2人死亡13人轻微伤 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qQlpCOEt3cGs2NmdiMHBrTlVwekFZQ2pKaTI0cnRPMmt3Z1pCLVUxai1tYkw2RnMzbGctVm5zb0ZwcTIyNlZmUEh0M3MwTlQtRkU2NlJlNnpGdU5vUl9VZ1p2YUNqZi1qLUdYNjNn?oc=5",
-      "site": "cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://www.cnr.cn"
     },
     {
-      "id": "FL-93a963a789de",
+      "id": "FL-7220c0721191",
       "date": "2026-06-05",
       "dateISO": "Fri, 05 Jun 2026 07:00:00 GMT",
       "ts": 1780642800000,
       "scope": "dom",
       "type": "blast",
-      "title": "辽宁本溪商铺爆炸致2死13伤 车载记录仪拍下爆炸瞬间 - cnr.cn",
+      "title": "辽宁本溪商铺爆炸致2死13伤 车载记录仪拍下爆炸瞬间 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GNzZvV1RzRkNfY3RnS0FmNUN6cmc5d2lMWWcyeXdjNkRhQWRNcXJqVWJvNVJkSzZ0djAzNnBNU1FYeWwzSG05bmZrcUxvdDZVMXdxcS1UdXZHVU5QWkNzLTJPZkZWYjdrZ0UtRnB3?oc=5",
-      "site": "cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://www.cnr.cn"
     }
   ]
