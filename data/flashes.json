@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T09:20:48.352Z",
+  "updated": "2026-09-21T09:35:36.961Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -63,15 +63,15 @@
       "siteUrl": "https://mil.huanqiu.com"
     },
     {
-      "id": "FL-5e90cc979fa1",
+      "id": "FL-784deda002a9",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 10:50:10 GMT",
       "ts": 1789901410000,
       "scope": "intl",
       "type": "blast",
-      "title": "乌克兰首都基辅传出爆炸声 - 央广网",
+      "title": "乌克兰首都基辅传出爆炸声 - news.cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuWEJUZnJZcWNmZkZWWFhMblRoNmFnSmZoWW9fZ3ZfRWNoQ0g4bWxIZGNNNXdJclphTW1HNDluMmQweGV1TVhxVTZZUk96bVc2cnRySDNqY2xHZUJyb0N3LTlSN21LT3pJ?oc=5",
-      "site": "央广网",
+      "site": "news.cnr.cn",
       "siteUrl": "https://news.cnr.cn"
     },
     {
@@ -123,6 +123,30 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-a033162a98d3",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 09:20:04 GMT",
+      "ts": 1789982404000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Three South Korean soldiers injured in DMZ explosion - upi.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbWN1SnhsY1lPV3ktZGR2WEZIQzV3Z3BNY2Nocy0tZm5MNlpGenlVSURYT1JURndFQm15UGduTDhNSDA0YllULUhVYnVfTzBFa3NVYUxPbTV1Vjh5UTR0c1BhUFpXNjhLNlJBY1FOSFdOci1iY3BrbGpaSm9vTEE0T3RIbFk3LU1ySy1aOTVtR2dNRW9IclBVeDNleWtMTjJMTlFQZFJlNm1laVVwNVpIb0dxa29TMmQ3bVVPZER1RnjSAcYBQVVfeXFMTVVicG0wWTV0azV6Mm85WkJRbVJ1aEp4YmFjLWw4MVVJN3hfYzh2QU9WRG84Y01HYTM1Y1UzTml1aU5jbzVVQWR2Vm1NUUdZeDlTZ1BWdTVYdTQzY2t5RjVCaElucHVmUXhMaHl5RjlDNXl4U0tiTTVYc0xxN2NSZU8yUjhWMnhSU09QQXBQR0Q3RW5pMTZEZ2pFSGJhM2dIRkp5NFozVVdtdERPR1JRNGtfTDdIbTVIc2VoTWllYUFVRWF1U2RB?oc=5",
+      "site": "upi.com",
+      "siteUrl": "https://www.upi.com"
+    },
+    {
+      "id": "FL-65afbfa87c33",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 09:10:39 GMT",
+      "ts": 1789981839000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "s1mple：我最容易心态爆炸，Senzu容易搞砸稳赢的残局 - 5EPlay",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxSzdsZVR5MGlsTDY0ZWFtU3V6ZnlZOWVRY0hPUzdfRTNlQ3lMMWNPb3FTdzZwXzJudlR2bFgzdjVmRmFNa0o5clNWWjQ4UkkyMmpWaHk0eU1Vc1pRMWo1N2xGMTVNUQ?oc=5",
+      "site": "5EPlay",
+      "siteUrl": "https://csgo.5eplay.com"
+    },
+    {
       "id": "FL-0ab8c8a3ae7f",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 08:59:00 GMT",
@@ -135,15 +159,15 @@
       "siteUrl": "https://apnews.com"
     },
     {
-      "id": "FL-8f7a159a0704",
+      "id": "FL-6ce3f5494715",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 08:52:10 GMT",
       "ts": 1789980730000,
       "scope": "dom",
       "type": "blast",
-      "title": "李在明总统：将全力支持受地雷爆炸伤害的军人治疗与恢复 - ajudaily.com",
+      "title": "李在明总统：将全力支持受地雷爆炸伤害的军人治疗与恢复 - 亚洲日报",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wblRqSGpxWFlYczJHelBNUnhWMXQxV3NqNEZvX2FPTlRFbF92YzdHWXdwV0Q4aDJpZGJ3SUtSZ213LUhKbXNaX2xxVVNiLXVwQmR6RkFVa0gyNzA?oc=5",
-      "site": "ajudaily.com",
+      "site": "亚洲日报",
       "siteUrl": "https://www.ajudaily.com"
     },
     {
@@ -183,6 +207,18 @@
       "siteUrl": "https://www.aljazeera.com"
     },
     {
+      "id": "FL-57480c4ee8b3",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 07:51:08 GMT",
+      "ts": 1789977068000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Explosion injures 3 South Korean military officers in border area with North Korea - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSmpJTnFpSFpIcDYydjg2YmQzcVVhaWhHdTFOOVIyaS13dE9YQl9iejJ5amt0MDllVVlCR2JOTi05ZlIyTk4tdjRsdzQybmd6VUhzVGloR3h0cUc2TjNFd1U2d3BDb3RfUWlybGVsTEM0a0ZnN2wtUjdDdUNpWVM4VG9fSTU4Sl80NjRmYXdRVmpROGh1RDVuQ3lIYmd5T2wxODFubEp1NHFrWTBYZmZtZtIBtgFBVV95cUxPTlhONU9reXZKZ3NYSWM1aUxVaUlBT0JXcFBjejJYWHpFVlM0WlczNjY5V3hVY1I3N20zeG8wZ0V1VkZIaWxLQWJtU2xPbXRsZWEwbi1KRzZUTmR6c3dIXzdMNFM4SmhCX2I0YUw3SEt6WHI2amdzNGNTUEd6ZVRfUXc2eHlZOVVxV01zc1pCU3VEYmVsUHV5LTRvNWgteEI1WUJ2aGNnTXNxN3doQlV6akJ4ZnJ6dw?oc=5",
+      "site": "ABC News - Breaking News, Latest News and Videos",
+      "siteUrl": "https://abcnews.com"
+    },
+    {
       "id": "FL-1b678743d226",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 07:48:00 GMT",
@@ -193,30 +229,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fWDdiMFVKWUdoT0lrUFNyUlZHVDN3bFVheGk4RnkySDJjaGI2ekRpb2FJXzVxWUwyclZoMmZ4RlZFaFVWSWRFVTBYbjhMS0xDajB4TVdpUnh3dw?oc=5",
       "site": "上观新闻",
       "siteUrl": "https://www.jfdaily.com"
-    },
-    {
-      "id": "FL-e04f3e72cf90",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 07:46:07 GMT",
-      "ts": 1789976767000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Explosion injures 3 South Korean military officers inside DMZ bordering North Korea | National News | 2news.com - KTVN",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPc3lMS3dabGJXNzc5TnllS2dHYzhyMHZOQ0ZpSzVQX3ViRFFubTUwUkI4Mm9fUW5FeEZPNDJ5NjVZYTNiMmFORDNXZElhb19sZVMyM18tSGhlZGZKajBsS2VQVVBtNzE5d3ZxVjN6aU9zTWpfNkZKNk54bE9keTU2bWdTS3pNXzNkeHphTkFHSGdGVDFtOWtvRlhFZ1JpYjFHOW0yTXB4NExxSmJOWlVMZ1o1V21KWkdsaVdUMlBqaWV0OWxqWTBabERWdmJEWVpvRHppcGpnem5Wd0czQ1hMdUUyQndqWnVwQ0ptOHJHODdMaVBHTkJyOWdSVQ?oc=5",
-      "site": "KTVN",
-      "siteUrl": "http://www.ktvn.com"
-    },
-    {
-      "id": "FL-c7c405ef0fe6",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 07:46:07 GMT",
-      "ts": 1789976767000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Explosion injures 3 South Korean military officers inside DMZ bordering North Korea - djournal.com",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMkdMWGc1M3lOS28zc1B6MndESDI5dzM1SjBZcFJYOGZ6cUN1VXQxZXl0UzFBVVQ2UFQxSUcyUktuOXVFYWVtSk5EX2tvYmxOUm9mMmJHRWhkWl9NTmRMYXJSdmpOV21NenA0OE1Dam92dnZ6X1UtOFdNRzZmWVR3QTdrSlZzSmpRYlAyc0lZNFQ3WlE3RXdGNjNvX1piT1RET0dqQXEzMWFyTkpFeG1jWTd1am1wWTVpTHhTbElTOVk4QnpQRXVEQm5TZURZbE95Mk9xaVFEZmM4MElvMUhQN1BuNUYtVHludEg3MTlQZmhuOW9jWGtEZ2EwYTJsOUtnOGRDVVFCRQ?oc=5",
-      "site": "djournal.com",
-      "siteUrl": "https://www.djournal.com"
     },
     {
       "id": "FL-c09025ee53c1",
@@ -231,28 +243,16 @@
       "siteUrl": "https://www.qlwb.com.cn"
     },
     {
-      "id": "FL-251e9ee1396a",
+      "id": "FL-bf9736ff38bb",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 06:36:20 GMT",
       "ts": 1789972580000,
       "scope": "dom",
       "type": "blast",
-      "title": "西部前线DMZ搜寻中疑似地雷爆炸事件，三名军官受伤 - ajudaily.com",
+      "title": "西部前线DMZ搜寻中疑似地雷爆炸事件，三名军官受伤 - 亚洲日报",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsd2pidE5GcERpQV81SC1CVmpBWk1NREdneDB1ZnhYdE85aUpnTTdZM05qSVA4bFBkc1NKYVhPT0Y4ZXAzYlc5dTgtblhrcFFOM19aNUN1SVJ6Qnc?oc=5",
-      "site": "ajudaily.com",
+      "site": "亚洲日报",
       "siteUrl": "https://www.ajudaily.com"
-    },
-    {
-      "id": "FL-a739973c3345",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 06:05:48 GMT",
-      "ts": 1789970748000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "3 military personnel injured in unidentified explosion in DMZ: JCS - The Korea Herald",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE03X0VXMWZUNUtwNVc1TXJ0X0pkc0R2cVVDZXZkVmJLankyc2FMZWg2SXIxWVVkZHRicExLX3lLenc5cDVaSEc0OFVSQlduSXpfUDZORUlBaw?oc=5",
-      "site": "The Korea Herald",
-      "siteUrl": "https://www.koreaherald.com"
     },
     {
       "id": "FL-fceaf77a49c8",
@@ -267,40 +267,16 @@
       "siteUrl": "https://www.ktalnews.com"
     },
     {
-      "id": "FL-cb776244c18b",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 05:42:04 GMT",
-      "ts": 1789969324000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Explosion injures 3 South Korean military officers in border area with North Korea - dailyjournal.net",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZURCWFpodG1xWWJVN095cWNNSUV5b1ktc1FIUWR1enZjU0ppblN6WjZYWDNvSFBRZE5CaEZkYmE0VXUyMXhHLVZuMmNnNS16VERPdWQ5ZjAtS3o4ejlZSU1EcENqV1M3eGMzSUdZQ2NELTRXelp3VkN2dHhIVk9TWmVZbndqY3RVcEhoYkk1aVVSYlFnX1ljTkNVZDIwOHZrRVdGSnM4UGVHVDdRQWdCeVN3aV8teVMyM1I4?oc=5",
-      "site": "dailyjournal.net",
-      "siteUrl": "https://dailyjournal.net"
-    },
-    {
-      "id": "FL-56f3070872f2",
+      "id": "FL-5e694f2df8b4",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 05:38:50 GMT",
       "ts": 1789969130000,
       "scope": "intl",
       "type": "blast",
-      "title": "叙利亚一弹药库发生连续爆炸，多枚火箭弹飞向村庄 - 新浪财经",
+      "title": "叙利亚一弹药库发生连续爆炸，多枚火箭弹飞向村庄 - 新浪财经_金融信息服务商",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOWF5NEVBNTctMXBrYkpiZ0hoQmZtQXZhTGJESFBtbHBfSkROTFdvNkhPX2FFSUZnN25JRDVwYUYtTVMyM3RGY0E1ckVCNXRfX0M1R01ESG9NQzNsT0Y4dkUtZ25kMDV5REpWcDN0d3pTeUJUSUI2QWJlYXZ4cXE1QVhTTU9WQQ?oc=5",
-      "site": "新浪财经",
+      "site": "新浪财经_金融信息服务商",
       "siteUrl": "https://finance.sina.cn"
-    },
-    {
-      "id": "FL-78a1f9ba4101",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 05:21:29 GMT",
-      "ts": 1789968089000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "叙利亚一弹药库发生连续爆炸，多枚火箭弹飞向村庄 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS0NaaV9pSWdNOGV3TG5DM25oTGcyQzRnSlM4ampPWFZQVHhJRG1DclhMODVNRDk0b3I2bEZMNUxEeGQza0NaY0I1SUhPSzhNT1VhemoyVlF3UTgyajZGU3RyeGRPeHhoUWY3cGRKaUdnMUFvUXpYLThCTl90U2lKUi1XUmtaZ2JS?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-3e6e598ab98b",
@@ -351,15 +327,15 @@
       "siteUrl": "https://mil.ifeng.com"
     },
     {
-      "id": "FL-a0b9e6f6698a",
+      "id": "FL-738493a02d52",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 03:46:32 GMT",
       "ts": 1789962392000,
       "scope": "intl",
       "type": "blast",
-      "title": "叙利亚一军队营地发生强烈爆炸，至少四人受伤 - 新浪财经",
+      "title": "叙利亚一军队营地发生强烈爆炸，至少四人受伤 - 新浪财经_金融信息服务商",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wd3VHa3RYOC1OQTlBb1paeEhXZmNXUFNJZ2dralg3TE0yaHE0Q29GRHJWTFk2M1ZPQmhoeWp5b0poTW1xSThLbTFaWGc1Y0h2TmJtY0VwY2VSemwzY3Vzd1RpSHUxX0Z1UlVvSlY1M3NOcFpjV2t3SQ?oc=5",
-      "site": "新浪财经",
+      "site": "新浪财经_金融信息服务商",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -387,15 +363,15 @@
       "siteUrl": "https://military.china.com"
     },
     {
-      "id": "FL-4d3af258f54b",
+      "id": "FL-ab3d9a9b2aa3",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 02:28:11 GMT",
       "ts": 1789352891000,
       "scope": "intl",
       "type": "blast",
-      "title": "日本东京一工厂发生爆炸 3人受伤 - news.cctv.com",
+      "title": "日本东京一工厂发生爆炸 3人受伤 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hN09TTVZvcXgzeVh6TDZkU2JjS3d1bWY4MG5JRGk1ODBab1plTEx6LUFvN1B6WkFSR0N6ZmxVLWtEd3JNUHg0NDRXb2NWN3gxZmsyTXNiMXEwWUZyNWlQeTRfNmppQ0VxMVlTR2dYVTl2MzBFZ1RSNA?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
     },
     {
