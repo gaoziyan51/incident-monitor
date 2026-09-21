@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T06:26:57.341Z",
+  "updated": "2026-09-21T06:43:52.416Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,15 +15,15 @@
       "siteUrl": "https://www.cpnn.com.cn"
     },
     {
-      "id": "FL-52720b98ede5",
+      "id": "FL-385dd58b908a",
       "date": "2026-08-11",
       "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
       "ts": 1786431600000,
       "scope": "dom",
       "type": "blast",
-      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - science.caixin.com",
+      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - 财新",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fOUNOVy1jMjYtRHRacDFONmZLdmtlUTBvcjVNX0xwMG9rc2lwYkV4ZzRCOFVIVmdNLXdZcUo3Mkw1UnI3elZsRjNGblI4YTBsMGxPeHJCRnZSNWE0dXNTdXRxcUQ?oc=5",
-      "site": "science.caixin.com",
+      "site": "财新",
       "siteUrl": "https://science.caixin.com"
     },
     {
@@ -39,16 +39,28 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-f8061d91b549",
+      "id": "FL-340d5e981918",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
       "ts": 1787468400000,
       "scope": "dom",
       "type": "blast",
-      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - news.cn",
+      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-7c9df51a52f1",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 21:40:43 GMT",
+      "ts": 1789940443000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "1 injured after explosion at assisted living facility - wane.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONnhUQ0tob2xMSW1mUHdpcGJFNXRFcVdDbV9Pb2o0YlBWdk1lZTQycl81d1BEWm96bHQwQUowNEVWNUhheEgyMWFmcGFJMXpqNjNCNFAxMkk0eHlzeVJYckRDV1YzUVhvWE9kSER3RUZ6THB0dkFKLWtJVUhOdXc4M3RHOFd3Z1Vwd0Y3UnlFalEySkNIMnfSAZsBQVVfeXFMUFR1T2czeUV4dVJPdUZMZTlGM1lENkRXaExkXzRwR3BFTWFUaE1DTDQ3c1FPRHFqaGhaTVVzR1dRVDljVGE3c1RtQVhWZjJuaXJRcWpDaFMzSXoyVGRhbWtaSmRNT01Wb2ZVbFJ0NjNaZExyRkZkVUVKWldmekt0NjVPSG1TRUVfemNBaU8xWW16NVpiMWdxWlFpNkU?oc=5",
+      "site": "wane.com",
+      "siteUrl": "https://www.wane.com"
     },
     {
       "id": "FL-1784dad91856",
@@ -63,6 +75,18 @@
       "siteUrl": "https://news.qq.com"
     },
     {
+      "id": "FL-3d90b05f49d0",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 13:40:00 GMT",
+      "ts": 1789911600000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "外媒：叙利亚北部一军事设施发生剧烈爆炸，造成至少4人受伤 - 环球网",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zMElfM3NkaUJtWjNDanltY2VOVHRnYkNscGVhY25CbjRmenlVWFVCRVo3SHR0NFJNRWRTeDJheW1wclc0WVk0THBFaHdyeGZNWm9qb2h3?oc=5",
+      "site": "环球网",
+      "siteUrl": "https://mil.huanqiu.com"
+    },
+    {
       "id": "FL-5e90cc979fa1",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 10:50:10 GMT",
@@ -75,15 +99,15 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-f38e3c0cb20f",
+      "id": "FL-0615dd398028",
       "date": "2026-08-02",
       "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
       "ts": 1785654000000,
       "scope": "intl",
       "type": "blast",
-      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - news.cn",
+      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -111,40 +135,40 @@
       "siteUrl": "https://www.sd.chinanews.com.cn"
     },
     {
-      "id": "FL-5414e00ffd4e",
+      "id": "FL-160d55aeb47e",
       "date": "2026-06-22",
       "dateISO": "Mon, 22 Jun 2026 07:00:00 GMT",
       "ts": 1782111600000,
       "scope": "intl",
       "type": "blast",
-      "title": "卡塔尔工厂爆炸已致13人死亡 - news.cn",
+      "title": "卡塔尔工厂爆炸已致13人死亡 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mR2pTX0YxWjBwQ2lLNC1XZjFhd3IwVEYtWkZFR3ZBU3B5RTFHR1BldmQ3OEkxN2NaWTMzYUkwWENDeEliY3dVNEloOExFS1B6SlZQTENHdWVmTWpUM042M2hRcmo4QS1qdl85cXlhZHJ3R3JGTEU4?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-a338f594d685",
+      "id": "FL-bf9736ff38bb",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 06:36:20 GMT",
+      "ts": 1789972580000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "西部前线DMZ搜寻中疑似地雷爆炸事件，三名军官受伤 - 亚洲日报",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsd2pidE5GcERpQV81SC1CVmpBWk1NREdneDB1ZnhYdE85aUpnTTdZM05qSVA4bFBkc1NKYVhPT0Y4ZXAzYlc5dTgtblhrcFFOM19aNUN1SVJ6Qnc?oc=5",
+      "site": "亚洲日报",
+      "siteUrl": "https://www.ajudaily.com"
+    },
+    {
+      "id": "FL-fceaf77a49c8",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 05:52:28 GMT",
       "ts": 1789969948000,
       "scope": "intl",
       "type": "blast",
-      "title": "Explosion and fire engulf 18-wheeler, race car on Texas highway - KTALnews.com",
+      "title": "Explosion and fire engulf truck, race car on Texas highway - KTALnews.com",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1XT29GeWQ2OHhwUjFxUzNRbDdZZnBlcjRxREhCSXkzV3ZPQ2VvM2NPWWNyRFVqRkJ6UGphMVpLeVhvRTVVOXo1RHk4c2Z4NzgyNkxSYkNqUHd0VUZuOE9ZSWZDTWNPNG5tVjlYRnBRMEZoY1Zqam5aTXBxTdIBgAFBVV95cUxQNzRpYkdhZElJb2FNdi1aWjR0X2U0bmZQcEl0cUF6bWs2UnQtNjZLYUMzQTRieFdZSGp6a1dCMHItazlnVVVMOHNvanVCa21IandzdDdETHR4MG95TEFRbzdDSzJqQWQxR2E3SjBhd3BQN2ZIdU1VMVBDZ2FPVUk3Sg?oc=5",
       "site": "KTALnews.com",
       "siteUrl": "https://www.ktalnews.com"
-    },
-    {
-      "id": "FL-a37dd7d481d9",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 05:44:00 GMT",
-      "ts": 1789969440000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "韩联参：边境非军事区发生爆炸 3名韩国士兵受伤 疑地雷引起 - 香港01",
-      "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNYmZNTHNpMU9GT2VYR1FoZUNEVVhBcURhLVRDWEdUOEhCaFJEQ0JJTk1yeWdtY2dvZnItS0RfRnhYVWdFSW9SQ1hfWmpOOHFfeVVYZlNuZHp0S0tnZzBTamxyU0lSd1Y1cG1lMThVZElBT0hLdFhGZmN1N1M2Z2V3Z2V2RG5RamNBZU1odnhObXBUZ0xtVGFUQllZR2J6elp2OTgwSFBNLUIwVUkzeVJ1eHAzN29sckE3U1YtbWdYdFZ3UFR2ZllUM18yRFExLTJ0TC14TkJWeVVtalhRbnc2MXYtOHZtZVE0RUR5alNWaXZscHFGMFZoX1ZsWVpGZlQtVU1fSHNUV283RjhjdFNKTTFXYzNQRmw2amV2SUdNNVpWNVZtWlVBa3B4NzJhZ3JzdHZOcWFYWElxTk11bG00REJ1UnhEeFA4S3dXeXRteGRnSUlQOGc2aG45S0ZxVjBUVi12a2JuM1BRY2IwbFhWZUVUYUR6a0NaNHFDTktuU29wMWdDXzJ4RDh4dnMtbGp5eTVwMWZTOGZmMEdMU3hBUkptcVRaUEdfUXVF?oc=5",
-      "site": "香港01",
-      "siteUrl": "https://global.hk01.com"
     },
     {
       "id": "FL-56f3070872f2",
@@ -193,18 +217,6 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DMUU1aGt6emEwcnBFR08zNWZ3a0xKUC1seVJ6Y05rMlBqTTBGdFhGOUVNbm5PRXNlTDN0SUh4ZVc4bTcySU1iT3ZyNG1zRUJEV0E?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://www.sohu.com"
-    },
-    {
-      "id": "FL-2015bde555f8",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 04:40:00 GMT",
-      "ts": 1789965600000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "外媒：叙利亚北部一军事设施发生剧烈爆炸，造成至少4人受伤 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tYTNUNWthZUVLUFNhUk5RdklWSzJTb1NOZmlGR19LSlR0OW1ibXpPYjNxOXN1d2NRNnJDU21CbGVXSUtORDNvWk1nU3IzdE9vaTNYZUZWM2FzSHdYVWthNmctb09WWGJpZ0dXQmwwNElHWllqVDRWMw?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-628013cff6a6",
@@ -267,39 +279,39 @@
       "siteUrl": "https://military.china.com"
     },
     {
-      "id": "FL-dbcf7399ae0d",
+      "id": "FL-b042a088a326",
       "date": "2026-08-03",
       "dateISO": "Mon, 03 Aug 2026 07:00:00 GMT",
       "ts": 1785740400000,
       "scope": "intl",
       "type": "blast",
-      "title": "巴基斯坦西北部发生爆炸致14人死亡 - news.cn",
+      "title": "巴基斯坦西北部发生爆炸致14人死亡 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-9865542dc5f6",
+      "id": "FL-0f5476d1c019",
       "date": "2026-07-31",
       "dateISO": "Fri, 31 Jul 2026 07:00:00 GMT",
       "ts": 1785481200000,
       "scope": "intl",
       "type": "blast",
-      "title": "巴基斯坦煤矿爆炸致34人死亡 8人被困 - news.cn",
+      "title": "巴基斯坦煤矿爆炸致34人死亡 8人被困 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ic3NaMW5yOHF1MmNnMDRPdThpWHRsY0dpOUl5X1U2aUxyMlZFTkVhN09xTVRmQ3dwcnFZaThTZjd5RXdLS1VLTVgzNGlENnl3T3hOOVBFSmYyajM0cmlxeVduX28xT2U5M1pvbmJfZE94TW00UmpNd2oyTFZFVEE?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-8322700da7a8",
+      "id": "FL-a4c84c6d032d",
       "date": "2026-06-05",
       "dateISO": "Fri, 05 Jun 2026 07:00:00 GMT",
       "ts": 1780642800000,
       "scope": "dom",
       "type": "blast",
-      "title": "辽宁本溪一商铺疑似液化气罐泄漏引发爆炸：2人死亡13人轻微伤 - cnr.cn",
+      "title": "辽宁本溪一商铺疑似液化气罐泄漏引发爆炸：2人死亡13人轻微伤 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qQlpCOEt3cGs2NmdiMHBrTlVwekFZQ2pKaTI0cnRPMmt3Z1pCLVUxai1tYkw2RnMzbGctVm5zb0ZwcTIyNlZmUEh0M3MwTlQtRkU2NlJlNnpGdU5vUl9VZ1p2YUNqZi1qLUdYNjNn?oc=5",
-      "site": "cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://www.cnr.cn"
     }
   ]
