@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T19:39:36.893Z",
+  "updated": "2026-09-21T19:45:28.750Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,15 +15,15 @@
       "siteUrl": "https://www.cpnn.com.cn"
     },
     {
-      "id": "FL-385dd58b908a",
+      "id": "FL-52720b98ede5",
       "date": "2026-08-11",
       "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
       "ts": 1786431600000,
       "scope": "dom",
       "type": "blast",
-      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - 财新",
+      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - science.caixin.com",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fOUNOVy1jMjYtRHRacDFONmZLdmtlUTBvcjVNX0xwMG9rc2lwYkV4ZzRCOFVIVmdNLXdZcUo3Mkw1UnI3elZsRjNGblI4YTBsMGxPeHJCRnZSNWE0dXNTdXRxcUQ?oc=5",
-      "site": "财新",
+      "site": "science.caixin.com",
       "siteUrl": "https://science.caixin.com"
     },
     {
@@ -51,27 +51,27 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-3d90b05f49d0",
+      "id": "FL-edec1c711f31",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 13:40:00 GMT",
       "ts": 1789911600000,
       "scope": "intl",
       "type": "blast",
-      "title": "外媒：叙利亚北部一军事设施发生剧烈爆炸，造成至少4人受伤 - 环球网",
+      "title": "外媒：叙利亚北部一军事设施发生剧烈爆炸，造成至少4人受伤 - mil.huanqiu.com",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zMElfM3NkaUJtWjNDanltY2VOVHRnYkNscGVhY25CbjRmenlVWFVCRVo3SHR0NFJNRWRTeDJheW1wclc0WVk0THBFaHdyeGZNWm9qb2h3?oc=5",
-      "site": "环球网",
+      "site": "mil.huanqiu.com",
       "siteUrl": "https://mil.huanqiu.com"
     },
     {
-      "id": "FL-784deda002a9",
+      "id": "FL-5e90cc979fa1",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 10:50:10 GMT",
       "ts": 1789901410000,
       "scope": "intl",
       "type": "blast",
-      "title": "乌克兰首都基辅传出爆炸声 - news.cnr.cn",
+      "title": "乌克兰首都基辅传出爆炸声 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuWEJUZnJZcWNmZkZWWFhMblRoNmFnSmZoWW9fZ3ZfRWNoQ0g4bWxIZGNNNXdJclphTW1HNDluMmQweGV1TVhxVTZZUk96bVc2cnRySDNqY2xHZUJyb0N3LTlSN21LT3pJ?oc=5",
-      "site": "news.cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
     },
     {
@@ -99,15 +99,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-a6ef3aef839f",
+      "id": "FL-c308672d85c8",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 11:26:46 GMT",
       "ts": 1789817206000,
       "scope": "intl",
       "type": "blast",
-      "title": "叙利亚过渡政府军队一驻扎点发生爆炸 致11人死亡 - finance.eastmoney.com",
+      "title": "叙利亚过渡政府军队一驻扎点发生爆炸 致11人死亡 - 东方财富",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96dl8xWFNNVXR4NE5kQld1OUk4Skk1NXc0ZDZCb2FnemZxTUQwRTFLUmQxV1BZZDNuTEJzT0NlUGVaTGxqRUIyREVFWGd5N3pRZnI4SnNNSnI5c2dIcjhiNFAzaGVYUQ?oc=5",
-      "site": "finance.eastmoney.com",
+      "site": "东方财富",
       "siteUrl": "https://finance.eastmoney.com"
     },
     {
@@ -135,27 +135,39 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-4eac62dc3cb2",
+      "id": "FL-b12dcaa0a861",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 19:40:38 GMT",
+      "ts": 1790019638000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "凌晨爆炸声震动首都，沙特双重封锁之下中国公民收到一份特殊提醒 - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5iWWRyaXJULUVLcE96aVptREJhQXJWLTJQbUxoVmRPSk1SWFpFd2FNVko2bEZfMVlPUEd5MVFtcWplNnUwN2xTTnROUFlYZXNwNDV1ZktrSWFrYUI1SGFEOENaV3lNZDFhQTJaUEpxWkpnTFk?oc=5",
+      "site": "手机新浪网",
+      "siteUrl": "https://k.sina.com.cn"
+    },
+    {
+      "id": "FL-35640a9f3848",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 18:34:41 GMT",
       "ts": 1790015681000,
       "scope": "dom",
       "type": "blast",
-      "title": "导演陆川携阿里AI短片亮相云栖大会|模型|爆炸|证券|阿里巴巴|摄影者_手机新浪网 - finance.sina.cn",
+      "title": "导演陆川携阿里AI短片亮相云栖大会|模型|爆炸|证券|阿里巴巴|摄影者_手机新浪网 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRzY2bG9JSHRsem1lT0FtTnJoR21TWF9DSTZyN1FwTVIxdTVPanhBUjE5UGRHRGs2cmpsc0o0d2IycU9femgyZnhENi0yYlV0VnBhOFJ4M0c4T1NsTnlXYTZ0a2kzR0Y3aEIyNEZTaWtSZGt5VW1MV0R3dnBHbmR4RWp3andiS2VCeG9PX1NNck02Yi1VZzBVSGtpUUxNU1VZUkxJTlhSSnhocnRTbU1pNV9B?oc=5",
-      "site": "finance.sina.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-288b0c143216",
+      "id": "FL-8f71e0562cc9",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 16:22:49 GMT",
       "ts": 1790007769000,
       "scope": "intl",
       "type": "blast",
-      "title": "1 hospitalized after reported explosion at building on Detroit’s west side - ClickOnDetroit",
+      "title": "1 hospitalized after reported explosion at building on Detroit’s west side - clickondetroit.com",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQc3FGT2JCTEFJbEZCcjZaTzFDX1ZDYjNyVjdDaE1BN0I2dDNlNEpKdDlRVlBkZG8tWl90VFdpeGhJRjRCa0x0anlScTRFckFYemJ0WFhieFVVdUpKZ0xPVXJPN0VuckJUQ3FsdTZteHZXU1hpMnlCZTFiZFdFcHRHb2hHYUd5alNEUVJLT25zSHRScDNuZnRTZVhfaDhadE9VQmZnUWRYRzVPWHVrOE9DRm1wVkI1OEhrOHdjVkxObkp6dGJYWVE?oc=5",
-      "site": "ClickOnDetroit",
+      "site": "clickondetroit.com",
       "siteUrl": "https://www.clickondetroit.com"
     },
     {
@@ -291,15 +303,15 @@
       "siteUrl": "https://www.jfdaily.com"
     },
     {
-      "id": "FL-db75c074d532",
+      "id": "FL-56f3070872f2",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 05:38:50 GMT",
       "ts": 1789969130000,
       "scope": "intl",
       "type": "blast",
-      "title": "叙利亚一弹药库发生连续爆炸，多枚火箭弹飞向村庄 - finance.sina.cn",
+      "title": "叙利亚一弹药库发生连续爆炸，多枚火箭弹飞向村庄 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOWF5NEVBNTctMXBrYkpiZ0hoQmZtQXZhTGJESFBtbHBfSkROTFdvNkhPX2FFSUZnN25JRDVwYUYtTVMyM3RGY0E1ckVCNXRfX0M1R01ESG9NQzNsT0Y4dkUtZ25kMDV5REpWcDN0d3pTeUJUSUI2QWJlYXZ4cXE1QVhTTU9WQQ?oc=5",
-      "site": "finance.sina.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -315,6 +327,18 @@
       "siteUrl": "https://news.ifeng.com"
     },
     {
+      "id": "FL-628013cff6a6",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 04:32:40 GMT",
+      "ts": 1789965160000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Powerful explosions at Syrian army site near Aleppo injure at least four - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNGdIZWVDZGY1SmNoNWhZb1BFZHNWWlQtTnM0MFlxSHVCZUdpbzY1M2NBMDllWTB3bnhDSkdXa3BUaVB1cDdRY2haZi1rOHJUS2RBYmRONWZOUk1XNWQ4alItMlBXenJvSlJ2YUgtR0xYc3I5MTg2a3BoV05kc1lodW9FZ1doalZNMFhaSmpYVnZNM1JtcWVZLXNUUWNYX3phVmkwcnpNOG9mRmV5NlJEZFdsd0rSAboBQVVfeXFMTVFkcF9BM3lWTUJJLUFIRGh2SWNnMnlWQmpIYVRQUG9KdDBmcVExUlpoZWdyQjc3RUpYZDJobTdDaEFoUHZtdXQwdXN5WmFCTGtaZVlhT2xlc1BWaTJfSGZzS1ZlclR0ellGNHNYZHVlc0FGLTFTdnBaQU1wUGZhWnBLaGdGUmFaVFFhTTNEV0lsYTduMG91VGFfenNBWHliREZGcXBicU5vV1VVdHAtV3BRQWhYVHVEQ21n?oc=5",
+      "site": "Al Jazeera",
+      "siteUrl": "https://www.aljazeera.com"
+    },
+    {
       "id": "FL-7017d598b87e",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 04:27:10 GMT",
@@ -327,15 +351,15 @@
       "siteUrl": "https://mil.ifeng.com"
     },
     {
-      "id": "FL-5b9fa950e230",
+      "id": "FL-a0b9e6f6698a",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 03:46:32 GMT",
       "ts": 1789962392000,
       "scope": "intl",
       "type": "blast",
-      "title": "叙利亚一军队营地发生强烈爆炸，至少四人受伤 - finance.sina.cn",
+      "title": "叙利亚一军队营地发生强烈爆炸，至少四人受伤 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wd3VHa3RYOC1OQTlBb1paeEhXZmNXUFNJZ2dralg3TE0yaHE0Q29GRHJWTFk2M1ZPQmhoeWp5b0poTW1xSThLbTFaWGc1Y0h2TmJtY0VwY2VSemwzY3Vzd1RpSHUxX0Z1UlVvSlY1M3NOcFpjV2t3SQ?oc=5",
-      "site": "finance.sina.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -361,18 +385,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YaVU0S2lieFd5V1k5Qms1YUhBalREV1NMZ0V4S3VURXFDMlVqMTNYVXJpVmJWYjBXaWZUTzRtWFNvdzNaWmEtd01ySktMX25CMGo0QWlUZ1ZKRnltOFRMVENmdG9aM3NMSmU2SmI3WFM?oc=5",
       "site": "中华军事",
       "siteUrl": "https://military.china.com"
-    },
-    {
-      "id": "FL-4d3af258f54b",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 02:28:11 GMT",
-      "ts": 1789352891000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "日本东京一工厂发生爆炸 3人受伤 - news.cctv.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hN09TTVZvcXgzeVh6TDZkU2JjS3d1bWY4MG5JRGk1ODBab1plTEx6LUFvN1B6WkFSR0N6ZmxVLWtEd3JNUHg0NDRXb2NWN3gxZmsyTXNiMXEwWUZyNWlQeTRfNmppQ0VxMVlTR2dYVTl2MzBFZ1RSNA?oc=5",
-      "site": "news.cctv.com",
-      "siteUrl": "https://news.cctv.com"
     },
     {
       "id": "FL-b042a088a326",
