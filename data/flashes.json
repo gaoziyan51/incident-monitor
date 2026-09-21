@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T01:37:24.341Z",
+  "updated": "2026-09-21T01:46:36.878Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -27,6 +27,18 @@
       "siteUrl": "https://www.cpnn.com.cn"
     },
     {
+      "id": "FL-b3f9b780f814",
+      "date": "2026-07-28",
+      "dateISO": "Tue, 28 Jul 2026 07:00:00 GMT",
+      "ts": 1785222000000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "日本熊本县7.1级地震后永旺百货店爆炸倒塌有人被困 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjUGt0NlhrUHQxXzNmbVZDb3hMbHNwWXVwOHVJVGpKdmg3QUpDazVodTIzWV9HdzhxWWlBUGcxVjNvTTl0MXJ1M2VEOUdvN1Z0NTFXWEdmX25ubDgyNnFTaFh5OXhQd9IBa0FVX3lxTFBoZEYyNzRIOUtaMkhBa0pGd29RWkptN0ZZLWp0Q3VWcWhIOXVPT3pseXdRREFlakVjZlpvbkJ5TTYwNEFKRGF0YVc3T3FyUVRwb2g3Ymhrb2V6dVlfMldVVVFOSmVwRWZVT1ZN?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
+    },
+    {
       "id": "FL-385dd58b908a",
       "date": "2026-08-11",
       "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
@@ -51,6 +63,18 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
+      "id": "FL-ed5bb4de52b7",
+      "date": "2026-07-02",
+      "dateISO": "Thu, 02 Jul 2026 07:00:00 GMT",
+      "ts": 1782975600000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "涉留神峪特别重大瓦斯爆炸事故 崔瑞军被查 - 中国日报网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwQldTMXJVdFF1VDFZdGpMSG9kcElHUTdDWkpNbEpBeVJLMVltU3JaY05MZG5PR3NnWUFHMURJelctUkhNalZTQWM0d2N2ZU81blNIRW9fZ0hyMExJQ2tRZE1CRllnRnFJcXVWbXpwMnMwMWlwT1R5Qmt4aDE?oc=5",
+      "site": "中国日报网",
+      "siteUrl": "https://cn.chinadaily.com.cn"
+    },
+    {
       "id": "FL-340d5e981918",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
@@ -61,18 +85,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-38eb0d5bd1a2",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 22:25:23 GMT",
-      "ts": 1789943123000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "热量大爆炸， 巧克力系列#一分钟精选视频扶持计划# - 微博",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JdWlRcG91WmRDZXA3VWpRT1FabVh3cWRJblF4bFVRZGhRNG53d05WZlczdlZYRTFndksxWXJJRUpDbEswVTVVajF2N3RlZ2ZiU3Atb3FR?oc=5",
-      "site": "微博",
-      "siteUrl": "https://weibo.com"
     },
     {
       "id": "FL-72bf0c3703c5",
@@ -171,30 +183,6 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-f5c4be1d6db9",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 10:40:06 GMT",
-      "ts": 1789900806000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "乌克兰首都基辅传出爆炸声 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1vczBiSlZwTWM5TnNPWDIzZk5XdTR0djhtZV9qNS0zREJNcnFCeHdkUDl2UTdySnliTk5fMC1MZG9KSVNrbUlja1ZrTQ?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://wap.cj.sina.cn"
-    },
-    {
-      "id": "FL-cc701541ca34",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 08:49:00 GMT",
-      "ts": 1789894140000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "格斗刺杀匕首操，红蓝对抗燃爆 - 长江网",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOdlJwMDRQZWxLSi1sVDZWZlUyNkk3VlEzSGhaTVRjbmROREpQTHUwUm1xUmxRbkVfYTluaGR1N1B0V0pPNEpfTktMdERzRWxhdzlsTmhITEpCUG1oRkZGSmpB?oc=5",
-      "site": "长江网",
-      "siteUrl": "http://news.cjn.cn"
-    },
-    {
       "id": "FL-05716577a80e",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 05:51:00 GMT",
@@ -205,18 +193,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vODhqMlREZmNOV2hCZTU0cGVfRHluS0xsZGZIa0lUbFdKRWJnaXEyNTk3dGtvSTZ1YWI0a00yUVNkcjMxcWZQMkE2MXNrUkdRVFNmdnNEWGt0UQ?oc=5",
       "site": "上观新闻",
       "siteUrl": "https://www.jfdaily.com"
-    },
-    {
-      "id": "FL-f08c21fdff29",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 03:25:00 GMT",
-      "ts": 1789874700000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "沙特首都传出爆炸声 机场附近升起浓烟 - chinanews.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VdmlxeExHcjVCeDRrU05KalgtMDlmcGs3Q2d3XzhMZHRrM25ELWNESEFMeGRnOTMyMFNkcU85T1JLU0V0VWptWHFVdmRhejROQXlocDJwV0VPbE41aWs2elYzR3g3TFdhVm1GT2F6Ql8tdHc4MVE?oc=5",
-      "site": "chinanews.com.cn",
-      "siteUrl": "https://www.chinanews.com.cn"
     },
     {
       "id": "FL-5c93e00c9fc4",
@@ -265,18 +241,6 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVk5YQzJBaTA4S3JyZmdQczFFWjlsV1AzcTlhQlZUOWdzZFkwNEZJQWtycWdENlJjT2g2ME50eXo0VVdDOHFxeUphU2l3dlhJMF9LTURVMTRERGJkWHhkTTBoWk5vOTdMbm1fRVNVNVlDOFVKSXdsbERfY1lsUGpjVjRCVnpsaU8wak91MFVyYw?oc=5",
       "site": "21财经",
       "siteUrl": "https://www.21jingji.com"
-    },
-    {
-      "id": "FL-26084bbeb81f",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 14:20:43 GMT",
-      "ts": 1789827643000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "叙利亚东部军事设施爆炸造成11人死亡 - 联合早报",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JTG1LNnFOMEtvQUlaNVZzd3ktOHViTTEtZTBQdGQ0WlQ5SlhRUlMwYjhucS1UWlhpWk43aXFCMlBURmFQdlA1VW9rNXU4ZzRpcUpIX3ZrR2l0YkQyTFZBYXMxaUw5N1U0Z2c?oc=5",
-      "site": "联合早报",
-      "siteUrl": "https://www.zaobao.com.sg"
     },
     {
       "id": "FL-288840eb89b8",
