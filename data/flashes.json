@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T12:23:14.545Z",
+  "updated": "2026-09-21T12:37:05.966Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -99,15 +99,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-a6ef3aef839f",
+      "id": "FL-c308672d85c8",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 11:26:46 GMT",
       "ts": 1789817206000,
       "scope": "intl",
       "type": "blast",
-      "title": "叙利亚过渡政府军队一驻扎点发生爆炸 致11人死亡 - finance.eastmoney.com",
+      "title": "叙利亚过渡政府军队一驻扎点发生爆炸 致11人死亡 - 东方财富",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96dl8xWFNNVXR4NE5kQld1OUk4Skk1NXc0ZDZCb2FnemZxTUQwRTFLUmQxV1BZZDNuTEJzT0NlUGVaTGxqRUIyREVFWGd5N3pRZnI4SnNNSnI5c2dIcjhiNFAzaGVYUQ?oc=5",
-      "site": "finance.eastmoney.com",
+      "site": "东方财富",
       "siteUrl": "https://finance.eastmoney.com"
     },
     {
@@ -121,6 +121,18 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mR2pTX0YxWjBwQ2lLNC1XZjFhd3IwVEYtWkZFR3ZBU3B5RTFHR1BldmQ3OEkxN2NaWTMzYUkwWENDeEliY3dVNEloOExFS1B6SlZQTENHdWVmTWpUM042M2hRcmo4QS1qdl85cXlhZHJ3R3JGTEU4?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-14c010d82db5",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 12:02:42 GMT",
+      "ts": 1789992162000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "住客称酒店空调疑爆炸致中毒，现场泄漏大量白色粉末与刺鼻气体，当时：酒店拒绝沟通协商 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMHR4VmZleXRvMjRMZjhLRnJkS254c3dlbmJMczlvaUJuX2VxelVldmJ4ako4Z0tQdVlXX0FMWlI1QXBadmxHNXhuSVRlTVJhb1ZBcmk3c3JaVUgtNlI0dmNZejVXVmRxZDZOTnBuYjdhdkdZX1ZSX2RLMFJHQ1d3RnN2bW16dzJy?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-aadaabcc1819",
@@ -279,18 +291,6 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-4b0f1d4f98b7",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 05:04:10 GMT",
-      "ts": 1789967050000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "外媒：叙利亚北部一军事设施发生剧烈爆炸，造成至少4人受伤 - cj.sina.cn",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sWnJHcnNVbTNPcnhfa0twVTZwREtqQU5sTTd4akthVlktRDJ3RmtqdHY2RlNZNjZfRVJSTVpqaEI3dGVWSERSMHdQRQ?oc=5",
-      "site": "cj.sina.cn",
-      "siteUrl": "https://wap.cj.sina.cn"
-    },
-    {
       "id": "FL-3e6e598ab98b",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 04:40:42 GMT",
@@ -313,6 +313,18 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5tT3k2WDJ5ZFBod1NBeXJVLUM1V0RnOFZQb0liUXlWNVppTTRaZFF5M09ZVWZtOXhCM1NLaDVBMnNxRUxjR0VkVEhYX2Y?oc=5",
       "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com"
+    },
+    {
+      "id": "FL-2015bde555f8",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 04:40:00 GMT",
+      "ts": 1789965600000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "外媒：叙利亚北部一军事设施发生剧烈爆炸，造成至少4人受伤 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tYTNUNWthZUVLUFNhUk5RdklWSzJTb1NOZmlGR19LSlR0OW1ibXpPYjNxOXN1d2NRNnJDU21CbGVXSUtORDNvWk1nU3IzdE9vaTNYZUZWM2FzSHdYVWthNmctb09WWGJpZ0dXQmwwNElHWllqVDRWMw?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-628013cff6a6",
@@ -363,15 +375,15 @@
       "siteUrl": "https://ua.news"
     },
     {
-      "id": "FL-1366bb63c867",
+      "id": "FL-8085ef1e43e9",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 01:56:18 GMT",
       "ts": 1789955778000,
       "scope": "intl",
       "type": "blast",
-      "title": "沙特利雅得再一次传出爆炸声 导弹拦截声音响起 - 中华军事",
+      "title": "沙特利雅得再一次传出爆炸声 导弹拦截声音响起 - military.china.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YaVU0S2lieFd5V1k5Qms1YUhBalREV1NMZ0V4S3VURXFDMlVqMTNYVXJpVmJWYjBXaWZUTzRtWFNvdzNaWmEtd01ySktMX25CMGo0QWlUZ1ZKRnltOFRMVENmdG9aM3NMSmU2SmI3WFM?oc=5",
-      "site": "中华军事",
+      "site": "military.china.com",
       "siteUrl": "https://military.china.com"
     },
     {
