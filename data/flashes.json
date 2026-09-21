@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T18:21:40.808Z",
+  "updated": "2026-09-21T18:38:10.011Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -99,15 +99,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-c308672d85c8",
+      "id": "FL-a6ef3aef839f",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 11:26:46 GMT",
       "ts": 1789817206000,
       "scope": "intl",
       "type": "blast",
-      "title": "叙利亚过渡政府军队一驻扎点发生爆炸 致11人死亡 - 东方财富",
+      "title": "叙利亚过渡政府军队一驻扎点发生爆炸 致11人死亡 - finance.eastmoney.com",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96dl8xWFNNVXR4NE5kQld1OUk4Skk1NXc0ZDZCb2FnemZxTUQwRTFLUmQxV1BZZDNuTEJzT0NlUGVaTGxqRUIyREVFWGd5N3pRZnI4SnNNSnI5c2dIcjhiNFAzaGVYUQ?oc=5",
-      "site": "东方财富",
+      "site": "finance.eastmoney.com",
       "siteUrl": "https://finance.eastmoney.com"
     },
     {
@@ -133,6 +133,18 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mR2pTX0YxWjBwQ2lLNC1XZjFhd3IwVEYtWkZFR3ZBU3B5RTFHR1BldmQ3OEkxN2NaWTMzYUkwWENDeEliY3dVNEloOExFS1B6SlZQTENHdWVmTWpUM042M2hRcmo4QS1qdl85cXlhZHJ3R3JGTEU4?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-35640a9f3848",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 18:34:41 GMT",
+      "ts": 1790015681000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "导演陆川携阿里AI短片亮相云栖大会|模型|爆炸|证券|阿里巴巴|摄影者_手机新浪网 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRzY2bG9JSHRsem1lT0FtTnJoR21TWF9DSTZyN1FwTVIxdTVPanhBUjE5UGRHRGs2cmpsc0o0d2IycU9femgyZnhENi0yYlV0VnBhOFJ4M0c4T1NsTnlXYTZ0a2kzR0Y3aEIyNEZTaWtSZGt5VW1MV0R3dnBHbmR4RWp3andiS2VCeG9PX1NNck02Yi1VZzBVSGtpUUxNU1VZUkxJTlhSSnhocnRTbU1pNV9B?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-288b0c143216",
@@ -289,18 +301,6 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOWF5NEVBNTctMXBrYkpiZ0hoQmZtQXZhTGJESFBtbHBfSkROTFdvNkhPX2FFSUZnN25JRDVwYUYtTVMyM3RGY0E1ckVCNXRfX0M1R01ESG9NQzNsT0Y4dkUtZ25kMDV5REpWcDN0d3pTeUJUSUI2QWJlYXZ4cXE1QVhTTU9WQQ?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
-    },
-    {
-      "id": "FL-3e6e598ab98b",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 04:40:42 GMT",
-      "ts": 1789965642000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "【快讯】韩陆军第25师在DMZ疑似发生地雷爆炸事故，2名军人重伤 - chinese.joins.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SaFR5MS1XbkVhU0NJcDFiaHJhYWk5SmtURFhRV3U4bXNsWmJXcGJGSGxmTmtuYV9zZzBsUHBEemJyeVJDVDRjd2xBYnZDWDJuRFBtLWt1d01iM2kzYW1mTWhtc1RHX0xNSHl6cQ?oc=5",
-      "site": "chinese.joins.com",
-      "siteUrl": "https://chinese.joins.com"
     },
     {
       "id": "FL-7017d598b87e",
