@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T16:01:26.406Z",
+  "updated": "2026-09-21T16:20:29.302Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -51,15 +51,15 @@
       "siteUrl": "https://mil.huanqiu.com"
     },
     {
-      "id": "FL-784deda002a9",
+      "id": "FL-5e90cc979fa1",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 10:50:10 GMT",
       "ts": 1789901410000,
       "scope": "intl",
       "type": "blast",
-      "title": "乌克兰首都基辅传出爆炸声 - news.cnr.cn",
+      "title": "乌克兰首都基辅传出爆炸声 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuWEJUZnJZcWNmZkZWWFhMblRoNmFnSmZoWW9fZ3ZfRWNoQ0g4bWxIZGNNNXdJclphTW1HNDluMmQweGV1TVhxVTZZUk96bVc2cnRySDNqY2xHZUJyb0N3LTlSN21LT3pJ?oc=5",
-      "site": "news.cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
     },
     {
@@ -111,16 +111,28 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-eb9f1bdfe36b",
+      "id": "FL-1a57b056bc51",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 15:44:00 GMT",
       "ts": 1790005440000,
       "scope": "intl",
       "type": "blast",
-      "title": "Explosion reported at NW Iowa feed mill, damages facility - KTIV",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMWs4b2ozbFhIM1l1Umc2cTF3SFpnTzk3MGpyVUpuZGl0VFpBU1Q2Ukt4QXR1SWJQX3NuZEh0YnZOZ3lHWWtUOE9LekVBRk8xeDlJTFJxRUI3SWlKOHdMSkZTeGVXV2lQNmpQUGJudktUUGZLck8ydmJVOU5yb2pOUE04QzZMY1lHa1d5b09nZw?oc=5",
-      "site": "KTIV",
-      "siteUrl": "https://www.ktiv.com"
+      "title": "Explosion reported at NW Iowa feed mill, damages facility - Dakota News Now",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaUVtb0JBcmU2akJQZEZVaXMyeDBCQjJUUDhId0lsVE9lT3dEcG5vZWJ5VjNmajBkVTVjZ2tmdU1UZE9jdFg5cF9KSjJPbmxUNTU5b2RJbjB1ZUE2UEg4WE1DN18tQ3k1aVkxUWlpZTltTWtvbkRoYy1haGpCUVJlMDNia1VLcnNtQnYyMkhEdHJfTi1vM1BiX1F1TQ?oc=5",
+      "site": "Dakota News Now",
+      "siteUrl": "https://www.dakotanewsnow.com"
+    },
+    {
+      "id": "FL-80d8ff187add",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 15:10:43 GMT",
+      "ts": 1790003443000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "日本一海滩有“鲸尸爆炸”风险：搁浅鲸鱼长约17米，尸体疑严重腐败，现场拉起警戒绳，画面曝光 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVWpyZ3VBaGRrVzVjdTF4SEhHUXZRbWg4Y3V5ZFZLNlUxSEtpZW9VUDV6eXFuaFRMZWxTYVRodnpfNFAwMHB3czRLT1BBaW9naVVoN194QTJxR1c1cnNCa25DWE9OckJ5UVJqMHBOMTdaQnlWODdFbG9PLTNDVmF1R0w1MmR1andRTjdCOA?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-b80230d2f14a",
@@ -147,18 +159,6 @@
       "siteUrl": "https://m.163.com"
     },
     {
-      "id": "FL-d9a030c9540a",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 13:18:45 GMT",
-      "ts": 1789996725000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Smoke explosion leads to mayday at NYC 4-alarm restaurant fire - FireRescue1",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcC1jVlhHVTRfck9YU3BpVlduZXJEbGZxZnMtX2NIZFlQZnZjVmtVVDBBNElBTzhFcU5RdW4yT3JHVVJoRUhsZTVNWlNQOTVlcjhPNl9VNXdvejlfWUdRcFN2RC00R0lKOF95Y3lOMGtnNURNaVRkVG9ueURZWXc5UXFpUkVFU3FmVDVFZDkxVVY2dkFzaXY2S2gxOA?oc=5",
-      "site": "FireRescue1",
-      "siteUrl": "https://www.firerescue1.com"
-    },
-    {
       "id": "FL-f6d293b8966c",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 11:24:31 GMT",
@@ -183,18 +183,6 @@
       "siteUrl": "https://mediaselangor.com"
     },
     {
-      "id": "FL-57480c4ee8b3",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 10:57:46 GMT",
-      "ts": 1789988266000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Explosion injures 3 South Korean military officers in border area with North Korea - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSmpJTnFpSFpIcDYydjg2YmQzcVVhaWhHdTFOOVIyaS13dE9YQl9iejJ5amt0MDllVVlCR2JOTi05ZlIyTk4tdjRsdzQybmd6VUhzVGloR3h0cUc2TjNFd1U2d3BDb3RfUWlybGVsTEM0a0ZnN2wtUjdDdUNpWVM4VG9fSTU4Sl80NjRmYXdRVmpROGh1RDVuQ3lIYmd5T2wxODFubEp1NHFrWTBYZmZtZg?oc=5",
-      "site": "ABC News - Breaking News, Latest News and Videos",
-      "siteUrl": "https://abcnews.com"
-    },
-    {
       "id": "FL-51431bb3c903",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 09:34:24 GMT",
@@ -217,6 +205,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxSzdsZVR5MGlsTDY0ZWFtU3V6ZnlZOWVRY0hPUzdfRTNlQ3lMMWNPb3FTdzZwXzJudlR2bFgzdjVmRmFNa0o5clNWWjQ4UkkyMmpWaHk0eU1Vc1pRMWo1N2xGMTVNUQ?oc=5",
       "site": "5EPlay",
       "siteUrl": "https://csgo.5eplay.com"
+    },
+    {
+      "id": "FL-0ab8c8a3ae7f",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 08:59:00 GMT",
+      "ts": 1789981140000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Explosion injures 3 South Korean military officers inside DMZ bordering North Korea - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOFhmWUhBTDJYenBSd1lHMVNabkFQVG12Q2lVQ21hNDdKUl9jRE5ZMW5GcXc3UHhobnE4cHdqblpaRjN5d3h1eDFZUktaYmkyNEREMGpkaVZtY2Y0R2lYU1dwZVJxdy1sS1UtaFZGQW0yWDVqa3VsTERsWnRsTWFqNFhhd1NIWlAyZU5qRzc0dmljcGtzLXFR?oc=5",
+      "site": "AP News",
+      "siteUrl": "https://apnews.com"
     },
     {
       "id": "FL-6ce3f5494715",
@@ -289,18 +289,6 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SaFR5MS1XbkVhU0NJcDFiaHJhYWk5SmtURFhRV3U4bXNsWmJXcGJGSGxmTmtuYV9zZzBsUHBEemJyeVJDVDRjd2xBYnZDWDJuRFBtLWt1d01iM2kzYW1mTWhtc1RHX0xNSHl6cQ?oc=5",
       "site": "chinese.joins.com",
       "siteUrl": "https://chinese.joins.com"
-    },
-    {
-      "id": "FL-aa087afe925b",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 04:40:14 GMT",
-      "ts": 1789965614000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "外媒：叙利亚北部一军事设施发生爆炸致多人受伤 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5tT3k2WDJ5ZFBod1NBeXJVLUM1V0RnOFZQb0liUXlWNVppTTRaZFF5M09ZVWZtOXhCM1NLaDVBMnNxRUxjR0VkVEhYX2Y?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://news.ifeng.com"
     },
     {
       "id": "FL-628013cff6a6",
