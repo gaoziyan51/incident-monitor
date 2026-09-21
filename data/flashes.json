@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T14:01:36.941Z",
+  "updated": "2026-09-21T14:20:20.023Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -147,18 +147,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-aadaabcc1819",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 11:38:00 GMT",
-      "ts": 1789990680000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Interstate 20 reopens after trailer explosion shuts down traffic near Marshall - cbs19.tv",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZHAyM3VYQ1kyXzNQcjc5a0x0SnpWRnhITG5SX3dyTGc1NXlCUV94QWN2NkhPb2FDVm15Tjh2c3VkT3hwSUpCMFVTeWNFT0VjbWFBQjF5MDcyNG54eW5zVUhFakgtNlB0R1lacTFZVUN4QXZiX2t0dkl3b1BWTFh3eWc1MS1nNm52RUloQ3VtVUdNbG82djdOLUVfcGZpbUZGOFFwVlJscFRmRVlCa2NKTnE4M05PZFR5VTlEcHh2dkFKeUJTMU9GVERUYnZGdDR0U3JFT2g1b18zSl96ckg4QXZ5QXM0d0hp?oc=5",
-      "site": "cbs19.tv",
-      "siteUrl": "https://www.cbs19.tv"
-    },
-    {
       "id": "FL-f6d293b8966c",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 11:24:31 GMT",
@@ -279,6 +267,18 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
+      "id": "FL-2015bde555f8",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 05:04:10 GMT",
+      "ts": 1789967050000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "外媒：叙利亚北部一军事设施发生剧烈爆炸，造成至少4人受伤 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sWnJHcnNVbTNPcnhfa0twVTZwREtqQU5sTTd4akthVlktRDJ3RmtqdHY2RlNZNjZfRVJSTVpqaEI3dGVWSERSMHdQRQ?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://wap.cj.sina.cn"
+    },
+    {
       "id": "FL-3e6e598ab98b",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 04:40:42 GMT",
@@ -301,18 +301,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5tT3k2WDJ5ZFBod1NBeXJVLUM1V0RnOFZQb0liUXlWNVppTTRaZFF5M09ZVWZtOXhCM1NLaDVBMnNxRUxjR0VkVEhYX2Y?oc=5",
       "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com"
-    },
-    {
-      "id": "FL-2015bde555f8",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 04:40:00 GMT",
-      "ts": 1789965600000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "外媒：叙利亚北部一军事设施发生剧烈爆炸，造成至少4人受伤 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tYTNUNWthZUVLUFNhUk5RdklWSzJTb1NOZmlGR19LSlR0OW1ibXpPYjNxOXN1d2NRNnJDU21CbGVXSUtORDNvWk1nU3IzdE9vaTNYZUZWM2FzSHdYVWthNmctb09WWGJpZ0dXQmwwNElHWllqVDRWMw?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-628013cff6a6",
