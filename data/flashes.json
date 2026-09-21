@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T16:20:29.302Z",
+  "updated": "2026-09-21T16:35:16.636Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -111,16 +111,28 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-1a57b056bc51",
+      "id": "FL-288b0c143216",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 16:22:49 GMT",
+      "ts": 1790007769000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "1 hospitalized after reported explosion at building on Detroit’s west side - ClickOnDetroit",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQc3FGT2JCTEFJbEZCcjZaTzFDX1ZDYjNyVjdDaE1BN0I2dDNlNEpKdDlRVlBkZG8tWl90VFdpeGhJRjRCa0x0anlScTRFckFYemJ0WFhieFVVdUpKZ0xPVXJPN0VuckJUQ3FsdTZteHZXU1hpMnlCZTFiZFdFcHRHb2hHYUd5alNEUVJLT25zSHRScDNuZnRTZVhfaDhadE9VQmZnUWRYRzVPWHVrOE9DRm1wVkI1OEhrOHdjVkxObkp6dGJYWVE?oc=5",
+      "site": "ClickOnDetroit",
+      "siteUrl": "https://www.clickondetroit.com"
+    },
+    {
+      "id": "FL-eb9f1bdfe36b",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 15:44:00 GMT",
       "ts": 1790005440000,
       "scope": "intl",
       "type": "blast",
-      "title": "Explosion reported at NW Iowa feed mill, damages facility - Dakota News Now",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaUVtb0JBcmU2akJQZEZVaXMyeDBCQjJUUDhId0lsVE9lT3dEcG5vZWJ5VjNmajBkVTVjZ2tmdU1UZE9jdFg5cF9KSjJPbmxUNTU5b2RJbjB1ZUE2UEg4WE1DN18tQ3k1aVkxUWlpZTltTWtvbkRoYy1haGpCUVJlMDNia1VLcnNtQnYyMkhEdHJfTi1vM1BiX1F1TQ?oc=5",
-      "site": "Dakota News Now",
-      "siteUrl": "https://www.dakotanewsnow.com"
+      "title": "Explosion reported at NW Iowa feed mill, damages facility - KTIV",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMWs4b2ozbFhIM1l1Umc2cTF3SFpnTzk3MGpyVUpuZGl0VFpBU1Q2Ukt4QXR1SWJQX3NuZEh0YnZOZ3lHWWtUOE9LekVBRk8xeDlJTFJxRUI3SWlKOHdMSkZTeGVXV2lQNmpQUGJudktUUGZLck8ydmJVOU5yb2pOUE04QzZMY1lHa1d5b09nZw?oc=5",
+      "site": "KTIV",
+      "siteUrl": "https://www.ktiv.com"
     },
     {
       "id": "FL-80d8ff187add",
