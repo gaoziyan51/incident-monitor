@@ -1,19 +1,7 @@
 {
-  "updated": "2026-09-21T03:33:02.529Z",
+  "updated": "2026-09-21T03:47:10.870Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-90a6fe3736f3",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 01:37:17 GMT",
-      "ts": 1789522637000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "画廊 贝鲁特爆炸后重建，Kassar 最新装置作品 - 26 - ArchDaily",
-      "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxNVXRlaXNia3dOUzd2NHZDTGxjVWZUUmJnVkpXV0h5UTJPMXhnZlFvSEV0eEZNeVlxZ0FpaHNZV05NNHNsVG9GdHFXbVRSUDNQZ05qeHNFamFZS2dzQ3B2YlFyTG1HNVVwTFIxcFpxYXVxWkxkeFpFTjd4WFFwc194QkV6N3FQREtXeXJiUndXNkg0Nmx6V0R2bHlnLXM5NFpvY0s2THdvbHBxTnNxTUo3aGhhMEdPWG5TVFZjeThXRkxpRXJGT1p0a0NGWHFMU1FYdmtqa3ZQOFNNNHFJQlZ0a2VFMHJOZXlNOWc5MTRPdEJMTGVyM29adThVTDlUSWhRRHFScl9XM1NzREJ1MEk5Q2pSRnE4Yko2RzhmaEhqckk0VzdPTm5XZjh2WlpLQXVuakVXSWlhYURTaTZ3RF8yNFBmQnVMRTdRZTZsX09GQmZpajJGNzhOR2drM3d1ZzViRERrTmhfbUhja2t6MHU3REhXY2RQZW1IOGxEenQ5TE91WFVVUzBJaDlndFVHd0d3YS1DY0tpaW9JMGdKdUJDb0xjeUo0TW5JZ2c?oc=5",
-      "site": "ArchDaily",
-      "siteUrl": "https://www.archdaily.com"
-    },
     {
       "id": "FL-710fe48d473f",
       "date": "2026-06-03",
@@ -27,15 +15,15 @@
       "siteUrl": "https://www.cpnn.com.cn"
     },
     {
-      "id": "FL-52720b98ede5",
+      "id": "FL-385dd58b908a",
       "date": "2026-08-11",
       "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
       "ts": 1786431600000,
       "scope": "dom",
       "type": "blast",
-      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - science.caixin.com",
+      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - 财新",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fOUNOVy1jMjYtRHRacDFONmZLdmtlUTBvcjVNX0xwMG9rc2lwYkV4ZzRCOFVIVmdNLXdZcUo3Mkw1UnI3elZsRjNGblI4YTBsMGxPeHJCRnZSNWE0dXNTdXRxcUQ?oc=5",
-      "site": "science.caixin.com",
+      "site": "财新",
       "siteUrl": "https://science.caixin.com"
     },
     {
@@ -51,6 +39,18 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
+      "id": "FL-ed5bb4de52b7",
+      "date": "2026-07-02",
+      "dateISO": "Thu, 02 Jul 2026 07:00:00 GMT",
+      "ts": 1782975600000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "涉留神峪特别重大瓦斯爆炸事故 崔瑞军被查 - 中国日报网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwQldTMXJVdFF1VDFZdGpMSG9kcElHUTdDWkpNbEpBeVJLMVltU3JaY05MZG5PR3NnWUFHMURJelctUkhNalZTQWM0d2N2ZU81blNIRW9fZ0hyMExJQ2tRZE1CRllnRnFJcXVWbXpwMnMwMWlwT1R5Qmt4aDE?oc=5",
+      "site": "中国日报网",
+      "siteUrl": "https://cn.chinadaily.com.cn"
+    },
+    {
       "id": "FL-340d5e981918",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
@@ -63,15 +63,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-a36a1dfa7b3b",
+      "id": "FL-72bf0c3703c5",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 21:49:00 GMT",
       "ts": 1789940940000,
       "scope": "intl",
       "type": "blast",
-      "title": "Carport explosions trigger house fire - kvoa.com",
+      "title": "Carport explosions trigger house fire - KVOA",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX3JoYzBicGt1TFBXS0pnNVQ0bkJNdE80VU51ajd4Rk9xWC1mTl9ENVlXdDZVMUMwM2lqMkQxQ2xEdmQ4b3dxTnFnTmR1V0o1eTFZbnBqbElQWXlUWFBvVzJMU282OTVlaTZEa1pRQ3NuT0stZHBpRmptY0xJS1dHTHJhb2oycC1kdUd0cVI3OGluOTR5WWxGNnczUmJ4STdlS1dqOHZqUUdUckRRNlhKSEoxbmVUNjc2MjI4UEJNei1qTHc?oc=5",
-      "site": "kvoa.com",
+      "site": "KVOA",
       "siteUrl": "https://www.kvoa.com"
     },
     {
@@ -87,18 +87,6 @@
       "siteUrl": "https://www.wane.com"
     },
     {
-      "id": "FL-210145a59c68",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 16:47:29 GMT",
-      "ts": 1789922849000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "住客称酒店空调疑爆炸致中毒，现场泄漏大量白色粉末与刺鼻气体 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBNQzJSZm8zMjhNU0RDQmVYOGxjWktMaFVSbzJxaFNndTV2Ymc0WkJQZ25weGs4ZWVhU01QQ2dWaENPNm12OVlkbw?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://i.ifeng.com"
-    },
-    {
       "id": "FL-42bb678f22d9",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 16:00:39 GMT",
@@ -109,18 +97,6 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4RjZsNHFTLWtmV0Z6elVsZEZoRDFreHQzUzRuN3U2ODktWGxNUHVLT1U1SkJTLUxsTU5VTVdXbngyX0VzZzJLT1NNVjJQdXRXNTdnQzRjemlFNUdJMHVvbjBtbFpfY2pVMFE?oc=5",
       "site": "联合早报",
       "siteUrl": "https://www.zaobao.com.sg"
-    },
-    {
-      "id": "FL-db80655ccf5c",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 10:58:46 GMT",
-      "ts": 1789901926000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "乌克兰首都基辅传出爆炸声 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LRkR6Z0kybFM0TTBoZFhtMzFlT2hReU5PU1A3c3pfX0NIN1JlZGtmZno5Um1IVm1YVTlRYjYwMng4Q0hEOWwxRmRIZ3pDMm1RMmhhS2FSS2FQLVhXcEE?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://news.bjd.com.cn"
     },
     {
       "id": "FL-5e90cc979fa1",
@@ -145,18 +121,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vODhqMlREZmNOV2hCZTU0cGVfRHluS0xsZGZIa0lUbFdKRWJnaXEyNTk3dGtvSTZ1YWI0a00yUVNkcjMxcWZQMkE2MXNrUkdRVFNmdnNEWGt0UQ?oc=5",
       "site": "上观新闻",
       "siteUrl": "https://www.jfdaily.com"
-    },
-    {
-      "id": "FL-690209f7b758",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 00:56:14 GMT",
-      "ts": 1789865774000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "沙特首都再传爆炸声 机场附近升起浓烟 - news.china.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwUDlHUU1qQnZWcjJMMGlaVjg1ajZENjlXYWJBbl94N0NWUUE2cDZIbDB4dW1wSFlfSFEyXzNILWJwNUpjczY2eWUwOVBiaUNDTGdsbzItVVAyR2pHYXZqYmxkeWUzZHFIQXY5N1VmMkRmdw?oc=5",
-      "site": "news.china.com",
-      "siteUrl": "https://news.china.com"
     },
     {
       "id": "FL-0615dd398028",
@@ -195,27 +159,15 @@
       "siteUrl": "https://finance.eastmoney.com"
     },
     {
-      "id": "FL-f652072f4460",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 07:03:00 GMT",
-      "ts": 1789801380000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "巴基斯坦安全部队打死8名自杀式爆炸袭击者；此次自杀式爆炸袭击已致31人死亡，其中包括16名警察，另有逾百人受伤 - QQ News",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByNmJjbHdhQUpOeXM3VEZDcDh0MVpqN0hMMHJ0QTU1VlNNcEpOTS1ScjFfQVZxRE5vcmI0RzVOX3ljOGZjenZkMXl4bXBoX1FNQmRlbUNB?oc=5",
-      "site": "QQ News",
-      "siteUrl": "https://news.qq.com"
-    },
-    {
-      "id": "FL-c2b5e87a66f1",
+      "id": "FL-bc5a0b5cb5b0",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 03:47:19 GMT",
       "ts": 1789789639000,
       "scope": "intl",
       "type": "blast",
-      "title": "巴基斯坦西北部爆炸已致21死 巴总统称将继续反恐行动 - 央视网",
+      "title": "巴基斯坦西北部爆炸已致21死 巴总统称将继续反恐行动 - news.cctv.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JdTVsYVVFWHBSX3JkaE5ocVh2cmtPd0NWVkpmT1EyOENqOGJZcHhnQllGeU9RYThKRTJmYnRVaXpEQ25RcGNGNi1LcmZJUUFnY2Q1cVVpS2dkSW8wQzJfSFI4U3FYMzdXNmJSWm1SdEpsckl2Y190Sg?oc=5",
-      "site": "央视网",
+      "site": "news.cctv.com",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -241,6 +193,18 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mR2pTX0YxWjBwQ2lLNC1XZjFhd3IwVEYtWkZFR3ZBU3B5RTFHR1BldmQ3OEkxN2NaWTMzYUkwWENDeEliY3dVNEloOExFS1B6SlZQTENHdWVmTWpUM042M2hRcmo4QS1qdl85cXlhZHJ3R3JGTEU4?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-a0b9e6f6698a",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 03:46:32 GMT",
+      "ts": 1789962392000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "叙利亚一军队营地发生强烈爆炸，至少四人受伤 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wd3VHa3RYOC1OQTlBb1paeEhXZmNXUFNJZ2dralg3TE0yaHE0Q29GRHJWTFk2M1ZPQmhoeWp5b0poTW1xSThLbTFaWGc1Y0h2TmJtY0VwY2VSemwzY3Vzd1RpSHUxX0Z1UlVvSlY1M3NOcFpjV2t3SQ?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-e60118565e00",
@@ -291,28 +255,16 @@
       "siteUrl": "https://www.aljazeera.com"
     },
     {
-      "id": "FL-4d668f6722ef",
+      "id": "FL-9a1d115c9351",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 00:34:55 GMT",
       "ts": 1789950895000,
       "scope": "dom",
       "type": "blast",
-      "title": "机器人格斗城市巡回赛开始！上海站燃爆科技热情 - news.china.com",
+      "title": "机器人格斗城市巡回赛开始！上海站燃爆科技热情 - 中华网",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oVldac2hLa005WlZKU083Z01ZZkJTMF9aMVpESnM3RU9uMTVrRm9Ma2pvbHJmaUUwX2NRWC1tTml3blZEcVhzdnlWN3kwYnh0NjBQQVd6empXMHZjazJlN2dMTmVhRV9rUTEtV191Mms?oc=5",
-      "site": "news.china.com",
+      "site": "中华网",
       "siteUrl": "https://news.china.com"
-    },
-    {
-      "id": "FL-ab3d9a9b2aa3",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 02:28:11 GMT",
-      "ts": 1789352891000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "日本东京一工厂发生爆炸 3人受伤 - 央视网",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hN09TTVZvcXgzeVh6TDZkU2JjS3d1bWY4MG5JRGk1ODBab1plTEx6LUFvN1B6WkFSR0N6ZmxVLWtEd3JNUHg0NDRXb2NWN3gxZmsyTXNiMXEwWUZyNWlQeTRfNmppQ0VxMVlTR2dYVTl2MzBFZ1RSNA?oc=5",
-      "site": "央视网",
-      "siteUrl": "https://news.cctv.com"
     },
     {
       "id": "FL-b042a088a326",
@@ -325,6 +277,42 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-0f5476d1c019",
+      "date": "2026-07-31",
+      "dateISO": "Fri, 31 Jul 2026 07:00:00 GMT",
+      "ts": 1785481200000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "巴基斯坦煤矿爆炸致34人死亡 8人被困 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ic3NaMW5yOHF1MmNnMDRPdThpWHRsY0dpOUl5X1U2aUxyMlZFTkVhN09xTVRmQ3dwcnFZaThTZjd5RXdLS1VLTVgzNGlENnl3T3hOOVBFSmYyajM0cmlxeVduX28xT2U5M1pvbmJfZE94TW00UmpNd2oyTFZFVEE?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-a4c84c6d032d",
+      "date": "2026-06-05",
+      "dateISO": "Fri, 05 Jun 2026 07:00:00 GMT",
+      "ts": 1780642800000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "辽宁本溪一商铺疑似液化气罐泄漏引发爆炸：2人死亡13人轻微伤 - 央广网",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qQlpCOEt3cGs2NmdiMHBrTlVwekFZQ2pKaTI0cnRPMmt3Z1pCLVUxai1tYkw2RnMzbGctVm5zb0ZwcTIyNlZmUEh0M3MwTlQtRkU2NlJlNnpGdU5vUl9VZ1p2YUNqZi1qLUdYNjNn?oc=5",
+      "site": "央广网",
+      "siteUrl": "https://www.cnr.cn"
+    },
+    {
+      "id": "FL-7220c0721191",
+      "date": "2026-06-05",
+      "dateISO": "Fri, 05 Jun 2026 07:00:00 GMT",
+      "ts": 1780642800000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "辽宁本溪商铺爆炸致2死13伤 车载记录仪拍下爆炸瞬间 - 央广网",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GNzZvV1RzRkNfY3RnS0FmNUN6cmc5d2lMWWcyeXdjNkRhQWRNcXJqVWJvNVJkSzZ0djAzNnBNU1FYeWwzSG05bmZrcUxvdDZVMXdxcS1UdXZHVU5QWkNzLTJPZkZWYjdrZ0UtRnB3?oc=5",
+      "site": "央广网",
+      "siteUrl": "https://www.cnr.cn"
     }
   ]
 }
