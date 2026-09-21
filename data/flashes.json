@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T10:31:17.224Z",
+  "updated": "2026-09-21T10:44:59.580Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -111,18 +111,6 @@
       "siteUrl": "https://finance.eastmoney.com"
     },
     {
-      "id": "FL-803bd894ebf2",
-      "date": "2026-08-24",
-      "dateISO": "Mon, 24 Aug 2026 07:00:00 GMT",
-      "ts": 1787554800000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "山东临沂一社区发生爆炸，官方最新通报：已致1人死亡，2人失联 - sd.chinanews.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12UjJWUzFCd2VqX0FoU2VneDM5T2E5eGFOZmg0Nk92VEp6U1ktWF9xUUtkV3BkYlNsZ0JsRWlZMW1qa3ExTXRVdWdiNzhNQ1JxRlN2bXhoX0pCWlFURExYd3lENlhFQQ?oc=5",
-      "site": "sd.chinanews.com.cn",
-      "siteUrl": "https://www.sd.chinanews.com.cn"
-    },
-    {
       "id": "FL-160d55aeb47e",
       "date": "2026-06-22",
       "dateISO": "Mon, 22 Jun 2026 07:00:00 GMT",
@@ -133,6 +121,18 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mR2pTX0YxWjBwQ2lLNC1XZjFhd3IwVEYtWkZFR3ZBU3B5RTFHR1BldmQ3OEkxN2NaWTMzYUkwWENDeEliY3dVNEloOExFS1B6SlZQTENHdWVmTWpUM042M2hRcmo4QS1qdl85cXlhZHJ3R3JGTEU4?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-51431bb3c903",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 09:34:24 GMT",
+      "ts": 1789983264000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "韩朝边境非军事区疑似地雷爆炸，3名韩国军人受伤 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1uTURkakZvaVlhWXFVYTc0aDM0dWFYbExjM1JlSTdrazJyZmJTWF9hUlZUcGM1dXloQXNLTjRGQ2dMazJrVk5kTDNhRlM?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://news.ifeng.com"
     },
     {
       "id": "FL-a033162a98d3",
@@ -159,6 +159,18 @@
       "siteUrl": "https://csgo.5eplay.com"
     },
     {
+      "id": "FL-0ab8c8a3ae7f",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 08:59:00 GMT",
+      "ts": 1789981140000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Explosion injures 3 South Korean military officers inside DMZ bordering North Korea - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOFhmWUhBTDJYenBSd1lHMVNabkFQVG12Q2lVQ21hNDdKUl9jRE5ZMW5GcXc3UHhobnE4cHdqblpaRjN5d3h1eDFZUktaYmkyNEREMGpkaVZtY2Y0R2lYU1dwZVJxdy1sS1UtaFZGQW0yWDVqa3VsTERsWnRsTWFqNFhhd1NIWlAyZU5qRzc0dmljcGtzLXFR?oc=5",
+      "site": "AP News",
+      "siteUrl": "https://apnews.com"
+    },
+    {
       "id": "FL-6ce3f5494715",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 08:52:10 GMT",
@@ -183,28 +195,16 @@
       "siteUrl": "https://ohiocapitaljournal.com"
     },
     {
-      "id": "FL-b7ede691e6a0",
+      "id": "FL-d63d1606ed12",
       "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 07:52:30 GMT",
-      "ts": 1789977150000,
+      "dateISO": "Mon, 21 Sep 2026 07:56:59 GMT",
+      "ts": 1789977419000,
       "scope": "intl",
       "type": "blast",
-      "title": "Three South Korean officers wounded in border explosion - Al Jazeera",
+      "title": "Three South Korean military officers wounded in explosion near border - Al Jazeera",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSWQ3a25ZckpwMmswR2U2VGJka0gzQ3hLQXlQSkg0OTl3bU93UWlNOGQtYUMxMjMwQ3RkU2tMWmF3UlVMZDBzNUN0bzdNTjlVeVVRZ2xFbmpHaUxkYzBnY1V3VHZHZkNBZ2xOaWhPWHlxV0E2LTRoTE5iNUZVV0l6cTZsdDRSRHFZZmJ0RFFEbm9rR2ZWelNuQ1VOdnLSAaIBQVVfeXFMTW9odWtndGRuMEhuRnN2SjFpS1VhbVlyU2ljQXc2RUpGbzVDbkhveU92Y0MwRG1Da1JOYXV3UTBlTXd0VTdrYVhYNUlhX1ZaM0pRQ2lKelg0clMtNUp2RkEzVlhWZ0dtbVBReE4yRnJldGwxWjd0OGw5dXF4Yl9wQ1R4emF2OTFpY0ZYN2NVS1M2VFA0VnZTU0J4QWl4XzJSazRB?oc=5",
       "site": "Al Jazeera",
       "siteUrl": "https://www.aljazeera.com"
-    },
-    {
-      "id": "FL-97253ec821de",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 07:51:08 GMT",
-      "ts": 1789977068000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Explosion injures 3 South Korean military officers inside DMZ bordering North Korea - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSmpJTnFpSFpIcDYydjg2YmQzcVVhaWhHdTFOOVIyaS13dE9YQl9iejJ5amt0MDllVVlCR2JOTi05ZlIyTk4tdjRsdzQybmd6VUhzVGloR3h0cUc2TjNFd1U2d3BDb3RfUWlybGVsTEM0a0ZnN2wtUjdDdUNpWVM4VG9fSTU4Sl80NjRmYXdRVmpROGh1RDVuQ3lIYmd5T2wxODFubEp1NHFrWTBYZmZtZtIBtgFBVV95cUxPTlhONU9reXZKZ3NYSWM1aUxVaUlBT0JXcFBjejJYWHpFVlM0WlczNjY5V3hVY1I3N20zeG8wZ0V1VkZIaWxLQWJtU2xPbXRsZWEwbi1KRzZUTmR6c3dIXzdMNFM4SmhCX2I0YUw3SEt6WHI2amdzNGNTUEd6ZVRfUXc2eHlZOVVxV01zc1pCU3VEYmVsUHV5LTRvNWgteEI1WUJ2aGNnTXNxN3doQlV6akJ4ZnJ6dw?oc=5",
-      "site": "ABC News - Breaking News, Latest News and Videos",
-      "siteUrl": "https://abcnews.com"
     },
     {
       "id": "FL-1b678743d226",
