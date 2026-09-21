@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T07:36:49.549Z",
+  "updated": "2026-09-21T07:48:01.770Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -159,6 +159,18 @@
       "siteUrl": "https://www.ajudaily.com"
     },
     {
+      "id": "FL-9db3a6f27c01",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 05:56:00 GMT",
+      "ts": 1789970160000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "韩媒：韩朝边境非军事区疑似地雷爆炸致3人受伤 - 星岛环球网",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sMm81cmlrd0drSGd5VDQ3ZjRKekZ0QW5PRU1aU0J6SGhyaE9ISWFHTkJSTHlxTW9aX09DalQxNG01LXdmMmgwY1lGX0dfQkRXOW9HLXJidDlMR2hVSUFYNFFxaVY?oc=5",
+      "site": "星岛环球网",
+      "siteUrl": "https://m.stnn.cc"
+    },
+    {
       "id": "FL-fceaf77a49c8",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 05:52:28 GMT",
@@ -171,15 +183,15 @@
       "siteUrl": "https://www.ktalnews.com"
     },
     {
-      "id": "FL-56f3070872f2",
+      "id": "FL-db75c074d532",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 05:38:50 GMT",
       "ts": 1789969130000,
       "scope": "intl",
       "type": "blast",
-      "title": "叙利亚一弹药库发生连续爆炸，多枚火箭弹飞向村庄 - 新浪财经",
+      "title": "叙利亚一弹药库发生连续爆炸，多枚火箭弹飞向村庄 - finance.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOWF5NEVBNTctMXBrYkpiZ0hoQmZtQXZhTGJESFBtbHBfSkROTFdvNkhPX2FFSUZnN25JRDVwYUYtTVMyM3RGY0E1ckVCNXRfX0M1R01ESG9NQzNsT0Y4dkUtZ25kMDV5REpWcDN0d3pTeUJUSUI2QWJlYXZ4cXE1QVhTTU9WQQ?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.cn",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -221,8 +233,8 @@
     {
       "id": "FL-628013cff6a6",
       "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 04:30:00 GMT",
-      "ts": 1789965000000,
+      "dateISO": "Mon, 21 Sep 2026 04:32:40 GMT",
+      "ts": 1789965160000,
       "scope": "intl",
       "type": "blast",
       "title": "Powerful explosions at Syrian army site near Aleppo injure at least four - Al Jazeera",
@@ -231,28 +243,28 @@
       "siteUrl": "https://www.aljazeera.com"
     },
     {
-      "id": "FL-efa998699b40",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 04:27:46 GMT",
-      "ts": 1789964866000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "韩媒：韩朝边境非军事区疑似地雷爆炸致3人受伤 - 新浪财经_金融信息服务商",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01SzRFUURpY1JjRFRPSUNPY0lMdHltV0FhTEN0NzdGam92enJxNzV4cm9JX05EWHZtUDNpM28tT0VvaGlkQXVSVTNZWQ?oc=5",
-      "site": "新浪财经_金融信息服务商",
-      "siteUrl": "https://wap.cj.sina.cn"
-    },
-    {
-      "id": "FL-a0b9e6f6698a",
+      "id": "FL-5b9fa950e230",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 03:46:32 GMT",
       "ts": 1789962392000,
       "scope": "intl",
       "type": "blast",
-      "title": "叙利亚一军队营地发生强烈爆炸，至少四人受伤 - 新浪财经",
+      "title": "叙利亚一军队营地发生强烈爆炸，至少四人受伤 - finance.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wd3VHa3RYOC1OQTlBb1paeEhXZmNXUFNJZ2dralg3TE0yaHE0Q29GRHJWTFk2M1ZPQmhoeWp5b0poTW1xSThLbTFaWGc1Y0h2TmJtY0VwY2VSemwzY3Vzd1RpSHUxX0Z1UlVvSlY1M3NOcFpjV2t3SQ?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.cn",
       "siteUrl": "https://finance.sina.cn"
+    },
+    {
+      "id": "FL-f726acfaa4d6",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 03:33:22 GMT",
+      "ts": 1789961602000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "‘I heard some explosions’: Neighbors recount violent shooting, fire during child custody exchange - Action News Jax",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNX0tad01tU0NZYUx4a2NyUjVfU3NJOGY5djBTNXpHNjlGWWhKT1l3LVQzM0J0SUJGcUJGamJNUnNpUk1OZDFNZ192TE4tQ3BaMGQ2VFhwTFNUSTZNVElXSUZZZHJEUHdVanhmblpoNDNNdXplZTFqZFNtOVdlS1VZa2ZWQTVEU29mcC1Pa29IaXdjblV1MUdlLUpmLUJDWFhvamdfZXZ2Y2RRNmplRF9BVmpuaU1na0YxcEdJanJ0LVdEVVdHWFAyTmtocDRPYjNrSjc5YWNtNHRNUm9HX2c5RTN4blM0RXVJajFDSG9iSDN3d29rblQ4WERhTy02MWkxdlE?oc=5",
+      "site": "Action News Jax",
+      "siteUrl": "https://www.actionnewsjax.com"
     },
     {
       "id": "FL-7544e3165c34",
