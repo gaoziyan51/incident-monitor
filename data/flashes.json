@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T14:55:12.052Z",
+  "updated": "2026-09-21T15:01:29.925Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -63,15 +63,15 @@
       "siteUrl": "https://mil.huanqiu.com"
     },
     {
-      "id": "FL-5e90cc979fa1",
+      "id": "FL-784deda002a9",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 10:50:10 GMT",
       "ts": 1789901410000,
       "scope": "intl",
       "type": "blast",
-      "title": "乌克兰首都基辅传出爆炸声 - 央广网",
+      "title": "乌克兰首都基辅传出爆炸声 - news.cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuWEJUZnJZcWNmZkZWWFhMblRoNmFnSmZoWW9fZ3ZfRWNoQ0g4bWxIZGNNNXdJclphTW1HNDluMmQweGV1TVhxVTZZUk96bVc2cnRySDNqY2xHZUJyb0N3LTlSN21LT3pJ?oc=5",
-      "site": "央广网",
+      "site": "news.cnr.cn",
       "siteUrl": "https://news.cnr.cn"
     },
     {
@@ -123,6 +123,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-b80230d2f14a",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 14:57:42 GMT",
+      "ts": 1790002662000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "三名南韩军官在非军事区的爆炸中受伤 - AsiaNews",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOeWlCRVZFSHM1YW1BWVcxelpUeER6RFJ3NVdaRmVod1d3NjdsaFRmWGczZktfejBKekpGQ1M4NzdXa3FoN3RIRGlFR1poZDljNW0wVV83c2c1TzZJZ0JwNjEyMk43eXN4akkzR3FSM3VDMWt4V1o4SDhGMzFOY3JOVTBuWHgwMGRNWm9ac05DZThFWjFHRnJJbkJVLXRfNG1NSndiYWx5MmF4dUNHYjdBam9MUm83aHIwdWRmU3BfLWZ6RVpTTU03SWFlOUxqYmNhc1prLS1WNlAtUmhzaWkzN0VhNnZ5a1R5akEwcEtPNFI5TEVtUG43dmdHODNCcDdZVmtNVTYzai1ZZ3EtX2tXQWFQUU5UaTVUa2tYVVIwS2ZaSlYzUk15bklR?oc=5",
+      "site": "AsiaNews",
+      "siteUrl": "https://www.asianews.it"
+    },
+    {
       "id": "FL-5e80c3d0a0a0",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 14:22:05 GMT",
@@ -147,15 +159,15 @@
       "siteUrl": "https://www.firerescue1.com"
     },
     {
-      "id": "FL-e582b144d7b1",
+      "id": "FL-14c010d82db5",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 12:02:42 GMT",
       "ts": 1789992162000,
       "scope": "dom",
       "type": "blast",
-      "title": "住客称酒店空调疑爆炸致中毒，现场泄漏大量白色粉末与刺鼻气体，当时：酒店拒绝沟通协商 - sohu.com",
+      "title": "住客称酒店空调疑爆炸致中毒，现场泄漏大量白色粉末与刺鼻气体，当时：酒店拒绝沟通协商 - 搜狐网",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMHR4VmZleXRvMjRMZjhLRnJkS254c3dlbmJMczlvaUJuX2VxelVldmJ4ako4Z0tQdVlXX0FMWlI1QXBadmxHNXhuSVRlTVJhb1ZBcmk3c3JaVUgtNlI0dmNZejVXVmRxZDZOTnBuYjdhdkdZX1ZSX2RLMFJHQ1d3RnN2bW16dzJy?oc=5",
-      "site": "sohu.com",
+      "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
     },
     {
