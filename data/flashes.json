@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T07:09:06.184Z",
+  "updated": "2026-09-21T07:23:44.906Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -75,15 +75,15 @@
       "siteUrl": "https://mil.huanqiu.com"
     },
     {
-      "id": "FL-784deda002a9",
+      "id": "FL-5e90cc979fa1",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 10:50:10 GMT",
       "ts": 1789901410000,
       "scope": "intl",
       "type": "blast",
-      "title": "乌克兰首都基辅传出爆炸声 - news.cnr.cn",
+      "title": "乌克兰首都基辅传出爆炸声 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuWEJUZnJZcWNmZkZWWFhMblRoNmFnSmZoWW9fZ3ZfRWNoQ0g4bWxIZGNNNXdJclphTW1HNDluMmQweGV1TVhxVTZZUk96bVc2cnRySDNqY2xHZUJyb0N3LTlSN21LT3pJ?oc=5",
-      "site": "news.cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
     },
     {
@@ -135,16 +135,16 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-2391179d8319",
+      "id": "FL-38eb2088013d",
       "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 07:07:58 GMT",
-      "ts": 1789974478000,
+      "dateISO": "Mon, 21 Sep 2026 07:10:13 GMT",
+      "ts": 1789974613000,
       "scope": "intl",
       "type": "blast",
-      "title": "Explosion injures 3 South Korean military officers in border area with North Korea - WRAL",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSXNCR3RzZXRsVkpUaVl5bWhsdW9pbWJ4YWwyalFlODJla0VjOU5POGFBRWc5dTZCWE9rN3RUQWROS0xqcWY2YkFveEFFSVhzQlJ3a3JHeU81Q2otaXlTdG1kMEhsd1I0S3lidTBYLVZKMkFmZDBQTkJ4WUk1UWY0Tm9ELV9ab0pCRVFBQ2MwMlBpQXNTdDFXbkNyQmdidFBSRi1zbmNuNW01UkRfYTB5MEVwZFhNMm8xUHc?oc=5",
-      "site": "WRAL",
-      "siteUrl": "https://www.wral.com"
+      "title": "韩朝非军事区发生爆炸 三韩国军官受伤 - 8world",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Gdm1ZQjc0WVFnY19QM1hnaTVOd3RTdlJvLVVYcUI1QTFyQzBlSURWNDdUcDRCUjNXNFFucHRWYXczVjVzUFhVTkpIbWR6V3FoaExsMzExaDlfUQ?oc=5",
+      "site": "8world",
+      "siteUrl": "https://www.8world.com"
     },
     {
       "id": "FL-6b35bd78bde4",
@@ -267,16 +267,16 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-94d4876ba617",
+      "id": "FL-7544e3165c34",
       "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 03:20:00 GMT",
-      "ts": 1789960800000,
+      "dateISO": "Mon, 21 Sep 2026 02:01:00 GMT",
+      "ts": 1789956060000,
       "scope": "intl",
       "type": "blast",
-      "title": "韩媒：3人在韩朝军事分界线附近韩国一侧受伤，或因地雷爆炸 - thepaper.cn",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ibDVXZnlJOVNFZkdmQ0VzckF2aUFJdUxVakpnUXpybjBtTVdXczJIZWN1NmE3QkdhZDJjR3BuaFdxZjZZemh0cEQ2RnJZdTdlOXROWkJsaHFtX3Z6aTdUYg?oc=5",
-      "site": "thepaper.cn",
-      "siteUrl": "https://www.thepaper.cn"
+      "title": "贝鲁特港爆炸案接近进入起诉阶段—— 阿纳多卢通讯社 - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUzdJM1JzeXlNdHo0Si1xZ0daMHVQdHFuclZIOGZrbGd5a0tKNXZCbHBNYlpOZzlFT3gzUFBjaTEzYW8xSVY4bHVfaE1GbVZJQ2ZxZmpmeHdoQjBjTWoyenFWVkFneEJDN282OUVwRTYxYkFBYjRtdXVGNVR6ME1oOUxydjgtVDNLYTN4ZnEyM2tZNUxSdnh2Y1BLVUQteDVyd21xNWZVOFl5cHp3?oc=5",
+      "site": "UA.NEWS",
+      "siteUrl": "https://ua.news"
     },
     {
       "id": "FL-1366bb63c867",
@@ -313,18 +313,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ic3NaMW5yOHF1MmNnMDRPdThpWHRsY0dpOUl5X1U2aUxyMlZFTkVhN09xTVRmQ3dwcnFZaThTZjd5RXdLS1VLTVgzNGlENnl3T3hOOVBFSmYyajM0cmlxeVduX28xT2U5M1pvbmJfZE94TW00UmpNd2oyTFZFVEE?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-a4c84c6d032d",
-      "date": "2026-06-05",
-      "dateISO": "Fri, 05 Jun 2026 07:00:00 GMT",
-      "ts": 1780642800000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "辽宁本溪一商铺疑似液化气罐泄漏引发爆炸：2人死亡13人轻微伤 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qQlpCOEt3cGs2NmdiMHBrTlVwekFZQ2pKaTI0cnRPMmt3Z1pCLVUxai1tYkw2RnMzbGctVm5zb0ZwcTIyNlZmUEh0M3MwTlQtRkU2NlJlNnpGdU5vUl9VZ1p2YUNqZi1qLUdYNjNn?oc=5",
-      "site": "央广网",
-      "siteUrl": "https://www.cnr.cn"
     }
   ]
 }
