@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T04:46:58.049Z",
+  "updated": "2026-09-21T04:56:02.901Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -75,6 +75,18 @@
       "siteUrl": "https://www.wane.com"
     },
     {
+      "id": "FL-3d90b05f49d0",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 13:40:00 GMT",
+      "ts": 1789911600000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "外媒：叙利亚北部一军事设施发生剧烈爆炸，造成至少4人受伤 - 环球网",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zMElfM3NkaUJtWjNDanltY2VOVHRnYkNscGVhY25CbjRmenlVWFVCRVo3SHR0NFJNRWRTeDJheW1wclc0WVk0THBFaHdyeGZNWm9qb2h3?oc=5",
+      "site": "环球网",
+      "siteUrl": "https://mil.huanqiu.com"
+    },
+    {
       "id": "FL-5e90cc979fa1",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 10:50:10 GMT",
@@ -147,6 +159,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-6159d642d08f",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 04:45:31 GMT",
+      "ts": 1789965931000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "南北韩非军事区疑地雷爆炸 南韩3士兵受伤 - 星島頭條",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPTHgwM1o3MDU3T1FhbGV4ZllEQ2xMY1B5TDBOTmstWjY1X0pPc0tMSmgzWjBQVW9VSGdJbGVMV1l3NjhueFl2UTlSelEzQjl4ajB3d3hFSDhBSTZKVkxLNjIzTXNqc3ZyM3JfaVBYOEVNY2dQa2pHUEh6OEFjemxmWm1rTDBFMFc1V2xuT3MxT2tJczN0d2FBRDhQZFphT01FTzJFaUNhcmVNbWduMjhTd1U2dExmV2JGQWxqREVIZ2h2SWpfNXYwb1ZuRHBrNDRkQUR1dmZTR21UbFlYRElxdmZMbktSVjhZcWVBaVpmbU9Pclh2NC1jc1VwVjMyMHQ3NkQ0UERlVFVxYXMwOVFvNFhpNVFIVFVSa2xoZC1nSDU1YWVHRzhNTHA1NnVnMTJIY0w5VlF2NlVid29kRFBIVHNIVTE?oc=5",
+      "site": "星島頭條",
+      "siteUrl": "https://www.stheadline.com"
+    },
+    {
       "id": "FL-3e6e598ab98b",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 04:40:42 GMT",
@@ -166,9 +190,9 @@
       "scope": "intl",
       "type": "blast",
       "title": "外媒：叙利亚北部一军事设施发生剧烈爆炸，造成至少4人受伤 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbXdWVUtmbDItWWNmaWdIZVVUSmM2X1NObU9tZi1aemc4U3NsZUpYMjVFTnBjcU1GT3RBYnIzMEgwcFMxdFQ3MmtLa21rYVFkNEdydWk4YjYtX1lDRmhHTU1oMmlMYklkVmsyZ1hack96V2M0NDdNa2pRTmMtcWFQWHZ1b2kxV0dNU1QtTQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DMUU1aGt6emEwcnBFR08zNWZ3a0xKUC1seVJ6Y05rMlBqTTBGdFhGOUVNbm5PRXNlTDN0SUh4ZVc4bTcySU1iT3ZyNG1zRUJEV0E?oc=5",
       "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
+      "siteUrl": "https://www.sohu.com"
     },
     {
       "id": "FL-628013cff6a6",
@@ -183,15 +207,15 @@
       "siteUrl": "https://www.aljazeera.com"
     },
     {
-      "id": "FL-776ec1e80534",
+      "id": "FL-aa92ae4d0e31",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 04:27:46 GMT",
       "ts": 1789964866000,
       "scope": "dom",
       "type": "blast",
-      "title": "韩媒：韩朝边境非军事区疑似地雷爆炸致3人受伤 - cj.sina.cn",
+      "title": "韩媒：韩朝边境非军事区疑似地雷爆炸致3人受伤 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01SzRFUURpY1JjRFRPSUNPY0lMdHltV0FhTEN0NzdGam92enJxNzV4cm9JX05EWHZtUDNpM28tT0VvaGlkQXVSVTNZWQ?oc=5",
-      "site": "cj.sina.cn",
+      "site": "新浪财经",
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
@@ -219,15 +243,15 @@
       "siteUrl": "https://www.thepaper.cn"
     },
     {
-      "id": "FL-da78bdb49a38",
+      "id": "FL-e60118565e00",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 02:53:00 GMT",
       "ts": 1789959180000,
       "scope": "intl",
       "type": "blast",
-      "title": "韩朝军事分界线附近发生爆炸，3 人受伤其中2 名军人重伤|3人|两名韩国军人|韩朝军事分界线|地雷爆炸|韩国军人 - sina.cn",
+      "title": "韩朝军事分界线附近发生爆炸，3 人受伤其中2 名军人重伤|3人|两名韩国军人|韩朝军事分界线|地雷爆炸|韩国军人 - 手机新浪网",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ILXVsak1NUlFlT3BFQ2c5VUFFcGZqM3hybW92ZHZ1VHpPcTBmVGJiZTNMdUttTHdqM1VvZ2EyMXQtS1NERS1wc3lWZ3RVYWwtbzJXWVQxVVZWUzJ6N0wzZnZrTQ?oc=5",
-      "site": "sina.cn",
+      "site": "手机新浪网",
       "siteUrl": "https://www.sina.cn"
     },
     {
@@ -241,30 +265,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YaVU0S2lieFd5V1k5Qms1YUhBalREV1NMZ0V4S3VURXFDMlVqMTNYVXJpVmJWYjBXaWZUTzRtWFNvdzNaWmEtd01ySktMX25CMGo0QWlUZ1ZKRnltOFRMVENmdG9aM3NMSmU2SmI3WFM?oc=5",
       "site": "中华军事",
       "siteUrl": "https://military.china.com"
-    },
-    {
-      "id": "FL-c87927940c52",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 01:51:00 GMT",
-      "ts": 1789955460000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "伊拉克埃尔比勒机场传爆炸声 军方：训练引起 - 早晨报",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoWlktSWtYNUdrN3RnMjhkUVptM2h3VUdhcGFhYnI2Umg0eVNUdElvYklLNm1DVEhPZ2pRWVBTVldGSl9SNUlDNjFYbV9tcFRtQnFCZV9HV0FEams2ZnhUUzRzbDBXWG9MVUZGaA?oc=5",
-      "site": "早晨报",
-      "siteUrl": "https://www.zaochenbao.com"
-    },
-    {
-      "id": "FL-9a1d115c9351",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 00:34:55 GMT",
-      "ts": 1789950895000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "机器人格斗城市巡回赛开始！上海站燃爆科技热情 - 中华网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oVldac2hLa005WlZKU083Z01ZZkJTMF9aMVpESnM3RU9uMTVrRm9Ma2pvbHJmaUUwX2NRWC1tTml3blZEcVhzdnlWN3kwYnh0NjBQQVd6empXMHZjazJlN2dMTmVhRV9rUTEtV191Mms?oc=5",
-      "site": "中华网",
-      "siteUrl": "https://news.china.com"
     },
     {
       "id": "FL-b042a088a326",
@@ -291,27 +291,27 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-a4c84c6d032d",
+      "id": "FL-8322700da7a8",
       "date": "2026-06-05",
       "dateISO": "Fri, 05 Jun 2026 07:00:00 GMT",
       "ts": 1780642800000,
       "scope": "dom",
       "type": "blast",
-      "title": "辽宁本溪一商铺疑似液化气罐泄漏引发爆炸：2人死亡13人轻微伤 - 央广网",
+      "title": "辽宁本溪一商铺疑似液化气罐泄漏引发爆炸：2人死亡13人轻微伤 - cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qQlpCOEt3cGs2NmdiMHBrTlVwekFZQ2pKaTI0cnRPMmt3Z1pCLVUxai1tYkw2RnMzbGctVm5zb0ZwcTIyNlZmUEh0M3MwTlQtRkU2NlJlNnpGdU5vUl9VZ1p2YUNqZi1qLUdYNjNn?oc=5",
-      "site": "央广网",
+      "site": "cnr.cn",
       "siteUrl": "https://www.cnr.cn"
     },
     {
-      "id": "FL-7220c0721191",
+      "id": "FL-93a963a789de",
       "date": "2026-06-05",
       "dateISO": "Fri, 05 Jun 2026 07:00:00 GMT",
       "ts": 1780642800000,
       "scope": "dom",
       "type": "blast",
-      "title": "辽宁本溪商铺爆炸致2死13伤 车载记录仪拍下爆炸瞬间 - 央广网",
+      "title": "辽宁本溪商铺爆炸致2死13伤 车载记录仪拍下爆炸瞬间 - cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GNzZvV1RzRkNfY3RnS0FmNUN6cmc5d2lMWWcyeXdjNkRhQWRNcXJqVWJvNVJkSzZ0djAzNnBNU1FYeWwzSG05bmZrcUxvdDZVMXdxcS1UdXZHVU5QWkNzLTJPZkZWYjdrZ0UtRnB3?oc=5",
-      "site": "央广网",
+      "site": "cnr.cn",
       "siteUrl": "https://www.cnr.cn"
     }
   ]
