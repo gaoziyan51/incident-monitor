@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T20:38:14.208Z",
+  "updated": "2026-09-21T20:46:11.880Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -327,27 +327,15 @@
       "siteUrl": "https://ua.news"
     },
     {
-      "id": "FL-1366bb63c867",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 01:56:18 GMT",
-      "ts": 1789955778000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "沙特利雅得再一次传出爆炸声 导弹拦截声音响起 - 中华军事",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YaVU0S2lieFd5V1k5Qms1YUhBalREV1NMZ0V4S3VURXFDMlVqMTNYVXJpVmJWYjBXaWZUTzRtWFNvdzNaWmEtd01ySktMX25CMGo0QWlUZ1ZKRnltOFRMVENmdG9aM3NMSmU2SmI3WFM?oc=5",
-      "site": "中华军事",
-      "siteUrl": "https://military.china.com"
-    },
-    {
-      "id": "FL-4d3af258f54b",
+      "id": "FL-ab3d9a9b2aa3",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 02:28:11 GMT",
       "ts": 1789352891000,
       "scope": "intl",
       "type": "blast",
-      "title": "日本东京一工厂发生爆炸 3人受伤 - news.cctv.com",
+      "title": "日本东京一工厂发生爆炸 3人受伤 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hN09TTVZvcXgzeVh6TDZkU2JjS3d1bWY4MG5JRGk1ODBab1plTEx6LUFvN1B6WkFSR0N6ZmxVLWtEd3JNUHg0NDRXb2NWN3gxZmsyTXNiMXEwWUZyNWlQeTRfNmppQ0VxMVlTR2dYVTl2MzBFZ1RSNA?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
     },
     {
