@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T04:33:04.604Z",
+  "updated": "2026-09-21T04:46:58.049Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -147,6 +147,54 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-3e6e598ab98b",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 04:40:42 GMT",
+      "ts": 1789965642000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "【快讯】韩陆军第25师在DMZ疑似发生地雷爆炸事故，2名军人重伤 - chinese.joins.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SaFR5MS1XbkVhU0NJcDFiaHJhYWk5SmtURFhRV3U4bXNsWmJXcGJGSGxmTmtuYV9zZzBsUHBEemJyeVJDVDRjd2xBYnZDWDJuRFBtLWt1d01iM2kzYW1mTWhtc1RHX0xNSHl6cQ?oc=5",
+      "site": "chinese.joins.com",
+      "siteUrl": "https://chinese.joins.com"
+    },
+    {
+      "id": "FL-6b068d02fc48",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 04:40:14 GMT",
+      "ts": 1789965614000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "外媒：叙利亚北部一军事设施发生剧烈爆炸，造成至少4人受伤 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbXdWVUtmbDItWWNmaWdIZVVUSmM2X1NObU9tZi1aemc4U3NsZUpYMjVFTnBjcU1GT3RBYnIzMEgwcFMxdFQ3MmtLa21rYVFkNEdydWk4YjYtX1lDRmhHTU1oMmlMYklkVmsyZ1hack96V2M0NDdNa2pRTmMtcWFQWHZ1b2kxV0dNU1QtTQ?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-628013cff6a6",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 04:30:00 GMT",
+      "ts": 1789965000000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Powerful explosions at Syrian army site near Aleppo injure at least four - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNGdIZWVDZGY1SmNoNWhZb1BFZHNWWlQtTnM0MFlxSHVCZUdpbzY1M2NBMDllWTB3bnhDSkdXa3BUaVB1cDdRY2haZi1rOHJUS2RBYmRONWZOUk1XNWQ4alItMlBXenJvSlJ2YUgtR0xYc3I5MTg2a3BoV05kc1lodW9FZ1doalZNMFhaSmpYVnZNM1JtcWVZLXNUUWNYX3phVmkwcnpNOG9mRmV5NlJEZFdsd0rSAboBQVVfeXFMTVFkcF9BM3lWTUJJLUFIRGh2SWNnMnlWQmpIYVRQUG9KdDBmcVExUlpoZWdyQjc3RUpYZDJobTdDaEFoUHZtdXQwdXN5WmFCTGtaZVlhT2xlc1BWaTJfSGZzS1ZlclR0ellGNHNYZHVlc0FGLTFTdnBaQU1wUGZhWnBLaGdGUmFaVFFhTTNEV0lsYTduMG91VGFfenNBWHliREZGcXBicU5vV1VVdHAtV3BRQWhYVHVEQ21n?oc=5",
+      "site": "Al Jazeera",
+      "siteUrl": "https://www.aljazeera.com"
+    },
+    {
+      "id": "FL-776ec1e80534",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 04:27:46 GMT",
+      "ts": 1789964866000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "韩媒：韩朝边境非军事区疑似地雷爆炸致3人受伤 - cj.sina.cn",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01SzRFUURpY1JjRFRPSUNPY0lMdHltV0FhTEN0NzdGam92enJxNzV4cm9JX05EWHZtUDNpM28tT0VvaGlkQXVSVTNZWQ?oc=5",
+      "site": "cj.sina.cn",
+      "siteUrl": "https://wap.cj.sina.cn"
+    },
+    {
       "id": "FL-a0b9e6f6698a",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 03:46:32 GMT",
@@ -205,18 +253,6 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoWlktSWtYNUdrN3RnMjhkUVptM2h3VUdhcGFhYnI2Umg0eVNUdElvYklLNm1DVEhPZ2pRWVBTVldGSl9SNUlDNjFYbV9tcFRtQnFCZV9HV0FEams2ZnhUUzRzbDBXWG9MVUZGaA?oc=5",
       "site": "早晨报",
       "siteUrl": "https://www.zaochenbao.com"
-    },
-    {
-      "id": "FL-628013cff6a6",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 01:36:44 GMT",
-      "ts": 1789954604000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Powerful explosions at Syrian army site near Aleppo injure at least four - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNGdIZWVDZGY1SmNoNWhZb1BFZHNWWlQtTnM0MFlxSHVCZUdpbzY1M2NBMDllWTB3bnhDSkdXa3BUaVB1cDdRY2haZi1rOHJUS2RBYmRONWZOUk1XNWQ4alItMlBXenJvSlJ2YUgtR0xYc3I5MTg2a3BoV05kc1lodW9FZ1doalZNMFhaSmpYVnZNM1JtcWVZLXNUUWNYX3phVmkwcnpNOG9mRmV5NlJEZFdsd0rSAboBQVVfeXFMTVFkcF9BM3lWTUJJLUFIRGh2SWNnMnlWQmpIYVRQUG9KdDBmcVExUlpoZWdyQjc3RUpYZDJobTdDaEFoUHZtdXQwdXN5WmFCTGtaZVlhT2xlc1BWaTJfSGZzS1ZlclR0ellGNHNYZHVlc0FGLTFTdnBaQU1wUGZhWnBLaGdGUmFaVFFhTTNEV0lsYTduMG91VGFfenNBWHliREZGcXBicU5vV1VVdHAtV3BRQWhYVHVEQ21n?oc=5",
-      "site": "Al Jazeera",
-      "siteUrl": "https://www.aljazeera.com"
     },
     {
       "id": "FL-9a1d115c9351",
