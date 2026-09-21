@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T03:47:10.870Z",
+  "updated": "2026-09-21T03:55:58.303Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -111,18 +111,6 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-05716577a80e",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 05:51:00 GMT",
-      "ts": 1789883460000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "快看视频｜爆炸声响、浓烟升腾！冲突升级以来，胡塞首次打击沙特首都敏感目标 - 上观新闻",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vODhqMlREZmNOV2hCZTU0cGVfRHluS0xsZGZIa0lUbFdKRWJnaXEyNTk3dGtvSTZ1YWI0a00yUVNkcjMxcWZQMkE2MXNrUkdRVFNmdnNEWGt0UQ?oc=5",
-      "site": "上观新闻",
-      "siteUrl": "https://www.jfdaily.com"
-    },
-    {
       "id": "FL-0615dd398028",
       "date": "2026-08-02",
       "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
@@ -219,18 +207,6 @@
       "siteUrl": "https://www.sina.cn"
     },
     {
-      "id": "FL-4d0b63864261",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 02:10:20 GMT",
-      "ts": 1789956620000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "数同名便利店疑遭寻仇 被纵火 抛爆炸物 - chinapress.com.my",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNWGE2dGJVaGdCM3N1aHZlc1Q5SG9VSE9MQnBUOGhoTmtPOUtHZ1QtRGtHUm1RTllEdWJETm5ROTN1ZmctOVRJcFZVWjJYNEtHUGx5Y1ZwUThPX3pjSGs0QXZJdDFUMU9ISUdieVp3QUdIUFlOZWtIandvdFlmSHVobGt0UkJueDlDeVJSM2NPcUE4eTZtNDlfd2ZxaWNTYm9fYmhBR3g3bEFNQnk4cDlZYjI5UERMNGNOR0R3bmRQY3kwNjFqLVJORlNjUjNzWXV6cmlHUkRoTjVETHhTN0dhZzZubXdkeUNVYkVkb2lpaTFNQkc3a211NUdSZ2FSUWRaV3FIVDFfYWJLVkJheXFVaFVQTjNmaGVUQjN3cmpIUmE?oc=5",
-      "site": "chinapress.com.my",
-      "siteUrl": "https://www.chinapress.com.my"
-    },
-    {
       "id": "FL-1366bb63c867",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 01:56:18 GMT",
@@ -265,6 +241,18 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oVldac2hLa005WlZKU083Z01ZZkJTMF9aMVpESnM3RU9uMTVrRm9Ma2pvbHJmaUUwX2NRWC1tTml3blZEcVhzdnlWN3kwYnh0NjBQQVd6empXMHZjazJlN2dMTmVhRV9rUTEtV191Mms?oc=5",
       "site": "中华网",
       "siteUrl": "https://news.china.com"
+    },
+    {
+      "id": "FL-4d3af258f54b",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 02:28:11 GMT",
+      "ts": 1789352891000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "日本东京一工厂发生爆炸 3人受伤 - news.cctv.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hN09TTVZvcXgzeVh6TDZkU2JjS3d1bWY4MG5JRGk1ODBab1plTEx6LUFvN1B6WkFSR0N6ZmxVLWtEd3JNUHg0NDRXb2NWN3gxZmsyTXNiMXEwWUZyNWlQeTRfNmppQ0VxMVlTR2dYVTl2MzBFZ1RSNA?oc=5",
+      "site": "news.cctv.com",
+      "siteUrl": "https://news.cctv.com"
     },
     {
       "id": "FL-b042a088a326",
