@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T19:45:28.750Z",
+  "updated": "2026-09-21T19:51:26.917Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -135,18 +135,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-b12dcaa0a861",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 19:40:38 GMT",
-      "ts": 1790019638000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "凌晨爆炸声震动首都，沙特双重封锁之下中国公民收到一份特殊提醒 - 手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5iWWRyaXJULUVLcE96aVptREJhQXJWLTJQbUxoVmRPSk1SWFpFd2FNVko2bEZfMVlPUEd5MVFtcWplNnUwN2xTTnROUFlYZXNwNDV1ZktrSWFrYUI1SGFEOENaV3lNZDFhQTJaUEpxWkpnTFk?oc=5",
-      "site": "手机新浪网",
-      "siteUrl": "https://k.sina.com.cn"
-    },
-    {
       "id": "FL-35640a9f3848",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 18:34:41 GMT",
@@ -159,15 +147,15 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-8f71e0562cc9",
+      "id": "FL-288b0c143216",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 16:22:49 GMT",
       "ts": 1790007769000,
       "scope": "intl",
       "type": "blast",
-      "title": "1 hospitalized after reported explosion at building on Detroit’s west side - clickondetroit.com",
+      "title": "1 hospitalized after reported explosion at building on Detroit’s west side - ClickOnDetroit",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQc3FGT2JCTEFJbEZCcjZaTzFDX1ZDYjNyVjdDaE1BN0I2dDNlNEpKdDlRVlBkZG8tWl90VFdpeGhJRjRCa0x0anlScTRFckFYemJ0WFhieFVVdUpKZ0xPVXJPN0VuckJUQ3FsdTZteHZXU1hpMnlCZTFiZFdFcHRHb2hHYUd5alNEUVJLT25zSHRScDNuZnRTZVhfaDhadE9VQmZnUWRYRzVPWHVrOE9DRm1wVkI1OEhrOHdjVkxObkp6dGJYWVE?oc=5",
-      "site": "clickondetroit.com",
+      "site": "ClickOnDetroit",
       "siteUrl": "https://www.clickondetroit.com"
     },
     {
@@ -385,6 +373,18 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YaVU0S2lieFd5V1k5Qms1YUhBalREV1NMZ0V4S3VURXFDMlVqMTNYVXJpVmJWYjBXaWZUTzRtWFNvdzNaWmEtd01ySktMX25CMGo0QWlUZ1ZKRnltOFRMVENmdG9aM3NMSmU2SmI3WFM?oc=5",
       "site": "中华军事",
       "siteUrl": "https://military.china.com"
+    },
+    {
+      "id": "FL-ab3d9a9b2aa3",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 02:28:11 GMT",
+      "ts": 1789352891000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "日本东京一工厂发生爆炸 3人受伤 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hN09TTVZvcXgzeVh6TDZkU2JjS3d1bWY4MG5JRGk1ODBab1plTEx6LUFvN1B6WkFSR0N6ZmxVLWtEd3JNUHg0NDRXb2NWN3gxZmsyTXNiMXEwWUZyNWlQeTRfNmppQ0VxMVlTR2dYVTl2MzBFZ1RSNA?oc=5",
+      "site": "央视网",
+      "siteUrl": "https://news.cctv.com"
     },
     {
       "id": "FL-b042a088a326",
