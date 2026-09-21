@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T01:54:46.778Z",
+  "updated": "2026-09-21T02:01:35.669Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -171,15 +171,15 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-784deda002a9",
+      "id": "FL-5e90cc979fa1",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 10:50:10 GMT",
       "ts": 1789901410000,
       "scope": "intl",
       "type": "blast",
-      "title": "乌克兰首都基辅传出爆炸声 - news.cnr.cn",
+      "title": "乌克兰首都基辅传出爆炸声 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuWEJUZnJZcWNmZkZWWFhMblRoNmFnSmZoWW9fZ3ZfRWNoQ0g4bWxIZGNNNXdJclphTW1HNDluMmQweGV1TVhxVTZZUk96bVc2cnRySDNqY2xHZUJyb0N3LTlSN21LT3pJ?oc=5",
-      "site": "news.cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
     },
     {
@@ -279,15 +279,15 @@
       "siteUrl": "https://finance.eastmoney.com"
     },
     {
-      "id": "FL-f652072f4460",
+      "id": "FL-62a989632d81",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 07:03:00 GMT",
       "ts": 1789801380000,
       "scope": "intl",
       "type": "blast",
-      "title": "巴基斯坦安全部队打死8名自杀式爆炸袭击者；此次自杀式爆炸袭击已致31人死亡，其中包括16名警察，另有逾百人受伤 - QQ News",
+      "title": "巴基斯坦安全部队打死8名自杀式爆炸袭击者；此次自杀式爆炸袭击已致31人死亡，其中包括16名警察，另有逾百人受伤 - news.qq.com",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByNmJjbHdhQUpOeXM3VEZDcDh0MVpqN0hMMHJ0QTU1VlNNcEpOTS1ScjFfQVZxRE5vcmI0RzVOX3ljOGZjenZkMXl4bXBoX1FNQmRlbUNB?oc=5",
-      "site": "QQ News",
+      "site": "news.qq.com",
       "siteUrl": "https://news.qq.com"
     },
     {
@@ -325,6 +325,18 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mR2pTX0YxWjBwQ2lLNC1XZjFhd3IwVEYtWkZFR3ZBU3B5RTFHR1BldmQ3OEkxN2NaWTMzYUkwWENDeEliY3dVNEloOExFS1B6SlZQTENHdWVmTWpUM042M2hRcmo4QS1qdl85cXlhZHJ3R3JGTEU4?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-1366bb63c867",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 01:56:18 GMT",
+      "ts": 1789955778000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "沙特利雅得再一次传出爆炸声 导弹拦截声音响起 - 中华军事",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YaVU0S2lieFd5V1k5Qms1YUhBalREV1NMZ0V4S3VURXFDMlVqMTNYVXJpVmJWYjBXaWZUTzRtWFNvdzNaWmEtd01ySktMX25CMGo0QWlUZ1ZKRnltOFRMVENmdG9aM3NMSmU2SmI3WFM?oc=5",
+      "site": "中华军事",
+      "siteUrl": "https://military.china.com"
     },
     {
       "id": "FL-9a1d115c9351",
