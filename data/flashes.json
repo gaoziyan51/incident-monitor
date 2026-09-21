@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T07:23:44.906Z",
+  "updated": "2026-09-21T07:36:49.549Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -135,18 +135,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-38eb2088013d",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 07:10:13 GMT",
-      "ts": 1789974613000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "韩朝非军事区发生爆炸 三韩国军官受伤 - 8world",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Gdm1ZQjc0WVFnY19QM1hnaTVOd3RTdlJvLVVYcUI1QTFyQzBlSURWNDdUcDRCUjNXNFFucHRWYXczVjVzUFhVTkpIbWR6V3FoaExsMzExaDlfUQ?oc=5",
-      "site": "8world",
-      "siteUrl": "https://www.8world.com"
-    },
-    {
       "id": "FL-6b35bd78bde4",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 06:56:03 GMT",
@@ -207,6 +195,18 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
+      "id": "FL-b53b8e661af8",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 04:52:04 GMT",
+      "ts": 1789966324000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Unidentified explosion in DMZ injures 3 South Korea military personnel - stripes.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbDdlZndOT0lwMXEzY2E1TkN4emdCdktMcjZmT3dnQnVYTEtpLWlYYTEzT1g0czc1RHpyM3I1VFkybnFuT1hDR0l0VWFuczBSMGdTT1EwVFctbWtjYnBYZmxxVDEtemxsMXJ5N0VyMDFpWmI3c19aYzlqSndBY2FxX0VmWmk1RWo1cnBKMnlMbG9EYlIx?oc=5",
+      "site": "stripes.com",
+      "siteUrl": "https://www.stripes.com"
+    },
+    {
       "id": "FL-3e6e598ab98b",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 04:40:42 GMT",
@@ -217,18 +217,6 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SaFR5MS1XbkVhU0NJcDFiaHJhYWk5SmtURFhRV3U4bXNsWmJXcGJGSGxmTmtuYV9zZzBsUHBEemJyeVJDVDRjd2xBYnZDWDJuRFBtLWt1d01iM2kzYW1mTWhtc1RHX0xNSHl6cQ?oc=5",
       "site": "chinese.joins.com",
       "siteUrl": "https://chinese.joins.com"
-    },
-    {
-      "id": "FL-6b068d02fc48",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 04:40:14 GMT",
-      "ts": 1789965614000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "外媒：叙利亚北部一军事设施发生剧烈爆炸，造成至少4人受伤 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DMUU1aGt6emEwcnBFR08zNWZ3a0xKUC1seVJ6Y05rMlBqTTBGdFhGOUVNbm5PRXNlTDN0SUh4ZVc4bTcySU1iT3ZyNG1zRUJEV0E?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://www.sohu.com"
     },
     {
       "id": "FL-628013cff6a6",
@@ -243,15 +231,15 @@
       "siteUrl": "https://www.aljazeera.com"
     },
     {
-      "id": "FL-aa92ae4d0e31",
+      "id": "FL-efa998699b40",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 04:27:46 GMT",
       "ts": 1789964866000,
       "scope": "dom",
       "type": "blast",
-      "title": "韩媒：韩朝边境非军事区疑似地雷爆炸致3人受伤 - 新浪财经",
+      "title": "韩媒：韩朝边境非军事区疑似地雷爆炸致3人受伤 - 新浪财经_金融信息服务商",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01SzRFUURpY1JjRFRPSUNPY0lMdHltV0FhTEN0NzdGam92enJxNzV4cm9JX05EWHZtUDNpM28tT0VvaGlkQXVSVTNZWQ?oc=5",
-      "site": "新浪财经",
+      "site": "新浪财经_金融信息服务商",
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
@@ -313,6 +301,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ic3NaMW5yOHF1MmNnMDRPdThpWHRsY0dpOUl5X1U2aUxyMlZFTkVhN09xTVRmQ3dwcnFZaThTZjd5RXdLS1VLTVgzNGlENnl3T3hOOVBFSmYyajM0cmlxeVduX28xT2U5M1pvbmJfZE94TW00UmpNd2oyTFZFVEE?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-a4c84c6d032d",
+      "date": "2026-06-05",
+      "dateISO": "Fri, 05 Jun 2026 07:00:00 GMT",
+      "ts": 1780642800000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "辽宁本溪一商铺疑似液化气罐泄漏引发爆炸：2人死亡13人轻微伤 - 央广网",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qQlpCOEt3cGs2NmdiMHBrTlVwekFZQ2pKaTI0cnRPMmt3Z1pCLVUxai1tYkw2RnMzbGctVm5zb0ZwcTIyNlZmUEh0M3MwTlQtRkU2NlJlNnpGdU5vUl9VZ1p2YUNqZi1qLUdYNjNn?oc=5",
+      "site": "央广网",
+      "siteUrl": "https://www.cnr.cn"
     }
   ]
 }
