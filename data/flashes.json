@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T06:58:16.017Z",
+  "updated": "2026-09-21T07:09:06.184Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -75,15 +75,15 @@
       "siteUrl": "https://mil.huanqiu.com"
     },
     {
-      "id": "FL-5e90cc979fa1",
+      "id": "FL-784deda002a9",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 10:50:10 GMT",
       "ts": 1789901410000,
       "scope": "intl",
       "type": "blast",
-      "title": "乌克兰首都基辅传出爆炸声 - 央广网",
+      "title": "乌克兰首都基辅传出爆炸声 - news.cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuWEJUZnJZcWNmZkZWWFhMblRoNmFnSmZoWW9fZ3ZfRWNoQ0g4bWxIZGNNNXdJclphTW1HNDluMmQweGV1TVhxVTZZUk96bVc2cnRySDNqY2xHZUJyb0N3LTlSN21LT3pJ?oc=5",
-      "site": "央广网",
+      "site": "news.cnr.cn",
       "siteUrl": "https://news.cnr.cn"
     },
     {
@@ -133,6 +133,30 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mR2pTX0YxWjBwQ2lLNC1XZjFhd3IwVEYtWkZFR3ZBU3B5RTFHR1BldmQ3OEkxN2NaWTMzYUkwWENDeEliY3dVNEloOExFS1B6SlZQTENHdWVmTWpUM042M2hRcmo4QS1qdl85cXlhZHJ3R3JGTEU4?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-2391179d8319",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 07:07:58 GMT",
+      "ts": 1789974478000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Explosion injures 3 South Korean military officers in border area with North Korea - WRAL",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSXNCR3RzZXRsVkpUaVl5bWhsdW9pbWJ4YWwyalFlODJla0VjOU5POGFBRWc5dTZCWE9rN3RUQWROS0xqcWY2YkFveEFFSVhzQlJ3a3JHeU81Q2otaXlTdG1kMEhsd1I0S3lidTBYLVZKMkFmZDBQTkJ4WUk1UWY0Tm9ELV9ab0pCRVFBQ2MwMlBpQXNTdDFXbkNyQmdidFBSRi1zbmNuNW01UkRfYTB5MEVwZFhNMm8xUHc?oc=5",
+      "site": "WRAL",
+      "siteUrl": "https://www.wral.com"
+    },
+    {
+      "id": "FL-6b35bd78bde4",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 06:56:03 GMT",
+      "ts": 1789973763000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "秀英“村超”嘉年华，燃爆假日海滩！ - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTlBiX0JhY1hBNUpQN0ZVa0ZVUFEwRDBvdFpuZG1BSTFqclNkRjlfY2FOc0V4NUlDcUlQN25SYnZfYzMyLURETzdPUENCU2pBX0tJcFJFVzBWb2NfZnBKeFRKSDVzd092aTdxSlBIRG9FVHpFelhOT3VmQzBVYnZueVVfNWMyLUYzM0lNNQ?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-bf9736ff38bb",
@@ -207,27 +231,27 @@
       "siteUrl": "https://www.sohu.com"
     },
     {
-      "id": "FL-0acb474fc24a",
+      "id": "FL-628013cff6a6",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 04:30:00 GMT",
       "ts": 1789965000000,
       "scope": "intl",
       "type": "blast",
-      "title": "Powerful explosions at Syrian army site near Aleppo injure at least four - aljazeera.com",
+      "title": "Powerful explosions at Syrian army site near Aleppo injure at least four - Al Jazeera",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNGdIZWVDZGY1SmNoNWhZb1BFZHNWWlQtTnM0MFlxSHVCZUdpbzY1M2NBMDllWTB3bnhDSkdXa3BUaVB1cDdRY2haZi1rOHJUS2RBYmRONWZOUk1XNWQ4alItMlBXenJvSlJ2YUgtR0xYc3I5MTg2a3BoV05kc1lodW9FZ1doalZNMFhaSmpYVnZNM1JtcWVZLXNUUWNYX3phVmkwcnpNOG9mRmV5NlJEZFdsd0rSAboBQVVfeXFMTVFkcF9BM3lWTUJJLUFIRGh2SWNnMnlWQmpIYVRQUG9KdDBmcVExUlpoZWdyQjc3RUpYZDJobTdDaEFoUHZtdXQwdXN5WmFCTGtaZVlhT2xlc1BWaTJfSGZzS1ZlclR0ellGNHNYZHVlc0FGLTFTdnBaQU1wUGZhWnBLaGdGUmFaVFFhTTNEV0lsYTduMG91VGFfenNBWHliREZGcXBicU5vV1VVdHAtV3BRQWhYVHVEQ21n?oc=5",
-      "site": "aljazeera.com",
+      "site": "Al Jazeera",
       "siteUrl": "https://www.aljazeera.com"
     },
     {
-      "id": "FL-776ec1e80534",
+      "id": "FL-aa92ae4d0e31",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 04:27:46 GMT",
       "ts": 1789964866000,
       "scope": "dom",
       "type": "blast",
-      "title": "韩媒：韩朝边境非军事区疑似地雷爆炸致3人受伤 - cj.sina.cn",
+      "title": "韩媒：韩朝边境非军事区疑似地雷爆炸致3人受伤 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01SzRFUURpY1JjRFRPSUNPY0lMdHltV0FhTEN0NzdGam92enJxNzV4cm9JX05EWHZtUDNpM28tT0VvaGlkQXVSVTNZWQ?oc=5",
-      "site": "cj.sina.cn",
+      "site": "新浪财经",
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
@@ -265,18 +289,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YaVU0S2lieFd5V1k5Qms1YUhBalREV1NMZ0V4S3VURXFDMlVqMTNYVXJpVmJWYjBXaWZUTzRtWFNvdzNaWmEtd01ySktMX25CMGo0QWlUZ1ZKRnltOFRMVENmdG9aM3NMSmU2SmI3WFM?oc=5",
       "site": "中华军事",
       "siteUrl": "https://military.china.com"
-    },
-    {
-      "id": "FL-ab3d9a9b2aa3",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 02:28:11 GMT",
-      "ts": 1789352891000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "日本东京一工厂发生爆炸 3人受伤 - 央视网",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hN09TTVZvcXgzeVh6TDZkU2JjS3d1bWY4MG5JRGk1ODBab1plTEx6LUFvN1B6WkFSR0N6ZmxVLWtEd3JNUHg0NDRXb2NWN3gxZmsyTXNiMXEwWUZyNWlQeTRfNmppQ0VxMVlTR2dYVTl2MzBFZ1RSNA?oc=5",
-      "site": "央视网",
-      "siteUrl": "https://news.cctv.com"
     },
     {
       "id": "FL-b042a088a326",
