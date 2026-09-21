@@ -68,7 +68,7 @@ const SOURCES = [
 ];
 
 /* 关键词过滤器：标题命中任一关键词才收录（第二道过滤，按用户四类关键词维护） */
-const KEY_RE = /(暴雨|强降雨|洪涝|洪水|山洪|台风|飓风|龙卷风|冰雹|沙尘暴|暴雪|寒潮|冻灾|旱灾|干旱|强对流|极端天气|泥石流|滑坡|山体滑坡|崩塌|塌方|坍塌|倒塌|地面塌陷|地面下陷|地面沉陷|地震|海啸|雷击|火灾|燃爆|爆炸|踩踏|坠落|坠崖|坠河|坠机|空难|发射失利|翻船|沉船|脱轨|矿难|透水|危化品|食物中毒|中毒|泄漏|泄露|疫情|溃坝|倾覆|侧翻|遇难|失联|失踪|伤亡|受伤|重伤|被困|牺牲|殉职|死亡|重大财产损失|疏散|撤离|转移|安置|停运|停课|停工|损毁|Ⅰ级响应|Ⅱ级响应|Ⅲ级响应|Ⅳ级响应|应急响应|特大自然灾害|重大事故|习近平|李强|国务院|国家防总|国家消防救援|应急管理部|中央气象台|地震台网|批示|重要指示|救灾|抢险|工作组|调查组|指导组|问责|追责|killed|dead|deaths|missing|injured|evacuated|explosion|blast|fire|flood|earthquake|quake|landslide|mudslide|typhoon|hurricane|tornado|tsunami|derail|crash|deadly|fatal)/i;
+const KEY_RE = /(爆炸|燃爆|瓦斯爆炸|气体爆炸|粉尘爆炸|化学品爆炸|危化品爆炸|锅炉爆炸|矿井爆炸|工厂爆炸|仓库爆炸|爆炸事故|explosion|blast|gas explosion|chemical explosion|factory explosion|warehouse explosion)/i;
 
 /* 排除明显无关词（避免把正常新闻当事故） */
 const SKIP_RE = /(游戏|电影|电视剧|股价|足球|篮球|世界杯|演唱会|剧集|综艺|转会|联名|评测|优惠|降价|发布|销量|财报|电影票房|收视)/i;
