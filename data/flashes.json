@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T08:46:39.860Z",
+  "updated": "2026-09-21T08:54:54.195Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -49,18 +49,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-1784dad91856",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 16:36:00 GMT",
-      "ts": 1789922160000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "连环自杀式爆炸袭击！ 巴基斯坦一警察大院遭袭现场爆发激烈枪战31人死亡、百余人受伤 - QQ News",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1na0l5MW56eS1qdzFFaUt3YkdKTXZfTFdtRmtKWUtCaEFkMDllc3ljYzlNaHV4VDhKbGxJc2pqVHdOaGFraTFxX0RFM2NwVG52WGdWaGp3?oc=5",
-      "site": "QQ News",
-      "siteUrl": "https://news.qq.com"
     },
     {
       "id": "FL-3d90b05f49d0",
@@ -207,18 +195,6 @@
       "siteUrl": "http://www.ktvn.com"
     },
     {
-      "id": "FL-f11508281ecd",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 07:46:07 GMT",
-      "ts": 1789976767000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Explosion injures 3 South Korean military officers inside DMZ bordering North Korea - reflector.com",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOUXFURTNmd0NOR0lXR093VHVPWTYtaEYwaHNET0NqMGwwc0dpbVlEZGp2cnhOQTBEUUR2bGZQc2RQS01Mc2FUVHp0bDNCMl9KNWk3UktVcFIza0toZE1Rc08tSlpwV0FWMmdpQXFURXRPcmY3dHNBelBVd2FFWjFaZzJWeUR1dERMQUVxeDZ4aWxCWDkyT0t6T0VHcVNtSkNBd05ObFBhN1U4NUh5QUVrdUlDWGEzM3JaRzdaZmswQlQ1STkxWEJ3YVVLYVhkWlVuX3E3d1E3WFdSR29MZDE2WENpVmJiN0tPMEp1MHEtWlZmNk8xLWx2TVpHRVNYTlJETjdr?oc=5",
-      "site": "reflector.com",
-      "siteUrl": "https://www.reflector.com"
-    },
-    {
       "id": "FL-1176c234d9af",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 07:46:07 GMT",
@@ -315,18 +291,6 @@
       "siteUrl": "https://www.koreaherald.com"
     },
     {
-      "id": "FL-9db3a6f27c01",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 05:56:00 GMT",
-      "ts": 1789970160000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "韩媒：韩朝边境非军事区疑似地雷爆炸致3人受伤 - 星岛环球网",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sMm81cmlrd0drSGd5VDQ3ZjRKekZ0QW5PRU1aU0J6SGhyaE9ISWFHTkJSTHlxTW9aX09DalQxNG01LXdmMmgwY1lGX0dfQkRXOW9HLXJidDlMR2hVSUFYNFFxaVY?oc=5",
-      "site": "星岛环球网",
-      "siteUrl": "https://m.stnn.cc"
-    },
-    {
       "id": "FL-fceaf77a49c8",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 05:52:28 GMT",
@@ -337,6 +301,18 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1XT29GeWQ2OHhwUjFxUzNRbDdZZnBlcjRxREhCSXkzV3ZPQ2VvM2NPWWNyRFVqRkJ6UGphMVpLeVhvRTVVOXo1RHk4c2Z4NzgyNkxSYkNqUHd0VUZuOE9ZSWZDTWNPNG5tVjlYRnBRMEZoY1Zqam5aTXBxTdIBgAFBVV95cUxQNzRpYkdhZElJb2FNdi1aWjR0X2U0bmZQcEl0cUF6bWs2UnQtNjZLYUMzQTRieFdZSGp6a1dCMHItazlnVVVMOHNvanVCa21IandzdDdETHR4MG95TEFRbzdDSzJqQWQxR2E3SjBhd3BQN2ZIdU1VMVBDZ2FPVUk3Sg?oc=5",
       "site": "KTALnews.com",
       "siteUrl": "https://www.ktalnews.com"
+    },
+    {
+      "id": "FL-8174d741cb44",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 05:42:04 GMT",
+      "ts": 1789969324000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Explosion injures 3 South Korean military officers inside DMZ bordering North Korea - WSLS",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeS1VX09kZk5RNTdMVG9CWE1zbXI3c0V3a3VRMHNJNW9TODdzRUJBODJfLXB6b0xsUWNZTzRxYnJOejJRZ3ZzblhXYTdQMGJjZE95STFUSENaX1JMLWlVR2dlbkhxTnRJenBCY3hXcHp4d3p0bmtvdjF0Wk13cHRIREtMLWNNVzV5VTRBMkF2YUxnV1pRYTJLVG43WWtNSnh2SXR0d2pNazZwQjNiV3NIWlNZR1BOMTE3anlfUUIwS0ZWU3Bh?oc=5",
+      "site": "WSLS",
+      "siteUrl": "https://www.wsls.com"
     },
     {
       "id": "FL-0523c7dda03d",
@@ -399,6 +375,18 @@
       "siteUrl": "https://chinese.joins.com"
     },
     {
+      "id": "FL-aa087afe925b",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 04:40:14 GMT",
+      "ts": 1789965614000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "外媒：叙利亚北部一军事设施发生爆炸致多人受伤 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5tT3k2WDJ5ZFBod1NBeXJVLUM1V0RnOFZQb0liUXlWNVppTTRaZFF5M09ZVWZtOXhCM1NLaDVBMnNxRUxjR0VkVEhYX2Y?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://news.ifeng.com"
+    },
+    {
       "id": "FL-628013cff6a6",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 04:32:40 GMT",
@@ -409,6 +397,18 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNGdIZWVDZGY1SmNoNWhZb1BFZHNWWlQtTnM0MFlxSHVCZUdpbzY1M2NBMDllWTB3bnhDSkdXa3BUaVB1cDdRY2haZi1rOHJUS2RBYmRONWZOUk1XNWQ4alItMlBXenJvSlJ2YUgtR0xYc3I5MTg2a3BoV05kc1lodW9FZ1doalZNMFhaSmpYVnZNM1JtcWVZLXNUUWNYX3phVmkwcnpNOG9mRmV5NlJEZFdsd0rSAboBQVVfeXFMTVFkcF9BM3lWTUJJLUFIRGh2SWNnMnlWQmpIYVRQUG9KdDBmcVExUlpoZWdyQjc3RUpYZDJobTdDaEFoUHZtdXQwdXN5WmFCTGtaZVlhT2xlc1BWaTJfSGZzS1ZlclR0ellGNHNYZHVlc0FGLTFTdnBaQU1wUGZhWnBLaGdGUmFaVFFhTTNEV0lsYTduMG91VGFfenNBWHliREZGcXBicU5vV1VVdHAtV3BRQWhYVHVEQ21n?oc=5",
       "site": "Al Jazeera",
       "siteUrl": "https://www.aljazeera.com"
+    },
+    {
+      "id": "FL-7017d598b87e",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 04:27:10 GMT",
+      "ts": 1789964830000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "韩媒：韩朝边境非军事区疑似地雷爆炸致三人受伤 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKYTlQZHNBeVdKTEplZngwR3JUNHpDV2laYnRuZkVwcTBfaW00MUZrTWo2cnRHdUFESXFrLWNuYWVCeUpkcThPbDhHbw?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://mil.ifeng.com"
     },
     {
       "id": "FL-e819333ef62a",
@@ -459,6 +459,18 @@
       "siteUrl": "https://military.china.com"
     },
     {
+      "id": "FL-ab3d9a9b2aa3",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 02:28:11 GMT",
+      "ts": 1789352891000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "日本东京一工厂发生爆炸 3人受伤 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hN09TTVZvcXgzeVh6TDZkU2JjS3d1bWY4MG5JRGk1ODBab1plTEx6LUFvN1B6WkFSR0N6ZmxVLWtEd3JNUHg0NDRXb2NWN3gxZmsyTXNiMXEwWUZyNWlQeTRfNmppQ0VxMVlTR2dYVTl2MzBFZ1RSNA?oc=5",
+      "site": "央视网",
+      "siteUrl": "https://news.cctv.com"
+    },
+    {
       "id": "FL-b042a088a326",
       "date": "2026-08-03",
       "dateISO": "Mon, 03 Aug 2026 07:00:00 GMT",
@@ -467,6 +479,18 @@
       "type": "blast",
       "title": "巴基斯坦西北部发生爆炸致14人死亡 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-0f5476d1c019",
+      "date": "2026-07-31",
+      "dateISO": "Fri, 31 Jul 2026 07:00:00 GMT",
+      "ts": 1785481200000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "巴基斯坦煤矿爆炸致34人死亡 8人被困 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ic3NaMW5yOHF1MmNnMDRPdThpWHRsY0dpOUl5X1U2aUxyMlZFTkVhN09xTVRmQ3dwcnFZaThTZjd5RXdLS1VLTVgzNGlENnl3T3hOOVBFSmYyajM0cmlxeVduX28xT2U5M1pvbmJfZE94TW00UmpNd2oyTFZFVEE?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
     }
