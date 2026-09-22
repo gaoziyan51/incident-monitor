@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T03:31:31.480Z",
+  "updated": "2026-09-22T03:45:44.032Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,16 +15,16 @@
       "siteUrl": "https://www.cpnn.com.cn"
     },
     {
-      "id": "FL-10386b8f475f",
+      "id": "FL-ee4466825e60",
       "date": "2026-09-22",
-      "dateISO": "Tue, 22 Sep 2026 03:23:01 GMT",
-      "ts": 1790047381000,
+      "dateISO": "Tue, 22 Sep 2026 03:37:38 GMT",
+      "ts": 1790048258000,
       "scope": "dom",
       "type": "blast",
-      "title": "山西阳泉一居民楼发生燃气爆炸致1人重伤、3人轻伤 - 新华网山西",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLUlLOXpRVkxvYXpycFJ3X0dPMF9YbVdBcEJ5ZHQtdG9tV0xDd3ZVNXBYbnZNNUViZGRCdXNIOU1rbWxWT2F2TVkzeEFqTzRGM2p5NXZuTTN1TFFpRGYxLTVwS0wzM1prT0wwektnSlFMeFQzeWFkYzFHMWV2QlpObkRB?oc=5",
-      "site": "新华网山西",
-      "siteUrl": "http://www.sx.xinhuanet.com"
+      "title": "山西阳泉一居民楼发生燃气爆炸致1人重伤、3人轻伤，现场已临时管控，楼内人员全部撤离 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ2hvc0hvSUdlNlltMkl3MlkyVkFleGdtM3hid3l3cnNmUjh5QmxDcnI3ZjdsTXVDdG5nUl9PVXRxMWw5UmNEdHI3aGZBSm1BQkNqUDE2UXh3elVnLU11WjJlX1JvUzNYSmZaWXVjR0JEWnRvQ1RzTFBGY2E2SjFKNU1faVV1bUhuUHF6NQ?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-474302a01de2",
@@ -231,28 +231,16 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-eb9f1bdfe36b",
+      "id": "FL-563d9aaef4fd",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 15:44:00 GMT",
       "ts": 1790005440000,
       "scope": "intl",
       "type": "blast",
-      "title": "Explosion reported at NW Iowa feed mill, damages facility - KTIV",
+      "title": "Explosion reported at NW Iowa feed mill, damages facility - ktiv.com",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMWs4b2ozbFhIM1l1Umc2cTF3SFpnTzk3MGpyVUpuZGl0VFpBU1Q2Ukt4QXR1SWJQX3NuZEh0YnZOZ3lHWWtUOE9LekVBRk8xeDlJTFJxRUI3SWlKOHdMSkZTeGVXV2lQNmpQUGJudktUUGZLck8ydmJVOU5yb2pOUE04QzZMY1lHa1d5b09nZw?oc=5",
-      "site": "KTIV",
+      "site": "ktiv.com",
       "siteUrl": "https://www.ktiv.com"
-    },
-    {
-      "id": "FL-b80230d2f14a",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 14:57:35 GMT",
-      "ts": 1790002655000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "三名南韩军官在非军事区的爆炸中受伤 - AsiaNews",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOeWlCRVZFSHM1YW1BWVcxelpUeER6RFJ3NVdaRmVod1d3NjdsaFRmWGczZktfejBKekpGQ1M4NzdXa3FoN3RIRGlFR1poZDljNW0wVV83c2c1TzZJZ0JwNjEyMk43eXN4akkzR3FSM3VDMWt4V1o4SDhGMzFOY3JOVTBuWHgwMGRNWm9ac05DZThFWjFHRnJJbkJVLXRfNG1NSndiYWx5MmF4dUNHYjdBam9MUm83aHIwdWRmU3BfLWZ6RVpTTU03SWFlOUxqYmNhc1prLS1WNlAtUmhzaWkzN0VhNnZ5a1R5akEwcEtPNFI5TEVtUG43dmdHODNCcDdZVmtNVTYzai1ZZ3EtX2tXQWFQUU5UaTVUa2tYVVIwS2ZaSlYzUk15bklR?oc=5",
-      "site": "AsiaNews",
-      "siteUrl": "https://www.asianews.it"
     },
     {
       "id": "FL-5e80c3d0a0a0",
