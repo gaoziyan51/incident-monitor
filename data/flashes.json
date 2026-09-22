@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T02:30:54.404Z",
+  "updated": "2026-09-22T02:45:41.512Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -111,15 +111,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-5e90cc979fa1",
+      "id": "FL-784deda002a9",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 10:50:10 GMT",
       "ts": 1789901410000,
       "scope": "intl",
       "type": "blast",
-      "title": "乌克兰首都基辅传出爆炸声 - 央广网",
+      "title": "乌克兰首都基辅传出爆炸声 - news.cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuWEJUZnJZcWNmZkZWWFhMblRoNmFnSmZoWW9fZ3ZfRWNoQ0g4bWxIZGNNNXdJclphTW1HNDluMmQweGV1TVhxVTZZUk96bVc2cnRySDNqY2xHZUJyb0N3LTlSN21LT3pJ?oc=5",
-      "site": "央广网",
+      "site": "news.cnr.cn",
       "siteUrl": "https://news.cnr.cn"
     },
     {
@@ -157,6 +157,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96dl8xWFNNVXR4NE5kQld1OUk4Skk1NXc0ZDZCb2FnemZxTUQwRTFLUmQxV1BZZDNuTEJzT0NlUGVaTGxqRUIyREVFWGd5N3pRZnI4SnNNSnI5c2dIcjhiNFAzaGVYUQ?oc=5",
       "site": "东方财富",
       "siteUrl": "https://finance.eastmoney.com"
+    },
+    {
+      "id": "FL-c2b5e87a66f1",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 03:47:19 GMT",
+      "ts": 1789789639000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "巴基斯坦西北部爆炸已致21死 巴总统称将继续反恐行动 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JdTVsYVVFWHBSX3JkaE5ocVh2cmtPd0NWVkpmT1EyOENqOGJZcHhnQllGeU9RYThKRTJmYnRVaXpEQ25RcGNGNi1LcmZJUUFnY2Q1cVVpS2dkSW8wQzJfSFI4U3FYMzdXNmJSWm1SdEpsckl2Y190Sg?oc=5",
+      "site": "央视网",
+      "siteUrl": "https://news.cctv.com"
     },
     {
       "id": "FL-803bd894ebf2",
@@ -231,18 +243,6 @@
       "siteUrl": "https://www.asianews.it"
     },
     {
-      "id": "FL-45fc82322bac",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 14:07:40 GMT",
-      "ts": 1789999660000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "叙利亚一武器库爆炸 至少4人受伤 - 手机网易网",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrRXp6SUZHb2trNmZGOXRONVZnbkx0YVV3RmpIUWo5Ym5JNmQ5X25fRjhUdlE4T1FVVXZFbnVjLWNXVV9SOE9PWGxTaWhndm5OeU5HUV9UeUpzbVpreFd5YndDejJNUkp0UjBQLUsxYnhHVDhBZF9UZ1N3?oc=5",
-      "site": "手机网易网",
-      "siteUrl": "https://m.163.com"
-    },
-    {
       "id": "FL-97253ec821de",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 10:57:46 GMT",
@@ -255,15 +255,15 @@
       "siteUrl": "https://abcnews.com"
     },
     {
-      "id": "FL-51431bb3c903",
+      "id": "FL-9489ca9d0c9a",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 09:34:24 GMT",
       "ts": 1789983264000,
       "scope": "intl",
       "type": "blast",
-      "title": "韩朝边境非军事区疑似地雷爆炸，3名韩国军人受伤 - 凤凰网",
+      "title": "韩朝边境非军事区疑似地雷爆炸，3名韩国军人受伤 - news.ifeng.com",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1uTURkakZvaVlhWXFVYTc0aDM0dWFYbExjM1JlSTdrazJyZmJTWF9hUlZUcGM1dXloQXNLTjRGQ2dMazJrVk5kTDNhRlM?oc=5",
-      "site": "凤凰网",
+      "site": "news.ifeng.com",
       "siteUrl": "https://news.ifeng.com"
     },
     {
@@ -301,18 +301,6 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wd3VHa3RYOC1OQTlBb1paeEhXZmNXUFNJZ2dralg3TE0yaHE0Q29GRHJWTFk2M1ZPQmhoeWp5b0poTW1xSThLbTFaWGc1Y0h2TmJtY0VwY2VSemwzY3Vzd1RpSHUxX0Z1UlVvSlY1M3NOcFpjV2t3SQ?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
-    },
-    {
-      "id": "FL-ab3d9a9b2aa3",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 02:28:11 GMT",
-      "ts": 1789352891000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "日本东京一工厂发生爆炸 3人受伤 - 央视网",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hN09TTVZvcXgzeVh6TDZkU2JjS3d1bWY4MG5JRGk1ODBab1plTEx6LUFvN1B6WkFSR0N6ZmxVLWtEd3JNUHg0NDRXb2NWN3gxZmsyTXNiMXEwWUZyNWlQeTRfNmppQ0VxMVlTR2dYVTl2MzBFZ1RSNA?oc=5",
-      "site": "央视网",
-      "siteUrl": "https://news.cctv.com"
     },
     {
       "id": "FL-b042a088a326",
