@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T04:53:16.297Z",
+  "updated": "2026-09-22T05:01:32.595Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -123,18 +123,6 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-ed5bb4de52b7",
-      "date": "2026-07-02",
-      "dateISO": "Thu, 02 Jul 2026 07:00:00 GMT",
-      "ts": 1782975600000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "涉留神峪特别重大瓦斯爆炸事故 崔瑞军被查 - 中国日报网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwQldTMXJVdFF1VDFZdGpMSG9kcElHUTdDWkpNbEpBeVJLMVltU3JaY05MZG5PR3NnWUFHMURJelctUkhNalZTQWM0d2N2ZU81blNIRW9fZ0hyMExJQ2tRZE1CRllnRnFJcXVWbXpwMnMwMWlwT1R5Qmt4aDE?oc=5",
-      "site": "中国日报网",
-      "siteUrl": "https://cn.chinadaily.com.cn"
-    },
-    {
       "id": "FL-340d5e981918",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
@@ -147,15 +135,27 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-5e90cc979fa1",
+      "id": "FL-3d90b05f49d0",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 13:40:00 GMT",
+      "ts": 1789911600000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "外媒：叙利亚北部一军事设施发生剧烈爆炸，造成至少4人受伤 - 环球网",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RSG9XNVE4SVBLbjNQYjJ5dV85NEdYenh4ekVrTC1saWFaYUJEZEQ0RDZwZXp1cjJIWW5DNERGb2ZRNnNDMDYyMlo4d2tsQ0hlQ1A0ZlNR?oc=5",
+      "site": "环球网",
+      "siteUrl": "https://www.huanqiu.com"
+    },
+    {
+      "id": "FL-784deda002a9",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 10:50:10 GMT",
       "ts": 1789901410000,
       "scope": "intl",
       "type": "blast",
-      "title": "乌克兰首都基辅传出爆炸声 - 央广网",
+      "title": "乌克兰首都基辅传出爆炸声 - news.cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuWEJUZnJZcWNmZkZWWFhMblRoNmFnSmZoWW9fZ3ZfRWNoQ0g4bWxIZGNNNXdJclphTW1HNDluMmQweGV1TVhxVTZZUk96bVc2cnRySDNqY2xHZUJyb0N3LTlSN21LT3pJ?oc=5",
-      "site": "央广网",
+      "site": "news.cnr.cn",
       "siteUrl": "https://news.cnr.cn"
     },
     {
@@ -195,15 +195,15 @@
       "siteUrl": "https://finance.eastmoney.com"
     },
     {
-      "id": "FL-c2b5e87a66f1",
+      "id": "FL-bc5a0b5cb5b0",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 03:47:19 GMT",
       "ts": 1789789639000,
       "scope": "intl",
       "type": "blast",
-      "title": "巴基斯坦西北部爆炸已致21死 巴总统称将继续反恐行动 - 央视网",
+      "title": "巴基斯坦西北部爆炸已致21死 巴总统称将继续反恐行动 - news.cctv.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JdTVsYVVFWHBSX3JkaE5ocVh2cmtPd0NWVkpmT1EyOENqOGJZcHhnQllGeU9RYThKRTJmYnRVaXpEQ25RcGNGNi1LcmZJUUFnY2Q1cVVpS2dkSW8wQzJfSFI4U3FYMzdXNmJSWm1SdEpsckl2Y190Sg?oc=5",
-      "site": "央视网",
+      "site": "news.cctv.com",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -243,39 +243,39 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-5e80c3d0a0a0",
+      "id": "FL-00057333a996",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 14:22:05 GMT",
       "ts": 1790000525000,
       "scope": "intl",
       "type": "blast",
-      "title": "叙利亚一武器库爆炸，至少4人受伤 - 京报网",
+      "title": "叙利亚一武器库爆炸，至少4人受伤 - news.bjd.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWUzdkTmRVb0o0ZkRuVWRPVlRsWVF0NXhIbzdIdjU2NEpZWTMwR3VrNXkwVEhDSGlNcFZOeUoxMEdWNENIelJwWjJsTGhRcEpLcjNNQ2RFNUxSUnVWZGc?oc=5",
-      "site": "京报网",
+      "site": "news.bjd.com.cn",
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-97253ec821de",
+      "id": "FL-fbd1fe25e633",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 10:57:46 GMT",
       "ts": 1789988266000,
       "scope": "intl",
       "type": "blast",
-      "title": "Explosion injures 3 South Korean military officers inside DMZ bordering North Korea - ABC News - Breaking News, Latest News and Videos",
+      "title": "Explosion injures 3 South Korean military officers inside DMZ bordering North Korea - abcnews.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSmpJTnFpSFpIcDYydjg2YmQzcVVhaWhHdTFOOVIyaS13dE9YQl9iejJ5amt0MDllVVlCR2JOTi05ZlIyTk4tdjRsdzQybmd6VUhzVGloR3h0cUc2TjNFd1U2d3BDb3RfUWlybGVsTEM0a0ZnN2wtUjdDdUNpWVM4VG9fSTU4Sl80NjRmYXdRVmpROGh1RDVuQ3lIYmd5T2wxODFubEp1NHFrWTBYZmZtZtIBtgFBVV95cUxPTlhONU9reXZKZ3NYSWM1aUxVaUlBT0JXcFBjejJYWHpFVlM0WlczNjY5V3hVY1I3N20zeG8wZ0V1VkZIaWxLQWJtU2xPbXRsZWEwbi1KRzZUTmR6c3dIXzdMNFM4SmhCX2I0YUw3SEt6WHI2amdzNGNTUEd6ZVRfUXc2eHlZOVVxV01zc1pCU3VEYmVsUHV5LTRvNWgteEI1WUJ2aGNnTXNxN3doQlV6akJ4ZnJ6dw?oc=5",
-      "site": "ABC News - Breaking News, Latest News and Videos",
+      "site": "abcnews.com",
       "siteUrl": "https://abcnews.com"
     },
     {
-      "id": "FL-65afbfa87c33",
+      "id": "FL-669ebd9f4631",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 09:10:39 GMT",
       "ts": 1789981839000,
       "scope": "dom",
       "type": "blast",
-      "title": "s1mple：我最容易心态爆炸，Senzu容易搞砸稳赢的残局 - 5EPlay",
+      "title": "s1mple：我最容易心态爆炸，Senzu容易搞砸稳赢的残局 - csgo.5eplay.com",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxSzdsZVR5MGlsTDY0ZWFtU3V6ZnlZOWVRY0hPUzdfRTNlQ3lMMWNPb3FTdzZwXzJudlR2bFgzdjVmRmFNa0o5clNWWjQ4UkkyMmpWaHk0eU1Vc1pRMWo1N2xGMTVNUQ?oc=5",
-      "site": "5EPlay",
+      "site": "csgo.5eplay.com",
       "siteUrl": "https://csgo.5eplay.com"
     },
     {
@@ -327,27 +327,27 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-a4c84c6d032d",
+      "id": "FL-8322700da7a8",
       "date": "2026-06-05",
       "dateISO": "Fri, 05 Jun 2026 07:00:00 GMT",
       "ts": 1780642800000,
       "scope": "dom",
       "type": "blast",
-      "title": "辽宁本溪一商铺疑似液化气罐泄漏引发爆炸：2人死亡13人轻微伤 - 央广网",
+      "title": "辽宁本溪一商铺疑似液化气罐泄漏引发爆炸：2人死亡13人轻微伤 - cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qQlpCOEt3cGs2NmdiMHBrTlVwekFZQ2pKaTI0cnRPMmt3Z1pCLVUxai1tYkw2RnMzbGctVm5zb0ZwcTIyNlZmUEh0M3MwTlQtRkU2NlJlNnpGdU5vUl9VZ1p2YUNqZi1qLUdYNjNn?oc=5",
-      "site": "央广网",
+      "site": "cnr.cn",
       "siteUrl": "https://www.cnr.cn"
     },
     {
-      "id": "FL-7220c0721191",
+      "id": "FL-93a963a789de",
       "date": "2026-06-05",
       "dateISO": "Fri, 05 Jun 2026 07:00:00 GMT",
       "ts": 1780642800000,
       "scope": "dom",
       "type": "blast",
-      "title": "辽宁本溪商铺爆炸致2死13伤 车载记录仪拍下爆炸瞬间 - 央广网",
+      "title": "辽宁本溪商铺爆炸致2死13伤 车载记录仪拍下爆炸瞬间 - cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GNzZvV1RzRkNfY3RnS0FmNUN6cmc5d2lMWWcyeXdjNkRhQWRNcXJqVWJvNVJkSzZ0djAzNnBNU1FYeWwzSG05bmZrcUxvdDZVMXdxcS1UdXZHVU5QWkNzLTJPZkZWYjdrZ0UtRnB3?oc=5",
-      "site": "央广网",
+      "site": "cnr.cn",
       "siteUrl": "https://www.cnr.cn"
     }
   ]
