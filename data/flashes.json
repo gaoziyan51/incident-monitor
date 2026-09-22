@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T01:01:25.541Z",
+  "updated": "2026-09-22T01:17:02.614Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -27,15 +27,15 @@
       "siteUrl": "https://news.china.com"
     },
     {
-      "id": "FL-52720b98ede5",
+      "id": "FL-385dd58b908a",
       "date": "2026-08-11",
       "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
       "ts": 1786431600000,
       "scope": "dom",
       "type": "blast",
-      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - science.caixin.com",
+      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - 财新",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fOUNOVy1jMjYtRHRacDFONmZLdmtlUTBvcjVNX0xwMG9rc2lwYkV4ZzRCOFVIVmdNLXdZcUo3Mkw1UnI3elZsRjNGblI4YTBsMGxPeHJCRnZSNWE0dXNTdXRxcUQ?oc=5",
-      "site": "science.caixin.com",
+      "site": "财新",
       "siteUrl": "https://science.caixin.com"
     },
     {
@@ -121,6 +121,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96dl8xWFNNVXR4NE5kQld1OUk4Skk1NXc0ZDZCb2FnemZxTUQwRTFLUmQxV1BZZDNuTEJzT0NlUGVaTGxqRUIyREVFWGd5N3pRZnI4SnNNSnI5c2dIcjhiNFAzaGVYUQ?oc=5",
       "site": "东方财富",
       "siteUrl": "https://finance.eastmoney.com"
+    },
+    {
+      "id": "FL-c2b5e87a66f1",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 03:47:19 GMT",
+      "ts": 1789789639000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "巴基斯坦西北部爆炸已致21死 巴总统称将继续反恐行动 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JdTVsYVVFWHBSX3JkaE5ocVh2cmtPd0NWVkpmT1EyOENqOGJZcHhnQllGeU9RYThKRTJmYnRVaXpEQ25RcGNGNi1LcmZJUUFnY2Q1cVVpS2dkSW8wQzJfSFI4U3FYMzdXNmJSWm1SdEpsckl2Y190Sg?oc=5",
+      "site": "央视网",
+      "siteUrl": "https://news.cctv.com"
     },
     {
       "id": "FL-803bd894ebf2",
@@ -253,6 +265,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxSzdsZVR5MGlsTDY0ZWFtU3V6ZnlZOWVRY0hPUzdfRTNlQ3lMMWNPb3FTdzZwXzJudlR2bFgzdjVmRmFNa0o5clNWWjQ4UkkyMmpWaHk0eU1Vc1pRMWo1N2xGMTVNUQ?oc=5",
       "site": "5EPlay",
       "siteUrl": "https://csgo.5eplay.com"
+    },
+    {
+      "id": "FL-81167d1eaa21",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 07:56:59 GMT",
+      "ts": 1789977419000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Three South Korean military officers wounded in explosion near border - aljazeera.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSWQ3a25ZckpwMmswR2U2VGJka0gzQ3hLQXlQSkg0OTl3bU93UWlNOGQtYUMxMjMwQ3RkU2tMWmF3UlVMZDBzNUN0bzdNTjlVeVVRZ2xFbmpHaUxkYzBnY1V3VHZHZkNBZ2xOaWhPWHlxV0E2LTRoTE5iNUZVV0l6cTZsdDRSRHFZZmJ0RFFEbm9rR2ZWelNuQ1VOdnLSAaIBQVVfeXFMTW9odWtndGRuMEhuRnN2SjFpS1VhbVlyU2ljQXc2RUpGbzVDbkhveU92Y0MwRG1Da1JOYXV3UTBlTXd0VTdrYVhYNUlhX1ZaM0pRQ2lKelg0clMtNUp2RkEzVlhWZ0dtbVBReE4yRnJldGwxWjd0OGw5dXF4Yl9wQ1R4emF2OTFpY0ZYN2NVS1M2VFA0VnZTU0J4QWl4XzJSazRB?oc=5",
+      "site": "aljazeera.com",
+      "siteUrl": "https://www.aljazeera.com"
     },
     {
       "id": "FL-1b678743d226",
