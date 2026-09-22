@@ -1,19 +1,7 @@
 {
-  "updated": "2026-09-22T15:39:53.831Z",
+  "updated": "2026-09-22T15:47:41.182Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-6e757802b975",
-      "date": "2026-09-22",
-      "dateISO": "Tue, 22 Sep 2026 14:35:14 GMT",
-      "ts": 1790087714000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Kent feed mill damaged by explosion - World Grain",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcWNWd1djWlhJZ0VtYzB6a3djUy13aFAyczJXV2xWY3pJSk9BaHpibEx5WEQwcXoxMnlPVE5jMEJfOGhBMDBWTTBKa0hNV3RxelVaTkg2eURIaHBrdXN6M0JJQ0puWUx5NVVNUDNGVXRXNGg1eHE5QXMtYWhVOU1xc0N4S2w?oc=5",
-      "site": "World Grain",
-      "siteUrl": "https://www.world-grain.com"
-    },
     {
       "id": "FL-826e79f23384",
       "date": "2026-09-22",
@@ -27,15 +15,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-d5cd8c4dbe12",
+      "id": "FL-675fbe01a91d",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 13:29:24 GMT",
       "ts": 1790083764000,
       "scope": "intl",
       "type": "blast",
-      "title": "Suspect charged in explosion at Piero's Italian Cuisine pleads guilty, sentenced - KSNV",
+      "title": "Suspect charged in explosion at Piero's Italian Cuisine pleads guilty, sentenced - news3lv.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVN6M3dTanFRTXFOb3hDQUsxYmxiTUgwV1BvVVl6amdWbnd2WkN3ZkNZMmd5enNNU1dMYnYtenBzdFRQZ185VEM1ZjJLLXZpVzYxdjNESWUwOWVUUDVQbl9vQXd4NFpPUWx3TzI4M1FKZnBMTFByck1DN09PcHlaUUJoalc2QWJraU5Ic2hYQU1Qb2xGLVM3dklfa1A0SmxBT3dMRDR1czdHVG51U2c?oc=5",
-      "site": "KSNV",
+      "site": "news3lv.com",
       "siteUrl": "https://news3lv.com"
     },
     {
@@ -61,6 +49,18 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kZVl0ZG9GQ3BmOEVnbGdNbi1sXzFrQ0tPWGVtUWc5cV9iZV9JcWVYNnJNYXZjRTYydkI5MXk3NGtVWERKckFTWS1BS0JTTUVhVG0xWWJtZ040ZHJUbHJGQS0tZ05nM19JQ0h4WA?oc=5",
       "site": "温州新闻",
       "siteUrl": "https://www.66wz.com"
+    },
+    {
+      "id": "FL-e82ee7b49fdc",
+      "date": "2026-09-22",
+      "dateISO": "Tue, 22 Sep 2026 09:27:11 GMT",
+      "ts": 1790069231000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "网红景区提供百万年薪、千万年薪，“后台直接爆炸了” - news.ifeng.com",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9DWFZhcXNiNmVkWXpPNkNDZWtBbDIzNFVWUXFJSkRuaENZMHg2VnhrRGx3dm5IQ3A5dUs5WTJUMVE5cUtmMzhFN2dNQzQ?oc=5",
+      "site": "news.ifeng.com",
+      "siteUrl": "https://news.ifeng.com"
     },
     {
       "id": "FL-0d36613de8e1",
@@ -135,18 +135,6 @@
       "siteUrl": "https://news.china.com"
     },
     {
-      "id": "FL-95d673f4f2e5",
-      "date": "2026-09-22",
-      "dateISO": "Tue, 22 Sep 2026 01:38:05 GMT",
-      "ts": 1790041085000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "【视频】能把胡子哥亏爆炸的冒险家？！ - 汽车之家",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4weGlCWFFXMTBJSU05cVFNejVsVWNHOHJlcDRfeDFDZ2pPdkZMc2VpcnRKbjZxRy05dVhKUFlBcU55SE9sd1JJekN2aWRiTUJOWHV0YzVKa2hOaGM?oc=5",
-      "site": "汽车之家",
-      "siteUrl": "https://chejiahao.autohome.com.cn"
-    },
-    {
       "id": "FL-bb520e554b7e",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 00:41:11 GMT",
@@ -159,27 +147,27 @@
       "siteUrl": "https://news.china.com"
     },
     {
-      "id": "FL-385dd58b908a",
+      "id": "FL-52720b98ede5",
       "date": "2026-08-11",
       "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
       "ts": 1786431600000,
       "scope": "dom",
       "type": "blast",
-      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - 财新",
+      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - science.caixin.com",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fOUNOVy1jMjYtRHRacDFONmZLdmtlUTBvcjVNX0xwMG9rc2lwYkV4ZzRCOFVIVmdNLXdZcUo3Mkw1UnI3elZsRjNGblI4YTBsMGxPeHJCRnZSNWE0dXNTdXRxcUQ?oc=5",
-      "site": "财新",
+      "site": "science.caixin.com",
       "siteUrl": "https://science.caixin.com"
     },
     {
-      "id": "FL-91c4b857fbff",
+      "id": "FL-39517390a6e9",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 12:32:40 GMT",
       "ts": 1789648360000,
       "scope": "intl",
       "type": "blast",
-      "title": "俄罗斯空袭基辅传剧烈爆炸声 乌克兰袭击俄罗斯大型炼油厂 - rfi.fr",
+      "title": "俄罗斯空袭基辅传剧烈爆炸声 乌克兰袭击俄罗斯大型炼油厂 - RFI",
       "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxPT25FaTdvc0F1NU9jc21QVFhubmlqM3l1b0QxZzBtczdhbjktSXRpZWppeGY5bko0eTJjdDBwcGRTRGFfOFFNZ3hDcnBBSm9mQm5VT2E2Ui1SaVFYOEVvLXBzWDBXWXd2bWQwRUpWRGpMaEdnZDVlUjU0WG5OREFBX3pEOE00Y2djWWpjSHd3NUh3dkdQZGhIYlZvcUEwbHIxNVJGZ1l5bmhDbVZiMEltYmNPS1hYZzRTeFlIdFJ2UlVLQTRmSFVhUUQ1c25GMC10LTFma1AteUI1eU9weG5DOG50SGdXMV91NmJJcnZmMU5qY0VSb1FfNHQxMHNodS01T0pmZUIxUFRCbTdraXdwaFBQYUE4QVlad0x0ME02THdCWlhOWUNSRy1xZzNPd0lMT0lpOGdydkJIZnhiYjhSSGJsUloxcWk1RjJ0RmFwVnlqeDZWQ1psUmtUelVyLXVVeTFzMktiLWM3UThfNWwyYUVYRU5aeWFpNlcwNEIxRnRvd3JQOUtKOUpSMHMxTGVGOVJJdm1GNW0?oc=5",
-      "site": "rfi.fr",
+      "site": "RFI",
       "siteUrl": "https://www.rfi.fr"
     },
     {
@@ -195,27 +183,27 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-ba309681f269",
+      "id": "FL-3d90b05f49d0",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 13:40:00 GMT",
       "ts": 1789911600000,
       "scope": "intl",
       "type": "blast",
-      "title": "外媒：叙利亚北部一军事设施发生剧烈爆炸，造成至少4人受伤 - huanqiu.com",
+      "title": "外媒：叙利亚北部一军事设施发生剧烈爆炸，造成至少4人受伤 - 环球网",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RSG9XNVE4SVBLbjNQYjJ5dV85NEdYenh4ekVrTC1saWFaYUJEZEQ0RDZwZXp1cjJIWW5DNERGb2ZRNnNDMDYyMlo4d2tsQ0hlQ1A0ZlNR?oc=5",
-      "site": "huanqiu.com",
+      "site": "环球网",
       "siteUrl": "https://www.huanqiu.com"
     },
     {
-      "id": "FL-5e90cc979fa1",
+      "id": "FL-784deda002a9",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 10:50:10 GMT",
       "ts": 1789901410000,
       "scope": "intl",
       "type": "blast",
-      "title": "乌克兰首都基辅传出爆炸声 - 央广网",
+      "title": "乌克兰首都基辅传出爆炸声 - news.cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuWEJUZnJZcWNmZkZWWFhMblRoNmFnSmZoWW9fZ3ZfRWNoQ0g4bWxIZGNNNXdJclphTW1HNDluMmQweGV1TVhxVTZZUk96bVc2cnRySDNqY2xHZUJyb0N3LTlSN21LT3pJ?oc=5",
-      "site": "央广网",
+      "site": "news.cnr.cn",
       "siteUrl": "https://news.cnr.cn"
     },
     {
@@ -267,15 +255,15 @@
       "siteUrl": "https://www.bjnews.com.cn"
     },
     {
-      "id": "FL-4eac62dc3cb2",
+      "id": "FL-35640a9f3848",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 19:25:14 GMT",
       "ts": 1790018714000,
       "scope": "dom",
       "type": "blast",
-      "title": "导演陆川携阿里AI短片亮相云栖大会|模型|爆炸|证券|阿里巴巴|摄影者_手机新浪网 - finance.sina.cn",
+      "title": "导演陆川携阿里AI短片亮相云栖大会|模型|爆炸|证券|阿里巴巴|摄影者_手机新浪网 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM00yNmU0TldwQ1RvcVBDR1J5Y1lYdzRQLXltLUVaUkd0TUMzc05hTFFHcjBONTlQVUdRNzVBdHF2OWpyVk0wRi1USS1wYkwzeE5Rcm4wNUpjYmlGNFZ0TW1RaUFERTJFd2k5WUpQUHRDUUkzVkdTQThLcjZ3TmV4TDB6bEVfekNndlBlVDNMVUFrRG1qNDRIM3NMTnozMVp5UHlBazB6RQ?oc=5",
-      "site": "finance.sina.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -315,15 +303,15 @@
       "siteUrl": "https://www.jfdaily.com"
     },
     {
-      "id": "FL-5b9fa950e230",
+      "id": "FL-a0b9e6f6698a",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 03:46:32 GMT",
       "ts": 1789962392000,
       "scope": "intl",
       "type": "blast",
-      "title": "叙利亚一军队营地发生强烈爆炸，至少四人受伤 - finance.sina.cn",
+      "title": "叙利亚一军队营地发生强烈爆炸，至少四人受伤 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wd3VHa3RYOC1OQTlBb1paeEhXZmNXUFNJZ2dralg3TE0yaHE0Q29GRHJWTFk2M1ZPQmhoeWp5b0poTW1xSThLbTFaWGc1Y0h2TmJtY0VwY2VSemwzY3Vzd1RpSHUxX0Z1UlVvSlY1M3NOcFpjV2t3SQ?oc=5",
-      "site": "finance.sina.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
