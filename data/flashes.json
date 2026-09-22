@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T23:17:09.363Z",
+  "updated": "2026-09-22T23:26:04.969Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -87,15 +87,15 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
-      "id": "FL-2775789dffd6",
+      "id": "FL-4959ce873683",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 02:20:47 GMT",
       "ts": 1790043647000,
       "scope": "dom",
       "type": "blast",
-      "title": "男子称入住酒店空调爆炸 酒店报警 双方各执一词 - news.china.com",
+      "title": "男子称入住酒店空调爆炸 酒店报警 双方各执一词 - 中华网",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96Y21tR18zbjdfRk5rci12cXVwd1FvNDlScVNMRnJJc3NPeEV0UjZsY29HM2dBZGRfLTBWeXltN1B0NjRFNVc3anZucWs1VWtIbC1vRThXNlM3WXR0TzY1OUczOF9rN0lSYlBKcktiWFg?oc=5",
-      "site": "news.china.com",
+      "site": "中华网",
       "siteUrl": "https://news.china.com"
     },
     {
@@ -159,27 +159,27 @@
       "siteUrl": "https://www.huanqiu.com"
     },
     {
-      "id": "FL-5e90cc979fa1",
+      "id": "FL-784deda002a9",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 10:50:10 GMT",
       "ts": 1789901410000,
       "scope": "intl",
       "type": "blast",
-      "title": "乌克兰首都基辅传出爆炸声 - 央广网",
+      "title": "乌克兰首都基辅传出爆炸声 - news.cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuWEJUZnJZcWNmZkZWWFhMblRoNmFnSmZoWW9fZ3ZfRWNoQ0g4bWxIZGNNNXdJclphTW1HNDluMmQweGV1TVhxVTZZUk96bVc2cnRySDNqY2xHZUJyb0N3LTlSN21LT3pJ?oc=5",
-      "site": "央广网",
+      "site": "news.cnr.cn",
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-24b3fc7af8ab",
+      "id": "FL-3cef5d6a2065",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 09:00:00 GMT",
       "ts": 1789894800000,
       "scope": "intl",
       "type": "blast",
-      "title": "国际丨17米鲸搁浅日本，尸体“红色鼓包”膨起，随时可能爆炸 - 新京报",
+      "title": "国际丨17米鲸搁浅日本，尸体“红色鼓包”膨起，随时可能爆炸 - bjnews.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9GUGhJTlU5Tkg5STQ1NENDQUxWT2plaUtlQ19HenFrQUllV0ZVZ2dqVjc1SkFmY1EwYXM2bEZKelJwb0tFREhHRVprOXZ3TnhFa1E4dkpYQ3dlVS1rbk5heHBR?oc=5",
-      "site": "新京报",
+      "site": "bjnews.com.cn",
       "siteUrl": "https://m.bjnews.com.cn"
     },
     {
@@ -243,16 +243,28 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-5e80c3d0a0a0",
+      "id": "FL-00057333a996",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 14:22:05 GMT",
       "ts": 1790000525000,
       "scope": "intl",
       "type": "blast",
-      "title": "叙利亚一武器库爆炸，至少4人受伤 - 京报网",
+      "title": "叙利亚一武器库爆炸，至少4人受伤 - news.bjd.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWUzdkTmRVb0o0ZkRuVWRPVlRsWVF0NXhIbzdIdjU2NEpZWTMwR3VrNXkwVEhDSGlNcFZOeUoxMEdWNENIelJwWjJsTGhRcEpLcjNNQ2RFNUxSUnVWZGc?oc=5",
-      "site": "京报网",
+      "site": "news.bjd.com.cn",
       "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
+      "id": "FL-65afbfa87c33",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 09:10:39 GMT",
+      "ts": 1789981839000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "s1mple：我最容易心态爆炸，Senzu容易搞砸稳赢的残局 - 5EPlay",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxSzdsZVR5MGlsTDY0ZWFtU3V6ZnlZOWVRY0hPUzdfRTNlQ3lMMWNPb3FTdzZwXzJudlR2bFgzdjVmRmFNa0o5clNWWjQ4UkkyMmpWaHk0eU1Vc1pRMWo1N2xGMTVNUQ?oc=5",
+      "site": "5EPlay",
+      "siteUrl": "https://csgo.5eplay.com"
     },
     {
       "id": "FL-1b678743d226",
