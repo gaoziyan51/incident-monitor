@@ -1,17 +1,41 @@
 {
-  "updated": "2026-09-22T14:01:47.219Z",
+  "updated": "2026-09-22T14:20:35.172Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-675fbe01a91d",
+      "id": "FL-826e79f23384",
+      "date": "2026-09-22",
+      "dateISO": "Tue, 22 Sep 2026 14:08:09 GMT",
+      "ts": 1790086089000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "燃爆的街舞练习室，释放你的能量！ - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZlI4amhRdXRTUnc3TEVaTTNKbkVrSUtqcEtzaFhYTzY2VEcyZ3lzMTZzS2ZLS29WNklrdXVTbTdGdjl6Q2pPSUwxUFI4RzJ0NnRTZkJSRkM0OG5nR3p2SUNyTmlYRTBnajhIRGxmRmxkUzJIelZ6ejgzVVlMZVQwa3BOVzFXQ1hCaEUzbg?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-0b612777caf7",
+      "date": "2026-09-22",
+      "dateISO": "Tue, 22 Sep 2026 14:00:00 GMT",
+      "ts": 1790085600000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Case Against Suspect in Leesburg Stormwater Pipe Explosion Moves to Grand Jury - LoudounNow.com",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOSHVnb0J5T0NXVFdHSU9DZmVnSF9JcC1zNkRFSFRtUFE5cmpJU3RuZ1BXbjAwSmM4TWgyM1I4cTNKZ2hKTGdkUklBSGJrZDk0VG5sN1NQb2I1MVNNbVctdTNCY2NIdE1hbDVmaXppdFRHMjE2bnpMRUEtV3JlaUV5Z3dFSjdyYTJsREx4dzNuc2QtWE9fZTMxNXh4dlpvNVViYkUtQU11bUhRUUE5SXZyT1RjWW1RZ1pRejJnY2ZrQ3pLdUFZMzZEOFAwaTQ4cU5DS0UzUUZWRnJTREE5UWk2TGd0bUsyOUZUZzJBNGRLc2NUQQ?oc=5",
+      "site": "LoudounNow.com",
+      "siteUrl": "https://www.loudounnow.com"
+    },
+    {
+      "id": "FL-d5cd8c4dbe12",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 13:29:24 GMT",
       "ts": 1790083764000,
       "scope": "intl",
       "type": "blast",
-      "title": "Suspect charged in explosion at Piero's Italian Cuisine pleads guilty, sentenced - news3lv.com",
+      "title": "Suspect charged in explosion at Piero's Italian Cuisine pleads guilty, sentenced - KSNV",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVN6M3dTanFRTXFOb3hDQUsxYmxiTUgwV1BvVVl6amdWbnd2WkN3ZkNZMmd5enNNU1dMYnYtenBzdFRQZ185VEM1ZjJLLXZpVzYxdjNESWUwOWVUUDVQbl9vQXd4NFpPUWx3TzI4M1FKZnBMTFByck1DN09PcHlaUUJoalc2QWJraU5Ic2hYQU1Qb2xGLVM3dklfa1A0SmxBT3dMRDR1czdHVG51U2c?oc=5",
-      "site": "news3lv.com",
+      "site": "KSNV",
       "siteUrl": "https://news3lv.com"
     },
     {
@@ -87,15 +111,15 @@
       "siteUrl": "https://app.dahecube.com"
     },
     {
-      "id": "FL-887dd6f9eac8",
+      "id": "FL-fddc87908f88",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 03:43:06 GMT",
       "ts": 1790048586000,
       "scope": "dom",
       "type": "blast",
-      "title": "山西阳泉一居民楼发生燃气爆炸致1人重伤、3人轻伤 - 新浪财经",
+      "title": "山西阳泉一居民楼发生燃气爆炸致1人重伤、3人轻伤 - 新浪财经_金融信息服务商",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBSLUV5alk4QzFSMmVQMVJhNEE0emprNk13TFNaemdCdHcxZmdnd1d3SHNLTGt2NERSWi0zUk5scXV5b0NsdjcxRzJnTQ?oc=5",
-      "site": "新浪财经",
+      "site": "新浪财经_金融信息服务商",
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
@@ -195,15 +219,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-ba309681f269",
+      "id": "FL-3d90b05f49d0",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 13:40:00 GMT",
       "ts": 1789911600000,
       "scope": "intl",
       "type": "blast",
-      "title": "外媒：叙利亚北部一军事设施发生剧烈爆炸，造成至少4人受伤 - huanqiu.com",
+      "title": "外媒：叙利亚北部一军事设施发生剧烈爆炸，造成至少4人受伤 - 环球网",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RSG9XNVE4SVBLbjNQYjJ5dV85NEdYenh4ekVrTC1saWFaYUJEZEQ0RDZwZXp1cjJIWW5DNERGb2ZRNnNDMDYyMlo4d2tsQ0hlQ1A0ZlNR?oc=5",
-      "site": "huanqiu.com",
+      "site": "环球网",
       "siteUrl": "https://www.huanqiu.com"
     },
     {
@@ -255,15 +279,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-24b3fc7af8ab",
+      "id": "FL-3cef5d6a2065",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 20:00:00 GMT",
       "ts": 1790020800000,
       "scope": "intl",
       "type": "blast",
-      "title": "国际丨17米鲸搁浅日本，尸体“红色鼓包”膨起，随时可能爆炸 - 新京报",
+      "title": "国际丨17米鲸搁浅日本，尸体“红色鼓包”膨起，随时可能爆炸 - bjnews.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UOXR6V2JaTEdOZ0FSTnpfQ1l3QnBzYnQwaUNKYmV1ZzVDY2Q0VHFGNThoVDFxNXBVUkdaSUFLZGY5VllXUXFtQTMtcHIzS2N2WnY4Qlk0dGJ3ZExQbG1JYjNoaDg?oc=5",
-      "site": "新京报",
+      "site": "bjnews.com.cn",
       "siteUrl": "https://www.bjnews.com.cn"
     },
     {
