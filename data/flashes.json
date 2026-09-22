@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T03:45:44.032Z",
+  "updated": "2026-09-22T03:53:32.734Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -207,18 +207,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-7017d598b87e",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 23:18:42 GMT",
-      "ts": 1790032722000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "韩媒：韩朝边境非军事区疑似地雷爆炸致三人受伤 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKYTlQZHNBeVdKTEplZngwR3JUNHpDV2laYnRuZkVwcTBfaW00MUZrTWo2cnRHdUFESXFrLWNuYWVCeUpkcThPbDhHbw?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://mil.ifeng.com"
-    },
-    {
       "id": "FL-35640a9f3848",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 18:34:41 GMT",
@@ -349,6 +337,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ic3NaMW5yOHF1MmNnMDRPdThpWHRsY0dpOUl5X1U2aUxyMlZFTkVhN09xTVRmQ3dwcnFZaThTZjd5RXdLS1VLTVgzNGlENnl3T3hOOVBFSmYyajM0cmlxeVduX28xT2U5M1pvbmJfZE94TW00UmpNd2oyTFZFVEE?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-8322700da7a8",
+      "date": "2026-06-05",
+      "dateISO": "Fri, 05 Jun 2026 07:00:00 GMT",
+      "ts": 1780642800000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "辽宁本溪一商铺疑似液化气罐泄漏引发爆炸：2人死亡13人轻微伤 - cnr.cn",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qQlpCOEt3cGs2NmdiMHBrTlVwekFZQ2pKaTI0cnRPMmt3Z1pCLVUxai1tYkw2RnMzbGctVm5zb0ZwcTIyNlZmUEh0M3MwTlQtRkU2NlJlNnpGdU5vUl9VZ1p2YUNqZi1qLUdYNjNn?oc=5",
+      "site": "cnr.cn",
+      "siteUrl": "https://www.cnr.cn"
     }
   ]
 }
