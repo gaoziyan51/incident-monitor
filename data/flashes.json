@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T00:51:20.906Z",
+  "updated": "2026-09-22T01:01:25.541Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -61,6 +61,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-db80655ccf5c",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 10:58:00 GMT",
+      "ts": 1789901880000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "乌克兰首都基辅传出爆炸声 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyYlBlRS15akNxa2NhUTk3X1NDWEhZcUZDb1hDZTVGcGhodFdPRm83Yk9KSks0SWxEU2Fta2lvNjYwWVZ5YUZIZW1TMHQwa0duM1JZNFB1a0pWZEFsSm90OFFwbmZxb0o3aDlsUnd6UUFDQQ?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
       "id": "FL-5e90cc979fa1",
@@ -135,15 +147,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-c5cca5ddf92a",
+      "id": "FL-7017d598b87e",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 23:18:42 GMT",
       "ts": 1790032722000,
       "scope": "dom",
       "type": "blast",
-      "title": "韩媒：韩朝边境非军事区疑似地雷爆炸致三人受伤 - mil.ifeng.com",
+      "title": "韩媒：韩朝边境非军事区疑似地雷爆炸致三人受伤 - 凤凰网",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKYTlQZHNBeVdKTEplZngwR3JUNHpDV2laYnRuZkVwcTBfaW00MUZrTWo2cnRHdUFESXFrLWNuYWVCeUpkcThPbDhHbw?oc=5",
-      "site": "mil.ifeng.com",
+      "site": "凤凰网",
       "siteUrl": "https://mil.ifeng.com"
     },
     {
@@ -291,18 +303,6 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-ab3d9a9b2aa3",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 02:28:11 GMT",
-      "ts": 1789352891000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "日本东京一工厂发生爆炸 3人受伤 - 央视网",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hN09TTVZvcXgzeVh6TDZkU2JjS3d1bWY4MG5JRGk1ODBab1plTEx6LUFvN1B6WkFSR0N6ZmxVLWtEd3JNUHg0NDRXb2NWN3gxZmsyTXNiMXEwWUZyNWlQeTRfNmppQ0VxMVlTR2dYVTl2MzBFZ1RSNA?oc=5",
-      "site": "央视网",
-      "siteUrl": "https://news.cctv.com"
-    },
-    {
       "id": "FL-b042a088a326",
       "date": "2026-08-03",
       "dateISO": "Mon, 03 Aug 2026 07:00:00 GMT",
@@ -311,18 +311,6 @@
       "type": "blast",
       "title": "巴基斯坦西北部发生爆炸致14人死亡 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-0f5476d1c019",
-      "date": "2026-07-31",
-      "dateISO": "Fri, 31 Jul 2026 07:00:00 GMT",
-      "ts": 1785481200000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "巴基斯坦煤矿爆炸致34人死亡 8人被困 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ic3NaMW5yOHF1MmNnMDRPdThpWHRsY0dpOUl5X1U2aUxyMlZFTkVhN09xTVRmQ3dwcnFZaThTZjd5RXdLS1VLTVgzNGlENnl3T3hOOVBFSmYyajM0cmlxeVduX28xT2U5M1pvbmJfZE94TW00UmpNd2oyTFZFVEE?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
     }
