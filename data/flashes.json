@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T14:48:27.650Z",
+  "updated": "2026-09-23T14:57:45.175Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -63,18 +63,6 @@
       "siteUrl": "https://news.pedaily.cn"
     },
     {
-      "id": "FL-a046dd6c05a6",
-      "date": "2026-09-23",
-      "dateISO": "Wed, 23 Sep 2026 09:53:58 GMT",
-      "ts": 1790157238000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "【爆炸事故导致一死十一伤】MOL工厂被罚款3800万福林 - xindb.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb1Q4Sjl0am5WekFab1lYSWszS0Uya3lmcmJuaVktTFRyc2JNQ1JxMWUtenhQU0Jrb0tqTXlyVFp3ZFUyV1JCZ0wzT202dm1Ya25fc05DbDRzOW9aZDUtQ28wWlhlOWxUZS1mYVRtQUNhazlMbk04R1dMbDdGQTdIdVg4NWY?oc=5",
-      "site": "xindb.com",
-      "siteUrl": "https://www.xindb.com"
-    },
-    {
       "id": "FL-04f13cb7493a",
       "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 09:34:47 GMT",
@@ -97,6 +85,18 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdGlHRkNULXRveHZSbGU2LWhZX053d3oxY0RpX3pkNS0yaW5EaUo0b0xFVTlqejZXWmtnTjZRdnkybUtMUEdRaV9BTUx0RU9jc1BVRkhsN056Q0hUWnp4QW9uUDlsVUJWUnBhb21iN09HQ1VPeF9UV2FiQ2xvZU93eGRvdw?oc=5",
       "site": "xj.chinanews.com.cn",
       "siteUrl": "http://www.xj.chinanews.com.cn"
+    },
+    {
+      "id": "FL-aa3fb2bcf9ba",
+      "date": "2026-09-23",
+      "dateISO": "Wed, 23 Sep 2026 03:20:00 GMT",
+      "ts": 1790133600000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "宇树机器人燃爆世赛开幕式 共创未来之舞 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14a1dNSDhQUXNCaGdpNG5CejhZSHNQc0pKRGIzMDRieFdMaUdNUHlPbmRNbmhNamFQUTNvMGlUTkhRWkpDeG9XY094ODNOUUdxa0tKMUtJYmczYjFVQzZrSXEtNnhiUm0yS0FqWVlMQ3g?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
     },
     {
       "id": "FL-d3fd9eafa84f",
@@ -133,18 +133,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54a0tLbU14VHFWa3FhSXZ5ekJIcjJVMTR6QnRGT0hUaHdicUs3aC1hbGI1alVrZXFnOVktWkdfT0JHZHdoZW9LR3dTdkd4Y3BibnVLbmlwOHJNSlZBUkJiOHZteHFRbk5HS2hIeG95OTY?oc=5",
       "site": "中华网",
       "siteUrl": "https://news.china.com"
-    },
-    {
-      "id": "FL-0d36613de8e1",
-      "date": "2026-09-22",
-      "dateISO": "Tue, 22 Sep 2026 06:52:16 GMT",
-      "ts": 1790059936000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "（外代一线）叙利亚一武器库爆炸 至少4人受伤 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUm9TRmllM1JDUklSSi1xYzhjMDNBTjFRNFJ3LS1nV1BkY1JudXpDWnYwQ190VmgwRnBRMTRYT0FCeFRFMVZYNWl0Nm1qMUpzN0xGSW9aTW5XbVFaZFN4aTEzdThhWm1LWWl4UDk0X1Q3aGVKOWgxcENFcmVGeTdrNmh4Z2hqdUdI?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-10386b8f475f",
@@ -219,15 +207,15 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-2d0129fc2f62",
+      "id": "FL-1b678743d226",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 07:48:00 GMT",
       "ts": 1789976880000,
       "scope": "dom",
       "type": "blast",
-      "title": "3人受伤！韩朝边境非军事区疑似地雷爆炸 - jfdaily.com",
+      "title": "3人受伤！韩朝边境非军事区疑似地雷爆炸 - 上观新闻",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fWDdiMFVKWUdoT0lrUFNyUlZHVDN3bFVheGk4RnkySDJjaGI2ekRpb2FJXzVxWUwyclZoMmZ4RlZFaFVWSWRFVTBYbjhMS0xDajB4TVdpUnh3dw?oc=5",
-      "site": "jfdaily.com",
+      "site": "上观新闻",
       "siteUrl": "https://www.jfdaily.com"
     },
     {
