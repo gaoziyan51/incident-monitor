@@ -1,17 +1,17 @@
 {
-  "updated": "2026-09-23T06:01:58.458Z",
+  "updated": "2026-09-23T06:25:24.542Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-d15c95acc3f0",
+      "id": "FL-aa3fb2bcf9ba",
       "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 03:20:00 GMT",
       "ts": 1790133600000,
       "scope": "dom",
       "type": "blast",
-      "title": "宇树机器人燃爆世赛开幕式 共创未来之舞 - news.china.com",
+      "title": "宇树机器人燃爆世赛开幕式 共创未来之舞 - 中华网",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14a1dNSDhQUXNCaGdpNG5CejhZSHNQc0pKRGIzMDRieFdMaUdNUHlPbmRNbmhNamFQUTNvMGlUTkhRWkpDeG9XY094ODNOUUdxa0tKMUtJYmczYjFVQzZrSXEtNnhiUm0yS0FqWVlMQ3g?oc=5",
-      "site": "news.china.com",
+      "site": "中华网",
       "siteUrl": "https://news.china.com"
     },
     {
@@ -25,6 +25,18 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaGhzTHhfem0zUWVkMUpFXzR1WTNHS2MyVno2YTlMOEVHNnJuemtFQ01UN2ZfcDNNWnNtZ21ZLTBOTnNfakMzV0pzRWYyRnBiX0JxcjVpVDlxTlVWbl84S2NDUzVubjNvWmN3NU1oNWdpUnNOcTVuaVE4OFQ2STVmcWFGeS1kRVRkNDRBUw?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-3c34d7f49780",
+      "date": "2026-09-23",
+      "dateISO": "Wed, 23 Sep 2026 01:10:08 GMT",
+      "ts": 1790125808000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Mom demands answers after kids severely burned in Rainbow Terrace explosion - FOX 8 News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZmE1UHpER25BbjRGOGZJTjRXQXJvWldtZDhvVC1Ha1VlTlM3MUN4YTNrR3Z5Z3VsenNrT0dyRkhiSUY0QmRxSWQ5c1h1a2ZpNXlWTVdCdWpENm04YzRhdjQteG9MckJzenZISmNMZzZxd040NXdudDMzMC03aGdGcUJLRHRZWl9TdndmZ0k3VG10NExHbFg2X0hiSEp1SW_SAaQBQVVfeXFMTTRHMVpvdFhQeTJNQU1kSGZnNXhkZmRiVjhyRktmM0lZRllCVTRnalo3UmtabjJkQlZkWEh6bTBESS1PRUJQclVfZklPWWJ3SFJfT3NtQ0d4OXgwUmRtUldSWFQtMGhGWU5IOTdsbVNfR2YwMk1IUm1DdExGR2paRXlwcG51NFd1aDUzc056TERHMDhPX3lwNmc0VXhuYTMwWGNyUEo?oc=5",
+      "site": "FOX 8 News",
+      "siteUrl": "https://fox8.com"
     },
     {
       "id": "FL-a5fddfa020f6",
@@ -49,18 +61,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUm9TRmllM1JDUklSSi1xYzhjMDNBTjFRNFJ3LS1nV1BkY1JudXpDWnYwQ190VmgwRnBRMTRYT0FCeFRFMVZYNWl0Nm1qMUpzN0xGSW9aTW5XbVFaZFN4aTEzdThhWm1LWWl4UDk0X1Q3aGVKOWgxcENFcmVGeTdrNmh4Z2hqdUdI?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-22c099b61cfc",
-      "date": "2026-09-22",
-      "dateISO": "Tue, 22 Sep 2026 03:43:26 GMT",
-      "ts": 1790048606000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "山西阳泉一居民楼发生燃气爆炸致1人重伤、3人轻伤 - 大河财立方",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Nand2My1SOGpIajhKTTdrYnA2UVpWMGlZbGFKNE9BYzNjaDc4a2lwQ3BfRl9USGFoeHZxMDJFYWlIVGJRRUJMRGRJZG4tQkJhRWRkem43YXhhVUV3WmFSNmRmOWw3M1FnRXc?oc=5",
-      "site": "大河财立方",
-      "siteUrl": "https://app.dahecube.com"
     },
     {
       "id": "FL-385dd58b908a",
@@ -135,15 +135,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-bc5a0b5cb5b0",
+      "id": "FL-c2b5e87a66f1",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 03:47:19 GMT",
       "ts": 1789789639000,
       "scope": "intl",
       "type": "blast",
-      "title": "巴基斯坦西北部爆炸已致21死 巴总统称将继续反恐行动 - news.cctv.com",
+      "title": "巴基斯坦西北部爆炸已致21死 巴总统称将继续反恐行动 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JdTVsYVVFWHBSX3JkaE5ocVh2cmtPd0NWVkpmT1EyOENqOGJZcHhnQllGeU9RYThKRTJmYnRVaXpEQ25RcGNGNi1LcmZJUUFnY2Q1cVVpS2dkSW8wQzJfSFI4U3FYMzdXNmJSWm1SdEpsckl2Y190Sg?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -169,18 +169,6 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM00yNmU0TldwQ1RvcVBDR1J5Y1lYdzRQLXltLUVaUkd0TUMzc05hTFFHcjBONTlQVUdRNzVBdHF2OWpyVk0wRi1USS1wYkwzeE5Rcm4wNUpjYmlGNFZ0TW1RaUFERTJFd2k5WUpQUHRDUUkzVkdTQThLcjZ3TmV4TDB6bEVfekNndlBlVDNMVUFrRG1qNDRIM3NMTnozMVp5UHlBazB6RQ?oc=5",
       "site": "finance.sina.com.cn",
       "siteUrl": "https://finance.sina.cn"
-    },
-    {
-      "id": "FL-5e80c3d0a0a0",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 14:22:05 GMT",
-      "ts": 1790000525000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "叙利亚一武器库爆炸，至少4人受伤 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWUzdkTmRVb0o0ZkRuVWRPVlRsWVF0NXhIbzdIdjU2NEpZWTMwR3VrNXkwVEhDSGlNcFZOeUoxMEdWNENIelJwWjJsTGhRcEpLcjNNQ2RFNUxSUnVWZGc?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://news.bjd.com.cn"
     },
     {
       "id": "FL-1b678743d226",
