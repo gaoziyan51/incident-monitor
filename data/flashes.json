@@ -1,19 +1,7 @@
 {
-  "updated": "2026-09-23T19:46:40.091Z",
+  "updated": "2026-09-23T19:53:39.351Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-e1c080dd0134",
-      "date": "2026-09-23",
-      "dateISO": "Wed, 23 Sep 2026 17:10:28 GMT",
-      "ts": 1790183428000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Odessa man sentenced after ‘little home lab’ leads to explosion at senior living complex - FOX4KC.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM05JbVhiSTNaLVNqTnRpZWc1bXRiV0x6VlVTT3BybUpzZTBNTW5PMXVBalh3Q0hQTFZOOW5QY1NxamFpNzMzeXFqSV9DazB0TTAwUEwzbkpPcE04UTFOUHM5UDN0REM0dm1EOWtkNUZQUTBuUEpKSkJ1VHJTa0c4dW5NMm4zOHBpc0dYcVJVbzVjME1KVmdSSUplZ25RZTN4dUh0dGVrTi1ia1ZsTmQ3edIBtgFBVV95cUxQWFNjMHNiWG16cTV1cHFucU9ia29Hc0dTd2RXRER6Y25zLWJWMnNoLXZMa240TVVHcjJ2SFhKMmxWQXg3aUxlbk4wdmlrQUV2QVZRVkhwaE9ZQ0g3ZF9sS1dXdlBDb2pNV3lTOGJLTVhFOG1PSDdvSExYWV9rWnN4SDBsRDJjZnp4YnQxZ1VZYnZnMUtaZG1jSkRETHBnNVhvWjY3QVpha29yc19MVzVfVzZMdWl5UQ?oc=5",
-      "site": "FOX4KC.com",
-      "siteUrl": "https://fox4kc.com"
-    },
     {
       "id": "FL-ac6902a94976",
       "date": "2026-09-23",
@@ -207,15 +195,27 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-1b678743d226",
+      "id": "FL-160d55aeb47e",
+      "date": "2026-06-22",
+      "dateISO": "Mon, 22 Jun 2026 07:00:00 GMT",
+      "ts": 1782111600000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "卡塔尔工厂爆炸已致13人死亡 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mR2pTX0YxWjBwQ2lLNC1XZjFhd3IwVEYtWkZFR3ZBU3B5RTFHR1BldmQ3OEkxN2NaWTMzYUkwWENDeEliY3dVNEloOExFS1B6SlZQTENHdWVmTWpUM042M2hRcmo4QS1qdl85cXlhZHJ3R3JGTEU4?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-2d0129fc2f62",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 07:48:00 GMT",
       "ts": 1789976880000,
       "scope": "dom",
       "type": "blast",
-      "title": "3人受伤！韩朝边境非军事区疑似地雷爆炸 - 上观新闻",
+      "title": "3人受伤！韩朝边境非军事区疑似地雷爆炸 - jfdaily.com",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fWDdiMFVKWUdoT0lrUFNyUlZHVDN3bFVheGk4RnkySDJjaGI2ekRpb2FJXzVxWUwyclZoMmZ4RlZFaFVWSWRFVTBYbjhMS0xDajB4TVdpUnh3dw?oc=5",
-      "site": "上观新闻",
+      "site": "jfdaily.com",
       "siteUrl": "https://www.jfdaily.com"
     },
     {
