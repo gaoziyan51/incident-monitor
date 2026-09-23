@@ -1,19 +1,7 @@
 {
-  "updated": "2026-09-23T06:40:05.642Z",
+  "updated": "2026-09-23T06:52:23.307Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-649bad3b4ae0",
-      "date": "2026-09-23",
-      "dateISO": "Wed, 23 Sep 2026 05:19:40 GMT",
-      "ts": 1790140780000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Lithium-ion battery explosion in La Verne sparks fire - KTLA",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTWctdUpaU1VZeEo0Zk9PRkxRamExYTdYaTRUb21FUmYxZkZPQ3hOZ003SHdlNDdrMmFFdXZmbkptbm9OQjB1RlVnM3NPaE9YTW85WUVPQkFCNHBleXpIcDZTZlBnVnRlWU1XZ1FIV2gyZmhORHp3LUlzWVJVVTRMSHhXVlk1R1RNQkRYcDJZOA?oc=5",
-      "site": "KTLA",
-      "siteUrl": "https://ktla.com"
-    },
     {
       "id": "FL-aa3fb2bcf9ba",
       "date": "2026-09-23",
@@ -87,6 +75,18 @@
       "siteUrl": "https://science.caixin.com"
     },
     {
+      "id": "FL-39517390a6e9",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 12:32:40 GMT",
+      "ts": 1789648360000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "俄罗斯空袭基辅传剧烈爆炸声 乌克兰袭击俄罗斯大型炼油厂 - RFI",
+      "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxPT25FaTdvc0F1NU9jc21QVFhubmlqM3l1b0QxZzBtczdhbjktSXRpZWppeGY5bko0eTJjdDBwcGRTRGFfOFFNZ3hDcnBBSm9mQm5VT2E2Ui1SaVFYOEVvLXBzWDBXWXd2bWQwRUpWRGpMaEdnZDVlUjU0WG5OREFBX3pEOE00Y2djWWpjSHd3NUh3dkdQZGhIYlZvcUEwbHIxNVJGZ1l5bmhDbVZiMEltYmNPS1hYZzRTeFlIdFJ2UlVLQTRmSFVhUUQ1c25GMC10LTFma1AteUI1eU9weG5DOG50SGdXMV91NmJJcnZmMU5qY0VSb1FfNHQxMHNodS01T0pmZUIxUFRCbTdraXdwaFBQYUE4QVlad0x0ME02THdCWlhOWUNSRy1xZzNPd0lMT0lpOGdydkJIZnhiYjhSSGJsUloxcWk1RjJ0RmFwVnlqeDZWQ1psUmtUelVyLXVVeTFzMktiLWM3UThfNWwyYUVYRU5aeWFpNlcwNEIxRnRvd3JQOUtKOUpSMHMxTGVGOVJJdm1GNW0?oc=5",
+      "site": "RFI",
+      "siteUrl": "https://www.rfi.fr"
+    },
+    {
       "id": "FL-340d5e981918",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
@@ -135,15 +135,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-c2b5e87a66f1",
+      "id": "FL-bc5a0b5cb5b0",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 03:47:19 GMT",
       "ts": 1789789639000,
       "scope": "intl",
       "type": "blast",
-      "title": "巴基斯坦西北部爆炸已致21死 巴总统称将继续反恐行动 - 央视网",
+      "title": "巴基斯坦西北部爆炸已致21死 巴总统称将继续反恐行动 - news.cctv.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JdTVsYVVFWHBSX3JkaE5ocVh2cmtPd0NWVkpmT1EyOENqOGJZcHhnQllGeU9RYThKRTJmYnRVaXpEQ25RcGNGNi1LcmZJUUFnY2Q1cVVpS2dkSW8wQzJfSFI4U3FYMzdXNmJSWm1SdEpsckl2Y190Sg?oc=5",
-      "site": "央视网",
+      "site": "news.cctv.com",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -183,16 +183,16 @@
       "siteUrl": "https://www.jfdaily.com"
     },
     {
-      "id": "FL-3cf2ebc6d4f4",
+      "id": "FL-eb67cb67d806",
       "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 03:46:32 GMT",
-      "ts": 1789962392000,
+      "dateISO": "Mon, 21 Sep 2026 03:38:53 GMT",
+      "ts": 1789961933000,
       "scope": "intl",
       "type": "blast",
-      "title": "叙利亚一军队营地发生强烈爆炸，至少四人受伤 - finance.sina.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wd3VHa3RYOC1OQTlBb1paeEhXZmNXUFNJZ2dralg3TE0yaHE0Q29GRHJWTFk2M1ZPQmhoeWp5b0poTW1xSThLbTFaWGc1Y0h2TmJtY0VwY2VSemwzY3Vzd1RpSHUxX0Z1UlVvSlY1M3NOcFpjV2t3SQ?oc=5",
-      "site": "finance.sina.com.cn",
-      "siteUrl": "https://finance.sina.cn"
+      "title": "叙利亚一军队营地发生强烈爆炸，至少四人受伤 - chinanews.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UaEgyUHZENmpVRXkzSml3STc0YkstWEFYdUtuMlM5VnNsZTZfQWU1bUdnQkQ4MjVzYlFYLVZHeHZSbVliVndXMDczaVVmdVJPbGM0RHNUVV94c2NjakZIUGduXzRUUzZz?oc=5",
+      "site": "chinanews.com.cn",
+      "siteUrl": "https://www.chinanews.com.cn"
     },
     {
       "id": "FL-b042a088a326",
