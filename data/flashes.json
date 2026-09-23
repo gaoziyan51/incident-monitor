@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T01:52:01.783Z",
+  "updated": "2026-09-23T02:01:37.282Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -63,28 +63,16 @@
       "siteUrl": "https://app.dahecube.com"
     },
     {
-      "id": "FL-b93558071350",
+      "id": "FL-887dd6f9eac8",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 03:43:06 GMT",
       "ts": 1790048586000,
       "scope": "dom",
       "type": "blast",
-      "title": "山西阳泉一居民楼发生燃气爆炸致1人重伤、3人轻伤 - cj.sina.cn",
+      "title": "山西阳泉一居民楼发生燃气爆炸致1人重伤、3人轻伤 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBSLUV5alk4QzFSMmVQMVJhNEE0emprNk13TFNaemdCdHcxZmdnd1d3SHNLTGt2NERSWi0zUk5scXV5b0NsdjcxRzJnTQ?oc=5",
-      "site": "cj.sina.cn",
+      "site": "新浪财经",
       "siteUrl": "https://wap.cj.sina.cn"
-    },
-    {
-      "id": "FL-4959ce873683",
-      "date": "2026-09-22",
-      "dateISO": "Tue, 22 Sep 2026 02:20:47 GMT",
-      "ts": 1790043647000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "男子称入住酒店空调爆炸 酒店报警 双方各执一词 - 中华网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96Y21tR18zbjdfRk5rci12cXVwd1FvNDlScVNMRnJJc3NPeEV0UjZsY29HM2dBZGRfLTBWeXltN1B0NjRFNVc3anZucWs1VWtIbC1vRThXNlM3WXR0TzY1OUczOF9rN0lSYlBKcktiWFg?oc=5",
-      "site": "中华网",
-      "siteUrl": "https://news.china.com"
     },
     {
       "id": "FL-3004cd68d5ea",
@@ -99,27 +87,27 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-385dd58b908a",
+      "id": "FL-52720b98ede5",
       "date": "2026-08-11",
       "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
       "ts": 1786431600000,
       "scope": "dom",
       "type": "blast",
-      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - 财新",
+      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - science.caixin.com",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fOUNOVy1jMjYtRHRacDFONmZLdmtlUTBvcjVNX0xwMG9rc2lwYkV4ZzRCOFVIVmdNLXdZcUo3Mkw1UnI3elZsRjNGblI4YTBsMGxPeHJCRnZSNWE0dXNTdXRxcUQ?oc=5",
-      "site": "财新",
+      "site": "science.caixin.com",
       "siteUrl": "https://science.caixin.com"
     },
     {
-      "id": "FL-91c4b857fbff",
+      "id": "FL-39517390a6e9",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 12:32:40 GMT",
       "ts": 1789648360000,
       "scope": "intl",
       "type": "blast",
-      "title": "俄罗斯空袭基辅传剧烈爆炸声 乌克兰袭击俄罗斯大型炼油厂 - rfi.fr",
+      "title": "俄罗斯空袭基辅传剧烈爆炸声 乌克兰袭击俄罗斯大型炼油厂 - RFI",
       "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxPT25FaTdvc0F1NU9jc21QVFhubmlqM3l1b0QxZzBtczdhbjktSXRpZWppeGY5bko0eTJjdDBwcGRTRGFfOFFNZ3hDcnBBSm9mQm5VT2E2Ui1SaVFYOEVvLXBzWDBXWXd2bWQwRUpWRGpMaEdnZDVlUjU0WG5OREFBX3pEOE00Y2djWWpjSHd3NUh3dkdQZGhIYlZvcUEwbHIxNVJGZ1l5bmhDbVZiMEltYmNPS1hYZzRTeFlIdFJ2UlVLQTRmSFVhUUQ1c25GMC10LTFma1AteUI1eU9weG5DOG50SGdXMV91NmJJcnZmMU5qY0VSb1FfNHQxMHNodS01T0pmZUIxUFRCbTdraXdwaFBQYUE4QVlad0x0ME02THdCWlhOWUNSRy1xZzNPd0lMT0lpOGdydkJIZnhiYjhSSGJsUloxcWk1RjJ0RmFwVnlqeDZWQ1psUmtUelVyLXVVeTFzMktiLWM3UThfNWwyYUVYRU5aeWFpNlcwNEIxRnRvd3JQOUtKOUpSMHMxTGVGOVJJdm1GNW0?oc=5",
-      "site": "rfi.fr",
+      "site": "RFI",
       "siteUrl": "https://www.rfi.fr"
     },
     {
@@ -195,15 +183,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-4eac62dc3cb2",
+      "id": "FL-35640a9f3848",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 19:25:14 GMT",
       "ts": 1790018714000,
       "scope": "dom",
       "type": "blast",
-      "title": "导演陆川携阿里AI短片亮相云栖大会|模型|爆炸|证券|阿里巴巴|摄影者_手机新浪网 - finance.sina.cn",
+      "title": "导演陆川携阿里AI短片亮相云栖大会|模型|爆炸|证券|阿里巴巴|摄影者_手机新浪网 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM00yNmU0TldwQ1RvcVBDR1J5Y1lYdzRQLXltLUVaUkd0TUMzc05hTFFHcjBONTlQVUdRNzVBdHF2OWpyVk0wRi1USS1wYkwzeE5Rcm4wNUpjYmlGNFZ0TW1RaUFERTJFd2k5WUpQUHRDUUkzVkdTQThLcjZ3TmV4TDB6bEVfekNndlBlVDNMVUFrRG1qNDRIM3NMTnozMVp5UHlBazB6RQ?oc=5",
-      "site": "finance.sina.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -219,27 +207,27 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-1b678743d226",
+      "id": "FL-2d0129fc2f62",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 07:48:00 GMT",
       "ts": 1789976880000,
       "scope": "dom",
       "type": "blast",
-      "title": "3人受伤！韩朝边境非军事区疑似地雷爆炸 - 上观新闻",
+      "title": "3人受伤！韩朝边境非军事区疑似地雷爆炸 - jfdaily.com",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fWDdiMFVKWUdoT0lrUFNyUlZHVDN3bFVheGk4RnkySDJjaGI2ekRpb2FJXzVxWUwyclZoMmZ4RlZFaFVWSWRFVTBYbjhMS0xDajB4TVdpUnh3dw?oc=5",
-      "site": "上观新闻",
+      "site": "jfdaily.com",
       "siteUrl": "https://www.jfdaily.com"
     },
     {
-      "id": "FL-5b9fa950e230",
+      "id": "FL-a0b9e6f6698a",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 03:46:32 GMT",
       "ts": 1789962392000,
       "scope": "intl",
       "type": "blast",
-      "title": "叙利亚一军队营地发生强烈爆炸，至少四人受伤 - finance.sina.cn",
+      "title": "叙利亚一军队营地发生强烈爆炸，至少四人受伤 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wd3VHa3RYOC1OQTlBb1paeEhXZmNXUFNJZ2dralg3TE0yaHE0Q29GRHJWTFk2M1ZPQmhoeWp5b0poTW1xSThLbTFaWGc1Y0h2TmJtY0VwY2VSemwzY3Vzd1RpSHUxX0Z1UlVvSlY1M3NOcFpjV2t3SQ?oc=5",
-      "site": "finance.sina.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
