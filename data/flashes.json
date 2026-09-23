@@ -1,18 +1,18 @@
 {
-  "updated": "2026-09-23T16:01:51.062Z",
+  "updated": "2026-09-23T16:21:08.085Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-384e6ebdc2a0",
+      "id": "FL-ac6902a94976",
       "date": "2026-09-23",
-      "dateISO": "Wed, 23 Sep 2026 14:30:06 GMT",
-      "ts": 1790173806000,
+      "dateISO": "Wed, 23 Sep 2026 14:30:07 GMT",
+      "ts": 1790173807000,
       "scope": "dom",
       "type": "blast",
-      "title": "上海警方：一男子编造“上海化工园区发生大爆炸”不实信息，已被行政处罚 - 欧洲头条",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSWpnd0lnRVByODdQd0lXQ1ZPWXVkMXY5aUlTT19BcDN3c2NpcE80M0tsUE5tSGdYdTd2WHZPVUdjTFI1bnJsd0FCVks4RjFVOHVQdEwzOTNJb21KQmxsUHlRLTRIYUZ6bVA4VFRRdmtMSFNjblRlT2ZQRnlBR0M4SDhhVmIydTZPZVhkOFM2Nk5kQWVZUXk1OTlOOE03TlhzOVFEdjZKSEY5bXhVdmJzOWk0OFdka19fQ3R1WWk0WmQzYU1xM0lKUEdfN1dKdVFDMmdIX2djanI5cEVPSXEzempQZ1o3a3VGelZQZUlSUGhndFY1WW0yUV93?oc=5",
-      "site": "欧洲头条",
-      "siteUrl": "https://www.xinouzhou.com"
+      "title": "上海警方：一男子编造“上海化工园区发生大爆炸”不实信息，已被行政处罚 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdUZkNFlZSGxqaEk5REhHVjRWWGFaWUwtczZfOUdSemhDYmM1YVVMdnYyUlY3VU5yMHJlYndHSmZnRUZva2FZa1hjX2NhOWd5Mk1pY3UwNGNuRUZwN2haZnhoN2VaUDhZb0ZSQW5WbW5EMUE1QXZqYlhFMjdfZlF0dmdqRzN1cWpv?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-799bc764a905",
@@ -27,27 +27,27 @@
       "siteUrl": "https://www.firehouse.com"
     },
     {
-      "id": "FL-f31b1f6f9485",
+      "id": "FL-01aedcd2e796",
       "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 13:22:12 GMT",
       "ts": 1790169732000,
       "scope": "dom",
       "type": "blast",
-      "title": "路过司机冲进火场救出追尾车车主，刚撤离事故车就发生爆炸 “都是跑车养家的顶梁柱，来不及多想” - sohu.com",
+      "title": "路过司机冲进火场救出追尾车车主，刚撤离事故车就发生爆炸 “都是跑车养家的顶梁柱，来不及多想” - 搜狐网",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcVV6ZVNkMXp2SGhoc0NTX29ieTdRZlM3UDFPWk5lUlhycnJibkh3TWh0MWEwU3RHNkVNY1dxN09SMy1JRkQtb1k4M2dtbmJKQzRyc2V5NnZzQkVzMEpLdUt4MnNfTTRqdjBLZ3FBSkhSdVl5d2Y4RlFENGtvZnRnRlFZT0FwckRWZy1rSg?oc=5",
-      "site": "sohu.com",
+      "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-ea1badb3ea29",
+      "id": "FL-7ce4474eaa58",
       "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 12:39:02 GMT",
       "ts": 1790167142000,
       "scope": "dom",
       "type": "blast",
-      "title": "麦迪卡量爆炸，笑了 - bbs.hupu.com",
+      "title": "麦迪卡量爆炸，笑了 - 虎扑",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ZR08xRXZVc1dZd2RtbXd6dXBSZk5NRGIxMnV1bk1leTVvTjhYd1dfUncwblhFY0pudG52R0RxemR6cFdNalBqWEhwMA?oc=5",
-      "site": "bbs.hupu.com",
+      "site": "虎扑",
       "siteUrl": "https://bbs.hupu.com"
     },
     {
@@ -61,6 +61,18 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWEk0VUVfMDY1X1dobk5OTWFrWlZNeEtXR2g3Rm5pa3lhNTlzdmJNNGxya2RPT1BMdkd0ME1vWnJxVGpVeFRaRW96Sk1JWGhWN1BRZnppOEZzdHBvZVZ3RE50M2hwTmJocUJZdENNRzB6U1h3NFV1SlY5WkhJVjZVY2pYSUxsQ0nSAYwBQVVfeXFMT25XY05COTNFRFVFc1NCZ1Y5alRmNC1Ra2laMjBsQWNITU10cTMzVlk5Mll5OEZkRVJRSjlEMWpXaS1FQ1VRZ1NuYmM3MjE1d0QtWmtKLW5sVzFWNzlHU3BxY0hVUERzMndwZFliam14dGFMWEVBZUxzN0hmSE5tWmpMcDFtSkUtOVNlSDQ?oc=5",
       "site": "FOX 8 News",
       "siteUrl": "https://fox8.com"
+    },
+    {
+      "id": "FL-f18e2ed18a49",
+      "date": "2026-09-23",
+      "dateISO": "Wed, 23 Sep 2026 10:12:13 GMT",
+      "ts": 1790158333000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "[流言板]爆炸新闻！蓝洞官宣永久禁赛Himass与TanVuu - 虎扑",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QeTVvQlZMRXNtSWlLRFRMQVFDcFBGWUttUlpEaTh1dDhSNVhwdlVjai1Ld1hTUXU5dFFLNUFXQk02RkNBdUIwSi1Oaw?oc=5",
+      "site": "虎扑",
+      "siteUrl": "https://bbs.hupu.com"
     },
     {
       "id": "FL-db791af0e1ee",
@@ -111,15 +123,15 @@
       "siteUrl": "https://zhejiang.eol.cn"
     },
     {
-      "id": "FL-ec1bba2f5b64",
+      "id": "FL-7ab6a2525c95",
       "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 02:17:56 GMT",
       "ts": 1790129876000,
       "scope": "dom",
       "type": "blast",
-      "title": "当 AI 开始给自己动刀，“智能爆炸”可能真不远了：两篇论文拆解AI下一步进化路径 - sohu.com",
+      "title": "当 AI 开始给自己动刀，“智能爆炸”可能真不远了：两篇论文拆解AI下一步进化路径 - 搜狐网",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLTlhSWU4Mm9MUF9ZWnYycHhXUGVjZlR2cDIwRjl0R0ZRR1pKUmpVbFhfTWFuUldsV3phUnZNV2xOTTNNVzFKeXRnQW5YMkVsT3E3YnZXZi1KNU5SUU9hdmFMM1JnUFhrYXdXSmRXWFhiMjRaNmFMWWFjSVNidy1MU1hXRWVxYm9s?oc=5",
-      "site": "sohu.com",
+      "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -135,16 +147,16 @@
       "siteUrl": "https://news.china.com"
     },
     {
-      "id": "FL-10386b8f475f",
+      "id": "FL-0d36613de8e1",
       "date": "2026-09-22",
-      "dateISO": "Tue, 22 Sep 2026 03:23:01 GMT",
-      "ts": 1790047381000,
-      "scope": "dom",
+      "dateISO": "Tue, 22 Sep 2026 06:52:16 GMT",
+      "ts": 1790059936000,
+      "scope": "intl",
       "type": "blast",
-      "title": "山西阳泉一居民楼发生燃气爆炸致1人重伤、3人轻伤 - 新华网山西",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLUlLOXpRVkxvYXpycFJ3X0dPMF9YbVdBcEJ5ZHQtdG9tV0xDd3ZVNXBYbnZNNUViZGRCdXNIOU1rbWxWT2F2TVkzeEFqTzRGM2p5NXZuTTN1TFFpRGYxLTVwS0wzM1prT0wwektnSlFMeFQzeWFkYzFHMWV2QlpObkRB?oc=5",
-      "site": "新华网山西",
-      "siteUrl": "http://www.sx.xinhuanet.com"
+      "title": "（外代一线）叙利亚一武器库爆炸 至少4人受伤 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUm9TRmllM1JDUklSSi1xYzhjMDNBTjFRNFJ3LS1nV1BkY1JudXpDWnYwQ190VmgwRnBRMTRYT0FCeFRFMVZYNWl0Nm1qMUpzN0xGSW9aTW5XbVFaZFN4aTEzdThhWm1LWWl4UDk0X1Q3aGVKOWgxcENFcmVGeTdrNmh4Z2hqdUdI?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-385dd58b908a",
@@ -159,39 +171,39 @@
       "siteUrl": "https://science.caixin.com"
     },
     {
-      "id": "FL-f8061d91b549",
+      "id": "FL-340d5e981918",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
       "ts": 1787468400000,
       "scope": "dom",
       "type": "blast",
-      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - news.cn",
+      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-784deda002a9",
+      "id": "FL-5e90cc979fa1",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 10:50:10 GMT",
       "ts": 1789901410000,
       "scope": "intl",
       "type": "blast",
-      "title": "乌克兰首都基辅传出爆炸声 - news.cnr.cn",
+      "title": "乌克兰首都基辅传出爆炸声 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuWEJUZnJZcWNmZkZWWFhMblRoNmFnSmZoWW9fZ3ZfRWNoQ0g4bWxIZGNNNXdJclphTW1HNDluMmQweGV1TVhxVTZZUk96bVc2cnRySDNqY2xHZUJyb0N3LTlSN21LT3pJ?oc=5",
-      "site": "news.cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-f38e3c0cb20f",
+      "id": "FL-0615dd398028",
       "date": "2026-08-02",
       "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
       "ts": 1785654000000,
       "scope": "intl",
       "type": "blast",
-      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - news.cn",
+      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -205,6 +217,18 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JdTVsYVVFWHBSX3JkaE5ocVh2cmtPd0NWVkpmT1EyOENqOGJZcHhnQllGeU9RYThKRTJmYnRVaXpEQ25RcGNGNi1LcmZJUUFnY2Q1cVVpS2dkSW8wQzJfSFI4U3FYMzdXNmJSWm1SdEpsckl2Y190Sg?oc=5",
       "site": "央视网",
       "siteUrl": "https://news.cctv.com"
+    },
+    {
+      "id": "FL-160d55aeb47e",
+      "date": "2026-06-22",
+      "dateISO": "Mon, 22 Jun 2026 07:00:00 GMT",
+      "ts": 1782111600000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "卡塔尔工厂爆炸已致13人死亡 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mR2pTX0YxWjBwQ2lLNC1XZjFhd3IwVEYtWkZFR3ZBU3B5RTFHR1BldmQ3OEkxN2NaWTMzYUkwWENDeEliY3dVNEloOExFS1B6SlZQTENHdWVmTWpUM042M2hRcmo4QS1qdl85cXlhZHJ3R3JGTEU4?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-1b678743d226",
@@ -231,15 +255,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-9fd928509f55",
+      "id": "FL-f8d54aa0664a",
       "date": "2026-06-05",
       "dateISO": "Fri, 05 Jun 2026 07:00:00 GMT",
       "ts": 1780642800000,
       "scope": "dom",
       "type": "blast",
-      "title": "辽宁本溪一商铺发生爆炸 已造成2死13伤 - news.cn",
+      "title": "辽宁本溪一商铺发生爆炸 已造成2死13伤 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43V0ZoNkJhODJub25JMEVOZGo2MkJycVQ1LW42UGhiRDBtS1NvczFuRm5mQUw5bHhXOTlqNjdqSTBJTDJEcUswMFdIWExWdWxleGhVZnllOVdXTUt6eF9KNVdxVzA3cDhHUTJHZTk3NkNsbHhtaWVIbFc5MDkyUlU?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     }
   ]
