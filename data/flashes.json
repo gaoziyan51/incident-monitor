@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T11:53:48.589Z",
+  "updated": "2026-09-23T12:01:56.905Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -39,15 +39,15 @@
       "siteUrl": "https://www.azfamily.com"
     },
     {
-      "id": "FL-41154277d408",
+      "id": "FL-04e6126b79f3",
       "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 10:30:59 GMT",
       "ts": 1790159459000,
       "scope": "intl",
       "type": "blast",
-      "title": "House collapse, possible explosion on Cleveland’s east side - fox8.com",
+      "title": "House collapse, possible explosion on Cleveland’s east side - FOX 8 News",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWEk0VUVfMDY1X1dobk5OTWFrWlZNeEtXR2g3Rm5pa3lhNTlzdmJNNGxya2RPT1BMdkd0ME1vWnJxVGpVeFRaRW96Sk1JWGhWN1BRZnppOEZzdHBvZVZ3RE50M2hwTmJocUJZdENNRzB6U1h3NFV1SlY5WkhJVjZVY2pYSUxsQ0nSAYwBQVVfeXFMT25XY05COTNFRFVFc1NCZ1Y5alRmNC1Ra2laMjBsQWNITU10cTMzVlk5Mll5OEZkRVJRSjlEMWpXaS1FQ1VRZ1NuYmM3MjE1d0QtWmtKLW5sVzFWNzlHU3BxY0hVUERzMndwZFliam14dGFMWEVBZUxzN0hmSE5tWmpMcDFtSkUtOVNlSDQ?oc=5",
-      "site": "fox8.com",
+      "site": "FOX 8 News",
       "siteUrl": "https://fox8.com"
     },
     {
@@ -109,6 +109,18 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9la3dEcGFkcVJVeWltN2Fvel9LWXBUYmJFLTQwY0VCOWN3UlY1N1U1Wk5vRThyVVc0Ulk4LXNkZXc5VGFtczM1b1luOVNhV21LWVM5c1NoTVYtMEQ5NHVldXAzLWZrd1VQbFVxZm4xSmdyU0Q1aFpZ?oc=5",
       "site": "中国教育在线",
       "siteUrl": "https://zhejiang.eol.cn"
+    },
+    {
+      "id": "FL-7ab6a2525c95",
+      "date": "2026-09-23",
+      "dateISO": "Wed, 23 Sep 2026 02:17:56 GMT",
+      "ts": 1790129876000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "当 AI 开始给自己动刀，“智能爆炸”可能真不远了：两篇论文拆解AI下一步进化路径 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLTlhSWU4Mm9MUF9ZWnYycHhXUGVjZlR2cDIwRjl0R0ZRR1pKUmpVbFhfTWFuUldsV3phUnZNV2xOTTNNVzFKeXRnQW5YMkVsT3E3YnZXZi1KNU5SUU9hdmFMM1JnUFhrYXdXSmRXWFhiMjRaNmFMWWFjSVNidy1MU1hXRWVxYm9s?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-c711bafe4ba4",
