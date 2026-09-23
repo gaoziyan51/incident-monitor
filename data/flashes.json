@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T17:39:22.208Z",
+  "updated": "2026-09-23T17:46:41.167Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -39,15 +39,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-7ce4474eaa58",
+      "id": "FL-2b4bf6b90ec3",
       "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 12:39:02 GMT",
       "ts": 1790167142000,
       "scope": "dom",
       "type": "blast",
-      "title": "麦迪卡量爆炸，笑了 - 虎扑",
+      "title": "麦迪卡量爆炸，笑了 - 虎扑体育",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ZR08xRXZVc1dZd2RtbXd6dXBSZk5NRGIxMnV1bk1leTVvTjhYd1dfUncwblhFY0pudG52R0RxemR6cFdNalBqWEhwMA?oc=5",
-      "site": "虎扑",
+      "site": "虎扑体育",
       "siteUrl": "https://bbs.hupu.com"
     },
     {
@@ -63,15 +63,15 @@
       "siteUrl": "https://fox8.com"
     },
     {
-      "id": "FL-f18e2ed18a49",
+      "id": "FL-2a23ec3c60ae",
       "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 10:12:13 GMT",
       "ts": 1790158333000,
       "scope": "dom",
       "type": "blast",
-      "title": "[流言板]爆炸新闻！蓝洞官宣永久禁赛Himass与TanVuu - 虎扑",
+      "title": "[流言板]爆炸新闻！蓝洞官宣永久禁赛Himass与TanVuu - 虎扑体育",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QeTVvQlZMRXNtSWlLRFRMQVFDcFBGWUttUlpEaTh1dDhSNVhwdlVjai1Ld1hTUXU5dFFLNUFXQk02RkNBdUIwSi1Oaw?oc=5",
-      "site": "虎扑",
+      "site": "虎扑体育",
       "siteUrl": "https://bbs.hupu.com"
     },
     {
@@ -109,6 +109,18 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdGlHRkNULXRveHZSbGU2LWhZX053d3oxY0RpX3pkNS0yaW5EaUo0b0xFVTlqejZXWmtnTjZRdnkybUtMUEdRaV9BTUx0RU9jc1BVRkhsN056Q0hUWnp4QW9uUDlsVUJWUnBhb21iN09HQ1VPeF9UV2FiQ2xvZU93eGRvdw?oc=5",
       "site": "xj.chinanews.com.cn",
       "siteUrl": "http://www.xj.chinanews.com.cn"
+    },
+    {
+      "id": "FL-aa3fb2bcf9ba",
+      "date": "2026-09-23",
+      "dateISO": "Wed, 23 Sep 2026 03:20:00 GMT",
+      "ts": 1790133600000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "宇树机器人燃爆世赛开幕式 共创未来之舞 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14a1dNSDhQUXNCaGdpNG5CejhZSHNQc0pKRGIzMDRieFdMaUdNUHlPbmRNbmhNamFQUTNvMGlUTkhRWkpDeG9XY094ODNOUUdxa0tKMUtJYmczYjFVQzZrSXEtNnhiUm0yS0FqWVlMQ3g?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
     },
     {
       "id": "FL-d3fd9eafa84f",
@@ -159,64 +171,52 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-385dd58b908a",
-      "date": "2026-08-11",
-      "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
-      "ts": 1786431600000,
+      "id": "FL-10386b8f475f",
+      "date": "2026-09-22",
+      "dateISO": "Tue, 22 Sep 2026 03:23:01 GMT",
+      "ts": 1790047381000,
       "scope": "dom",
       "type": "blast",
-      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - 财新",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fOUNOVy1jMjYtRHRacDFONmZLdmtlUTBvcjVNX0xwMG9rc2lwYkV4ZzRCOFVIVmdNLXdZcUo3Mkw1UnI3elZsRjNGblI4YTBsMGxPeHJCRnZSNWE0dXNTdXRxcUQ?oc=5",
-      "site": "财新",
-      "siteUrl": "https://science.caixin.com"
+      "title": "山西阳泉一居民楼发生燃气爆炸致1人重伤、3人轻伤 - 新华网山西",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLUlLOXpRVkxvYXpycFJ3X0dPMF9YbVdBcEJ5ZHQtdG9tV0xDd3ZVNXBYbnZNNUViZGRCdXNIOU1rbWxWT2F2TVkzeEFqTzRGM2p5NXZuTTN1TFFpRGYxLTVwS0wzM1prT0wwektnSlFMeFQzeWFkYzFHMWV2QlpObkRB?oc=5",
+      "site": "新华网山西",
+      "siteUrl": "http://www.sx.xinhuanet.com"
     },
     {
-      "id": "FL-340d5e981918",
-      "date": "2026-08-23",
-      "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
-      "ts": 1787468400000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-5e90cc979fa1",
+      "id": "FL-784deda002a9",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 10:50:10 GMT",
       "ts": 1789901410000,
       "scope": "intl",
       "type": "blast",
-      "title": "乌克兰首都基辅传出爆炸声 - 央广网",
+      "title": "乌克兰首都基辅传出爆炸声 - news.cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuWEJUZnJZcWNmZkZWWFhMblRoNmFnSmZoWW9fZ3ZfRWNoQ0g4bWxIZGNNNXdJclphTW1HNDluMmQweGV1TVhxVTZZUk96bVc2cnRySDNqY2xHZUJyb0N3LTlSN21LT3pJ?oc=5",
-      "site": "央广网",
+      "site": "news.cnr.cn",
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-0615dd398028",
-      "date": "2026-08-02",
-      "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
-      "ts": 1785654000000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-bc5a0b5cb5b0",
+      "id": "FL-c2b5e87a66f1",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 03:47:19 GMT",
       "ts": 1789789639000,
       "scope": "intl",
       "type": "blast",
-      "title": "巴基斯坦西北部爆炸已致21死 巴总统称将继续反恐行动 - news.cctv.com",
+      "title": "巴基斯坦西北部爆炸已致21死 巴总统称将继续反恐行动 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JdTVsYVVFWHBSX3JkaE5ocVh2cmtPd0NWVkpmT1EyOENqOGJZcHhnQllGeU9RYThKRTJmYnRVaXpEQ25RcGNGNi1LcmZJUUFnY2Q1cVVpS2dkSW8wQzJfSFI4U3FYMzdXNmJSWm1SdEpsckl2Y190Sg?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
+    },
+    {
+      "id": "FL-35640a9f3848",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 19:25:14 GMT",
+      "ts": 1790018714000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "导演陆川携阿里AI短片亮相云栖大会|模型|爆炸|证券|阿里巴巴|摄影者_手机新浪网 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM00yNmU0TldwQ1RvcVBDR1J5Y1lYdzRQLXltLUVaUkd0TUMzc05hTFFHcjBONTlQVUdRNzVBdHF2OWpyVk0wRi1USS1wYkwzeE5Rcm4wNUpjYmlGNFZ0TW1RaUFERTJFd2k5WUpQUHRDUUkzVkdTQThLcjZ3TmV4TDB6bEVfekNndlBlVDNMVUFrRG1qNDRIM3NMTnozMVp5UHlBazB6RQ?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-1b678743d226",
@@ -241,18 +241,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UaEgyUHZENmpVRXkzSml3STc0YkstWEFYdUtuMlM5VnNsZTZfQWU1bUdnQkQ4MjVzYlFYLVZHeHZSbVliVndXMDczaVVmdVJPbGM0RHNUVV94c2NjakZIUGduXzRUUzZz?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-f8d54aa0664a",
-      "date": "2026-06-05",
-      "dateISO": "Fri, 05 Jun 2026 07:00:00 GMT",
-      "ts": 1780642800000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "辽宁本溪一商铺发生爆炸 已造成2死13伤 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43V0ZoNkJhODJub25JMEVOZGo2MkJycVQ1LW42UGhiRDBtS1NvczFuRm5mQUw5bHhXOTlqNjdqSTBJTDJEcUswMFdIWExWdWxleGhVZnllOVdXTUt6eF9KNVdxVzA3cDhHUTJHZTk3NkNsbHhtaWVIbFc5MDkyUlU?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
     }
   ]
 }
