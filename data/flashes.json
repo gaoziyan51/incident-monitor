@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T07:02:49.253Z",
+  "updated": "2026-09-24T07:20:39.357Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -13,6 +13,18 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMnV6NnRTTENuOHhQWVRYMEZLU2tNYUZ3VWpETFVFbHpoMWJHdWtmQVcxZEstQnQwSVVuUTNFZno5V2xBalYxazdycnBta0hRWV9kbG5fTnl2cGdqdTdETUZBU3A4MEJ3OVU2NHpCMkxCM2RwNVF2OUtqbXJpRVhCbWI3THhDeWhRZWxmZ2Q2TktpdW9CdWhFQ1E2QzhNX0YwbGFiRGhIWUNOcnZ3V3JYQ0YySThPVWNkbDd5bmhWMkgzblRqS2ZybG1NTEZGN0QyOWNR?oc=5",
       "site": "News12 | New Jersey",
       "siteUrl": "https://newjersey.news12.com"
+    },
+    {
+      "id": "FL-974a0078c179",
+      "date": "2026-09-23",
+      "dateISO": "Wed, 23 Sep 2026 21:26:30 GMT",
+      "ts": 1790198790000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "VIDEO: Witness claims hearing 'explosions' during West Jordan fire - FOX 13 News Utah",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWWNiT2hSZVpRMDRwb0tRMVZWZWdvcXQxa1pHakFlTW5LSjVZYzJaZlhrbDlad25TSFJVRXg3SXMtUHlWZDc3OUo4eWZuSEFac2RFQjV4R1lDNmR3LTJRM2Q5bDdEQjBpbzFYNjFJTTd3TEhZMm52RHBRMWZPWTNTU3BVS1IySmRKaHJMRUg2T2xzZlFDY0QyN3VSUHpVenBxS3JjNm9xTGJsNXBlZFdibkxoeVdnZw?oc=5",
+      "site": "FOX 13 News Utah",
+      "siteUrl": "https://www.fox13now.com"
     },
     {
       "id": "FL-87d0bd1d9b78",
@@ -99,18 +111,6 @@
       "siteUrl": "http://www.sx.xinhuanet.com"
     },
     {
-      "id": "FL-c66f07c037e1",
-      "date": "2026-09-22",
-      "dateISO": "Tue, 22 Sep 2026 01:53:05 GMT",
-      "ts": 1790041985000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "日本17米鲸尸现红色鼓包，或随时爆炸 台风影响移除作业 - 中华网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YSzAyak5NNlVtbGJhcHJvVkdVRjhjcU1QUW1hR0NnQ1oweXVJeVNNVFJtcWp3UWFtTXo5X2V2VHRiT1VrLWJLY0dsWnB1UDJxWS1qYlhRY2NDT0pBbkJudTVjLUFUYUkwejgwQVpMRHY?oc=5",
-      "site": "中华网",
-      "siteUrl": "https://news.china.com"
-    },
-    {
       "id": "FL-385dd58b908a",
       "date": "2026-08-11",
       "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
@@ -121,6 +121,30 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fOUNOVy1jMjYtRHRacDFONmZLdmtlUTBvcjVNX0xwMG9rc2lwYkV4ZzRCOFVIVmdNLXdZcUo3Mkw1UnI3elZsRjNGblI4YTBsMGxPeHJCRnZSNWE0dXNTdXRxcUQ?oc=5",
       "site": "财新",
       "siteUrl": "https://science.caixin.com"
+    },
+    {
+      "id": "FL-2eb7f7bb680b",
+      "date": "2026-09-24",
+      "dateISO": "Thu, 24 Sep 2026 07:05:21 GMT",
+      "ts": 1790233521000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "住宅楼电动自行车起火爆炸 浓烟笼罩整栋建筑未酿伤亡 - chinapress.com.my",
+      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOcUpHWlppRElrUnVBdDRhOUoxMlU4MXlONkRENktwQ0tzdi1CTVc1MURNZmc2SldkOWdZWHE4eWtYM2ZuLU9DU2U3V2dQZlppS01yODN0TUlKSHVjRkh3T2hvQWdGcWFXc19DS3BsQ3N4bTVOaXRWNDMwZGFvZGFkV3pHTGEtNVBlSTV3WlRPODZwazd2LTZmUVFPMjdWMXN1cVlXOV9CcHhmVlJCOXIyOEgxWEVYWnViTUlyWjAtZFU3bnhjQnJRZzRRcVRra3Rha2dSdmtlSjdfNmo1ZXhpcmhERElVTmR1TjB6WUlqY09uUTBNb1dRWUdDeGJSWWdXdXFyejN6T2ZFdU5JODUxZEo1YUNLNzh4Vm9PZTc1MTM2RkktY25wajVFZXctWjJOcUt4MDI1X0lsZW9tTDV5M3h5dUJ4VzgzOWxMZ2t1NksxVlJXOFFnS04yZw?oc=5",
+      "site": "chinapress.com.my",
+      "siteUrl": "https://www.chinapress.com.my"
+    },
+    {
+      "id": "FL-00d85b443c70",
+      "date": "2026-09-24",
+      "dateISO": "Thu, 24 Sep 2026 06:14:00 GMT",
+      "ts": 1790230440000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "编造“化工园区大爆炸”谣言，上海警方依法处罚 - 观察者网",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EMUVGS3BVcS1oM0JweUdpampZc01Jb3ZkVVc5ai1XMlNHSDNEVTdfVFN0LWF6V1AzQWFfc3puSzNnNE93bkJhZjEzdzlVTngzOG9PemFIMV9wS1Byb29FWDlQQTVBUQ?oc=5",
+      "site": "观察者网",
+      "siteUrl": "https://www.guancha.cn"
     },
     {
       "id": "FL-acfb63f6e003",
@@ -135,16 +159,16 @@
       "siteUrl": "https://www.cqnews.net"
     },
     {
-      "id": "FL-974a0078c179",
+      "id": "FL-e2e5c193c685",
       "date": "2026-09-24",
-      "dateISO": "Thu, 24 Sep 2026 01:00:55 GMT",
-      "ts": 1790211655000,
+      "dateISO": "Thu, 24 Sep 2026 01:09:00 GMT",
+      "ts": 1790212140000,
       "scope": "intl",
       "type": "blast",
-      "title": "VIDEO: Witness claims hearing 'explosions' during West Jordan fire - FOX 13 News Utah",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWWNiT2hSZVpRMDRwb0tRMVZWZWdvcXQxa1pHakFlTW5LSjVZYzJaZlhrbDlad25TSFJVRXg3SXMtUHlWZDc3OUo4eWZuSEFac2RFQjV4R1lDNmR3LTJRM2Q5bDdEQjBpbzFYNjFJTTd3TEhZMm52RHBRMWZPWTNTU3BVS1IySmRKaHJMRUg2T2xzZlFDY0QyN3VSUHpVenBxS3JjNm9xTGJsNXBlZFdibkxoeVdnZw?oc=5",
-      "site": "FOX 13 News Utah",
-      "siteUrl": "https://www.fox13now.com"
+      "title": "英国皇家空军一“鹰”T2坠毁爆炸，两名飞行员弹射逃生 - 观察者网",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1rX0hPSUZpSWlNcUdVSU9zV1R1Zk14X0JNS3Y2SUMxTnBQZHFlcWVQUWctUktXYTZWMTNMWExndlhrMkI1czVWOGhUUWdlZmxtNFhhcGFycnhOVENJZmRZb2ZRYWc5dEZ6VUtYRFp2TGRfNnc?oc=5",
+      "site": "观察者网",
+      "siteUrl": "https://www.guancha.cn"
     },
     {
       "id": "FL-5c9c989ddebb",
