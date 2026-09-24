@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T06:01:53.231Z",
+  "updated": "2026-09-24T06:25:10.990Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -25,18 +25,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUmctTnBnM0gwdzBxVkVHc3RZUEtrTE9BYUpna2dPa0VUYlFBN05jcUlBaG5ucnhuQ2RzbWxZS2xGMUJTNWdzeV9kWldzOGFrYmVIUlhNM0ZzcmJabXJobkc4aDBRY0hnRHYtd1ptcC15NlFoelBQSk05RXctR0pPZUZHZVlvUHRl?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-c3723193a0dd",
-      "date": "2026-09-23",
-      "dateISO": "Wed, 23 Sep 2026 13:22:00 GMT",
-      "ts": 1790169720000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "路过司机冲进火场救出追尾车车主，刚撤离事故车就发生爆炸“都是跑车养家的顶梁柱，来不及多想” - 紫牛新闻",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVaTFzZHJKOV9oWnJMUVVrVmR3bmEtY1E5UnpTMTZXNmJVVHdjbnJJcVlXbVFLTHlPajNSTUV2YmJyUkpBMklzdENEbnFRUEUtSHBmWkpobzBuY0hYOHZpR1JtRXpwSTZO?oc=5",
-      "site": "紫牛新闻",
-      "siteUrl": "https://www.yzwb.net"
     },
     {
       "id": "FL-db791af0e1ee",
@@ -99,16 +87,16 @@
       "siteUrl": "https://news.china.com"
     },
     {
-      "id": "FL-245cbcfaea0e",
+      "id": "FL-10386b8f475f",
       "date": "2026-09-22",
-      "dateISO": "Tue, 22 Sep 2026 03:21:51 GMT",
-      "ts": 1790047311000,
+      "dateISO": "Tue, 22 Sep 2026 03:23:01 GMT",
+      "ts": 1790047381000,
       "scope": "dom",
       "type": "blast",
-      "title": "山西阳泉一居民楼发生燃气爆炸致1人重伤、3人轻伤 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFYTZ0X3BueTFVMXMtTHdRZm94MmxfUlhNTEhyc0J3RkJMVy1zbjRQcXlVak1Ic256MXB1R1hLRE54VWl4Vjg1b3hfTmQwanJGMXlYbVlmcU1iLUF2dXc?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://news.bjd.com.cn"
+      "title": "山西阳泉一居民楼发生燃气爆炸致1人重伤、3人轻伤 - 新华网山西",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLUlLOXpRVkxvYXpycFJ3X0dPMF9YbVdBcEJ5ZHQtdG9tV0xDd3ZVNXBYbnZNNUViZGRCdXNIOU1rbWxWT2F2TVkzeEFqTzRGM2p5NXZuTTN1TFFpRGYxLTVwS0wzM1prT0wwektnSlFMeFQzeWFkYzFHMWV2QlpObkRB?oc=5",
+      "site": "新华网山西",
+      "siteUrl": "http://www.sx.xinhuanet.com"
     },
     {
       "id": "FL-385dd58b908a",
@@ -121,6 +109,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fOUNOVy1jMjYtRHRacDFONmZLdmtlUTBvcjVNX0xwMG9rc2lwYkV4ZzRCOFVIVmdNLXdZcUo3Mkw1UnI3elZsRjNGblI4YTBsMGxPeHJCRnZSNWE0dXNTdXRxcUQ?oc=5",
       "site": "财新",
       "siteUrl": "https://science.caixin.com"
+    },
+    {
+      "id": "FL-acfb63f6e003",
+      "date": "2026-09-24",
+      "dateISO": "Thu, 24 Sep 2026 05:40:57 GMT",
+      "ts": 1790228457000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "路过司机冲进火场救出追尾车车主，刚撤离事故车就发生爆炸 “都是跑车养家的顶梁柱，来不及多想” - 华龙网",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Xa1R5Q3RIWURTTDB2enpUbXU2VFBDQUlqNEhLT25sNkZMeXlqTTBoX09uUmNkdXI5dlZpaUx5S1lWcFNYa3Bfb1VFYXMxUDhlczRwVWxSckpaY1dKVGV2a2JyUmlHRGF2ZlZj?oc=5",
+      "site": "华龙网",
+      "siteUrl": "https://www.cqnews.net"
     },
     {
       "id": "FL-974a0078c179",
