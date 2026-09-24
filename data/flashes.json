@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T04:54:26.458Z",
+  "updated": "2026-09-24T05:01:20.689Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -27,15 +27,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-d52fd2058bae",
+      "id": "FL-c3723193a0dd",
       "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 13:22:00 GMT",
       "ts": 1790169720000,
       "scope": "dom",
       "type": "blast",
-      "title": "路过司机冲进火场救出追尾车车主，刚撤离事故车就发生爆炸“都是跑车养家的顶梁柱，来不及多想” - yzwb.net",
+      "title": "路过司机冲进火场救出追尾车车主，刚撤离事故车就发生爆炸“都是跑车养家的顶梁柱，来不及多想” - 紫牛新闻",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVaTFzZHJKOV9oWnJMUVVrVmR3bmEtY1E5UnpTMTZXNmJVVHdjbnJJcVlXbVFLTHlPajNSTUV2YmJyUkpBMklzdENEbnFRUEUtSHBmWkpobzBuY0hYOHZpR1JtRXpwSTZO?oc=5",
-      "site": "yzwb.net",
+      "site": "紫牛新闻",
       "siteUrl": "https://www.yzwb.net"
     },
     {
@@ -75,16 +75,40 @@
       "siteUrl": "https://zhejiang.eol.cn"
     },
     {
-      "id": "FL-10386b8f475f",
-      "date": "2026-09-22",
-      "dateISO": "Tue, 22 Sep 2026 03:23:01 GMT",
-      "ts": 1790047381000,
+      "id": "FL-7ab6a2525c95",
+      "date": "2026-09-23",
+      "dateISO": "Wed, 23 Sep 2026 02:17:56 GMT",
+      "ts": 1790129876000,
       "scope": "dom",
       "type": "blast",
-      "title": "山西阳泉一居民楼发生燃气爆炸致1人重伤、3人轻伤 - 新华网山西",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLUlLOXpRVkxvYXpycFJ3X0dPMF9YbVdBcEJ5ZHQtdG9tV0xDd3ZVNXBYbnZNNUViZGRCdXNIOU1rbWxWT2F2TVkzeEFqTzRGM2p5NXZuTTN1TFFpRGYxLTVwS0wzM1prT0wwektnSlFMeFQzeWFkYzFHMWV2QlpObkRB?oc=5",
-      "site": "新华网山西",
-      "siteUrl": "http://www.sx.xinhuanet.com"
+      "title": "当 AI 开始给自己动刀，“智能爆炸”可能真不远了：两篇论文拆解AI下一步进化路径 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLTlhSWU4Mm9MUF9ZWnYycHhXUGVjZlR2cDIwRjl0R0ZRR1pKUmpVbFhfTWFuUldsV3phUnZNV2xOTTNNVzFKeXRnQW5YMkVsT3E3YnZXZi1KNU5SUU9hdmFMM1JnUFhrYXdXSmRXWFhiMjRaNmFMWWFjSVNidy1MU1hXRWVxYm9s?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-c711bafe4ba4",
+      "date": "2026-09-23",
+      "dateISO": "Wed, 23 Sep 2026 00:53:20 GMT",
+      "ts": 1790124800000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "男子称入住酒店空调爆炸 酒店投警 白烟弥漫气味刺鼻 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54a0tLbU14VHFWa3FhSXZ5ekJIcjJVMTR6QnRGT0hUaHdicUs3aC1hbGI1alVrZXFnOVktWkdfT0JHZHdoZW9LR3dTdkd4Y3BibnVLbmlwOHJNSlZBUkJiOHZteHFRbk5HS2hIeG95OTY?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
+    },
+    {
+      "id": "FL-4e7d62b9242d",
+      "date": "2026-09-22",
+      "dateISO": "Tue, 22 Sep 2026 03:21:51 GMT",
+      "ts": 1790047311000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "山西阳泉一居民楼发生燃气爆炸致1人重伤、3人轻伤 - news.bjd.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFYTZ0X3BueTFVMXMtTHdRZm94MmxfUlhNTEhyc0J3RkJMVy1zbjRQcXlVak1Ic256MXB1R1hLRE54VWl4Vjg1b3hfTmQwanJGMXlYbVlmcU1iLUF2dXc?oc=5",
+      "site": "news.bjd.com.cn",
+      "siteUrl": "https://news.bjd.com.cn"
     },
     {
       "id": "FL-385dd58b908a",
@@ -109,6 +133,18 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWWNiT2hSZVpRMDRwb0tRMVZWZWdvcXQxa1pHakFlTW5LSjVZYzJaZlhrbDlad25TSFJVRXg3SXMtUHlWZDc3OUo4eWZuSEFac2RFQjV4R1lDNmR3LTJRM2Q5bDdEQjBpbzFYNjFJTTd3TEhZMm52RHBRMWZPWTNTU3BVS1IySmRKaHJMRUg2T2xzZlFDY0QyN3VSUHpVenBxS3JjNm9xTGJsNXBlZFdibkxoeVdnZw?oc=5",
       "site": "FOX 13 News Utah",
       "siteUrl": "https://www.fox13now.com"
+    },
+    {
+      "id": "FL-39517390a6e9",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 12:32:40 GMT",
+      "ts": 1789648360000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "俄罗斯空袭基辅传剧烈爆炸声 乌克兰袭击俄罗斯大型炼油厂 - RFI",
+      "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxPT25FaTdvc0F1NU9jc21QVFhubmlqM3l1b0QxZzBtczdhbjktSXRpZWppeGY5bko0eTJjdDBwcGRTRGFfOFFNZ3hDcnBBSm9mQm5VT2E2Ui1SaVFYOEVvLXBzWDBXWXd2bWQwRUpWRGpMaEdnZDVlUjU0WG5OREFBX3pEOE00Y2djWWpjSHd3NUh3dkdQZGhIYlZvcUEwbHIxNVJGZ1l5bmhDbVZiMEltYmNPS1hYZzRTeFlIdFJ2UlVLQTRmSFVhUUQ1c25GMC10LTFma1AteUI1eU9weG5DOG50SGdXMV91NmJJcnZmMU5qY0VSb1FfNHQxMHNodS01T0pmZUIxUFRCbTdraXdwaFBQYUE4QVlad0x0ME02THdCWlhOWUNSRy1xZzNPd0lMT0lpOGdydkJIZnhiYjhSSGJsUloxcWk1RjJ0RmFwVnlqeDZWQ1psUmtUelVyLXVVeTFzMktiLWM3UThfNWwyYUVYRU5aeWFpNlcwNEIxRnRvd3JQOUtKOUpSMHMxTGVGOVJJdm1GNW0?oc=5",
+      "site": "RFI",
+      "siteUrl": "https://www.rfi.fr"
     },
     {
       "id": "FL-340d5e981918",
@@ -159,18 +195,6 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-160d55aeb47e",
-      "date": "2026-06-22",
-      "dateISO": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "ts": 1782111600000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "卡塔尔工厂爆炸已致13人死亡 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mR2pTX0YxWjBwQ2lLNC1XZjFhd3IwVEYtWkZFR3ZBU3B5RTFHR1BldmQ3OEkxN2NaWTMzYUkwWENDeEliY3dVNEloOExFS1B6SlZQTENHdWVmTWpUM042M2hRcmo4QS1qdl85cXlhZHJ3R3JGTEU4?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
       "id": "FL-35640a9f3848",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 19:25:14 GMT",
@@ -205,30 +229,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UaEgyUHZENmpVRXkzSml3STc0YkstWEFYdUtuMlM5VnNsZTZfQWU1bUdnQkQ4MjVzYlFYLVZHeHZSbVliVndXMDczaVVmdVJPbGM0RHNUVV94c2NjakZIUGduXzRUUzZz?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-b042a088a326",
-      "date": "2026-08-03",
-      "dateISO": "Mon, 03 Aug 2026 07:00:00 GMT",
-      "ts": 1785740400000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "巴基斯坦西北部发生爆炸致14人死亡 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-f8d54aa0664a",
-      "date": "2026-06-05",
-      "dateISO": "Fri, 05 Jun 2026 07:00:00 GMT",
-      "ts": 1780642800000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "辽宁本溪一商铺发生爆炸 已造成2死13伤 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43V0ZoNkJhODJub25JMEVOZGo2MkJycVQ1LW42UGhiRDBtS1NvczFuRm5mQUw5bHhXOTlqNjdqSTBJTDJEcUswMFdIWExWdWxleGhVZnllOVdXTUt6eF9KNVdxVzA3cDhHUTJHZTk3NkNsbHhtaWVIbFc5MDkyUlU?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
     }
   ]
 }
