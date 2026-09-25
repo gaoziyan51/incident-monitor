@@ -1,17 +1,17 @@
 {
-  "updated": "2026-09-25T12:41:10.310Z",
+  "updated": "2026-09-25T12:57:34.030Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-710fe48d473f",
+      "id": "FL-266309055c56",
       "date": "2026-06-03",
       "dateISO": "Wed, 03 Jun 2026 07:00:00 GMT",
       "ts": 1780470000000,
       "scope": "dom",
       "type": "blast",
-      "title": "特别重大瓦斯爆炸事故后 山西煤矿迎来“最严整治” - 中国能源新闻网",
+      "title": "特别重大瓦斯爆炸事故后 山西煤矿迎来“最严整治” - cpnn.com.cn",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tM3B2anpUNmRxVVRfUk0yOVBuN2ZDNU9uQUJXWEljSEFEX3FXVU5QUWVXZEh0b3drdU5fNXlkXzRvdURYaDZJYXRkN0hUWXJoRXBPcXVud2NpLWRLQUxpMXZTYU5DNnRYbGQ5TVlR?oc=5",
-      "site": "中国能源新闻网",
+      "site": "cpnn.com.cn",
       "siteUrl": "https://www.cpnn.com.cn"
     },
     {
@@ -99,6 +99,18 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
+      "id": "FL-0a94e597e848",
+      "date": "2026-09-05",
+      "dateISO": "Sat, 05 Sep 2026 07:00:00 GMT",
+      "ts": 1788591600000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "伊朗哈尔克岛附近海域传出爆炸声 - 央广网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VUEJ2eGF5WGt5UmQxcTlHcDNzTU9aVVV6OVNOcmM0ODFCVWF2Ui1KU21uQkJ3TFVPMTktNEFxZzRvWVl0UVJWMTlUU3ZaYl9wb20yaGZWRFZMTF9QczVXd2pFelZQdVJp?oc=5",
+      "site": "央广网",
+      "siteUrl": "https://news.cnr.cn"
+    },
+    {
       "id": "FL-160d55aeb47e",
       "date": "2026-06-22",
       "dateISO": "Mon, 22 Jun 2026 07:00:00 GMT",
@@ -135,6 +147,30 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-1dbe219678a7",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 11:46:00 GMT",
+      "ts": 1790336760000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "One dead, one critical following house explosion in Hazel Green - waff.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQVhSQWpzYUltNUVickxHVXo2THZ1UkpGR1NSbkVid3U3WnNmZUdFOFczdG5kQ0NZRUN0T2FqZElaX3ZrTmdPRnllUXNTTUkyOGNfdGtnbXdNa1FsMUY3Zmg3LUp6QVlMNkMteEV2ME1XQzhFVmY4TmR0cDA3TmVqelZqdEgtbkZlRURwdUtGdkNVZURscWVraXVIWVhOSXM?oc=5",
+      "site": "waff.com",
+      "siteUrl": "https://www.waff.com"
+    },
+    {
+      "id": "FL-9cb77479dd26",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 11:41:00 GMT",
+      "ts": 1790336460000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "1 dead, 1 critical after Hazel Green house explosion - rocketcitynow.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQR2V5bXBYcTZtUjI1NC1CYzJYUXVCQ2VvU1Q3VXJhSVdpT25MUUwtZm1MX2hLNldyRTJ4Z1RUcS1LSk53X3hFSS1JVFFnMVhFRWFFcUxtdDl1X09QZjVFN09Pbl9oNnFDZjVRTTR4LVVuTmItdmxJQmp1T1o0SDhnb2habTJRbW1uSzc0TkdCRkRsUHpCSDlvWUFUTk42SHFHYWZFNVNrSnNFRDNSVGZnNnA5cGhjYUdVY3BiWWNtQ0h6dTM2U0V5cXBZa215VEs3?oc=5",
+      "site": "rocketcitynow.com",
+      "siteUrl": "https://www.rocketcitynow.com"
+    },
+    {
       "id": "FL-fd1460b333a8",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 11:33:52 GMT",
@@ -159,16 +195,28 @@
       "siteUrl": "https://tech.sina.cn"
     },
     {
-      "id": "FL-3a3b402104c5",
+      "id": "FL-0e0d22b2cc4a",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 11:25:00 GMT",
       "ts": 1790335500000,
       "scope": "intl",
       "type": "blast",
-      "title": "Emergency responders on the scene of a home explosion in Hazel Green - WAFF",
+      "title": "Emergency responders on the scene of a home explosion in Hazel Green - waff.com",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWmxNcFh4OXU1bGdhdEp6ZDdyZmJQQV9PUmd2RE1sNWlWZFE2VVRTX2JaN3FZblE0eE54cHdpNEh2N3BHYTR3T3RRdUhralItaVRXaHc0YVRsazUtN1FWcXFCSS1MY05rUmFEb09aX0FDRkZpVnhGRDFnR1ZsRGVNU09FWmlhaVNURndIdlA1SQ?oc=5",
-      "site": "WAFF",
+      "site": "waff.com",
       "siteUrl": "https://www.waff.com"
+    },
+    {
+      "id": "FL-0088b16dc7d9",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 10:44:54 GMT",
+      "ts": 1790333094000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典热门观光爆炸 3伤！疑似煤气外泄酿祸 - chinapress.com.my",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOZ0ozMmI0dWV0UU01QXZYN3BkX1dFRlIxMTdrRXRMUi1RdlNhSzhJdEo3bjhZeWpSWXJoNkF3MzhtRXRLcndHY0xNR2hkRVZJbTM1Vkdzd0pNMkQxS3RWbWRrOGFyMjROalJ3bHNHUlBnVFJEWkEwZmU0QjZFTlltU0JlWjNBXzB2aWxKdmVrZjUzdWJWVTFEYm5FYXhsNzhRRWswWTJXZExETWlySHp1eVM2WVlEc1FJZE9pZE9Ra0ROT3FnaUhlZGluWVBBaHBfc0lWbXFjbGtEQW9TeTBTYzAteUttSDJVNW9WSl9Xa0lpRUotZ01OVGswaTFDTnJkYjU0dGFsclNVYlpINVlJNmlLbzJOSzBKVjdocHA2WjVxUlM1a1FBenduWlA?oc=5",
+      "site": "chinapress.com.my",
+      "siteUrl": "https://www.chinapress.com.my"
     },
     {
       "id": "FL-0c4f5573ec38",
@@ -195,30 +243,6 @@
       "siteUrl": "https://www.nbcnews.com"
     },
     {
-      "id": "FL-a45a2fd5224c",
-      "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 09:48:12 GMT",
-      "ts": 1790329692000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "以军无人机在加沙坠毁后爆炸，两名以士兵死亡 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PdWJnUGkyT2V3QTZkclZEdGg4UzEwVFI2NVd1ek0tMEFkQUJHRGNXaF9xbFhQVVdNTm9Ia0pBYVFEUl8zX1VlMlRWTjNJSlQ3R21PQXZQYzI4NGF1T1E?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://news.bjd.com.cn"
-    },
-    {
-      "id": "FL-8afc505134f0",
-      "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 09:01:00 GMT",
-      "ts": 1790326860000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Fire burns through campers, causes propane tank explosion at popular Poconos resort - WFMZ.com",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOVVNZYXdMWXhpYU1VR1BxdkxVMjV5MGVBdFBNb0g2US1yOS03eFdGRElCYzZnSnlRd2RxZWU5eGhBX1RYVFF2TlAtcnhfSnAzVFNlM0xqU25LVDQ2TlIzQTg1WXNxZkJrcmQ1NC1SRlJSNjhFbGtpdUpjbUNRdDJjTUh0c3lQWnJiRC1FZm93TjBZeDQ3c1Y1OVQtMkJobE50MGlQbUxrRTZBVlEwWFc4UjBVUndENUZxcUwwb2VMNTAzM210cUY3eHoza1dpNVhiQk1kOWFacEQ0ZElzTldTMmdHWEN6S3dfQTVCQjNkbEk3c3BSVmoyV1cyc194eGU1YUdva1EzY1NJdEpqUHMyU3RpMmZHSG05UkE?oc=5",
-      "site": "WFMZ.com",
-      "siteUrl": "https://www.wfmz.com"
-    },
-    {
       "id": "FL-8d6af76932cd",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 08:17:00 GMT",
@@ -243,13 +267,13 @@
       "siteUrl": "https://www.timesofisrael.com"
     },
     {
-      "id": "FL-5324d7b07e40",
+      "id": "FL-a373dd7630e2",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 06:56:28 GMT",
       "ts": 1790319388000,
       "scope": "intl",
       "type": "blast",
-      "title": "Building in Athens collapses after suspected gas explosion, two women rescued - Euronews.com",
+      "title": "Building in Athens collapses after explosion, two women rescued - Euronews.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbmdqQWhDWUozS2Izdmt6VU5McmdJaE14bDRaaElESTA0aEJTUmZEV216aGxLOEFqRzcyYjVSRHdkRW9lckkxVzh1WV9wX3FKb0xPT1R3SkpoSkIxNmNIUHgtelZYbG15THJZQ0hlY0ZUVEJTaEpyRmoxellOYnpFTl9XamstS1RUZnYzU1Y1eEM1MGQzQmtja1dROFUzbGUweWdZYVAtTDladw?oc=5",
       "site": "Euronews.com",
       "siteUrl": "https://www.euronews.com"
@@ -303,16 +327,28 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-08f272d82dab",
+      "id": "FL-77a82b35e76f",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 03:25:12 GMT",
       "ts": 1790306712000,
       "scope": "dom",
       "type": "blast",
-      "title": "效率爆炸！阿贾·威尔逊上半场16分钟13中10狂轰21分 正负值+23 - Sina Sports",
+      "title": "效率爆炸！阿贾·威尔逊上半场16分钟13中10狂轰21分 正负值+23 - sports.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTi1nOWVFaDgtY2lnV0I3RzNOY3hOdENuSDhZZFJBTG1YeVVEOGZBVDQ4VkRBSVBBVmwtUmxJVS1DNlBmbTFhdXJFTzJVay1aaVBacHd0ZndPZm5zUnNWeHh2eTZPd19oOWkyWElOYXZaMjlpR3VBSlRoZkFyS0xIMG15RjY?oc=5",
-      "site": "Sina Sports",
+      "site": "sports.sina.cn",
       "siteUrl": "https://sports.sina.cn"
+    },
+    {
+      "id": "FL-cf7e48cff25f",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 01:52:00 GMT",
+      "ts": 1790301120000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典市中心一栋建筑爆炸后部分坍塌——《耶路撒冷邮报》 - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb3g3a2FOQW9nY191S3ZOMjNnM0ZudWxURTlvZHJIbG9QRU82M0tyVUJRZXEyOWtYZWJERFQwZzA2ZzA3ck5qbU5rUGR3ajRyMjV2N3RtVnk0Rmp5TXRpdkNmS1o4RjVjQjZLc0pUanBpUGdyNkJENlpZam5ld2lGUWxTUjd6YXdUSUtZb0ZOYXphelNDa0RVUy1nRmFOT3IyaVE?oc=5",
+      "site": "UA.NEWS",
+      "siteUrl": "https://ua.news"
     },
     {
       "id": "FL-6b068d02fc48",
