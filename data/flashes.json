@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T02:48:34.163Z",
+  "updated": "2026-09-25T02:56:13.787Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -27,15 +27,15 @@
       "siteUrl": "http://www.xj.chinanews.com.cn"
     },
     {
-      "id": "FL-10386b8f475f",
+      "id": "FL-8acb87f12f46",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 03:23:01 GMT",
       "ts": 1790047381000,
       "scope": "dom",
       "type": "blast",
-      "title": "山西阳泉一居民楼发生燃气爆炸致1人重伤、3人轻伤 - 新华网山西",
+      "title": "山西阳泉一居民楼发生燃气爆炸致1人重伤、3人轻伤 - sx.xinhuanet.com",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLUlLOXpRVkxvYXpycFJ3X0dPMF9YbVdBcEJ5ZHQtdG9tV0xDd3ZVNXBYbnZNNUViZGRCdXNIOU1rbWxWT2F2TVkzeEFqTzRGM2p5NXZuTTN1TFFpRGYxLTVwS0wzM1prT0wwektnSlFMeFQzeWFkYzFHMWV2QlpObkRB?oc=5",
-      "site": "新华网山西",
+      "site": "sx.xinhuanet.com",
       "siteUrl": "http://www.sx.xinhuanet.com"
     },
     {
@@ -111,18 +111,6 @@
       "siteUrl": "https://www.cqnews.net"
     },
     {
-      "id": "FL-4cbb7221a5d1",
-      "date": "2026-09-24",
-      "dateISO": "Thu, 24 Sep 2026 03:58:43 GMT",
-      "ts": 1790222323000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "世界首台重离子对撞机在“迷你大爆炸”中撞碎金离子 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMmVCTkJVMDZlanlOSzh4ZnNwYWNNVWRQclhpTlVlMTJRVjlUWVc3eU9XZVc1YTFyc1hMMWdYQXVMVHNacjJqcGlwLWV2cTBFYVB1cmlqV0RQaGRuNlZxSlFUSml0WGthUm9yWHBUVm43eWI3T2ZuQmJFYVBxMmU2U251U01kc3FLck9YZQ?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-e2e5c193c685",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 01:09:00 GMT",
@@ -157,6 +145,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-a461a34d6dac",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 11:34:00 GMT",
+      "ts": 1789817640000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "叙利亚东部爆炸致过渡政府国防部11人死亡 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1EV01zWEg5WTZCQmtLS0phVFI3dnhGbF9fQURDb2ZDWHF3dTlKSEpIc0pwYXJITlJZb3lIN1MwdzlzQnFzdzhIRFBWaUoyWnJjZVZjSU1rRE9ZYWdoV21sbjY3RURRTkF3d3duWXg2QjlSQQ?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
       "id": "FL-c2b5e87a66f1",
@@ -231,14 +231,14 @@
       "siteUrl": "https://www.spokesman.com"
     },
     {
-      "id": "FL-4ed1ffe514b4",
-      "date": "2026-08-21",
-      "dateISO": "Fri, 21 Aug 2026 07:00:00 GMT",
-      "ts": 1787295600000,
+      "id": "FL-f8d54aa0664a",
+      "date": "2026-06-05",
+      "dateISO": "Fri, 05 Jun 2026 07:00:00 GMT",
+      "ts": 1780642800000,
       "scope": "dom",
       "type": "blast",
-      "title": "山东临沂发生爆炸致1人死亡2人失联 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5dmp2dW40R0VaSl93N25sLVZHeGFRNGZYdXF5cHJNeVcxWDVadGl6a094ZGxNcVBiMkN2cXhtdG1IQkxYSlk4SEVWc1FlX0Rsc1B4RXhKdHhvV0tfSHpzNDhTQUVRdlBSMjh6c3ZqZ01leGQ0dVVZ?oc=5",
+      "title": "辽宁本溪一商铺发生爆炸 已造成2死13伤 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43V0ZoNkJhODJub25JMEVOZGo2MkJycVQ1LW42UGhiRDBtS1NvczFuRm5mQUw5bHhXOTlqNjdqSTBJTDJEcUswMFdIWExWdWxleGhVZnllOVdXTUt6eF9KNVdxVzA3cDhHUTJHZTk3NkNsbHhtaWVIbFc5MDkyUlU?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
     }
