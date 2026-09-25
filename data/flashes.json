@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-25T18:57:13.262Z",
+  "updated": "2026-09-25T19:05:11.991Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-6612abd30963",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 18:02:00 GMT",
+      "ts": 1789581720000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "宇宙大爆炸最初五分钟氦丰度获最精确测量 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MzVkcXZnR2UwelNkenFIYVFYVzBPcUxUQ1VSaUVHcV9LYVJnZzhjQWZzM09DNk8wc0xVNlo2amRqNjBueWtVeTdSbkJZT053RjRSZDhmeXJyT19wekF3UHB6WERtZkxLaFFwT2pVWTE?oc=5",
+      "site": "中国科技网",
+      "siteUrl": "https://www.stdaily.com"
+    },
     {
       "id": "FL-710fe48d473f",
       "date": "2026-06-03",
@@ -27,27 +39,27 @@
       "siteUrl": "https://science.caixin.com"
     },
     {
-      "id": "FL-75ad25e28af3",
+      "id": "FL-c43cc5d24219",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 10:27:25 GMT",
       "ts": 1790245645000,
       "scope": "dom",
       "type": "blast",
-      "title": "“上海化工园区发生大爆炸”不实 造谣者被行政处罚 - 中华网",
+      "title": "“上海化工园区发生大爆炸”不实 造谣者被行政处罚 - news.china.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jMTVDWDRjc1owMEV4N3ZlTHd0Z2kyUDNudFVGc2xSM1F6MGtZMGRsS281dFRhMWo1MTVJUWtBZzA0TEdrWGs0ajBOMmtVVkMtTjJhRjRMM2EyZG9Ldm13MWN2Y2NiU3BZUHN5Q1B5RVI?oc=5",
-      "site": "中华网",
+      "site": "news.china.com",
       "siteUrl": "https://news.china.com"
     },
     {
-      "id": "FL-89cbc10d2a6e",
+      "id": "FL-1039b268f739",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 09:56:27 GMT",
       "ts": 1790243787000,
       "scope": "dom",
       "type": "blast",
-      "title": "“上海化工园区发生大爆炸”不实（2026·09·24） - news.ifeng.com",
+      "title": "“上海化工园区发生大爆炸”不实（2026·09·24） - 凤凰网",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5xejNIcWdPNWRTUFBZczdhSVN1WmhGWGhpdTZBSERuR24yWl9DTVQwbHZZRC1CSTRwTDgyWkV2ek8weVFneEFQM1ZJTUM?oc=5",
-      "site": "news.ifeng.com",
+      "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com"
     },
     {
@@ -63,39 +75,39 @@
       "siteUrl": "https://www.cqnews.net"
     },
     {
-      "id": "FL-340d5e981918",
+      "id": "FL-f8061d91b549",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
       "ts": 1787468400000,
       "scope": "dom",
       "type": "blast",
-      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
+      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-0615dd398028",
+      "id": "FL-f38e3c0cb20f",
       "date": "2026-08-02",
       "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
       "ts": 1785654000000,
       "scope": "intl",
       "type": "blast",
-      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - 新华网",
+      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-bc5a0b5cb5b0",
+      "id": "FL-c2b5e87a66f1",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 03:47:19 GMT",
       "ts": 1789789639000,
       "scope": "intl",
       "type": "blast",
-      "title": "巴基斯坦西北部爆炸已致21死 巴总统称将继续反恐行动 - news.cctv.com",
+      "title": "巴基斯坦西北部爆炸已致21死 巴总统称将继续反恐行动 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JdTVsYVVFWHBSX3JkaE5ocVh2cmtPd0NWVkpmT1EyOENqOGJZcHhnQllGeU9RYThKRTJmYnRVaXpEQ25RcGNGNi1LcmZJUUFnY2Q1cVVpS2dkSW8wQzJfSFI4U3FYMzdXNmJSWm1SdEpsckl2Y190Sg?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -111,39 +123,27 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-160d55aeb47e",
+      "id": "FL-5414e00ffd4e",
       "date": "2026-06-22",
       "dateISO": "Mon, 22 Jun 2026 07:00:00 GMT",
       "ts": 1782111600000,
       "scope": "intl",
       "type": "blast",
-      "title": "卡塔尔工厂爆炸已致13人死亡 - 新华网",
+      "title": "卡塔尔工厂爆炸已致13人死亡 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mR2pTX0YxWjBwQ2lLNC1XZjFhd3IwVEYtWkZFR3ZBU3B5RTFHR1BldmQ3OEkxN2NaWTMzYUkwWENDeEliY3dVNEloOExFS1B6SlZQTENHdWVmTWpUM042M2hRcmo4QS1qdl85cXlhZHJ3R3JGTEU4?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-b042a088a326",
+      "id": "FL-dbcf7399ae0d",
       "date": "2026-08-03",
       "dateISO": "Mon, 03 Aug 2026 07:00:00 GMT",
       "ts": 1785740400000,
       "scope": "intl",
       "type": "blast",
-      "title": "巴基斯坦西北部发生爆炸致14人死亡 - 新华网",
+      "title": "巴基斯坦西北部发生爆炸致14人死亡 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-0f5476d1c019",
-      "date": "2026-07-31",
-      "dateISO": "Fri, 31 Jul 2026 07:00:00 GMT",
-      "ts": 1785481200000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "巴基斯坦煤矿爆炸致34人死亡 8人被困 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ic3NaMW5yOHF1MmNnMDRPdThpWHRsY0dpOUl5X1U2aUxyMlZFTkVhN09xTVRmQ3dwcnFZaThTZjd5RXdLS1VLTVgzNGlENnl3T3hOOVBFSmYyajM0cmlxeVduX28xT2U5M1pvbmJfZE94TW00UmpNd2oyTFZFVEE?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -231,15 +231,15 @@
       "siteUrl": "https://whnt.com"
     },
     {
-      "id": "FL-6c21a2dc1f84",
+      "id": "FL-a76f410d6e33",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 11:26:15 GMT",
       "ts": 1790335575000,
       "scope": "dom",
       "type": "blast",
-      "title": "货车司机路遇车祸救出伤者，刚撤离即发生燃爆致烧伤 对话本人：都是跑车的，人没了家就垮了 - 手机新浪网",
+      "title": "货车司机路遇车祸救出伤者，刚撤离即发生燃爆致烧伤 对话本人：都是跑车的，人没了家就垮了 - tech.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01WWtKWkp4MmJiT3F0RXE4RGdmRmZxcHVwbmZBd0thV3NlaDFwY0xrRTZPV1JoRmZNMzl2ZUFsQ21meTNKcFp4Rnk4cG5HTEtERk94NmJpSnprWkVZNjhYV0ZpeklqWVgxQkxGcUdlS3hhbUdJ?oc=5",
-      "site": "手机新浪网",
+      "site": "tech.sina.cn",
       "siteUrl": "https://tech.sina.cn"
     },
     {
@@ -363,15 +363,15 @@
       "siteUrl": "https://k.sina.com.cn"
     },
     {
-      "id": "FL-4ed1ffe514b4",
+      "id": "FL-b16c3e64fcb5",
       "date": "2026-08-21",
       "dateISO": "Fri, 21 Aug 2026 07:00:00 GMT",
       "ts": 1787295600000,
       "scope": "dom",
       "type": "blast",
-      "title": "山东临沂发生爆炸致1人死亡2人失联 - 新华网",
+      "title": "山东临沂发生爆炸致1人死亡2人失联 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5dmp2dW40R0VaSl93N25sLVZHeGFRNGZYdXF5cHJNeVcxWDVadGl6a094ZGxNcVBiMkN2cXhtdG1IQkxYSlk4SEVWc1FlX0Rsc1B4RXhKdHhvV0tfSHpzNDhTQUVRdlBSMjh6c3ZqZ01leGQ0dVVZ?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     }
   ]
