@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T19:17:51.598Z",
+  "updated": "2026-09-25T19:27:01.792Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -99,15 +99,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-bc5a0b5cb5b0",
+      "id": "FL-c2b5e87a66f1",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 03:47:19 GMT",
       "ts": 1789789639000,
       "scope": "intl",
       "type": "blast",
-      "title": "巴基斯坦西北部爆炸已致21死 巴总统称将继续反恐行动 - news.cctv.com",
+      "title": "巴基斯坦西北部爆炸已致21死 巴总统称将继续反恐行动 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JdTVsYVVFWHBSX3JkaE5ocVh2cmtPd0NWVkpmT1EyOENqOGJZcHhnQllGeU9RYThKRTJmYnRVaXpEQ25RcGNGNi1LcmZJUUFnY2Q1cVVpS2dkSW8wQzJfSFI4U3FYMzdXNmJSWm1SdEpsckl2Y190Sg?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -147,6 +147,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-0f5476d1c019",
+      "date": "2026-07-31",
+      "dateISO": "Fri, 31 Jul 2026 07:00:00 GMT",
+      "ts": 1785481200000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "巴基斯坦煤矿爆炸致34人死亡 8人被困 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ic3NaMW5yOHF1MmNnMDRPdThpWHRsY0dpOUl5X1U2aUxyMlZFTkVhN09xTVRmQ3dwcnFZaThTZjd5RXdLS1VLTVgzNGlENnl3T3hOOVBFSmYyajM0cmlxeVduX28xT2U5M1pvbmJfZE94TW00UmpNd2oyTFZFVEE?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
       "id": "FL-006cbf8bfd2c",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 18:39:57 GMT",
@@ -159,15 +171,27 @@
       "siteUrl": "https://www.unocha.org"
     },
     {
-      "id": "FL-187decb549fb",
+      "id": "FL-35d011d29d78",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 18:31:38 GMT",
+      "ts": 1790361098000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Two people killed in Hazel Green home explosion - WBMA",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTzZBbzdKRDV0QlFLS3FLUjBveGNwQjBSVDB0WmRCakN5NHRQNVl3ZU5tZHVMYlY5LXo3dUFaY29pS0dKX2RmTzgybHJKNGFmZlpKS0lNaVpzYWI5X0NsNUpoMUVUQlVLcDJxRjJHSVNjeG1fZ3ZLMzM3RkFxWmVTRmM4TXg?oc=5",
+      "site": "WBMA",
+      "siteUrl": "https://abc3340.com"
+    },
+    {
+      "id": "FL-c458d90c0060",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 15:45:00 GMT",
       "ts": 1790351100000,
       "scope": "intl",
       "type": "blast",
-      "title": "Blast near Acropolis in Greece injures 2, collapses a building. Local media say gas leak suspected - apnews.com",
+      "title": "Blast near Acropolis in Greece injures 2, collapses a building. Local media say gas leak suspected - AP News",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbHpYeFRfTzkwWnNjOVNuZHY5SndUSXAtMXdFZjhQSkZ6MUUxV1NCX01TYUVRTV9kb1N1d2NPVjJqd2d4aDNnQm9CdnQtX1Yza0lJOXJpOTNmMmZscXVvcFpZdkk2TVRaTUVLRGJkQ2h5YnBUNlJVNV91RkpaVHdOeE5EU2d5dUE5T2l1eklHbWgwUVZiWXJSenp6OUdwcEZ5?oc=5",
-      "site": "apnews.com",
+      "site": "AP News",
       "siteUrl": "https://apnews.com"
     },
     {
@@ -183,15 +207,15 @@
       "siteUrl": "https://gbcode.rthk.hk"
     },
     {
-      "id": "FL-31d313973515",
+      "id": "FL-25f05720b8fe",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 13:35:00 GMT",
       "ts": 1790343300000,
       "scope": "intl",
       "type": "blast",
-      "title": "克罗地亚批准将“北溪”爆炸案嫌疑人引渡至德国 - 紫牛新闻",
+      "title": "克罗地亚批准将“北溪”爆炸案嫌疑人引渡至德国 - yzwb.net",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SYjNkNFJtM090Qk9MYnE3NnhXZWtMazZsYUZKVTZBSWRXNV8tcUtfQm5wQmMyNm5VXzVPRVRXQXpVdHNJd1o0UWY4dWp6cW5wdFhkV2ZnOEFuaWNGNTVqOFdkX3VjdkhQWWc?oc=5",
-      "site": "紫牛新闻",
+      "site": "yzwb.net",
       "siteUrl": "https://www.yzwb.net"
     },
     {
@@ -267,15 +291,15 @@
       "siteUrl": "https://www.8world.com"
     },
     {
-      "id": "FL-6406b2d4a6da",
+      "id": "FL-dd4e14503ca4",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 09:49:43 GMT",
       "ts": 1790329783000,
       "scope": "intl",
       "type": "blast",
-      "title": "印度试射新型防空导弹 发射失败变“呲花” 从发射筒掉落后在地上“打滚” 但并未发生爆炸 - 搜狐网",
+      "title": "印度试射新型防空导弹 发射失败变“呲花” 从发射筒掉落后在地上“打滚” 但并未发生爆炸 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcFotdThBSmdQZGZxeWJ2SUp0MDAzcWNSazBZN1dsSmNUZlhuQXhxZnEtemlOcWM2M1pQd1I1am1WT0F3bW9rakVjYVl1QzZuOW03V1Nkc08ybTJBMUhTWkZRNEktVzZ5N1VlTURxQUVSVFlZdHRGUHllRnFrU0FPUGVGbG5CMFZQ?oc=5",
-      "site": "搜狐网",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -303,18 +327,6 @@
       "siteUrl": "https://mil.ifeng.com"
     },
     {
-      "id": "FL-47cd92fd452f",
-      "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 06:14:55 GMT",
-      "ts": 1790316895000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "面粉粉尘爆炸模型实验中儿童类比推理的实证研究 - 生物通",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10aGs3YWM5RnBlZ2E5UmZldThZMktGN080aV9fVlRwYXFPRklNQm1HNWlvbm1NUUdXX3FZY0c1enljOHVQaWw0R3BsQlVGelBkcTZocXNYZzBTemFuQkdQWEhadzlSTmk3ZHV6cg?oc=5",
-      "site": "生物通",
-      "siteUrl": "https://www.ebiotrade.com"
-    },
-    {
       "id": "FL-3d0673562f63",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 06:14:00 GMT",
@@ -339,27 +351,27 @@
       "siteUrl": "https://sports.sina.cn"
     },
     {
-      "id": "FL-6b068d02fc48",
+      "id": "FL-d4f9f6532d06",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 01:32:30 GMT",
       "ts": 1790299950000,
       "scope": "intl",
       "type": "blast",
-      "title": "外媒：叙利亚北部一军事设施发生剧烈爆炸，造成至少4人受伤 - 搜狐网",
+      "title": "外媒：叙利亚北部一军事设施发生剧烈爆炸，造成至少4人受伤 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRHJ5N1ZKM0VIR0RZdXVGZE80MDJBUnRsTzRDZHI2TG9fZnRLa0pncXdzdUdxZFplSEJ0bVVydDMxMXdrVFVYZDVMdkxCTmxROG5QSkFtby1TV2VoQ2JETWlDX1pZOTJydndCYy1MWUFQSGc3RDNnd0pXUmJGTGhzdklSQi05N2Zp?oc=5",
-      "site": "搜狐网",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-9f35ddfd7844",
+      "id": "FL-310857ceb8ae",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 01:28:24 GMT",
       "ts": 1790299704000,
       "scope": "intl",
       "type": "blast",
-      "title": "利雅得遭空袭，直播记录拦截导弹爆炸声 - k.sina.com.cn",
+      "title": "利雅得遭空袭，直播记录拦截导弹爆炸声 - 手机新浪网",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ya3lQcnE5WW9vNGZVbVliMkt5ZndNSTl2MWJCYU9peXVWY0xTQ1FHNUVhaTBhWUE0MEQ2MmV6a0ZySHpsQjFycGwtX1NVY3dqbkxSWGx6c1hlQThBUE9ZYkhaUHd1bkRsSHRnSlVVQnBWYVU?oc=5",
-      "site": "k.sina.com.cn",
+      "site": "手机新浪网",
       "siteUrl": "https://k.sina.com.cn"
     },
     {
