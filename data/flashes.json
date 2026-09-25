@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T05:02:29.127Z",
+  "updated": "2026-09-25T05:18:53.404Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -171,6 +171,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-4e2c693a8b78",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 04:57:04 GMT",
+      "ts": 1790312224000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "燃爆现场！烟台理工学院2026年度美育实践暨迎新生文艺晚会 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVWxCV1daUUJtN0VGcnFCQ0xzYmtBOXBZcDZiX1FvOXhXTTFhQWFJQXo1dnFDV3JIRXRMN0RCQVlodjg5VGFPWDJuVjRtNmF4QV9EUmN3RkMzVHFOdTMzNUs5anNhYTRRUEpMb1pMYXVWN0VGNGh6dGNPSGdwZ3FJN1FJMWZjRml5X3pmeQ?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-08f272d82dab",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 03:25:12 GMT",
@@ -207,14 +219,14 @@
       "siteUrl": "https://k.sina.com.cn"
     },
     {
-      "id": "FL-4ed1ffe514b4",
-      "date": "2026-08-21",
-      "dateISO": "Fri, 21 Aug 2026 07:00:00 GMT",
-      "ts": 1787295600000,
+      "id": "FL-f8d54aa0664a",
+      "date": "2026-06-05",
+      "dateISO": "Fri, 05 Jun 2026 07:00:00 GMT",
+      "ts": 1780642800000,
       "scope": "dom",
       "type": "blast",
-      "title": "山东临沂发生爆炸致1人死亡2人失联 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5dmp2dW40R0VaSl93N25sLVZHeGFRNGZYdXF5cHJNeVcxWDVadGl6a094ZGxNcVBiMkN2cXhtdG1IQkxYSlk4SEVWc1FlX0Rsc1B4RXhKdHhvV0tfSHpzNDhTQUVRdlBSMjh6c3ZqZ01leGQ0dVVZ?oc=5",
+      "title": "辽宁本溪一商铺发生爆炸 已造成2死13伤 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43V0ZoNkJhODJub25JMEVOZGo2MkJycVQ1LW42UGhiRDBtS1NvczFuRm5mQUw5bHhXOTlqNjdqSTBJTDJEcUswMFdIWExWdWxleGhVZnllOVdXTUt6eF9KNVdxVzA3cDhHUTJHZTk3NkNsbHhtaWVIbFc5MDkyUlU?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
     }
