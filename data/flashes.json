@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T03:03:22.234Z",
+  "updated": "2026-09-25T03:18:44.720Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -63,15 +63,15 @@
       "siteUrl": "https://www.latimes.com"
     },
     {
-      "id": "FL-75ad25e28af3",
+      "id": "FL-c43cc5d24219",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 10:27:25 GMT",
       "ts": 1790245645000,
       "scope": "dom",
       "type": "blast",
-      "title": "“上海化工园区发生大爆炸”不实 造谣者被行政处罚 - 中华网",
+      "title": "“上海化工园区发生大爆炸”不实 造谣者被行政处罚 - news.china.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jMTVDWDRjc1owMEV4N3ZlTHd0Z2kyUDNudFVGc2xSM1F6MGtZMGRsS281dFRhMWo1MTVJUWtBZzA0TEdrWGs0ajBOMmtVVkMtTjJhRjRMM2EyZG9Ldm13MWN2Y2NiU3BZUHN5Q1B5RVI?oc=5",
-      "site": "中华网",
+      "site": "news.china.com",
       "siteUrl": "https://news.china.com"
     },
     {
@@ -147,6 +147,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-a461a34d6dac",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 11:34:00 GMT",
+      "ts": 1789817640000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "叙利亚东部爆炸致过渡政府国防部11人死亡 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1EV01zWEg5WTZCQmtLS0phVFI3dnhGbF9fQURDb2ZDWHF3dTlKSEpIc0pwYXJITlJZb3lIN1MwdzlzQnFzdzhIRFBWaUoyWnJjZVZjSU1rRE9ZYWdoV21sbjY3RURRTkF3d3duWXg2QjlSQQ?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://xinwen.bjd.com.cn"
+    },
+    {
       "id": "FL-c2b5e87a66f1",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 03:47:19 GMT",
@@ -181,6 +193,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-ecfb7654d30d",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 03:03:54 GMT",
+      "ts": 1790305434000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "效率爆炸！阿贾·威尔逊上半场16分钟13中10狂轰21分 正负值+23 - 直播吧",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1IMmFvdkNxdXdjQmtSWC16MHRYMVpjb0pvb01WLWRVMWV5QlQyNF9RUzRRLXY0dWt4ODZNZHpWUkhTSEg2QjJtNWREZEUxdVVjR0dEVDU0R2UwT0FhTlBJcE9jdW54bUYzdUJYY2ZiNFp2VFFGUzhV?oc=5",
+      "site": "直播吧",
+      "siteUrl": "https://m.zhibo8.com"
     },
     {
       "id": "FL-6b068d02fc48",
@@ -219,14 +243,14 @@
       "siteUrl": "https://www.spokesman.com"
     },
     {
-      "id": "FL-4ed1ffe514b4",
-      "date": "2026-08-21",
-      "dateISO": "Fri, 21 Aug 2026 07:00:00 GMT",
-      "ts": 1787295600000,
+      "id": "FL-f8d54aa0664a",
+      "date": "2026-06-05",
+      "dateISO": "Fri, 05 Jun 2026 07:00:00 GMT",
+      "ts": 1780642800000,
       "scope": "dom",
       "type": "blast",
-      "title": "山东临沂发生爆炸致1人死亡2人失联 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5dmp2dW40R0VaSl93N25sLVZHeGFRNGZYdXF5cHJNeVcxWDVadGl6a094ZGxNcVBiMkN2cXhtdG1IQkxYSlk4SEVWc1FlX0Rsc1B4RXhKdHhvV0tfSHpzNDhTQUVRdlBSMjh6c3ZqZ01leGQ0dVVZ?oc=5",
+      "title": "辽宁本溪一商铺发生爆炸 已造成2死13伤 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43V0ZoNkJhODJub25JMEVOZGo2MkJycVQ1LW42UGhiRDBtS1NvczFuRm5mQUw5bHhXOTlqNjdqSTBJTDJEcUswMFdIWExWdWxleGhVZnllOVdXTUt6eF9KNVdxVzA3cDhHUTJHZTk3NkNsbHhtaWVIbFc5MDkyUlU?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
     }
