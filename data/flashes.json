@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T09:55:44.186Z",
+  "updated": "2026-09-25T10:02:20.712Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -25,18 +25,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fOUNOVy1jMjYtRHRacDFONmZLdmtlUTBvcjVNX0xwMG9rc2lwYkV4ZzRCOFVIVmdNLXdZcUo3Mkw1UnI3elZsRjNGblI4YTBsMGxPeHJCRnZSNWE0dXNTdXRxcUQ?oc=5",
       "site": "财新",
       "siteUrl": "https://science.caixin.com"
-    },
-    {
-      "id": "FL-75ad25e28af3",
-      "date": "2026-09-24",
-      "dateISO": "Thu, 24 Sep 2026 10:27:25 GMT",
-      "ts": 1790245645000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "“上海化工园区发生大爆炸”不实 造谣者被行政处罚 - 中华网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jMTVDWDRjc1owMEV4N3ZlTHd0Z2kyUDNudFVGc2xSM1F6MGtZMGRsS281dFRhMWo1MTVJUWtBZzA0TEdrWGs0ajBOMmtVVkMtTjJhRjRMM2EyZG9Ldm13MWN2Y2NiU3BZUHN5Q1B5RVI?oc=5",
-      "site": "中华网",
-      "siteUrl": "https://news.china.com"
     },
     {
       "id": "FL-1039b268f739",
@@ -135,6 +123,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-a45a2fd5224c",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 09:48:12 GMT",
+      "ts": 1790329692000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "以军无人机在加沙坠毁后爆炸，两名以士兵死亡 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PdWJnUGkyT2V3QTZkclZEdGg4UzEwVFI2NVd1ek0tMEFkQUJHRGNXaF9xbFhQVVdNTm9Ia0pBYVFEUl8zX1VlMlRWTjNJSlQ3R21PQXZQYzI4NGF1T1E?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
       "id": "FL-9f4e496eaeb4",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 09:32:13 GMT",
@@ -147,25 +147,25 @@
       "siteUrl": "https://i.ifeng.com"
     },
     {
-      "id": "FL-b26f7c125e02",
+      "id": "FL-488e1042097f",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 07:31:38 GMT",
       "ts": 1790321498000,
       "scope": "dom",
       "type": "blast",
-      "title": "因无人机爆炸，2名以军士兵在加沙地带死亡 - finance.sina.com.cn",
+      "title": "因无人机爆炸，2名以军士兵在加沙地带死亡 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRVJSaGVSa3hqME14dlFuOFVKcFpWZjRDN0o4d1ZJLWUzZlp5d0ZGUGpmSHd0Y2Z1X3Bfd0MxeHVDLV92T2w4Sm1pbmxQejhhSjN4T3FKWVA5ajVLbU10bGxDaTZ1dHoxUGNCVjE0YTJqU29VejRNOF9sS2F1THZTY3hlckxwQ05rMjdVczJySlRnS1M2MzBvSWtzUEtnYnIx?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-b4d370f80948",
+      "id": "FL-a373dd7630e2",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 06:56:28 GMT",
       "ts": 1790319388000,
       "scope": "intl",
       "type": "blast",
-      "title": "Building in central Athens collapses after explosion, two women rescued - Euronews.com",
+      "title": "Building in Athens collapses after explosion, two women rescued - Euronews.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbmdqQWhDWUozS2Izdmt6VU5McmdJaE14bDRaaElESTA0aEJTUmZEV216aGxLOEFqRzcyYjVSRHdkRW9lckkxVzh1WV9wX3FKb0xPT1R3SkpoSkIxNmNIUHgtelZYbG15THJZQ0hlY0ZUVEJTaEpyRmoxellOYnpFTl9XamstS1RUZnYzU1Y1eEM1MGQzQmtja1dROFUzbGUweWdZYVAtTDladw?oc=5",
       "site": "Euronews.com",
       "siteUrl": "https://www.euronews.com"
@@ -195,15 +195,15 @@
       "siteUrl": "https://www.ebiotrade.com"
     },
     {
-      "id": "FL-ffe2cf5d1fc8",
+      "id": "FL-1f988738d177",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 06:14:00 GMT",
       "ts": 1790316840000,
       "scope": "intl",
       "type": "blast",
-      "title": "Explosion fells building in heart of touristic Athens, three injured - reuters.com",
+      "title": "Explosion fells building in heart of touristic Athens, three injured - Reuters",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN0NMa2RSeHd2Wno4eHdfUWJYQmxaVkRRX0taclo4bTlxWkFDUTFqQ1lDUTNrN0RRdzZocVBPMi13b2swcGo2LUZacGl1SHFZRi1pblpNZk9SUGhmN0FJOWpUaVE5NmJqVnBpYlJyUWkwTmQzWlVQNXRMblVweHpVY1JTVmxaeTRYa3Vnak9ob2swSnQtMG1nUzVibmdKcUVwNHdWemlpekJ0WmxGZkJWTHJR?oc=5",
-      "site": "reuters.com",
+      "site": "Reuters",
       "siteUrl": "https://www.reuters.com"
     },
     {
@@ -219,15 +219,15 @@
       "siteUrl": "https://www.jpost.com"
     },
     {
-      "id": "FL-4e2c693a8b78",
+      "id": "FL-5d256df3c6ad",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 04:57:04 GMT",
       "ts": 1790312224000,
       "scope": "dom",
       "type": "blast",
-      "title": "燃爆现场！烟台理工学院2026年度美育实践暨迎新生文艺晚会 - 搜狐网",
+      "title": "燃爆现场！烟台理工学院2026年度美育实践暨迎新生文艺晚会 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVWxCV1daUUJtN0VGcnFCQ0xzYmtBOXBZcDZiX1FvOXhXTTFhQWFJQXo1dnFDV3JIRXRMN0RCQVlodjg5VGFPWDJuVjRtNmF4QV9EUmN3RkMzVHFOdTMzNUs5anNhYTRRUEpMb1pMYXVWN0VGNGh6dGNPSGdwZ3FJN1FJMWZjRml5X3pmeQ?oc=5",
-      "site": "搜狐网",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -243,39 +243,39 @@
       "siteUrl": "https://sports.sina.cn"
     },
     {
-      "id": "FL-c0e0d9660fd2",
+      "id": "FL-cf7e48cff25f",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 01:52:00 GMT",
       "ts": 1790301120000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典市中心一栋建筑爆炸后部分坍塌——《耶路撒冷邮报》 - ua.news",
+      "title": "雅典市中心一栋建筑爆炸后部分坍塌——《耶路撒冷邮报》 - UA.NEWS",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb3g3a2FOQW9nY191S3ZOMjNnM0ZudWxURTlvZHJIbG9QRU82M0tyVUJRZXEyOWtYZWJERFQwZzA2ZzA3ck5qbU5rUGR3ajRyMjV2N3RtVnk0Rmp5TXRpdkNmS1o4RjVjQjZLc0pUanBpUGdyNkJENlpZam5ld2lGUWxTUjd6YXdUSUtZb0ZOYXphelNDa0RVUy1nRmFOT3IyaVE?oc=5",
-      "site": "ua.news",
+      "site": "UA.NEWS",
       "siteUrl": "https://ua.news"
     },
     {
-      "id": "FL-6b068d02fc48",
+      "id": "FL-d4f9f6532d06",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 01:32:30 GMT",
       "ts": 1790299950000,
       "scope": "intl",
       "type": "blast",
-      "title": "外媒：叙利亚北部一军事设施发生剧烈爆炸，造成至少4人受伤 - 搜狐网",
+      "title": "外媒：叙利亚北部一军事设施发生剧烈爆炸，造成至少4人受伤 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRHJ5N1ZKM0VIR0RZdXVGZE80MDJBUnRsTzRDZHI2TG9fZnRLa0pncXdzdUdxZFplSEJ0bVVydDMxMXdrVFVYZDVMdkxCTmxROG5QSkFtby1TV2VoQ2JETWlDX1pZOTJydndCYy1MWUFQSGc3RDNnd0pXUmJGTGhzdklSQi05N2Zp?oc=5",
-      "site": "搜狐网",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-9f35ddfd7844",
+      "id": "FL-310857ceb8ae",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 01:28:24 GMT",
       "ts": 1790299704000,
       "scope": "intl",
       "type": "blast",
-      "title": "利雅得遭空袭，直播记录拦截导弹爆炸声 - k.sina.com.cn",
+      "title": "利雅得遭空袭，直播记录拦截导弹爆炸声 - 手机新浪网",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ya3lQcnE5WW9vNGZVbVliMkt5ZndNSTl2MWJCYU9peXVWY0xTQ1FHNUVhaTBhWUE0MEQ2MmV6a0ZySHpsQjFycGwtX1NVY3dqbkxSWGx6c1hlQThBUE9ZYkhaUHd1bkRsSHRnSlVVQnBWYVU?oc=5",
-      "site": "k.sina.com.cn",
+      "site": "手机新浪网",
       "siteUrl": "https://k.sina.com.cn"
     },
     {
