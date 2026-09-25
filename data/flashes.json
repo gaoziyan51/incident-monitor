@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-25T10:54:44.424Z",
+  "updated": "2026-09-25T11:01:54.466Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-266309055c56",
+      "date": "2026-06-03",
+      "dateISO": "Wed, 03 Jun 2026 07:00:00 GMT",
+      "ts": 1780470000000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "特别重大瓦斯爆炸事故后 山西煤矿迎来“最严整治” - cpnn.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tM3B2anpUNmRxVVRfUk0yOVBuN2ZDNU9uQUJXWEljSEFEX3FXVU5QUWVXZEh0b3drdU5fNXlkXzRvdURYaDZJYXRkN0hUWXJoRXBPcXVud2NpLWRLQUxpMXZTYU5DNnRYbGQ5TVlR?oc=5",
+      "site": "cpnn.com.cn",
+      "siteUrl": "https://www.cpnn.com.cn"
+    },
     {
       "id": "FL-385dd58b908a",
       "date": "2026-08-11",
@@ -111,15 +123,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-ead3f4123afd",
+      "id": "FL-0bb137cdaec6",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 10:45:00 GMT",
       "ts": 1790333100000,
       "scope": "dom",
       "type": "blast",
-      "title": "货车司机路遇车祸救出伤者，刚撤离即发生燃爆致烧伤 对话本人：都是跑车的，人没了家就垮了 - 搜狐网",
+      "title": "货车司机路遇车祸救出伤者，刚撤离即发生燃爆致烧伤 对话本人：都是跑车的，人没了家就垮了 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTV9STFBGNWhUa3pMTi03d1JaOS1CeWVjMTBBZXQzWDdkOHVqVmR4MW9XVFp5elFTVUZBRnRtUlZ3a0U4ckNuM1NtRDNEYzFaWU1CZDhJUUpYT240YlpWbHdzRUFEaG5GQkhWY1U4bnJmVVd1bjhodFljTjlMT1M5VEM2RFI2MzZYZ1FXcA?oc=5",
-      "site": "搜狐网",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -159,6 +171,18 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
+      "id": "FL-5280c2adf622",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 07:43:29 GMT",
+      "ts": 1790322209000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Two reservists killed in IDF drone explosion accident during operations in Gaza - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMExBRmZ1VDU5LUw4ZzRSSElPZ1NldUF4bVViYzJfWWtGblVsTWt0YmQwdG9BcGl3cFpHdzhuRXVDUm1BTk1HaENrU3NVUjFTREozdmlsU21qeDBQeW1lekxkbmRVTG1xUDlrS2pFSGFIRFZva3pFTTg3cF90V3BSUkZQbzhFcEFlVDlYQ0VyYUE2VlNiUzdhYlBWMW8wb1hKTk9Fc3RZbkM1TVVXRVBr0gG0AUFVX3lxTE1pLXRYUWh1QTFiTWdMS2lrdDhiQ0J2ODNYSmtjOFZlS1JNek5DaGVHMWhhT3JZZ2FCVVFUcFZVY2dvZDRuX3gtM2VWUml0UkZZSDZfNmtqVU9iYnh0TXdRU1ZCdE9LbTFfMGtVa24wN2VqX0VGMWNUX3NiNFpHcTZXbi0xZWhIZzVIN2tsaEQ1d3ZlVlhJcmlIeWtyeE16d0V6RUpxdUxYNGJJZDdPQXRzMFJJag?oc=5",
+      "site": "The Times of Israel",
+      "siteUrl": "https://www.timesofisrael.com"
+    },
+    {
       "id": "FL-a373dd7630e2",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 06:56:28 GMT",
@@ -195,63 +219,63 @@
       "siteUrl": "https://www.ebiotrade.com"
     },
     {
-      "id": "FL-fcb5ad015abb",
+      "id": "FL-97ec8aa52658",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 05:47:14 GMT",
       "ts": 1790315234000,
       "scope": "intl",
       "type": "blast",
-      "title": "One injured, five trapped after explosion in central Athens caused a building to collapse - jpost.com",
+      "title": "One injured, five trapped after explosion in central Athens caused a building to collapse - The Jerusalem Post",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00WExTNkt4U2Y2Q3R2YmZGSDhjM3hNbmtEMEVhUWM2XzNQOFJzQ0RxcVRKbDNPdU56amx2VFhzN0FEMjhuY01tZXJ3T0gyU2Y4ZDdPMVhqR1F6RWx2d2RR?oc=5",
-      "site": "jpost.com",
+      "site": "The Jerusalem Post",
       "siteUrl": "https://www.jpost.com"
     },
     {
-      "id": "FL-4e2c693a8b78",
+      "id": "FL-5d256df3c6ad",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 04:57:04 GMT",
       "ts": 1790312224000,
       "scope": "dom",
       "type": "blast",
-      "title": "燃爆现场！烟台理工学院2026年度美育实践暨迎新生文艺晚会 - 搜狐网",
+      "title": "燃爆现场！烟台理工学院2026年度美育实践暨迎新生文艺晚会 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVWxCV1daUUJtN0VGcnFCQ0xzYmtBOXBZcDZiX1FvOXhXTTFhQWFJQXo1dnFDV3JIRXRMN0RCQVlodjg5VGFPWDJuVjRtNmF4QV9EUmN3RkMzVHFOdTMzNUs5anNhYTRRUEpMb1pMYXVWN0VGNGh6dGNPSGdwZ3FJN1FJMWZjRml5X3pmeQ?oc=5",
-      "site": "搜狐网",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-08f272d82dab",
+      "id": "FL-77a82b35e76f",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 03:25:12 GMT",
       "ts": 1790306712000,
       "scope": "dom",
       "type": "blast",
-      "title": "效率爆炸！阿贾·威尔逊上半场16分钟13中10狂轰21分 正负值+23 - Sina Sports",
+      "title": "效率爆炸！阿贾·威尔逊上半场16分钟13中10狂轰21分 正负值+23 - sports.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTi1nOWVFaDgtY2lnV0I3RzNOY3hOdENuSDhZZFJBTG1YeVVEOGZBVDQ4VkRBSVBBVmwtUmxJVS1DNlBmbTFhdXJFTzJVay1aaVBacHd0ZndPZm5zUnNWeHh2eTZPd19oOWkyWElOYXZaMjlpR3VBSlRoZkFyS0xIMG15RjY?oc=5",
-      "site": "Sina Sports",
+      "site": "sports.sina.cn",
       "siteUrl": "https://sports.sina.cn"
     },
     {
-      "id": "FL-6b068d02fc48",
+      "id": "FL-d4f9f6532d06",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 01:32:30 GMT",
       "ts": 1790299950000,
       "scope": "intl",
       "type": "blast",
-      "title": "外媒：叙利亚北部一军事设施发生剧烈爆炸，造成至少4人受伤 - 搜狐网",
+      "title": "外媒：叙利亚北部一军事设施发生剧烈爆炸，造成至少4人受伤 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRHJ5N1ZKM0VIR0RZdXVGZE80MDJBUnRsTzRDZHI2TG9fZnRLa0pncXdzdUdxZFplSEJ0bVVydDMxMXdrVFVYZDVMdkxCTmxROG5QSkFtby1TV2VoQ2JETWlDX1pZOTJydndCYy1MWUFQSGc3RDNnd0pXUmJGTGhzdklSQi05N2Zp?oc=5",
-      "site": "搜狐网",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-310857ceb8ae",
+      "id": "FL-9f35ddfd7844",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 01:28:24 GMT",
       "ts": 1790299704000,
       "scope": "intl",
       "type": "blast",
-      "title": "利雅得遭空袭，直播记录拦截导弹爆炸声 - 手机新浪网",
+      "title": "利雅得遭空袭，直播记录拦截导弹爆炸声 - k.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ya3lQcnE5WW9vNGZVbVliMkt5ZndNSTl2MWJCYU9peXVWY0xTQ1FHNUVhaTBhWUE0MEQ2MmV6a0ZySHpsQjFycGwtX1NVY3dqbkxSWGx6c1hlQThBUE9ZYkhaUHd1bkRsSHRnSlVVQnBWYVU?oc=5",
-      "site": "手机新浪网",
+      "site": "k.sina.com.cn",
       "siteUrl": "https://k.sina.com.cn"
     },
     {
