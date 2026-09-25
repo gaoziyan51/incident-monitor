@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T03:18:44.720Z",
+  "updated": "2026-09-25T03:29:59.203Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -63,15 +63,15 @@
       "siteUrl": "https://www.latimes.com"
     },
     {
-      "id": "FL-c43cc5d24219",
+      "id": "FL-75ad25e28af3",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 10:27:25 GMT",
       "ts": 1790245645000,
       "scope": "dom",
       "type": "blast",
-      "title": "“上海化工园区发生大爆炸”不实 造谣者被行政处罚 - news.china.com",
+      "title": "“上海化工园区发生大爆炸”不实 造谣者被行政处罚 - 中华网",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jMTVDWDRjc1owMEV4N3ZlTHd0Z2kyUDNudFVGc2xSM1F6MGtZMGRsS281dFRhMWo1MTVJUWtBZzA0TEdrWGs0ajBOMmtVVkMtTjJhRjRMM2EyZG9Ldm13MWN2Y2NiU3BZUHN5Q1B5RVI?oc=5",
-      "site": "news.china.com",
+      "site": "中华网",
       "siteUrl": "https://news.china.com"
     },
     {
@@ -195,6 +195,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-08f272d82dab",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 03:25:12 GMT",
+      "ts": 1790306712000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "效率爆炸！阿贾·威尔逊上半场16分钟13中10狂轰21分 正负值+23 - Sina Sports",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWnM5MXlmSDg3R3hzeWxKa0o1aEhtUVQyZFFYdTVOcFVKYUhmNmpxZkdncnlBaG5UVnlDRFhnVVRyWnR6TV9DaEdhLXBZQ2x5Z2ZyTjQydTJVYWQxTW1QaGZkZ2JRQzYwc19LQk1nclhjSXBwWUQ4Mmc1b1hrbkRJX0FiX0w?oc=5",
+      "site": "Sina Sports",
+      "siteUrl": "https://sports.sina.com.cn"
+    },
+    {
       "id": "FL-ecfb7654d30d",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 03:03:54 GMT",
@@ -207,15 +219,15 @@
       "siteUrl": "https://m.zhibo8.com"
     },
     {
-      "id": "FL-6b068d02fc48",
+      "id": "FL-d4f9f6532d06",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 01:32:30 GMT",
       "ts": 1790299950000,
       "scope": "intl",
       "type": "blast",
-      "title": "外媒：叙利亚北部一军事设施发生剧烈爆炸，造成至少4人受伤 - 搜狐网",
+      "title": "外媒：叙利亚北部一军事设施发生剧烈爆炸，造成至少4人受伤 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRHJ5N1ZKM0VIR0RZdXVGZE80MDJBUnRsTzRDZHI2TG9fZnRLa0pncXdzdUdxZFplSEJ0bVVydDMxMXdrVFVYZDVMdkxCTmxROG5QSkFtby1TV2VoQ2JETWlDX1pZOTJydndCYy1MWUFQSGc3RDNnd0pXUmJGTGhzdklSQi05N2Zp?oc=5",
-      "site": "搜狐网",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
