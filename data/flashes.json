@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T20:53:59.919Z",
+  "updated": "2026-09-25T21:02:00.734Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -171,16 +171,40 @@
       "siteUrl": "http://k.sina.com.cn"
     },
     {
-      "id": "FL-c458d90c0060",
+      "id": "FL-7005ed608ceb",
       "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 15:45:00 GMT",
-      "ts": 1790351100000,
+      "dateISO": "Fri, 25 Sep 2026 20:16:18 GMT",
+      "ts": 1790367378000,
       "scope": "intl",
       "type": "blast",
-      "title": "Blast near Acropolis in Greece injures 2, collapses a building. Local media say gas leak suspected - AP News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbHpYeFRfTzkwWnNjOVNuZHY5SndUSXAtMXdFZjhQSkZ6MUUxV1NCX01TYUVRTV9kb1N1d2NPVjJqd2d4aDNnQm9CdnQtX1Yza0lJOXJpOTNmMmZscXVvcFpZdkk2TVRaTUVLRGJkQ2h5YnBUNlJVNV91RkpaVHdOeE5EU2d5dUE5T2l1eklHbWgwUVZiWXJSenp6OUdwcEZ5?oc=5",
-      "site": "AP News",
-      "siteUrl": "https://apnews.com"
+      "title": "6 People Are Missing After Explosion in Athens Tourist District - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVXJHLWNEZ2cxNzZRN3MxdnZ4N1NOZ3dpaWZSZTFaVjl2MlFNRHRJdEhkUkpST3JNTGV0NXJMWlJLeVl6MHNXZkpJemQ1dERYZ2dOOW1LWXpIUmdNUFdOZ3JDSkpZUExIVlQxbUhDZ0l4eW1kc3A1REI3UWhPWExySHlWV08?oc=5",
+      "site": "The New York Times",
+      "siteUrl": "https://www.nytimes.com"
+    },
+    {
+      "id": "FL-5280c2adf622",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 19:16:05 GMT",
+      "ts": 1790363765000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Two reservists killed in IDF drone explosion accident during operations in Gaza - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMExBRmZ1VDU5LUw4ZzRSSElPZ1NldUF4bVViYzJfWWtGblVsTWt0YmQwdG9BcGl3cFpHdzhuRXVDUm1BTk1HaENrU3NVUjFTREozdmlsU21qeDBQeW1lekxkbmRVTG1xUDlrS2pFSGFIRFZva3pFTTg3cF90V3BSUkZQbzhFcEFlVDlYQ0VyYUE2VlNiUzdhYlBWMW8wb1hKTk9Fc3RZbkM1TVVXRVBr0gG0AUFVX3lxTE1pLXRYUWh1QTFiTWdMS2lrdDhiQ0J2ODNYSmtjOFZlS1JNek5DaGVHMWhhT3JZZ2FCVVFUcFZVY2dvZDRuX3gtM2VWUml0UkZZSDZfNmtqVU9iYnh0TXdRU1ZCdE9LbTFfMGtVa24wN2VqX0VGMWNUX3NiNFpHcTZXbi0xZWhIZzVIN2tsaEQ1d3ZlVlhJcmlIeWtyeE16d0V6RUpxdUxYNGJJZDdPQXRzMFJJag?oc=5",
+      "site": "The Times of Israel",
+      "siteUrl": "https://www.timesofisrael.com"
+    },
+    {
+      "id": "FL-f8c80caf0129",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 17:42:00 GMT",
+      "ts": 1790358120000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Two dead following house explosion in Hazel Green - WAFF",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNjJvQW41RXkwQ0pyVEVfUXU5bEM1RFh4Wm9QX1c0YXRUejU3LVNHVFZnSTUzT25WTG1YWU1rbjhrNG0tdVV3TVVWVGRfLVdjSFJQejZubVRVV25LSHlHZWc1UTdrQ3FEdmtKVkgyNk1iU3pnVUpTVTlheFpmVzBLdkdRYmNTVnBOaG1WMlhR?oc=5",
+      "site": "WAFF",
+      "siteUrl": "https://www.waff.com"
     },
     {
       "id": "FL-71289029d840",
@@ -195,28 +219,16 @@
       "siteUrl": "https://gbcode.rthk.hk"
     },
     {
-      "id": "FL-31d313973515",
+      "id": "FL-2f8b191f3aba",
       "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 13:35:00 GMT",
-      "ts": 1790343300000,
+      "dateISO": "Fri, 25 Sep 2026 13:56:57 GMT",
+      "ts": 1790344617000,
       "scope": "intl",
       "type": "blast",
-      "title": "克罗地亚批准将“北溪”爆炸案嫌疑人引渡至德国 - 紫牛新闻",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SYjNkNFJtM090Qk9MYnE3NnhXZWtMazZsYUZKVTZBSWRXNV8tcUtfQm5wQmMyNm5VXzVPRVRXQXpVdHNJd1o0UWY4dWp6cW5wdFhkV2ZnOEFuaWNGNTVqOFdkX3VjdkhQWWc?oc=5",
-      "site": "紫牛新闻",
-      "siteUrl": "https://www.yzwb.net"
-    },
-    {
-      "id": "FL-954af0c22038",
-      "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 12:01:56 GMT",
-      "ts": 1790337716000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "An explosion near the Acropolis in Greece injures at least 2 people and collapses a building - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNblRzMEh2alZ5bmUwb1BjVkVHYkc2TWIyYXE5cld4QVlRTzVJQnVENENZM05IU3V3dEtvb2ZqYk1lWE9PdDFYN1VwVm1qaEdIaXBRZElJemVwdTFjNy1MaUpIcmN0NzRQT1B4QkV3enRyYUpYT0JhTmZXT1pjNVpKNU85SFYxQnZLbUNwNVhMY0gzQ0huZGVEWTVYbnpiSThLZ1ZVZGNlNnRtSDdQVkppeWJqZ1JfejTSAbwBQVVfeXFMTjNSNkU1ekswek95MnVVbFQ4M0NWaTVYd0hVRzBzU1dpSXRNUkQzYlBYcnBPdGNId0lRWDBDYmZ0MzFGY3I2YjFjZjNILTVpZklMRVVVWUdQLU9WdEMwQ1p2Tk50c0k5YWRQSFJPNEpyYXNFbDlPUFo4ZEJPZkFrdGR6UDlJZ1ZObHhRZzBUblp3b2Y1YnpQQ3JyQ29xTVZ5UVN5MGFNZC1jRGo3ZjBIM2txa1BSRkpBSDNKZ2Q?oc=5",
-      "site": "ABC News - Breaking News, Latest News and Videos",
-      "siteUrl": "https://abcnews.com"
+      "title": "克罗地亚批准将“北溪”爆炸案嫌疑人引渡至德国 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oTjcwd0kzcWw4ekt0Wkw0cGF1YnEzbHh0RFc3RTBRLTRrWjdOSWhLX3hvQlJhTkc2WVZaWG80RFVVbFI5VnlTalRCR0VCZDJ5c21mY1o2eHVIVVllQlpNN1dMNkhqMFRCLWlxSWZVRkxPVzd6clhHSg?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-fd1460b333a8",
@@ -231,18 +243,6 @@
       "siteUrl": "https://www.8world.com"
     },
     {
-      "id": "FL-757e11711467",
-      "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 11:31:07 GMT",
-      "ts": 1790335867000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Two dead after Hazel Green house explosion - WHNT.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNWJBZkl5aVo3dFdvSXZIZERQVjZ3eUJvR2hBRFloVFNfMk9xLXc3Q2t6WVhRM29BaHNocms1OVJjb2dfdl9ONE1Mb2V3eVVQZHlCQ1paUmVxOTJUTjRtSUx4dS1YbjF6N2NzZkkxM2xxNzNJeHFlMEtST29IOG1aUm9ma3lHWEZQekpHMdIBkgFBVV95cUxPVUFwUFpudFpWOXFPd1FXaGJMT1hHcTVuc1JrT2RsTHBXR085TW0yRy0yRVlzSmRQS2hjcTNHZ1Q1Z2xpNHFtajRqVVBfXzJybnNVSW9qdE9EMFVmRVppb3k5M3RMZlBXb2ZxM25YVzQtYXRtRkNxSzA4UVVBTFZRQ1J1dzlKTDZ0bng4Z2plenFudw?oc=5",
-      "site": "WHNT.com",
-      "siteUrl": "https://whnt.com"
-    },
-    {
       "id": "FL-6c21a2dc1f84",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 11:26:15 GMT",
@@ -253,18 +253,6 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01WWtKWkp4MmJiT3F0RXE4RGdmRmZxcHVwbmZBd0thV3NlaDFwY0xrRTZPV1JoRmZNMzl2ZUFsQ21meTNKcFp4Rnk4cG5HTEtERk94NmJpSnprWkVZNjhYV0ZpeklqWVgxQkxGcUdlS3hhbUdJ?oc=5",
       "site": "手机新浪网",
       "siteUrl": "https://tech.sina.cn"
-    },
-    {
-      "id": "FL-f8c80caf0129",
-      "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 11:25:00 GMT",
-      "ts": 1790335500000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Two dead following house explosion in Hazel Green - WAFF",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVUl2LXJzM3RpNVVFSVhMMURmSXU1SXRmbkg3NS1ZU1FFbXV6NlptMU5YbTdsd0NnLTIwUDYzS3c5eEdpRlhhZ2lTV0tRWWlmWG5acVJ6SE9BV3ZwTUZTNWZSOHpZZGVucGZLajFwVk5QLUlGRG9yTk9jbWhlZmNBSkZQb1FHQdIBmgFBVV95cUxQbmhVV0ZIS3pkc0NRNTRJLThLaTI2T0FZRm5TRXhnSUwtVG4tenRJTzBrV1E5VGNZaHJfczI0TUlaQTFJbEZIVDdBWUFNN3RCclZ4NHNZb1FCTG9JdlBNOE5LS0M2RGFib2Q1endqVWpGcmdMdFRVb1RTVmtwZkdmVlN4cFRpZEZGZ241SllpdDJQSUR4R3lMNlBB?oc=5",
-      "site": "WAFF",
-      "siteUrl": "https://www.waff.com"
     },
     {
       "id": "FL-0c4f5573ec38",
@@ -301,6 +289,18 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PdWJnUGkyT2V3QTZkclZEdGg4UzEwVFI2NVd1ek0tMEFkQUJHRGNXaF9xbFhQVVdNTm9Ia0pBYVFEUl8zX1VlMlRWTjNJSlQ3R21PQXZQYzI4NGF1T1E?oc=5",
       "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
+      "id": "FL-48cb2b2a0133",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 08:24:04 GMT",
+      "ts": 1790324644000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "An explosion near the Acropolis in Greece injures at least 2 people and collapses a building - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNXY4QkkzbnV1LWxwMVNzekFOdFNUenh2MFdTaHNqM3NjSVVHbVI0NVZYMFFNTEx6ekU3eHNqVS1rOTlyV1YtWjljTWxuUGZwcFhGcWpaZkFQRkxlV041REREZGFJTUs0Z215WDMxcWdzb0t5LWdhQjdVTFZnNUdlQ0pCTFY4bFBVaXJPUk5GazNib1ZiSk9DU2M1MVAxZzNPQzFzNzQ0eWVCSkFJeFloV3N2Zl8wZVE?oc=5",
+      "site": "NBC News",
+      "siteUrl": "https://www.nbcnews.com"
     },
     {
       "id": "FL-983b4ebb9f04",
