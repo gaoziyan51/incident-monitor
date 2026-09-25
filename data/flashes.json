@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T12:01:47.932Z",
+  "updated": "2026-09-25T12:24:36.684Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -27,6 +27,18 @@
       "siteUrl": "https://science.caixin.com"
     },
     {
+      "id": "FL-75ad25e28af3",
+      "date": "2026-09-24",
+      "dateISO": "Thu, 24 Sep 2026 10:27:25 GMT",
+      "ts": 1790245645000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "“上海化工园区发生大爆炸”不实 造谣者被行政处罚 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jMTVDWDRjc1owMEV4N3ZlTHd0Z2kyUDNudFVGc2xSM1F6MGtZMGRsS281dFRhMWo1MTVJUWtBZzA0TEdrWGs0ajBOMmtVVkMtTjJhRjRMM2EyZG9Ldm13MWN2Y2NiU3BZUHN5Q1B5RVI?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
+    },
+    {
       "id": "FL-1039b268f739",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 09:56:27 GMT",
@@ -51,27 +63,27 @@
       "siteUrl": "https://www.cqnews.net"
     },
     {
-      "id": "FL-f8061d91b549",
+      "id": "FL-340d5e981918",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
       "ts": 1787468400000,
       "scope": "dom",
       "type": "blast",
-      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - news.cn",
+      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-f38e3c0cb20f",
+      "id": "FL-0615dd398028",
       "date": "2026-08-02",
       "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
       "ts": 1785654000000,
       "scope": "intl",
       "type": "blast",
-      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - news.cn",
+      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -87,28 +99,52 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-5414e00ffd4e",
+      "id": "FL-160d55aeb47e",
       "date": "2026-06-22",
       "dateISO": "Mon, 22 Jun 2026 07:00:00 GMT",
       "ts": 1782111600000,
       "scope": "intl",
       "type": "blast",
-      "title": "卡塔尔工厂爆炸已致13人死亡 - news.cn",
+      "title": "卡塔尔工厂爆炸已致13人死亡 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mR2pTX0YxWjBwQ2lLNC1XZjFhd3IwVEYtWkZFR3ZBU3B5RTFHR1BldmQ3OEkxN2NaWTMzYUkwWENDeEliY3dVNEloOExFS1B6SlZQTENHdWVmTWpUM042M2hRcmo4QS1qdl85cXlhZHJ3R3JGTEU4?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-dbcf7399ae0d",
+      "id": "FL-b042a088a326",
       "date": "2026-08-03",
       "dateISO": "Mon, 03 Aug 2026 07:00:00 GMT",
       "ts": 1785740400000,
       "scope": "intl",
       "type": "blast",
-      "title": "巴基斯坦西北部发生爆炸致14人死亡 - news.cn",
+      "title": "巴基斯坦西北部发生爆炸致14人死亡 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-aa073f08ad26",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 12:07:53 GMT",
+      "ts": 1790338073000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "克罗地亚批准将“北溪”爆炸案嫌疑人引渡至德国 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNODlVN1gzU3BjLU1RSU42eFF2MmFROEw0U0RQanVveXJYWFBLdW01bVZBUmNyd3Z5MHZQYUs0VU9wSGQzV0FxbFVuVHRGbHZfOEtoOU9SQU5ubDJMX3JYZ1BlLW5YYUhzMy1HSWY5SHlBVVhfV091ZkJPeFh5VDg1UUhBenBfc2Jx?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-954af0c22038",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 12:01:56 GMT",
+      "ts": 1790337716000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "An explosion near the Acropolis in Greece injures at least 2 people and collapses a building - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNblRzMEh2alZ5bmUwb1BjVkVHYkc2TWIyYXE5cld4QVlRTzVJQnVENENZM05IU3V3dEtvb2ZqYk1lWE9PdDFYN1VwVm1qaEdIaXBRZElJemVwdTFjNy1MaUpIcmN0NzRQT1B4QkV3enRyYUpYT0JhTmZXT1pjNVpKNU85SFYxQnZLbUNwNVhMY0gzQ0huZGVEWTVYbnpiSThLZ1ZVZGNlNnRtSDdQVkppeWJqZ1JfejTSAbwBQVVfeXFMTjNSNkU1ekswek95MnVVbFQ4M0NWaTVYd0hVRzBzU1dpSXRNUkQzYlBYcnBPdGNId0lRWDBDYmZ0MzFGY3I2YjFjZjNILTVpZklMRVVVWUdQLU9WdEMwQ1p2Tk50c0k5YWRQSFJPNEpyYXNFbDlPUFo4ZEJPZkFrdGR6UDlJZ1ZObHhRZzBUblp3b2Y1YnpQQ3JyQ29xTVZ5UVN5MGFNZC1jRGo3ZjBIM2txa1BSRkpBSDNKZ2Q?oc=5",
+      "site": "ABC News - Breaking News, Latest News and Videos",
+      "siteUrl": "https://abcnews.com"
     },
     {
       "id": "FL-fd1460b333a8",
@@ -219,13 +255,13 @@
       "siteUrl": "https://www.timesofisrael.com"
     },
     {
-      "id": "FL-a373dd7630e2",
+      "id": "FL-5324d7b07e40",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 06:56:28 GMT",
       "ts": 1790319388000,
       "scope": "intl",
       "type": "blast",
-      "title": "Building in Athens collapses after explosion, two women rescued - Euronews.com",
+      "title": "Building in Athens collapses after suspected gas explosion, two women rescued - Euronews.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbmdqQWhDWUozS2Izdmt6VU5McmdJaE14bDRaaElESTA0aEJTUmZEV216aGxLOEFqRzcyYjVSRHdkRW9lckkxVzh1WV9wX3FKb0xPT1R3SkpoSkIxNmNIUHgtelZYbG15THJZQ0hlY0ZUVEJTaEpyRmoxellOYnpFTl9XamstS1RUZnYzU1Y1eEM1MGQzQmtja1dROFUzbGUweWdZYVAtTDladw?oc=5",
       "site": "Euronews.com",
       "siteUrl": "https://www.euronews.com"
@@ -255,15 +291,15 @@
       "siteUrl": "https://www.ebiotrade.com"
     },
     {
-      "id": "FL-ffe2cf5d1fc8",
+      "id": "FL-1f988738d177",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 06:14:00 GMT",
       "ts": 1790316840000,
       "scope": "intl",
       "type": "blast",
-      "title": "Explosion fells building in heart of touristic Athens, three injured - reuters.com",
+      "title": "Explosion fells building in heart of touristic Athens, three injured - Reuters",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN0NMa2RSeHd2Wno4eHdfUWJYQmxaVkRRX0taclo4bTlxWkFDUTFqQ1lDUTNrN0RRdzZocVBPMi13b2swcGo2LUZacGl1SHFZRi1pblpNZk9SUGhmN0FJOWpUaVE5NmJqVnBpYlJyUWkwTmQzWlVQNXRMblVweHpVY1JTVmxaeTRYa3Vnak9ob2swSnQtMG1nUzVibmdKcUVwNHdWemlpekJ0WmxGZkJWTHJR?oc=5",
-      "site": "reuters.com",
+      "site": "Reuters",
       "siteUrl": "https://www.reuters.com"
     },
     {
@@ -291,18 +327,6 @@
       "siteUrl": "https://sports.sina.cn"
     },
     {
-      "id": "FL-c0e0d9660fd2",
-      "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 01:52:00 GMT",
-      "ts": 1790301120000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "雅典市中心一栋建筑爆炸后部分坍塌——《耶路撒冷邮报》 - ua.news",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb3g3a2FOQW9nY191S3ZOMjNnM0ZudWxURTlvZHJIbG9QRU82M0tyVUJRZXEyOWtYZWJERFQwZzA2ZzA3ck5qbU5rUGR3ajRyMjV2N3RtVnk0Rmp5TXRpdkNmS1o4RjVjQjZLc0pUanBpUGdyNkJENlpZam5ld2lGUWxTUjd6YXdUSUtZb0ZOYXphelNDa0RVUy1nRmFOT3IyaVE?oc=5",
-      "site": "ua.news",
-      "siteUrl": "https://ua.news"
-    },
-    {
       "id": "FL-6b068d02fc48",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 01:32:30 GMT",
@@ -327,15 +351,15 @@
       "siteUrl": "https://k.sina.com.cn"
     },
     {
-      "id": "FL-b16c3e64fcb5",
+      "id": "FL-4ed1ffe514b4",
       "date": "2026-08-21",
       "dateISO": "Fri, 21 Aug 2026 07:00:00 GMT",
       "ts": 1787295600000,
       "scope": "dom",
       "type": "blast",
-      "title": "山东临沂发生爆炸致1人死亡2人失联 - news.cn",
+      "title": "山东临沂发生爆炸致1人死亡2人失联 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5dmp2dW40R0VaSl93N25sLVZHeGFRNGZYdXF5cHJNeVcxWDVadGl6a094ZGxNcVBiMkN2cXhtdG1IQkxYSlk4SEVWc1FlX0Rsc1B4RXhKdHhvV0tfSHpzNDhTQUVRdlBSMjh6c3ZqZ01leGQ0dVVZ?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     }
   ]
