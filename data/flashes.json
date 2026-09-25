@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T12:24:36.684Z",
+  "updated": "2026-09-25T12:41:10.310Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -123,28 +123,16 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-aa073f08ad26",
+      "id": "FL-2797a29f7fd4",
       "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 12:07:53 GMT",
-      "ts": 1790338073000,
+      "dateISO": "Fri, 25 Sep 2026 12:11:56 GMT",
+      "ts": 1790338316000,
       "scope": "intl",
       "type": "blast",
-      "title": "克罗地亚批准将“北溪”爆炸案嫌疑人引渡至德国 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNODlVN1gzU3BjLU1RSU42eFF2MmFROEw0U0RQanVveXJYWFBLdW01bVZBUmNyd3Z5MHZQYUs0VU9wSGQzV0FxbFVuVHRGbHZfOEtoOU9SQU5ubDJMX3JYZ1BlLW5YYUhzMy1HSWY5SHlBVVhfV091ZkJPeFh5VDg1UUhBenBfc2Jx?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-954af0c22038",
-      "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 12:01:56 GMT",
-      "ts": 1790337716000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "An explosion near the Acropolis in Greece injures at least 2 people and collapses a building - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNblRzMEh2alZ5bmUwb1BjVkVHYkc2TWIyYXE5cld4QVlRTzVJQnVENENZM05IU3V3dEtvb2ZqYk1lWE9PdDFYN1VwVm1qaEdIaXBRZElJemVwdTFjNy1MaUpIcmN0NzRQT1B4QkV3enRyYUpYT0JhTmZXT1pjNVpKNU85SFYxQnZLbUNwNVhMY0gzQ0huZGVEWTVYbnpiSThLZ1ZVZGNlNnRtSDdQVkppeWJqZ1JfejTSAbwBQVVfeXFMTjNSNkU1ekswek95MnVVbFQ4M0NWaTVYd0hVRzBzU1dpSXRNUkQzYlBYcnBPdGNId0lRWDBDYmZ0MzFGY3I2YjFjZjNILTVpZklMRVVVWUdQLU9WdEMwQ1p2Tk50c0k5YWRQSFJPNEpyYXNFbDlPUFo4ZEJPZkFrdGR6UDlJZ1ZObHhRZzBUblp3b2Y1YnpQQ3JyQ29xTVZ5UVN5MGFNZC1jRGo3ZjBIM2txa1BSRkpBSDNKZ2Q?oc=5",
-      "site": "ABC News - Breaking News, Latest News and Videos",
-      "siteUrl": "https://abcnews.com"
+      "title": "克罗地亚批准将“北溪”爆炸案嫌疑人引渡至德国 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oemc4T3BZVlQwVnpUeFc0QkRpX3B5dlBqMldodG9HWTBUa0lMOWpMOTREVTk0RkFHeDltekhZTFE5QVZfVjFLT0psRF81Z0tsOFhfZ3FJYWY1SjI2VUxLR00zMGhNMkk0THBXcVp5eFluOTFLZ0VN?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-fd1460b333a8",
@@ -171,15 +159,15 @@
       "siteUrl": "https://tech.sina.cn"
     },
     {
-      "id": "FL-0e0d22b2cc4a",
+      "id": "FL-3a3b402104c5",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 11:25:00 GMT",
       "ts": 1790335500000,
       "scope": "intl",
       "type": "blast",
-      "title": "Emergency responders on the scene of a home explosion in Hazel Green - waff.com",
+      "title": "Emergency responders on the scene of a home explosion in Hazel Green - WAFF",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWmxNcFh4OXU1bGdhdEp6ZDdyZmJQQV9PUmd2RE1sNWlWZFE2VVRTX2JaN3FZblE0eE54cHdpNEh2N3BHYTR3T3RRdUhralItaVRXaHc0YVRsazUtN1FWcXFCSS1MY05rUmFEb09aX0FDRkZpVnhGRDFnR1ZsRGVNU09FWmlhaVNURndIdlA1SQ?oc=5",
-      "site": "waff.com",
+      "site": "WAFF",
       "siteUrl": "https://www.waff.com"
     },
     {
