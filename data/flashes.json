@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T06:41:07.724Z",
+  "updated": "2026-09-25T06:57:39.425Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -25,18 +25,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fOUNOVy1jMjYtRHRacDFONmZLdmtlUTBvcjVNX0xwMG9rc2lwYkV4ZzRCOFVIVmdNLXdZcUo3Mkw1UnI3elZsRjNGblI4YTBsMGxPeHJCRnZSNWE0dXNTdXRxcUQ?oc=5",
       "site": "财新",
       "siteUrl": "https://science.caixin.com"
-    },
-    {
-      "id": "FL-f931790c1e5a",
-      "date": "2026-09-24",
-      "dateISO": "Thu, 24 Sep 2026 22:07:57 GMT",
-      "ts": 1790287677000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "‘You can’t jump’: Man helped save pregnant woman from fire, then explosion hurled him out window - Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZ2RuZlZ3UG5qTWNPXzFna2ZWenFJcTZEaDJPSGZ3TnozYUZJVzhvN2IwQmdkWTlqZzdtcTlSdlhxUENqTmNlWUNsWW0wbW9yOTRwaGhmZl9hdk9QcjZMUFlPX01kLWR1LUc3LXB0dGJlSjBnUjRtMk1vcWpiaUVHYm95SVVMMG1GOVloNlRpaGktdGVQSmVMZkJKV2lxZG9UWU1LOW5HSUZnNEhqeVBzbDhQU1VDMU95dkRhUHp0bkZTTEc0QU81UUl3cGdTQTFQ?oc=5",
-      "site": "Los Angeles Times",
-      "siteUrl": "https://www.latimes.com"
     },
     {
       "id": "FL-75ad25e28af3",
@@ -75,15 +63,15 @@
       "siteUrl": "https://www.fides.org"
     },
     {
-      "id": "FL-acfb63f6e003",
+      "id": "FL-67f6cf1eeb06",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 05:40:57 GMT",
       "ts": 1790228457000,
       "scope": "dom",
       "type": "blast",
-      "title": "路过司机冲进火场救出追尾车车主，刚撤离事故车就发生爆炸 “都是跑车养家的顶梁柱，来不及多想” - 华龙网",
+      "title": "路过司机冲进火场救出追尾车车主，刚撤离事故车就发生爆炸 “都是跑车养家的顶梁柱，来不及多想” - cqnews.net",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Xa1R5Q3RIWURTTDB2enpUbXU2VFBDQUlqNEhLT25sNkZMeXlqTTBoX09uUmNkdXI5dlZpaUx5S1lWcFNYa3Bfb1VFYXMxUDhlczRwVWxSckpaY1dKVGV2a2JyUmlHRGF2ZlZj?oc=5",
-      "site": "华龙网",
+      "site": "cqnews.net",
       "siteUrl": "https://www.cqnews.net"
     },
     {
@@ -159,6 +147,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-b49d7f28a82f",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 06:42:10 GMT",
+      "ts": 1790318530000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "因无人机爆炸，2名以军士兵在加沙地带死亡 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wZTZRT05oc0lJeks2ZUZXTEd3THJXdFlmOEdaMlhzc1ZDVDFFRDkzRWctM09YNmc1QWh2Q0cyLThsaXdYbTZ1UUlTOU51YUxLZXlNM2xRVklBZEx2VGc?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
       "id": "FL-47cd92fd452f",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 06:14:55 GMT",
@@ -195,15 +195,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-08f272d82dab",
+      "id": "FL-77a82b35e76f",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 03:25:12 GMT",
       "ts": 1790306712000,
       "scope": "dom",
       "type": "blast",
-      "title": "效率爆炸！阿贾·威尔逊上半场16分钟13中10狂轰21分 正负值+23 - Sina Sports",
+      "title": "效率爆炸！阿贾·威尔逊上半场16分钟13中10狂轰21分 正负值+23 - sports.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTi1nOWVFaDgtY2lnV0I3RzNOY3hOdENuSDhZZFJBTG1YeVVEOGZBVDQ4VkRBSVBBVmwtUmxJVS1DNlBmbTFhdXJFTzJVay1aaVBacHd0ZndPZm5zUnNWeHh2eTZPd19oOWkyWElOYXZaMjlpR3VBSlRoZkFyS0xIMG15RjY?oc=5",
-      "site": "Sina Sports",
+      "site": "sports.sina.cn",
       "siteUrl": "https://sports.sina.cn"
     },
     {
