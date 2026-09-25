@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T12:57:34.030Z",
+  "updated": "2026-09-25T13:08:08.596Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,15 +15,15 @@
       "siteUrl": "https://www.cpnn.com.cn"
     },
     {
-      "id": "FL-385dd58b908a",
+      "id": "FL-52720b98ede5",
       "date": "2026-08-11",
       "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
       "ts": 1786431600000,
       "scope": "dom",
       "type": "blast",
-      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - 财新",
+      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - science.caixin.com",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fOUNOVy1jMjYtRHRacDFONmZLdmtlUTBvcjVNX0xwMG9rc2lwYkV4ZzRCOFVIVmdNLXdZcUo3Mkw1UnI3elZsRjNGblI4YTBsMGxPeHJCRnZSNWE0dXNTdXRxcUQ?oc=5",
-      "site": "财新",
+      "site": "science.caixin.com",
       "siteUrl": "https://science.caixin.com"
     },
     {
@@ -147,6 +147,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-8d6af76932cd",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 12:11:00 GMT",
+      "ts": 1790338260000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "An explosion near the Acropolis in Greece injures at least 2 people and collapses a building - AP News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbHpYeFRfTzkwWnNjOVNuZHY5SndUSXAtMXdFZjhQSkZ6MUUxV1NCX01TYUVRTV9kb1N1d2NPVjJqd2d4aDNnQm9CdnQtX1Yza0lJOXJpOTNmMmZscXVvcFpZdkk2TVRaTUVLRGJkQ2h5YnBUNlJVNV91RkpaVHdOeE5EU2d5dUE5T2l1eklHbWgwUVZiWXJSenp6OUdwcEZ5?oc=5",
+      "site": "AP News",
+      "siteUrl": "https://apnews.com"
+    },
+    {
       "id": "FL-1dbe219678a7",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 11:46:00 GMT",
@@ -207,18 +219,6 @@
       "siteUrl": "https://www.waff.com"
     },
     {
-      "id": "FL-0088b16dc7d9",
-      "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 10:44:54 GMT",
-      "ts": 1790333094000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "雅典热门观光爆炸 3伤！疑似煤气外泄酿祸 - chinapress.com.my",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOZ0ozMmI0dWV0UU01QXZYN3BkX1dFRlIxMTdrRXRMUi1RdlNhSzhJdEo3bjhZeWpSWXJoNkF3MzhtRXRLcndHY0xNR2hkRVZJbTM1Vkdzd0pNMkQxS3RWbWRrOGFyMjROalJ3bHNHUlBnVFJEWkEwZmU0QjZFTlltU0JlWjNBXzB2aWxKdmVrZjUzdWJWVTFEYm5FYXhsNzhRRWswWTJXZExETWlySHp1eVM2WVlEc1FJZE9pZE9Ra0ROT3FnaUhlZGluWVBBaHBfc0lWbXFjbGtEQW9TeTBTYzAteUttSDJVNW9WSl9Xa0lpRUotZ01OVGswaTFDTnJkYjU0dGFsclNVYlpINVlJNmlLbzJOSzBKVjdocHA2WjVxUlM1a1FBenduWlA?oc=5",
-      "site": "chinapress.com.my",
-      "siteUrl": "https://www.chinapress.com.my"
-    },
-    {
       "id": "FL-0c4f5573ec38",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 10:30:51 GMT",
@@ -243,16 +243,16 @@
       "siteUrl": "https://www.nbcnews.com"
     },
     {
-      "id": "FL-8d6af76932cd",
+      "id": "FL-a45a2fd5224c",
       "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 08:17:00 GMT",
-      "ts": 1790324220000,
-      "scope": "intl",
+      "dateISO": "Fri, 25 Sep 2026 09:48:12 GMT",
+      "ts": 1790329692000,
+      "scope": "dom",
       "type": "blast",
-      "title": "An explosion near the Acropolis in Greece injures at least 2 people and collapses a building - AP News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbHpYeFRfTzkwWnNjOVNuZHY5SndUSXAtMXdFZjhQSkZ6MUUxV1NCX01TYUVRTV9kb1N1d2NPVjJqd2d4aDNnQm9CdnQtX1Yza0lJOXJpOTNmMmZscXVvcFpZdkk2TVRaTUVLRGJkQ2h5YnBUNlJVNV91RkpaVHdOeE5EU2d5dUE5T2l1eklHbWgwUVZiWXJSenp6OUdwcEZ5?oc=5",
-      "site": "AP News",
-      "siteUrl": "https://apnews.com"
+      "title": "以军无人机在加沙坠毁后爆炸，两名以士兵死亡 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PdWJnUGkyT2V3QTZkclZEdGg4UzEwVFI2NVd1ek0tMEFkQUJHRGNXaF9xbFhQVVdNTm9Ia0pBYVFEUl8zX1VlMlRWTjNJSlQ3R21PQXZQYzI4NGF1T1E?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn"
     },
     {
       "id": "FL-5280c2adf622",
@@ -363,15 +363,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-310857ceb8ae",
+      "id": "FL-9f35ddfd7844",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 01:28:24 GMT",
       "ts": 1790299704000,
       "scope": "intl",
       "type": "blast",
-      "title": "利雅得遭空袭，直播记录拦截导弹爆炸声 - 手机新浪网",
+      "title": "利雅得遭空袭，直播记录拦截导弹爆炸声 - k.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ya3lQcnE5WW9vNGZVbVliMkt5ZndNSTl2MWJCYU9peXVWY0xTQ1FHNUVhaTBhWUE0MEQ2MmV6a0ZySHpsQjFycGwtX1NVY3dqbkxSWGx6c1hlQThBUE9ZYkhaUHd1bkRsSHRnSlVVQnBWYVU?oc=5",
-      "site": "手机新浪网",
+      "site": "k.sina.com.cn",
       "siteUrl": "https://k.sina.com.cn"
     },
     {
