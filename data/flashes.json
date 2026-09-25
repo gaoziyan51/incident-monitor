@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T17:19:10.424Z",
+  "updated": "2026-09-25T17:30:10.216Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,27 +15,27 @@
       "siteUrl": "https://www.cpnn.com.cn"
     },
     {
-      "id": "FL-52720b98ede5",
+      "id": "FL-385dd58b908a",
       "date": "2026-08-11",
       "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
       "ts": 1786431600000,
       "scope": "dom",
       "type": "blast",
-      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - science.caixin.com",
+      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - 财新",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fOUNOVy1jMjYtRHRacDFONmZLdmtlUTBvcjVNX0xwMG9rc2lwYkV4ZzRCOFVIVmdNLXdZcUo3Mkw1UnI3elZsRjNGblI4YTBsMGxPeHJCRnZSNWE0dXNTdXRxcUQ?oc=5",
-      "site": "science.caixin.com",
+      "site": "财新",
       "siteUrl": "https://science.caixin.com"
     },
     {
-      "id": "FL-75ad25e28af3",
+      "id": "FL-c43cc5d24219",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 10:27:25 GMT",
       "ts": 1790245645000,
       "scope": "dom",
       "type": "blast",
-      "title": "“上海化工园区发生大爆炸”不实 造谣者被行政处罚 - 中华网",
+      "title": "“上海化工园区发生大爆炸”不实 造谣者被行政处罚 - news.china.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jMTVDWDRjc1owMEV4N3ZlTHd0Z2kyUDNudFVGc2xSM1F6MGtZMGRsS281dFRhMWo1MTVJUWtBZzA0TEdrWGs0ajBOMmtVVkMtTjJhRjRMM2EyZG9Ldm13MWN2Y2NiU3BZUHN5Q1B5RVI?oc=5",
-      "site": "中华网",
+      "site": "news.china.com",
       "siteUrl": "https://news.china.com"
     },
     {
@@ -135,6 +135,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-0f5476d1c019",
+      "date": "2026-07-31",
+      "dateISO": "Fri, 31 Jul 2026 07:00:00 GMT",
+      "ts": 1785481200000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "巴基斯坦煤矿爆炸致34人死亡 8人被困 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ic3NaMW5yOHF1MmNnMDRPdThpWHRsY0dpOUl5X1U2aUxyMlZFTkVhN09xTVRmQ3dwcnFZaThTZjd5RXdLS1VLTVgzNGlENnl3T3hOOVBFSmYyajM0cmlxeVduX28xT2U5M1pvbmJfZE94TW00UmpNd2oyTFZFVEE?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
       "id": "FL-c458d90c0060",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 15:45:00 GMT",
@@ -207,15 +219,15 @@
       "siteUrl": "https://whnt.com"
     },
     {
-      "id": "FL-6c21a2dc1f84",
+      "id": "FL-a76f410d6e33",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 11:26:15 GMT",
       "ts": 1790335575000,
       "scope": "dom",
       "type": "blast",
-      "title": "货车司机路遇车祸救出伤者，刚撤离即发生燃爆致烧伤 对话本人：都是跑车的，人没了家就垮了 - 手机新浪网",
+      "title": "货车司机路遇车祸救出伤者，刚撤离即发生燃爆致烧伤 对话本人：都是跑车的，人没了家就垮了 - tech.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01WWtKWkp4MmJiT3F0RXE4RGdmRmZxcHVwbmZBd0thV3NlaDFwY0xrRTZPV1JoRmZNMzl2ZUFsQ21meTNKcFp4Rnk4cG5HTEtERk94NmJpSnprWkVZNjhYV0ZpeklqWVgxQkxGcUdlS3hhbUdJ?oc=5",
-      "site": "手机新浪网",
+      "site": "tech.sina.cn",
       "siteUrl": "https://tech.sina.cn"
     },
     {
@@ -253,18 +265,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcFotdThBSmdQZGZxeWJ2SUp0MDAzcWNSazBZN1dsSmNUZlhuQXhxZnEtemlOcWM2M1pQd1I1am1WT0F3bW9rakVjYVl1QzZuOW03V1Nkc08ybTJBMUhTWkZRNEktVzZ5N1VlTURxQUVSVFlZdHRGUHllRnFrU0FPUGVGbG5CMFZQ?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-a45a2fd5224c",
-      "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 09:48:12 GMT",
-      "ts": 1790329692000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "以军无人机在加沙坠毁后爆炸，两名以士兵死亡 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PdWJnUGkyT2V3QTZkclZEdGg4UzEwVFI2NVd1ek0tMEFkQUJHRGNXaF9xbFhQVVdNTm9Ia0pBYVFEUl8zX1VlMlRWTjNJSlQ3R21PQXZQYzI4NGF1T1E?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://news.bjd.com.cn"
     },
     {
       "id": "FL-983b4ebb9f04",
@@ -315,15 +315,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-310857ceb8ae",
+      "id": "FL-9f35ddfd7844",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 01:28:24 GMT",
       "ts": 1790299704000,
       "scope": "intl",
       "type": "blast",
-      "title": "利雅得遭空袭，直播记录拦截导弹爆炸声 - 手机新浪网",
+      "title": "利雅得遭空袭，直播记录拦截导弹爆炸声 - k.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ya3lQcnE5WW9vNGZVbVliMkt5ZndNSTl2MWJCYU9peXVWY0xTQ1FHNUVhaTBhWUE0MEQ2MmV6a0ZySHpsQjFycGwtX1NVY3dqbkxSWGx6c1hlQThBUE9ZYkhaUHd1bkRsSHRnSlVVQnBWYVU?oc=5",
-      "site": "手机新浪网",
+      "site": "k.sina.com.cn",
       "siteUrl": "https://k.sina.com.cn"
     },
     {
