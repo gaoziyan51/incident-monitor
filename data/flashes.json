@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T10:19:53.268Z",
+  "updated": "2026-09-25T10:32:23.205Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -135,18 +135,6 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-488e1042097f",
-      "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 07:31:38 GMT",
-      "ts": 1790321498000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "因无人机爆炸，2名以军士兵在加沙地带死亡 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRVJSaGVSa3hqME14dlFuOFVKcFpWZjRDN0o4d1ZJLWUzZlp5d0ZGUGpmSHd0Y2Z1X3Bfd0MxeHVDLV92T2w4Sm1pbmxQejhhSjN4T3FKWVA5ajVLbU10bGxDaTZ1dHoxUGNCVjE0YTJqU29VejRNOF9sS2F1THZTY3hlckxwQ05rMjdVczJySlRnS1M2MzBvSWtzUEtnYnIx?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.cn"
-    },
-    {
       "id": "FL-a373dd7630e2",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 06:56:28 GMT",
@@ -159,16 +147,16 @@
       "siteUrl": "https://www.euronews.com"
     },
     {
-      "id": "FL-8d6af76932cd",
+      "id": "FL-983b4ebb9f04",
       "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 06:54:00 GMT",
-      "ts": 1790319240000,
+      "dateISO": "Fri, 25 Sep 2026 06:44:18 GMT",
+      "ts": 1790318658000,
       "scope": "intl",
       "type": "blast",
-      "title": "An explosion near the Acropolis in Greece injures at least 2 people and collapses a building - AP News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbHpYeFRfTzkwWnNjOVNuZHY5SndUSXAtMXdFZjhQSkZ6MUUxV1NCX01TYUVRTV9kb1N1d2NPVjJqd2d4aDNnQm9CdnQtX1Yza0lJOXJpOTNmMmZscXVvcFpZdkk2TVRaTUVLRGJkQ2h5YnBUNlJVNV91RkpaVHdOeE5EU2d5dUE5T2l1eklHbWgwUVZiWXJSenp6OUdwcEZ5?oc=5",
-      "site": "AP News",
-      "siteUrl": "https://apnews.com"
+      "title": "因无人机爆炸，2名以色列士兵在加沙地带死亡 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE93blpsNE9zTENSVXhkZHBYOXg5d3V6aUI0VWM5bC1lSlhIYTVwdjdGWmQxdDdBejlzbThuZ1JRRzVBcHFuaHM5dVlNTQ?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://mil.ifeng.com"
     },
     {
       "id": "FL-47cd92fd452f",
@@ -183,25 +171,13 @@
       "siteUrl": "https://www.ebiotrade.com"
     },
     {
-      "id": "FL-ffe2cf5d1fc8",
-      "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 06:14:00 GMT",
-      "ts": 1790316840000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Explosion fells building in heart of touristic Athens, three injured - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN0NMa2RSeHd2Wno4eHdfUWJYQmxaVkRRX0taclo4bTlxWkFDUTFqQ1lDUTNrN0RRdzZocVBPMi13b2swcGo2LUZacGl1SHFZRi1pblpNZk9SUGhmN0FJOWpUaVE5NmJqVnBpYlJyUWkwTmQzWlVQNXRMblVweHpVY1JTVmxaeTRYa3Vnak9ob2swSnQtMG1nUzVibmdKcUVwNHdWemlpekJ0WmxGZkJWTHJR?oc=5",
-      "site": "reuters.com",
-      "siteUrl": "https://www.reuters.com"
-    },
-    {
-      "id": "FL-60fe3e963e2f",
+      "id": "FL-fcb5ad015abb",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 05:47:14 GMT",
       "ts": 1790315234000,
       "scope": "intl",
       "type": "blast",
-      "title": "One injured after gas explosion in central Athens caused a building to partially collapse - jpost.com",
+      "title": "One injured, five trapped after explosion in central Athens caused a building to collapse - jpost.com",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00WExTNkt4U2Y2Q3R2YmZGSDhjM3hNbmtEMEVhUWM2XzNQOFJzQ0RxcVRKbDNPdU56amx2VFhzN0FEMjhuY01tZXJ3T0gyU2Y4ZDdPMVhqR1F6RWx2d2RR?oc=5",
       "site": "jpost.com",
       "siteUrl": "https://www.jpost.com"
