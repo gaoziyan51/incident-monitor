@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T23:01:26.416Z",
+  "updated": "2026-09-25T23:17:35.749Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -123,6 +123,18 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
+      "id": "FL-803bd894ebf2",
+      "date": "2026-08-24",
+      "dateISO": "Mon, 24 Aug 2026 07:00:00 GMT",
+      "ts": 1787554800000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "山东临沂一社区发生爆炸，官方最新通报：已致1人死亡，2人失联 - sd.chinanews.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12UjJWUzFCd2VqX0FoU2VneDM5T2E5eGFOZmg0Nk92VEp6U1ktWF9xUUtkV3BkYlNsZ0JsRWlZMW1qa3ExTXRVdWdiNzhNQ1JxRlN2bXhoX0pCWlFURExYd3lENlhFQQ?oc=5",
+      "site": "sd.chinanews.com.cn",
+      "siteUrl": "https://www.sd.chinanews.com.cn"
+    },
+    {
       "id": "FL-5414e00ffd4e",
       "date": "2026-06-22",
       "dateISO": "Mon, 22 Jun 2026 07:00:00 GMT",
@@ -157,6 +169,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ic3NaMW5yOHF1MmNnMDRPdThpWHRsY0dpOUl5X1U2aUxyMlZFTkVhN09xTVRmQ3dwcnFZaThTZjd5RXdLS1VLTVgzNGlENnl3T3hOOVBFSmYyajM0cmlxeVduX28xT2U5M1pvbmJfZE94TW00UmpNd2oyTFZFVEE?oc=5",
       "site": "news.cn",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-af0a4fc8aa4b",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 22:32:31 GMT",
+      "ts": 1790375551000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Massachusetts nor’easter: Hurricane-like storm set to blast the Bay State - Boston Herald",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUGdIbWNBUXh5ZUJkTXg3RjBDTjkzQ08yTFhWeW4wLXM4V08tbGpXMm9wVUlNSUFaWWU1VmtHWURTX2xWblQxOHJsRW9HV1hSVjJ0c3B5dDVJeldkUUtnWDUtdmNjd0Q5LVhLS1pqbWJkOHF6ZWNqdzVrTUtUZnFHUm51eE5BZ3RGNzczWUNKdHo3VF9pb01FYUhzLVJ5LWpXNmdwSERXUXJqa2NMRW5IX253?oc=5",
+      "site": "Boston Herald",
+      "siteUrl": "https://www.bostonherald.com"
     },
     {
       "id": "FL-7005ed608ceb",
@@ -325,18 +349,6 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTi1nOWVFaDgtY2lnV0I3RzNOY3hOdENuSDhZZFJBTG1YeVVEOGZBVDQ4VkRBSVBBVmwtUmxJVS1DNlBmbTFhdXJFTzJVay1aaVBacHd0ZndPZm5zUnNWeHh2eTZPd19oOWkyWElOYXZaMjlpR3VBSlRoZkFyS0xIMG15RjY?oc=5",
       "site": "Sina Sports",
       "siteUrl": "https://sports.sina.cn"
-    },
-    {
-      "id": "FL-6b068d02fc48",
-      "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 01:32:30 GMT",
-      "ts": 1790299950000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "外媒：叙利亚北部一军事设施发生剧烈爆炸，造成至少4人受伤 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRHJ5N1ZKM0VIR0RZdXVGZE80MDJBUnRsTzRDZHI2TG9fZnRLa0pncXdzdUdxZFplSEJ0bVVydDMxMXdrVFVYZDVMdkxCTmxROG5QSkFtby1TV2VoQ2JETWlDX1pZOTJydndCYy1MWUFQSGc3RDNnd0pXUmJGTGhzdklSQi05N2Zp?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-310857ceb8ae",
