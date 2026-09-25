@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T16:49:11.640Z",
+  "updated": "2026-09-25T16:57:15.679Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -135,18 +135,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-0f5476d1c019",
-      "date": "2026-07-31",
-      "dateISO": "Fri, 31 Jul 2026 07:00:00 GMT",
-      "ts": 1785481200000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "巴基斯坦煤矿爆炸致34人死亡 8人被困 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ic3NaMW5yOHF1MmNnMDRPdThpWHRsY0dpOUl5X1U2aUxyMlZFTkVhN09xTVRmQ3dwcnFZaThTZjd5RXdLS1VLTVgzNGlENnl3T3hOOVBFSmYyajM0cmlxeVduX28xT2U5M1pvbmJfZE94TW00UmpNd2oyTFZFVEE?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
       "id": "FL-c458d90c0060",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 15:45:00 GMT",
@@ -181,6 +169,18 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SYjNkNFJtM090Qk9MYnE3NnhXZWtMazZsYUZKVTZBSWRXNV8tcUtfQm5wQmMyNm5VXzVPRVRXQXpVdHNJd1o0UWY4dWp6cW5wdFhkV2ZnOEFuaWNGNTVqOFdkX3VjdkhQWWc?oc=5",
       "site": "紫牛新闻",
       "siteUrl": "https://www.yzwb.net"
+    },
+    {
+      "id": "FL-ee2cd07b37d2",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 13:28:29 GMT",
+      "ts": 1790342909000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Explosion fells building in heart of touristic Athens, three injured - KSL.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMnBjV1l5b0ZWZG81bzFpd2VkZFNUNVFVQjRhOXI3SnlRT01Dc3NOT3JZNFlUalRZVl9uZ0xlOVdCblFQaWtrVWd0UUprZGtIUDdpUjVOeHdBSzNwdGE5al9CVjdhNHBDU19sQU9NQ2dkSHIxRWozX045Q1ZydWFka3B3eWZ6LU5CVkNZVVRlbFFFMEM2dWxOWEpvRmdYMFBYSnQyYU11eVNtWHIzV0hhUU0tUjlIbzZ3VzFiVmo4MWtqbHA3enNRbQ?oc=5",
+      "site": "KSL.com",
+      "siteUrl": "https://www.ksl.com"
     },
     {
       "id": "FL-954af0c22038",
@@ -289,18 +289,6 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE93blpsNE9zTENSVXhkZHBYOXg5d3V6aUI0VWM5bC1lSlhIYTVwdjdGWmQxdDdBejlzbThuZ1JRRzVBcHFuaHM5dVlNTQ?oc=5",
       "site": "凤凰网",
       "siteUrl": "https://mil.ifeng.com"
-    },
-    {
-      "id": "FL-3d0673562f63",
-      "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 06:14:00 GMT",
-      "ts": 1790316840000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Five missing after explosion fells building in heart of touristic Athens - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN0NMa2RSeHd2Wno4eHdfUWJYQmxaVkRRX0taclo4bTlxWkFDUTFqQ1lDUTNrN0RRdzZocVBPMi13b2swcGo2LUZacGl1SHFZRi1pblpNZk9SUGhmN0FJOWpUaVE5NmJqVnBpYlJyUWkwTmQzWlVQNXRMblVweHpVY1JTVmxaeTRYa3Vnak9ob2swSnQtMG1nUzVibmdKcUVwNHdWemlpekJ0WmxGZkJWTHJR?oc=5",
-      "site": "Reuters",
-      "siteUrl": "https://www.reuters.com"
     },
     {
       "id": "FL-08f272d82dab",
