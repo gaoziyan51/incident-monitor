@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T14:48:37.655Z",
+  "updated": "2026-09-25T14:57:38.585Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,27 +15,27 @@
       "siteUrl": "https://www.cpnn.com.cn"
     },
     {
-      "id": "FL-385dd58b908a",
+      "id": "FL-52720b98ede5",
       "date": "2026-08-11",
       "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
       "ts": 1786431600000,
       "scope": "dom",
       "type": "blast",
-      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - 财新",
+      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - science.caixin.com",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fOUNOVy1jMjYtRHRacDFONmZLdmtlUTBvcjVNX0xwMG9rc2lwYkV4ZzRCOFVIVmdNLXdZcUo3Mkw1UnI3elZsRjNGblI4YTBsMGxPeHJCRnZSNWE0dXNTdXRxcUQ?oc=5",
-      "site": "财新",
+      "site": "science.caixin.com",
       "siteUrl": "https://science.caixin.com"
     },
     {
-      "id": "FL-75ad25e28af3",
+      "id": "FL-c43cc5d24219",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 10:27:25 GMT",
       "ts": 1790245645000,
       "scope": "dom",
       "type": "blast",
-      "title": "“上海化工园区发生大爆炸”不实 造谣者被行政处罚 - 中华网",
+      "title": "“上海化工园区发生大爆炸”不实 造谣者被行政处罚 - news.china.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jMTVDWDRjc1owMEV4N3ZlTHd0Z2kyUDNudFVGc2xSM1F6MGtZMGRsS281dFRhMWo1MTVJUWtBZzA0TEdrWGs0ajBOMmtVVkMtTjJhRjRMM2EyZG9Ldm13MWN2Y2NiU3BZUHN5Q1B5RVI?oc=5",
-      "site": "中华网",
+      "site": "news.china.com",
       "siteUrl": "https://news.china.com"
     },
     {
@@ -147,15 +147,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-6b6d3d3c2ed9",
+      "id": "FL-2f8b191f3aba",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 13:56:57 GMT",
       "ts": 1790344617000,
       "scope": "intl",
       "type": "blast",
-      "title": "克罗地亚批准将“北溪”爆炸案嫌疑人引渡至德国 - finance.sina.com.cn",
+      "title": "克罗地亚批准将“北溪”爆炸案嫌疑人引渡至德国 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oTjcwd0kzcWw4ekt0Wkw0cGF1YnEzbHh0RFc3RTBRLTRrWjdOSWhLX3hvQlJhTkc2WVZaWG80RFVVbFI5VnlTalRCR0VCZDJ5c21mY1o2eHVIVVllQlpNN1dMNkhqMFRCLWlxSWZVRkxPVzd6clhHSg?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -181,6 +181,18 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNblRzMEh2alZ5bmUwb1BjVkVHYkc2TWIyYXE5cld4QVlRTzVJQnVENENZM05IU3V3dEtvb2ZqYk1lWE9PdDFYN1VwVm1qaEdIaXBRZElJemVwdTFjNy1MaUpIcmN0NzRQT1B4QkV3enRyYUpYT0JhTmZXT1pjNVpKNU85SFYxQnZLbUNwNVhMY0gzQ0huZGVEWTVYbnpiSThLZ1ZVZGNlNnRtSDdQVkppeWJqZ1JfejTSAbwBQVVfeXFMTjNSNkU1ekswek95MnVVbFQ4M0NWaTVYd0hVRzBzU1dpSXRNUkQzYlBYcnBPdGNId0lRWDBDYmZ0MzFGY3I2YjFjZjNILTVpZklMRVVVWUdQLU9WdEMwQ1p2Tk50c0k5YWRQSFJPNEpyYXNFbDlPUFo4ZEJPZkFrdGR6UDlJZ1ZObHhRZzBUblp3b2Y1YnpQQ3JyQ29xTVZ5UVN5MGFNZC1jRGo3ZjBIM2txa1BSRkpBSDNKZ2Q?oc=5",
       "site": "ABC News - Breaking News, Latest News and Videos",
       "siteUrl": "https://abcnews.com"
+    },
+    {
+      "id": "FL-c662a64d9326",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 11:46:00 GMT",
+      "ts": 1790336760000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "One dead, one critical following house explosion in Hazel Green - WAFF",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQVhSQWpzYUltNUVickxHVXo2THZ1UkpGR1NSbkVid3U3WnNmZUdFOFczdG5kQ0NZRUN0T2FqZElaX3ZrTmdPRnllUXNTTUkyOGNfdGtnbXdNa1FsMUY3Zmg3LUp6QVlMNkMteEV2ME1XQzhFVmY4TmR0cDA3TmVqelZqdEgtbkZlRURwdUtGdkNVZURscWVraXVIWVhOSXM?oc=5",
+      "site": "WAFF",
+      "siteUrl": "https://www.waff.com"
     },
     {
       "id": "FL-0506cfe6aef2",
@@ -243,14 +255,14 @@
       "siteUrl": "https://tech.sina.cn"
     },
     {
-      "id": "FL-c662a64d9326",
+      "id": "FL-f8c80caf0129",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 11:25:00 GMT",
       "ts": 1790335500000,
       "scope": "intl",
       "type": "blast",
-      "title": "One dead, one critical following house explosion in Hazel Green - WAFF",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWmxNcFh4OXU1bGdhdEp6ZDdyZmJQQV9PUmd2RE1sNWlWZFE2VVRTX2JaN3FZblE0eE54cHdpNEh2N3BHYTR3T3RRdUhralItaVRXaHc0YVRsazUtN1FWcXFCSS1MY05rUmFEb09aX0FDRkZpVnhGRDFnR1ZsRGVNU09FWmlhaVNURndIdlA1SdIBowFBVV95cUxNV3RvTzdQWUFoMXdnVTBXNjRzTXVsSWN0Rmc2VVZRQ29jMUQ4WVRDT0FuelVYTlg4RFJtWWZoS25TSkpHR0lDWHRHZ0JpdkNkdU40WlhTc2t1Y0thVUpzWVZsMTJVaTZoeVQyUTRyQ001dzl5VnNxYlpNRmMwUlVITmEweEFzVGRvaVc4TEJtOFQxVVlCTmhRTmJ3QnlKTlh3T0RB?oc=5",
+      "title": "Two dead following house explosion in Hazel Green - WAFF",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVUl2LXJzM3RpNVVFSVhMMURmSXU1SXRmbkg3NS1ZU1FFbXV6NlptMU5YbTdsd0NnLTIwUDYzS3c5eEdpRlhhZ2lTV0tRWWlmWG5acVJ6SE9BV3ZwTUZTNWZSOHpZZGVucGZLajFwVk5QLUlGRG9yTk9jbWhlZmNBSkZQb1FHQdIBmgFBVV95cUxQbmhVV0ZIS3pkc0NRNTRJLThLaTI2T0FZRm5TRXhnSUwtVG4tenRJTzBrV1E5VGNZaHJfczI0TUlaQTFJbEZIVDdBWUFNN3RCclZ4NHNZb1FCTG9JdlBNOE5LS0M2RGFib2Q1endqVWpGcmdMdFRVb1RTVmtwZkdmVlN4cFRpZEZGZ241SllpdDJQSUR4R3lMNlBB?oc=5",
       "site": "WAFF",
       "siteUrl": "https://www.waff.com"
     },
@@ -351,15 +363,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-310857ceb8ae",
+      "id": "FL-9f35ddfd7844",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 01:28:24 GMT",
       "ts": 1790299704000,
       "scope": "intl",
       "type": "blast",
-      "title": "利雅得遭空袭，直播记录拦截导弹爆炸声 - 手机新浪网",
+      "title": "利雅得遭空袭，直播记录拦截导弹爆炸声 - k.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ya3lQcnE5WW9vNGZVbVliMkt5ZndNSTl2MWJCYU9peXVWY0xTQ1FHNUVhaTBhWUE0MEQ2MmV6a0ZySHpsQjFycGwtX1NVY3dqbkxSWGx6c1hlQThBUE9ZYkhaUHd1bkRsSHRnSlVVQnBWYVU?oc=5",
-      "site": "手机新浪网",
+      "site": "k.sina.com.cn",
       "siteUrl": "https://k.sina.com.cn"
     },
     {
