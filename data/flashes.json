@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T10:18:25.170Z",
+  "updated": "2026-09-26T10:28:52.597Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -51,6 +51,18 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
+      "id": "FL-ed5bb4de52b7",
+      "date": "2026-07-02",
+      "dateISO": "Thu, 02 Jul 2026 07:00:00 GMT",
+      "ts": 1782975600000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "涉留神峪特别重大瓦斯爆炸事故 崔瑞军被查 - 中国日报网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwQldTMXJVdFF1VDFZdGpMSG9kcElHUTdDWkpNbEpBeVJLMVltU3JaY05MZG5PR3NnWUFHMURJelctUkhNalZTQWM0d2N2ZU81blNIRW9fZ0hyMExJQ2tRZE1CRllnRnFJcXVWbXpwMnMwMWlwT1R5Qmt4aDE?oc=5",
+      "site": "中国日报网",
+      "siteUrl": "https://cn.chinadaily.com.cn"
+    },
+    {
       "id": "FL-340d5e981918",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
@@ -73,6 +85,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-13dcb2ef649f",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 09:53:48 GMT",
+      "ts": 1790416428000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "比赛结束现场燃爆了！中国选手：珍惜一生一次的机会 - stdaily.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90WW5rcDNsQlc1TjhoM0pXM0U4aXhLa0QxSXg3TmV0VFdLWFFIQktSUXZ6elNFcVV2dFlOX2VrT0o5V1NycWhWRm40WGFfUXpqTDcxRVptTC1IZndtdVpGNzRpZWUyT3J2d2FBeml5RTI?oc=5",
+      "site": "stdaily.com",
+      "siteUrl": "https://www.stdaily.com"
     },
     {
       "id": "FL-29eac252d7ed",
