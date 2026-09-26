@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T05:46:03.827Z",
+  "updated": "2026-09-26T05:52:56.996Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,15 +15,15 @@
       "siteUrl": "https://www.cpnn.com.cn"
     },
     {
-      "id": "FL-52720b98ede5",
+      "id": "FL-385dd58b908a",
       "date": "2026-08-11",
       "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
       "ts": 1786431600000,
       "scope": "dom",
       "type": "blast",
-      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - science.caixin.com",
+      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - 财新",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fOUNOVy1jMjYtRHRacDFONmZLdmtlUTBvcjVNX0xwMG9rc2lwYkV4ZzRCOFVIVmdNLXdZcUo3Mkw1UnI3elZsRjNGblI4YTBsMGxPeHJCRnZSNWE0dXNTdXRxcUQ?oc=5",
-      "site": "science.caixin.com",
+      "site": "财新",
       "siteUrl": "https://science.caixin.com"
     },
     {
@@ -99,6 +99,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-a2665f32b400",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 05:42:00 GMT",
+      "ts": 1790401320000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "中秋夜40623名球迷燃爆鞍山奥体，为“辽超”呐喊 - sohu.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMVZ6TVpveWFzWXRpU0t0OHlqcVdoYVE1UkxSSTllMlJIUzlNLWQ3WmFmNUIyRmEyblZsVGxNdHVETnVycmZnNzZGWC02c3V2MFNSWlFaRGpuajdkcUxQaHZtSmJJeHZ1SjZYRUZSWS1FdC0xNnYtVFg3RXYwM1lxamVoeml5Y0hN?oc=5",
+      "site": "sohu.com",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-a25da0fb5b1b",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 04:36:00 GMT",
@@ -111,15 +123,15 @@
       "siteUrl": "https://tv.cctv.com"
     },
     {
-      "id": "FL-23a5e2a86bf7",
+      "id": "FL-595a492ff23e",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 03:37:14 GMT",
       "ts": 1790393834000,
       "scope": "dom",
       "type": "blast",
-      "title": "泰退役少将儿子涉朝消防员开枪 屋内搜出机枪和爆炸装置 - 8world",
+      "title": "泰退役少将儿子涉朝消防员开枪 屋内搜出机枪和爆炸装置 - 8world.com",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOVhmSUd6ZTdVNmxPTXFVWmYxTTVJeVcxN3FvRTh1SExRMXJvZ0lQTklPYTc4T0dHb0Ixb2h5aVNxY1ZzVFM5UVRLWWR3dFhMbkRYZEw2TlhsNEtsQmF4NW80UHlaSlhpZmUwNkNqbVhnalJETXpKbWMydUFWcFdhUXdQNi1Wc29TVzBtMzg0bWk?oc=5",
-      "site": "8world",
+      "site": "8world.com",
       "siteUrl": "https://www.8world.com"
     },
     {
@@ -147,15 +159,15 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
-      "id": "FL-bc5a0b5cb5b0",
+      "id": "FL-c2b5e87a66f1",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 03:47:19 GMT",
       "ts": 1789789639000,
       "scope": "intl",
       "type": "blast",
-      "title": "巴基斯坦西北部爆炸已致21死 巴总统称将继续反恐行动 - news.cctv.com",
+      "title": "巴基斯坦西北部爆炸已致21死 巴总统称将继续反恐行动 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JdTVsYVVFWHBSX3JkaE5ocVh2cmtPd0NWVkpmT1EyOENqOGJZcHhnQllGeU9RYThKRTJmYnRVaXpEQ25RcGNGNi1LcmZJUUFnY2Q1cVVpS2dkSW8wQzJfSFI4U3FYMzdXNmJSWm1SdEpsckl2Y190Sg?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -219,27 +231,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-af0a4fc8aa4b",
-      "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 22:32:31 GMT",
-      "ts": 1790375551000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Massachusetts nor’easter: Hurricane-like storm set to blast the Bay State - Boston Herald",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUGdIbWNBUXh5ZUJkTXg3RjBDTjkzQ08yTFhWeW4wLXM4V08tbGpXMm9wVUlNSUFaWWU1VmtHWURTX2xWblQxOHJsRW9HV1hSVjJ0c3B5dDVJeldkUUtnWDUtdmNjd0Q5LVhLS1pqbWJkOHF6ZWNqdzVrTUtUZnFHUm51eE5BZ3RGNzczWUNKdHo3VF9pb01FYUhzLVJ5LWpXNmdwSERXUXJqa2NMRW5IX253?oc=5",
-      "site": "Boston Herald",
-      "siteUrl": "https://www.bostonherald.com"
-    },
-    {
-      "id": "FL-7005ed608ceb",
+      "id": "FL-59822b76f839",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 20:16:18 GMT",
       "ts": 1790367378000,
       "scope": "intl",
       "type": "blast",
-      "title": "6 People Are Missing After Explosion in Athens Tourist District - The New York Times",
+      "title": "6 People Are Missing After Explosion in Athens Tourist District - nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVXJHLWNEZ2cxNzZRN3MxdnZ4N1NOZ3dpaWZSZTFaVjl2MlFNRHRJdEhkUkpST3JNTGV0NXJMWlJLeVl6MHNXZkpJemQ1dERYZ2dOOW1LWXpIUmdNUFdOZ3JDSkpZUExIVlQxbUhDZ0l4eW1kc3A1REI3UWhPWExySHlWV08?oc=5",
-      "site": "The New York Times",
+      "site": "nytimes.com",
       "siteUrl": "https://www.nytimes.com"
     },
     {
@@ -279,15 +279,15 @@
       "siteUrl": "https://abcnews.com"
     },
     {
-      "id": "FL-fd1460b333a8",
+      "id": "FL-a2f1531e7ca3",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 11:33:52 GMT",
       "ts": 1790336032000,
       "scope": "dom",
       "type": "blast",
-      "title": "以军无人机卡萨坠毁爆炸 致两士兵死亡 - 8world",
+      "title": "以军无人机卡萨坠毁爆炸 致两士兵死亡 - 8world.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYWh0NGxvdVk4T09kUUdzOU1rNUtyWXNJSF9jVzE1eFRfZGUtb1lLVmxOZ2xrT1c0aXE0bVM0NVFEamVFVll3dWw3N0JtVk1nTlBtZ2dZV0tvMEsyQVZUQXVEMlFQck00OElVdFhWV2oyRXFhOHdOWUVBOFJTNDlNMGZrdFlTbnhqSlE3bmNKdm5EbU1renBYcmtDMGtKdGNBZjFfaTlid3RCQXhyZ1lzVA?oc=5",
-      "site": "8world",
+      "site": "8world.com",
       "siteUrl": "https://www.8world.com"
     },
     {
@@ -315,27 +315,15 @@
       "siteUrl": "https://www.waff.com"
     },
     {
-      "id": "FL-0c4f5573ec38",
-      "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 10:30:51 GMT",
-      "ts": 1790332251000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "雅典旅游区住宅爆炸坍塌 三人受伤多栋商铺受损 - 8world",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTVg4UlpjRWtqUzRtVHROQVBPeUtYYkV5aUVPNkJGVjBlSnFZa0Q1bmhpbnd5RzBDSkxjTnk1elhlZThTVGRhSHRWZkgybXo4c3kwal9hLXJkc1dvNkpmOG9DSFRfeXd1MUhWLXBYRnp4cHpVcGNBZlNwMldKdWJDSGVHRTNGV2ZuUWMxaTltTU10d2x2MjJwX1NQTklfZWVu?oc=5",
-      "site": "8world",
-      "siteUrl": "https://www.8world.com"
-    },
-    {
-      "id": "FL-6406b2d4a6da",
+      "id": "FL-dd4e14503ca4",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 09:49:43 GMT",
       "ts": 1790329783000,
       "scope": "intl",
       "type": "blast",
-      "title": "印度试射新型防空导弹 发射失败变“呲花” 从发射筒掉落后在地上“打滚” 但并未发生爆炸 - 搜狐网",
+      "title": "印度试射新型防空导弹 发射失败变“呲花” 从发射筒掉落后在地上“打滚” 但并未发生爆炸 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcFotdThBSmdQZGZxeWJ2SUp0MDAzcWNSazBZN1dsSmNUZlhuQXhxZnEtemlOcWM2M1pQd1I1am1WT0F3bW9rakVjYVl1QzZuOW03V1Nkc08ybTJBMUhTWkZRNEktVzZ5N1VlTURxQUVSVFlZdHRGUHllRnFrU0FPUGVGbG5CMFZQ?oc=5",
-      "site": "搜狐网",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -373,18 +361,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92WW1HV0ttYlE2bUkxb2ZWUDVCSUNuTmRaQnNSWnpDTElPRUFUOXk3U3FoX2VKTm1FQ29TaDBocTUwMTZlMU1Za2hRUkxEMG9taGphNkZvSjI4UF9wUzVyU0E4amUyQdIBa0FVX3lxTE5YVGx2WWxZY1lKNjNHQ1huNHZQWWFqTW1MR0p6RnBwaVdSSXlKT1FEQmx6dzI3dVBIVm5jTVdpRHR6b05UeHRKdUVrZEFMbzcwOUJLcHhGWVBaN2tnU2c5QzFKTEdyZml6ZDg0?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-a4c84c6d032d",
-      "date": "2026-06-05",
-      "dateISO": "Fri, 05 Jun 2026 07:00:00 GMT",
-      "ts": 1780642800000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "辽宁本溪一商铺疑似液化气罐泄漏引发爆炸：2人死亡13人轻微伤 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qQlpCOEt3cGs2NmdiMHBrTlVwekFZQ2pKaTI0cnRPMmt3Z1pCLVUxai1tYkw2RnMzbGctVm5zb0ZwcTIyNlZmUEh0M3MwTlQtRkU2NlJlNnpGdU5vUl9VZ1p2YUNqZi1qLUdYNjNn?oc=5",
-      "site": "央广网",
-      "siteUrl": "https://www.cnr.cn"
     }
   ]
 }
