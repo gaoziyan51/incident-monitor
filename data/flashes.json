@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-26T09:38:44.922Z",
+  "updated": "2026-09-26T09:46:22.069Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-710fe48d473f",
+      "date": "2026-06-03",
+      "dateISO": "Wed, 03 Jun 2026 07:00:00 GMT",
+      "ts": 1780470000000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "特别重大瓦斯爆炸事故后 山西煤矿迎来“最严整治” - 中国能源新闻网",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tM3B2anpUNmRxVVRfUk0yOVBuN2ZDNU9uQUJXWEljSEFEX3FXVU5QUWVXZEh0b3drdU5fNXlkXzRvdURYaDZJYXRkN0hUWXJoRXBPcXVud2NpLWRLQUxpMXZTYU5DNnRYbGQ5TVlR?oc=5",
+      "site": "中国能源新闻网",
+      "siteUrl": "https://www.cpnn.com.cn"
+    },
     {
       "id": "FL-385dd58b908a",
       "date": "2026-08-11",
@@ -51,6 +63,18 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
+      "id": "FL-ed5bb4de52b7",
+      "date": "2026-07-02",
+      "dateISO": "Thu, 02 Jul 2026 07:00:00 GMT",
+      "ts": 1782975600000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "涉留神峪特别重大瓦斯爆炸事故 崔瑞军被查 - 中国日报网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwQldTMXJVdFF1VDFZdGpMSG9kcElHUTdDWkpNbEpBeVJLMVltU3JaY05MZG5PR3NnWUFHMURJelctUkhNalZTQWM0d2N2ZU81blNIRW9fZ0hyMExJQ2tRZE1CRllnRnFJcXVWbXpwMnMwMWlwT1R5Qmt4aDE?oc=5",
+      "site": "中国日报网",
+      "siteUrl": "https://cn.chinadaily.com.cn"
+    },
+    {
       "id": "FL-340d5e981918",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
@@ -75,27 +99,39 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-d94203734f1b",
+      "id": "FL-29eac252d7ed",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 09:39:10 GMT",
+      "ts": 1790415550000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典旅游区住宅爆炸倒塌 一死五失踪 - 联合早报",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FdG5Ray01eFNyVFBPRk9ZQ1VGdDZpSjdndy1kQlVlWmxnY1dtYjJjMXpLYlFWWWhBZmVlRzNoT1NSeXdDa2lpbmZ2RUtza2YzOXp2V0hMYkk1MEJkMEpqb0MyZFN0bjVrSmc?oc=5",
+      "site": "联合早报",
+      "siteUrl": "https://www.zaobao.com.sg"
+    },
+    {
+      "id": "FL-8d9dce0cb5db",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 08:52:00 GMT",
       "ts": 1790412720000,
       "scope": "dom",
       "type": "blast",
-      "title": "燃爆国庆！歼20、99A坦克模型亮相广州琶洲国防科博会 - sohu.com",
+      "title": "燃爆国庆！歼20、99A坦克模型亮相广州琶洲国防科博会 - 搜狐网",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT000UUtZWWRtYTBsMEk4VEZqc1hpb3hzSzVCOXo5eVNmam84OFlaeFJiUzZHcUhSS2REMXh3N2dzZFplWWduTnBQaExaOXVjc29xRW9LU0lheWJzbk0teGJLVTdmX1RBU1pKTXFOdHctT0EwX216dXlhWTZ5WTRTd1ZiYjJsUGFhUmpGeA?oc=5",
-      "site": "sohu.com",
+      "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-8c1e25f351a5",
+      "id": "FL-275868e189c9",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 07:45:47 GMT",
       "ts": 1790408747000,
       "scope": "intl",
       "type": "blast",
-      "title": "One dead, 5 missing after explosion destroys building in Athens - Reuters",
+      "title": "One dead, 5 missing after explosion destroys building in Athens - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbTJpdXZYT3MyX1dFU1pNMW5raW40eUpoZWNKZFZnY3U1SFJiZjB4OVdhQ3JBN3R1eFFFaUFnUFFHZXh2R2J1ZldkVkotZW1ab1VEeFZNLVhHTnAxaXhmQnAxZ2ItOUc0U0l5TDE0ZW9OMTNUa0hGTjNWSTdoN2IxVGFINU0xVGlVdzBXSXVMYnozVHRhRWF2ZXlZMWxIN0NsSW04?oc=5",
-      "site": "Reuters",
+      "site": "reuters.com",
       "siteUrl": "https://www.reuters.com"
     },
     {
@@ -183,18 +219,6 @@
       "siteUrl": "https://ua.news"
     },
     {
-      "id": "FL-2b6209ce7a07",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 01:16:00 GMT",
-      "ts": 1790385360000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "俄罗斯克拉斯诺达尔边疆区伊尔斯基炼油厂夜间起火，居民称听到爆炸| 乌克兰新闻 - Межа. Новини України.",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wMk9taXhsdXdZcmxWdVhqUGZGVlVhN0JBcjhCbGxQVE1KOEVkY1FlNzhlQURZcDlMb2ttMTFscTdJaVY3Tlh6XzlHQnZ3cHNXZG1wRjV2WVBpZVRkWHpCenNNQQ?oc=5",
-      "site": "Межа. Новини України.",
-      "siteUrl": "https://mezha.net"
-    },
-    {
       "id": "FL-37ae5c7b2505",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 13:34:10 GMT",
@@ -219,15 +243,15 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-5c993148a45d",
+      "id": "FL-0a94e597e848",
       "date": "2026-09-05",
       "dateISO": "Sat, 05 Sep 2026 07:00:00 GMT",
       "ts": 1788591600000,
       "scope": "intl",
       "type": "blast",
-      "title": "伊朗哈尔克岛附近海域传出爆炸声 - news.cnr.cn",
+      "title": "伊朗哈尔克岛附近海域传出爆炸声 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VUEJ2eGF5WGt5UmQxcTlHcDNzTU9aVVV6OVNOcmM0ODFCVWF2Ui1KU21uQkJ3TFVPMTktNEFxZzRvWVl0UVJWMTlUU3ZaYl9wb20yaGZWRFZMTF9QczVXd2pFelZQdVJp?oc=5",
-      "site": "news.cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
     },
     {
@@ -327,27 +351,39 @@
       "siteUrl": "https://www.yzwb.net"
     },
     {
-      "id": "FL-6c21a2dc1f84",
+      "id": "FL-a76f410d6e33",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 11:26:15 GMT",
       "ts": 1790335575000,
       "scope": "dom",
       "type": "blast",
-      "title": "货车司机路遇车祸救出伤者，刚撤离即发生燃爆致烧伤 对话本人：都是跑车的，人没了家就垮了 - 手机新浪网",
+      "title": "货车司机路遇车祸救出伤者，刚撤离即发生燃爆致烧伤 对话本人：都是跑车的，人没了家就垮了 - tech.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01WWtKWkp4MmJiT3F0RXE4RGdmRmZxcHVwbmZBd0thV3NlaDFwY0xrRTZPV1JoRmZNMzl2ZUFsQ21meTNKcFp4Rnk4cG5HTEtERk94NmJpSnprWkVZNjhYV0ZpeklqWVgxQkxGcUdlS3hhbUdJ?oc=5",
-      "site": "手机新浪网",
+      "site": "tech.sina.cn",
       "siteUrl": "https://tech.sina.cn"
     },
     {
-      "id": "FL-dd4e14503ca4",
+      "id": "FL-97e67bbd27ea",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 10:45:00 GMT",
+      "ts": 1790333100000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "货车司机路遇车祸救出伤者，刚撤离即发生燃爆致烧伤 对话本人：都是跑车的，人没了家就垮了 - finance.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HZlotRTdrelhWTGFPS3loZjg2MTdxUXBPSFRTTEZMVDlMd1dGNGVtbUV5UmVoekk5MWhoSHMycHpvNHROZTR6MUhCR0VidnIzenoySTFPdmVLSTM0bXVlcXlxd3lpdHpLLW5EUm1lVmJDc2k2TmFONEQ0OG1xbkU?oc=5",
+      "site": "finance.sina.com.cn",
+      "siteUrl": "https://finance.sina.com.cn"
+    },
+    {
+      "id": "FL-6406b2d4a6da",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 09:49:43 GMT",
       "ts": 1790329783000,
       "scope": "intl",
       "type": "blast",
-      "title": "印度试射新型防空导弹 发射失败变“呲花” 从发射筒掉落后在地上“打滚” 但并未发生爆炸 - sohu.com",
+      "title": "印度试射新型防空导弹 发射失败变“呲花” 从发射筒掉落后在地上“打滚” 但并未发生爆炸 - 搜狐网",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcFotdThBSmdQZGZxeWJ2SUp0MDAzcWNSazBZN1dsSmNUZlhuQXhxZnEtemlOcWM2M1pQd1I1am1WT0F3bW9rakVjYVl1QzZuOW03V1Nkc08ybTJBMUhTWkZRNEktVzZ5N1VlTURxQUVSVFlZdHRGUHllRnFrU0FPUGVGbG5CMFZQ?oc=5",
-      "site": "sohu.com",
+      "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -363,18 +399,6 @@
       "siteUrl": "https://mil.ifeng.com"
     },
     {
-      "id": "FL-77a82b35e76f",
-      "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 03:25:12 GMT",
-      "ts": 1790306712000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "效率爆炸！阿贾·威尔逊上半场16分钟13中10狂轰21分 正负值+23 - sports.sina.cn",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTi1nOWVFaDgtY2lnV0I3RzNOY3hOdENuSDhZZFJBTG1YeVVEOGZBVDQ4VkRBSVBBVmwtUmxJVS1DNlBmbTFhdXJFTzJVay1aaVBacHd0ZndPZm5zUnNWeHh2eTZPd19oOWkyWElOYXZaMjlpR3VBSlRoZkFyS0xIMG15RjY?oc=5",
-      "site": "sports.sina.cn",
-      "siteUrl": "https://sports.sina.cn"
-    },
-    {
       "id": "FL-4ed1ffe514b4",
       "date": "2026-08-21",
       "dateISO": "Fri, 21 Aug 2026 07:00:00 GMT",
@@ -387,16 +411,28 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-bdfd4018f31a",
-      "date": "2026-09-18",
-      "dateISO": "Fri, 18 Sep 2026 09:53:00 GMT",
-      "ts": 1789725180000,
+      "id": "FL-84a9598aa100",
+      "date": "2026-06-12",
+      "dateISO": "Fri, 12 Jun 2026 07:00:00 GMT",
+      "ts": 1781247600000,
       "scope": "intl",
       "type": "blast",
-      "title": "巴基斯坦西北部发生爆炸，已致7人死亡 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lZWpYRmFGekN4TUtwaF9fc2doQ3NmT1BPME1HWmc0ZjgtNUpSQVRMSlpBNGFvNzBxX2ZUOGpmNk5RS2tXVXFIZFlQVEo5ZGlXMzN2RjZZRG03V2pkQ2Z2b0dOVDE1R3JzYlc0SzdIZUt5QQ?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://xinwen.bjd.com.cn"
+      "title": "泰国当局判处两维吾尔人死刑　BBC记者回忆当年的曼谷四面佛爆炸案 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92WW1HV0ttYlE2bUkxb2ZWUDVCSUNuTmRaQnNSWnpDTElPRUFUOXk3U3FoX2VKTm1FQ29TaDBocTUwMTZlMU1Za2hRUkxEMG9taGphNkZvSjI4UF9wUzVyU0E4amUyQdIBa0FVX3lxTE5YVGx2WWxZY1lKNjNHQ1huNHZQWWFqTW1MR0p6RnBwaVdSSXlKT1FEQmx6dzI3dVBIVm5jTVdpRHR6b05UeHRKdUVrZEFMbzcwOUJLcHhGWVBaN2tnU2c5QzFKTEdyZml6ZDg0?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-a4c84c6d032d",
+      "date": "2026-06-05",
+      "dateISO": "Fri, 05 Jun 2026 07:00:00 GMT",
+      "ts": 1780642800000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "辽宁本溪一商铺疑似液化气罐泄漏引发爆炸：2人死亡13人轻微伤 - 央广网",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qQlpCOEt3cGs2NmdiMHBrTlVwekFZQ2pKaTI0cnRPMmt3Z1pCLVUxai1tYkw2RnMzbGctVm5zb0ZwcTIyNlZmUEh0M3MwTlQtRkU2NlJlNnpGdU5vUl9VZ1p2YUNqZi1qLUdYNjNn?oc=5",
+      "site": "央广网",
+      "siteUrl": "https://www.cnr.cn"
     }
   ]
 }
