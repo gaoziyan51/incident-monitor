@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T09:01:35.210Z",
+  "updated": "2026-09-26T09:18:51.688Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -99,15 +99,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-8d9dce0cb5db",
+      "id": "FL-d94203734f1b",
       "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 08:09:00 GMT",
-      "ts": 1790410140000,
+      "dateISO": "Sat, 26 Sep 2026 08:52:00 GMT",
+      "ts": 1790412720000,
       "scope": "dom",
       "type": "blast",
-      "title": "燃爆国庆！歼20、99A坦克模型亮相广州琶洲国防科博会 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVFFja1hMOVZ4blJVN1ZZUmhaLTNLLXRYSy1aTXFHbDhYbk52Ym9xNWpxNlhZUUhKRUdGX3ZvMjVTTnBfNllsekNLTVFCYkFPci1PdGNES2hTdHE5blBDN05EN1BTU3JJRlYyYmU4QVRLbTVfLWMxQ0FPaHZjWXdLVmJGY2NSS0Ff?oc=5",
-      "site": "搜狐网",
+      "title": "燃爆国庆！歼20、99A坦克模型亮相广州琶洲国防科博会 - sohu.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT000UUtZWWRtYTBsMEk4VEZqc1hpb3hzSzVCOXo5eVNmam84OFlaeFJiUzZHcUhSS2REMXh3N2dzZFplWWduTnBQaExaOXVjc29xRW9LU0lheWJzbk0teGJLVTdmX1RBU1pKTXFOdHctT0EwX216dXlhWTZ5WTRTd1ZiYjJsUGFhUmpGeA?oc=5",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -157,6 +157,18 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91NDU3YTViSFlJLV9oWFg2dW9BaU4ybkZyTEZzUHE2US1IbHpHd2ZXY1hSMUxtMXNpSzZBY3hjRG5PbWdSenE4eFRZZ3ktZVo5djdLNkxYX2F5eDhVVjdteU1yM1hFb1U5MDE2anZ3?oc=5",
       "site": "央广网",
       "siteUrl": "https://www.cnr.cn"
+    },
+    {
+      "id": "FL-b2d531350e94",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 04:04:00 GMT",
+      "ts": 1790395440000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典住宅楼爆炸后部分坍塌一人死亡五人失踪| 乌克兰新闻 - Межа. Новини України.",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5NUNkdnJyemtQVkdJNEhfQzk5ZE5feTY1dV80eGU5S2NVR3RTZHN5aVVCc3lOM1lmT1NLWVZXUXpkSG5yWHlBbkNPMTNIR0V4ZE5RNE9tSFhfRTl0TU1YMDVUQzdORGRYZU5qbGRYRHI4aWc?oc=5",
+      "site": "Межа. Новини України.",
+      "siteUrl": "https://mezha.net"
     },
     {
       "id": "FL-6640ca852beb",
@@ -219,15 +231,15 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-0a94e597e848",
+      "id": "FL-5c993148a45d",
       "date": "2026-09-05",
       "dateISO": "Sat, 05 Sep 2026 07:00:00 GMT",
       "ts": 1788591600000,
       "scope": "intl",
       "type": "blast",
-      "title": "伊朗哈尔克岛附近海域传出爆炸声 - 央广网",
+      "title": "伊朗哈尔克岛附近海域传出爆炸声 - news.cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VUEJ2eGF5WGt5UmQxcTlHcDNzTU9aVVV6OVNOcmM0ODFCVWF2Ui1KU21uQkJ3TFVPMTktNEFxZzRvWVl0UVJWMTlUU3ZaYl9wb20yaGZWRFZMTF9QczVXd2pFelZQdVJp?oc=5",
-      "site": "央广网",
+      "site": "news.cnr.cn",
       "siteUrl": "https://news.cnr.cn"
     },
     {
@@ -351,15 +363,15 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-6406b2d4a6da",
+      "id": "FL-dd4e14503ca4",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 09:49:43 GMT",
       "ts": 1790329783000,
       "scope": "intl",
       "type": "blast",
-      "title": "印度试射新型防空导弹 发射失败变“呲花” 从发射筒掉落后在地上“打滚” 但并未发生爆炸 - 搜狐网",
+      "title": "印度试射新型防空导弹 发射失败变“呲花” 从发射筒掉落后在地上“打滚” 但并未发生爆炸 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcFotdThBSmdQZGZxeWJ2SUp0MDAzcWNSazBZN1dsSmNUZlhuQXhxZnEtemlOcWM2M1pQd1I1am1WT0F3bW9rakVjYVl1QzZuOW03V1Nkc08ybTJBMUhTWkZRNEktVzZ5N1VlTURxQUVSVFlZdHRGUHllRnFrU0FPUGVGbG5CMFZQ?oc=5",
-      "site": "搜狐网",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -387,6 +399,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-83bdd8b98107",
+      "date": "2026-09-18",
+      "dateISO": "Fri, 18 Sep 2026 21:26:00 GMT",
+      "ts": 1789766760000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "沙特首都利雅得再次传出爆炸声 - 封面新闻",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0RVJ2NHZDR09BWmtLVkdDTElrRGtkUWpkVThacnhENmpyeUh6b1RVZk1kNXY4MEpBeWx0NU5jWk9DY01Xd3ptQjVXZmdqRlZSN2JqeGRkSFQ0Ym1XUi1LOTd2OVVpQjdzdDFNb09HR3FpaGY5R3JZ?oc=5",
+      "site": "封面新闻",
+      "siteUrl": "https://m.thecover.cn"
+    },
+    {
       "id": "FL-84a9598aa100",
       "date": "2026-06-12",
       "dateISO": "Fri, 12 Jun 2026 07:00:00 GMT",
@@ -407,18 +431,6 @@
       "type": "blast",
       "title": "辽宁本溪一商铺疑似液化气罐泄漏引发爆炸：2人死亡13人轻微伤 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qQlpCOEt3cGs2NmdiMHBrTlVwekFZQ2pKaTI0cnRPMmt3Z1pCLVUxai1tYkw2RnMzbGctVm5zb0ZwcTIyNlZmUEh0M3MwTlQtRkU2NlJlNnpGdU5vUl9VZ1p2YUNqZi1qLUdYNjNn?oc=5",
-      "site": "央广网",
-      "siteUrl": "https://www.cnr.cn"
-    },
-    {
-      "id": "FL-7220c0721191",
-      "date": "2026-06-05",
-      "dateISO": "Fri, 05 Jun 2026 07:00:00 GMT",
-      "ts": 1780642800000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "辽宁本溪商铺爆炸致2死13伤 车载记录仪拍下爆炸瞬间 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GNzZvV1RzRkNfY3RnS0FmNUN6cmc5d2lMWWcyeXdjNkRhQWRNcXJqVWJvNVJkSzZ0djAzNnBNU1FYeWwzSG05bmZrcUxvdDZVMXdxcS1UdXZHVU5QWkNzLTJPZkZWYjdrZ0UtRnB3?oc=5",
       "site": "央广网",
       "siteUrl": "https://www.cnr.cn"
     }
