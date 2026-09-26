@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T08:20:32.834Z",
+  "updated": "2026-09-26T08:35:36.242Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -291,15 +291,15 @@
       "siteUrl": "https://www.nytimes.com"
     },
     {
-      "id": "FL-c458d90c0060",
+      "id": "FL-187decb549fb",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 17:57:44 GMT",
       "ts": 1790359064000,
       "scope": "intl",
       "type": "blast",
-      "title": "Blast near Acropolis in Greece injures 2, collapses a building. Local media say gas leak suspected - AP News",
+      "title": "Blast near Acropolis in Greece injures 2, collapses a building. Local media say gas leak suspected - apnews.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbHpYeFRfTzkwWnNjOVNuZHY5SndUSXAtMXdFZjhQSkZ6MUUxV1NCX01TYUVRTV9kb1N1d2NPVjJqd2d4aDNnQm9CdnQtX1Yza0lJOXJpOTNmMmZscXVvcFpZdkk2TVRaTUVLRGJkQ2h5YnBUNlJVNV91RkpaVHdOeE5EU2d5dUE5T2l1eklHbWgwUVZiWXJSenp6OUdwcEZ5?oc=5",
-      "site": "AP News",
+      "site": "apnews.com",
       "siteUrl": "https://apnews.com"
     },
     {
@@ -337,6 +337,18 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01WWtKWkp4MmJiT3F0RXE4RGdmRmZxcHVwbmZBd0thV3NlaDFwY0xrRTZPV1JoRmZNMzl2ZUFsQ21meTNKcFp4Rnk4cG5HTEtERk94NmJpSnprWkVZNjhYV0ZpeklqWVgxQkxGcUdlS3hhbUdJ?oc=5",
       "site": "tech.sina.cn",
       "siteUrl": "https://tech.sina.cn"
+    },
+    {
+      "id": "FL-97e67bbd27ea",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 10:45:00 GMT",
+      "ts": 1790333100000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "货车司机路遇车祸救出伤者，刚撤离即发生燃爆致烧伤 对话本人：都是跑车的，人没了家就垮了 - finance.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HZlotRTdrelhWTGFPS3loZjg2MTdxUXBPSFRTTEZMVDlMd1dGNGVtbUV5UmVoekk5MWhoSHMycHpvNHROZTR6MUhCR0VidnIzenoySTFPdmVLSTM0bXVlcXlxd3lpdHpLLW5EUm1lVmJDc2k2TmFONEQ0OG1xbkU?oc=5",
+      "site": "finance.sina.com.cn",
+      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-6406b2d4a6da",
