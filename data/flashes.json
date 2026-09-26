@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T15:52:43.425Z",
+  "updated": "2026-09-26T16:02:54.575Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -77,14 +77,26 @@
     {
       "id": "FL-df6a57a18b9c",
       "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 15:14:42 GMT",
-      "ts": 1790435682000,
+      "dateISO": "Sat, 26 Sep 2026 15:28:24 GMT",
+      "ts": 1790436504000,
       "scope": "intl",
       "type": "blast",
       "title": "6 dead after explosion collapses building in Athens - ABC News - Breaking News, Latest News and Videos",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVklsTWZ5eTlrS2xYSkFpQUoxQnFjNTBEVFhjVTgycVpMUXQxOG1KNS1weUR6NDBVV3JybkZna0pZOExLYld1MEszTkNNRkdZOWhCejFwekVIbjlPUzJ2Z1U5dm9IS3RyVzRxYklpWnhQMk9tQkxSV19TcXJpZEdKOU9CYmVWTXdjeGxvUnd5RE1oWS1iLVJTNjFtRnhsOHZPQlFj0gGoAUFVX3lxTFA0YnVEcE4wVVU0N1B0ZEtaQU9ZR1NpbUplZWNqb0RZcm5pU0dOUGJfVjU4emhfYnFLWHlmR3JFcTAzVFg3WGNadzI3dUg3LS1GczRibWNXZXU1TkR6cHB5VVljQkRLTlhxak1BVlhVc1hSd3AxQ1ZnM3dOcUNSVFJFU003Vy05NEN1V3NGSVZZTFJqendmcDh6RkVvWkdEZUlLMkRKR3JmTQ?oc=5",
       "site": "ABC News - Breaking News, Latest News and Videos",
       "siteUrl": "https://abcnews.com"
+    },
+    {
+      "id": "FL-5f1f793ed365",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 14:58:00 GMT",
+      "ts": 1790434680000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Six Dead After Explosion in Athens Tourist District - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVXJHLWNEZ2cxNzZRN3MxdnZ4N1NOZ3dpaWZSZTFaVjl2MlFNRHRJdEhkUkpST3JNTGV0NXJMWlJLeVl6MHNXZkpJemQ1dERYZ2dOOW1LWXpIUmdNUFdOZ3JDSkpZUExIVlQxbUhDZ0l4eW1kc3A1REI3UWhPWExySHlWV08?oc=5",
+      "site": "The New York Times",
+      "siteUrl": "https://www.nytimes.com"
     },
     {
       "id": "FL-fa5c2fe731df",
@@ -130,9 +142,9 @@
       "scope": "dom",
       "type": "blast",
       "title": "tkzin三度五杀状态爆炸，LOUD 2-0战胜EDG拿下冠军赛首胜！ - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWlNaMS1DMUNSMkc3aU9YR0cxQTg0cEE1ZVpDYkZnVFhHcl9UbWpua2RSQmZOUm9OdzRmZzZobl9ZYUlIQmRnTjRROWs4LThRa2pPYjhBR1RMTDJCTXo1VG1XbGp0Mngtazk2UWMzenBWNmtaM2U1OFhrQ2NzTlYxQ3RwdFdLX2dLUUw2ZnFWaU13SWZyOVdSOTZyX3Z2VDRTcGJhLXM2Vy0zZXlPZHJBZm04ZmUxby11cGQtbUl6Y21qTG9ZeHRaN1RBd19qMV9JVUdmeXVhcVk4dVdsMnhDdDczd1o1WV9VbTRrajE3QmZZNTNsS3c4NWgtSQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOelhvNDJFdzVKcnVqRXliaXg0VDR3TUR1YWFBbXVKc0NKeHQ3dGd6R0lFNmUtZXVxeWRtQnM2dkZlSHQwdTEyRXBlOThxcGRuSl9hRkVtRFF4V0c0WGV2VDd5UjJoOENqLW4zR2JoclBsMUlCVjUzbGVFSDlFZVlIRkpNMGRaU1ow?oc=5",
       "site": "搜狐网",
-      "siteUrl": "https://www.sohu.com"
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-0cd7dc58feea",
@@ -217,18 +229,6 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByR1hfOU5vOWZjdzltMmpIaXlseUN1bTNhdG42MnJWNmJ3TWZVc3VZZlJUSTFKbXVpUng4aEw3N2cyOTJ0OE44SHBtdGw4a0gzUXpGamg2dlpYaGlNN2RXZ0VBamh1Z0I0aFE?oc=5",
       "site": "联合早报",
       "siteUrl": "https://www.zaobao.com.sg"
-    },
-    {
-      "id": "FL-5f1f793ed365",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 12:04:00 GMT",
-      "ts": 1790424240000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Six Dead After Explosion in Athens Tourist District - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVXJHLWNEZ2cxNzZRN3MxdnZ4N1NOZ3dpaWZSZTFaVjl2MlFNRHRJdEhkUkpST3JNTGV0NXJMWlJLeVl6MHNXZkpJemQ1dERYZ2dOOW1LWXpIUmdNUFdOZ3JDSkpZUExIVlQxbUhDZ0l4eW1kc3A1REI3UWhPWExySHlWV08?oc=5",
-      "site": "The New York Times",
-      "siteUrl": "https://www.nytimes.com"
     },
     {
       "id": "FL-5e735aebc1c3",
@@ -519,15 +519,15 @@
       "siteUrl": "https://www.yzwb.net"
     },
     {
-      "id": "FL-97e67bbd27ea",
+      "id": "FL-59ae45eae1ab",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 10:45:00 GMT",
       "ts": 1790333100000,
       "scope": "dom",
       "type": "blast",
-      "title": "货车司机路遇车祸救出伤者，刚撤离即发生燃爆致烧伤 对话本人：都是跑车的，人没了家就垮了 - finance.sina.com.cn",
+      "title": "货车司机路遇车祸救出伤者，刚撤离即发生燃爆致烧伤 对话本人：都是跑车的，人没了家就垮了 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HZlotRTdrelhWTGFPS3loZjg2MTdxUXBPSFRTTEZMVDlMd1dGNGVtbUV5UmVoekk5MWhoSHMycHpvNHROZTR6MUhCR0VidnIzenoySTFPdmVLSTM0bXVlcXlxd3lpdHpLLW5EUm1lVmJDc2k2TmFONEQ0OG1xbkU?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
