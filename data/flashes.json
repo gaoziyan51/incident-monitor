@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T06:01:47.973Z",
+  "updated": "2026-09-26T06:23:53.295Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,27 +15,27 @@
       "siteUrl": "https://www.cpnn.com.cn"
     },
     {
-      "id": "FL-385dd58b908a",
+      "id": "FL-52720b98ede5",
       "date": "2026-08-11",
       "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
       "ts": 1786431600000,
       "scope": "dom",
       "type": "blast",
-      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - 财新",
+      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - science.caixin.com",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fOUNOVy1jMjYtRHRacDFONmZLdmtlUTBvcjVNX0xwMG9rc2lwYkV4ZzRCOFVIVmdNLXdZcUo3Mkw1UnI3elZsRjNGblI4YTBsMGxPeHJCRnZSNWE0dXNTdXRxcUQ?oc=5",
-      "site": "财新",
+      "site": "science.caixin.com",
       "siteUrl": "https://science.caixin.com"
     },
     {
-      "id": "FL-75ad25e28af3",
+      "id": "FL-c43cc5d24219",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 10:27:25 GMT",
       "ts": 1790245645000,
       "scope": "dom",
       "type": "blast",
-      "title": "“上海化工园区发生大爆炸”不实 造谣者被行政处罚 - 中华网",
+      "title": "“上海化工园区发生大爆炸”不实 造谣者被行政处罚 - news.china.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jMTVDWDRjc1owMEV4N3ZlTHd0Z2kyUDNudFVGc2xSM1F6MGtZMGRsS281dFRhMWo1MTVJUWtBZzA0TEdrWGs0ajBOMmtVVkMtTjJhRjRMM2EyZG9Ldm13MWN2Y2NiU3BZUHN5Q1B5RVI?oc=5",
-      "site": "中华网",
+      "site": "news.china.com",
       "siteUrl": "https://news.china.com"
     },
     {
@@ -63,18 +63,6 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
-      "id": "FL-ed5bb4de52b7",
-      "date": "2026-07-02",
-      "dateISO": "Thu, 02 Jul 2026 07:00:00 GMT",
-      "ts": 1782975600000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "涉留神峪特别重大瓦斯爆炸事故 崔瑞军被查 - 中国日报网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwQldTMXJVdFF1VDFZdGpMSG9kcElHUTdDWkpNbEpBeVJLMVltU3JaY05MZG5PR3NnWUFHMURJelctUkhNalZTQWM0d2N2ZU81blNIRW9fZ0hyMExJQ2tRZE1CRllnRnFJcXVWbXpwMnMwMWlwT1R5Qmt4aDE?oc=5",
-      "site": "中国日报网",
-      "siteUrl": "https://cn.chinadaily.com.cn"
-    },
-    {
       "id": "FL-340d5e981918",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
@@ -99,15 +87,27 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-a2665f32b400",
+      "id": "FL-e6da002b8732",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 06:20:57 GMT",
+      "ts": 1790403657000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "俄远东一煤矿矿区爆炸 有人员伤亡 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UY0hyWWplcnI0b2lqeDh3cEFvRTZSYUx2M1dFNFQ2ZjZCYVVDMGlkZ1ZfVmRJMDdkSkM3NjR1YlNyX180X25TUFBIQkJQT3V6MVF1VDJoazRyWmRadHl3dWRlcw?oc=5",
+      "site": "东方财富",
+      "siteUrl": "https://emwap.eastmoney.com"
+    },
+    {
+      "id": "FL-f79bd19e6390",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 05:42:00 GMT",
       "ts": 1790401320000,
       "scope": "dom",
       "type": "blast",
-      "title": "中秋夜40623名球迷燃爆鞍山奥体，为“辽超”呐喊 - sohu.com",
+      "title": "中秋夜40623名球迷燃爆鞍山奥体，为“辽超”呐喊 - 搜狐网",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMVZ6TVpveWFzWXRpU0t0OHlqcVdoYVE1UkxSSTllMlJIUzlNLWQ3WmFmNUIyRmEyblZsVGxNdHVETnVycmZnNzZGWC02c3V2MFNSWlFaRGpuajdkcUxQaHZtSmJJeHZ1SjZYRUZSWS1FdC0xNnYtVFg3RXYwM1lxamVoeml5Y0hN?oc=5",
-      "site": "sohu.com",
+      "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -123,15 +123,15 @@
       "siteUrl": "https://tv.cctv.com"
     },
     {
-      "id": "FL-595a492ff23e",
+      "id": "FL-23a5e2a86bf7",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 03:37:14 GMT",
       "ts": 1790393834000,
       "scope": "dom",
       "type": "blast",
-      "title": "泰退役少将儿子涉朝消防员开枪 屋内搜出机枪和爆炸装置 - 8world.com",
+      "title": "泰退役少将儿子涉朝消防员开枪 屋内搜出机枪和爆炸装置 - 8world",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOVhmSUd6ZTdVNmxPTXFVWmYxTTVJeVcxN3FvRTh1SExRMXJvZ0lQTklPYTc4T0dHb0Ixb2h5aVNxY1ZzVFM5UVRLWWR3dFhMbkRYZEw2TlhsNEtsQmF4NW80UHlaSlhpZmUwNkNqbVhnalJETXpKbWMydUFWcFdhUXdQNi1Wc29TVzBtMzg0bWk?oc=5",
-      "site": "8world.com",
+      "site": "8world",
       "siteUrl": "https://www.8world.com"
     },
     {
@@ -147,6 +147,18 @@
       "siteUrl": "https://www.ntdtv.com"
     },
     {
+      "id": "FL-2b6209ce7a07",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 01:16:00 GMT",
+      "ts": 1790385360000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "俄罗斯克拉斯诺达尔边疆区伊尔斯基炼油厂夜间起火，居民称听到爆炸| 乌克兰新闻 - Межа. Новини України.",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wMk9taXhsdXdZcmxWdVhqUGZGVlVhN0JBcjhCbGxQVE1KOEVkY1FlNzhlQURZcDlMb2ttMTFscTdJaVY3Tlh6XzlHQnZ3cHNXZG1wRjV2WVBpZVRkWHpCenNNQQ?oc=5",
+      "site": "Межа. Новини України.",
+      "siteUrl": "https://mezha.net"
+    },
+    {
       "id": "FL-37ae5c7b2505",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 13:34:10 GMT",
@@ -159,15 +171,15 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
-      "id": "FL-c2b5e87a66f1",
+      "id": "FL-bc5a0b5cb5b0",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 03:47:19 GMT",
       "ts": 1789789639000,
       "scope": "intl",
       "type": "blast",
-      "title": "巴基斯坦西北部爆炸已致21死 巴总统称将继续反恐行动 - 央视网",
+      "title": "巴基斯坦西北部爆炸已致21死 巴总统称将继续反恐行动 - news.cctv.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JdTVsYVVFWHBSX3JkaE5ocVh2cmtPd0NWVkpmT1EyOENqOGJZcHhnQllGeU9RYThKRTJmYnRVaXpEQ25RcGNGNi1LcmZJUUFnY2Q1cVVpS2dkSW8wQzJfSFI4U3FYMzdXNmJSWm1SdEpsckl2Y190Sg?oc=5",
-      "site": "央视网",
+      "site": "news.cctv.com",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -231,15 +243,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-7005ed608ceb",
+      "id": "FL-59822b76f839",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 20:16:18 GMT",
       "ts": 1790367378000,
       "scope": "intl",
       "type": "blast",
-      "title": "6 People Are Missing After Explosion in Athens Tourist District - The New York Times",
+      "title": "6 People Are Missing After Explosion in Athens Tourist District - nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVXJHLWNEZ2cxNzZRN3MxdnZ4N1NOZ3dpaWZSZTFaVjl2MlFNRHRJdEhkUkpST3JNTGV0NXJMWlJLeVl6MHNXZkpJemQ1dERYZ2dOOW1LWXpIUmdNUFdOZ3JDSkpZUExIVlQxbUhDZ0l4eW1kc3A1REI3UWhPWExySHlWV08?oc=5",
-      "site": "The New York Times",
+      "site": "nytimes.com",
       "siteUrl": "https://www.nytimes.com"
     },
     {
@@ -279,18 +291,6 @@
       "siteUrl": "https://abcnews.com"
     },
     {
-      "id": "FL-a2f1531e7ca3",
-      "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 11:33:52 GMT",
-      "ts": 1790336032000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "以军无人机卡萨坠毁爆炸 致两士兵死亡 - 8world.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYWh0NGxvdVk4T09kUUdzOU1rNUtyWXNJSF9jVzE1eFRfZGUtb1lLVmxOZ2xrT1c0aXE0bVM0NVFEamVFVll3dWw3N0JtVk1nTlBtZ2dZV0tvMEsyQVZUQXVEMlFQck00OElVdFhWV2oyRXFhOHdOWUVBOFJTNDlNMGZrdFlTbnhqSlE3bmNKdm5EbU1renBYcmtDMGtKdGNBZjFfaTlid3RCQXhyZ1lzVA?oc=5",
-      "site": "8world.com",
-      "siteUrl": "https://www.8world.com"
-    },
-    {
       "id": "FL-6c21a2dc1f84",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 11:26:15 GMT",
@@ -315,15 +315,15 @@
       "siteUrl": "https://www.waff.com"
     },
     {
-      "id": "FL-dd4e14503ca4",
+      "id": "FL-6406b2d4a6da",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 09:49:43 GMT",
       "ts": 1790329783000,
       "scope": "intl",
       "type": "blast",
-      "title": "印度试射新型防空导弹 发射失败变“呲花” 从发射筒掉落后在地上“打滚” 但并未发生爆炸 - sohu.com",
+      "title": "印度试射新型防空导弹 发射失败变“呲花” 从发射筒掉落后在地上“打滚” 但并未发生爆炸 - 搜狐网",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcFotdThBSmdQZGZxeWJ2SUp0MDAzcWNSazBZN1dsSmNUZlhuQXhxZnEtemlOcWM2M1pQd1I1am1WT0F3bW9rakVjYVl1QzZuOW03V1Nkc08ybTJBMUhTWkZRNEktVzZ5N1VlTURxQUVSVFlZdHRGUHllRnFrU0FPUGVGbG5CMFZQ?oc=5",
-      "site": "sohu.com",
+      "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
     },
     {
