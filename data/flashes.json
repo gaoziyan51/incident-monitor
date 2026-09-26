@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T21:01:49.456Z",
+  "updated": "2026-09-26T21:18:33.669Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -27,16 +27,16 @@
       "siteUrl": "https://science.caixin.com"
     },
     {
-      "id": "FL-5978691bcb18",
+      "id": "FL-be2b311a9928",
       "date": "2026-09-24",
-      "dateISO": "Thu, 24 Sep 2026 09:49:35 GMT",
-      "ts": 1790243375000,
+      "dateISO": "Thu, 24 Sep 2026 10:06:23 GMT",
+      "ts": 1790244383000,
       "scope": "dom",
       "type": "blast",
-      "title": "“上海化工园区发生大爆炸”不实（2026·09·24） - 新浪新闻_手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrdjNVRVdxNGE2QUNtTWVQajF1VE40am4yd2ZOYndvN3dEZmRLdHJwT3VlNlBNWUhxcFR0alpKNmI2aWM3RkZ0Yy0teDBKX1RJWU1mM09OVmRiZkxvNnFHZ1ZiWTM3MHZOMnBnUlZRY2doVXBO?oc=5",
-      "site": "新浪新闻_手机新浪网",
-      "siteUrl": "https://news.sina.cn"
+      "title": "今日辟谣：“上海化工园区发生大爆炸”不实 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoQ2pIdlBMS3hoaDZGQmR0VTNJUXdYVkJkT3ZqdFd1TlJTWDdXYzBreEV0ZEYtQkZ3QUlwN3FKcjZZX3dTcm9ycWNDYzNBdDBoRDJkWUVoclExNjFHMkdLeW8xVXZKMDM3MzcwRWlneDFKZw?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
       "id": "FL-6612abd30963",
@@ -73,6 +73,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-20f16931ff94",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 21:06:07 GMT",
+      "ts": 1790456767000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "汪苏泷贵阳现场燃爆全场，临别许下约定：明年，再赴山城之约！ - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTVHpiYktqNE9fY0dnTjdLYWktb2hkZ0Y2dnlxaGs1cV9SbkpIZHBldHlJX1YyM242Mm5GSmVhaVpRQmZtRHpfeWFQU3B2U2luQmFJTW5RcnhkZ2xGSzc2c3VtaWFQWFAtLTRjOW0xLTVWZw?oc=5",
+      "site": "手机新浪网",
+      "siteUrl": "http://k.sina.com.cn"
     },
     {
       "id": "FL-c148c34198a1",
@@ -135,28 +147,16 @@
       "siteUrl": "https://abcnews.com"
     },
     {
-      "id": "FL-a7667c9c6d36",
+      "id": "FL-4d81be9852fb",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 15:26:00 GMT",
       "ts": 1790436360000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典老城发生爆炸，4名美国游客遇难 - 新浪财经",
+      "title": "雅典老城发生爆炸，4名美国游客遇难 - finance.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YQ3ZWRXVhbFFZb1VTRzk1b1dfQzdWU3NQc3NNWFpadGdwU0RxaG10anl3UVo0cmlSRHNTVHpkTjFiZ1ZaN3JEdnkxdmV6V1RzdmxTelAtdm5WYkNqOGc2c090OGU3cWxzUnJGcWZTN0FNQVJSdzdLaQ?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.com.cn",
       "siteUrl": "https://finance.sina.com.cn"
-    },
-    {
-      "id": "FL-d55dff02aa93",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 15:03:23 GMT",
-      "ts": 1790435003000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "雅典老城区爆炸事故致6死3伤 - 手机网易网",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VRHhRZVNDN1A4QWpQNnY2RDFUYmtzM3R4eDh6NzNLS2ZLMF9UZ1psNVZTaUMtMzdPWFYtcEd4Ti0wMTM5Qk1DVlp2VlU1TWd6ZmM1dzc2ZDMzcjRGSlhvM21xR3NvRkswR1hlNw?oc=5",
-      "site": "手机网易网",
-      "siteUrl": "https://m.163.com"
     },
     {
       "id": "FL-5f1f793ed365",
@@ -241,18 +241,6 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBDTWhDbF9Lc08wcG9LYWdrc0MydlNUcWtqaUUwT0tLRV9uc25ibzRRQWh3Q2ZKR2NJcFBLWUoxLV9oR0ZmY2czV28tOA?oc=5",
       "site": "cj.sina.cn",
       "siteUrl": "https://wap.cj.sina.cn"
-    },
-    {
-      "id": "FL-bbd6ecfa5dac",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 12:59:08 GMT",
-      "ts": 1790427548000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Six dead after explosion causes building to collapse in central Athens - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOU5lN3oxVWp6U1l5bFVVWUo5TXN1ZFozY2xTaWFQa1NBdmt6QXV6d0I5RThNR2VFVDNhWVR1TGVrNjNVQmpSUmF2NlVfZnU1N3FyX1diRk9MMEVNU1l3emliYnNFUjJYUHV4NjBzOUN6eURzN1RvQmNMbGVUX2M0N2dPdjJQZU1Za01EZl9XNDFYMHBDRDB3RWxicnV3UFV1Vmd2TWFSUklzdw?oc=5",
-      "site": "Euronews.com",
-      "siteUrl": "https://www.euronews.com"
     },
     {
       "id": "FL-1975f0c6b9f2",
@@ -567,15 +555,15 @@
       "siteUrl": "https://www.yzwb.net"
     },
     {
-      "id": "FL-59ae45eae1ab",
+      "id": "FL-97e67bbd27ea",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 10:45:00 GMT",
       "ts": 1790333100000,
       "scope": "dom",
       "type": "blast",
-      "title": "货车司机路遇车祸救出伤者，刚撤离即发生燃爆致烧伤 对话本人：都是跑车的，人没了家就垮了 - 新浪财经",
+      "title": "货车司机路遇车祸救出伤者，刚撤离即发生燃爆致烧伤 对话本人：都是跑车的，人没了家就垮了 - finance.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HZlotRTdrelhWTGFPS3loZjg2MTdxUXBPSFRTTEZMVDlMd1dGNGVtbUV5UmVoekk5MWhoSHMycHpvNHROZTR6MUhCR0VidnIzenoySTFPdmVLSTM0bXVlcXlxd3lpdHpLLW5EUm1lVmJDc2k2TmFONEQ0OG1xbkU?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.com.cn",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
