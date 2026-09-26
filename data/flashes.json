@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T10:45:59.406Z",
+  "updated": "2026-09-26T10:52:26.841Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -111,6 +111,18 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
+      "id": "FL-2a4b46d88064",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 09:52:08 GMT",
+      "ts": 1790416328000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Two dead, 4 missing after explosion destroys building in Athens - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbTJpdXZYT3MyX1dFU1pNMW5raW40eUpoZWNKZFZnY3U1SFJiZjB4OVdhQ3JBN3R1eFFFaUFnUFFHZXh2R2J1ZldkVkotZW1ab1VEeFZNLVhHTnAxaXhmQnAxZ2ItOUc0U0l5TDE0ZW9OMTNUa0hGTjNWSTdoN2IxVGFINU0xVGlVdzBXSXVMYnozVHRhRWF2ZXlZMWxIN0NsSW04?oc=5",
+      "site": "Reuters",
+      "siteUrl": "https://www.reuters.com"
+    },
+    {
       "id": "FL-29eac252d7ed",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 09:39:10 GMT",
@@ -147,16 +159,16 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-8c1e25f351a5",
+      "id": "FL-741c3956fd38",
       "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 07:45:47 GMT",
-      "ts": 1790408747000,
+      "dateISO": "Sat, 26 Sep 2026 08:00:00 GMT",
+      "ts": 1790409600000,
       "scope": "intl",
       "type": "blast",
-      "title": "One dead, 5 missing after explosion destroys building in Athens - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbTJpdXZYT3MyX1dFU1pNMW5raW40eUpoZWNKZFZnY3U1SFJiZjB4OVdhQ3JBN3R1eFFFaUFnUFFHZXh2R2J1ZldkVkotZW1ab1VEeFZNLVhHTnAxaXhmQnAxZ2ItOUc0U0l5TDE0ZW9OMTNUa0hGTjNWSTdoN2IxVGFINU0xVGlVdzBXSXVMYnozVHRhRWF2ZXlZMWxIN0NsSW04?oc=5",
-      "site": "Reuters",
-      "siteUrl": "https://www.reuters.com"
+      "title": "One Dead, 5 Missing After Explosion Destroys Building in Athens - U.S. News & World Report",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQVRVWWt0TE8zczhabnU1ZllYMkYwUFZLT2pMU1hFeHVnaXFTeXZfSllIRm9yb09tZGFoNl9wMmhoMGQ1RFhzQTJmY01YaHNTS2FxTGRrdTBmZDk3OF92WGl1MHEyNjRCcWNxR0V2eWlxc0w0Tzk2X0NLNlRPWU8zSHZQbGFlM1Z4WFlIRXJoenJyVEdEQVZNTWFhMUtFMldmOHdxenpyTjFNdGtsOGZacnVzV1MwbnM?oc=5",
+      "site": "U.S. News &amp; World Report",
+      "siteUrl": "https://www.usnews.com"
     },
     {
       "id": "FL-e6da002b8732",
@@ -421,6 +433,18 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5dmp2dW40R0VaSl93N25sLVZHeGFRNGZYdXF5cHJNeVcxWDVadGl6a094ZGxNcVBiMkN2cXhtdG1IQkxYSlk4SEVWc1FlX0Rsc1B4RXhKdHhvV0tfSHpzNDhTQUVRdlBSMjh6c3ZqZ01leGQ0dVVZ?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-83bdd8b98107",
+      "date": "2026-09-18",
+      "dateISO": "Fri, 18 Sep 2026 21:26:00 GMT",
+      "ts": 1789766760000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "沙特首都利雅得再次传出爆炸声 - 封面新闻",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0RVJ2NHZDR09BWmtLVkdDTElrRGtkUWpkVThacnhENmpyeUh6b1RVZk1kNXY4MEpBeWx0NU5jWk9DY01Xd3ptQjVXZmdqRlZSN2JqeGRkSFQ0Ym1XUi1LOTd2OVVpQjdzdDFNb09HR3FpaGY5R3JZ?oc=5",
+      "site": "封面新闻",
+      "siteUrl": "https://m.thecover.cn"
     },
     {
       "id": "FL-84a9598aa100",
