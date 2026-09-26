@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T05:01:37.702Z",
+  "updated": "2026-09-26T05:18:22.064Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -39,28 +39,16 @@
       "siteUrl": "https://news.china.com"
     },
     {
-      "id": "FL-1039b268f739",
+      "id": "FL-5978691bcb18",
       "date": "2026-09-24",
-      "dateISO": "Thu, 24 Sep 2026 09:56:27 GMT",
-      "ts": 1790243787000,
+      "dateISO": "Thu, 24 Sep 2026 09:49:35 GMT",
+      "ts": 1790243375000,
       "scope": "dom",
       "type": "blast",
-      "title": "“上海化工园区发生大爆炸”不实（2026·09·24） - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5xejNIcWdPNWRTUFBZczdhSVN1WmhGWGhpdTZBSERuR24yWl9DTVQwbHZZRC1CSTRwTDgyWkV2ek8weVFneEFQM1ZJTUM?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://news.ifeng.com"
-    },
-    {
-      "id": "FL-acfb63f6e003",
-      "date": "2026-09-24",
-      "dateISO": "Thu, 24 Sep 2026 05:40:57 GMT",
-      "ts": 1790228457000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "路过司机冲进火场救出追尾车车主，刚撤离事故车就发生爆炸 “都是跑车养家的顶梁柱，来不及多想” - 华龙网",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Xa1R5Q3RIWURTTDB2enpUbXU2VFBDQUlqNEhLT25sNkZMeXlqTTBoX09uUmNkdXI5dlZpaUx5S1lWcFNYa3Bfb1VFYXMxUDhlczRwVWxSckpaY1dKVGV2a2JyUmlHRGF2ZlZj?oc=5",
-      "site": "华龙网",
-      "siteUrl": "https://www.cqnews.net"
+      "title": "“上海化工园区发生大爆炸”不实（2026·09·24） - 新浪新闻_手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrdjNVRVdxNGE2QUNtTWVQajF1VE40am4yd2ZOYndvN3dEZmRLdHJwT3VlNlBNWUhxcFR0alpKNmI2aWM3RkZ0Yy0teDBKX1RJWU1mM09OVmRiZkxvNnFHZ1ZiWTM3MHZOMnBnUlZRY2doVXBO?oc=5",
+      "site": "新浪新闻_手机新浪网",
+      "siteUrl": "https://news.sina.cn"
     },
     {
       "id": "FL-6612abd30963",
@@ -73,6 +61,18 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MzVkcXZnR2UwelNkenFIYVFYVzBPcUxUQ1VSaUVHcV9LYVJnZzhjQWZzM09DNk8wc0xVNlo2amRqNjBueWtVeTdSbkJZT053RjRSZDhmeXJyT19wekF3UHB6WERtZkxLaFFwT2pVWTE?oc=5",
       "site": "中国科技网",
       "siteUrl": "https://www.stdaily.com"
+    },
+    {
+      "id": "FL-ed5bb4de52b7",
+      "date": "2026-07-02",
+      "dateISO": "Thu, 02 Jul 2026 07:00:00 GMT",
+      "ts": 1782975600000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "涉留神峪特别重大瓦斯爆炸事故 崔瑞军被查 - 中国日报网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwQldTMXJVdFF1VDFZdGpMSG9kcElHUTdDWkpNbEpBeVJLMVltU3JaY05MZG5PR3NnWUFHMURJelctUkhNalZTQWM0d2N2ZU81blNIRW9fZ0hyMExJQ2tRZE1CRllnRnFJcXVWbXpwMnMwMWlwT1R5Qmt4aDE?oc=5",
+      "site": "中国日报网",
+      "siteUrl": "https://cn.chinadaily.com.cn"
     },
     {
       "id": "FL-340d5e981918",
@@ -99,6 +99,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-a25da0fb5b1b",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 04:36:00 GMT",
+      "ts": 1790397360000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "[正午国防军事]“北溪”爆炸案一嫌疑人被批准引渡至德国 - CCTV节目官网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1aRmc5T0FMVGF5Q2R6SWY0RnhzbklIdW5VZUdvS0ZkU2FqQXlGZGVqRHd3YlVZOXZlVXlQbGVkZ1NRTTBpNlJoV3A1YlBvYWNkVllnSWoxdUpzeFdxQXhLaFlsR1Z5cDJ5eHVxNlZZSnYzeUxQTmc?oc=5",
+      "site": "CCTV节目官网",
+      "siteUrl": "https://tv.cctv.com"
+    },
+    {
       "id": "FL-23a5e2a86bf7",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 03:37:14 GMT",
@@ -109,18 +121,6 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOVhmSUd6ZTdVNmxPTXFVWmYxTTVJeVcxN3FvRTh1SExRMXJvZ0lQTklPYTc4T0dHb0Ixb2h5aVNxY1ZzVFM5UVRLWWR3dFhMbkRYZEw2TlhsNEtsQmF4NW80UHlaSlhpZmUwNkNqbVhnalJETXpKbWMydUFWcFdhUXdQNi1Wc29TVzBtMzg0bWk?oc=5",
       "site": "8world",
       "siteUrl": "https://www.8world.com"
-    },
-    {
-      "id": "FL-da1f89e33def",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 03:23:24 GMT",
-      "ts": 1790393004000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Woman Found Dead in Plaka Rubble after Powerful Explosion – Reports of Americans among 5 Still Missing - The National Herald",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeE91TkJFOHFaYzJvbloxQW8yYWw5NGFNVTBGM3UzbEdzdGRsSnhHUU1SbW44V3JKQ3ByaFI2TEZzNDUwSnhEWHpVcFNjZVVUd1Z0aG1USkl3bWZNNy1YazExYW5Jdzc1NkF4Y1pndElBRUduU21la3lRUTNhRzUySGFESXMxTTMxa3Z1Nzk5aTNtbm5PcGdjODE0Vm1tVlEyZk94WWw2eHEybC1pamc3Y18xTWZubEluS3g1NA?oc=5",
-      "site": "The National Herald",
-      "siteUrl": "https://www.thenationalherald.com"
     },
     {
       "id": "FL-6640ca852beb",
@@ -145,6 +145,18 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa21SSnpRaWdxQy1GYVBmWi1LQ3VzQ0xwZUwzTE9rSVRuLXhac2xTZl9wYlB5c2RoQkRYY1pfbDRZWmF3RFdFZXg4M3NSZ0s0alQ2XzRtUFI0SjR2R2FidlRXZ3pOckwtM20zaFNtR0h4bjFBdTdsZW9yeEpoampleUFNajd4NDVaUElBYTgxUG5vQzRoWjFIcGhn?oc=5",
       "site": "新华网客户端",
       "siteUrl": "https://app.xinhuanet.com"
+    },
+    {
+      "id": "FL-c2b5e87a66f1",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 03:47:19 GMT",
+      "ts": 1789789639000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "巴基斯坦西北部爆炸已致21死 巴总统称将继续反恐行动 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JdTVsYVVFWHBSX3JkaE5ocVh2cmtPd0NWVkpmT1EyOENqOGJZcHhnQllGeU9RYThKRTJmYnRVaXpEQ25RcGNGNi1LcmZJUUFnY2Q1cVVpS2dkSW8wQzJfSFI4U3FYMzdXNmJSWm1SdEpsckl2Y190Sg?oc=5",
+      "site": "央视网",
+      "siteUrl": "https://news.cctv.com"
     },
     {
       "id": "FL-0a94e597e848",
@@ -373,6 +385,30 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5dmp2dW40R0VaSl93N25sLVZHeGFRNGZYdXF5cHJNeVcxWDVadGl6a094ZGxNcVBiMkN2cXhtdG1IQkxYSlk4SEVWc1FlX0Rsc1B4RXhKdHhvV0tfSHpzNDhTQUVRdlBSMjh6c3ZqZ01leGQ0dVVZ?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-84a9598aa100",
+      "date": "2026-06-12",
+      "dateISO": "Fri, 12 Jun 2026 07:00:00 GMT",
+      "ts": 1781247600000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "泰国当局判处两维吾尔人死刑　BBC记者回忆当年的曼谷四面佛爆炸案 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92WW1HV0ttYlE2bUkxb2ZWUDVCSUNuTmRaQnNSWnpDTElPRUFUOXk3U3FoX2VKTm1FQ29TaDBocTUwMTZlMU1Za2hRUkxEMG9taGphNkZvSjI4UF9wUzVyU0E4amUyQdIBa0FVX3lxTE5YVGx2WWxZY1lKNjNHQ1huNHZQWWFqTW1MR0p6RnBwaVdSSXlKT1FEQmx6dzI3dVBIVm5jTVdpRHR6b05UeHRKdUVrZEFMbzcwOUJLcHhGWVBaN2tnU2c5QzFKTEdyZml6ZDg0?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-a4c84c6d032d",
+      "date": "2026-06-05",
+      "dateISO": "Fri, 05 Jun 2026 07:00:00 GMT",
+      "ts": 1780642800000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "辽宁本溪一商铺疑似液化气罐泄漏引发爆炸：2人死亡13人轻微伤 - 央广网",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qQlpCOEt3cGs2NmdiMHBrTlVwekFZQ2pKaTI0cnRPMmt3Z1pCLVUxai1tYkw2RnMzbGctVm5zb0ZwcTIyNlZmUEh0M3MwTlQtRkU2NlJlNnpGdU5vUl9VZ1p2YUNqZi1qLUdYNjNn?oc=5",
+      "site": "央广网",
+      "siteUrl": "https://www.cnr.cn"
     }
   ]
 }
