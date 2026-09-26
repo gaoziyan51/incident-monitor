@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T13:44:47.515Z",
+  "updated": "2026-09-26T13:51:51.528Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -51,27 +51,27 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
-      "id": "FL-f8061d91b549",
+      "id": "FL-340d5e981918",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
       "ts": 1787468400000,
       "scope": "dom",
       "type": "blast",
-      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - news.cn",
+      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-f38e3c0cb20f",
+      "id": "FL-0615dd398028",
       "date": "2026-08-02",
       "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
       "ts": 1785654000000,
       "scope": "intl",
       "type": "blast",
-      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - news.cn",
+      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -99,6 +99,18 @@
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
+      "id": "FL-bbd6ecfa5dac",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 12:59:08 GMT",
+      "ts": 1790427548000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Six dead after explosion causes building to collapse in central Athens - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOU5lN3oxVWp6U1l5bFVVWUo5TXN1ZFozY2xTaWFQa1NBdmt6QXV6d0I5RThNR2VFVDNhWVR1TGVrNjNVQmpSUmF2NlVfZnU1N3FyX1diRk9MMEVNU1l3emliYnNFUjJYUHV4NjBzOUN6eURzN1RvQmNMbGVUX2M0N2dPdjJQZU1Za01EZl9XNDFYMHBDRDB3RWxicnV3UFV1Vmd2TWFSUklzdw?oc=5",
+      "site": "Euronews.com",
+      "siteUrl": "https://www.euronews.com"
+    },
+    {
       "id": "FL-9922da7b434e",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 12:55:00 GMT",
@@ -109,6 +121,18 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMnlOQXdvRXJCSUp1RXNLWkk0N2l2ek5wWFFaV18tWHRsMEFsMUE3NjB1SmFRX1dzZzktdlRmcFlid3A5a2trNnhOSXdTZVl2bFBVQ21uRVV3ekliQ0toMkNhbDNUZWdzcDc3ZzZyVXpVa3BqU1JXUWtoVVo1dGlKM2FMLWRTTFJ3?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-8008ca3ef342",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 12:51:07 GMT",
+      "ts": 1790427067000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Six dead after explosion destroys building in Athens - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbTJpdXZYT3MyX1dFU1pNMW5raW40eUpoZWNKZFZnY3U1SFJiZjB4OVdhQ3JBN3R1eFFFaUFnUFFHZXh2R2J1ZldkVkotZW1ab1VEeFZNLVhHTnAxaXhmQnAxZ2ItOUc0U0l5TDE0ZW9OMTNUa0hGTjNWSTdoN2IxVGFINU0xVGlVdzBXSXVMYnozVHRhRWF2ZXlZMWxIN0NsSW04?oc=5",
+      "site": "Reuters",
+      "siteUrl": "https://www.reuters.com"
     },
     {
       "id": "FL-cbcd74e5ea86",
@@ -147,15 +171,15 @@
       "siteUrl": "https://www.nytimes.com"
     },
     {
-      "id": "FL-23997ed3202f",
+      "id": "FL-5e735aebc1c3",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 11:26:44 GMT",
       "ts": 1790422004000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - news.cn",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlemFCa3lteDlkZERLTXRLMHhpeTIzNmFqanFBczVPaFNjQjVxOHNJNm54Tkhua1FqOGtuaUhBLWdRSWxXaFRoZThQZXJqclRIV1pUaTNhcjhHU0dwRzA1WXNQc2ZOVEhXX0Z1NUVBcnBUalJRWkE3ZlE0S3NOaXM?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -217,18 +241,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90WW5rcDNsQlc1TjhoM0pXM0U4aXhLa0QxSXg3TmV0VFdLWFFIQktSUXZ6elNFcVV2dFlOX2VrT0o5V1NycWhWRm40WGFfUXpqTDcxRVptTC1IZndtdVpGNzRpZWUyT3J2d2FBeml5RTI?oc=5",
       "site": "中国科技网",
       "siteUrl": "https://www.stdaily.com"
-    },
-    {
-      "id": "FL-2a4b46d88064",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 09:52:08 GMT",
-      "ts": 1790416328000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Two dead, 4 missing after explosion destroys building in Athens - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbTJpdXZYT3MyX1dFU1pNMW5raW40eUpoZWNKZFZnY3U1SFJiZjB4OVdhQ3JBN3R1eFFFaUFnUFFHZXh2R2J1ZldkVkotZW1ab1VEeFZNLVhHTnAxaXhmQnAxZ2ItOUc0U0l5TDE0ZW9OMTNUa0hGTjNWSTdoN2IxVGFINU0xVGlVdzBXSXVMYnozVHRhRWF2ZXlZMWxIN0NsSW04?oc=5",
-      "site": "Reuters",
-      "siteUrl": "https://www.reuters.com"
     },
     {
       "id": "FL-2bf0992def5f",
@@ -339,15 +351,15 @@
       "siteUrl": "https://mezha.net"
     },
     {
-      "id": "FL-29e923af1043",
+      "id": "FL-6640ca852beb",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 03:19:07 GMT",
       "ts": 1790392747000,
       "scope": "intl",
       "type": "blast",
-      "title": "疑瓦斯外洩 雅典繁忙觀光區爆炸3傷 - ntdtv.com",
+      "title": "疑瓦斯外洩 雅典繁忙觀光區爆炸3傷 - 新唐人電視台",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XNzlJTVRGYVVFMkI5V3M4ZEpDOHU5RjA4VW9uVmZtblZDMmxwWVhZNGZpTmZVdEI2VW9QUWJDLUc0bGZOS2o1SGoxYzFWN0RhU0VndjNqNXhXbmJYNDlDWNIBZkFVX3lxTE1zRG5MR25GdlBpTkVlRDVzV1FFZWI2OGJ6T3UyQVBQd3Rxd1JkSGpZclNWR0NMX0V0OGdtWGMtUWM5R3J1QTJOMVNnOTJxdkxlYXBOS0RzQWF0a0x0bm5lbVd6cVlYUQ?oc=5",
-      "site": "ntdtv.com",
+      "site": "新唐人電視台",
       "siteUrl": "https://www.ntdtv.com"
     },
     {
@@ -387,64 +399,40 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-0a94e597e848",
-      "date": "2026-09-05",
-      "dateISO": "Sat, 05 Sep 2026 07:00:00 GMT",
-      "ts": 1788591600000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "伊朗哈尔克岛附近海域传出爆炸声 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VUEJ2eGF5WGt5UmQxcTlHcDNzTU9aVVV6OVNOcmM0ODFCVWF2Ui1KU21uQkJ3TFVPMTktNEFxZzRvWVl0UVJWMTlUU3ZaYl9wb20yaGZWRFZMTF9QczVXd2pFelZQdVJp?oc=5",
-      "site": "央广网",
-      "siteUrl": "https://news.cnr.cn"
-    },
-    {
-      "id": "FL-803bd894ebf2",
-      "date": "2026-08-24",
-      "dateISO": "Mon, 24 Aug 2026 07:00:00 GMT",
-      "ts": 1787554800000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "山东临沂一社区发生爆炸，官方最新通报：已致1人死亡，2人失联 - sd.chinanews.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12UjJWUzFCd2VqX0FoU2VneDM5T2E5eGFOZmg0Nk92VEp6U1ktWF9xUUtkV3BkYlNsZ0JsRWlZMW1qa3ExTXRVdWdiNzhNQ1JxRlN2bXhoX0pCWlFURExYd3lENlhFQQ?oc=5",
-      "site": "sd.chinanews.com.cn",
-      "siteUrl": "https://www.sd.chinanews.com.cn"
-    },
-    {
-      "id": "FL-5414e00ffd4e",
+      "id": "FL-160d55aeb47e",
       "date": "2026-06-22",
       "dateISO": "Mon, 22 Jun 2026 07:00:00 GMT",
       "ts": 1782111600000,
       "scope": "intl",
       "type": "blast",
-      "title": "卡塔尔工厂爆炸已致13人死亡 - news.cn",
+      "title": "卡塔尔工厂爆炸已致13人死亡 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mR2pTX0YxWjBwQ2lLNC1XZjFhd3IwVEYtWkZFR3ZBU3B5RTFHR1BldmQ3OEkxN2NaWTMzYUkwWENDeEliY3dVNEloOExFS1B6SlZQTENHdWVmTWpUM042M2hRcmo4QS1qdl85cXlhZHJ3R3JGTEU4?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-dbcf7399ae0d",
+      "id": "FL-b042a088a326",
       "date": "2026-08-03",
       "dateISO": "Mon, 03 Aug 2026 07:00:00 GMT",
       "ts": 1785740400000,
       "scope": "intl",
       "type": "blast",
-      "title": "巴基斯坦西北部发生爆炸致14人死亡 - news.cn",
+      "title": "巴基斯坦西北部发生爆炸致14人死亡 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-9865542dc5f6",
-      "date": "2026-07-31",
-      "dateISO": "Fri, 31 Jul 2026 07:00:00 GMT",
-      "ts": 1785481200000,
+      "id": "FL-c39833bbfc21",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 22:10:00 GMT",
+      "ts": 1790374200000,
       "scope": "intl",
       "type": "blast",
-      "title": "巴基斯坦煤矿爆炸致34人死亡 8人被困 - news.cn",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ic3NaMW5yOHF1MmNnMDRPdThpWHRsY0dpOUl5X1U2aUxyMlZFTkVhN09xTVRmQ3dwcnFZaThTZjd5RXdLS1VLTVgzNGlENnl3T3hOOVBFSmYyajM0cmlxeVduX28xT2U5M1pvbmJfZE94TW00UmpNd2oyTFZFVEE?oc=5",
-      "site": "news.cn",
-      "siteUrl": "https://www.news.cn"
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 环球网",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93QWp5T3NMVjhsTElfdWZNVjBlTGJrcVhxeGtjMlRVSi1vb2NIRmlxQTlMTnZvTTN3YV8xOXBHVnB4SUNwMERRMDR4VWRBVElyMEtJLUxlNlI?oc=5",
+      "site": "环球网",
+      "siteUrl": "https://world.huanqiu.com"
     },
     {
       "id": "FL-31d313973515",
@@ -483,6 +471,30 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
+      "id": "FL-6406b2d4a6da",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 09:49:43 GMT",
+      "ts": 1790329783000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "印度试射新型防空导弹 发射失败变“呲花” 从发射筒掉落后在地上“打滚” 但并未发生爆炸 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcFotdThBSmdQZGZxeWJ2SUp0MDAzcWNSazBZN1dsSmNUZlhuQXhxZnEtemlOcWM2M1pQd1I1am1WT0F3bW9rakVjYVl1QzZuOW03V1Nkc08ybTJBMUhTWkZRNEktVzZ5N1VlTURxQUVSVFlZdHRGUHllRnFrU0FPUGVGbG5CMFZQ?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-b26f7c125e02",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 07:31:38 GMT",
+      "ts": 1790321498000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "因无人机爆炸，2名以军士兵在加沙地带死亡 - finance.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRVJSaGVSa3hqME14dlFuOFVKcFpWZjRDN0o4d1ZJLWUzZlp5d0ZGUGpmSHd0Y2Z1X3Bfd0MxeHVDLV92T2w4Sm1pbmxQejhhSjN4T3FKWVA5ajVLbU10bGxDaTZ1dHoxUGNCVjE0YTJqU29VejRNOF9sS2F1THZTY3hlckxwQ05rMjdVczJySlRnS1M2MzBvSWtzUEtnYnIx?oc=5",
+      "site": "finance.sina.com.cn",
+      "siteUrl": "https://finance.sina.cn"
+    },
+    {
       "id": "FL-983b4ebb9f04",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 06:44:18 GMT",
@@ -495,15 +507,27 @@
       "siteUrl": "https://mil.ifeng.com"
     },
     {
-      "id": "FL-b16c3e64fcb5",
+      "id": "FL-08f272d82dab",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 03:25:12 GMT",
+      "ts": 1790306712000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "效率爆炸！阿贾·威尔逊上半场16分钟13中10狂轰21分 正负值+23 - Sina Sports",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTi1nOWVFaDgtY2lnV0I3RzNOY3hOdENuSDhZZFJBTG1YeVVEOGZBVDQ4VkRBSVBBVmwtUmxJVS1DNlBmbTFhdXJFTzJVay1aaVBacHd0ZndPZm5zUnNWeHh2eTZPd19oOWkyWElOYXZaMjlpR3VBSlRoZkFyS0xIMG15RjY?oc=5",
+      "site": "Sina Sports",
+      "siteUrl": "https://sports.sina.cn"
+    },
+    {
+      "id": "FL-4ed1ffe514b4",
       "date": "2026-08-21",
       "dateISO": "Fri, 21 Aug 2026 07:00:00 GMT",
       "ts": 1787295600000,
       "scope": "dom",
       "type": "blast",
-      "title": "山东临沂发生爆炸致1人死亡2人失联 - news.cn",
+      "title": "山东临沂发生爆炸致1人死亡2人失联 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5dmp2dW40R0VaSl93N25sLVZHeGFRNGZYdXF5cHJNeVcxWDVadGl6a094ZGxNcVBiMkN2cXhtdG1IQkxYSlk4SEVWc1FlX0Rsc1B4RXhKdHhvV0tfSHpzNDhTQUVRdlBSMjh6c3ZqZ01leGQ0dVVZ?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -517,6 +541,18 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0RVJ2NHZDR09BWmtLVkdDTElrRGtkUWpkVThacnhENmpyeUh6b1RVZk1kNXY4MEpBeWx0NU5jWk9DY01Xd3ptQjVXZmdqRlZSN2JqeGRkSFQ0Ym1XUi1LOTd2OVVpQjdzdDFNb09HR3FpaGY5R3JZ?oc=5",
       "site": "封面新闻",
       "siteUrl": "https://m.thecover.cn"
+    },
+    {
+      "id": "FL-9ea38439005a",
+      "date": "2026-06-12",
+      "dateISO": "Fri, 12 Jun 2026 07:00:00 GMT",
+      "ts": 1781247600000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "泰国当局判处两维吾尔人死刑　BBC记者回忆当年的曼谷四面佛爆炸案 - bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92WW1HV0ttYlE2bUkxb2ZWUDVCSUNuTmRaQnNSWnpDTElPRUFUOXk3U3FoX2VKTm1FQ29TaDBocTUwMTZlMU1Za2hRUkxEMG9taGphNkZvSjI4UF9wUzVyU0E4amUyQdIBa0FVX3lxTE5YVGx2WWxZY1lKNjNHQ1huNHZQWWFqTW1MR0p6RnBwaVdSSXlKT1FEQmx6dzI3dVBIVm5jTVdpRHR6b05UeHRKdUVrZEFMbzcwOUJLcHhGWVBaN2tnU2c5QzFKTEdyZml6ZDg0?oc=5",
+      "site": "bbc.com",
+      "siteUrl": "https://www.bbc.com"
     }
   ]
 }
