@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T09:18:51.688Z",
+  "updated": "2026-09-26T09:29:17.670Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -27,15 +27,15 @@
       "siteUrl": "https://science.caixin.com"
     },
     {
-      "id": "FL-c43cc5d24219",
+      "id": "FL-75ad25e28af3",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 10:27:25 GMT",
       "ts": 1790245645000,
       "scope": "dom",
       "type": "blast",
-      "title": "“上海化工园区发生大爆炸”不实 造谣者被行政处罚 - news.china.com",
+      "title": "“上海化工园区发生大爆炸”不实 造谣者被行政处罚 - 中华网",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jMTVDWDRjc1owMEV4N3ZlTHd0Z2kyUDNudFVGc2xSM1F6MGtZMGRsS281dFRhMWo1MTVJUWtBZzA0TEdrWGs0ajBOMmtVVkMtTjJhRjRMM2EyZG9Ldm13MWN2Y2NiU3BZUHN5Q1B5RVI?oc=5",
-      "site": "news.china.com",
+      "site": "中华网",
       "siteUrl": "https://news.china.com"
     },
     {
@@ -157,6 +157,18 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91NDU3YTViSFlJLV9oWFg2dW9BaU4ybkZyTEZzUHE2US1IbHpHd2ZXY1hSMUxtMXNpSzZBY3hjRG5PbWdSenE4eFRZZ3ktZVo5djdLNkxYX2F5eDhVVjdteU1yM1hFb1U5MDE2anZ3?oc=5",
       "site": "央广网",
       "siteUrl": "https://www.cnr.cn"
+    },
+    {
+      "id": "FL-44e76248dc94",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 04:22:00 GMT",
+      "ts": 1790396520000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典卫城附近爆炸摧毁建筑，一名女子死亡—— 德国之声 - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOemd4WWpGejRzdFhlYWR3Y0NDbWRCdjZad0VrWlRLNDZRUkNpUDNSZDBBMUZoT3VXSmNhakhPRmZldjk1WFBZb1p4YWh2R2M0RExZVGNDanBCclVJeWhQakhUTUpUNzNZSFppeHFrdG5vRXNNNkpyUWE3eXk3amVLQ05BcmNCdjBfUlFJd0gtQ1Mzd3NiVFpyNFptTjVoRnZwbHBJ?oc=5",
+      "site": "UA.NEWS",
+      "siteUrl": "https://ua.news"
     },
     {
       "id": "FL-b2d531350e94",
@@ -397,18 +409,6 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5dmp2dW40R0VaSl93N25sLVZHeGFRNGZYdXF5cHJNeVcxWDVadGl6a094ZGxNcVBiMkN2cXhtdG1IQkxYSlk4SEVWc1FlX0Rsc1B4RXhKdHhvV0tfSHpzNDhTQUVRdlBSMjh6c3ZqZ01leGQ0dVVZ?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-83bdd8b98107",
-      "date": "2026-09-18",
-      "dateISO": "Fri, 18 Sep 2026 21:26:00 GMT",
-      "ts": 1789766760000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "沙特首都利雅得再次传出爆炸声 - 封面新闻",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0RVJ2NHZDR09BWmtLVkdDTElrRGtkUWpkVThacnhENmpyeUh6b1RVZk1kNXY4MEpBeWx0NU5jWk9DY01Xd3ptQjVXZmdqRlZSN2JqeGRkSFQ0Ym1XUi1LOTd2OVVpQjdzdDFNb09HR3FpaGY5R3JZ?oc=5",
-      "site": "封面新闻",
-      "siteUrl": "https://m.thecover.cn"
     },
     {
       "id": "FL-84a9598aa100",
