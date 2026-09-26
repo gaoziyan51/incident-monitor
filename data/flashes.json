@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T15:18:41.083Z",
+  "updated": "2026-09-26T15:29:33.762Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -75,6 +75,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-8c0142bafb06",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 15:28:52 GMT",
+      "ts": 1790436532000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "澳廣視新聞｜希腊雅典建筑物爆炸倒塌致6死｜ - TDM",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS2xnblE1eVYybDdObHJHX2hvRTdTWjlfZjQyUG4yMUFaLURJWG1IVzhJX1ZIQ2U2UzJpVWM1aXRhMlpvS2lOV25GSnk4Vk9YRl90SFlzUVdvT3NhellUbGdNMFpNbm1VcVgzcTNVckxma1U2WUxZYkpVOThva0c2T0Zocw?oc=5",
+      "site": "TDM",
+      "siteUrl": "https://www.tdm.com.mo"
+    },
+    {
       "id": "FL-fa5c2fe731df",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 14:29:00 GMT",
@@ -133,18 +145,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52MXd2SERCcDdESHJMdnlQY0trN3VTSUJMRDNKeHppMDFYUTluVG12aEZ2MzQ1TlhDYno2eVhwTF8yTTFwaVN3dmVSSlQ3TzVhOThYQmZic1lQWnJSamZKQk9YQ3RMX0Vm?oc=5",
       "site": "早晨报",
       "siteUrl": "https://www.zaochenbao.com"
-    },
-    {
-      "id": "FL-8bf60ba8e343",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 13:53:48 GMT",
-      "ts": 1790430828000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "4 American tourists dead after building explosion and collapse in Athens - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSDkta3c5RDBnb19GWWI2S3Vib1VDTVc1OXhOWVBod21HeTRRbW92Y3hFbVprVWdSOVRWbF9qSEN5Y25TbU8tT19aT0ZIUWg5Q2lablRnN0c4Z1FRX2JLY3dzWW1CaFRnTzVSczEwdWJFNXpkc2dZTF91WjlnTEFDM00yZU54bW51?oc=5",
-      "site": "CBS News",
-      "siteUrl": "https://www.cbsnews.com"
     },
     {
       "id": "FL-f44dd11b742d",
@@ -265,6 +265,18 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE55YzdDZ0djcGdwUlZhbGRMQ214c2pCNUdKVXJUcmJfRWs2eFM4ZEZ4bGtkMWNJRVU0M2RhTzMtT0NsYm54SUpNQ2lTbG1KZFRGcjNuWEJ5WTFWY2RmckJwZEsxMA?oc=5",
       "site": "东方财富",
       "siteUrl": "https://emwap.eastmoney.com"
+    },
+    {
+      "id": "FL-8bf60ba8e343",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 10:51:00 GMT",
+      "ts": 1790419860000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "4 American tourists dead after building explosion and collapse in Athens - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSDkta3c5RDBnb19GWWI2S3Vib1VDTVc1OXhOWVBod21HeTRRbW92Y3hFbVprVWdSOVRWbF9qSEN5Y25TbU8tT19aT0ZIUWg5Q2lablRnN0c4Z1FRX2JLY3dzWW1CaFRnTzVSczEwdWJFNXpkc2dZTF91WjlnTEFDM00yZU54bW51?oc=5",
+      "site": "CBS News",
+      "siteUrl": "https://www.cbsnews.com"
     },
     {
       "id": "FL-a87f588ca968",
@@ -483,6 +495,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-c39833bbfc21",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 22:10:00 GMT",
+      "ts": 1790374200000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 环球网",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93QWp5T3NMVjhsTElfdWZNVjBlTGJrcVhxeGtjMlRVSi1vb2NIRmlxQTlMTnZvTTN3YV8xOXBHVnB4SUNwMERRMDR4VWRBVElyMEtJLUxlNlI?oc=5",
+      "site": "环球网",
+      "siteUrl": "https://world.huanqiu.com"
+    },
+    {
       "id": "FL-31d313973515",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 13:35:00 GMT",
@@ -553,18 +577,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92WW1HV0ttYlE2bUkxb2ZWUDVCSUNuTmRaQnNSWnpDTElPRUFUOXk3U3FoX2VKTm1FQ29TaDBocTUwMTZlMU1Za2hRUkxEMG9taGphNkZvSjI4UF9wUzVyU0E4amUyQdIBa0FVX3lxTE5YVGx2WWxZY1lKNjNHQ1huNHZQWWFqTW1MR0p6RnBwaVdSSXlKT1FEQmx6dzI3dVBIVm5jTVdpRHR6b05UeHRKdUVrZEFMbzcwOUJLcHhGWVBaN2tnU2c5QzFKTEdyZml6ZDg0?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-a4c84c6d032d",
-      "date": "2026-06-05",
-      "dateISO": "Fri, 05 Jun 2026 07:00:00 GMT",
-      "ts": 1780642800000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "辽宁本溪一商铺疑似液化气罐泄漏引发爆炸：2人死亡13人轻微伤 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qQlpCOEt3cGs2NmdiMHBrTlVwekFZQ2pKaTI0cnRPMmt3Z1pCLVUxai1tYkw2RnMzbGctVm5zb0ZwcTIyNlZmUEh0M3MwTlQtRkU2NlJlNnpGdU5vUl9VZ1p2YUNqZi1qLUdYNjNn?oc=5",
-      "site": "央广网",
-      "siteUrl": "https://www.cnr.cn"
     }
   ]
 }
