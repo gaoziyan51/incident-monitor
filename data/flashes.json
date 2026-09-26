@@ -1,19 +1,7 @@
 {
-  "updated": "2026-09-26T03:02:05.948Z",
+  "updated": "2026-09-26T03:19:09.467Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-6612abd30963",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 18:02:00 GMT",
-      "ts": 1789581720000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "宇宙大爆炸最初五分钟氦丰度获最精确测量 - 中国科技网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MzVkcXZnR2UwelNkenFIYVFYVzBPcUxUQ1VSaUVHcV9LYVJnZzhjQWZzM09DNk8wc0xVNlo2amRqNjBueWtVeTdSbkJZT053RjRSZDhmeXJyT19wekF3UHB6WERtZkxLaFFwT2pVWTE?oc=5",
-      "site": "中国科技网",
-      "siteUrl": "https://www.stdaily.com"
-    },
     {
       "id": "FL-710fe48d473f",
       "date": "2026-06-03",
@@ -73,6 +61,18 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Xa1R5Q3RIWURTTDB2enpUbXU2VFBDQUlqNEhLT25sNkZMeXlqTTBoX09uUmNkdXI5dlZpaUx5S1lWcFNYa3Bfb1VFYXMxUDhlczRwVWxSckpaY1dKVGV2a2JyUmlHRGF2ZlZj?oc=5",
       "site": "华龙网",
       "siteUrl": "https://www.cqnews.net"
+    },
+    {
+      "id": "FL-6612abd30963",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 07:00:00 GMT",
+      "ts": 1789628400000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "宇宙大爆炸最初五分钟氦丰度获最精确测量 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MzVkcXZnR2UwelNkenFIYVFYVzBPcUxUQ1VSaUVHcV9LYVJnZzhjQWZzM09DNk8wc0xVNlo2amRqNjBueWtVeTdSbkJZT053RjRSZDhmeXJyT19wekF3UHB6WERtZkxLaFFwT2pVWTE?oc=5",
+      "site": "中国科技网",
+      "siteUrl": "https://www.stdaily.com"
     },
     {
       "id": "FL-340d5e981918",
@@ -195,28 +195,16 @@
       "siteUrl": "https://www.bostonherald.com"
     },
     {
-      "id": "FL-7005ed608ceb",
+      "id": "FL-59822b76f839",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 20:16:18 GMT",
       "ts": 1790367378000,
       "scope": "intl",
       "type": "blast",
-      "title": "6 People Are Missing After Explosion in Athens Tourist District - The New York Times",
+      "title": "6 People Are Missing After Explosion in Athens Tourist District - nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVXJHLWNEZ2cxNzZRN3MxdnZ4N1NOZ3dpaWZSZTFaVjl2MlFNRHRJdEhkUkpST3JNTGV0NXJMWlJLeVl6MHNXZkpJemQ1dERYZ2dOOW1LWXpIUmdNUFdOZ3JDSkpZUExIVlQxbUhDZ0l4eW1kc3A1REI3UWhPWExySHlWV08?oc=5",
-      "site": "The New York Times",
+      "site": "nytimes.com",
       "siteUrl": "https://www.nytimes.com"
-    },
-    {
-      "id": "FL-e637a91fd84f",
-      "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 16:41:00 GMT",
-      "ts": 1790354460000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "2 killed in early morning home explosion in north Alabama - AL.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOW5zd1ZGbWdOeXJxNkZocjNsS25wbm4yVHBEcWoyV0d5ZE1iSVJwNUFrLVV5bi1RZ2lxN2d4RUxlMDg1U2FRbXFUWkFqU3c2WTR0d25uVExEMnZMbjNvVm1UdjNRYW5UQXhaU0g1OE1RaWdrY2I1OWMxaWJ6TTc5UkNZYkUxMzdiNkN6X3ZzcnA0cG51U3RDMGd30gGuAUFVX3lxTE1rUGFlTHlEV0QzNzl1cl9walFUbEdKNkQxU1dhRFE5dGtxbW9VWUFYam9FWTZsMFk5ek85RW9SMjh1Mk5EaEl2WmZpcGVHZzBoRjFRRzVwSk5ZUHVGZ2szc1ZpMXBSUmdHanZtUzNSdjFMcEM0QUxsX3FoS21LSGN1VkdFLVZ5MUlVaE1NSElJc2g1dnhZSnJNdzBiQUxWMDhuMlR0TlJZVC1TVjNCQQ?oc=5",
-      "site": "AL.com",
-      "siteUrl": "https://www.al.com"
     },
     {
       "id": "FL-c458d90c0060",
@@ -255,15 +243,15 @@
       "siteUrl": "https://www.yzwb.net"
     },
     {
-      "id": "FL-954af0c22038",
+      "id": "FL-72c442bdebdb",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 12:01:56 GMT",
       "ts": 1790337716000,
       "scope": "intl",
       "type": "blast",
-      "title": "An explosion near the Acropolis in Greece injures at least 2 people and collapses a building - ABC News - Breaking News, Latest News and Videos",
+      "title": "An explosion near the Acropolis in Greece injures at least 2 people and collapses a building - abcnews.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNblRzMEh2alZ5bmUwb1BjVkVHYkc2TWIyYXE5cld4QVlRTzVJQnVENENZM05IU3V3dEtvb2ZqYk1lWE9PdDFYN1VwVm1qaEdIaXBRZElJemVwdTFjNy1MaUpIcmN0NzRQT1B4QkV3enRyYUpYT0JhTmZXT1pjNVpKNU85SFYxQnZLbUNwNVhMY0gzQ0huZGVEWTVYbnpiSThLZ1ZVZGNlNnRtSDdQVkppeWJqZ1JfejTSAbwBQVVfeXFMTjNSNkU1ekswek95MnVVbFQ4M0NWaTVYd0hVRzBzU1dpSXRNUkQzYlBYcnBPdGNId0lRWDBDYmZ0MzFGY3I2YjFjZjNILTVpZklMRVVVWUdQLU9WdEMwQ1p2Tk50c0k5YWRQSFJPNEpyYXNFbDlPUFo4ZEJPZkFrdGR6UDlJZ1ZObHhRZzBUblp3b2Y1YnpQQ3JyQ29xTVZ5UVN5MGFNZC1jRGo3ZjBIM2txa1BSRkpBSDNKZ2Q?oc=5",
-      "site": "ABC News - Breaking News, Latest News and Videos",
+      "site": "abcnews.com",
       "siteUrl": "https://abcnews.com"
     },
     {
@@ -313,6 +301,18 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcFotdThBSmdQZGZxeWJ2SUp0MDAzcWNSazBZN1dsSmNUZlhuQXhxZnEtemlOcWM2M1pQd1I1am1WT0F3bW9rakVjYVl1QzZuOW03V1Nkc08ybTJBMUhTWkZRNEktVzZ5N1VlTURxQUVSVFlZdHRGUHllRnFrU0FPUGVGbG5CMFZQ?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-48cb2b2a0133",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 08:24:04 GMT",
+      "ts": 1790324644000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "An explosion near the Acropolis in Greece injures at least 2 people and collapses a building - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNXY4QkkzbnV1LWxwMVNzekFOdFNUenh2MFdTaHNqM3NjSVVHbVI0NVZYMFFNTEx6ekU3eHNqVS1rOTlyV1YtWjljTWxuUGZwcFhGcWpaZkFQRkxlV041REREZGFJTUs0Z215WDMxcWdzb0t5LWdhQjdVTFZnNUdlQ0pCTFY4bFBVaXJPUk5GazNib1ZiSk9DU2M1MVAxZzNPQzFzNzQ0eWVCSkFJeFloV3N2Zl8wZVE?oc=5",
+      "site": "NBC News",
+      "siteUrl": "https://www.nbcnews.com"
     },
     {
       "id": "FL-983b4ebb9f04",
