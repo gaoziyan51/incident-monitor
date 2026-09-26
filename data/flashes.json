@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T12:22:57.633Z",
+  "updated": "2026-09-26T12:38:30.356Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -87,15 +87,27 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-e208a0d44490",
+      "id": "FL-53093e91fe3a",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 12:25:51 GMT",
+      "ts": 1790425551000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNWplY2dTS0RWZlltdXN3NzNoWG1XRlhOZzBGZko1SjZhYjhpdWV3VzI1YTRUSUt3aEd0YTBXWS1WeUROZWZZcm13RTNsaENXbHgwdnFxY1Nlbk5YVUdxNEg1NXE5S1ZJenVOTHplcEUxRXBxejVWc08yOXVvb280Ym1MdmszbE44?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-63e59e7ae8db",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 11:39:00 GMT",
       "ts": 1790422740000,
       "scope": "intl",
       "type": "blast",
-      "title": "At Least 4 Dead After Explosion in Athens Tourist District - nytimes.com",
+      "title": "At Least 4 Dead After Explosion in Athens Tourist District - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVXJHLWNEZ2cxNzZRN3MxdnZ4N1NOZ3dpaWZSZTFaVjl2MlFNRHRJdEhkUkpST3JNTGV0NXJMWlJLeVl6MHNXZkpJemQ1dERYZ2dOOW1LWXpIUmdNUFdOZ3JDSkpZUExIVlQxbUhDZ0l4eW1kc3A1REI3UWhPWExySHlWV08?oc=5",
-      "site": "nytimes.com",
+      "site": "The New York Times",
       "siteUrl": "https://www.nytimes.com"
     },
     {
@@ -219,6 +231,18 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
+      "id": "FL-e6da002b8732",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 07:07:30 GMT",
+      "ts": 1790406450000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "俄远东一煤矿矿区爆炸 有人员伤亡 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yRUEyVUZDMTdQcTR1emZMSTZNcTFrMzdVRktDNnBEVlNETk9FN29SVnA0WlQxVzg4NGsyd0ZZejJFWGFSSEVjQTl3M2p2blNWVllnTEVTRng2bkhBeXI0eA?oc=5",
+      "site": "东方财富",
+      "siteUrl": "https://wap.eastmoney.com"
+    },
+    {
       "id": "FL-1d6c61055589",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 06:49:00 GMT",
@@ -229,18 +253,6 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUXFwaEhITTA3cl9VaVdoVlBoNE8wdHI3UnpsYmRibGQ4Y2FfSF80V0sycHNfYTd3SW94ckV4NlBhNFY2SG15MDdraURaRlMxTm05OUdRdmxQb2JqeGtXZ21xMTdDbHR4NUNxTk5uS082QW9Pei1IUEl6OG10QXYxMFRmT0pRQmJ0V1M3LWdYcVUyVTZkeC1naXJwVDFDTnpqYkJJazNJMA?oc=5",
       "site": "UA.NEWS",
       "siteUrl": "https://ua.news"
-    },
-    {
-      "id": "FL-e6da002b8732",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 06:20:57 GMT",
-      "ts": 1790403657000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "俄远东一煤矿矿区爆炸 有人员伤亡 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UY0hyWWplcnI0b2lqeDh3cEFvRTZSYUx2M1dFNFQ2ZjZCYVVDMGlkZ1ZfVmRJMDdkSkM3NjR1YlNyX180X25TUFBIQkJQT3V6MVF1VDJoazRyWmRadHl3dWRlcw?oc=5",
-      "site": "东方财富",
-      "siteUrl": "https://emwap.eastmoney.com"
     },
     {
       "id": "FL-702619048484",
@@ -327,15 +339,15 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
-      "id": "FL-c2b5e87a66f1",
+      "id": "FL-bc5a0b5cb5b0",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 03:47:19 GMT",
       "ts": 1789789639000,
       "scope": "intl",
       "type": "blast",
-      "title": "巴基斯坦西北部爆炸已致21死 巴总统称将继续反恐行动 - 央视网",
+      "title": "巴基斯坦西北部爆炸已致21死 巴总统称将继续反恐行动 - news.cctv.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JdTVsYVVFWHBSX3JkaE5ocVh2cmtPd0NWVkpmT1EyOENqOGJZcHhnQllGeU9RYThKRTJmYnRVaXpEQ25RcGNGNi1LcmZJUUFnY2Q1cVVpS2dkSW8wQzJfSFI4U3FYMzdXNmJSWm1SdEpsckl2Y190Sg?oc=5",
-      "site": "央视网",
+      "site": "news.cctv.com",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -399,15 +411,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-31d313973515",
+      "id": "FL-25f05720b8fe",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 13:35:00 GMT",
       "ts": 1790343300000,
       "scope": "intl",
       "type": "blast",
-      "title": "克罗地亚批准将“北溪”爆炸案嫌疑人引渡至德国 - 紫牛新闻",
+      "title": "克罗地亚批准将“北溪”爆炸案嫌疑人引渡至德国 - yzwb.net",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SYjNkNFJtM090Qk9MYnE3NnhXZWtMazZsYUZKVTZBSWRXNV8tcUtfQm5wQmMyNm5VXzVPRVRXQXpVdHNJd1o0UWY4dWp6cW5wdFhkV2ZnOEFuaWNGNTVqOFdkX3VjdkhQWWc?oc=5",
-      "site": "紫牛新闻",
+      "site": "yzwb.net",
       "siteUrl": "https://www.yzwb.net"
     },
     {
@@ -423,27 +435,39 @@
       "siteUrl": "https://tech.sina.cn"
     },
     {
-      "id": "FL-59ae45eae1ab",
+      "id": "FL-97e67bbd27ea",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 10:45:00 GMT",
       "ts": 1790333100000,
       "scope": "dom",
       "type": "blast",
-      "title": "货车司机路遇车祸救出伤者，刚撤离即发生燃爆致烧伤 对话本人：都是跑车的，人没了家就垮了 - 新浪财经",
+      "title": "货车司机路遇车祸救出伤者，刚撤离即发生燃爆致烧伤 对话本人：都是跑车的，人没了家就垮了 - finance.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HZlotRTdrelhWTGFPS3loZjg2MTdxUXBPSFRTTEZMVDlMd1dGNGVtbUV5UmVoekk5MWhoSHMycHpvNHROZTR6MUhCR0VidnIzenoySTFPdmVLSTM0bXVlcXlxd3lpdHpLLW5EUm1lVmJDc2k2TmFONEQ0OG1xbkU?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.com.cn",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-0580182b3ab4",
+      "id": "FL-6406b2d4a6da",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 09:49:43 GMT",
+      "ts": 1790329783000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "印度试射新型防空导弹 发射失败变“呲花” 从发射筒掉落后在地上“打滚” 但并未发生爆炸 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcFotdThBSmdQZGZxeWJ2SUp0MDAzcWNSazBZN1dsSmNUZlhuQXhxZnEtemlOcWM2M1pQd1I1am1WT0F3bW9rakVjYVl1QzZuOW03V1Nkc08ybTJBMUhTWkZRNEktVzZ5N1VlTURxQUVSVFlZdHRGUHllRnFrU0FPUGVGbG5CMFZQ?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-983b4ebb9f04",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 06:44:18 GMT",
       "ts": 1790318658000,
       "scope": "intl",
       "type": "blast",
-      "title": "因无人机爆炸，2名以色列士兵在加沙地带死亡 - mil.ifeng.com",
+      "title": "因无人机爆炸，2名以色列士兵在加沙地带死亡 - 凤凰网",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE93blpsNE9zTENSVXhkZHBYOXg5d3V6aUI0VWM5bC1lSlhIYTVwdjdGWmQxdDdBejlzbThuZ1JRRzVBcHFuaHM5dVlNTQ?oc=5",
-      "site": "mil.ifeng.com",
+      "site": "凤凰网",
       "siteUrl": "https://mil.ifeng.com"
     },
     {
