@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T11:51:40.598Z",
+  "updated": "2026-09-26T12:01:52.309Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -27,15 +27,15 @@
       "siteUrl": "https://science.caixin.com"
     },
     {
-      "id": "FL-d4ad77a03150",
+      "id": "FL-5978691bcb18",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 09:49:35 GMT",
       "ts": 1790243375000,
       "scope": "dom",
       "type": "blast",
-      "title": "“上海化工园区发生大爆炸”不实（2026·09·24） - news.sina.cn",
+      "title": "“上海化工园区发生大爆炸”不实（2026·09·24） - 新浪新闻_手机新浪网",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrdjNVRVdxNGE2QUNtTWVQajF1VE40am4yd2ZOYndvN3dEZmRLdHJwT3VlNlBNWUhxcFR0alpKNmI2aWM3RkZ0Yy0teDBKX1RJWU1mM09OVmRiZkxvNnFHZ1ZiWTM3MHZOMnBnUlZRY2doVXBO?oc=5",
-      "site": "news.sina.cn",
+      "site": "新浪新闻_手机新浪网",
       "siteUrl": "https://news.sina.cn"
     },
     {
@@ -87,6 +87,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-63e59e7ae8db",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 11:39:00 GMT",
+      "ts": 1790422740000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "At Least 4 Dead After Explosion in Athens Tourist District - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVXJHLWNEZ2cxNzZRN3MxdnZ4N1NOZ3dpaWZSZTFaVjl2MlFNRHRJdEhkUkpST3JNTGV0NXJMWlJLeVl6MHNXZkpJemQ1dERYZ2dOOW1LWXpIUmdNUFdOZ3JDSkpZUExIVlQxbUhDZ0l4eW1kc3A1REI3UWhPWExySHlWV08?oc=5",
+      "site": "The New York Times",
+      "siteUrl": "https://www.nytimes.com"
+    },
+    {
       "id": "FL-eb17bc951b27",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 11:26:04 GMT",
@@ -123,15 +135,15 @@
       "siteUrl": "https://emwap.eastmoney.com"
     },
     {
-      "id": "FL-d880ea0665e1",
+      "id": "FL-43f7e49ba3d3",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 10:51:29 GMT",
       "ts": 1790419889000,
       "scope": "intl",
       "type": "blast",
-      "title": "2 American tourists dead after building explosion and collapse in Athens, Greece - CBS News",
+      "title": "2 American tourists dead after building explosion and collapse in Athens, Greece - cbsnews.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSDkta3c5RDBnb19GWWI2S3Vib1VDTVc1OXhOWVBod21HeTRRbW92Y3hFbVprVWdSOVRWbF9qSEN5Y25TbU8tT19aT0ZIUWg5Q2lablRnN0c4Z1FRX2JLY3dzWW1CaFRnTzVSczEwdWJFNXpkc2dZTF91WjlnTEFDM00yZU54bW51?oc=5",
-      "site": "CBS News",
+      "site": "cbsnews.com",
       "siteUrl": "https://www.cbsnews.com"
     },
     {
@@ -195,18 +207,6 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-be6534410928",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 09:13:00 GMT",
-      "ts": 1790413980000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "At Least 2 Dead After Explosion in Athens Tourist District - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVXJHLWNEZ2cxNzZRN3MxdnZ4N1NOZ3dpaWZSZTFaVjl2MlFNRHRJdEhkUkpST3JNTGV0NXJMWlJLeVl6MHNXZkpJemQ1dERYZ2dOOW1LWXpIUmdNUFdOZ3JDSkpZUExIVlQxbUhDZ0l4eW1kc3A1REI3UWhPWExySHlWV08?oc=5",
-      "site": "The New York Times",
-      "siteUrl": "https://www.nytimes.com"
-    },
-    {
       "id": "FL-8d9dce0cb5db",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 08:52:00 GMT",
@@ -217,6 +217,18 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT000UUtZWWRtYTBsMEk4VEZqc1hpb3hzSzVCOXo5eVNmam84OFlaeFJiUzZHcUhSS2REMXh3N2dzZFplWWduTnBQaExaOXVjc29xRW9LU0lheWJzbk0teGJLVTdmX1RBU1pKTXFOdHctT0EwX216dXlhWTZ5WTRTd1ZiYjJsUGFhUmpGeA?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-1d6c61055589",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 06:49:00 GMT",
+      "ts": 1790405340000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "巴基斯坦警察检查站爆炸致至少11人死亡——《黎明报》 - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUXFwaEhITTA3cl9VaVdoVlBoNE8wdHI3UnpsYmRibGQ4Y2FfSF80V0sycHNfYTd3SW94ckV4NlBhNFY2SG15MDdraURaRlMxTm05OUdRdmxQb2JqeGtXZ21xMTdDbHR4NUNxTk5uS082QW9Pei1IUEl6OG10QXYxMFRmT0pRQmJ0V1M3LWdYcVUyVTZkeC1naXJwVDFDTnpqYkJJazNJMA?oc=5",
+      "site": "UA.NEWS",
+      "siteUrl": "https://ua.news"
     },
     {
       "id": "FL-e6da002b8732",
@@ -481,18 +493,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92WW1HV0ttYlE2bUkxb2ZWUDVCSUNuTmRaQnNSWnpDTElPRUFUOXk3U3FoX2VKTm1FQ29TaDBocTUwMTZlMU1Za2hRUkxEMG9taGphNkZvSjI4UF9wUzVyU0E4amUyQdIBa0FVX3lxTE5YVGx2WWxZY1lKNjNHQ1huNHZQWWFqTW1MR0p6RnBwaVdSSXlKT1FEQmx6dzI3dVBIVm5jTVdpRHR6b05UeHRKdUVrZEFMbzcwOUJLcHhGWVBaN2tnU2c5QzFKTEdyZml6ZDg0?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-a4c84c6d032d",
-      "date": "2026-06-05",
-      "dateISO": "Fri, 05 Jun 2026 07:00:00 GMT",
-      "ts": 1780642800000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "辽宁本溪一商铺疑似液化气罐泄漏引发爆炸：2人死亡13人轻微伤 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qQlpCOEt3cGs2NmdiMHBrTlVwekFZQ2pKaTI0cnRPMmt3Z1pCLVUxai1tYkw2RnMzbGctVm5zb0ZwcTIyNlZmUEh0M3MwTlQtRkU2NlJlNnpGdU5vUl9VZ1p2YUNqZi1qLUdYNjNn?oc=5",
-      "site": "央广网",
-      "siteUrl": "https://www.cnr.cn"
     }
   ]
 }
