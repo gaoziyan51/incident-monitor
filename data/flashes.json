@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T05:28:36.227Z",
+  "updated": "2026-09-26T05:38:10.171Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -231,28 +231,16 @@
       "siteUrl": "https://www.bostonherald.com"
     },
     {
-      "id": "FL-7005ed608ceb",
+      "id": "FL-59822b76f839",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 20:16:18 GMT",
       "ts": 1790367378000,
       "scope": "intl",
       "type": "blast",
-      "title": "6 People Are Missing After Explosion in Athens Tourist District - The New York Times",
+      "title": "6 People Are Missing After Explosion in Athens Tourist District - nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVXJHLWNEZ2cxNzZRN3MxdnZ4N1NOZ3dpaWZSZTFaVjl2MlFNRHRJdEhkUkpST3JNTGV0NXJMWlJLeVl6MHNXZkpJemQ1dERYZ2dOOW1LWXpIUmdNUFdOZ3JDSkpZUExIVlQxbUhDZ0l4eW1kc3A1REI3UWhPWExySHlWV08?oc=5",
-      "site": "The New York Times",
+      "site": "nytimes.com",
       "siteUrl": "https://www.nytimes.com"
-    },
-    {
-      "id": "FL-c458d90c0060",
-      "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 17:57:44 GMT",
-      "ts": 1790359064000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Blast near Acropolis in Greece injures 2, collapses a building. Local media say gas leak suspected - AP News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbHpYeFRfTzkwWnNjOVNuZHY5SndUSXAtMXdFZjhQSkZ6MUUxV1NCX01TYUVRTV9kb1N1d2NPVjJqd2d4aDNnQm9CdnQtX1Yza0lJOXJpOTNmMmZscXVvcFpZdkk2TVRaTUVLRGJkQ2h5YnBUNlJVNV91RkpaVHdOeE5EU2d5dUE5T2l1eklHbWgwUVZiWXJSenp6OUdwcEZ5?oc=5",
-      "site": "AP News",
-      "siteUrl": "https://apnews.com"
     },
     {
       "id": "FL-71289029d840",
@@ -267,15 +255,15 @@
       "siteUrl": "https://gbcode.rthk.hk"
     },
     {
-      "id": "FL-25f05720b8fe",
+      "id": "FL-31d313973515",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 13:35:00 GMT",
       "ts": 1790343300000,
       "scope": "intl",
       "type": "blast",
-      "title": "克罗地亚批准将“北溪”爆炸案嫌疑人引渡至德国 - yzwb.net",
+      "title": "克罗地亚批准将“北溪”爆炸案嫌疑人引渡至德国 - 紫牛新闻",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SYjNkNFJtM090Qk9MYnE3NnhXZWtMazZsYUZKVTZBSWRXNV8tcUtfQm5wQmMyNm5VXzVPRVRXQXpVdHNJd1o0UWY4dWp6cW5wdFhkV2ZnOEFuaWNGNTVqOFdkX3VjdkhQWWc?oc=5",
-      "site": "yzwb.net",
+      "site": "紫牛新闻",
       "siteUrl": "https://www.yzwb.net"
     },
     {
@@ -387,15 +375,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-8322700da7a8",
+      "id": "FL-a4c84c6d032d",
       "date": "2026-06-05",
       "dateISO": "Fri, 05 Jun 2026 07:00:00 GMT",
       "ts": 1780642800000,
       "scope": "dom",
       "type": "blast",
-      "title": "辽宁本溪一商铺疑似液化气罐泄漏引发爆炸：2人死亡13人轻微伤 - cnr.cn",
+      "title": "辽宁本溪一商铺疑似液化气罐泄漏引发爆炸：2人死亡13人轻微伤 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qQlpCOEt3cGs2NmdiMHBrTlVwekFZQ2pKaTI0cnRPMmt3Z1pCLVUxai1tYkw2RnMzbGctVm5zb0ZwcTIyNlZmUEh0M3MwTlQtRkU2NlJlNnpGdU5vUl9VZ1p2YUNqZi1qLUdYNjNn?oc=5",
-      "site": "cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://www.cnr.cn"
     }
   ]
