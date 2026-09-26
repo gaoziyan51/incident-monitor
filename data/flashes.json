@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T19:51:29.994Z",
+  "updated": "2026-09-26T20:01:21.512Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -73,6 +73,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-8bf60ba8e343",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 19:15:29 GMT",
+      "ts": 1790450129000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "4 American tourists dead after building explosion and collapse in Athens - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSDkta3c5RDBnb19GWWI2S3Vib1VDTVc1OXhOWVBod21HeTRRbW92Y3hFbVprVWdSOVRWbF9qSEN5Y25TbU8tT19aT0ZIUWg5Q2lablRnN0c4Z1FRX2JLY3dzWW1CaFRnTzVSczEwdWJFNXpkc2dZTF91WjlnTEFDM00yZU54bW51?oc=5",
+      "site": "CBS News",
+      "siteUrl": "https://www.cbsnews.com"
     },
     {
       "id": "FL-f09ae96800fc",
@@ -267,15 +279,15 @@
       "siteUrl": "https://www.reuters.com"
     },
     {
-      "id": "FL-599bae74504c",
+      "id": "FL-02021f3e2608",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 12:47:25 GMT",
       "ts": 1790426845000,
       "scope": "intl",
       "type": "blast",
-      "title": "Athens explosion: Six dead in blast near Acropolis in Plaka district - BBC",
+      "title": "Athens explosion: Six dead in blast near Acropolis in Plaka district - bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RenQyckZNcnZtRlZhaFkzeDh5TTZ1Y1QwS29CazZlODlON0VIdHc0T3JndDhaRDA4U0E2dndkWW5vNlVmb1k4VjQ4cjU5Y0hzTTVSWWd5MjE2NEU?oc=5",
-      "site": "BBC",
+      "site": "bbc.com",
       "siteUrl": "https://www.bbc.com"
     },
     {
@@ -303,15 +315,15 @@
       "siteUrl": "https://atvnewsonline.com"
     },
     {
-      "id": "FL-bad6fb473e76",
+      "id": "FL-56bd69493691",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 12:12:08 GMT",
       "ts": 1790424728000,
       "scope": "intl",
       "type": "blast",
-      "title": "巴基斯坦西北部发生爆炸 造成11死18伤 - zaobao.com.sg",
+      "title": "巴基斯坦西北部发生爆炸 造成11死18伤 - 联合早报",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByR1hfOU5vOWZjdzltMmpIaXlseUN1bTNhdG42MnJWNmJ3TWZVc3VZZlJUSTFKbXVpUng4aEw3N2cyOTJ0OE44SHBtdGw4a0gzUXpGamg2dlpYaGlNN2RXZ0VBamh1Z0I0aFE?oc=5",
-      "site": "zaobao.com.sg",
+      "site": "联合早报",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
@@ -339,18 +351,6 @@
       "siteUrl": "https://www.jfdaily.com"
     },
     {
-      "id": "FL-8bf60ba8e343",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 10:51:00 GMT",
-      "ts": 1790419860000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "4 American tourists dead after building explosion and collapse in Athens - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSDkta3c5RDBnb19GWWI2S3Vib1VDTVc1OXhOWVBod21HeTRRbW92Y3hFbVprVWdSOVRWbF9qSEN5Y25TbU8tT19aT0ZIUWg5Q2lablRnN0c4Z1FRX2JLY3dzWW1CaFRnTzVSczEwdWJFNXpkc2dZTF91WjlnTEFDM00yZU54bW51?oc=5",
-      "site": "CBS News",
-      "siteUrl": "https://www.cbsnews.com"
-    },
-    {
       "id": "FL-347b1e4fbde6",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 09:53:48 GMT",
@@ -363,15 +363,15 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
-      "id": "FL-f5b789134f95",
+      "id": "FL-4562f1649a59",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 09:39:10 GMT",
       "ts": 1790415550000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典旅游区住宅爆炸倒塌 造成六人死 - zaobao.com.sg",
+      "title": "雅典旅游区住宅爆炸倒塌 造成六人死 - 联合早报",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FdG5Ray01eFNyVFBPRk9ZQ1VGdDZpSjdndy1kQlVlWmxnY1dtYjJjMXpLYlFWWWhBZmVlRzNoT1NSeXdDa2lpbmZ2RUtza2YzOXp2V0hMYkk1MEJkMEpqb0MyZFN0bjVrSmc?oc=5",
-      "site": "zaobao.com.sg",
+      "site": "联合早报",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
@@ -471,15 +471,15 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
-      "id": "FL-bc5a0b5cb5b0",
+      "id": "FL-c2b5e87a66f1",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 03:47:19 GMT",
       "ts": 1789789639000,
       "scope": "intl",
       "type": "blast",
-      "title": "巴基斯坦西北部爆炸已致21死 巴总统称将继续反恐行动 - news.cctv.com",
+      "title": "巴基斯坦西北部爆炸已致21死 巴总统称将继续反恐行动 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JdTVsYVVFWHBSX3JkaE5ocVh2cmtPd0NWVkpmT1EyOENqOGJZcHhnQllGeU9RYThKRTJmYnRVaXpEQ25RcGNGNi1LcmZJUUFnY2Q1cVVpS2dkSW8wQzJfSFI4U3FYMzdXNmJSWm1SdEpsckl2Y190Sg?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -613,6 +613,18 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0RVJ2NHZDR09BWmtLVkdDTElrRGtkUWpkVThacnhENmpyeUh6b1RVZk1kNXY4MEpBeWx0NU5jWk9DY01Xd3ptQjVXZmdqRlZSN2JqeGRkSFQ0Ym1XUi1LOTd2OVVpQjdzdDFNb09HR3FpaGY5R3JZ?oc=5",
       "site": "封面新闻",
       "siteUrl": "https://m.thecover.cn"
+    },
+    {
+      "id": "FL-84a9598aa100",
+      "date": "2026-06-12",
+      "dateISO": "Fri, 12 Jun 2026 07:00:00 GMT",
+      "ts": 1781247600000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "泰国当局判处两维吾尔人死刑　BBC记者回忆当年的曼谷四面佛爆炸案 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92WW1HV0ttYlE2bUkxb2ZWUDVCSUNuTmRaQnNSWnpDTElPRUFUOXk3U3FoX2VKTm1FQ29TaDBocTUwMTZlMU1Za2hRUkxEMG9taGphNkZvSjI4UF9wUzVyU0E4amUyQdIBa0FVX3lxTE5YVGx2WWxZY1lKNjNHQ1huNHZQWWFqTW1MR0p6RnBwaVdSSXlKT1FEQmx6dzI3dVBIVm5jTVdpRHR6b05UeHRKdUVrZEFMbzcwOUJLcHhGWVBaN2tnU2c5QzFKTEdyZml6ZDg0?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
     }
   ]
 }
