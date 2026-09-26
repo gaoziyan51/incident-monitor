@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T01:01:19.628Z",
+  "updated": "2026-09-26T01:17:16.791Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -111,15 +111,15 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
-      "id": "FL-bc5a0b5cb5b0",
+      "id": "FL-c2b5e87a66f1",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 03:47:19 GMT",
       "ts": 1789789639000,
       "scope": "intl",
       "type": "blast",
-      "title": "巴基斯坦西北部爆炸已致21死 巴总统称将继续反恐行动 - news.cctv.com",
+      "title": "巴基斯坦西北部爆炸已致21死 巴总统称将继续反恐行动 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JdTVsYVVFWHBSX3JkaE5ocVh2cmtPd0NWVkpmT1EyOENqOGJZcHhnQllGeU9RYThKRTJmYnRVaXpEQ25RcGNGNi1LcmZJUUFnY2Q1cVVpS2dkSW8wQzJfSFI4U3FYMzdXNmJSWm1SdEpsckl2Y190Sg?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -207,18 +207,6 @@
       "siteUrl": "https://www.nytimes.com"
     },
     {
-      "id": "FL-c458d90c0060",
-      "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 15:45:00 GMT",
-      "ts": 1790351100000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Blast near Acropolis in Greece injures 2, collapses a building. Local media say gas leak suspected - AP News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbHpYeFRfTzkwWnNjOVNuZHY5SndUSXAtMXdFZjhQSkZ6MUUxV1NCX01TYUVRTV9kb1N1d2NPVjJqd2d4aDNnQm9CdnQtX1Yza0lJOXJpOTNmMmZscXVvcFpZdkk2TVRaTUVLRGJkQ2h5YnBUNlJVNV91RkpaVHdOeE5EU2d5dUE5T2l1eklHbWgwUVZiWXJSenp6OUdwcEZ5?oc=5",
-      "site": "AP News",
-      "siteUrl": "https://apnews.com"
-    },
-    {
       "id": "FL-71289029d840",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 14:49:00 GMT",
@@ -243,6 +231,18 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
+      "id": "FL-954af0c22038",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 12:01:56 GMT",
+      "ts": 1790337716000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "An explosion near the Acropolis in Greece injures at least 2 people and collapses a building - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNblRzMEh2alZ5bmUwb1BjVkVHYkc2TWIyYXE5cld4QVlRTzVJQnVENENZM05IU3V3dEtvb2ZqYk1lWE9PdDFYN1VwVm1qaEdIaXBRZElJemVwdTFjNy1MaUpIcmN0NzRQT1B4QkV3enRyYUpYT0JhTmZXT1pjNVpKNU85SFYxQnZLbUNwNVhMY0gzQ0huZGVEWTVYbnpiSThLZ1ZVZGNlNnRtSDdQVkppeWJqZ1JfejTSAbwBQVVfeXFMTjNSNkU1ekswek95MnVVbFQ4M0NWaTVYd0hVRzBzU1dpSXRNUkQzYlBYcnBPdGNId0lRWDBDYmZ0MzFGY3I2YjFjZjNILTVpZklMRVVVWUdQLU9WdEMwQ1p2Tk50c0k5YWRQSFJPNEpyYXNFbDlPUFo4ZEJPZkFrdGR6UDlJZ1ZObHhRZzBUblp3b2Y1YnpQQ3JyQ29xTVZ5UVN5MGFNZC1jRGo3ZjBIM2txa1BSRkpBSDNKZ2Q?oc=5",
+      "site": "ABC News - Breaking News, Latest News and Videos",
+      "siteUrl": "https://abcnews.com"
+    },
+    {
       "id": "FL-fd1460b333a8",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 11:33:52 GMT",
@@ -253,18 +253,6 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYWh0NGxvdVk4T09kUUdzOU1rNUtyWXNJSF9jVzE1eFRfZGUtb1lLVmxOZ2xrT1c0aXE0bVM0NVFEamVFVll3dWw3N0JtVk1nTlBtZ2dZV0tvMEsyQVZUQXVEMlFQck00OElVdFhWV2oyRXFhOHdOWUVBOFJTNDlNMGZrdFlTbnhqSlE3bmNKdm5EbU1renBYcmtDMGtKdGNBZjFfaTlid3RCQXhyZ1lzVA?oc=5",
       "site": "8world",
       "siteUrl": "https://www.8world.com"
-    },
-    {
-      "id": "FL-ca1702667fab",
-      "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 11:31:07 GMT",
-      "ts": 1790335867000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Couple killed in Hazel Green house explosion - WHNT.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNWJBZkl5aVo3dFdvSXZIZERQVjZ3eUJvR2hBRFloVFNfMk9xLXc3Q2t6WVhRM29BaHNocms1OVJjb2dfdl9ONE1Mb2V3eVVQZHlCQ1paUmVxOTJUTjRtSUx4dS1YbjF6N2NzZkkxM2xxNzNJeHFlMEtST29IOG1aUm9ma3lHWEZQekpHMdIBkgFBVV95cUxPVUFwUFpudFpWOXFPd1FXaGJMT1hHcTVuc1JrT2RsTHBXR085TW0yRy0yRVlzSmRQS2hjcTNHZ1Q1Z2xpNHFtajRqVVBfXzJybnNVSW9qdE9EMFVmRVppb3k5M3RMZlBXb2ZxM25YVzQtYXRtRkNxSzA4UVVBTFZRQ1J1dzlKTDZ0bng4Z2plenFudw?oc=5",
-      "site": "WHNT.com",
-      "siteUrl": "https://whnt.com"
     },
     {
       "id": "FL-6c21a2dc1f84",
