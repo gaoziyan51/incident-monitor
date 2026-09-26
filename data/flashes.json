@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T01:45:17.122Z",
+  "updated": "2026-09-26T01:53:27.587Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -63,15 +63,15 @@
       "siteUrl": "https://news.ifeng.com"
     },
     {
-      "id": "FL-acfb63f6e003",
+      "id": "FL-67f6cf1eeb06",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 05:40:57 GMT",
       "ts": 1790228457000,
       "scope": "dom",
       "type": "blast",
-      "title": "路过司机冲进火场救出追尾车车主，刚撤离事故车就发生爆炸 “都是跑车养家的顶梁柱，来不及多想” - 华龙网",
+      "title": "路过司机冲进火场救出追尾车车主，刚撤离事故车就发生爆炸 “都是跑车养家的顶梁柱，来不及多想” - cqnews.net",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Xa1R5Q3RIWURTTDB2enpUbXU2VFBDQUlqNEhLT25sNkZMeXlqTTBoX09uUmNkdXI5dlZpaUx5S1lWcFNYa3Bfb1VFYXMxUDhlczRwVWxSckpaY1dKVGV2a2JyUmlHRGF2ZlZj?oc=5",
-      "site": "华龙网",
+      "site": "cqnews.net",
       "siteUrl": "https://www.cqnews.net"
     },
     {
@@ -205,6 +205,18 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVXJHLWNEZ2cxNzZRN3MxdnZ4N1NOZ3dpaWZSZTFaVjl2MlFNRHRJdEhkUkpST3JNTGV0NXJMWlJLeVl6MHNXZkpJemQ1dERYZ2dOOW1LWXpIUmdNUFdOZ3JDSkpZUExIVlQxbUhDZ0l4eW1kc3A1REI3UWhPWExySHlWV08?oc=5",
       "site": "The New York Times",
       "siteUrl": "https://www.nytimes.com"
+    },
+    {
+      "id": "FL-187decb549fb",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 17:57:44 GMT",
+      "ts": 1790359064000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Blast near Acropolis in Greece injures 2, collapses a building. Local media say gas leak suspected - apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbHpYeFRfTzkwWnNjOVNuZHY5SndUSXAtMXdFZjhQSkZ6MUUxV1NCX01TYUVRTV9kb1N1d2NPVjJqd2d4aDNnQm9CdnQtX1Yza0lJOXJpOTNmMmZscXVvcFpZdkk2TVRaTUVLRGJkQ2h5YnBUNlJVNV91RkpaVHdOeE5EU2d5dUE5T2l1eklHbWgwUVZiWXJSenp6OUdwcEZ5?oc=5",
+      "site": "apnews.com",
+      "siteUrl": "https://apnews.com"
     },
     {
       "id": "FL-71289029d840",
