@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T06:23:53.295Z",
+  "updated": "2026-09-26T06:39:20.075Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -63,27 +63,27 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
-      "id": "FL-340d5e981918",
+      "id": "FL-f8061d91b549",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
       "ts": 1787468400000,
       "scope": "dom",
       "type": "blast",
-      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
+      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-0615dd398028",
+      "id": "FL-f38e3c0cb20f",
       "date": "2026-08-02",
       "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
       "ts": 1785654000000,
       "scope": "intl",
       "type": "blast",
-      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - 新华网",
+      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -99,16 +99,28 @@
       "siteUrl": "https://emwap.eastmoney.com"
     },
     {
-      "id": "FL-f79bd19e6390",
+      "id": "FL-702619048484",
       "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 05:42:00 GMT",
-      "ts": 1790401320000,
+      "dateISO": "Sat, 26 Sep 2026 06:20:47 GMT",
+      "ts": 1790403647000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "俄远东一煤矿矿区爆炸，有人员伤亡 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wMWFuZGplcnloclpwblE2R1M4YzJiR0Y4TFZNSUhqNjVtajUyUERhUWxVV21VV1V6WHU4N3Y0M2dfR2d3ajJzcXBZZjZkR2RkOG9qLXRhYzk3aGFCUmc?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
+      "id": "FL-4a0c9f7614db",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 05:42:40 GMT",
+      "ts": 1790401360000,
       "scope": "dom",
       "type": "blast",
-      "title": "中秋夜40623名球迷燃爆鞍山奥体，为“辽超”呐喊 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMVZ6TVpveWFzWXRpU0t0OHlqcVdoYVE1UkxSSTllMlJIUzlNLWQ3WmFmNUIyRmEyblZsVGxNdHVETnVycmZnNzZGWC02c3V2MFNSWlFaRGpuajdkcUxQaHZtSmJJeHZ1SjZYRUZSWS1FdC0xNnYtVFg3RXYwM1lxamVoeml5Y0hN?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
+      "title": "中秋夜40623名球迷燃爆鞍山奥体，为“辽超”呐喊 - 央广网",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91NDU3YTViSFlJLV9oWFg2dW9BaU4ybkZyTEZzUHE2US1IbHpHd2ZXY1hSMUxtMXNpSzZBY3hjRG5PbWdSenE4eFRZZ3ktZVo5djdLNkxYX2F5eDhVVjdteU1yM1hFb1U5MDE2anZ3?oc=5",
+      "site": "央广网",
+      "siteUrl": "https://www.cnr.cn"
     },
     {
       "id": "FL-a25da0fb5b1b",
@@ -207,52 +219,64 @@
       "siteUrl": "https://www.sd.chinanews.com.cn"
     },
     {
-      "id": "FL-160d55aeb47e",
+      "id": "FL-5414e00ffd4e",
       "date": "2026-06-22",
       "dateISO": "Mon, 22 Jun 2026 07:00:00 GMT",
       "ts": 1782111600000,
       "scope": "intl",
       "type": "blast",
-      "title": "卡塔尔工厂爆炸已致13人死亡 - 新华网",
+      "title": "卡塔尔工厂爆炸已致13人死亡 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mR2pTX0YxWjBwQ2lLNC1XZjFhd3IwVEYtWkZFR3ZBU3B5RTFHR1BldmQ3OEkxN2NaWTMzYUkwWENDeEliY3dVNEloOExFS1B6SlZQTENHdWVmTWpUM042M2hRcmo4QS1qdl85cXlhZHJ3R3JGTEU4?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-b042a088a326",
+      "id": "FL-dbcf7399ae0d",
       "date": "2026-08-03",
       "dateISO": "Mon, 03 Aug 2026 07:00:00 GMT",
       "ts": 1785740400000,
       "scope": "intl",
       "type": "blast",
-      "title": "巴基斯坦西北部发生爆炸致14人死亡 - 新华网",
+      "title": "巴基斯坦西北部发生爆炸致14人死亡 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-0f5476d1c019",
+      "id": "FL-9865542dc5f6",
       "date": "2026-07-31",
       "dateISO": "Fri, 31 Jul 2026 07:00:00 GMT",
       "ts": 1785481200000,
       "scope": "intl",
       "type": "blast",
-      "title": "巴基斯坦煤矿爆炸致34人死亡 8人被困 - 新华网",
+      "title": "巴基斯坦煤矿爆炸致34人死亡 8人被困 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ic3NaMW5yOHF1MmNnMDRPdThpWHRsY0dpOUl5X1U2aUxyMlZFTkVhN09xTVRmQ3dwcnFZaThTZjd5RXdLS1VLTVgzNGlENnl3T3hOOVBFSmYyajM0cmlxeVduX28xT2U5M1pvbmJfZE94TW00UmpNd2oyTFZFVEE?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-59822b76f839",
+      "id": "FL-7005ed608ceb",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 20:16:18 GMT",
       "ts": 1790367378000,
       "scope": "intl",
       "type": "blast",
-      "title": "6 People Are Missing After Explosion in Athens Tourist District - nytimes.com",
+      "title": "6 People Are Missing After Explosion in Athens Tourist District - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVXJHLWNEZ2cxNzZRN3MxdnZ4N1NOZ3dpaWZSZTFaVjl2MlFNRHRJdEhkUkpST3JNTGV0NXJMWlJLeVl6MHNXZkpJemQ1dERYZ2dOOW1LWXpIUmdNUFdOZ3JDSkpZUExIVlQxbUhDZ0l4eW1kc3A1REI3UWhPWExySHlWV08?oc=5",
-      "site": "nytimes.com",
+      "site": "The New York Times",
       "siteUrl": "https://www.nytimes.com"
+    },
+    {
+      "id": "FL-c458d90c0060",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 17:57:44 GMT",
+      "ts": 1790359064000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Blast near Acropolis in Greece injures 2, collapses a building. Local media say gas leak suspected - AP News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbHpYeFRfTzkwWnNjOVNuZHY5SndUSXAtMXdFZjhQSkZ6MUUxV1NCX01TYUVRTV9kb1N1d2NPVjJqd2d4aDNnQm9CdnQtX1Yza0lJOXJpOTNmMmZscXVvcFpZdkk2TVRaTUVLRGJkQ2h5YnBUNlJVNV91RkpaVHdOeE5EU2d5dUE5T2l1eklHbWgwUVZiWXJSenp6OUdwcEZ5?oc=5",
+      "site": "AP News",
+      "siteUrl": "https://apnews.com"
     },
     {
       "id": "FL-71289029d840",
@@ -339,15 +363,15 @@
       "siteUrl": "https://mil.ifeng.com"
     },
     {
-      "id": "FL-4ed1ffe514b4",
+      "id": "FL-b16c3e64fcb5",
       "date": "2026-08-21",
       "dateISO": "Fri, 21 Aug 2026 07:00:00 GMT",
       "ts": 1787295600000,
       "scope": "dom",
       "type": "blast",
-      "title": "山东临沂发生爆炸致1人死亡2人失联 - 新华网",
+      "title": "山东临沂发生爆炸致1人死亡2人失联 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5dmp2dW40R0VaSl93N25sLVZHeGFRNGZYdXF5cHJNeVcxWDVadGl6a094ZGxNcVBiMkN2cXhtdG1IQkxYSlk4SEVWc1FlX0Rsc1B4RXhKdHhvV0tfSHpzNDhTQUVRdlBSMjh6c3ZqZ01leGQ0dVVZ?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
