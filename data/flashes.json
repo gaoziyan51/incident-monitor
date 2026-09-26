@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T21:38:13.422Z",
+  "updated": "2026-09-26T21:45:08.017Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -75,6 +75,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-35c899c1674f",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 21:39:59 GMT",
+      "ts": 1790458799000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "4 Americans among 6 dead after explosion collapses building in Athens - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVklsTWZ5eTlrS2xYSkFpQUoxQnFjNTBEVFhjVTgycVpMUXQxOG1KNS1weUR6NDBVV3JybkZna0pZOExLYld1MEszTkNNRkdZOWhCejFwekVIbjlPUzJ2Z1U5dm9IS3RyVzRxYklpWnhQMk9tQkxSV19TcXJpZEdKOU9CYmVWTXdjeGxvUnd5RE1oWS1iLVJTNjFtRnhsOHZPQlFj0gGoAUFVX3lxTFA0YnVEcE4wVVU0N1B0ZEtaQU9ZR1NpbUplZWNqb0RZcm5pU0dOUGJfVjU4emhfYnFLWHlmR3JFcTAzVFg3WGNadzI3dUg3LS1GczRibWNXZXU1TkR6cHB5VVljQkRLTlhxak1BVlhVc1hSd3AxQ1ZnM3dOcUNSVFJFU003Vy05NEN1V3NGSVZZTFJqendmcDh6RkVvWkdEZUlLMkRKR3JmTQ?oc=5",
+      "site": "ABC News - Breaking News, Latest News and Videos",
+      "siteUrl": "https://abcnews.com"
+    },
+    {
       "id": "FL-20f16931ff94",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 21:06:07 GMT",
@@ -99,15 +111,15 @@
       "siteUrl": "https://people.com"
     },
     {
-      "id": "FL-894c07471f20",
+      "id": "FL-f09ae96800fc",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 17:46:00 GMT",
       "ts": 1790444760000,
       "scope": "intl",
       "type": "blast",
-      "title": "Greek authorities seek answers after six killed in Athens apartment block explosion - theguardian.com",
+      "title": "Greek authorities seek answers after six killed in Athens apartment block explosion - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYTZNOV9PWW42ZkNjUmdaZ0Z3OUcydTVCQll4UXhDQjVRT3FwaG9rRm85QzBZWUVyeDBkbkRZT3A5TW8tTlp4NF9fUkRHelFTNG5MeFFDa3cyeFU4U2dNSjVUMUxnTGZGSXJiVFItQ0VGbWtPTC04S3AyQy1meFZ0SVVBOHM4NUtnWDVCT0ZDSEFCUjlKakpLQXBiVXNHdTVHTUNkdFZEeU4zRHJLeGgxajR5RGFnWW1xZzJKVVlYSU9RV2lLRTRsSA?oc=5",
-      "site": "theguardian.com",
+      "site": "The Guardian",
       "siteUrl": "https://www.theguardian.com"
     },
     {
@@ -147,27 +159,15 @@
       "siteUrl": "https://www.tdm.com.mo"
     },
     {
-      "id": "FL-df6a57a18b9c",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 15:28:24 GMT",
-      "ts": 1790436504000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "6 dead after explosion collapses building in Athens - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVklsTWZ5eTlrS2xYSkFpQUoxQnFjNTBEVFhjVTgycVpMUXQxOG1KNS1weUR6NDBVV3JybkZna0pZOExLYld1MEszTkNNRkdZOWhCejFwekVIbjlPUzJ2Z1U5dm9IS3RyVzRxYklpWnhQMk9tQkxSV19TcXJpZEdKOU9CYmVWTXdjeGxvUnd5RE1oWS1iLVJTNjFtRnhsOHZPQlFj0gGoAUFVX3lxTFA0YnVEcE4wVVU0N1B0ZEtaQU9ZR1NpbUplZWNqb0RZcm5pU0dOUGJfVjU4emhfYnFLWHlmR3JFcTAzVFg3WGNadzI3dUg3LS1GczRibWNXZXU1TkR6cHB5VVljQkRLTlhxak1BVlhVc1hSd3AxQ1ZnM3dOcUNSVFJFU003Vy05NEN1V3NGSVZZTFJqendmcDh6RkVvWkdEZUlLMkRKR3JmTQ?oc=5",
-      "site": "ABC News - Breaking News, Latest News and Videos",
-      "siteUrl": "https://abcnews.com"
-    },
-    {
-      "id": "FL-4d81be9852fb",
+      "id": "FL-a7667c9c6d36",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 15:26:00 GMT",
       "ts": 1790436360000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典老城发生爆炸，4名美国游客遇难 - finance.sina.com.cn",
+      "title": "雅典老城发生爆炸，4名美国游客遇难 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YQ3ZWRXVhbFFZb1VTRzk1b1dfQzdWU3NQc3NNWFpadGdwU0RxaG10anl3UVo0cmlSRHNTVHpkTjFiZ1ZaN3JEdnkxdmV6V1RzdmxTelAtdm5WYkNqOGc2c090OGU3cWxzUnJGcWZTN0FNQVJSdzdLaQ?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -243,15 +243,15 @@
       "siteUrl": "https://www.zaochenbao.com"
     },
     {
-      "id": "FL-fe6b3485934f",
+      "id": "FL-33d6677f774f",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 13:34:50 GMT",
       "ts": 1790429690000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典老城区爆炸事故致6死3伤 - cj.sina.cn",
+      "title": "雅典老城区爆炸事故致6死3伤 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBDTWhDbF9Lc08wcG9LYWdrc0MydlNUcWtqaUUwT0tLRV9uc25ibzRRQWh3Q2ZKR2NJcFBLWUoxLV9oR0ZmY2czV28tOA?oc=5",
-      "site": "cj.sina.cn",
+      "site": "新浪财经",
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
@@ -303,15 +303,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-799c072d8f2b",
+      "id": "FL-f090136888d3",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 12:15:00 GMT",
       "ts": 1790424900000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典建筑爆炸后倒塌 2名美国游客身亡 - atvnewsonline.com",
+      "title": "雅典建筑爆炸后倒塌 2名美国游客身亡 - 亚洲电视新闻",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNcGxJS2kxcl94dlZ0S1BxQTV1UEZDanA2TlNEcTVkSDRfLUt0QjlPc2t5NWF5c0NPTk1oUFotLUtxT0tlSHdGQ054RDlSWjZaV2FIb2wzZTVySlhJLVRvU25JNVdSM18zVUpYb050b0szMkNpcU5mcVZ2WDN4Ql9fRmtCazFDS1dsdjRkZG9pZHVnVUMxZkdaWklZNFJKMXZZS1RpZXJhaTNnejFITUlEM1JkZl9uWFY4aFpkOUNWNXV5RERvYnFMeW9JZEtVWnFrUlVVdWdaYlRYWFp5M0FnQ2Q1NGNDV2lMV3NUdG1JXzlfQzROWGRfSkN3aWJvQUw3b1V5QVY4QjVCbGM?oc=5",
-      "site": "atvnewsonline.com",
+      "site": "亚洲电视新闻",
       "siteUrl": "https://atvnewsonline.com"
     },
     {
@@ -351,15 +351,15 @@
       "siteUrl": "https://www.jfdaily.com"
     },
     {
-      "id": "FL-8bf60ba8e343",
+      "id": "FL-c44384df2210",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 10:51:00 GMT",
       "ts": 1790419860000,
       "scope": "intl",
       "type": "blast",
-      "title": "4 American tourists dead after building explosion and collapse in Athens - CBS News",
+      "title": "4 American tourists dead after building explosion and collapse in Athens - cbsnews.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSDkta3c5RDBnb19GWWI2S3Vib1VDTVc1OXhOWVBod21HeTRRbW92Y3hFbVprVWdSOVRWbF9qSEN5Y25TbU8tT19aT0ZIUWg5Q2lablRnN0c4Z1FRX2JLY3dzWW1CaFRnTzVSczEwdWJFNXpkc2dZTF91WjlnTEFDM00yZU54bW51?oc=5",
-      "site": "CBS News",
+      "site": "cbsnews.com",
       "siteUrl": "https://www.cbsnews.com"
     },
     {
@@ -411,15 +411,15 @@
       "siteUrl": "https://ua.news"
     },
     {
-      "id": "FL-a51b5925804a",
+      "id": "FL-702619048484",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 06:20:47 GMT",
       "ts": 1790403647000,
       "scope": "intl",
       "type": "blast",
-      "title": "俄远东一煤矿矿区爆炸，有人员伤亡 - news.bjd.com.cn",
+      "title": "俄远东一煤矿矿区爆炸，有人员伤亡 - 京报网",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wMWFuZGplcnloclpwblE2R1M4YzJiR0Y4TFZNSUhqNjVtajUyUERhUWxVV21VV1V6WHU4N3Y0M2dfR2d3ajJzcXBZZjZkR2RkOG9qLXRhYzk3aGFCUmc?oc=5",
-      "site": "news.bjd.com.cn",
+      "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
@@ -447,15 +447,15 @@
       "siteUrl": "https://mezha.net"
     },
     {
-      "id": "FL-29e923af1043",
+      "id": "FL-6640ca852beb",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 03:19:07 GMT",
       "ts": 1790392747000,
       "scope": "intl",
       "type": "blast",
-      "title": "疑瓦斯外洩 雅典繁忙觀光區爆炸3傷 - ntdtv.com",
+      "title": "疑瓦斯外洩 雅典繁忙觀光區爆炸3傷 - 新唐人電視台",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XNzlJTVRGYVVFMkI5V3M4ZEpDOHU5RjA4VW9uVmZtblZDMmxwWVhZNGZpTmZVdEI2VW9QUWJDLUc0bGZOS2o1SGoxYzFWN0RhU0VndjNqNXhXbmJYNDlDWNIBZkFVX3lxTE1zRG5MR25GdlBpTkVlRDVzV1FFZWI2OGJ6T3UyQVBQd3Rxd1JkSGpZclNWR0NMX0V0OGdtWGMtUWM5R3J1QTJOMVNnOTJxdkxlYXBOS0RzQWF0a0x0bm5lbVd6cVlYUQ?oc=5",
-      "site": "ntdtv.com",
+      "site": "新唐人電視台",
       "siteUrl": "https://www.ntdtv.com"
     },
     {
@@ -471,15 +471,15 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
-      "id": "FL-bc5a0b5cb5b0",
+      "id": "FL-c2b5e87a66f1",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 03:47:19 GMT",
       "ts": 1789789639000,
       "scope": "intl",
       "type": "blast",
-      "title": "巴基斯坦西北部爆炸已致21死 巴总统称将继续反恐行动 - news.cctv.com",
+      "title": "巴基斯坦西北部爆炸已致21死 巴总统称将继续反恐行动 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JdTVsYVVFWHBSX3JkaE5ocVh2cmtPd0NWVkpmT1EyOENqOGJZcHhnQllGeU9RYThKRTJmYnRVaXpEQ25RcGNGNi1LcmZJUUFnY2Q1cVVpS2dkSW8wQzJfSFI4U3FYMzdXNmJSWm1SdEpsckl2Y190Sg?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -567,15 +567,15 @@
       "siteUrl": "https://www.yzwb.net"
     },
     {
-      "id": "FL-97e67bbd27ea",
+      "id": "FL-59ae45eae1ab",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 10:45:00 GMT",
       "ts": 1790333100000,
       "scope": "dom",
       "type": "blast",
-      "title": "货车司机路遇车祸救出伤者，刚撤离即发生燃爆致烧伤 对话本人：都是跑车的，人没了家就垮了 - finance.sina.com.cn",
+      "title": "货车司机路遇车祸救出伤者，刚撤离即发生燃爆致烧伤 对话本人：都是跑车的，人没了家就垮了 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HZlotRTdrelhWTGFPS3loZjg2MTdxUXBPSFRTTEZMVDlMd1dGNGVtbUV5UmVoekk5MWhoSHMycHpvNHROZTR6MUhCR0VidnIzenoySTFPdmVLSTM0bXVlcXlxd3lpdHpLLW5EUm1lVmJDc2k2TmFONEQ0OG1xbkU?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
