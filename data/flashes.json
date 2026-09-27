@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T02:19:54.073Z",
+  "updated": "2026-09-27T02:32:02.178Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -51,16 +51,28 @@
       "siteUrl": "https://cn.chinadaily.com.cn"
     },
     {
-      "id": "FL-5cc02e9828a8",
+      "id": "FL-98d3721ec95a",
+      "date": "2026-09-27",
+      "dateISO": "Sun, 27 Sep 2026 02:17:44 GMT",
+      "ts": 1790475464000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "燃爆！多国骑手在遂宁安居凤凰山开启速度对决 - scjjrb.cn",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PcjRKQ25uVUlkQUR4UmJrYlJIbXVVSF9KZk4wNkZSQkNEaGE0THRWRG9sR0xHZVl2V21XX3lHM2xZbVhiQTdfbGFCblhWbGhxNk5Nd3R4ZDM3dw?oc=5",
+      "site": "scjjrb.cn",
+      "siteUrl": "https://www.scjjrb.cn"
+    },
+    {
+      "id": "FL-e0b2b4547a9c",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 01:42:00 GMT",
       "ts": 1790473320000,
       "scope": "intl",
       "type": "blast",
-      "title": "Couple, both aged 78, killed in house explosion - wthitv.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3RSN2R6aFRfUk9KYV9lSmZiZTA0WnNxbm55MkpRMkNVcTAxWGctOU42c3RnVHpNWE1xcU5NWjUteF95ckQxLTNHSms3OUZLQUVnbkRObkYtMmp1dUFyWlU1QWZkZzA5VFQzZXJZZVgtUnA5VWhEcHNGYTJNMUhKMEg0Z9IBlwFBVV95cUxONFpNVnJuOGd6d0xJMmlPVGlwSXh3cW53SnhJSFBhZHYxckU5bm1FYTFoekNRMGppdG1qYXlvaE1FNC1hUE1takM0Q2J2eVNWZFh1eUs2YlNQSmNaWnNvaGg0d1VVcjN4NWNDUDFLRTJwZHo3dGY1NkRrel8xR1VNTXh3U3NOOHkweXdfcUtIaEx2TjdoMkpj?oc=5",
-      "site": "wthitv.com",
-      "siteUrl": "https://www.wthitv.com"
+      "title": "Couple, both aged 78, killed in house explosion - WLFI",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYVhXdXVicU5vbVZxTExQbmI5bmZVWllzQWMyaWN0QVY0VWsyMW9peHJRT1VGYTd6dWR5cDNncFJtU211SWtvNXI2clp5T1NENEI5TDlrRDBtM2FTUnJyaXZvbjhBSmlmMnpFN2M4d1ctb0EydTdxYVMtbm1mbmlQctIBlAFBVV95cUxPZkR4VzdZXzJRUjBSOFYtV05RbEo3SGdUbVh6bDBJTVVpNEhyQ1U4OXMzdC01c3pUZW5EZnZBbFQ4eHB2dFo3WVNLaFRNanlLN3JmaEV2UHpSTWJ0eXVPV1ROamw1ZGtvdHJhWnVSU3dhM255ZVdxVW8zSVJjRmY0WDFpeGxwMExqT2ozTXBMZzM5TXIt?oc=5",
+      "site": "WLFI",
+      "siteUrl": "https://www.wlfi.com"
     },
     {
       "id": "FL-35c899c1674f",
@@ -111,27 +123,27 @@
       "siteUrl": "https://people.com"
     },
     {
-      "id": "FL-894c07471f20",
+      "id": "FL-f09ae96800fc",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 17:46:00 GMT",
       "ts": 1790444760000,
       "scope": "intl",
       "type": "blast",
-      "title": "Greek authorities seek answers after six killed in Athens apartment block explosion - theguardian.com",
+      "title": "Greek authorities seek answers after six killed in Athens apartment block explosion - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYTZNOV9PWW42ZkNjUmdaZ0Z3OUcydTVCQll4UXhDQjVRT3FwaG9rRm85QzBZWUVyeDBkbkRZT3A5TW8tTlp4NF9fUkRHelFTNG5MeFFDa3cyeFU4U2dNSjVUMUxnTGZGSXJiVFItQ0VGbWtPTC04S3AyQy1meFZ0SVVBOHM4NUtnWDVCT0ZDSEFCUjlKakpLQXBiVXNHdTVHTUNkdFZEeU4zRHJLeGgxajR5RGFnWW1xZzJKVVlYSU9RV2lLRTRsSA?oc=5",
-      "site": "theguardian.com",
+      "site": "The Guardian",
       "siteUrl": "https://www.theguardian.com"
     },
     {
-      "id": "FL-8a2eb075f434",
+      "id": "FL-384ec3910818",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 16:44:40 GMT",
       "ts": 1790441080000,
       "scope": "intl",
       "type": "blast",
-      "title": "希腊雅典住宅爆炸倒塌 酿6人死亡包括4美国游客 - stheadline.com",
+      "title": "希腊雅典住宅爆炸倒塌 酿6人死亡包括4美国游客 - 星島頭條",
       "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNNjVJMW1FR2Y1R2ctRUFIa0d2d1FSYXItWTI0S2RLczl0M1NIZzZ4cmlKUXdtWTBiMF84bmpORVQ2ZEpuYXdaamtJdHhsVlFLNDJNeHYwWGRyWmdsa3UtS3dsNlVmQ1dnOExUVmpVRmRQQlRHQlFYT3NWeXVhSFpaM0EzSEM5dFpMWWczV2E2UF9ieVk2YjNycF83Nm1Yb25BTUxXTGJQd01lT29MbkQ2YllPWHpTN1pzTjhsS2RvbVpfU2F4M1hfekNkZ3NmMWVxc3BjTU1oTlBkYW90VWJIMU5vZ2l6bjFjRFYyOE5qekZ2UERNbU9YRHJyNHVTWDN5Und6dkJTN1h5aFBOMVNyNzlpY0NGNEppSTlua1RZbThzbFZlZk1CV19tSGlHdVRtUXNtRmJURFhBU0xqTTFSQmc5VkxCTFFfQXp3SVd5RXZGdnlJUS1jUVk2YjFVUQ?oc=5",
-      "site": "stheadline.com",
+      "site": "星島頭條",
       "siteUrl": "https://www.stheadline.com"
     },
     {
@@ -229,18 +241,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMnlOQXdvRXJCSUp1RXNLWkk0N2l2ek5wWFFaV18tWHRsMEFsMUE3NjB1SmFRX1dzZzktdlRmcFlid3A5a2trNnhOSXdTZVl2bFBVQ21uRVV3ekliQ0toMkNhbDNUZWdzcDc3ZzZyVXpVa3BqU1JXUWtoVVo1dGlKM2FMLWRTTFJ3?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-8008ca3ef342",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 12:51:07 GMT",
-      "ts": 1790427067000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Six dead after explosion destroys building in Athens - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbTJpdXZYT3MyX1dFU1pNMW5raW40eUpoZWNKZFZnY3U1SFJiZjB4OVdhQ3JBN3R1eFFFaUFnUFFHZXh2R2J1ZldkVkotZW1ab1VEeFZNLVhHTnAxaXhmQnAxZ2ItOUc0U0l5TDE0ZW9OMTNUa0hGTjNWSTdoN2IxVGFINU0xVGlVdzBXSXVMYnozVHRhRWF2ZXlZMWxIN0NsSW04?oc=5",
-      "site": "Reuters",
-      "siteUrl": "https://www.reuters.com"
     },
     {
       "id": "FL-599bae74504c",
@@ -351,6 +351,18 @@
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
+      "id": "FL-8008ca3ef342",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 07:43:00 GMT",
+      "ts": 1790408580000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Six dead after explosion destroys building in Athens - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbTJpdXZYT3MyX1dFU1pNMW5raW40eUpoZWNKZFZnY3U1SFJiZjB4OVdhQ3JBN3R1eFFFaUFnUFFHZXh2R2J1ZldkVkotZW1ab1VEeFZNLVhHTnAxaXhmQnAxZ2ItOUc0U0l5TDE0ZW9OMTNUa0hGTjNWSTdoN2IxVGFINU0xVGlVdzBXSXVMYnozVHRhRWF2ZXlZMWxIN0NsSW04?oc=5",
+      "site": "Reuters",
+      "siteUrl": "https://www.reuters.com"
+    },
+    {
       "id": "FL-e6da002b8732",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 07:07:30 GMT",
@@ -423,15 +435,15 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-5c993148a45d",
+      "id": "FL-0a94e597e848",
       "date": "2026-09-05",
       "dateISO": "Sat, 05 Sep 2026 07:00:00 GMT",
       "ts": 1788591600000,
       "scope": "intl",
       "type": "blast",
-      "title": "伊朗哈尔克岛附近海域传出爆炸声 - news.cnr.cn",
+      "title": "伊朗哈尔克岛附近海域传出爆炸声 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VUEJ2eGF5WGt5UmQxcTlHcDNzTU9aVVV6OVNOcmM0ODFCVWF2Ui1KU21uQkJ3TFVPMTktNEFxZzRvWVl0UVJWMTlUU3ZaYl9wb20yaGZWRFZMTF9QczVXd2pFelZQdVJp?oc=5",
-      "site": "news.cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
     },
     {
