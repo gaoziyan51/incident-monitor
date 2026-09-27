@@ -1,17 +1,17 @@
 {
-  "updated": "2026-09-27T20:29:30.546Z",
+  "updated": "2026-09-27T20:39:34.448Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-710fe48d473f",
+      "id": "FL-266309055c56",
       "date": "2026-06-03",
       "dateISO": "Wed, 03 Jun 2026 07:00:00 GMT",
       "ts": 1780470000000,
       "scope": "dom",
       "type": "blast",
-      "title": "特别重大瓦斯爆炸事故后 山西煤矿迎来“最严整治” - 中国能源新闻网",
+      "title": "特别重大瓦斯爆炸事故后 山西煤矿迎来“最严整治” - cpnn.com.cn",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tM3B2anpUNmRxVVRfUk0yOVBuN2ZDNU9uQUJXWEljSEFEX3FXVU5QUWVXZEh0b3drdU5fNXlkXzRvdURYaDZJYXRkN0hUWXJoRXBPcXVud2NpLWRLQUxpMXZTYU5DNnRYbGQ5TVlR?oc=5",
-      "site": "中国能源新闻网",
+      "site": "cpnn.com.cn",
       "siteUrl": "https://www.cpnn.com.cn"
     },
     {
@@ -37,6 +37,18 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MzVkcXZnR2UwelNkenFIYVFYVzBPcUxUQ1VSaUVHcV9LYVJnZzhjQWZzM09DNk8wc0xVNlo2amRqNjBueWtVeTdSbkJZT053RjRSZDhmeXJyT19wekF3UHB6WERtZkxLaFFwT2pVWTE?oc=5",
       "site": "中国科技网",
       "siteUrl": "https://www.stdaily.com"
+    },
+    {
+      "id": "FL-b90a7cc3cd33",
+      "date": "2026-09-27",
+      "dateISO": "Sun, 27 Sep 2026 20:36:46 GMT",
+      "ts": 1790541406000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "【国际快讯】 韩朝非军事区爆炸致3韩军受伤韩方与联军展开调查｜俄军袭击乌克兰最大移动运营商多地网络服务受影响｜瑞士公投否决收紧中立政策保留对俄制裁及北约合作空间 - 美国中文网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4LW1wUmJYc3BmX085dXpLRnA2VDBJM2ZUSm01cUVYWWRIN2dVcHB3UFdwQjg4QXE0VU5ST2w1WXV0dWg4NDJMNEhmRTdaQXhwMDhSaDJLOHhlSGpLQnhaS20zYy11YUx4VzlrOHhxVHA?oc=5",
+      "site": "美国中文网",
+      "siteUrl": "https://www.sinovision.net"
     },
     {
       "id": "FL-1dd6692ecb38",
@@ -87,15 +99,15 @@
       "siteUrl": "https://chinese.joins.com"
     },
     {
-      "id": "FL-dfa9fc747c2e",
+      "id": "FL-82414ee38ed1",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 12:32:40 GMT",
       "ts": 1790512360000,
       "scope": "intl",
       "type": "blast",
-      "title": "Four American tourists among 6 killed after explosion levels building near Athens’ Acropolis - Fox News",
+      "title": "Four American tourists among 6 killed after explosion levels building near Athens’ Acropolis - foxnews.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc1VyQmc1ejZvR19GbjlPc1I4YWROSFA4TWRSbEZTNkRtWEQyNVJhSE5qUjFyd21zWkdtXzVqN05LYnVKaDNqUWNxZHloSW9tM1Q4YTA4dlQyb203ZklHU29pb1hmRTRtQVJ6N2ljTTlBbmdLbm9GcVNrZWZrZ3FkaE45QWdrNVVzbVBRVUE0a2s0c0pxUDhDLUlvX2pGTEIwVUJtVXdHZzZaUVo0a0xseFN6THprZ9IBuwFBVV95cUxPQk1QV192bDJoV3N2cXAxWURDZDQwMUUtUmM5enc0M0Vmd25BNWVUSzFOQVRiQUV1UnhfanFIZjVuNFdTdlJWVE05MHpST2k0emhJYmF6aXljaVgwazY4ZEoyamZQWW1yR2I0NDhld0hNckZiUEJmeU5IYnhsTlVrNzZKYjFraS1hUFJaWmZEcjVZOHc4blJOMGE5Z2l5SWxDZmdkVmFOVkUxTGtrZTY5Sy03R3oxZjZGaVFj?oc=5",
-      "site": "Fox News",
+      "site": "foxnews.com",
       "siteUrl": "https://www.foxnews.com"
     },
     {
