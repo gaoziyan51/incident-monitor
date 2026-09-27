@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T08:54:04.321Z",
+  "updated": "2026-09-27T09:01:23.112Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -51,15 +51,15 @@
       "siteUrl": "https://cn.chinadaily.com.cn"
     },
     {
-      "id": "FL-6f58311864c3",
+      "id": "FL-bbf903d6b848",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 08:22:00 GMT",
       "ts": 1790497320000,
       "scope": "dom",
       "type": "blast",
-      "title": "湾区之光杂技大秀燃爆宝安，今日持续上演 - 21财经",
+      "title": "湾区之光杂技大秀燃爆宝安，今日持续上演 - 21jingji.com",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbmJkTThWNEtSYmtOU0EwWXV1UndwSHRIaXBHRnZuNk1vdHV5Qi16N1BoTnkzbTg2N1JzbURuc2l0OVJYeUd5THNQdFcyYnUwamdUOWNFZVY2S2hSeW94UEV2QzBZcXRmSWQyTWV6ZmFkT1NMWElyUUwtUlhaWkp1cWIyQjRGZ1pzQjU3TkV0QQ?oc=5",
-      "site": "21财经",
+      "site": "21jingji.com",
       "siteUrl": "https://www.21jingji.com"
     },
     {
@@ -195,18 +195,6 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-5f1f793ed365",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 14:58:00 GMT",
-      "ts": 1790434680000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Six Dead After Explosion in Athens Tourist District - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVXJHLWNEZ2cxNzZRN3MxdnZ4N1NOZ3dpaWZSZTFaVjl2MlFNRHRJdEhkUkpST3JNTGV0NXJMWlJLeVl6MHNXZkpJemQ1dERYZ2dOOW1LWXpIUmdNUFdOZ3JDSkpZUExIVlQxbUhDZ0l4eW1kc3A1REI3UWhPWExySHlWV08?oc=5",
-      "site": "The New York Times",
-      "siteUrl": "https://www.nytimes.com"
-    },
-    {
       "id": "FL-fa5c2fe731df",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 14:29:00 GMT",
@@ -315,15 +303,15 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
-      "id": "FL-e6da002b8732",
+      "id": "FL-d1d043dda2d5",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 07:07:30 GMT",
       "ts": 1790406450000,
       "scope": "intl",
       "type": "blast",
-      "title": "俄远东一煤矿矿区爆炸 有人员伤亡 - 东方财富",
+      "title": "俄远东一煤矿矿区爆炸 有人员伤亡 - eastmoney.com",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yRUEyVUZDMTdQcTR1emZMSTZNcTFrMzdVRktDNnBEVlNETk9FN29SVnA0WlQxVzg4NGsyd0ZZejJFWGFSSEVjQTl3M2p2blNWVllnTEVTRng2bkhBeXI0eA?oc=5",
-      "site": "东方财富",
+      "site": "eastmoney.com",
       "siteUrl": "https://wap.eastmoney.com"
     },
     {
@@ -493,6 +481,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92WW1HV0ttYlE2bUkxb2ZWUDVCSUNuTmRaQnNSWnpDTElPRUFUOXk3U3FoX2VKTm1FQ29TaDBocTUwMTZlMU1Za2hRUkxEMG9taGphNkZvSjI4UF9wUzVyU0E4amUyQdIBa0FVX3lxTE5YVGx2WWxZY1lKNjNHQ1huNHZQWWFqTW1MR0p6RnBwaVdSSXlKT1FEQmx6dzI3dVBIVm5jTVdpRHR6b05UeHRKdUVrZEFMbzcwOUJLcHhGWVBaN2tnU2c5QzFKTEdyZml6ZDg0?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-a4c84c6d032d",
+      "date": "2026-06-05",
+      "dateISO": "Fri, 05 Jun 2026 07:00:00 GMT",
+      "ts": 1780642800000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "辽宁本溪一商铺疑似液化气罐泄漏引发爆炸：2人死亡13人轻微伤 - 央广网",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qQlpCOEt3cGs2NmdiMHBrTlVwekFZQ2pKaTI0cnRPMmt3Z1pCLVUxai1tYkw2RnMzbGctVm5zb0ZwcTIyNlZmUEh0M3MwTlQtRkU2NlJlNnpGdU5vUl9VZ1p2YUNqZi1qLUdYNjNn?oc=5",
+      "site": "央广网",
+      "siteUrl": "https://www.cnr.cn"
     }
   ]
 }
