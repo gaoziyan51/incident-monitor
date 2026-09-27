@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T00:27:51.296Z",
+  "updated": "2026-09-27T00:43:53.475Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -39,15 +39,15 @@
       "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
-      "id": "FL-71366697633a",
+      "id": "FL-6612abd30963",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 07:00:00 GMT",
       "ts": 1789628400000,
       "scope": "dom",
       "type": "blast",
-      "title": "宇宙大爆炸最初五分钟氦丰度获最精确测量 - stdaily.com",
+      "title": "宇宙大爆炸最初五分钟氦丰度获最精确测量 - 中国科技网",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MzVkcXZnR2UwelNkenFIYVFYVzBPcUxUQ1VSaUVHcV9LYVJnZzhjQWZzM09DNk8wc0xVNlo2amRqNjBueWtVeTdSbkJZT053RjRSZDhmeXJyT19wekF3UHB6WERtZkxLaFFwT2pVWTE?oc=5",
-      "site": "stdaily.com",
+      "site": "中国科技网",
       "siteUrl": "https://www.stdaily.com"
     },
     {
@@ -61,6 +61,18 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwQldTMXJVdFF1VDFZdGpMSG9kcElHUTdDWkpNbEpBeVJLMVltU3JaY05MZG5PR3NnWUFHMURJelctUkhNalZTQWM0d2N2ZU81blNIRW9fZ0hyMExJQ2tRZE1CRllnRnFJcXVWbXpwMnMwMWlwT1R5Qmt4aDE?oc=5",
       "site": "中国日报网",
       "siteUrl": "https://cn.chinadaily.com.cn"
+    },
+    {
+      "id": "FL-35c899c1674f",
+      "date": "2026-09-27",
+      "dateISO": "Sun, 27 Sep 2026 00:33:45 GMT",
+      "ts": 1790469225000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "4 Americans among 6 dead after explosion collapses building in Athens - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVklsTWZ5eTlrS2xYSkFpQUoxQnFjNTBEVFhjVTgycVpMUXQxOG1KNS1weUR6NDBVV3JybkZna0pZOExLYld1MEszTkNNRkdZOWhCejFwekVIbjlPUzJ2Z1U5dm9IS3RyVzRxYklpWnhQMk9tQkxSV19TcXJpZEdKOU9CYmVWTXdjeGxvUnd5RE1oWS1iLVJTNjFtRnhsOHZPQlFj0gGoAUFVX3lxTFA0YnVEcE4wVVU0N1B0ZEtaQU9ZR1NpbUplZWNqb0RZcm5pU0dOUGJfVjU4emhfYnFLWHlmR3JFcTAzVFg3WGNadzI3dUg3LS1GczRibWNXZXU1TkR6cHB5VVljQkRLTlhxak1BVlhVc1hSd3AxQ1ZnM3dOcUNSVFJFU003Vy05NEN1V3NGSVZZTFJqendmcDh6RkVvWkdEZUlLMkRKR3JmTQ?oc=5",
+      "site": "ABC News - Breaking News, Latest News and Videos",
+      "siteUrl": "https://abcnews.com"
     },
     {
       "id": "FL-340d5e981918",
@@ -87,28 +99,16 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-a2930f7d9a2f",
+      "id": "FL-4b86b1e25bc0",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 22:14:27 GMT",
       "ts": 1790460867000,
       "scope": "intl",
       "type": "blast",
-      "title": "Offensive Explosion Fuels Men's Water Polo's 2-0 Saturday - bucknellbison.com",
+      "title": "Offensive Explosion Fuels Men's Water Polo's 2-0 Saturday - Bucknell University Athletics",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONXhrbldRczlSUnh0WWpVR2tycmY1YlphaUxGUjYtQVdDRkplaGNVUXdjekpkN2pQUDlSNzN0QmZyMERqYWlkQS10Z0JCbmVGVTc4Qkk0VUg0M0Jkcmk3eUpFaVZ5N3ZON3NwQWRReWdvOEJWZmhUdEt3clJCSTdrTndvTVVxVWM0NTBneWZVelM1dzM0NnNubEhMWnE?oc=5",
-      "site": "bucknellbison.com",
+      "site": "Bucknell University Athletics",
       "siteUrl": "https://bucknellbison.com"
-    },
-    {
-      "id": "FL-35c899c1674f",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 21:39:59 GMT",
-      "ts": 1790458799000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "4 Americans among 6 dead after explosion collapses building in Athens - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVklsTWZ5eTlrS2xYSkFpQUoxQnFjNTBEVFhjVTgycVpMUXQxOG1KNS1weUR6NDBVV3JybkZna0pZOExLYld1MEszTkNNRkdZOWhCejFwekVIbjlPUzJ2Z1U5dm9IS3RyVzRxYklpWnhQMk9tQkxSV19TcXJpZEdKOU9CYmVWTXdjeGxvUnd5RE1oWS1iLVJTNjFtRnhsOHZPQlFj0gGoAUFVX3lxTFA0YnVEcE4wVVU0N1B0ZEtaQU9ZR1NpbUplZWNqb0RZcm5pU0dOUGJfVjU4emhfYnFLWHlmR3JFcTAzVFg3WGNadzI3dUg3LS1GczRibWNXZXU1TkR6cHB5VVljQkRLTlhxak1BVlhVc1hSd3AxQ1ZnM3dOcUNSVFJFU003Vy05NEN1V3NGSVZZTFJqendmcDh6RkVvWkdEZUlLMkRKR3JmTQ?oc=5",
-      "site": "ABC News - Breaking News, Latest News and Videos",
-      "siteUrl": "https://abcnews.com"
     },
     {
       "id": "FL-c148c34198a1",
@@ -195,6 +195,18 @@
       "siteUrl": "https://gbcode.rthk.hk"
     },
     {
+      "id": "FL-ac424c40f614",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 14:16:31 GMT",
+      "ts": 1790432191000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典老城区爆炸事故致6死3伤 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNnNXS1U4UzNRdzRObFFVMHMwVEo5dm9fR1JOQVExaW1YTlFETG5ZVWNscDk1andnQUZWNkxoTHpGU0ZITGF5Ums5M0l1RVNjYVlFWFgwRUQ3OXRzMXhoamtUOU9iWmJzdkpuQkRVdmR5SW1RU0tFd21iVENsTVBsU1ZCNTZZX2FVRDVHUg?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-d44863c92567",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 14:07:08 GMT",
@@ -219,18 +231,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-33d6677f774f",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 14:00:00 GMT",
-      "ts": 1790431200000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "雅典老城区爆炸事故致6死3伤 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MVlhKMlNqQnFSNXVlbHE1bnRpSFZvQ2d1ZUZnZ1Z5WXpuRlRmVjE1LWZSaEh2WERzTm9pbHFNNWFmYTNMZHRBZ1lnUXdFcVp4VmxMMzk5eXpSN1RqU0tUb3FoaGlBblYzQnFUVm1RdEFBSFBnOHlnNg?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
-    },
-    {
       "id": "FL-0cd7dc58feea",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 13:55:00 GMT",
@@ -241,6 +241,18 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52MXd2SERCcDdESHJMdnlQY0trN3VTSUJMRDNKeHppMDFYUTluVG12aEZ2MzQ1TlhDYno2eVhwTF8yTTFwaVN3dmVSSlQ3TzVhOThYQmZic1lQWnJSamZKQk9YQ3RMX0Vm?oc=5",
       "site": "早晨报",
       "siteUrl": "https://www.zaochenbao.com"
+    },
+    {
+      "id": "FL-33d6677f774f",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 13:34:50 GMT",
+      "ts": 1790429690000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典老城区爆炸事故致6死3伤 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBDTWhDbF9Lc08wcG9LYWdrc0MydlNUcWtqaUUwT0tLRV9uc25ibzRRQWh3Q2ZKR2NJcFBLWUoxLV9oR0ZmY2czV28tOA?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://wap.cj.sina.cn"
     },
     {
       "id": "FL-9922da7b434e",
@@ -255,15 +267,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-592a367271ef",
+      "id": "FL-8008ca3ef342",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 12:51:07 GMT",
       "ts": 1790427067000,
       "scope": "intl",
       "type": "blast",
-      "title": "Six dead after explosion destroys building in Athens - reuters.com",
+      "title": "Six dead after explosion destroys building in Athens - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbTJpdXZYT3MyX1dFU1pNMW5raW40eUpoZWNKZFZnY3U1SFJiZjB4OVdhQ3JBN3R1eFFFaUFnUFFHZXh2R2J1ZldkVkotZW1ab1VEeFZNLVhHTnAxaXhmQnAxZ2ItOUc0U0l5TDE0ZW9OMTNUa0hGTjNWSTdoN2IxVGFINU0xVGlVdzBXSXVMYnozVHRhRWF2ZXlZMWxIN0NsSW04?oc=5",
-      "site": "reuters.com",
+      "site": "Reuters",
       "siteUrl": "https://www.reuters.com"
     },
     {
@@ -351,15 +363,15 @@
       "siteUrl": "https://news.cnjiwang.com"
     },
     {
-      "id": "FL-13dcb2ef649f",
+      "id": "FL-347b1e4fbde6",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 09:53:48 GMT",
       "ts": 1790416428000,
       "scope": "dom",
       "type": "blast",
-      "title": "比赛结束现场燃爆了！中国选手：珍惜一生一次的机会 - stdaily.com",
+      "title": "比赛结束现场燃爆了！中国选手：珍惜一生一次的机会 - 中国科技网",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90WW5rcDNsQlc1TjhoM0pXM0U4aXhLa0QxSXg3TmV0VFdLWFFIQktSUXZ6elNFcVV2dFlOX2VrT0o5V1NycWhWRm40WGFfUXpqTDcxRVptTC1IZndtdVpGNzRpZWUyT3J2d2FBeml5RTI?oc=5",
-      "site": "stdaily.com",
+      "site": "中国科技网",
       "siteUrl": "https://www.stdaily.com"
     },
     {
@@ -423,15 +435,15 @@
       "siteUrl": "https://www.cnr.cn"
     },
     {
-      "id": "FL-6640ca852beb",
+      "id": "FL-29e923af1043",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 03:19:07 GMT",
       "ts": 1790392747000,
       "scope": "intl",
       "type": "blast",
-      "title": "疑瓦斯外洩 雅典繁忙觀光區爆炸3傷 - 新唐人電視台",
+      "title": "疑瓦斯外洩 雅典繁忙觀光區爆炸3傷 - ntdtv.com",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XNzlJTVRGYVVFMkI5V3M4ZEpDOHU5RjA4VW9uVmZtblZDMmxwWVhZNGZpTmZVdEI2VW9QUWJDLUc0bGZOS2o1SGoxYzFWN0RhU0VndjNqNXhXbmJYNDlDWNIBZkFVX3lxTE1zRG5MR25GdlBpTkVlRDVzV1FFZWI2OGJ6T3UyQVBQd3Rxd1JkSGpZclNWR0NMX0V0OGdtWGMtUWM5R3J1QTJOMVNnOTJxdkxlYXBOS0RzQWF0a0x0bm5lbVd6cVlYUQ?oc=5",
-      "site": "新唐人電視台",
+      "site": "ntdtv.com",
       "siteUrl": "https://www.ntdtv.com"
     },
     {
@@ -531,15 +543,15 @@
       "siteUrl": "https://world.huanqiu.com"
     },
     {
-      "id": "FL-5f1f793ed365",
+      "id": "FL-e76e636a257e",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 20:24:58 GMT",
       "ts": 1790367898000,
       "scope": "intl",
       "type": "blast",
-      "title": "Six Dead After Explosion in Athens Tourist District - The New York Times",
+      "title": "Six Dead After Explosion in Athens Tourist District - nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVXJHLWNEZ2cxNzZRN3MxdnZ4N1NOZ3dpaWZSZTFaVjl2MlFNRHRJdEhkUkpST3JNTGV0NXJMWlJLeVl6MHNXZkpJemQ1dERYZ2dOOW1LWXpIUmdNUFdOZ3JDSkpZUExIVlQxbUhDZ0l4eW1kc3A1REI3UWhPWExySHlWV08?oc=5",
-      "site": "The New York Times",
+      "site": "nytimes.com",
       "siteUrl": "https://www.nytimes.com"
     },
     {
