@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T15:55:10.450Z",
+  "updated": "2026-09-27T16:01:47.083Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -37,18 +37,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MzVkcXZnR2UwelNkenFIYVFYVzBPcUxUQ1VSaUVHcV9LYVJnZzhjQWZzM09DNk8wc0xVNlo2amRqNjBueWtVeTdSbkJZT053RjRSZDhmeXJyT19wekF3UHB6WERtZkxLaFFwT2pVWTE?oc=5",
       "site": "中国科技网",
       "siteUrl": "https://www.stdaily.com"
-    },
-    {
-      "id": "FL-6a65376bf161",
-      "date": "2026-09-27",
-      "dateISO": "Sun, 27 Sep 2026 14:27:49 GMT",
-      "ts": 1790519269000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "全场燃爆无冷场，回味无穷想二刷 - k.sina.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YdWJ1NnM1RERIZHlqdmdSdVdMeGVDQTBnTERCM2JOUVdaMlJpNDl6V0ZqN05Xc1l3dkJ5OVpKLUFrSE5SbUF3XzhxMGMzaUg5UUM5Y0ZSbnJ6Tm9UNzQ0Wkp4Mi1rVWxaQXI0NkVFQ04?oc=5",
-      "site": "k.sina.com.cn",
-      "siteUrl": "http://k.sina.com.cn"
     },
     {
       "id": "FL-1dd6692ecb38",
@@ -135,6 +123,18 @@
       "siteUrl": "https://www.reuters.com"
     },
     {
+      "id": "FL-7cb5c9b0a149",
+      "date": "2026-09-27",
+      "dateISO": "Sun, 27 Sep 2026 10:34:00 GMT",
+      "ts": 1790505240000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "汽车撞上阿布贾燃气充装点引发爆炸——Premium Times Nigeria - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM25fM2p2M2ppNktmS3hhNnZ5UXFNMjR4TWNVdDBXamhWbFh0YUxCZE9kYzJ4RllMWm1XSl92Z0xIMC1fX3k2ZzlCMkF2dzMyWmRHeURERGsxelo0VzJaWjJib2RCM21QN2w0OXYwcTVxWl9wNWdGWjdSZTgzcUpTdW01UEZwTXVUNzlCN1VMYV9TMUdGcEtaVDQ5VW96Zzl0OF94ZEtjMmVVX3hKR1RHb3hLZ05oZw?oc=5",
+      "site": "UA.NEWS",
+      "siteUrl": "https://ua.news"
+    },
+    {
       "id": "FL-f1a8987da28a",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 09:16:00 GMT",
@@ -183,15 +183,15 @@
       "siteUrl": "https://www.21jingji.com"
     },
     {
-      "id": "FL-0c8a5ed83213",
+      "id": "FL-dc1115d89840",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 07:20:08 GMT",
       "ts": 1790493608000,
       "scope": "intl",
       "type": "blast",
-      "title": "Where’s the “intelligence explosion”? - Noahpinion",
+      "title": "Where’s the “intelligence explosion”? - noahpinion.blog",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TU2dmbkt6OXJTZGRLUndMRHpXbGtBb2Z6c0RRb3lrVzBYdnZURUo3ZHV6Ym9kTUJiQ204enJCamdTZGFEU1N5ZjF0Nk45UjlBbHJvdGdPZVJWRWZPRThhbVN0bnlhZzI5TFNXemJFS3U?oc=5",
-      "site": "Noahpinion",
+      "site": "noahpinion.blog",
       "siteUrl": "https://www.noahpinion.blog"
     },
     {
@@ -219,15 +219,15 @@
       "siteUrl": "https://news.sciencenet.cn"
     },
     {
-      "id": "FL-e10efe1f68bc",
+      "id": "FL-35c899c1674f",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 00:35:47 GMT",
       "ts": 1790469347000,
       "scope": "intl",
       "type": "blast",
-      "title": "4 Americans among 6 dead after explosion collapses building in Athens - abcnews.com",
+      "title": "4 Americans among 6 dead after explosion collapses building in Athens - ABC News - Breaking News, Latest News and Videos",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVklsTWZ5eTlrS2xYSkFpQUoxQnFjNTBEVFhjVTgycVpMUXQxOG1KNS1weUR6NDBVV3JybkZna0pZOExLYld1MEszTkNNRkdZOWhCejFwekVIbjlPUzJ2Z1U5dm9IS3RyVzRxYklpWnhQMk9tQkxSV19TcXJpZEdKOU9CYmVWTXdjeGxvUnd5RE1oWS1iLVJTNjFtRnhsOHZPQlFj0gGoAUFVX3lxTFA0YnVEcE4wVVU0N1B0ZEtaQU9ZR1NpbUplZWNqb0RZcm5pU0dOUGJfVjU4emhfYnFLWHlmR3JFcTAzVFg3WGNadzI3dUg3LS1GczRibWNXZXU1TkR6cHB5VVljQkRLTlhxak1BVlhVc1hSd3AxQ1ZnM3dOcUNSVFJFU003Vy05NEN1V3NGSVZZTFJqendmcDh6RkVvWkdEZUlLMkRKR3JmTQ?oc=5",
-      "site": "abcnews.com",
+      "site": "ABC News - Breaking News, Latest News and Videos",
       "siteUrl": "https://abcnews.com"
     },
     {
@@ -459,27 +459,27 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-31d313973515",
+      "id": "FL-25f05720b8fe",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 13:35:00 GMT",
       "ts": 1790343300000,
       "scope": "intl",
       "type": "blast",
-      "title": "克罗地亚批准将“北溪”爆炸案嫌疑人引渡至德国 - 紫牛新闻",
+      "title": "克罗地亚批准将“北溪”爆炸案嫌疑人引渡至德国 - yzwb.net",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SYjNkNFJtM090Qk9MYnE3NnhXZWtMazZsYUZKVTZBSWRXNV8tcUtfQm5wQmMyNm5VXzVPRVRXQXpVdHNJd1o0UWY4dWp6cW5wdFhkV2ZnOEFuaWNGNTVqOFdkX3VjdkhQWWc?oc=5",
-      "site": "紫牛新闻",
+      "site": "yzwb.net",
       "siteUrl": "https://www.yzwb.net"
     },
     {
-      "id": "FL-e553fc885c90",
+      "id": "FL-488e1042097f",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 07:31:38 GMT",
       "ts": 1790321498000,
       "scope": "dom",
       "type": "blast",
-      "title": "因无人机爆炸，2名以军士兵在加沙地带死亡 - finance.sina.cn",
+      "title": "因无人机爆炸，2名以军士兵在加沙地带死亡 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRVJSaGVSa3hqME14dlFuOFVKcFpWZjRDN0o4d1ZJLWUzZlp5d0ZGUGpmSHd0Y2Z1X3Bfd0MxeHVDLV92T2w4Sm1pbmxQejhhSjN4T3FKWVA5ajVLbU10bGxDaTZ1dHoxUGNCVjE0YTJqU29VejRNOF9sS2F1THZTY3hlckxwQ05rMjdVczJySlRnS1M2MzBvSWtzUEtnYnIx?oc=5",
-      "site": "finance.sina.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
