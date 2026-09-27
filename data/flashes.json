@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T10:29:23.534Z",
+  "updated": "2026-09-27T10:39:20.131Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -39,16 +39,28 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
-      "id": "FL-ea04a4753240",
+      "id": "FL-bfcc37dbdc5c",
       "date": "2026-09-27",
-      "dateISO": "Sun, 27 Sep 2026 09:40:34 GMT",
-      "ts": 1790502034000,
+      "dateISO": "Sun, 27 Sep 2026 10:24:00 GMT",
+      "ts": 1790504640000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "英国警方指美军基地附近发生“重大事故” 拘多名男子涉爆炸品罪 - 香港01",
+      "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxPQUlabEd5ckdDdnZ3Rm5CMmJaN0lQTzBEQVhmRFRYZmNuWk92eWM1dTZkcFdPZnQ5M3czT0dzdU1JRkM0OHRzVmdGMGlRd1k2OUV2SV94N2dBNWx4Y1hJV05WZXE3ZFI1N3NBQVBDOEQycVd3RUtGSFNjTm9DZkpxZHMtQ19WRzhnaFFfU0R5aU96LWtXN3dOUXUyTzdjaDRFMFVuOE5uUm1kRDNOdnlOZkFldTRDRTI1ZzFOTWpURmlkVnRjWHpUOTdLdWlqUlB3Z2dxbWcxRzlzSHVNMTBCS1dONzd4RGNOb0k4VjNwTV9wNTVHbG1DeDhLZXdaQXpmR2p1allZdW1Ja2ZQdkFHbVdxaERMYXdLNndCV09raU1fMVdvY3ZMaFhwckxFS3Jndng2RTVMRmRsVmR4Smk3V25OdUhySjNXRU9KM1g2czdsQXEwdDBGZ3RUcW80Sm9FN1p2RFBIdmJOaVBMOXBodTEzZ2phMTZvREJrRjZmQ0xGYTdURDduSWxHRFg0OG1PdldEeFdpdlBWaGhnb2NIV0Q3SnFLQXpJOFpqSW9raHRXbmgzaGNhVGNvT1MteU9w?oc=5",
+      "site": "香港01",
+      "siteUrl": "https://global.hk01.com"
+    },
+    {
+      "id": "FL-6513336d2edc",
+      "date": "2026-09-27",
+      "dateISO": "Sun, 27 Sep 2026 09:16:00 GMT",
+      "ts": 1790500560000,
       "scope": "dom",
       "type": "blast",
-      "title": "特斯拉“爆炸式”展示 Cybertruck 车辆各部件 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcWJ6U1Joa19VY3JTX0VIYVh5MWhycHdLUUh0cF9IcE5vTzA5dEdJRWFVN053WkRhcUhWUnZjUlRtZWQ0ZEZKQ3lOSlFOQ0FFSW5pYy1lZGNjSF9CRlh1YUpQREpkS2VDMVVvNzN2Vl9xbVk2NHNoV18ybmlNR3VkdHhfUXJKUzNNb2VoUg?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
+      "title": "特斯拉“爆炸式”展示 Cybertruck 车辆各部件 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40ZXFLTGxFU0NycHptb0Z5alNvX3FwbG9JNWZhWGl0cVQtLW9TMEUwX0l0N1N3ZXAydlkwRmFyb0ZMQ1gxQjUweTN3S0ZEcUNQTkFCS1pGODRNaWZzYzJBcVhqWkNUU0xKRG90X2UtOGlZOTFONlE?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-bbf903d6b848",
@@ -87,18 +99,6 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-c3d3eadf0af7",
-      "date": "2026-09-27",
-      "dateISO": "Sun, 27 Sep 2026 05:16:00 GMT",
-      "ts": 1790486160000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "华流炸场，火力全开！“千古情狂欢节”燃爆广东！ - gd.chinanews.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43cmdxMU9fU2VlbExQd0Q5ajN1cFN3R3IxQU1URDY0NklybENEWHk5clBjU0dWUk1hbWhmU3QzT182c0VPU2x3TjFxSWFZQ2tpU3d0QU9YcXRpS05NcGR3UUJuOGo2NWIwT3JB?oc=5",
-      "site": "gd.chinanews.com.cn",
-      "siteUrl": "http://www.gd.chinanews.com.cn"
-    },
-    {
       "id": "FL-8338c60d1d75",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 04:53:20 GMT",
@@ -109,18 +109,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56QzdTa3liSVVGVkZhal9SOUhJcjdMNWdGSk1LRzlKSTlmT2N1RktLTW5pZUJTRVBKYU05dTVXTVk4Y0EwTGNTTmgySGdjUlJrOEJGYmFFYmtDSm5jdnlDOE9lTjk?oc=5",
       "site": "科学网—新闻",
       "siteUrl": "https://news.sciencenet.cn"
-    },
-    {
-      "id": "FL-b00b72cc3ec6",
-      "date": "2026-09-27",
-      "dateISO": "Sun, 27 Sep 2026 04:33:14 GMT",
-      "ts": 1790483594000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "引擎声遇上音乐声！崇明音乐机车嘉年华燃爆了 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOHdKc3J4eE96MUZoajhyOFBVTDBfQzZRRjN2MHpuNml6MXkxc0dfdk1KSE1XaHgxZ2twWncyVDVMdDM2dXVHMVBRX0t1SVBCNXhXTWwtd0RFWm1Vc1lNcFFhWGZnRXp0bmVUR1FnWFFZQTdIZElkQzJDRUZ6V0tRSmw4S3BQUzRMbExpYQ?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-6905bd0afe29",
@@ -205,18 +193,6 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YQ3ZWRXVhbFFZb1VTRzk1b1dfQzdWU3NQc3NNWFpadGdwU0RxaG10anl3UVo0cmlSRHNTVHpkTjFiZ1ZaN3JEdnkxdmV6V1RzdmxTelAtdm5WYkNqOGc2c090OGU3cWxzUnJGcWZTN0FNQVJSdzdLaQ?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
-    },
-    {
-      "id": "FL-5f1f793ed365",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 14:58:00 GMT",
-      "ts": 1790434680000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Six Dead After Explosion in Athens Tourist District - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVXJHLWNEZ2cxNzZRN3MxdnZ4N1NOZ3dpaWZSZTFaVjl2MlFNRHRJdEhkUkpST3JNTGV0NXJMWlJLeVl6MHNXZkpJemQ1dERYZ2dOOW1LWXpIUmdNUFdOZ3JDSkpZUExIVlQxbUhDZ0l4eW1kc3A1REI3UWhPWExySHlWV08?oc=5",
-      "site": "The New York Times",
-      "siteUrl": "https://www.nytimes.com"
     },
     {
       "id": "FL-fa5c2fe731df",
@@ -315,15 +291,15 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
-      "id": "FL-d1d043dda2d5",
+      "id": "FL-e6da002b8732",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 07:07:30 GMT",
       "ts": 1790406450000,
       "scope": "intl",
       "type": "blast",
-      "title": "俄远东一煤矿矿区爆炸 有人员伤亡 - eastmoney.com",
+      "title": "俄远东一煤矿矿区爆炸 有人员伤亡 - 东方财富",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yRUEyVUZDMTdQcTR1emZMSTZNcTFrMzdVRktDNnBEVlNETk9FN29SVnA0WlQxVzg4NGsyd0ZZejJFWGFSSEVjQTl3M2p2blNWVllnTEVTRng2bkhBeXI0eA?oc=5",
-      "site": "eastmoney.com",
+      "site": "东方财富",
       "siteUrl": "https://wap.eastmoney.com"
     },
     {
