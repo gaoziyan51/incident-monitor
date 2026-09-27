@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T07:02:17.327Z",
+  "updated": "2026-09-27T07:19:08.558Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -171,15 +171,15 @@
       "siteUrl": "https://gbcode.rthk.hk"
     },
     {
-      "id": "FL-0cd7dc58feea",
+      "id": "FL-73183800566c",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 13:55:00 GMT",
       "ts": 1790430900000,
       "scope": "dom",
       "type": "blast",
-      "title": "山西煤矿爆炸后煤炭减产1亿吨 卢东亮表示将加速扭转下滑趋势 - 早晨报",
+      "title": "山西煤矿爆炸后煤炭减产1亿吨 卢东亮表示将加速扭转下滑趋势 - zaochenbao.com",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52MXd2SERCcDdESHJMdnlQY0trN3VTSUJMRDNKeHppMDFYUTluVG12aEZ2MzQ1TlhDYno2eVhwTF8yTTFwaVN3dmVSSlQ3TzVhOThYQmZic1lQWnJSamZKQk9YQ3RMX0Vm?oc=5",
-      "site": "早晨报",
+      "site": "zaochenbao.com",
       "siteUrl": "https://www.zaochenbao.com"
     },
     {
@@ -207,15 +207,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-bad6fb473e76",
+      "id": "FL-56bd69493691",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 12:12:08 GMT",
       "ts": 1790424728000,
       "scope": "intl",
       "type": "blast",
-      "title": "巴基斯坦西北部发生爆炸 造成11死18伤 - zaobao.com.sg",
+      "title": "巴基斯坦西北部发生爆炸 造成11死18伤 - 联合早报",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByR1hfOU5vOWZjdzltMmpIaXlseUN1bTNhdG42MnJWNmJ3TWZVc3VZZlJUSTFKbXVpUng4aEw3N2cyOTJ0OE44SHBtdGw4a0gzUXpGamg2dlpYaGlNN2RXZ0VBamh1Z0I0aFE?oc=5",
-      "site": "zaobao.com.sg",
+      "site": "联合早报",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
@@ -231,15 +231,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-a1aa890f2994",
+      "id": "FL-f7d3155edcc3",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 11:24:30 GMT",
       "ts": 1790421870000,
       "scope": "dom",
       "type": "blast",
-      "title": "大师赛网红爆炸头来苏河湾啦！更多萌趣周边尽在福新面粉厂快闪空间→_上观新闻 - 上观新闻",
+      "title": "大师赛网红爆炸头来苏河湾啦！更多萌趣周边尽在福新面粉厂快闪空间→_上观新闻 - jfdaily.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nNHRBTUh0MlBtVVNzNXZ3bFdHMzhENjc4cFd5dGxrQnFCU0ZuSC1LLWFKN0tES0JfTm54YVduaFl6YS1BN2dqZVFfbm9Zbzk0Z29LM2EzTTc?oc=5",
-      "site": "上观新闻",
+      "site": "jfdaily.com",
       "siteUrl": "https://www.jfdaily.com"
     },
     {
@@ -279,15 +279,15 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
-      "id": "FL-f5b789134f95",
+      "id": "FL-4562f1649a59",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 09:39:10 GMT",
       "ts": 1790415550000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典旅游区住宅爆炸倒塌 造成六人死 - zaobao.com.sg",
+      "title": "雅典旅游区住宅爆炸倒塌 造成六人死 - 联合早报",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FdG5Ray01eFNyVFBPRk9ZQ1VGdDZpSjdndy1kQlVlWmxnY1dtYjJjMXpLYlFWWWhBZmVlRzNoT1NSeXdDa2lpbmZ2RUtza2YzOXp2V0hMYkk1MEJkMEpqb0MyZFN0bjVrSmc?oc=5",
-      "site": "zaobao.com.sg",
+      "site": "联合早报",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
@@ -469,6 +469,18 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0RVJ2NHZDR09BWmtLVkdDTElrRGtkUWpkVThacnhENmpyeUh6b1RVZk1kNXY4MEpBeWx0NU5jWk9DY01Xd3ptQjVXZmdqRlZSN2JqeGRkSFQ0Ym1XUi1LOTd2OVVpQjdzdDFNb09HR3FpaGY5R3JZ?oc=5",
       "site": "封面新闻",
       "siteUrl": "https://m.thecover.cn"
+    },
+    {
+      "id": "FL-84a9598aa100",
+      "date": "2026-06-12",
+      "dateISO": "Fri, 12 Jun 2026 07:00:00 GMT",
+      "ts": 1781247600000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "泰国当局判处两维吾尔人死刑　BBC记者回忆当年的曼谷四面佛爆炸案 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92WW1HV0ttYlE2bUkxb2ZWUDVCSUNuTmRaQnNSWnpDTElPRUFUOXk3U3FoX2VKTm1FQ29TaDBocTUwMTZlMU1Za2hRUkxEMG9taGphNkZvSjI4UF9wUzVyU0E4amUyQdIBa0FVX3lxTE5YVGx2WWxZY1lKNjNHQ1huNHZQWWFqTW1MR0p6RnBwaVdSSXlKT1FEQmx6dzI3dVBIVm5jTVdpRHR6b05UeHRKdUVrZEFMbzcwOUJLcHhGWVBaN2tnU2c5QzFKTEdyZml6ZDg0?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
     }
   ]
 }
