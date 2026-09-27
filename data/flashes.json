@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T14:53:15.509Z",
+  "updated": "2026-09-27T15:01:27.103Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -87,6 +87,18 @@
       "siteUrl": "https://www.cbs17.com"
     },
     {
+      "id": "FL-c3e57c0a9115",
+      "date": "2026-09-27",
+      "dateISO": "Sun, 27 Sep 2026 13:08:00 GMT",
+      "ts": 1790514480000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "皇家空军基地附近发现爆炸物警报，5人被捕- 世界 - ANSA",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUUNjekNqdkZwakRtUm1pT05VLU5wZTNLNEs5cnpSME00eEhZVUlNYjdNZm9Gc1FUVmdMN1RMa2tXS3pGeTdSMXhxN1pOejRMUDVPWHVZX0Jvdld0alpadUtWX0dLWXlnaTI2clZXc1lHcjNUU1kxYnVpSEZyZE9zNGR6LWRoUENzQW0xX2F2bUxyd3pNLU0waVFB?oc=5",
+      "site": "ANSA",
+      "siteUrl": "https://www.ansa.it"
+    },
+    {
       "id": "FL-916c025a0201",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 12:42:13 GMT",
@@ -109,18 +121,6 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc1VyQmc1ejZvR19GbjlPc1I4YWROSFA4TWRSbEZTNkRtWEQyNVJhSE5qUjFyd21zWkdtXzVqN05LYnVKaDNqUWNxZHloSW9tM1Q4YTA4dlQyb203ZklHU29pb1hmRTRtQVJ6N2ljTTlBbmdLbm9GcVNrZWZrZ3FkaE45QWdrNVVzbVBRVUE0a2s0c0pxUDhDLUlvX2pGTEIwVUJtVXdHZzZaUVo0a0xseFN6THprZ9IBuwFBVV95cUxPQk1QV192bDJoV3N2cXAxWURDZDQwMUUtUmM5enc0M0Vmd25BNWVUSzFOQVRiQUV1UnhfanFIZjVuNFdTdlJWVE05MHpST2k0emhJYmF6aXljaVgwazY4ZEoyamZQWW1yR2I0NDhld0hNckZiUEJmeU5IYnhsTlVrNzZKYjFraS1hUFJaWmZEcjVZOHc4blJOMGE5Z2l5SWxDZmdkVmFOVkUxTGtrZTY5Sy03R3oxZjZGaVFj?oc=5",
       "site": "Fox News",
       "siteUrl": "https://www.foxnews.com"
-    },
-    {
-      "id": "FL-9a371bea2bac",
-      "date": "2026-09-27",
-      "dateISO": "Sun, 27 Sep 2026 12:03:06 GMT",
-      "ts": 1790510586000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Plaka Explosion: Who Were the Six Victims? Pregnant American among the Dead as Investigation Focuses on Couple’s Apartment - The National Herald",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdmNITHVvaEIwd05jSTljNUF4cWVlTVBvaVIyX3hfX1JzTU0zMFVUbFNYY2hQZnAxWXdVaVJjbWRSSWs1cFRYMGpRSEhxUGN5eklwRjBRdTlOdGFPbGpjWXNJQzBKWTJpcUxuOFBBcXBrV1VzVndreEE3b054ejJVajBsNEhFeHVGS1plUDhkMHRFSi15U1p4YUhZZTNVQW5ia1BISTlMalFqdlFwbDZVcHY5WWpKMnVLcEZ6ajZiTkxwa2RlMjkyNlROTEYyYUl3RW5BVF9oRjEwRzRmNFpQazlvYmc4MjhubVVncm5RV3RETTh6?oc=5",
-      "site": "The National Herald",
-      "siteUrl": "https://www.thenationalherald.com"
     },
     {
       "id": "FL-66ac68a7931d",
@@ -147,15 +147,15 @@
       "siteUrl": "https://www.reuters.com"
     },
     {
-      "id": "FL-bfcc37dbdc5c",
+      "id": "FL-d820ab4805e7",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 10:24:00 GMT",
       "ts": 1790504640000,
       "scope": "intl",
       "type": "blast",
-      "title": "英国警方指美军基地附近发生“重大事故” 拘多名男子涉爆炸品罪 - 香港01",
+      "title": "英国警方指美军基地附近发生“重大事故” 拘多名男子涉爆炸品罪 - global.hk01.com",
       "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxPQUlabEd5ckdDdnZ3Rm5CMmJaN0lQTzBEQVhmRFRYZmNuWk92eWM1dTZkcFdPZnQ5M3czT0dzdU1JRkM0OHRzVmdGMGlRd1k2OUV2SV94N2dBNWx4Y1hJV05WZXE3ZFI1N3NBQVBDOEQycVd3RUtGSFNjTm9DZkpxZHMtQ19WRzhnaFFfU0R5aU96LWtXN3dOUXUyTzdjaDRFMFVuOE5uUm1kRDNOdnlOZkFldTRDRTI1ZzFOTWpURmlkVnRjWHpUOTdLdWlqUlB3Z2dxbWcxRzlzSHVNMTBCS1dONzd4RGNOb0k4VjNwTV9wNTVHbG1DeDhLZXdaQXpmR2p1allZdW1Ja2ZQdkFHbVdxaERMYXdLNndCV09raU1fMVdvY3ZMaFhwckxFS3Jndng2RTVMRmRsVmR4Smk3V25OdUhySjNXRU9KM1g2czdsQXEwdDBGZ3RUcW80Sm9FN1p2RFBIdmJOaVBMOXBodTEzZ2phMTZvREJrRjZmQ0xGYTdURDduSWxHRFg0OG1PdldEeFdpdlBWaGhnb2NIV0Q3SnFLQXpJOFpqSW9raHRXbmgzaGNhVGNvT1MteU9w?oc=5",
-      "site": "香港01",
+      "site": "global.hk01.com",
       "siteUrl": "https://global.hk01.com"
     },
     {
