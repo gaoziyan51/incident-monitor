@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T01:04:38.481Z",
+  "updated": "2026-09-27T01:18:18.013Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -51,15 +51,15 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
-      "id": "FL-a532932af0a8",
+      "id": "FL-ed5bb4de52b7",
       "date": "2026-07-02",
       "dateISO": "Thu, 02 Jul 2026 07:00:00 GMT",
       "ts": 1782975600000,
       "scope": "dom",
       "type": "blast",
-      "title": "涉留神峪特别重大瓦斯爆炸事故 崔瑞军被查 - cn.chinadaily.com.cn",
+      "title": "涉留神峪特别重大瓦斯爆炸事故 崔瑞军被查 - 中国日报网",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwQldTMXJVdFF1VDFZdGpMSG9kcElHUTdDWkpNbEpBeVJLMVltU3JaY05MZG5PR3NnWUFHMURJelctUkhNalZTQWM0d2N2ZU81blNIRW9fZ0hyMExJQ2tRZE1CRllnRnFJcXVWbXpwMnMwMWlwT1R5Qmt4aDE?oc=5",
-      "site": "cn.chinadaily.com.cn",
+      "site": "中国日报网",
       "siteUrl": "https://cn.chinadaily.com.cn"
     },
     {
@@ -399,15 +399,15 @@
       "siteUrl": "https://wap.eastmoney.com"
     },
     {
-      "id": "FL-a4cd8213db88",
+      "id": "FL-1d6c61055589",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 06:49:00 GMT",
       "ts": 1790405340000,
       "scope": "intl",
       "type": "blast",
-      "title": "巴基斯坦警察检查站爆炸致至少11人死亡——《黎明报》 - ua.news",
+      "title": "巴基斯坦警察检查站爆炸致至少11人死亡——《黎明报》 - UA.NEWS",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUXFwaEhITTA3cl9VaVdoVlBoNE8wdHI3UnpsYmRibGQ4Y2FfSF80V0sycHNfYTd3SW94ckV4NlBhNFY2SG15MDdraURaRlMxTm05OUdRdmxQb2JqeGtXZ21xMTdDbHR4NUNxTk5uS082QW9Pei1IUEl6OG10QXYxMFRmT0pRQmJ0V1M3LWdYcVUyVTZkeC1naXJwVDFDTnpqYkJJazNJMA?oc=5",
-      "site": "ua.news",
+      "site": "UA.NEWS",
       "siteUrl": "https://ua.news"
     },
     {
@@ -447,15 +447,15 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
-      "id": "FL-bc5a0b5cb5b0",
+      "id": "FL-c2b5e87a66f1",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 03:47:19 GMT",
       "ts": 1789789639000,
       "scope": "intl",
       "type": "blast",
-      "title": "巴基斯坦西北部爆炸已致21死 巴总统称将继续反恐行动 - news.cctv.com",
+      "title": "巴基斯坦西北部爆炸已致21死 巴总统称将继续反恐行动 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JdTVsYVVFWHBSX3JkaE5ocVh2cmtPd0NWVkpmT1EyOENqOGJZcHhnQllGeU9RYThKRTJmYnRVaXpEQ25RcGNGNi1LcmZJUUFnY2Q1cVVpS2dkSW8wQzJfSFI4U3FYMzdXNmJSWm1SdEpsckl2Y190Sg?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -601,6 +601,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92WW1HV0ttYlE2bUkxb2ZWUDVCSUNuTmRaQnNSWnpDTElPRUFUOXk3U3FoX2VKTm1FQ29TaDBocTUwMTZlMU1Za2hRUkxEMG9taGphNkZvSjI4UF9wUzVyU0E4amUyQdIBa0FVX3lxTE5YVGx2WWxZY1lKNjNHQ1huNHZQWWFqTW1MR0p6RnBwaVdSSXlKT1FEQmx6dzI3dVBIVm5jTVdpRHR6b05UeHRKdUVrZEFMbzcwOUJLcHhGWVBaN2tnU2c5QzFKTEdyZml6ZDg0?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-a4c84c6d032d",
+      "date": "2026-06-05",
+      "dateISO": "Fri, 05 Jun 2026 07:00:00 GMT",
+      "ts": 1780642800000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "辽宁本溪一商铺疑似液化气罐泄漏引发爆炸：2人死亡13人轻微伤 - 央广网",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qQlpCOEt3cGs2NmdiMHBrTlVwekFZQ2pKaTI0cnRPMmt3Z1pCLVUxai1tYkw2RnMzbGctVm5zb0ZwcTIyNlZmUEh0M3MwTlQtRkU2NlJlNnpGdU5vUl9VZ1p2YUNqZi1qLUdYNjNn?oc=5",
+      "site": "央广网",
+      "siteUrl": "https://www.cnr.cn"
     }
   ]
 }
