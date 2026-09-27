@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T18:21:42.375Z",
+  "updated": "2026-09-27T18:37:50.249Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -37,6 +37,18 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MzVkcXZnR2UwelNkenFIYVFYVzBPcUxUQ1VSaUVHcV9LYVJnZzhjQWZzM09DNk8wc0xVNlo2amRqNjBueWtVeTdSbkJZT053RjRSZDhmeXJyT19wekF3UHB6WERtZkxLaFFwT2pVWTE?oc=5",
       "site": "中国科技网",
       "siteUrl": "https://www.stdaily.com"
+    },
+    {
+      "id": "FL-ec2258cc08b5",
+      "date": "2026-09-27",
+      "dateISO": "Sun, 27 Sep 2026 17:00:00 GMT",
+      "ts": 1790528400000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "‘The sky’s the limit’: Florida’s offensive explosion headlines Saturday’s rout - The Independent Florida Alligator",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN0g1enM0Zk9VZE8xa0hEMHRfSmtVc1RMZjdKdjZVMmw5azJFR2NDWkpmNmw5V1pWTGNnQ0VEUGFGUnF0QmpkUExKS0hyMmRxZWdyNUpaRkZsMF94MGhRMVVtWlo5ZkxwYVMtbi1GbFJLYWZieW5ranU4TTMxUVU3TVhoOHZjT0xLYU9uS2V5WHl4LU40?oc=5",
+      "site": "The Independent Florida Alligator",
+      "siteUrl": "https://www.alligator.org"
     },
     {
       "id": "FL-1dd6692ecb38",
@@ -171,15 +183,15 @@
       "siteUrl": "https://ua.news"
     },
     {
-      "id": "FL-4c086f634f4e",
+      "id": "FL-52e564c7955b",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 08:50:00 GMT",
       "ts": 1790499000000,
       "scope": "dom",
       "type": "blast",
-      "title": "美空军驻英基地发生“重大事件”，多人涉嫌爆炸袭击被捕 - 腾讯新闻",
+      "title": "美空军驻英基地发生“重大事件”，多人涉嫌爆炸袭击被捕 - QQ News",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vVktFYzFyeHhhUU1WQUVhU205bTVRc1hWSnUwYThVNmlOODJ4WkU5d3RINWZGUHR0dHc3X25mSU1xa29meHJib0ZNWDhyNDRiQkRhVkRxZ2VZTGlPVmdhRnhMbXVjZjc3dnFuSg?oc=5",
-      "site": "腾讯新闻",
+      "site": "QQ News",
       "siteUrl": "https://news.qq.com"
     },
     {
@@ -375,27 +387,27 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
-      "id": "FL-e6da002b8732",
+      "id": "FL-d1d043dda2d5",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 07:07:30 GMT",
       "ts": 1790406450000,
       "scope": "intl",
       "type": "blast",
-      "title": "俄远东一煤矿矿区爆炸 有人员伤亡 - 东方财富",
+      "title": "俄远东一煤矿矿区爆炸 有人员伤亡 - eastmoney.com",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yRUEyVUZDMTdQcTR1emZMSTZNcTFrMzdVRktDNnBEVlNETk9FN29SVnA0WlQxVzg4NGsyd0ZZejJFWGFSSEVjQTl3M2p2blNWVllnTEVTRng2bkhBeXI0eA?oc=5",
-      "site": "东方财富",
+      "site": "eastmoney.com",
       "siteUrl": "https://wap.eastmoney.com"
     },
     {
-      "id": "FL-702619048484",
+      "id": "FL-a51b5925804a",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 06:20:47 GMT",
       "ts": 1790403647000,
       "scope": "intl",
       "type": "blast",
-      "title": "俄远东一煤矿矿区爆炸，有人员伤亡 - 京报网",
+      "title": "俄远东一煤矿矿区爆炸，有人员伤亡 - news.bjd.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wMWFuZGplcnloclpwblE2R1M4YzJiR0Y4TFZNSUhqNjVtajUyUERhUWxVV21VV1V6WHU4N3Y0M2dfR2d3ajJzcXBZZjZkR2RkOG9qLXRhYzk3aGFCUmc?oc=5",
-      "site": "京报网",
+      "site": "news.bjd.com.cn",
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
@@ -447,18 +459,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-9865542dc5f6",
-      "date": "2026-07-31",
-      "dateISO": "Fri, 31 Jul 2026 07:00:00 GMT",
-      "ts": 1785481200000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "巴基斯坦煤矿爆炸致34人死亡 8人被困 - news.cn",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ic3NaMW5yOHF1MmNnMDRPdThpWHRsY0dpOUl5X1U2aUxyMlZFTkVhN09xTVRmQ3dwcnFZaThTZjd5RXdLS1VLTVgzNGlENnl3T3hOOVBFSmYyajM0cmlxeVduX28xT2U5M1pvbmJfZE94TW00UmpNd2oyTFZFVEE?oc=5",
-      "site": "news.cn",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
       "id": "FL-31d313973515",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 13:35:00 GMT",
@@ -481,6 +481,18 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRVJSaGVSa3hqME14dlFuOFVKcFpWZjRDN0o4d1ZJLWUzZlp5d0ZGUGpmSHd0Y2Z1X3Bfd0MxeHVDLV92T2w4Sm1pbmxQejhhSjN4T3FKWVA5ajVLbU10bGxDaTZ1dHoxUGNCVjE0YTJqU29VejRNOF9sS2F1THZTY3hlckxwQ05rMjdVczJySlRnS1M2MzBvSWtzUEtnYnIx?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
+    },
+    {
+      "id": "FL-b16c3e64fcb5",
+      "date": "2026-08-21",
+      "dateISO": "Fri, 21 Aug 2026 07:00:00 GMT",
+      "ts": 1787295600000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "山东临沂发生爆炸致1人死亡2人失联 - news.cn",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5dmp2dW40R0VaSl93N25sLVZHeGFRNGZYdXF5cHJNeVcxWDVadGl6a094ZGxNcVBiMkN2cXhtdG1IQkxYSlk4SEVWc1FlX0Rsc1B4RXhKdHhvV0tfSHpzNDhTQUVRdlBSMjh6c3ZqZ01leGQ0dVVZ?oc=5",
+      "site": "news.cn",
+      "siteUrl": "https://www.news.cn"
     }
   ]
 }
