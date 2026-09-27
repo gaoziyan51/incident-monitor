@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T12:39:14.884Z",
+  "updated": "2026-09-27T12:51:10.232Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -37,6 +37,18 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MzVkcXZnR2UwelNkenFIYVFYVzBPcUxUQ1VSaUVHcV9LYVJnZzhjQWZzM09DNk8wc0xVNlo2amRqNjBueWtVeTdSbkJZT053RjRSZDhmeXJyT19wekF3UHB6WERtZkxLaFFwT2pVWTE?oc=5",
       "site": "中国科技网",
       "siteUrl": "https://www.stdaily.com"
+    },
+    {
+      "id": "FL-916c025a0201",
+      "date": "2026-09-27",
+      "dateISO": "Sun, 27 Sep 2026 12:42:13 GMT",
+      "ts": 1790512933000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "韩军方DMZ地雷爆炸事件6天后启动调查，未能抵达事故现场便中止 - chinese.joins.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VY2U1SUExaTBvTUVzeVVUZGFHMWRxSmJOUUpCUElqOU9BNG9maHBLdk5CbFFIOXBkV1lJa3c3WndCVlJGWk8yWkNsV3dDSXhPRGVsRzR2RHotdmFjYkQ5dV91UVVEeEpGb1FFRw?oc=5",
+      "site": "chinese.joins.com",
+      "siteUrl": "https://chinese.joins.com"
     },
     {
       "id": "FL-66ac68a7931d",
@@ -111,15 +123,15 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-6f58311864c3",
+      "id": "FL-bbf903d6b848",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 08:22:00 GMT",
       "ts": 1790497320000,
       "scope": "dom",
       "type": "blast",
-      "title": "湾区之光杂技大秀燃爆宝安，今日持续上演 - 21财经",
+      "title": "湾区之光杂技大秀燃爆宝安，今日持续上演 - 21jingji.com",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbmJkTThWNEtSYmtOU0EwWXV1UndwSHRIaXBHRnZuNk1vdHV5Qi16N1BoTnkzbTg2N1JzbURuc2l0OVJYeUd5THNQdFcyYnUwamdUOWNFZVY2S2hSeW94UEV2QzBZcXRmSWQyTWV6ZmFkT1NMWElyUUwtUlhaWkp1cWIyQjRGZ1pzQjU3TkV0QQ?oc=5",
-      "site": "21财经",
+      "site": "21jingji.com",
       "siteUrl": "https://www.21jingji.com"
     },
     {
@@ -195,18 +207,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-03be74078d32",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 20:15:00 GMT",
-      "ts": 1790453700000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "4 Americans Among 6 Dead After Explosion Causes Building to Collapse at Popular Tourist Destination - people.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcGRkSHFuNTEwRmtEbEhtMGl2bWExeHVMVVBITExuY1hUUmlTZEtSR0FWWnVVeVphaFVITXgzLXZtOElRM1hneU9KeV8tUUxYWmVld00wRVU2cThkUk85ZjJiYkMtRUxvdXV2a3d4YzA1TmhQZG9Zazc0czM4a2RJMVRSRW91akJQVTZORkt1TXVVZTd0RllWa0ttcG9CU1Bw?oc=5",
-      "site": "people.com",
-      "siteUrl": "https://people.com"
-    },
-    {
       "id": "FL-8c0142bafb06",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 15:28:52 GMT",
@@ -279,6 +279,18 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
+      "id": "FL-56bd69493691",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 12:12:08 GMT",
+      "ts": 1790424728000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "巴基斯坦西北部发生爆炸 造成11死18伤 - 联合早报",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByR1hfOU5vOWZjdzltMmpIaXlseUN1bTNhdG42MnJWNmJ3TWZVc3VZZlJUSTFKbXVpUng4aEw3N2cyOTJ0OE44SHBtdGw4a0gzUXpGamg2dlpYaGlNN2RXZ0VBamh1Z0I0aFE?oc=5",
+      "site": "联合早报",
+      "siteUrl": "https://www.zaobao.com.sg"
+    },
+    {
       "id": "FL-5e735aebc1c3",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 11:26:44 GMT",
@@ -291,15 +303,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-a1aa890f2994",
+      "id": "FL-f7d3155edcc3",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 11:24:30 GMT",
       "ts": 1790421870000,
       "scope": "dom",
       "type": "blast",
-      "title": "大师赛网红爆炸头来苏河湾啦！更多萌趣周边尽在福新面粉厂快闪空间→_上观新闻 - 上观新闻",
+      "title": "大师赛网红爆炸头来苏河湾啦！更多萌趣周边尽在福新面粉厂快闪空间→_上观新闻 - jfdaily.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nNHRBTUh0MlBtVVNzNXZ3bFdHMzhENjc4cFd5dGxrQnFCU0ZuSC1LLWFKN0tES0JfTm54YVduaFl6YS1BN2dqZVFfbm9Zbzk0Z29LM2EzTTc?oc=5",
-      "site": "上观新闻",
+      "site": "jfdaily.com",
       "siteUrl": "https://www.jfdaily.com"
     },
     {
@@ -351,51 +363,51 @@
       "siteUrl": "https://wap.eastmoney.com"
     },
     {
-      "id": "FL-702619048484",
+      "id": "FL-a51b5925804a",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 06:20:47 GMT",
       "ts": 1790403647000,
       "scope": "intl",
       "type": "blast",
-      "title": "俄远东一煤矿矿区爆炸，有人员伤亡 - 京报网",
+      "title": "俄远东一煤矿矿区爆炸，有人员伤亡 - news.bjd.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wMWFuZGplcnloclpwblE2R1M4YzJiR0Y4TFZNSUhqNjVtajUyUERhUWxVV21VV1V6WHU4N3Y0M2dfR2d3ajJzcXBZZjZkR2RkOG9qLXRhYzk3aGFCUmc?oc=5",
-      "site": "京报网",
+      "site": "news.bjd.com.cn",
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-4a0c9f7614db",
+      "id": "FL-67be4412c6e0",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 05:42:40 GMT",
       "ts": 1790401360000,
       "scope": "dom",
       "type": "blast",
-      "title": "中秋夜40623名球迷燃爆鞍山奥体，为“辽超”呐喊 - 央广网",
+      "title": "中秋夜40623名球迷燃爆鞍山奥体，为“辽超”呐喊 - cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91NDU3YTViSFlJLV9oWFg2dW9BaU4ybkZyTEZzUHE2US1IbHpHd2ZXY1hSMUxtMXNpSzZBY3hjRG5PbWdSenE4eFRZZ3ktZVo5djdLNkxYX2F5eDhVVjdteU1yM1hFb1U5MDE2anZ3?oc=5",
-      "site": "央广网",
+      "site": "cnr.cn",
       "siteUrl": "https://www.cnr.cn"
     },
     {
-      "id": "FL-37ae5c7b2505",
+      "id": "FL-14d5d846c7ad",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 13:34:10 GMT",
       "ts": 1789824850000,
       "scope": "dom",
       "type": "blast",
-      "title": "叙利亚东部爆炸致过渡政府国防部11人死亡 - 新华网客户端",
+      "title": "叙利亚东部爆炸致过渡政府国防部11人死亡 - app.xinhuanet.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa21SSnpRaWdxQy1GYVBmWi1LQ3VzQ0xwZUwzTE9rSVRuLXhac2xTZl9wYlB5c2RoQkRYY1pfbDRZWmF3RFdFZXg4M3NSZ0s0alQ2XzRtUFI0SjR2R2FidlRXZ3pOckwtM20zaFNtR0h4bjFBdTdsZW9yeEpoampleUFNajd4NDVaUElBYTgxUG5vQzRoWjFIcGhn?oc=5",
-      "site": "新华网客户端",
+      "site": "app.xinhuanet.com",
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
-      "id": "FL-5c993148a45d",
+      "id": "FL-0a94e597e848",
       "date": "2026-09-05",
       "dateISO": "Sat, 05 Sep 2026 07:00:00 GMT",
       "ts": 1788591600000,
       "scope": "intl",
       "type": "blast",
-      "title": "伊朗哈尔克岛附近海域传出爆炸声 - news.cnr.cn",
+      "title": "伊朗哈尔克岛附近海域传出爆炸声 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VUEJ2eGF5WGt5UmQxcTlHcDNzTU9aVVV6OVNOcmM0ODFCVWF2Ui1KU21uQkJ3TFVPMTktNEFxZzRvWVl0UVJWMTlUU3ZaYl9wb20yaGZWRFZMTF9QczVXd2pFelZQdVJp?oc=5",
-      "site": "news.cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
     },
     {
@@ -459,15 +471,15 @@
       "siteUrl": "https://world.huanqiu.com"
     },
     {
-      "id": "FL-31d313973515",
+      "id": "FL-25f05720b8fe",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 13:35:00 GMT",
       "ts": 1790343300000,
       "scope": "intl",
       "type": "blast",
-      "title": "克罗地亚批准将“北溪”爆炸案嫌疑人引渡至德国 - 紫牛新闻",
+      "title": "克罗地亚批准将“北溪”爆炸案嫌疑人引渡至德国 - yzwb.net",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SYjNkNFJtM090Qk9MYnE3NnhXZWtMazZsYUZKVTZBSWRXNV8tcUtfQm5wQmMyNm5VXzVPRVRXQXpVdHNJd1o0UWY4dWp6cW5wdFhkV2ZnOEFuaWNGNTVqOFdkX3VjdkhQWWc?oc=5",
-      "site": "紫牛新闻",
+      "site": "yzwb.net",
       "siteUrl": "https://www.yzwb.net"
     },
     {
