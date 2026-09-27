@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T04:45:55.126Z",
+  "updated": "2026-09-27T04:54:18.497Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -339,18 +339,6 @@
       "siteUrl": "https://wap.eastmoney.com"
     },
     {
-      "id": "FL-1d6c61055589",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 06:49:00 GMT",
-      "ts": 1790405340000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "巴基斯坦警察检查站爆炸致至少11人死亡——《黎明报》 - UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUXFwaEhITTA3cl9VaVdoVlBoNE8wdHI3UnpsYmRibGQ4Y2FfSF80V0sycHNfYTd3SW94ckV4NlBhNFY2SG15MDdraURaRlMxTm05OUdRdmxQb2JqeGtXZ21xMTdDbHR4NUNxTk5uS082QW9Pei1IUEl6OG10QXYxMFRmT0pRQmJ0V1M3LWdYcVUyVTZkeC1naXJwVDFDTnpqYkJJazNJMA?oc=5",
-      "site": "UA.NEWS",
-      "siteUrl": "https://ua.news"
-    },
-    {
       "id": "FL-702619048484",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 06:20:47 GMT",
@@ -375,15 +363,15 @@
       "siteUrl": "https://www.cnr.cn"
     },
     {
-      "id": "FL-37ae5c7b2505",
+      "id": "FL-14d5d846c7ad",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 13:34:10 GMT",
       "ts": 1789824850000,
       "scope": "dom",
       "type": "blast",
-      "title": "叙利亚东部爆炸致过渡政府国防部11人死亡 - 新华网客户端",
+      "title": "叙利亚东部爆炸致过渡政府国防部11人死亡 - app.xinhuanet.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa21SSnpRaWdxQy1GYVBmWi1LQ3VzQ0xwZUwzTE9rSVRuLXhac2xTZl9wYlB5c2RoQkRYY1pfbDRZWmF3RFdFZXg4M3NSZ0s0alQ2XzRtUFI0SjR2R2FidlRXZ3pOckwtM20zaFNtR0h4bjFBdTdsZW9yeEpoampleUFNajd4NDVaUElBYTgxUG5vQzRoWjFIcGhn?oc=5",
-      "site": "新华网客户端",
+      "site": "app.xinhuanet.com",
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
