@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T21:52:35.885Z",
+  "updated": "2026-09-27T22:01:21.956Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -39,6 +39,18 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
+      "id": "FL-85ad152d20df",
+      "date": "2026-09-27",
+      "dateISO": "Sun, 27 Sep 2026 21:59:19 GMT",
+      "ts": 1790546359000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典衛城旁爆炸釀6死 4名美國遊客遇難 - 新唐人電視台",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YbHZaMEY0QnRrUDlvb1B0V04xZmhzWmdTa3o0dTF1SGdRN0xTbVZfY2FjTkpqM1dBcGpfQ1ViQmpLRjl3djBhcW5mSDJMd0FjbDk1RlpZazloajJQdjVDRdIBZkFVX3lxTFAwQ0hoUnFXTHBNUE5lZkd6cmtfcTRGQXdPTEM4TFFJVjFwZlZLcHpFX25GbFJVUHRCVEplV1lnTXktYmYwamMzVDFILU12bllVLVlCc1UtOXJ5LWg3aURINWlpTHlPQQ?oc=5",
+      "site": "新唐人電視台",
+      "siteUrl": "https://www.ntdtv.com"
+    },
+    {
       "id": "FL-382a151f8c29",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 21:51:46 GMT",
@@ -51,27 +63,27 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-4f76faf84c77",
+      "id": "FL-3a3ebc0857a3",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 21:49:54 GMT",
       "ts": 1790545794000,
       "scope": "intl",
       "type": "blast",
-      "title": "FMO investigates explosion in Limington - wgme.com",
+      "title": "FMO investigates explosion in Limington - WGME",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jcHk1MlpWV1V6VEhvazY4NVRJOEU3ZFltbDE4RE90X3VFYWZjaHRzYV94N1NqUE1tbjdOZkU2dVVIbXF5LW9pM2t6bWg3dDZwMnJYanhuX1RDM2FMaDJZZDRZd1BNRXRkSDdHLTZ0MXF6U1haMUE?oc=5",
-      "site": "wgme.com",
+      "site": "WGME",
       "siteUrl": "https://wgme.com"
     },
     {
-      "id": "FL-4223f5e0e7c3",
+      "id": "FL-e06548a7409d",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 20:50:00 GMT",
       "ts": 1790542200000,
       "scope": "intl",
       "type": "blast",
-      "title": "1 injured in explosion in Limington - wmtw.com",
+      "title": "1 injured in explosion in Limington - WMTW",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsMUpHYm1IZWZRYnBCN3dTX21EYXQ2NF9mejdmbjdoZDNoWWNobFAxcmFOVTlSc3NxcWtKdWxRS3dhMXBmSVV4bU9LSFlmLUNEd3dRckVpaUVpa1pjbXZMeGw3XzNMYlZmQzREczhFZTM5bVFkU0ZoWDZqcnN6UQ?oc=5",
-      "site": "wmtw.com",
+      "site": "WMTW",
       "siteUrl": "https://www.wmtw.com"
     },
     {
@@ -387,15 +399,15 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
-      "id": "FL-d1d043dda2d5",
+      "id": "FL-e6da002b8732",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 07:07:30 GMT",
       "ts": 1790406450000,
       "scope": "intl",
       "type": "blast",
-      "title": "俄远东一煤矿矿区爆炸 有人员伤亡 - eastmoney.com",
+      "title": "俄远东一煤矿矿区爆炸 有人员伤亡 - 东方财富",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yRUEyVUZDMTdQcTR1emZMSTZNcTFrMzdVRktDNnBEVlNETk9FN29SVnA0WlQxVzg4NGsyd0ZZejJFWGFSSEVjQTl3M2p2blNWVllnTEVTRng2bkhBeXI0eA?oc=5",
-      "site": "eastmoney.com",
+      "site": "东方财富",
       "siteUrl": "https://wap.eastmoney.com"
     },
     {
@@ -455,18 +467,6 @@
       "type": "blast",
       "title": "巴基斯坦西北部发生爆炸致14人死亡 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-0f5476d1c019",
-      "date": "2026-07-31",
-      "dateISO": "Fri, 31 Jul 2026 07:00:00 GMT",
-      "ts": 1785481200000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "巴基斯坦煤矿爆炸致34人死亡 8人被困 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ic3NaMW5yOHF1MmNnMDRPdThpWHRsY0dpOUl5X1U2aUxyMlZFTkVhN09xTVRmQ3dwcnFZaThTZjd5RXdLS1VLTVgzNGlENnl3T3hOOVBFSmYyajM0cmlxeVduX28xT2U5M1pvbmJfZE94TW00UmpNd2oyTFZFVEE?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
