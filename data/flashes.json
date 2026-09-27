@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T08:45:50.945Z",
+  "updated": "2026-09-27T08:54:04.321Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -37,6 +37,18 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MzVkcXZnR2UwelNkenFIYVFYVzBPcUxUQ1VSaUVHcV9LYVJnZzhjQWZzM09DNk8wc0xVNlo2amRqNjBueWtVeTdSbkJZT053RjRSZDhmeXJyT19wekF3UHB6WERtZkxLaFFwT2pVWTE?oc=5",
       "site": "中国科技网",
       "siteUrl": "https://www.stdaily.com"
+    },
+    {
+      "id": "FL-ed5bb4de52b7",
+      "date": "2026-07-02",
+      "dateISO": "Thu, 02 Jul 2026 07:00:00 GMT",
+      "ts": 1782975600000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "涉留神峪特别重大瓦斯爆炸事故 崔瑞军被查 - 中国日报网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwQldTMXJVdFF1VDFZdGpMSG9kcElHUTdDWkpNbEpBeVJLMVltU3JaY05MZG5PR3NnWUFHMURJelctUkhNalZTQWM0d2N2ZU81blNIRW9fZ0hyMExJQ2tRZE1CRllnRnFJcXVWbXpwMnMwMWlwT1R5Qmt4aDE?oc=5",
+      "site": "中国日报网",
+      "siteUrl": "https://cn.chinadaily.com.cn"
     },
     {
       "id": "FL-6f58311864c3",
@@ -157,18 +169,6 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcGRkSHFuNTEwRmtEbEhtMGl2bWExeHVMVVBITExuY1hUUmlTZEtSR0FWWnVVeVphaFVITXgzLXZtOElRM1hneU9KeV8tUUxYWmVld00wRVU2cThkUk85ZjJiYkMtRUxvdXV2a3d4YzA1TmhQZG9Zazc0czM4a2RJMVRSRW91akJQVTZORkt1TXVVZTd0RllWa0ttcG9CU1Bw?oc=5",
       "site": "People.com",
       "siteUrl": "https://people.com"
-    },
-    {
-      "id": "FL-f09ae96800fc",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 17:46:00 GMT",
-      "ts": 1790444760000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Greek authorities seek answers after six killed in Athens apartment block explosion - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYTZNOV9PWW42ZkNjUmdaZ0Z3OUcydTVCQll4UXhDQjVRT3FwaG9rRm85QzBZWUVyeDBkbkRZT3A5TW8tTlp4NF9fUkRHelFTNG5MeFFDa3cyeFU4U2dNSjVUMUxnTGZGSXJiVFItQ0VGbWtPTC04S3AyQy1meFZ0SVVBOHM4NUtnWDVCT0ZDSEFCUjlKakpLQXBiVXNHdTVHTUNkdFZEeU4zRHJLeGgxajR5RGFnWW1xZzJKVVlYSU9RV2lLRTRsSA?oc=5",
-      "site": "The Guardian",
-      "siteUrl": "https://www.theguardian.com"
     },
     {
       "id": "FL-8c0142bafb06",
@@ -423,27 +423,27 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-6e2758461fb3",
+      "id": "FL-c39833bbfc21",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 22:10:00 GMT",
       "ts": 1790374200000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - world.huanqiu.com",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 环球网",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93QWp5T3NMVjhsTElfdWZNVjBlTGJrcVhxeGtjMlRVSi1vb2NIRmlxQTlMTnZvTTN3YV8xOXBHVnB4SUNwMERRMDR4VWRBVElyMEtJLUxlNlI?oc=5",
-      "site": "world.huanqiu.com",
+      "site": "环球网",
       "siteUrl": "https://world.huanqiu.com"
     },
     {
-      "id": "FL-31d313973515",
+      "id": "FL-25f05720b8fe",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 13:35:00 GMT",
       "ts": 1790343300000,
       "scope": "intl",
       "type": "blast",
-      "title": "克罗地亚批准将“北溪”爆炸案嫌疑人引渡至德国 - 紫牛新闻",
+      "title": "克罗地亚批准将“北溪”爆炸案嫌疑人引渡至德国 - yzwb.net",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SYjNkNFJtM090Qk9MYnE3NnhXZWtMazZsYUZKVTZBSWRXNV8tcUtfQm5wQmMyNm5VXzVPRVRXQXpVdHNJd1o0UWY4dWp6cW5wdFhkV2ZnOEFuaWNGNTVqOFdkX3VjdkhQWWc?oc=5",
-      "site": "紫牛新闻",
+      "site": "yzwb.net",
       "siteUrl": "https://www.yzwb.net"
     },
     {
@@ -457,18 +457,6 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRVJSaGVSa3hqME14dlFuOFVKcFpWZjRDN0o4d1ZJLWUzZlp5d0ZGUGpmSHd0Y2Z1X3Bfd0MxeHVDLV92T2w4Sm1pbmxQejhhSjN4T3FKWVA5ajVLbU10bGxDaTZ1dHoxUGNCVjE0YTJqU29VejRNOF9sS2F1THZTY3hlckxwQ05rMjdVczJySlRnS1M2MzBvSWtzUEtnYnIx?oc=5",
       "site": "finance.sina.com.cn",
       "siteUrl": "https://finance.sina.cn"
-    },
-    {
-      "id": "FL-983b4ebb9f04",
-      "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 06:44:18 GMT",
-      "ts": 1790318658000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "因无人机爆炸，2名以色列士兵在加沙地带死亡 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE93blpsNE9zTENSVXhkZHBYOXg5d3V6aUI0VWM5bC1lSlhIYTVwdjdGWmQxdDdBejlzbThuZ1JRRzVBcHFuaHM5dVlNTQ?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://mil.ifeng.com"
     },
     {
       "id": "FL-4ed1ffe514b4",
