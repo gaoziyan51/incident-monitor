@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T21:38:55.162Z",
+  "updated": "2026-09-27T21:46:22.041Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -39,15 +39,15 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
-      "id": "FL-e06548a7409d",
+      "id": "FL-4223f5e0e7c3",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 20:50:00 GMT",
       "ts": 1790542200000,
       "scope": "intl",
       "type": "blast",
-      "title": "1 injured in explosion in Limington - WMTW",
+      "title": "1 injured in explosion in Limington - wmtw.com",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsMUpHYm1IZWZRYnBCN3dTX21EYXQ2NF9mejdmbjdoZDNoWWNobFAxcmFOVTlSc3NxcWtKdWxRS3dhMXBmSVV4bU9LSFlmLUNEd3dRckVpaUVpa1pjbXZMeGw3XzNMYlZmQzREczhFZTM5bVFkU0ZoWDZqcnN6UQ?oc=5",
-      "site": "WMTW",
+      "site": "wmtw.com",
       "siteUrl": "https://www.wmtw.com"
     },
     {
@@ -279,6 +279,18 @@
       "siteUrl": "https://www.jpchinapress.com"
     },
     {
+      "id": "FL-8c0142bafb06",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 15:28:52 GMT",
+      "ts": 1790436532000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "澳廣視新聞｜希腊雅典建筑物爆炸倒塌致6死｜ - TDM",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS2xnblE1eVYybDdObHJHX2hvRTdTWjlfZjQyUG4yMUFaLURJWG1IVzhJX1ZIQ2U2UzJpVWM1aXRhMlpvS2lOV25GSnk4Vk9YRl90SFlzUVdvT3NhellUbGdNMFpNbm1VcVgzcTNVckxma1U2WUxZYkpVOThva0c2T0Zocw?oc=5",
+      "site": "TDM",
+      "siteUrl": "https://www.tdm.com.mo"
+    },
+    {
       "id": "FL-a7667c9c6d36",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 15:26:00 GMT",
@@ -375,15 +387,15 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
-      "id": "FL-e6da002b8732",
+      "id": "FL-d1d043dda2d5",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 07:07:30 GMT",
       "ts": 1790406450000,
       "scope": "intl",
       "type": "blast",
-      "title": "俄远东一煤矿矿区爆炸 有人员伤亡 - 东方财富",
+      "title": "俄远东一煤矿矿区爆炸 有人员伤亡 - eastmoney.com",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yRUEyVUZDMTdQcTR1emZMSTZNcTFrMzdVRktDNnBEVlNETk9FN29SVnA0WlQxVzg4NGsyd0ZZejJFWGFSSEVjQTl3M2p2blNWVllnTEVTRng2bkhBeXI0eA?oc=5",
-      "site": "东方财富",
+      "site": "eastmoney.com",
       "siteUrl": "https://wap.eastmoney.com"
     },
     {
