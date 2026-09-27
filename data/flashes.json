@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T08:19:54.095Z",
+  "updated": "2026-09-27T08:31:59.852Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -147,15 +147,15 @@
       "siteUrl": "https://people.com"
     },
     {
-      "id": "FL-894c07471f20",
+      "id": "FL-f09ae96800fc",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 17:46:00 GMT",
       "ts": 1790444760000,
       "scope": "intl",
       "type": "blast",
-      "title": "Greek authorities seek answers after six killed in Athens apartment block explosion - theguardian.com",
+      "title": "Greek authorities seek answers after six killed in Athens apartment block explosion - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYTZNOV9PWW42ZkNjUmdaZ0Z3OUcydTVCQll4UXhDQjVRT3FwaG9rRm85QzBZWUVyeDBkbkRZT3A5TW8tTlp4NF9fUkRHelFTNG5MeFFDa3cyeFU4U2dNSjVUMUxnTGZGSXJiVFItQ0VGbWtPTC04S3AyQy1meFZ0SVVBOHM4NUtnWDVCT0ZDSEFCUjlKakpLQXBiVXNHdTVHTUNkdFZEeU4zRHJLeGgxajR5RGFnWW1xZzJKVVlYSU9RV2lLRTRsSA?oc=5",
-      "site": "theguardian.com",
+      "site": "The Guardian",
       "siteUrl": "https://www.theguardian.com"
     },
     {
@@ -411,15 +411,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-6e2758461fb3",
+      "id": "FL-c39833bbfc21",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 22:10:00 GMT",
       "ts": 1790374200000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - world.huanqiu.com",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 环球网",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93QWp5T3NMVjhsTElfdWZNVjBlTGJrcVhxeGtjMlRVSi1vb2NIRmlxQTlMTnZvTTN3YV8xOXBHVnB4SUNwMERRMDR4VWRBVElyMEtJLUxlNlI?oc=5",
-      "site": "world.huanqiu.com",
+      "site": "环球网",
       "siteUrl": "https://world.huanqiu.com"
     },
     {
@@ -481,6 +481,18 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0RVJ2NHZDR09BWmtLVkdDTElrRGtkUWpkVThacnhENmpyeUh6b1RVZk1kNXY4MEpBeWx0NU5jWk9DY01Xd3ptQjVXZmdqRlZSN2JqeGRkSFQ0Ym1XUi1LOTd2OVVpQjdzdDFNb09HR3FpaGY5R3JZ?oc=5",
       "site": "封面新闻",
       "siteUrl": "https://m.thecover.cn"
+    },
+    {
+      "id": "FL-84a9598aa100",
+      "date": "2026-06-12",
+      "dateISO": "Fri, 12 Jun 2026 07:00:00 GMT",
+      "ts": 1781247600000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "泰国当局判处两维吾尔人死刑　BBC记者回忆当年的曼谷四面佛爆炸案 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92WW1HV0ttYlE2bUkxb2ZWUDVCSUNuTmRaQnNSWnpDTElPRUFUOXk3U3FoX2VKTm1FQ29TaDBocTUwMTZlMU1Za2hRUkxEMG9taGphNkZvSjI4UF9wUzVyU0E4amUyQdIBa0FVX3lxTE5YVGx2WWxZY1lKNjNHQ1huNHZQWWFqTW1MR0p6RnBwaVdSSXlKT1FEQmx6dzI3dVBIVm5jTVdpRHR6b05UeHRKdUVrZEFMbzcwOUJLcHhGWVBaN2tnU2c5QzFKTEdyZml6ZDg0?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
     }
   ]
 }
