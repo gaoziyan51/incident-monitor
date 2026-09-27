@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T03:54:52.571Z",
+  "updated": "2026-09-27T04:01:42.313Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -51,16 +51,16 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
-      "id": "FL-3e7a52b7bd2e",
-      "date": "2026-09-27",
-      "dateISO": "Sun, 27 Sep 2026 03:47:24 GMT",
-      "ts": 1790480844000,
+      "id": "FL-ed5bb4de52b7",
+      "date": "2026-07-02",
+      "dateISO": "Thu, 02 Jul 2026 07:00:00 GMT",
+      "ts": 1782975600000,
       "scope": "dom",
       "type": "blast",
-      "title": "吴艳妮百米跨栏霸气夺冠！起跑瞬间燃爆全场 - 手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GX0dDWmh0cHR6WnctazNXOWN2THBOUXF3ZDdrRFFjV2toYXJySVg2TklTaWRoMXhScFRmcmtaUXVEZlFuN1ZlOHpxSXBWUi1RcUlIVk03TUpkYmlJb1haVF9vcV95NXQ0Z0VyYnJFeEpDcU0?oc=5",
-      "site": "手机新浪网",
-      "siteUrl": "https://k.sina.com.cn"
+      "title": "涉留神峪特别重大瓦斯爆炸事故 崔瑞军被查 - 中国日报网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwQldTMXJVdFF1VDFZdGpMSG9kcElHUTdDWkpNbEpBeVJLMVltU3JaY05MZG5PR3NnWUFHMURJelctUkhNalZTQWM0d2N2ZU81blNIRW9fZ0hyMExJQ2tRZE1CRllnRnFJcXVWbXpwMnMwMWlwT1R5Qmt4aDE?oc=5",
+      "site": "中国日报网",
+      "siteUrl": "https://cn.chinadaily.com.cn"
     },
     {
       "id": "FL-98d3721ec95a",
@@ -229,6 +229,18 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52MXd2SERCcDdESHJMdnlQY0trN3VTSUJMRDNKeHppMDFYUTluVG12aEZ2MzQ1TlhDYno2eVhwTF8yTTFwaVN3dmVSSlQ3TzVhOThYQmZic1lQWnJSamZKQk9YQ3RMX0Vm?oc=5",
       "site": "早晨报",
       "siteUrl": "https://www.zaochenbao.com"
+    },
+    {
+      "id": "FL-9922da7b434e",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 12:55:00 GMT",
+      "ts": 1790427300000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "希腊雅典卫城附近发生爆炸，一栋建筑倒塌至少2人受伤 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMnlOQXdvRXJCSUp1RXNLWkk0N2l2ek5wWFFaV18tWHRsMEFsMUE3NjB1SmFRX1dzZzktdlRmcFlid3A5a2trNnhOSXdTZVl2bFBVQ21uRVV3ekliQ0toMkNhbDNUZWdzcDc3ZzZyVXpVa3BqU1JXUWtoVVo1dGlKM2FMLWRTTFJ3?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-599bae74504c",
@@ -411,15 +423,15 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
-      "id": "FL-5c993148a45d",
+      "id": "FL-0a94e597e848",
       "date": "2026-09-05",
       "dateISO": "Sat, 05 Sep 2026 07:00:00 GMT",
       "ts": 1788591600000,
       "scope": "intl",
       "type": "blast",
-      "title": "伊朗哈尔克岛附近海域传出爆炸声 - news.cnr.cn",
+      "title": "伊朗哈尔克岛附近海域传出爆炸声 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VUEJ2eGF5WGt5UmQxcTlHcDNzTU9aVVV6OVNOcmM0ODFCVWF2Ui1KU21uQkJ3TFVPMTktNEFxZzRvWVl0UVJWMTlUU3ZaYl9wb20yaGZWRFZMTF9QczVXd2pFelZQdVJp?oc=5",
-      "site": "news.cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
     },
     {
@@ -493,18 +505,6 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SYjNkNFJtM090Qk9MYnE3NnhXZWtMazZsYUZKVTZBSWRXNV8tcUtfQm5wQmMyNm5VXzVPRVRXQXpVdHNJd1o0UWY4dWp6cW5wdFhkV2ZnOEFuaWNGNTVqOFdkX3VjdkhQWWc?oc=5",
       "site": "yzwb.net",
       "siteUrl": "https://www.yzwb.net"
-    },
-    {
-      "id": "FL-488e1042097f",
-      "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 07:31:38 GMT",
-      "ts": 1790321498000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "因无人机爆炸，2名以军士兵在加沙地带死亡 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRVJSaGVSa3hqME14dlFuOFVKcFpWZjRDN0o4d1ZJLWUzZlp5d0ZGUGpmSHd0Y2Z1X3Bfd0MxeHVDLV92T2w4Sm1pbmxQejhhSjN4T3FKWVA5ajVLbU10bGxDaTZ1dHoxUGNCVjE0YTJqU29VejRNOF9sS2F1THZTY3hlckxwQ05rMjdVczJySlRnS1M2MzBvSWtzUEtnYnIx?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-983b4ebb9f04",
