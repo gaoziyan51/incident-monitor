@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T06:24:10.538Z",
+  "updated": "2026-09-27T06:39:55.118Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -37,18 +37,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MzVkcXZnR2UwelNkenFIYVFYVzBPcUxUQ1VSaUVHcV9LYVJnZzhjQWZzM09DNk8wc0xVNlo2amRqNjBueWtVeTdSbkJZT053RjRSZDhmeXJyT19wekF3UHB6WERtZkxLaFFwT2pVWTE?oc=5",
       "site": "中国科技网",
       "siteUrl": "https://www.stdaily.com"
-    },
-    {
-      "id": "FL-ed5bb4de52b7",
-      "date": "2026-07-02",
-      "dateISO": "Thu, 02 Jul 2026 07:00:00 GMT",
-      "ts": 1782975600000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "涉留神峪特别重大瓦斯爆炸事故 崔瑞军被查 - 中国日报网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwQldTMXJVdFF1VDFZdGpMSG9kcElHUTdDWkpNbEpBeVJLMVltU3JaY05MZG5PR3NnWUFHMURJelctUkhNalZTQWM0d2N2ZU81blNIRW9fZ0hyMExJQ2tRZE1CRllnRnFJcXVWbXpwMnMwMWlwT1R5Qmt4aDE?oc=5",
-      "site": "中国日报网",
-      "siteUrl": "https://cn.chinadaily.com.cn"
     },
     {
       "id": "FL-b00b72cc3ec6",
@@ -339,15 +327,15 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-4a0c9f7614db",
+      "id": "FL-67be4412c6e0",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 05:42:40 GMT",
       "ts": 1790401360000,
       "scope": "dom",
       "type": "blast",
-      "title": "中秋夜40623名球迷燃爆鞍山奥体，为“辽超”呐喊 - 央广网",
+      "title": "中秋夜40623名球迷燃爆鞍山奥体，为“辽超”呐喊 - cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91NDU3YTViSFlJLV9oWFg2dW9BaU4ybkZyTEZzUHE2US1IbHpHd2ZXY1hSMUxtMXNpSzZBY3hjRG5PbWdSenE4eFRZZ3ktZVo5djdLNkxYX2F5eDhVVjdteU1yM1hFb1U5MDE2anZ3?oc=5",
-      "site": "央广网",
+      "site": "cnr.cn",
       "siteUrl": "https://www.cnr.cn"
     },
     {
@@ -459,15 +447,15 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-983b4ebb9f04",
+      "id": "FL-0580182b3ab4",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 06:44:18 GMT",
       "ts": 1790318658000,
       "scope": "intl",
       "type": "blast",
-      "title": "因无人机爆炸，2名以色列士兵在加沙地带死亡 - 凤凰网",
+      "title": "因无人机爆炸，2名以色列士兵在加沙地带死亡 - mil.ifeng.com",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE93blpsNE9zTENSVXhkZHBYOXg5d3V6aUI0VWM5bC1lSlhIYTVwdjdGWmQxdDdBejlzbThuZ1JRRzVBcHFuaHM5dVlNTQ?oc=5",
-      "site": "凤凰网",
+      "site": "mil.ifeng.com",
       "siteUrl": "https://mil.ifeng.com"
     },
     {
@@ -483,16 +471,16 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-9ea38439005a",
-      "date": "2026-06-12",
-      "dateISO": "Fri, 12 Jun 2026 07:00:00 GMT",
-      "ts": 1781247600000,
+      "id": "FL-83bdd8b98107",
+      "date": "2026-09-18",
+      "dateISO": "Fri, 18 Sep 2026 21:26:00 GMT",
+      "ts": 1789766760000,
       "scope": "intl",
       "type": "blast",
-      "title": "泰国当局判处两维吾尔人死刑　BBC记者回忆当年的曼谷四面佛爆炸案 - bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92WW1HV0ttYlE2bUkxb2ZWUDVCSUNuTmRaQnNSWnpDTElPRUFUOXk3U3FoX2VKTm1FQ29TaDBocTUwMTZlMU1Za2hRUkxEMG9taGphNkZvSjI4UF9wUzVyU0E4amUyQdIBa0FVX3lxTE5YVGx2WWxZY1lKNjNHQ1huNHZQWWFqTW1MR0p6RnBwaVdSSXlKT1FEQmx6dzI3dVBIVm5jTVdpRHR6b05UeHRKdUVrZEFMbzcwOUJLcHhGWVBaN2tnU2c5QzFKTEdyZml6ZDg0?oc=5",
-      "site": "bbc.com",
-      "siteUrl": "https://www.bbc.com"
+      "title": "沙特首都利雅得再次传出爆炸声 - 封面新闻",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0RVJ2NHZDR09BWmtLVkdDTElrRGtkUWpkVThacnhENmpyeUh6b1RVZk1kNXY4MEpBeWx0NU5jWk9DY01Xd3ptQjVXZmdqRlZSN2JqeGRkSFQ0Ym1XUi1LOTd2OVVpQjdzdDFNb09HR3FpaGY5R3JZ?oc=5",
+      "site": "封面新闻",
+      "siteUrl": "https://m.thecover.cn"
     }
   ]
 }
