@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T17:36:00.474Z",
+  "updated": "2026-09-28T17:47:55.828Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -291,15 +291,15 @@
       "siteUrl": "https://ua.news"
     },
     {
-      "id": "FL-a4aee5ce4c98",
+      "id": "FL-8829266c0b69",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 08:35:09 GMT",
       "ts": 1790584509000,
       "scope": "intl",
       "type": "blast",
-      "title": "名古屋赛场燃爆！… - 手机新浪网",
+      "title": "名古屋赛场燃爆！… - k.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LLXVGYUItRTZScDJHRl8tenZXWTVVXzVUb2l0dkRLbTR2RnZuSWxGQk9DNjlFR0xoQ25zeFY0ckw2dTJxRHZ6Ui1UeTlRa3V3RkM5QVJBQU8wdXBZRVVyZlFzVEhqSHZxNEdsVVVYYVJEaVE?oc=5",
-      "site": "手机新浪网",
+      "site": "k.sina.com.cn",
       "siteUrl": "https://k.sina.com.cn"
     },
     {
@@ -373,18 +373,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWGxaelpJc3BKdkFvbEc0SHdwMDVNQjYtcWlXWmZrSTU4d2NSQWlmZWNHcHFnT3lkVFBQbDU2WEhOSmJoUkJMcDBhTEVmY2JndnFlVld5MV9NTlAwLWVBeDE1VTNFZXVuTTdMd2pscjIzMEVvUlZrYkhCemI3ZHJiYTNCaThObTM4U0Q1YQ?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-ea15e4ce0425",
-      "date": "2026-09-28",
-      "dateISO": "Mon, 28 Sep 2026 00:37:29 GMT",
-      "ts": 1790555849000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "英国一空军基地多名男子被捕 涉嫌违反《爆炸物法》 - 中华军事",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iSi1SQ3hwb0xEM2dRWG14ZHZWLVRGTWRNVW8tWlJWRkZiWVg0cU9hVFR2bGVFVHVzdmRUVWQ3MHFtUEFGc3lib0p6cGk0WnZRWE9YU1kzR2hxdFVZcnljUENLOUlLazYyb3l6aFk5U3Q?oc=5",
-      "site": "中华军事",
-      "siteUrl": "https://military.china.com"
     }
   ]
 }
