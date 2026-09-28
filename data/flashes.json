@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T19:36:40.504Z",
+  "updated": "2026-09-28T19:48:18.765Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -87,15 +87,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-435013707dbb",
+      "id": "FL-f4f7ceda2939",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 21:06:34 GMT",
       "ts": 1790456794000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典老城区爆炸事故致6死3伤 - 东方财富",
+      "title": "雅典老城区爆炸事故致6死3伤 - finance.eastmoney.com",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xTGZlLXJTZlVuMEx6c1BjOFNNcWxlQ25OUW5JdFh5TTh0S0tMZHVGa09ZT3AxZnZ6cGFPT0dRdUZlTHFfaC1IVTRHckdIR2ZvTXNpdlFJUnFZc29PdFBJMGZjMXJjUQ?oc=5",
-      "site": "东方财富",
+      "site": "finance.eastmoney.com",
       "siteUrl": "https://finance.eastmoney.com"
     },
     {
@@ -111,15 +111,15 @@
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
-      "id": "FL-53093e91fe3a",
+      "id": "FL-4fcd67df38a6",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 12:25:51 GMT",
       "ts": 1790425551000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 搜狐网",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUU9ESGJKMW5sendsVU4zOUFWYXhBSlFXdVFQUXZ5RVZqQzhlTTRFSlpsSmdWeFRXSHlJakg3ckQtVElSSGZtYkhDM3JMUXVmVTZMX09CeFRhTlVNZ3c0MFNXQXM2LWVpMURDNjU3cXZ6Y01wWHQxRTNIZDhfWEsyUVNJb21URjZKZkJVMElGZ0xueENOU2Jyd0ZNaHk1akVU?oc=5",
-      "site": "搜狐网",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -133,6 +133,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlemFCa3lteDlkZERLTXRLMHhpeTIzNmFqanFBczVPaFNjQjVxOHNJNm54Tkhua1FqOGtuaUhBLWdRSWxXaFRoZThQZXJqclRIV1pUaTNhcjhHU0dwRzA1WXNQc2ZOVEhXX0Z1NUVBcnBUalJRWkE3ZlE0S3NOaXM?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-a1aa890f2994",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 11:24:30 GMT",
+      "ts": 1790421870000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "大师赛网红爆炸头来苏河湾啦！更多萌趣周边尽在福新面粉厂快闪空间→_上观新闻 - 上观新闻",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nNHRBTUh0MlBtVVNzNXZ3bFdHMzhENjc4cFd5dGxrQnFCU0ZuSC1LLWFKN0tES0JfTm54YVduaFl6YS1BN2dqZVFfbm9Zbzk0Z29LM2EzTTc?oc=5",
+      "site": "上观新闻",
+      "siteUrl": "https://www.jfdaily.com"
     },
     {
       "id": "FL-e6da002b8732",
@@ -183,15 +195,15 @@
       "siteUrl": "https://www.kcra.com"
     },
     {
-      "id": "FL-ee7ee3979dc4",
+      "id": "FL-9f28339b51e4",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 16:42:00 GMT",
       "ts": 1790613720000,
       "scope": "dom",
       "type": "blast",
-      "title": "美頂尖AI人員：AI自動化或釀智能爆炸 籲監管 - 大纪元",
+      "title": "美頂尖AI人員：AI自動化或釀智能爆炸 籲監管 - epochtimes.com",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5heE94TmVucm9tcDA2ZFctLWhhcWJDc2FMSTBzU3luY1hEM2VaY3BJckd6TW9wdndzZjJUQlBuRFlvUHA4bVEwbkxWRmRBcTJoeEh0aWJvcC1ESTBjRmZiNtIBZkFVX3lxTFBXdmFrUk5RS1lZQ0NKVnY0OUNXeTJycGZhUUV3WXltSW5pVFFMd2NfT1Z4Qk91YjJZUDVWTEtHQ29JcW5JeTc1aUtSZG5ISl9JWUZtRGpzbWJodEY0NFBtM1lnUVZVZw?oc=5",
-      "site": "大纪元",
+      "site": "epochtimes.com",
       "siteUrl": "https://www.epochtimes.com"
     },
     {
@@ -303,15 +315,15 @@
       "siteUrl": "https://gd.sina.cn"
     },
     {
-      "id": "FL-fd8a0e3a0896",
+      "id": "FL-02082b440a53",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 07:18:37 GMT",
       "ts": 1790579917000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典一栋建筑突发爆炸致6死，包括4名美国游客，美国大使表示哀悼 - 搜狐网",
+      "title": "雅典一栋建筑突发爆炸致6死，包括4名美国游客，美国大使表示哀悼 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbzYtVHg2bjFNcmVXbl9hTzRqMVkzZ1Z2cGpmTHJYZGVhZUg4TG4yc3B5NTg2ZHJxN1ZYa3FFczYyNFpBTDRxRjVVTThRSl9Takd6M1VIeGhtWm5ocFFfellkci1lcUxHYi1yZDN6WGlOVTZJTm9HMXdlNTVPY3pUdkctbERnd0k5?oc=5",
-      "site": "搜狐网",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -339,15 +351,15 @@
       "siteUrl": "https://www.jpchinapress.com"
     },
     {
-      "id": "FL-2148ba2f4bb2",
+      "id": "FL-689700f72361",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 05:20:00 GMT",
       "ts": 1790572800000,
       "scope": "intl",
       "type": "blast",
-      "title": "驻英美军基地遭爆炸威胁：英国农妇凌晨1点看到蒙面人后报警，特朗普发声 - 搜狐网",
+      "title": "驻英美军基地遭爆炸威胁：英国农妇凌晨1点看到蒙面人后报警，特朗普发声 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWGxaelpJc3BKdkFvbEc0SHdwMDVNQjYtcWlXWmZrSTU4d2NSQWlmZWNHcHFnT3lkVFBQbDU2WEhOSmJoUkJMcDBhTEVmY2JndnFlVld5MV9NTlAwLWVBeDE1VTNFZXVuTTdMd2pscjIzMEVvUlZrYkhCemI3ZHJiYTNCaThObTM4U0Q1YQ?oc=5",
-      "site": "搜狐网",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
