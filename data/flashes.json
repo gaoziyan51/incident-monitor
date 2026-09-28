@@ -1,17 +1,17 @@
 {
-  "updated": "2026-09-28T17:20:28.039Z",
+  "updated": "2026-09-28T17:36:00.474Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-52720b98ede5",
+      "id": "FL-385dd58b908a",
       "date": "2026-08-11",
       "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
       "ts": 1786431600000,
       "scope": "dom",
       "type": "blast",
-      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - science.caixin.com",
+      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - 财新",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fOUNOVy1jMjYtRHRacDFONmZLdmtlUTBvcjVNX0xwMG9rc2lwYkV4ZzRCOFVIVmdNLXdZcUo3Mkw1UnI3elZsRjNGblI4YTBsMGxPeHJCRnZSNWE0dXNTdXRxcUQ?oc=5",
-      "site": "science.caixin.com",
+      "site": "财新",
       "siteUrl": "https://science.caixin.com"
     },
     {
@@ -99,15 +99,15 @@
       "siteUrl": "https://finance.eastmoney.com"
     },
     {
-      "id": "FL-008d86b164a4",
+      "id": "FL-8497727bdbdb",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 15:30:00 GMT",
       "ts": 1790436600000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典发生爆炸，1名女游客遇难，5人失踪，事发卫城脚下，靠近奥林匹亚宙斯神庙 - 川观新闻",
+      "title": "雅典发生爆炸，1名女游客遇难，5人失踪，事发卫城脚下，靠近奥林匹亚宙斯神庙 - cbgc.scol.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wT2VkbnNVQzB1dlFrSUpwQU5VbElha1Fyc3h0LVI1WFBMSldqQkRfMWkyeV94b1pPS0w5eFQtT1NxQjdRSkRkbm5yUE5iZw?oc=5",
-      "site": "川观新闻",
+      "site": "cbgc.scol.com.cn",
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
@@ -159,6 +159,18 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
+      "id": "FL-98f9978f99b0",
+      "date": "2026-09-28",
+      "dateISO": "Mon, 28 Sep 2026 17:28:00 GMT",
+      "ts": 1790616480000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Fireworks bill authored after Esparto explosion signed into law - KCRA",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR2NtcXljYWFtTTh3dVJENlVUbkZpX2VGekZYeWUyYnZtb1FGRk9rRW1HU0hnZUEwQm5TQjNLQ0RoSzgzcjg1TkhfZG8tT0EtbUwwdXdBSHBtSkRwUDJ0RVc2amVCQU1hSUctbGhFWXNaU1p5YzRiRjdlQW9YMElEZmE3cTVRZ3YtWTZCMTRSR1hBRmNSQzMtLXg5TlpHWFlodTNJ?oc=5",
+      "site": "KCRA",
+      "siteUrl": "https://www.kcra.com"
+    },
+    {
       "id": "FL-ee7ee3979dc4",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 16:42:00 GMT",
@@ -195,16 +207,28 @@
       "siteUrl": "https://www.theguardian.com"
     },
     {
-      "id": "FL-69ba76829f1c",
+      "id": "FL-294ec902d0e5",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 15:07:00 GMT",
       "ts": 1790608020000,
       "scope": "intl",
       "type": "blast",
-      "title": "‘Undetermined’: Cause of deadly Rainbow Terrace explosion remains a mystery, report reveals post-blast failures - cleveland19.com",
+      "title": "‘Undetermined’: Cause of deadly Rainbow Terrace explosion remains a mystery, report reveals post-blast failures - Cleveland 19 News",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRkxrSXN6LTNHYm82RHZXS0hVMkFlYjJJckVTRE1mWDUwcEF6UDNXR3daWkY2MWN5NEo1ZUpsVWdHdlBaall3bzhJc2ZsTWRTMUg1eWJMelF6d3NqZUhxT3R1SVBXU3FmMmpOQXdIZGRMRGdLNXlzY2JUdndIenNGMnRvSngtX0c0MENYQkF2RnQ3ekxRZFY1Tm55TFI4VFhheWRiRTBncEZRMnZmQXpra0RCUUVWaWYzajhhSkVXVUphc0tsV3UzbGM2clV2dHhPczI0Z2t6bGt5dw?oc=5",
-      "site": "cleveland19.com",
+      "site": "Cleveland 19 News",
       "siteUrl": "https://www.cleveland19.com"
+    },
+    {
+      "id": "FL-f008efcfcec6",
+      "date": "2026-09-28",
+      "dateISO": "Mon, 28 Sep 2026 14:41:42 GMT",
+      "ts": 1790606502000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "What If Automating AI R&D Triggers an Intelligence Explosion? - The Foundation for American Innovation",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVdrUHY4bW4tUUMtT1Rack5BelM4aUl0M0FxWlREaUFSazRHQ25rZm5GTVRwVV9nT25GbjhFb2VCU1RFUnpYTHFEbkctdGc0al83SFFjLW9MaGJvUjFVekdNWlhYcDVGV3dibFZNMGRVQ0pxSUJ2dkl0anZ2a05MdjVvemtlMFdXSWpjQWhIYVByb0xTeVdWeQ?oc=5",
+      "site": "The Foundation for American Innovation",
+      "siteUrl": "https://www.thefai.org"
     },
     {
       "id": "FL-c74e9dd9f771",
@@ -231,15 +255,15 @@
       "siteUrl": "https://cn.yna.co.kr"
     },
     {
-      "id": "FL-2606b5dc4ab6",
+      "id": "FL-9e8b5bc11fcb",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 10:58:20 GMT",
       "ts": 1790593100000,
       "scope": "dom",
       "type": "blast",
-      "title": "韓軍前線部隊爆炸事故現場 傳發現未爆地雷 - 新唐人電視台",
+      "title": "韓軍前線部隊爆炸事故現場 傳發現未爆地雷 - ntdtv.com",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TTGhfbXdOaEh1eGJLVlVjWVdHaHAtWGlnMkJlcm5WUlNPUDVOUldXSEdvM2FkaEVtbzEydmNtQmF6MmtOblRuV3FZQ0hQaDZ6Mlk1RGV5TUlRdEwzWXZtS9IBZkFVX3lxTFBST0YxcllSdUNYX1lJT25MM2h1czBFNVNCNnI2d09jMU50cmhoYlRMLV9RLVRPOE1tYllIekdPTTNYUDRkVVBxZVFXU3pfS0o2M2lSVFFsdkhudWRCWWMzLVRjN255Zw?oc=5",
-      "site": "新唐人電視台",
+      "site": "ntdtv.com",
       "siteUrl": "https://www.ntdtv.com"
     },
     {
