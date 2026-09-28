@@ -1,17 +1,17 @@
 {
-  "updated": "2026-09-28T18:07:09.232Z",
+  "updated": "2026-09-28T18:24:59.508Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-52720b98ede5",
+      "id": "FL-385dd58b908a",
       "date": "2026-08-11",
       "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
       "ts": 1786431600000,
       "scope": "dom",
       "type": "blast",
-      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - science.caixin.com",
+      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - 财新",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fOUNOVy1jMjYtRHRacDFONmZLdmtlUTBvcjVNX0xwMG9rc2lwYkV4ZzRCOFVIVmdNLXdZcUo3Mkw1UnI3elZsRjNGblI4YTBsMGxPeHJCRnZSNWE0dXNTdXRxcUQ?oc=5",
-      "site": "science.caixin.com",
+      "site": "财新",
       "siteUrl": "https://science.caixin.com"
     },
     {
@@ -111,15 +111,15 @@
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
-      "id": "FL-53093e91fe3a",
+      "id": "FL-4fcd67df38a6",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 12:25:51 GMT",
       "ts": 1790425551000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 搜狐网",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUU9ESGJKMW5sendsVU4zOUFWYXhBSlFXdVFQUXZ5RVZqQzhlTTRFSlpsSmdWeFRXSHlJakg3ckQtVElSSGZtYkhDM3JMUXVmVTZMX09CeFRhTlVNZ3c0MFNXQXM2LWVpMURDNjU3cXZ6Y01wWHQxRTNIZDhfWEsyUVNJb21URjZKZkJVMElGZ0xueENOU2Jyd0ZNaHk1akVU?oc=5",
-      "site": "搜狐网",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -159,6 +159,18 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
+      "id": "FL-0e2bdd952f52",
+      "date": "2026-09-28",
+      "dateISO": "Mon, 28 Sep 2026 18:02:00 GMT",
+      "ts": 1790618520000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "AI godfathers warn of runaway ‘intelligence explosion’ - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMFNkQmpvTmdlZER6dDF6NXlNZ2x2WnpicUlHeDBvRjNRUzlaZy01OUI5Sm91YV9DRUh0Qmk4TzNwTTQ1alBveEdGOHNHcy0wa1pqR0lsZVR2dUxoQ3R1V1FnZTJuZG9MS1d3OWs3eTgxb0ZmUl96dGNiWkhzMk1wN3oyV0xFYjVrdGtIQ1Vzb0l0SWdBWlZEalo3WmxNbVpxNjJoX1dR?oc=5",
+      "site": "The Guardian",
+      "siteUrl": "https://www.theguardian.com"
+    },
+    {
       "id": "FL-98f9978f99b0",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 17:28:00 GMT",
@@ -195,18 +207,6 @@
       "siteUrl": "https://www.jpchinapress.com"
     },
     {
-      "id": "FL-0e2bdd952f52",
-      "date": "2026-09-28",
-      "dateISO": "Mon, 28 Sep 2026 15:25:00 GMT",
-      "ts": 1790609100000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "AI godfathers warn of runaway ‘intelligence explosion’ - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMFNkQmpvTmdlZER6dDF6NXlNZ2x2WnpicUlHeDBvRjNRUzlaZy01OUI5Sm91YV9DRUh0Qmk4TzNwTTQ1alBveEdGOHNHcy0wa1pqR0lsZVR2dUxoQ3R1V1FnZTJuZG9MS1d3OWs3eTgxb0ZmUl96dGNiWkhzMk1wN3oyV0xFYjVrdGtIQ1Vzb0l0SWdBWlZEalo3WmxNbVpxNjJoX1dR?oc=5",
-      "site": "The Guardian",
-      "siteUrl": "https://www.theguardian.com"
-    },
-    {
       "id": "FL-294ec902d0e5",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 15:07:00 GMT",
@@ -217,18 +217,6 @@
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRkxrSXN6LTNHYm82RHZXS0hVMkFlYjJJckVTRE1mWDUwcEF6UDNXR3daWkY2MWN5NEo1ZUpsVWdHdlBaall3bzhJc2ZsTWRTMUg1eWJMelF6d3NqZUhxT3R1SVBXU3FmMmpOQXdIZGRMRGdLNXlzY2JUdndIenNGMnRvSngtX0c0MENYQkF2RnQ3ekxRZFY1Tm55TFI4VFhheWRiRTBncEZRMnZmQXpra0RCUUVWaWYzajhhSkVXVUphc0tsV3UzbGM2clV2dHhPczI0Z2t6bGt5dw?oc=5",
       "site": "Cleveland 19 News",
       "siteUrl": "https://www.cleveland19.com"
-    },
-    {
-      "id": "FL-f008efcfcec6",
-      "date": "2026-09-28",
-      "dateISO": "Mon, 28 Sep 2026 14:41:42 GMT",
-      "ts": 1790606502000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "What If Automating AI R&D Triggers an Intelligence Explosion? - The Foundation for American Innovation",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVdrUHY4bW4tUUMtT1Rack5BelM4aUl0M0FxWlREaUFSazRHQ25rZm5GTVRwVV9nT25GbjhFb2VCU1RFUnpYTHFEbkctdGc0al83SFFjLW9MaGJvUjFVekdNWlhYcDVGV3dibFZNMGRVQ0pxSUJ2dkl0anZ2a05MdjVvemtlMFdXSWpjQWhIYVByb0xTeVdWeQ?oc=5",
-      "site": "The Foundation for American Innovation",
-      "siteUrl": "https://www.thefai.org"
     },
     {
       "id": "FL-c74e9dd9f771",
@@ -315,15 +303,15 @@
       "siteUrl": "https://gd.sina.cn"
     },
     {
-      "id": "FL-fd8a0e3a0896",
+      "id": "FL-02082b440a53",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 07:18:37 GMT",
       "ts": 1790579917000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典一栋建筑突发爆炸致6死，包括4名美国游客，美国大使表示哀悼 - 搜狐网",
+      "title": "雅典一栋建筑突发爆炸致6死，包括4名美国游客，美国大使表示哀悼 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbzYtVHg2bjFNcmVXbl9hTzRqMVkzZ1Z2cGpmTHJYZGVhZUg4TG4yc3B5NTg2ZHJxN1ZYa3FFczYyNFpBTDRxRjVVTThRSl9Takd6M1VIeGhtWm5ocFFfellkci1lcUxHYi1yZDN6WGlOVTZJTm9HMXdlNTVPY3pUdkctbERnd0k5?oc=5",
-      "site": "搜狐网",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -363,15 +351,15 @@
       "siteUrl": "https://www.jpchinapress.com"
     },
     {
-      "id": "FL-2148ba2f4bb2",
+      "id": "FL-689700f72361",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 05:20:00 GMT",
       "ts": 1790572800000,
       "scope": "intl",
       "type": "blast",
-      "title": "驻英美军基地遭爆炸威胁：英国农妇凌晨1点看到蒙面人后报警，特朗普发声 - 搜狐网",
+      "title": "驻英美军基地遭爆炸威胁：英国农妇凌晨1点看到蒙面人后报警，特朗普发声 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWGxaelpJc3BKdkFvbEc0SHdwMDVNQjYtcWlXWmZrSTU4d2NSQWlmZWNHcHFnT3lkVFBQbDU2WEhOSmJoUkJMcDBhTEVmY2JndnFlVld5MV9NTlAwLWVBeDE1VTNFZXVuTTdMd2pscjIzMEVvUlZrYkhCemI3ZHJiYTNCaThObTM4U0Q1YQ?oc=5",
-      "site": "搜狐网",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     }
   ]
