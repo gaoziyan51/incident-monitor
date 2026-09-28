@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T02:02:04.835Z",
+  "updated": "2026-09-28T02:20:13.538Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -85,18 +85,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4LW1wUmJYc3BmX085dXpLRnA2VDBJM2ZUSm01cUVYWWRIN2dVcHB3UFdwQjg4QXE0VU5ST2w1WXV0dWg4NDJMNEhmRTdaQXhwMDhSaDJLOHhlSGpLQnhaS20zYy11YUx4VzlrOHhxVHA?oc=5",
       "site": "美国中文网",
       "siteUrl": "https://www.sinovision.net"
-    },
-    {
-      "id": "FL-cd3343f76e81",
-      "date": "2026-09-27",
-      "dateISO": "Sun, 27 Sep 2026 19:46:00 GMT",
-      "ts": 1790538360000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Son rescues father after accidental propane explosion at Limington home - WABI",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLWxvWVVONHpQVVlZNVl0dktnREphQUtoQ2VYMmlmUlRiSi1HazhEUm04SndVVVFvZnRsQWt5NUVxb0I3dzZMeU1jdGpqcDhvTDRFc3ZkV3JseXBzLTZvWEhQcHJvSlVUVmpXQl9mdGstVUsxTVdCV0ItWFpOd3JxUjVSakNQaTNGeWRvSC14MTBzY3VoOVc2U3o3VkNPQWxRc2fSAbYBQVVfeXFMT3Q4MGpDQW5lUVlnUXowWjR3NklOT1p2ak4yQ0JHdnI5SDNaSHNSdEpjMlhLTDdEeThmYkMzNVFqSTVqcmM5ZUhVanNVWDNnNUVwLTdwRTV3M0cyaWJGMDIzYTc1Umdmb0ZrYUxESjRPWGNKSXgxWkJLOU8zN0xxNXRaVUFBS2pwc3dXTDBTanNJaGFJNlVydU4yWGtWVmROOHE2YlVHVG1RWGd3azY5RHdNLXVJTHc?oc=5",
-      "site": "WABI",
-      "siteUrl": "https://www.wabi.tv"
     },
     {
       "id": "FL-48f38ef98160",
@@ -205,6 +193,18 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbmJkTThWNEtSYmtOU0EwWXV1UndwSHRIaXBHRnZuNk1vdHV5Qi16N1BoTnkzbTg2N1JzbURuc2l0OVJYeUd5THNQdFcyYnUwamdUOWNFZVY2S2hSeW94UEV2QzBZcXRmSWQyTWV6ZmFkT1NMWElyUUwtUlhaWkp1cWIyQjRGZ1pzQjU3TkV0QQ?oc=5",
       "site": "21jingji.com",
       "siteUrl": "https://www.21jingji.com"
+    },
+    {
+      "id": "FL-6cab74c0b8af",
+      "date": "2026-09-27",
+      "dateISO": "Sun, 27 Sep 2026 08:22:00 GMT",
+      "ts": 1790497320000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "湾区之光杂技大秀燃爆宝安，今日持续上演 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85U1VjcEVVUk83RVJRdy1walMxZ0hXcHU5a0txemp1UWd1TmJqbjFONXdoLWVfeXFmdFRwTGpKYVEwU1dyQ2h2bzloN1BlOG10RXB4dUpWWEY2ZS1qeEFvczVmMkh0S3Q1N2NrcGlzYnhfX2tpaXdFcg?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-0c8a5ed83213",
@@ -409,6 +409,18 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa21SSnpRaWdxQy1GYVBmWi1LQ3VzQ0xwZUwzTE9rSVRuLXhac2xTZl9wYlB5c2RoQkRYY1pfbDRZWmF3RFdFZXg4M3NSZ0s0alQ2XzRtUFI0SjR2R2FidlRXZ3pOckwtM20zaFNtR0h4bjFBdTdsZW9yeEpoampleUFNajd4NDVaUElBYTgxUG5vQzRoWjFIcGhn?oc=5",
       "site": "新华网客户端",
       "siteUrl": "https://app.xinhuanet.com"
+    },
+    {
+      "id": "FL-73d2a5cc3534",
+      "date": "2026-09-28",
+      "dateISO": "Mon, 28 Sep 2026 02:07:34 GMT",
+      "ts": 1790561254000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "爆炸现场的士兵们称“看到了朝鲜的木盒地雷” - 朝鮮日報中文版",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWGUxam9VOHVsakQ4akQwYWd2bjdNVW42a0hBOEhnLU5lMlFfSG1RZ2F3T183QjRNcU1SQ0trdWhtdGlwbXRwMTBhdUUzUXk1WEtfSTd3NmxybnhyZGZab0RxNkRKUW8wbGRIZFJqOVp5dEd6UVVYN0Q4Rlc5VVFVdUdKdVRRekJzWGpGSGJaTlNSZw?oc=5",
+      "site": "朝鮮日報中文版",
+      "siteUrl": "https://cnnews.chosun.com"
     },
     {
       "id": "FL-1b4e6e9c49b5",
