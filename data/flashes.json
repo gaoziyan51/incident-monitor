@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T10:57:30.963Z",
+  "updated": "2026-09-28T11:06:56.670Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,15 +15,15 @@
       "siteUrl": "https://science.caixin.com"
     },
     {
-      "id": "FL-d2803d2cff60",
+      "id": "FL-f1c86563e0e4",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 17:10:36 GMT",
       "ts": 1790529036000,
       "scope": "intl",
       "type": "blast",
-      "title": "英国疏散美军所用基地附近居民 多人涉爆炸物被捕 - news.cctv.com",
+      "title": "英国疏散美军所用基地附近居民 多人涉爆炸物被捕 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91MjNOYzJjSVZaVUpOZjQ3OGwtYnBaNUZNZi1BTUg0LXlDcjhueElmdjlqWTI1cF83YkdPdjVEUmo3a1FKSXVPTVhpNkVaVF8wNk5GbkJsVG1kQjAzRUtMWEpJMmgxMzNQcTl5bmRadTc4R2xuUVJEWA?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -111,15 +111,15 @@
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
-      "id": "FL-53093e91fe3a",
+      "id": "FL-4fcd67df38a6",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 12:25:51 GMT",
       "ts": 1790425551000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 搜狐网",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUU9ESGJKMW5sendsVU4zOUFWYXhBSlFXdVFQUXZ5RVZqQzhlTTRFSlpsSmdWeFRXSHlJakg3ckQtVElSSGZtYkhDM3JMUXVmVTZMX09CeFRhTlVNZ3c0MFNXQXM2LWVpMURDNjU3cXZ6Y01wWHQxRTNIZDhfWEsyUVNJb21URjZKZkJVMElGZ0xueENOU2Jyd0ZNaHk1akVU?oc=5",
-      "site": "搜狐网",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -183,16 +183,28 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-4a0c9f7614db",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 05:42:40 GMT",
-      "ts": 1790401360000,
+      "id": "FL-161fe60a65e4",
+      "date": "2026-09-28",
+      "dateISO": "Mon, 28 Sep 2026 11:01:23 GMT",
+      "ts": 1790593283000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Transformer Explosion Sparks Basement Fire As Family And Pets Escape Ho Ho Kus Home - newjersey.news12.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcG1XN2daOEt4NlhwTTBaWlFiS0cyMG0yY0Fpd3o4cXQtc0lOeFhieVFsNko1YzM2bk93VkNiOC1wRXdqaTI4endWWVh2VzRreVB6bGhfclR4SUpPRkdiVUNLdW85RE9wWHJvTXE1clZSWDJ1M2s3QmtQMTlWRWE5Q0RzVGFmcjdCNU1XeXA3dDdiZ0t1cms4NElhUklObjVQSkV1MnFIZVJxaC00U19xaGVn?oc=5",
+      "site": "newjersey.news12.com",
+      "siteUrl": "https://newjersey.news12.com"
+    },
+    {
+      "id": "FL-2606b5dc4ab6",
+      "date": "2026-09-28",
+      "dateISO": "Mon, 28 Sep 2026 10:58:20 GMT",
+      "ts": 1790593100000,
       "scope": "dom",
       "type": "blast",
-      "title": "中秋夜40623名球迷燃爆鞍山奥体，为“辽超”呐喊 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91NDU3YTViSFlJLV9oWFg2dW9BaU4ybkZyTEZzUHE2US1IbHpHd2ZXY1hSMUxtMXNpSzZBY3hjRG5PbWdSenE4eFRZZ3ktZVo5djdLNkxYX2F5eDhVVjdteU1yM1hFb1U5MDE2anZ3?oc=5",
-      "site": "央广网",
-      "siteUrl": "https://www.cnr.cn"
+      "title": "韓軍前線部隊爆炸事故現場 傳發現未爆地雷 - 新唐人電視台",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TTGhfbXdOaEh1eGJLVlVjWVdHaHAtWGlnMkJlcm5WUlNPUDVOUldXSEdvM2FkaEVtbzEydmNtQmF6MmtOblRuV3FZQ0hQaDZ6Mlk1RGV5TUlRdEwzWXZtS9IBZkFVX3lxTFBST0YxcllSdUNYX1lJT25MM2h1czBFNVNCNnI2d09jMU50cmhoYlRMLV9RLVRPOE1tYllIekdPTTNYUDRkVVBxZVFXU3pfS0o2M2lSVFFsdkhudWRCWWMzLVRjN255Zw?oc=5",
+      "site": "新唐人電視台",
+      "siteUrl": "https://www.ntdtv.com"
     },
     {
       "id": "FL-310a69e4bcc7",
@@ -255,15 +267,15 @@
       "siteUrl": "https://gd.sina.cn"
     },
     {
-      "id": "FL-fd8a0e3a0896",
+      "id": "FL-02082b440a53",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 07:18:37 GMT",
       "ts": 1790579917000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典一栋建筑突发爆炸致6死，包括4名美国游客，美国大使表示哀悼 - 搜狐网",
+      "title": "雅典一栋建筑突发爆炸致6死，包括4名美国游客，美国大使表示哀悼 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbzYtVHg2bjFNcmVXbl9hTzRqMVkzZ1Z2cGpmTHJYZGVhZUg4TG4yc3B5NTg2ZHJxN1ZYa3FFczYyNFpBTDRxRjVVTThRSl9Takd6M1VIeGhtWm5ocFFfellkci1lcUxHYi1yZDN6WGlOVTZJTm9HMXdlNTVPY3pUdkctbERnd0k5?oc=5",
-      "site": "搜狐网",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -291,15 +303,15 @@
       "siteUrl": "https://www.jpchinapress.com"
     },
     {
-      "id": "FL-2148ba2f4bb2",
+      "id": "FL-689700f72361",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 05:20:57 GMT",
       "ts": 1790572857000,
       "scope": "intl",
       "type": "blast",
-      "title": "驻英美军基地遭爆炸威胁：英国农妇凌晨1点看到蒙面人后报警，特朗普发声 - 搜狐网",
+      "title": "驻英美军基地遭爆炸威胁：英国农妇凌晨1点看到蒙面人后报警，特朗普发声 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQUo5Z0pYQjM0Y3Raa0NJbW9EWE1oaU56UmdJUERPUHZWRG1WTmZNT0pJcW8tN0ktRUczS1RfRlcyTzQya2JRdzZYZmxkWk1wNWR1WktQM0YzUkR1ZW5jZk5WMEF3X25KdkkzZUwzcW1xMjJhLWl1dVFUOTRKQWoxMkpPS2NiT3Z2?oc=5",
-      "site": "搜狐网",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -315,28 +327,16 @@
       "siteUrl": "https://www.sina.cn"
     },
     {
-      "id": "FL-b189ca519f45",
+      "id": "FL-73d2a5cc3534",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 02:06:39 GMT",
       "ts": 1790561199000,
       "scope": "intl",
       "type": "blast",
-      "title": "爆炸现场的士兵们称“看到了朝鲜的木盒地雷” - cnnews.chosun.com",
+      "title": "爆炸现场的士兵们称“看到了朝鲜的木盒地雷” - 朝鮮日報中文版",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWGUxam9VOHVsakQ4akQwYWd2bjdNVW42a0hBOEhnLU5lMlFfSG1RZ2F3T183QjRNcU1SQ0trdWhtdGlwbXRwMTBhdUUzUXk1WEtfSTd3NmxybnhyZGZab0RxNkRKUW8wbGRIZFJqOVp5dEd6UVVYN0Q4Rlc5VVFVdUdKdVRRekJzWGpGSGJaTlNSZw?oc=5",
-      "site": "cnnews.chosun.com",
+      "site": "朝鮮日報中文版",
       "siteUrl": "https://cnnews.chosun.com"
-    },
-    {
-      "id": "FL-1b4e6e9c49b5",
-      "date": "2026-09-28",
-      "dateISO": "Mon, 28 Sep 2026 01:24:39 GMT",
-      "ts": 1790558679000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "美军在英空军基地发生重大事件，数名男子被捕 涉嫌违反《爆炸物法》 - 中华军事",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LeE9PZEo2UDdldzdCdXdwcTlQcXlfZXJ2MDBISkU5RVA1NkkteU1DRERkRi1STDJ2SVQ1UEQ2akVCU0JuUXI2aHlDQmYxWm52TEh6NTVFY1J1a3YwMjlOYll4SS1ON29NTExaNzQwdjg?oc=5",
-      "site": "中华军事",
-      "siteUrl": "https://military.china.com"
     },
     {
       "id": "FL-ea15e4ce0425",
