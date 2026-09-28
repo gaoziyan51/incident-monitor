@@ -1,17 +1,17 @@
 {
-  "updated": "2026-09-28T18:24:59.508Z",
+  "updated": "2026-09-28T18:40:48.041Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-385dd58b908a",
+      "id": "FL-52720b98ede5",
       "date": "2026-08-11",
       "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
       "ts": 1786431600000,
       "scope": "dom",
       "type": "blast",
-      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - 财新",
+      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - science.caixin.com",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fOUNOVy1jMjYtRHRacDFONmZLdmtlUTBvcjVNX0xwMG9rc2lwYkV4ZzRCOFVIVmdNLXdZcUo3Mkw1UnI3elZsRjNGblI4YTBsMGxPeHJCRnZSNWE0dXNTdXRxcUQ?oc=5",
-      "site": "财新",
+      "site": "science.caixin.com",
       "siteUrl": "https://science.caixin.com"
     },
     {
@@ -111,15 +111,15 @@
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
-      "id": "FL-4fcd67df38a6",
+      "id": "FL-53093e91fe3a",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 12:25:51 GMT",
       "ts": 1790425551000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - sohu.com",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 搜狐网",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUU9ESGJKMW5sendsVU4zOUFWYXhBSlFXdVFQUXZ5RVZqQzhlTTRFSlpsSmdWeFRXSHlJakg3ckQtVElSSGZtYkhDM3JMUXVmVTZMX09CeFRhTlVNZ3c0MFNXQXM2LWVpMURDNjU3cXZ6Y01wWHQxRTNIZDhfWEsyUVNJb21URjZKZkJVMElGZ0xueENOU2Jyd0ZNaHk1akVU?oc=5",
-      "site": "sohu.com",
+      "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -159,15 +159,15 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-0e2bdd952f52",
+      "id": "FL-b94029012048",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 18:02:00 GMT",
       "ts": 1790618520000,
       "scope": "intl",
       "type": "blast",
-      "title": "AI godfathers warn of runaway ‘intelligence explosion’ - The Guardian",
+      "title": "AI godfathers warn of runaway ‘intelligence explosion’ - theguardian.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMFNkQmpvTmdlZER6dDF6NXlNZ2x2WnpicUlHeDBvRjNRUzlaZy01OUI5Sm91YV9DRUh0Qmk4TzNwTTQ1alBveEdGOHNHcy0wa1pqR0lsZVR2dUxoQ3R1V1FnZTJuZG9MS1d3OWs3eTgxb0ZmUl96dGNiWkhzMk1wN3oyV0xFYjVrdGtIQ1Vzb0l0SWdBWlZEalo3WmxNbVpxNjJoX1dR?oc=5",
-      "site": "The Guardian",
+      "site": "theguardian.com",
       "siteUrl": "https://www.theguardian.com"
     },
     {
@@ -267,15 +267,15 @@
       "siteUrl": "https://mil.news.sina.com.cn"
     },
     {
-      "id": "FL-4d543f75f553",
+      "id": "FL-9dd1f9c3087b",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 08:39:00 GMT",
       "ts": 1790584740000,
       "scope": "intl",
       "type": "blast",
-      "title": "韩国将非军事区爆炸与朝鲜地雷联系起来——《韩国先驱报》 - UA.NEWS",
+      "title": "韩国将非军事区爆炸与朝鲜地雷联系起来——《韩国先驱报》 - ua.news",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ3VoZk9qTDFCTHRZbkFoU2Rvdkk2cjdncGktdjlYUHdoOFBHcGpCaFB0RndUZGZmRnhoNDBpTUxxbDB3QzI1b3N3c2xLT2ZpWHlMSmVVVU10RmRQRzY1ckpCaERPOWlHSnh0YlNtMWJfQVVBSWNNVWFHc2JEOFVZMkI5azR4c0FkQmxwbldLd3NNLThHOVVwTmt4cw?oc=5",
-      "site": "UA.NEWS",
+      "site": "ua.news",
       "siteUrl": "https://ua.news"
     },
     {
@@ -303,28 +303,16 @@
       "siteUrl": "https://gd.sina.cn"
     },
     {
-      "id": "FL-02082b440a53",
+      "id": "FL-fd8a0e3a0896",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 07:18:37 GMT",
       "ts": 1790579917000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典一栋建筑突发爆炸致6死，包括4名美国游客，美国大使表示哀悼 - sohu.com",
+      "title": "雅典一栋建筑突发爆炸致6死，包括4名美国游客，美国大使表示哀悼 - 搜狐网",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbzYtVHg2bjFNcmVXbl9hTzRqMVkzZ1Z2cGpmTHJYZGVhZUg4TG4yc3B5NTg2ZHJxN1ZYa3FFczYyNFpBTDRxRjVVTThRSl9Takd6M1VIeGhtWm5ocFFfellkci1lcUxHYi1yZDN6WGlOVTZJTm9HMXdlNTVPY3pUdkctbERnd0k5?oc=5",
-      "site": "sohu.com",
+      "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-6885ce9b6cc7",
-      "date": "2026-09-28",
-      "dateISO": "Mon, 28 Sep 2026 06:20:04 GMT",
-      "ts": 1790576404000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "两韩非军事区疑地雷爆炸3人受伤 联合小组现场勘查 - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPUTZvcVppb1pySTZfX0lwWVJiU0VGaVF3eEk5Q1J4QlcxQ2lMZUhYVUNfbkNrcmVHQ2NPNjA0U0h6a1lMejlobVM3UGw4d0l6ZkIzU3lVSHd6dVg2Tkd5UndYQlRlcldBcDVBamFrU194ckVGV25heUVBNUlrUldWdG4tbm1RU0FHbERtWWF0T2ZNeWRwWDBlb2FHYTlVRnpxYlpNdmFxOWEyb09TUE44QkVUb0g4N1B1dk9DNlI3X3duMVFyQlFTblk3alpVZE5CN1VJOG8wVUFsY09nb1hkeWNqWWhGM1hJVjNDd2M1anA0UHVJYXA3a19uXzJhVGV0Zjl4WWJMSTNSMVlUZXExNGNzaVpIMjBnNmJxaVMwcW9EYjZWclBRRGN3X1NxREZZc0RFeHllVnNUWGVOOHQwSHdtTU9OWDVtSlMzZFhBeWFaQV9KTU5IaV9yUGZXLUR2X3BZbw?oc=5",
-      "site": "SWI swissinfo.ch",
-      "siteUrl": "https://www.swissinfo.ch"
     },
     {
       "id": "FL-04a570af7a01",
@@ -351,16 +339,28 @@
       "siteUrl": "https://www.jpchinapress.com"
     },
     {
-      "id": "FL-689700f72361",
+      "id": "FL-2148ba2f4bb2",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 05:20:00 GMT",
       "ts": 1790572800000,
       "scope": "intl",
       "type": "blast",
-      "title": "驻英美军基地遭爆炸威胁：英国农妇凌晨1点看到蒙面人后报警，特朗普发声 - sohu.com",
+      "title": "驻英美军基地遭爆炸威胁：英国农妇凌晨1点看到蒙面人后报警，特朗普发声 - 搜狐网",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWGxaelpJc3BKdkFvbEc0SHdwMDVNQjYtcWlXWmZrSTU4d2NSQWlmZWNHcHFnT3lkVFBQbDU2WEhOSmJoUkJMcDBhTEVmY2JndnFlVld5MV9NTlAwLWVBeDE1VTNFZXVuTTdMd2pscjIzMEVvUlZrYkhCemI3ZHJiYTNCaThObTM4U0Q1YQ?oc=5",
-      "site": "sohu.com",
+      "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-160d55aeb47e",
+      "date": "2026-06-22",
+      "dateISO": "Mon, 22 Jun 2026 07:00:00 GMT",
+      "ts": 1782111600000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "卡塔尔工厂爆炸已致13人死亡 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mR2pTX0YxWjBwQ2lLNC1XZjFhd3IwVEYtWkZFR3ZBU3B5RTFHR1BldmQ3OEkxN2NaWTMzYUkwWENDeEliY3dVNEloOExFS1B6SlZQTENHdWVmTWpUM042M2hRcmo4QS1qdl85cXlhZHJ3R3JGTEU4?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     }
   ]
 }
