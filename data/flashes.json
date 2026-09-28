@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T21:08:27.890Z",
+  "updated": "2026-09-28T21:22:21.870Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -87,15 +87,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-435013707dbb",
+      "id": "FL-f4f7ceda2939",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 21:06:34 GMT",
       "ts": 1790456794000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典老城区爆炸事故致6死3伤 - 东方财富",
+      "title": "雅典老城区爆炸事故致6死3伤 - finance.eastmoney.com",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xTGZlLXJTZlVuMEx6c1BjOFNNcWxlQ25OUW5JdFh5TTh0S0tMZHVGa09ZT3AxZnZ6cGFPT0dRdUZlTHFfaC1IVTRHckdIR2ZvTXNpdlFJUnFZc29PdFBJMGZjMXJjUQ?oc=5",
-      "site": "东方财富",
+      "site": "finance.eastmoney.com",
       "siteUrl": "https://finance.eastmoney.com"
     },
     {
@@ -111,15 +111,15 @@
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
-      "id": "FL-4fcd67df38a6",
+      "id": "FL-53093e91fe3a",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 12:25:51 GMT",
       "ts": 1790425551000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - sohu.com",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 搜狐网",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUU9ESGJKMW5sendsVU4zOUFWYXhBSlFXdVFQUXZ5RVZqQzhlTTRFSlpsSmdWeFRXSHlJakg3ckQtVElSSGZtYkhDM3JMUXVmVTZMX09CeFRhTlVNZ3c0MFNXQXM2LWVpMURDNjU3cXZ6Y01wWHQxRTNIZDhfWEsyUVNJb21URjZKZkJVMElGZ0xueENOU2Jyd0ZNaHk1akVU?oc=5",
-      "site": "sohu.com",
+      "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -267,6 +267,18 @@
       "siteUrl": "https://mil.news.sina.com.cn"
     },
     {
+      "id": "FL-04a570af7a01",
+      "date": "2026-09-28",
+      "dateISO": "Mon, 28 Sep 2026 09:05:00 GMT",
+      "ts": 1790586300000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "韩军前沿部队爆炸事故现场传发现未爆地雷 - 韩联社",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRcW9ZSnkyUjRVNUVNaTFvY3JwOWtibHRzZ1NkeEdqRFFTS3RWSFpvNlByZE1EcUNBWHY0TkZPeG5STWZUbFVSTk1XWFdtNmkzRFozZF9ZUGVFTWVWSGpyd1Njd2cxTHRKOVlOaXhqSjBSLU81T2c?oc=5",
+      "site": "韩联社",
+      "siteUrl": "https://cn.yna.co.kr"
+    },
+    {
       "id": "FL-a4aee5ce4c98",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 08:35:09 GMT",
@@ -291,18 +303,6 @@
       "siteUrl": "https://gd.sina.cn"
     },
     {
-      "id": "FL-04a570af7a01",
-      "date": "2026-09-28",
-      "dateISO": "Mon, 28 Sep 2026 05:53:31 GMT",
-      "ts": 1790574811000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "韩军前沿部队爆炸事故现场传发现未爆地雷 - 韩联社",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94Q2hXY2hmcXk5RVFTaTFISi1pak1SbDZBUm54V0FQNkQ5eTFnaVpydkVZdTUyYmItWnBkZ2xrNUtWMm1ydW0tRzYzRzYwazhPV2dRUFlLTlYzdw?oc=5",
-      "site": "韩联社",
-      "siteUrl": "https://cn.yna.co.kr"
-    },
-    {
       "id": "FL-74b17448503d",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 05:45:38 GMT",
@@ -315,15 +315,15 @@
       "siteUrl": "https://www.jpchinapress.com"
     },
     {
-      "id": "FL-689700f72361",
+      "id": "FL-2148ba2f4bb2",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 05:20:00 GMT",
       "ts": 1790572800000,
       "scope": "intl",
       "type": "blast",
-      "title": "驻英美军基地遭爆炸威胁：英国农妇凌晨1点看到蒙面人后报警，特朗普发声 - sohu.com",
+      "title": "驻英美军基地遭爆炸威胁：英国农妇凌晨1点看到蒙面人后报警，特朗普发声 - 搜狐网",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWGxaelpJc3BKdkFvbEc0SHdwMDVNQjYtcWlXWmZrSTU4d2NSQWlmZWNHcHFnT3lkVFBQbDU2WEhOSmJoUkJMcDBhTEVmY2JndnFlVld5MV9NTlAwLWVBeDE1VTNFZXVuTTdMd2pscjIzMEVvUlZrYkhCemI3ZHJiYTNCaThObTM4U0Q1YQ?oc=5",
-      "site": "sohu.com",
+      "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
     },
     {
