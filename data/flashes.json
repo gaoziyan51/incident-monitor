@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T09:32:32.017Z",
+  "updated": "2026-09-28T09:49:28.646Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,18 +15,6 @@
       "siteUrl": "https://science.caixin.com"
     },
     {
-      "id": "FL-382a151f8c29",
-      "date": "2026-09-27",
-      "dateISO": "Sun, 27 Sep 2026 21:51:46 GMT",
-      "ts": 1790545906000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "英国疏散美军所用基地附近居民 多人涉爆炸物被捕 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVUVGZ0tGc2xFOGpjN3pJd0NwRWk2TUc0dHAtT1dIZjF1REFhcmhGRUxYa1V2SUxMYzd1SFpteF80VmFtak9ub1BqaTFkcUZoQTJiNmlSVW1vRVU3bl82ZjlwcC1fV2wyUVdUMzhPOERHd1FvdVhMc1lKQWo3V0lER0g1WkR6RTlnV0Njem9ESDFKay1VWUYxcg?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.cn"
-    },
-    {
       "id": "FL-b90a7cc3cd33",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 20:36:46 GMT",
@@ -37,6 +25,18 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4LW1wUmJYc3BmX085dXpLRnA2VDBJM2ZUSm01cUVYWWRIN2dVcHB3UFdwQjg4QXE0VU5ST2w1WXV0dWg4NDJMNEhmRTdaQXhwMDhSaDJLOHhlSGpLQnhaS20zYy11YUx4VzlrOHhxVHA?oc=5",
       "site": "美国中文网",
       "siteUrl": "https://www.sinovision.net"
+    },
+    {
+      "id": "FL-f1c86563e0e4",
+      "date": "2026-09-27",
+      "dateISO": "Sun, 27 Sep 2026 17:10:36 GMT",
+      "ts": 1790529036000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "英国疏散美军所用基地附近居民 多人涉爆炸物被捕 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91MjNOYzJjSVZaVUpOZjQ3OGwtYnBaNUZNZi1BTUg0LXlDcjhueElmdjlqWTI1cF83YkdPdjVEUmo3a1FKSXVPTVhpNkVaVF8wNk5GbkJsVG1kQjAzRUtMWEpJMmgxMzNQcTl5bmRadTc4R2xuUVJEWA?oc=5",
+      "site": "央视网",
+      "siteUrl": "https://news.cctv.com"
     },
     {
       "id": "FL-916c025a0201",
@@ -147,15 +147,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-f7d3155edcc3",
+      "id": "FL-a1aa890f2994",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 11:24:30 GMT",
       "ts": 1790421870000,
       "scope": "dom",
       "type": "blast",
-      "title": "大师赛网红爆炸头来苏河湾啦！更多萌趣周边尽在福新面粉厂快闪空间→_上观新闻 - jfdaily.com",
+      "title": "大师赛网红爆炸头来苏河湾啦！更多萌趣周边尽在福新面粉厂快闪空间→_上观新闻 - 上观新闻",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nNHRBTUh0MlBtVVNzNXZ3bFdHMzhENjc4cFd5dGxrQnFCU0ZuSC1LLWFKN0tES0JfTm54YVduaFl6YS1BN2dqZVFfbm9Zbzk0Z29LM2EzTTc?oc=5",
-      "site": "jfdaily.com",
+      "site": "上观新闻",
       "siteUrl": "https://www.jfdaily.com"
     },
     {
@@ -195,15 +195,15 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-4a0c9f7614db",
+      "id": "FL-67be4412c6e0",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 05:42:40 GMT",
       "ts": 1790401360000,
       "scope": "dom",
       "type": "blast",
-      "title": "中秋夜40623名球迷燃爆鞍山奥体，为“辽超”呐喊 - 央广网",
+      "title": "中秋夜40623名球迷燃爆鞍山奥体，为“辽超”呐喊 - cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91NDU3YTViSFlJLV9oWFg2dW9BaU4ybkZyTEZzUHE2US1IbHpHd2ZXY1hSMUxtMXNpSzZBY3hjRG5PbWdSenE4eFRZZ3ktZVo5djdLNkxYX2F5eDhVVjdteU1yM1hFb1U5MDE2anZ3?oc=5",
-      "site": "央广网",
+      "site": "cnr.cn",
       "siteUrl": "https://www.cnr.cn"
     },
     {
@@ -219,15 +219,15 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
-      "id": "FL-04a570af7a01",
+      "id": "FL-ef50aee26af7",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 09:05:00 GMT",
       "ts": 1790586300000,
       "scope": "dom",
       "type": "blast",
-      "title": "韩军前沿部队爆炸事故现场传发现未爆地雷 - 韩联社",
+      "title": "韩军前沿部队爆炸事故现场传发现未爆地雷 - cn.yna.co.kr",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRcW9ZSnkyUjRVNUVNaTFvY3JwOWtibHRzZ1NkeEdqRFFTS3RWSFpvNlByZE1EcUNBWHY0TkZPeG5STWZUbFVSTk1XWFdtNmkzRFozZF9ZUGVFTWVWSGpyd1Njd2cxTHRKOVlOaXhqSjBSLU81T2c?oc=5",
-      "site": "韩联社",
+      "site": "cn.yna.co.kr",
       "siteUrl": "https://cn.yna.co.kr"
     },
     {
@@ -255,15 +255,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-d70fb5eb0357",
+      "id": "FL-6885ce9b6cc7",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 06:20:04 GMT",
       "ts": 1790576404000,
       "scope": "dom",
       "type": "blast",
-      "title": "两韩非军事区疑地雷爆炸3人受伤 联合小组现场勘查 - swissinfo.ch",
+      "title": "两韩非军事区疑地雷爆炸3人受伤 联合小组现场勘查 - SWI swissinfo.ch",
       "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPUTZvcVppb1pySTZfX0lwWVJiU0VGaVF3eEk5Q1J4QlcxQ2lMZUhYVUNfbkNrcmVHQ2NPNjA0U0h6a1lMejlobVM3UGw4d0l6ZkIzU3lVSHd6dVg2Tkd5UndYQlRlcldBcDVBamFrU194ckVGV25heUVBNUlrUldWdG4tbm1RU0FHbERtWWF0T2ZNeWRwWDBlb2FHYTlVRnpxYlpNdmFxOWEyb09TUE44QkVUb0g4N1B1dk9DNlI3X3duMVFyQlFTblk3alpVZE5CN1VJOG8wVUFsY09nb1hkeWNqWWhGM1hJVjNDd2M1anA0UHVJYXA3a19uXzJhVGV0Zjl4WWJMSTNSMVlUZXExNGNzaVpIMjBnNmJxaVMwcW9EYjZWclBRRGN3X1NxREZZc0RFeHllVnNUWGVOOHQwSHdtTU9OWDVtSlMzZFhBeWFaQV9KTU5IaV9yUGZXLUR2X3BZbw?oc=5",
-      "site": "swissinfo.ch",
+      "site": "SWI swissinfo.ch",
       "siteUrl": "https://www.swissinfo.ch"
     },
     {
@@ -291,15 +291,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-a83d15f51103",
+      "id": "FL-050fddb684b8",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 02:22:00 GMT",
       "ts": 1790562120000,
       "scope": "dom",
       "type": "blast",
-      "title": "《生活大爆炸》首播是2007年9月，是19年前。[doge] ​ - 手机新浪网",
+      "title": "《生活大爆炸》首播是2007年9月，是19年前。[doge] ​ - sina.cn",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50SmJmbUtXZ2hTTXY4cDc4VV9oSDJ3WjU2dUxpSnJvd3pHSkdGZXRQT2JnWEU2b3RWc3B5eHZoMnBtTTZJc01tMkttSFJDOC1MUDVEZk1JRl9KNDFPeXk4cG5pNA?oc=5",
-      "site": "手机新浪网",
+      "site": "sina.cn",
       "siteUrl": "https://www.sina.cn"
     },
     {
