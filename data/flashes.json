@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T00:28:50.920Z",
+  "updated": "2026-09-28T00:45:51.626Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -39,6 +39,18 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
+      "id": "FL-e06548a7409d",
+      "date": "2026-09-27",
+      "dateISO": "Sun, 27 Sep 2026 23:22:00 GMT",
+      "ts": 1790551320000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "1 injured in explosion in Limington - WMTW",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsMUpHYm1IZWZRYnBCN3dTX21EYXQ2NF9mejdmbjdoZDNoWWNobFAxcmFOVTlSc3NxcWtKdWxRS3dhMXBmSVV4bU9LSFlmLUNEd3dRckVpaUVpa1pjbXZMeGw3XzNMYlZmQzREczhFZTM5bVFkU0ZoWDZqcnN6UQ?oc=5",
+      "site": "WMTW",
+      "siteUrl": "https://www.wmtw.com"
+    },
+    {
       "id": "FL-85ad152d20df",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 21:59:19 GMT",
@@ -63,16 +75,16 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-e06548a7409d",
+      "id": "FL-56406619d1ba",
       "date": "2026-09-27",
-      "dateISO": "Sun, 27 Sep 2026 20:50:00 GMT",
-      "ts": 1790542200000,
-      "scope": "intl",
+      "dateISO": "Sun, 27 Sep 2026 20:57:32 GMT",
+      "ts": 1790542652000,
+      "scope": "dom",
       "type": "blast",
-      "title": "1 injured in explosion in Limington - WMTW",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsMUpHYm1IZWZRYnBCN3dTX21EYXQ2NF9mejdmbjdoZDNoWWNobFAxcmFOVTlSc3NxcWtKdWxRS3dhMXBmSVV4bU9LSFlmLUNEd3dRckVpaUVpa1pjbXZMeGw3XzNMYlZmQzREczhFZTM5bVFkU0ZoWDZqcnN6UQ?oc=5",
-      "site": "WMTW",
-      "siteUrl": "https://www.wmtw.com"
+      "title": "居民家中爆炸，玻璃脱落造成满地碎渣，直击事故现场 - 手机网易网",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XRTRLdkpIMTBCVXMtQ2tRb25oa3REU2ltM3ZVOGMyUnJaUHhvZFhVRnJLWHAwR0M4QjlOZ3J4SnpsY1BoVFRPLVV6c09QS0ZOS0Zxaw?oc=5",
+      "site": "手机网易网",
+      "siteUrl": "https://www.163.com"
     },
     {
       "id": "FL-b90a7cc3cd33",
@@ -87,6 +99,18 @@
       "siteUrl": "https://www.sinovision.net"
     },
     {
+      "id": "FL-cd3343f76e81",
+      "date": "2026-09-27",
+      "dateISO": "Sun, 27 Sep 2026 19:46:00 GMT",
+      "ts": 1790538360000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Son rescues father after accidental propane explosion at Limington home - WABI",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLWxvWVVONHpQVVlZNVl0dktnREphQUtoQ2VYMmlmUlRiSi1HazhEUm04SndVVVFvZnRsQWt5NUVxb0I3dzZMeU1jdGpqcDhvTDRFc3ZkV3JseXBzLTZvWEhQcHJvSlVUVmpXQl9mdGstVUsxTVdCV0ItWFpOd3JxUjVSakNQaTNGeWRvSC14MTBzY3VoOVc2U3o3VkNPQWxRc2fSAbYBQVVfeXFMT3Q4MGpDQW5lUVlnUXowWjR3NklOT1p2ak4yQ0JHdnI5SDNaSHNSdEpjMlhLTDdEeThmYkMzNVFqSTVqcmM5ZUhVanNVWDNnNUVwLTdwRTV3M0cyaWJGMDIzYTc1Umdmb0ZrYUxESjRPWGNKSXgxWkJLOU8zN0xxNXRaVUFBS2pwc3dXTDBTanNJaGFJNlVydU4yWGtWVmROOHE2YlVHVG1RWGd3azY5RHdNLXVJTHc?oc=5",
+      "site": "WABI",
+      "siteUrl": "https://www.wabi.tv"
+    },
+    {
       "id": "FL-48f38ef98160",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 18:54:00 GMT",
@@ -97,18 +121,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbk5PUU50cDJwWm1XWm9PQlZseU9OTkw3MXA4THVjZG5uWnJKeFk0MnY5bDNQT2xxNFFFZHB5SVlueFU5bWlpV2pUMkdtZzV2X1JmWUhkbl92ZnhHcDNSdUowN3VzaUowVEZJZ1FGX0gxTERKazFuQXdES1NpblVoeVhUbmZ0NHJrMDd3?oc=5",
       "site": "gbcode.rthk.hk",
       "siteUrl": "https://gbcode.rthk.hk"
-    },
-    {
-      "id": "FL-1dd6692ecb38",
-      "date": "2026-09-27",
-      "dateISO": "Sun, 27 Sep 2026 14:17:54 GMT",
-      "ts": 1790518674000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "韩国军方与联合国军司令部就非军事区爆炸展开联合调查 - 美国中文网",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90M1RCV1UwX0d3dU1KRFZ3RC16S1JHRFk3Znp5MWlJV0RLM252RGNQTVJLM1J2NmFSR3VQY3hnc0pLUDl4eU40VnR0NzJXT1J5UWw5aXFFRWF5Y181VVBPNzlPUXBHSDVlQjZQWjRXWjZSaGhlc3oyRA?oc=5",
-      "site": "美国中文网",
-      "siteUrl": "https://www.sinovision.net"
     },
     {
       "id": "FL-28bab500842e",
@@ -145,18 +157,6 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc1VyQmc1ejZvR19GbjlPc1I4YWROSFA4TWRSbEZTNkRtWEQyNVJhSE5qUjFyd21zWkdtXzVqN05LYnVKaDNqUWNxZHloSW9tM1Q4YTA4dlQyb203ZklHU29pb1hmRTRtQVJ6N2ljTTlBbmdLbm9GcVNrZWZrZ3FkaE45QWdrNVVzbVBRVUE0a2s0c0pxUDhDLUlvX2pGTEIwVUJtVXdHZzZaUVo0a0xseFN6THprZ9IBuwFBVV95cUxPQk1QV192bDJoV3N2cXAxWURDZDQwMUUtUmM5enc0M0Vmd25BNWVUSzFOQVRiQUV1UnhfanFIZjVuNFdTdlJWVE05MHpST2k0emhJYmF6aXljaVgwazY4ZEoyamZQWW1yR2I0NDhld0hNckZiUEJmeU5IYnhsTlVrNzZKYjFraS1hUFJaWmZEcjVZOHc4blJOMGE5Z2l5SWxDZmdkVmFOVkUxTGtrZTY5Sy03R3oxZjZGaVFj?oc=5",
       "site": "Fox News",
       "siteUrl": "https://www.foxnews.com"
-    },
-    {
-      "id": "FL-7cb5c9b0a149",
-      "date": "2026-09-27",
-      "dateISO": "Sun, 27 Sep 2026 10:34:00 GMT",
-      "ts": 1790505240000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "汽车撞上阿布贾燃气充装点引发爆炸——Premium Times Nigeria - UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM25fM2p2M2ppNktmS3hhNnZ5UXFNMjR4TWNVdDBXamhWbFh0YUxCZE9kYzJ4RllMWm1XSl92Z0xIMC1fX3k2ZzlCMkF2dzMyWmRHeURERGsxelo0VzJaWjJib2RCM21QN2w0OXYwcTVxWl9wNWdGWjdSZTgzcUpTdW01UEZwTXVUNzlCN1VMYV9TMUdGcEtaVDQ5VW96Zzl0OF94ZEtjMmVVX3hKR1RHb3hLZ05oZw?oc=5",
-      "site": "UA.NEWS",
-      "siteUrl": "https://ua.news"
     },
     {
       "id": "FL-ea04a4753240",
@@ -433,6 +433,30 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa21SSnpRaWdxQy1GYVBmWi1LQ3VzQ0xwZUwzTE9rSVRuLXhac2xTZl9wYlB5c2RoQkRYY1pfbDRZWmF3RFdFZXg4M3NSZ0s0alQ2XzRtUFI0SjR2R2FidlRXZ3pOckwtM20zaFNtR0h4bjFBdTdsZW9yeEpoampleUFNajd4NDVaUElBYTgxUG5vQzRoWjFIcGhn?oc=5",
       "site": "新华网客户端",
       "siteUrl": "https://app.xinhuanet.com"
+    },
+    {
+      "id": "FL-c2b5e87a66f1",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 03:47:19 GMT",
+      "ts": 1789789639000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "巴基斯坦西北部爆炸已致21死 巴总统称将继续反恐行动 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JdTVsYVVFWHBSX3JkaE5ocVh2cmtPd0NWVkpmT1EyOENqOGJZcHhnQllGeU9RYThKRTJmYnRVaXpEQ25RcGNGNi1LcmZJUUFnY2Q1cVVpS2dkSW8wQzJfSFI4U3FYMzdXNmJSWm1SdEpsckl2Y190Sg?oc=5",
+      "site": "央视网",
+      "siteUrl": "https://news.cctv.com"
+    },
+    {
+      "id": "FL-ea15e4ce0425",
+      "date": "2026-09-28",
+      "dateISO": "Mon, 28 Sep 2026 00:37:29 GMT",
+      "ts": 1790555849000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "英国一空军基地多名男子被捕 涉嫌违反《爆炸物法》 - 中华军事",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iSi1SQ3hwb0xEM2dRWG14ZHZWLVRGTWRNVW8tWlJWRkZiWVg0cU9hVFR2bGVFVHVzdmRUVWQ3MHFtUEFGc3lib0p6cGk0WnZRWE9YU1kzR2hxdFVZcnljUENLOUlLazYyb3l6aFk5U3Q?oc=5",
+      "site": "中华军事",
+      "siteUrl": "https://military.china.com"
     },
     {
       "id": "FL-160d55aeb47e",
