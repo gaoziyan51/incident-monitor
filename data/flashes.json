@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T07:01:30.505Z",
+  "updated": "2026-09-28T07:22:24.110Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -13,18 +13,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fOUNOVy1jMjYtRHRacDFONmZLdmtlUTBvcjVNX0xwMG9rc2lwYkV4ZzRCOFVIVmdNLXdZcUo3Mkw1UnI3elZsRjNGblI4YTBsMGxPeHJCRnZSNWE0dXNTdXRxcUQ?oc=5",
       "site": "财新",
       "siteUrl": "https://science.caixin.com"
-    },
-    {
-      "id": "FL-6612abd30963",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 07:00:00 GMT",
-      "ts": 1789628400000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "宇宙大爆炸最初五分钟氦丰度获最精确测量 - 中国科技网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MzVkcXZnR2UwelNkenFIYVFYVzBPcUxUQ1VSaUVHcV9LYVJnZzhjQWZzM09DNk8wc0xVNlo2amRqNjBueWtVeTdSbkJZT053RjRSZDhmeXJyT19wekF3UHB6WERtZkxLaFFwT2pVWTE?oc=5",
-      "site": "中国科技网",
-      "siteUrl": "https://www.stdaily.com"
     },
     {
       "id": "FL-382a151f8c29",
@@ -159,6 +147,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-435013707dbb",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 21:06:34 GMT",
+      "ts": 1790456794000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典老城区爆炸事故致6死3伤 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xTGZlLXJTZlVuMEx6c1BjOFNNcWxlQ25OUW5JdFh5TTh0S0tMZHVGa09ZT3AxZnZ6cGFPT0dRdUZlTHFfaC1IVTRHckdIR2ZvTXNpdlFJUnFZc29PdFBJMGZjMXJjUQ?oc=5",
+      "site": "东方财富",
+      "siteUrl": "https://finance.eastmoney.com"
+    },
+    {
       "id": "FL-008d86b164a4",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 15:30:00 GMT",
@@ -219,18 +219,6 @@
       "siteUrl": "https://www.jfdaily.com"
     },
     {
-      "id": "FL-dbc7a4322fad",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 10:47:00 GMT",
-      "ts": 1790419620000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "东北超｜燃爆了！全场齐唱《我和我的祖国》-中国吉林网 - news.cnjiwang.com",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0cTJPbFRlTTRzRlJ4N0o2cVZwRzBIenVzTDlaRTBHanQxQVFOQ2dZNFZtanNyaV9GQ3V3OGR1MG9JdTdqMXZaRElMci1qdndZa3JBRDhVams1ekZ6LVA4?oc=5",
-      "site": "news.cnjiwang.com",
-      "siteUrl": "https://news.cnjiwang.com"
-    },
-    {
       "id": "FL-20abb5b43863",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 10:35:00 GMT",
@@ -241,18 +229,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LWGQ3OHl2b3ZaVEVsa1plUUd0bVhOekVqbmRVU3ZVZ21GQkJmemVxRDNhNHB5aTZDX3VHS3FWbk02a3RXRHdia0pDMHQzSkk4LUpwSmpGQlBLX2dvMXc?oc=5",
       "site": "thepaper.cn",
       "siteUrl": "https://m.thepaper.cn"
-    },
-    {
-      "id": "FL-435013707dbb",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 09:42:12 GMT",
-      "ts": 1790415732000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "雅典老城区爆炸事故致6死3伤 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xTGZlLXJTZlVuMEx6c1BjOFNNcWxlQ25OUW5JdFh5TTh0S0tMZHVGa09ZT3AxZnZ6cGFPT0dRdUZlTHFfaC1IVTRHckdIR2ZvTXNpdlFJUnFZc29PdFBJMGZjMXJjUQ?oc=5",
-      "site": "东方财富",
-      "siteUrl": "https://finance.eastmoney.com"
     },
     {
       "id": "FL-e6da002b8732",
@@ -267,15 +243,15 @@
       "siteUrl": "https://wap.eastmoney.com"
     },
     {
-      "id": "FL-702619048484",
+      "id": "FL-a51b5925804a",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 06:20:47 GMT",
       "ts": 1790403647000,
       "scope": "intl",
       "type": "blast",
-      "title": "俄远东一煤矿矿区爆炸，有人员伤亡 - 京报网",
+      "title": "俄远东一煤矿矿区爆炸，有人员伤亡 - news.bjd.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wMWFuZGplcnloclpwblE2R1M4YzJiR0Y4TFZNSUhqNjVtajUyUERhUWxVV21VV1V6WHU4N3Y0M2dfR2d3ajJzcXBZZjZkR2RkOG9qLXRhYzk3aGFCUmc?oc=5",
-      "site": "京报网",
+      "site": "news.bjd.com.cn",
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
@@ -303,15 +279,27 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
-      "id": "FL-d70fb5eb0357",
+      "id": "FL-e4210ecf8c66",
+      "date": "2026-09-28",
+      "dateISO": "Mon, 28 Sep 2026 07:21:44 GMT",
+      "ts": 1790580104000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Where’s the “intelligence explosion”? - by Ramez Naam - Noahpinion",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TU2dmbkt6OXJTZGRLUndMRHpXbGtBb2Z6c0RRb3lrVzBYdnZURUo3ZHV6Ym9kTUJiQ204enJCamdTZGFEU1N5ZjF0Nk45UjlBbHJvdGdPZVJWRWZPRThhbVN0bnlhZzI5TFNXemJFS3U?oc=5",
+      "site": "Noahpinion",
+      "siteUrl": "https://www.noahpinion.blog"
+    },
+    {
+      "id": "FL-6885ce9b6cc7",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 06:20:04 GMT",
       "ts": 1790576404000,
       "scope": "dom",
       "type": "blast",
-      "title": "两韩非军事区疑地雷爆炸3人受伤 联合小组现场勘查 - swissinfo.ch",
+      "title": "两韩非军事区疑地雷爆炸3人受伤 联合小组现场勘查 - SWI swissinfo.ch",
       "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPUTZvcVppb1pySTZfX0lwWVJiU0VGaVF3eEk5Q1J4QlcxQ2lMZUhYVUNfbkNrcmVHQ2NPNjA0U0h6a1lMejlobVM3UGw4d0l6ZkIzU3lVSHd6dVg2Tkd5UndYQlRlcldBcDVBamFrU194ckVGV25heUVBNUlrUldWdG4tbm1RU0FHbERtWWF0T2ZNeWRwWDBlb2FHYTlVRnpxYlpNdmFxOWEyb09TUE44QkVUb0g4N1B1dk9DNlI3X3duMVFyQlFTblk3alpVZE5CN1VJOG8wVUFsY09nb1hkeWNqWWhGM1hJVjNDd2M1anA0UHVJYXA3a19uXzJhVGV0Zjl4WWJMSTNSMVlUZXExNGNzaVpIMjBnNmJxaVMwcW9EYjZWclBRRGN3X1NxREZZc0RFeHllVnNUWGVOOHQwSHdtTU9OWDVtSlMzZFhBeWFaQV9KTU5IaV9yUGZXLUR2X3BZbw?oc=5",
-      "site": "swissinfo.ch",
+      "site": "SWI swissinfo.ch",
       "siteUrl": "https://www.swissinfo.ch"
     },
     {
