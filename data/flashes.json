@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T02:56:44.540Z",
+  "updated": "2026-09-28T03:05:18.346Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -219,18 +219,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-8497727bdbdb",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 15:30:00 GMT",
-      "ts": 1790436600000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "雅典发生爆炸，1名女游客遇难，5人失踪，事发卫城脚下，靠近奥林匹亚宙斯神庙 - cbgc.scol.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wT2VkbnNVQzB1dlFrSUpwQU5VbElha1Fyc3h0LVI1WFBMSldqQkRfMWkyeV94b1pPS0w5eFQtT1NxQjdRSkRkbm5yUE5iZw?oc=5",
-      "site": "cbgc.scol.com.cn",
-      "siteUrl": "https://cbgc.scol.com.cn"
-    },
-    {
       "id": "FL-a7667c9c6d36",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 15:26:00 GMT",
@@ -401,12 +389,12 @@
     {
       "id": "FL-73d2a5cc3534",
       "date": "2026-09-28",
-      "dateISO": "Mon, 28 Sep 2026 02:10:19 GMT",
-      "ts": 1790561419000,
+      "dateISO": "Mon, 28 Sep 2026 02:06:39 GMT",
+      "ts": 1790561199000,
       "scope": "intl",
       "type": "blast",
       "title": "爆炸现场的士兵们称“看到了朝鲜的木盒地雷” - 朝鮮日報中文版",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZThjMXBwU3Y0Q2QzNml6YWw0UkVOY3NZWi1DWWlTSFJLaklWbVdhWm54cXJQcjRrWVdKTmI4aklFRGlXNUtMYXl3MHh5eTZ5bk4xWE94SlVYcU45ZFJvTEp5a2o5VXhhMmdwRUgxVUxoZS03TWdqa09lU3RPQ1pMZGpOc0drZ0E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWGUxam9VOHVsakQ4akQwYWd2bjdNVW42a0hBOEhnLU5lMlFfSG1RZ2F3T183QjRNcU1SQ0trdWhtdGlwbXRwMTBhdUUzUXk1WEtfSTd3NmxybnhyZGZab0RxNkRKUW8wbGRIZFJqOVp5dEd6UVVYN0Q4Rlc5VVFVdUdKdVRRekJzWGpGSGJaTlNSZw?oc=5",
       "site": "朝鮮日報中文版",
       "siteUrl": "https://cnnews.chosun.com"
     },
