@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T13:30:47.943Z",
+  "updated": "2026-09-28T13:50:28.691Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -207,6 +207,18 @@
       "siteUrl": "https://mil.news.sina.com.cn"
     },
     {
+      "id": "FL-9dd1f9c3087b",
+      "date": "2026-09-28",
+      "dateISO": "Mon, 28 Sep 2026 08:39:00 GMT",
+      "ts": 1790584740000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "韩国将非军事区爆炸与朝鲜地雷联系起来——《韩国先驱报》 - ua.news",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ3VoZk9qTDFCTHRZbkFoU2Rvdkk2cjdncGktdjlYUHdoOFBHcGpCaFB0RndUZGZmRnhoNDBpTUxxbDB3QzI1b3N3c2xLT2ZpWHlMSmVVVU10RmRQRzY1ckpCaERPOWlHSnh0YlNtMWJfQVVBSWNNVWFHc2JEOFVZMkI5azR4c0FkQmxwbldLd3NNLThHOVVwTmt4cw?oc=5",
+      "site": "ua.news",
+      "siteUrl": "https://ua.news"
+    },
+    {
       "id": "FL-a4aee5ce4c98",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 08:35:09 GMT",
@@ -301,6 +313,18 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50SmJmbUtXZ2hTTXY4cDc4VV9oSDJ3WjU2dUxpSnJvd3pHSkdGZXRQT2JnWEU2b3RWc3B5eHZoMnBtTTZJc01tMkttSFJDOC1MUDVEZk1JRl9KNDFPeXk4cG5pNA?oc=5",
       "site": "手机新浪网",
       "siteUrl": "https://www.sina.cn"
+    },
+    {
+      "id": "FL-1b4e6e9c49b5",
+      "date": "2026-09-28",
+      "dateISO": "Mon, 28 Sep 2026 01:24:39 GMT",
+      "ts": 1790558679000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "美军在英空军基地发生重大事件，数名男子被捕 涉嫌违反《爆炸物法》 - 中华军事",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LeE9PZEo2UDdldzdCdXdwcTlQcXlfZXJ2MDBISkU5RVA1NkkteU1DRERkRi1STDJ2SVQ1UEQ2akVCU0JuUXI2aHlDQmYxWm52TEh6NTVFY1J1a3YwMjlOYll4SS1ON29NTExaNzQwdjg?oc=5",
+      "site": "中华军事",
+      "siteUrl": "https://military.china.com"
     },
     {
       "id": "FL-ea15e4ce0425",
