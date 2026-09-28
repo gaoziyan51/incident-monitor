@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T06:06:36.428Z",
+  "updated": "2026-09-28T06:29:30.378Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,27 +15,39 @@
       "siteUrl": "https://science.caixin.com"
     },
     {
-      "id": "FL-d55551afd252",
+      "id": "FL-71366697633a",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 07:00:00 GMT",
+      "ts": 1789628400000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "宇宙大爆炸最初五分钟氦丰度获最精确测量 - stdaily.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MzVkcXZnR2UwelNkenFIYVFYVzBPcUxUQ1VSaUVHcV9LYVJnZzhjQWZzM09DNk8wc0xVNlo2amRqNjBueWtVeTdSbkJZT053RjRSZDhmeXJyT19wekF3UHB6WERtZkxLaFFwT2pVWTE?oc=5",
+      "site": "stdaily.com",
+      "siteUrl": "https://www.stdaily.com"
+    },
+    {
+      "id": "FL-382a151f8c29",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 21:51:46 GMT",
       "ts": 1790545906000,
       "scope": "intl",
       "type": "blast",
-      "title": "英国疏散美军所用基地附近居民 多人涉爆炸物被捕 - finance.sina.cn",
+      "title": "英国疏散美军所用基地附近居民 多人涉爆炸物被捕 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVUVGZ0tGc2xFOGpjN3pJd0NwRWk2TUc0dHAtT1dIZjF1REFhcmhGRUxYa1V2SUxMYzd1SFpteF80VmFtak9ub1BqaTFkcUZoQTJiNmlSVW1vRVU3bl82ZjlwcC1fV2wyUVdUMzhPOERHd1FvdVhMc1lKQWo3V0lER0g1WkR6RTlnV0Njem9ESDFKay1VWUYxcg?oc=5",
-      "site": "finance.sina.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-91130f481690",
+      "id": "FL-b90a7cc3cd33",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 20:36:46 GMT",
       "ts": 1790541406000,
       "scope": "intl",
       "type": "blast",
-      "title": "【国际快讯】 韩朝非军事区爆炸致3韩军受伤韩方与联军展开调查｜俄军袭击乌克兰最大移动运营商多地网络服务受影响｜瑞士公投否决收紧中立政策保留对俄制裁及北约合作空间 - sinovision.net",
+      "title": "【国际快讯】 韩朝非军事区爆炸致3韩军受伤韩方与联军展开调查｜俄军袭击乌克兰最大移动运营商多地网络服务受影响｜瑞士公投否决收紧中立政策保留对俄制裁及北约合作空间 - 美国中文网",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4LW1wUmJYc3BmX085dXpLRnA2VDBJM2ZUSm01cUVYWWRIN2dVcHB3UFdwQjg4QXE0VU5ST2w1WXV0dWg4NDJMNEhmRTdaQXhwMDhSaDJLOHhlSGpLQnhaS20zYy11YUx4VzlrOHhxVHA?oc=5",
-      "site": "sinovision.net",
+      "site": "美国中文网",
       "siteUrl": "https://www.sinovision.net"
     },
     {
@@ -75,18 +87,6 @@
       "siteUrl": "https://m.36kr.com"
     },
     {
-      "id": "FL-bfcc37dbdc5c",
-      "date": "2026-09-27",
-      "dateISO": "Sun, 27 Sep 2026 10:24:00 GMT",
-      "ts": 1790504640000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "英国警方指美军基地附近发生“重大事故” 拘多名男子涉爆炸品罪 - 香港01",
-      "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxPQUlabEd5ckdDdnZ3Rm5CMmJaN0lQTzBEQVhmRFRYZmNuWk92eWM1dTZkcFdPZnQ5M3czT0dzdU1JRkM0OHRzVmdGMGlRd1k2OUV2SV94N2dBNWx4Y1hJV05WZXE3ZFI1N3NBQVBDOEQycVd3RUtGSFNjTm9DZkpxZHMtQ19WRzhnaFFfU0R5aU96LWtXN3dOUXUyTzdjaDRFMFVuOE5uUm1kRDNOdnlOZkFldTRDRTI1ZzFOTWpURmlkVnRjWHpUOTdLdWlqUlB3Z2dxbWcxRzlzSHVNMTBCS1dONzd4RGNOb0k4VjNwTV9wNTVHbG1DeDhLZXdaQXpmR2p1allZdW1Ja2ZQdkFHbVdxaERMYXdLNndCV09raU1fMVdvY3ZMaFhwckxFS3Jndng2RTVMRmRsVmR4Smk3V25OdUhySjNXRU9KM1g2czdsQXEwdDBGZ3RUcW80Sm9FN1p2RFBIdmJOaVBMOXBodTEzZ2phMTZvREJrRjZmQ0xGYTdURDduSWxHRFg0OG1PdldEeFdpdlBWaGhnb2NIV0Q3SnFLQXpJOFpqSW9raHRXbmgzaGNhVGNvT1MteU9w?oc=5",
-      "site": "香港01",
-      "siteUrl": "https://global.hk01.com"
-    },
-    {
       "id": "FL-6513336d2edc",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 09:16:00 GMT",
@@ -99,15 +99,15 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-8031fb7bf7d5",
+      "id": "FL-ec572d894538",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 08:51:00 GMT",
       "ts": 1790499060000,
       "scope": "dom",
       "type": "blast",
-      "title": "美空军驻英基地发生“重大事件”，多人涉嫌爆炸袭击被捕 - finance.sina.cn",
+      "title": "美空军驻英基地发生“重大事件”，多人涉嫌爆炸袭击被捕 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByaHBDS2F2VmxFYlR0SjNpVm1sRWo4UWR0b1lrTm4wQVdaNFBCcDZDUmliOWRkQmk5SFhwa0xfa3UxdThsWHZ5UGp3Yy1YOHNWcUhZaEZEMmtiS29wbDEwQjlodVY3ZnVLenV5ZVBUTHVmYldPMmpNRA?oc=5",
-      "site": "finance.sina.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -147,28 +147,40 @@
       "siteUrl": "https://news.sciencenet.cn"
     },
     {
-      "id": "FL-340d5e981918",
+      "id": "FL-f8061d91b549",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
       "ts": 1787468400000,
       "scope": "dom",
       "type": "blast",
-      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
+      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-0615dd398028",
+      "id": "FL-f38e3c0cb20f",
       "date": "2026-08-02",
       "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
       "ts": 1785654000000,
       "scope": "intl",
       "type": "blast",
-      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - 新华网",
+      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-008d86b164a4",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 15:30:00 GMT",
+      "ts": 1790436600000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典发生爆炸，1名女游客遇难，5人失踪，事发卫城脚下，靠近奥林匹亚宙斯神庙 - 川观新闻",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wT2VkbnNVQzB1dlFrSUpwQU5VbElha1Fyc3h0LVI1WFBMSldqQkRfMWkyeV94b1pPS0w5eFQtT1NxQjdRSkRkbm5yUE5iZw?oc=5",
+      "site": "川观新闻",
+      "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
       "id": "FL-a7667c9c6d36",
@@ -195,15 +207,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-5e735aebc1c3",
+      "id": "FL-23997ed3202f",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 11:26:44 GMT",
       "ts": 1790422004000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 新华网",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlemFCa3lteDlkZERLTXRLMHhpeTIzNmFqanFBczVPaFNjQjVxOHNJNm54Tkhua1FqOGtuaUhBLWdRSWxXaFRoZThQZXJqclRIV1pUaTNhcjhHU0dwRzA1WXNQc2ZOVEhXX0Z1NUVBcnBUalJRWkE3ZlE0S3NOaXM?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -243,18 +255,6 @@
       "siteUrl": "https://m.thepaper.cn"
     },
     {
-      "id": "FL-347b1e4fbde6",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 09:53:48 GMT",
-      "ts": 1790416428000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "比赛结束现场燃爆了！中国选手：珍惜一生一次的机会 - 中国科技网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90WW5rcDNsQlc1TjhoM0pXM0U4aXhLa0QxSXg3TmV0VFdLWFFIQktSUXZ6elNFcVV2dFlOX2VrT0o5V1NycWhWRm40WGFfUXpqTDcxRVptTC1IZndtdVpGNzRpZWUyT3J2d2FBeml5RTI?oc=5",
-      "site": "中国科技网",
-      "siteUrl": "https://www.stdaily.com"
-    },
-    {
       "id": "FL-435013707dbb",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 09:42:12 GMT",
@@ -291,15 +291,15 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-67be4412c6e0",
+      "id": "FL-4a0c9f7614db",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 05:42:40 GMT",
       "ts": 1790401360000,
       "scope": "dom",
       "type": "blast",
-      "title": "中秋夜40623名球迷燃爆鞍山奥体，为“辽超”呐喊 - cnr.cn",
+      "title": "中秋夜40623名球迷燃爆鞍山奥体，为“辽超”呐喊 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91NDU3YTViSFlJLV9oWFg2dW9BaU4ybkZyTEZzUHE2US1IbHpHd2ZXY1hSMUxtMXNpSzZBY3hjRG5PbWdSenE4eFRZZ3ktZVo5djdLNkxYX2F5eDhVVjdteU1yM1hFb1U5MDE2anZ3?oc=5",
-      "site": "cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://www.cnr.cn"
     },
     {
@@ -387,27 +387,27 @@
       "siteUrl": "https://www.fx168news.com"
     },
     {
-      "id": "FL-160d55aeb47e",
+      "id": "FL-5414e00ffd4e",
       "date": "2026-06-22",
       "dateISO": "Mon, 22 Jun 2026 07:00:00 GMT",
       "ts": 1782111600000,
       "scope": "intl",
       "type": "blast",
-      "title": "卡塔尔工厂爆炸已致13人死亡 - 新华网",
+      "title": "卡塔尔工厂爆炸已致13人死亡 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mR2pTX0YxWjBwQ2lLNC1XZjFhd3IwVEYtWkZFR3ZBU3B5RTFHR1BldmQ3OEkxN2NaWTMzYUkwWENDeEliY3dVNEloOExFS1B6SlZQTENHdWVmTWpUM042M2hRcmo4QS1qdl85cXlhZHJ3R3JGTEU4?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-b042a088a326",
+      "id": "FL-dbcf7399ae0d",
       "date": "2026-08-03",
       "dateISO": "Mon, 03 Aug 2026 07:00:00 GMT",
       "ts": 1785740400000,
       "scope": "intl",
       "type": "blast",
-      "title": "巴基斯坦西北部发生爆炸致14人死亡 - 新华网",
+      "title": "巴基斯坦西北部发生爆炸致14人死亡 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     }
   ]
