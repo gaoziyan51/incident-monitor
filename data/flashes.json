@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T20:31:34.038Z",
+  "updated": "2026-09-28T20:48:06.208Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -27,15 +27,15 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-f1c86563e0e4",
+      "id": "FL-d2803d2cff60",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 17:10:36 GMT",
       "ts": 1790529036000,
       "scope": "intl",
       "type": "blast",
-      "title": "英国疏散美军所用基地附近居民 多人涉爆炸物被捕 - 央视网",
+      "title": "英国疏散美军所用基地附近居民 多人涉爆炸物被捕 - news.cctv.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91MjNOYzJjSVZaVUpOZjQ3OGwtYnBaNUZNZi1BTUg0LXlDcjhueElmdjlqWTI1cF83YkdPdjVEUmo3a1FKSXVPTVhpNkVaVF8wNk5GbkJsVG1kQjAzRUtMWEpJMmgxMzNQcTl5bmRadTc4R2xuUVJEWA?oc=5",
-      "site": "央视网",
+      "site": "news.cctv.com",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -99,30 +99,6 @@
       "siteUrl": "https://finance.eastmoney.com"
     },
     {
-      "id": "FL-008d86b164a4",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 15:30:00 GMT",
-      "ts": 1790436600000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "雅典发生爆炸，1名女游客遇难，5人失踪，事发卫城脚下，靠近奥林匹亚宙斯神庙 - 川观新闻",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wT2VkbnNVQzB1dlFrSUpwQU5VbElha1Fyc3h0LVI1WFBMSldqQkRfMWkyeV94b1pPS0w5eFQtT1NxQjdRSkRkbm5yUE5iZw?oc=5",
-      "site": "川观新闻",
-      "siteUrl": "https://cbgc.scol.com.cn"
-    },
-    {
-      "id": "FL-4fcd67df38a6",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 12:25:51 GMT",
-      "ts": 1790425551000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - sohu.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUU9ESGJKMW5sendsVU4zOUFWYXhBSlFXdVFQUXZ5RVZqQzhlTTRFSlpsSmdWeFRXSHlJakg3ckQtVElSSGZtYkhDM3JMUXVmVTZMX09CeFRhTlVNZ3c0MFNXQXM2LWVpMURDNjU3cXZ6Y01wWHQxRTNIZDhfWEsyUVNJb21URjZKZkJVMElGZ0xueENOU2Jyd0ZNaHk1akVU?oc=5",
-      "site": "sohu.com",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-5e735aebc1c3",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 11:26:44 GMT",
@@ -135,28 +111,16 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-e6da002b8732",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 07:07:30 GMT",
-      "ts": 1790406450000,
+      "id": "FL-dd0e7802a975",
+      "date": "2026-09-28",
+      "dateISO": "Mon, 28 Sep 2026 19:42:00 GMT",
+      "ts": 1790624520000,
       "scope": "intl",
       "type": "blast",
-      "title": "俄远东一煤矿矿区爆炸 有人员伤亡 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yRUEyVUZDMTdQcTR1emZMSTZNcTFrMzdVRktDNnBEVlNETk9FN29SVnA0WlQxVzg4NGsyd0ZZejJFWGFSSEVjQTl3M2p2blNWVllnTEVTRng2bkhBeXI0eA?oc=5",
-      "site": "东方财富",
-      "siteUrl": "https://wap.eastmoney.com"
-    },
-    {
-      "id": "FL-702619048484",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 06:20:47 GMT",
-      "ts": 1790403647000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "俄远东一煤矿矿区爆炸，有人员伤亡 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wMWFuZGplcnloclpwblE2R1M4YzJiR0Y4TFZNSUhqNjVtajUyUERhUWxVV21VV1V6WHU4N3Y0M2dfR2d3ajJzcXBZZjZkR2RkOG9qLXRhYzk3aGFCUmc?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://news.bjd.com.cn"
+      "title": "2 Atmos Energy contract workers hospitalized in pipe explosion days after Dallas apartment gas leak - keranews.org",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeWEzMUwyS1FPMGd4QUNnMk9MaGRGcTlsQU9naTNsc055TUE4MjRSM19JMzRKdGoyazFCMHhqOXhKYmhiYzhRaVQtZ3RuUDM0WnZPSlBkREFPT3A0Rm5vZ0hIaGdpdE9kWERLcnd2WFdTd21XR0xxeExkUnFZVW1xMktka0drSmpBa2dfeW1DUnZLTDBBWGNuWS1OYmJqU09udFZLNVZTMzFCVkF0VlNGWWtIdUp1QTM4TnNIeVZaWXoxRnhYcEdIUk42b2ZqaFVfcUZ5OXhGOWN1dmt1d0FzR1RiZVgwZUVCRUE?oc=5",
+      "site": "keranews.org",
+      "siteUrl": "https://www.keranews.org"
     },
     {
       "id": "FL-0e2bdd952f52",
@@ -169,18 +133,6 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMFNkQmpvTmdlZER6dDF6NXlNZ2x2WnpicUlHeDBvRjNRUzlaZy01OUI5Sm91YV9DRUh0Qmk4TzNwTTQ1alBveEdGOHNHcy0wa1pqR0lsZVR2dUxoQ3R1V1FnZTJuZG9MS1d3OWs3eTgxb0ZmUl96dGNiWkhzMk1wN3oyV0xFYjVrdGtIQ1Vzb0l0SWdBWlZEalo3WmxNbVpxNjJoX1dR?oc=5",
       "site": "The Guardian",
       "siteUrl": "https://www.theguardian.com"
-    },
-    {
-      "id": "FL-98f9978f99b0",
-      "date": "2026-09-28",
-      "dateISO": "Mon, 28 Sep 2026 17:28:00 GMT",
-      "ts": 1790616480000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Fireworks bill authored after Esparto explosion signed into law - KCRA",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR2NtcXljYWFtTTh3dVJENlVUbkZpX2VGekZYeWUyYnZtb1FGRk9rRW1HU0hnZUEwQm5TQjNLQ0RoSzgzcjg1TkhfZG8tT0EtbUwwdXdBSHBtSkRwUDJ0RVc2amVCQU1hSUctbGhFWXNaU1p5YzRiRjdlQW9YMElEZmE3cTVRZ3YtWTZCMTRSR1hBRmNSQzMtLXg5TlpHWFlodTNJ?oc=5",
-      "site": "KCRA",
-      "siteUrl": "https://www.kcra.com"
     },
     {
       "id": "FL-ee7ee3979dc4",
@@ -267,18 +219,6 @@
       "siteUrl": "https://mil.news.sina.com.cn"
     },
     {
-      "id": "FL-4d543f75f553",
-      "date": "2026-09-28",
-      "dateISO": "Mon, 28 Sep 2026 08:39:00 GMT",
-      "ts": 1790584740000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "韩国将非军事区爆炸与朝鲜地雷联系起来——《韩国先驱报》 - UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ3VoZk9qTDFCTHRZbkFoU2Rvdkk2cjdncGktdjlYUHdoOFBHcGpCaFB0RndUZGZmRnhoNDBpTUxxbDB3QzI1b3N3c2xLT2ZpWHlMSmVVVU10RmRQRzY1ckpCaERPOWlHSnh0YlNtMWJfQVVBSWNNVWFHc2JEOFVZMkI5azR4c0FkQmxwbldLd3NNLThHOVVwTmt4cw?oc=5",
-      "site": "UA.NEWS",
-      "siteUrl": "https://ua.news"
-    },
-    {
       "id": "FL-a4aee5ce4c98",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 08:35:09 GMT",
@@ -327,15 +267,15 @@
       "siteUrl": "https://www.jpchinapress.com"
     },
     {
-      "id": "FL-689700f72361",
+      "id": "FL-2148ba2f4bb2",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 05:20:00 GMT",
       "ts": 1790572800000,
       "scope": "intl",
       "type": "blast",
-      "title": "驻英美军基地遭爆炸威胁：英国农妇凌晨1点看到蒙面人后报警，特朗普发声 - sohu.com",
+      "title": "驻英美军基地遭爆炸威胁：英国农妇凌晨1点看到蒙面人后报警，特朗普发声 - 搜狐网",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWGxaelpJc3BKdkFvbEc0SHdwMDVNQjYtcWlXWmZrSTU4d2NSQWlmZWNHcHFnT3lkVFBQbDU2WEhOSmJoUkJMcDBhTEVmY2JndnFlVld5MV9NTlAwLWVBeDE1VTNFZXVuTTdMd2pscjIzMEVvUlZrYkhCemI3ZHJiYTNCaThObTM4U0Q1YQ?oc=5",
-      "site": "sohu.com",
+      "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
     },
     {
