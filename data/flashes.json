@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T00:02:07.653Z",
+  "updated": "2026-09-28T00:28:50.920Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -63,18 +63,6 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-3a3ebc0857a3",
-      "date": "2026-09-27",
-      "dateISO": "Sun, 27 Sep 2026 21:49:54 GMT",
-      "ts": 1790545794000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "FMO investigates explosion in Limington - WGME",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jcHk1MlpWV1V6VEhvazY4NVRJOEU3ZFltbDE4RE90X3VFYWZjaHRzYV94N1NqUE1tbjdOZkU2dVVIbXF5LW9pM2t6bWg3dDZwMnJYanhuX1RDM2FMaDJZZDRZd1BNRXRkSDdHLTZ0MXF6U1haMUE?oc=5",
-      "site": "WGME",
-      "siteUrl": "https://wgme.com"
-    },
-    {
       "id": "FL-e06548a7409d",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 20:50:00 GMT",
@@ -121,6 +109,18 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90M1RCV1UwX0d3dU1KRFZ3RC16S1JHRFk3Znp5MWlJV0RLM252RGNQTVJLM1J2NmFSR3VQY3hnc0pLUDl4eU40VnR0NzJXT1J5UWw5aXFFRWF5Y181VVBPNzlPUXBHSDVlQjZQWjRXWjZSaGhlc3oyRA?oc=5",
       "site": "美国中文网",
       "siteUrl": "https://www.sinovision.net"
+    },
+    {
+      "id": "FL-28bab500842e",
+      "date": "2026-09-27",
+      "dateISO": "Sun, 27 Sep 2026 13:24:55 GMT",
+      "ts": 1790515495000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "2 homes gutted in Emerald Isle fire; massive explosion seen for miles at NC coast - CBS17.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdk5EVFJOWm9VNG1aeHd3VzE2WElZaThuQUZ6aGtfTmk5VmdTdTZqdVB5Wk9uS3BQNjBzdUEwRzdhT09RYjhUZFBMYXp4LUlleUdLM0RqT3Ixbl84YnpaYVQ0NGk1VFhzY0dKbGdiMWxnMnBmN3p6bGE0VjRNTGljMkN0dHp1TVdRb1Uwd3pQc1lSZ1RiZnVDa1lBM1hKQ0wtNDdobEUwYkdrcElFYmt2SjM2cWkyTzJkNklGV0V4a2tDOGNLa3d30gHMAUFVX3lxTFBFZV9Ub1F6UGJCUkVOS0pUS2lYZFhUQmZVNmlIWTdBX1VJU1NjV3ZmbEtVSmlicE9KOHYwUEVOVHR2Z1E4dzZSak9fYmZ2bjBDVWV1U2xrVHJfUHRjYWVxRWFvaXhGbE9TTnVZNzNOWTQ5cjRlcktwWldheC0wUDhiMUg5T1FPVTN6UHBoTGN4dEVjSkVub1FXTHhZVmlZRWY0ZGxqUGpzaWVZWTNJbVA1elVNb0EzaDhTU2NyeUJ0RmU4UVpFMUwzWjRUcw?oc=5",
+      "site": "CBS17.com",
+      "siteUrl": "https://www.cbs17.com"
     },
     {
       "id": "FL-916c025a0201",
@@ -229,18 +229,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TU2dmbkt6OXJTZGRLUndMRHpXbGtBb2Z6c0RRb3lrVzBYdnZURUo3ZHV6Ym9kTUJiQ204enJCamdTZGFEU1N5ZjF0Nk45UjlBbHJvdGdPZVJWRWZPRThhbVN0bnlhZzI5TFNXemJFS3U?oc=5",
       "site": "Noahpinion",
       "siteUrl": "https://www.noahpinion.blog"
-    },
-    {
-      "id": "FL-fae6b638a04f",
-      "date": "2026-09-27",
-      "dateISO": "Sun, 27 Sep 2026 05:52:00 GMT",
-      "ts": 1790488320000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "美债利率都5.5%了，全球资产为啥还没爆炸？ - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYkhwMzZaS0M2Z0dDVmQ2cWY0YWlyWlhhUmkySDdaRXUtTEpQVFplcTRWTEhmUVhlOHVYOGJsZ2FVWlZiaDdqM2h0Wml2cU43dmlQZ3BiLUhjSS1PSVRYLWlIY05wS3pUY2x4YTZpY0hYZmdCTkFNa0lxTWRkYTA5Vw?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-505b8f2963d9",
@@ -399,15 +387,15 @@
       "siteUrl": "https://finance.eastmoney.com"
     },
     {
-      "id": "FL-e6da002b8732",
+      "id": "FL-d1d043dda2d5",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 07:07:30 GMT",
       "ts": 1790406450000,
       "scope": "intl",
       "type": "blast",
-      "title": "俄远东一煤矿矿区爆炸 有人员伤亡 - 东方财富",
+      "title": "俄远东一煤矿矿区爆炸 有人员伤亡 - eastmoney.com",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yRUEyVUZDMTdQcTR1emZMSTZNcTFrMzdVRktDNnBEVlNETk9FN29SVnA0WlQxVzg4NGsyd0ZZejJFWGFSSEVjQTl3M2p2blNWVllnTEVTRng2bkhBeXI0eA?oc=5",
-      "site": "东方财富",
+      "site": "eastmoney.com",
       "siteUrl": "https://wap.eastmoney.com"
     },
     {
