@@ -1,17 +1,17 @@
 {
-  "updated": "2026-09-29T02:29:41.603Z",
+  "updated": "2026-09-29T02:41:03.990Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-e4bbbe09c330",
+      "id": "FL-1fc8154c8d94",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 02:06:14 GMT",
       "ts": 1790647574000,
       "scope": "intl",
       "type": "blast",
-      "title": "军方：“非军事区的爆炸很可能是朝鲜的地雷” - 朝鮮日報中文版",
+      "title": "军方：“非军事区的爆炸很可能是朝鲜的地雷” - cnnews.chosun.com",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQVhzc2FjU2lTOW9LYVM0YlFYdjV4RHljdHA4ODVpWkR1RzlqTFFKVGxZUTZSdFo5bW85cjVUYlg3cGd1Rmx1cmRoWEx3YUdvVGE5bHJUTEJ3VFVRYjZRM0RqX2Fvdm1oN3Y1b1p5NWRkYnlfdUJzdXZnZ2FkalRhZFh3WW9VODQ?oc=5",
-      "site": "朝鮮日報中文版",
+      "site": "cnnews.chosun.com",
       "siteUrl": "https://cnnews.chosun.com"
     },
     {
@@ -63,18 +63,6 @@
       "siteUrl": "https://science.caixin.com"
     },
     {
-      "id": "FL-6612abd30963",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 07:00:00 GMT",
-      "ts": 1789628400000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "宇宙大爆炸最初五分钟氦丰度获最精确测量 - 中国科技网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MzVkcXZnR2UwelNkenFIYVFYVzBPcUxUQ1VSaUVHcV9LYVJnZzhjQWZzM09DNk8wc0xVNlo2amRqNjBueWtVeTdSbkJZT053RjRSZDhmeXJyT19wekF3UHB6WERtZkxLaFFwT2pVWTE?oc=5",
-      "site": "中国科技网",
-      "siteUrl": "https://www.stdaily.com"
-    },
-    {
       "id": "FL-382a151f8c29",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 22:15:26 GMT",
@@ -109,6 +97,18 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByaHBDS2F2VmxFYlR0SjNpVm1sRWo4UWR0b1lrTm4wQVdaNFBCcDZDUmliOWRkQmk5SFhwa0xfa3UxdThsWHZ5UGp3Yy1YOHNWcUhZaEZEMmtiS29wbDEwQjlodVY3ZnVLenV5ZVBUTHVmYldPMmpNRA?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
+    },
+    {
+      "id": "FL-e4210ecf8c66",
+      "date": "2026-09-27",
+      "dateISO": "Sun, 27 Sep 2026 07:20:08 GMT",
+      "ts": 1790493608000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Where’s the “intelligence explosion”? - by Ramez Naam - Noahpinion",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TU2dmbkt6OXJTZGRLUndMRHpXbGtBb2Z6c0RRb3lrVzBYdnZURUo3ZHV6Ym9kTUJiQ204enJCamdTZGFEU1N5ZjF0Nk45UjlBbHJvdGdPZVJWRWZPRThhbVN0bnlhZzI5TFNXemJFS3U?oc=5",
+      "site": "Noahpinion",
+      "siteUrl": "https://www.noahpinion.blog"
     },
     {
       "id": "FL-340d5e981918",
@@ -325,18 +325,6 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rNWVzZEFNN1FDLWZNSl9xNDVpVGc5ck80TndzUHBOckNMbUpMcXlNZDBkQmRFbkFkSlZIVXZGQXBnODRDWU5EUDUwV3dRekdJWDNaZWtFcFloWEZRb2RtTkFkaXRKT3JZVWU1STBZNXNpQWc?oc=5",
       "site": "新浪军事",
       "siteUrl": "https://mil.news.sina.com.cn"
-    },
-    {
-      "id": "FL-04a570af7a01",
-      "date": "2026-09-28",
-      "dateISO": "Mon, 28 Sep 2026 09:05:00 GMT",
-      "ts": 1790586300000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "韩军前沿部队爆炸事故现场传发现未爆地雷 - 韩联社",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRcW9ZSnkyUjRVNUVNaTFvY3JwOWtibHRzZ1NkeEdqRFFTS3RWSFpvNlByZE1EcUNBWHY0TkZPeG5STWZUbFVSTk1XWFdtNmkzRFozZF9ZUGVFTWVWSGpyd1Njd2cxTHRKOVlOaXhqSjBSLU81T2c?oc=5",
-      "site": "韩联社",
-      "siteUrl": "https://cn.yna.co.kr"
     },
     {
       "id": "FL-a4aee5ce4c98",
