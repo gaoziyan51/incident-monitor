@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T17:02:54.893Z",
+  "updated": "2026-09-29T17:20:08.018Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,15 +15,27 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-77adec2d34c9",
+      "id": "FL-6f32e8bf3b73",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 15:38:44 GMT",
+      "ts": 1790696324000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "溅落时引发剧烈爆炸！“星舰”飞船首次地球轨道飞行提前结束 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcGpvY0pWUlowb0g1Yk9jT25TZ2lsWll3ZzVjTXpQWlRad25uVlgycXQ4REpJRDFZWTNCSWR1MkkwazB0TkpVRURCX3pVbFVFTFIyTEVFVEpsWWFrRnc3bWxxcnNnN2RsVndrb1VzSUNkSUlxcUliX3BwVm0xVGR6M2IybG11ZTc3TURnRw?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-ed4b2673e144",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 15:33:00 GMT",
       "ts": 1790695980000,
       "scope": "dom",
       "type": "blast",
-      "title": "溅落时引发剧烈爆炸！“星舰”飞船首次地球轨道飞行提前结束 - finance.sina.com.cn",
+      "title": "溅落时引发剧烈爆炸！“星舰”飞船首次地球轨道飞行提前结束 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhOFNEa2lsYkR3NHNYa2JIbXVCbXA3ZEVMWldCVU9fZkRUejA0dDVFcjVXbWk0REp2VTVFR3VoQm8yOXpFNHRKXzgxTU03NFNQeUFOelNybEZTRS1MQ0RMSXZZdlhORWF2X3NuS20zZkdtLWZkbGgtRw?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -63,18 +75,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-4c69d750bf72",
-      "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 14:14:23 GMT",
-      "ts": 1790691263000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "一颗美国间谍卫星毫无预警的突然爆炸，原因不明 - 文学城",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nbUI4TVNDcTZwUmNqM0FXTEdDN0N1TktXTjhmOUh2UFVpZ1ZkMGsxQk5fNUpVVkNGOFlqNWVXOUlCRTlFcVItejRYUEx5XzI0RG5adWdKTlNxQUxCSzlYRnpZWENVcTFC?oc=5",
-      "site": "文学城",
-      "siteUrl": "https://www.wenxuecity.com"
-    },
-    {
       "id": "FL-5ab368322275",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 13:43:35 GMT",
@@ -97,6 +97,18 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93RGdDV2Z4Tm1pYUY3RmFSRWFOUW1rVHNfWXVWNkVLMFpDbTRoOUJVdVVBbWxuOTNRVjkzQlpqQWNlTGd3eW43WXNKOG1hOW1pMGJ6TUJIWG0?oc=5",
       "site": "驱动之家",
       "siteUrl": "https://news.mydrivers.com"
+    },
+    {
+      "id": "FL-117104420717",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 12:30:35 GMT",
+      "ts": 1790685035000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Exeter Township School District to discontinue homecoming bonfire after explosion - 6abc Philadelphia",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQjFxSmc0UlcxVlpYR3FBV2ZZblRrOFJ0ak95WW9laWp3VmhNNHNDa1l3V2hfLVRXQ0Vxd3lsMWw0dDNkS1FGaTJQb2xuS01FSDZ1Nm1YeVhRbUJpRzBuckttTFJsVWlKWHVvY0pCZTNDQXZZd3VvVUlyeW9ibjRDWmNxQ1llQ3lLcy1Jc1NPM19nMWxSd2szUm5VeW5FS2MzemJWUFo5NNIBrAFBVV95cUxQMXFVRTBxTUoybENXU3BIWDFSS254UTBhdmlrc0tLU0p2U2xwU21YeVVIVld0WjdwNFJvS19Ubkh3OC1FSXdjUnQyNFkxNUlWeVhISTZXTWE4cFNHNFlOMnVVRGN1em81cUQ0ZV9TSlc1UTNmSVhIYnl4QVFtUEFQeWYya1NsSThMUkx2UnR2MU9RRGtVUkxIWHh0TklZbTlWVWtHQ3dfRjdCWWxT?oc=5",
+      "site": "6abc Philadelphia",
+      "siteUrl": "https://6abc.com"
     },
     {
       "id": "FL-aca7f036c615",
@@ -135,16 +147,16 @@
       "siteUrl": "https://news.china.com"
     },
     {
-      "id": "FL-33d73e2e5167",
+      "id": "FL-18defd3aaa01",
       "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 11:12:12 GMT",
-      "ts": 1790680332000,
-      "scope": "dom",
+      "dateISO": "Tue, 29 Sep 2026 10:55:37 GMT",
+      "ts": 1790679337000,
+      "scope": "intl",
       "type": "blast",
-      "title": "三角洲二洲年群星汇集燃爆全场！55万干员充当急救志愿者助力公益事业！ - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZEZHTEdJOGlkVk5jM1FacEw3ZDhPNWRhSHpVMEY4b3BSVS1DQU10MjI4UDhEckpiSExLaEQxUS1zdFBQa3ZzYjhBV2QyU3o3blhIdFBVSUZwbzYzdTBtamY0dmRuRHMtcE5wSEd1OXZrM1JyeTZianVrQlpaUXMtTVBEUkNpR0ZabGlWYQ?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
+      "title": "一颗美国卫星突然爆炸，原因不明 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1JUkxZYUVSMkx6WlpobGd4ZWx4cGZTT3RQVnJ2LTdwN0pmTC1oczJQSEs2S3hVZ1g4c1M4SGdiczZ3SmkzLWVzc3RRM1g?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://news.ifeng.com"
     },
     {
       "id": "FL-db1562ff82c3",
@@ -183,30 +195,6 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-700f9ca487a8",
-      "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 09:20:00 GMT",
-      "ts": 1790673600000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "视线｜黎巴嫩寻呼机爆炸案两年后 幸存少年的劫后余生 - 财新",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oYW9yZmhiZ2hwNjl6MUZKb0RUZU45U3FwaTUtakNwMjRYcHNvUEV4Z2FfdHhIajhGQkRVd2MwTjJScG4zbXNQQjUwbDFwU3ZYeHpkVUVrWGdEc2p1WDhXXw?oc=5",
-      "site": "财新",
-      "siteUrl": "https://photos.caixin.com"
-    },
-    {
-      "id": "FL-9ba8b5d436e2",
-      "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 09:01:00 GMT",
-      "ts": 1790672460000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "开赛倒计时！费德勒搭档李娜、六款“爆炸头”……今年上海劳力士大师赛新惊喜抢先看 - finance.sina.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tdHpsYzF1dVNQVDZxMGJRTHFQSm1CNW52ZzlHYXZybURCUURhV0hyQ0l4WU80NGxvaFVDUVVrQUtpVzRnZkhCMTdmUnA4QmVWTkl2bTVWRXFTdERFNm1LYWFvZF9PZVNubEI2emJqSTViMzBSMGZvZw?oc=5",
-      "site": "finance.sina.com.cn",
-      "siteUrl": "https://finance.sina.com.cn"
-    },
-    {
       "id": "FL-7b0987d4867b",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 08:52:56 GMT",
@@ -243,15 +231,15 @@
       "siteUrl": "https://www.jpchinapress.com"
     },
     {
-      "id": "FL-3e8ac865bae6",
+      "id": "FL-0e169a3ccd91",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 07:22:21 GMT",
       "ts": 1790666541000,
       "scope": "intl",
       "type": "blast",
-      "title": "韩军在前沿爆炸事故现场发现一枚朝鲜地雷 - 韩联社",
+      "title": "韩军在前沿爆炸事故现场发现一枚朝鲜地雷 - cn.yna.co.kr",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xOE9ZM3JndE0zRkpqSm1Vc21hanRZek5BTVQ2WTJFYVBpMFpxdGJnR3p4X29tdzNPUEtzUE90R0IyNGM1bVN5QkVrdWxEa1RWalRCQmZPQWIwQQ?oc=5",
-      "site": "韩联社",
+      "site": "cn.yna.co.kr",
       "siteUrl": "https://cn.yna.co.kr"
     },
     {
@@ -279,15 +267,15 @@
       "siteUrl": "https://chinese.joins.com"
     },
     {
-      "id": "FL-51681f0930d3",
+      "id": "FL-193fe5c0f7a9",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 06:09:45 GMT",
       "ts": 1790662185000,
       "scope": "dom",
       "type": "blast",
-      "title": "韩统一部：将视前沿爆炸事故调查结果研究应对 - 韩联社",
+      "title": "韩统一部：将视前沿爆炸事故调查结果研究应对 - cn.yna.co.kr",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaSXh6RUN5Y3dyMmdERkVYSDBKOHdZVVRzYW92alZwUVR1VmRGYU1ZazJRcFpESVFMbFJFMnU3cUZfbFVkNXhvbkpzWGZNUDVQRFVYN1RuZEwyZw?oc=5",
-      "site": "韩联社",
+      "site": "cn.yna.co.kr",
       "siteUrl": "https://cn.yna.co.kr"
     },
     {
@@ -375,27 +363,27 @@
       "siteUrl": "https://www.noahpinion.blog"
     },
     {
-      "id": "FL-340d5e981918",
+      "id": "FL-f8061d91b549",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
       "ts": 1787468400000,
       "scope": "dom",
       "type": "blast",
-      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
+      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-0615dd398028",
+      "id": "FL-f38e3c0cb20f",
       "date": "2026-08-02",
       "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
       "ts": 1785654000000,
       "scope": "intl",
       "type": "blast",
-      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - 新华网",
+      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -435,15 +423,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-5e735aebc1c3",
+      "id": "FL-23997ed3202f",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 11:26:44 GMT",
       "ts": 1790422004000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 新华网",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlemFCa3lteDlkZERLTXRLMHhpeTIzNmFqanFBczVPaFNjQjVxOHNJNm54Tkhua1FqOGtuaUhBLWdRSWxXaFRoZThQZXJqclRIV1pUaTNhcjhHU0dwRzA1WXNQc2ZOVEhXX0Z1NUVBcnBUalJRWkE3ZlE0S3NOaXM?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -471,15 +459,15 @@
       "siteUrl": "https://emwap.eastmoney.com"
     },
     {
-      "id": "FL-6b4aa2b11579",
+      "id": "FL-04c00040a075",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 15:51:05 GMT",
       "ts": 1790610665000,
       "scope": "dom",
       "type": "blast",
-      "title": "AI研发自动化或引发“智能爆炸”！20多名顶尖研究人员呼吁政府加强监管 - 财联社",
+      "title": "AI研发自动化或引发“智能爆炸”！20多名顶尖研究人员呼吁政府加强监管 - cls.cn",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5XY05paDVKVHg0TEJqRU1sWkJaLXhYM3QydGk4OWI3NlNFRzA3UHpHUTh3cjNxeDhESm1ac3VLeTdHdExCZ3JnTw?oc=5",
-      "site": "财联社",
+      "site": "cls.cn",
       "siteUrl": "https://www.cls.cn"
     },
     {
