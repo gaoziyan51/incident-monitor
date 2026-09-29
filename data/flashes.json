@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-29T11:22:49.316Z",
+  "updated": "2026-09-29T11:36:11.519Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-ea25ec7da162",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 11:31:21 GMT",
+      "ts": 1790681481000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "货车司机救人后遭燃爆烧伤 - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FbGpRaThpQ0lxa2xLRFd5OHg1M1ZEdkFtT0hoa21qdVFobHlKcTdqUERwTzVnTEhfMXpsMExOUjNkUkZjYmg2cGpfNTVKX1U1bTdmX2pnVzUtekJ4RU1XR0F2M1BwXzdKWWZySUdvdlR2dw?oc=5",
+      "site": "手机新浪网",
+      "siteUrl": "https://k.sina.com.cn"
+    },
+    {
+      "id": "FL-23a779106230",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 11:27:10 GMT",
+      "ts": 1790681230000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "美“星舰”溅落时剧烈爆炸火光冲天 着陆失败引发担忧 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14YlpEclpiM3Rjak45ekxCcnRXb0ZaY2U2cGRjdlZJU2xLTUxGV21rQ2g0TXhaZ2d1XzZwamFoNzRZSkVHSUY0S0taZ1BCTTRscXlMaFdBdDl1ZExZTWJINlR1NWlJSEpaS3NWX1o4bGo?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
+    },
     {
       "id": "FL-33d73e2e5167",
       "date": "2026-09-29",
@@ -10,20 +34,20 @@
       "scope": "dom",
       "type": "blast",
       "title": "三角洲二洲年群星汇集燃爆全场！55万干员充当急救志愿者助力公益事业！ - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVWFvUU56dmdBQnVtaHVUQnd4eXpwMDFfMGlTNzFrOHZDcHZ5WWtjT0F3aExTSjFXblVMTlZpbmtwc1VsQW4xZHppcW8zalJQS19XVlNuVHplcDFVaml6Q2RuSHRVYW5leUFaeFBndU4xWENuelNwSHNySURRTU1FTXR6Smh1ZTlJVnR2V3hkWFNGOHpTSnJ4SHRPMk9wQ1NFZXlpZWpQVG1mc0QxVjhOVmIyeTVWTlB5S3JDeFYwTVNic3VPUlgtR2RhWW9WOFFZUHZiWjBFcFdZTk1iYmpXWk9aMnVMeUhieGlGMUU2Uml1SnRKV2JqVkIwdnlydw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZEZHTEdJOGlkVk5jM1FacEw3ZDhPNWRhSHpVMEY4b3BSVS1DQU10MjI4UDhEckpiSExLaEQxUS1zdFBQa3ZzYjhBV2QyU3o3blhIdFBVSUZwbzYzdTBtamY0dmRuRHMtcE5wSEd1OXZrM1JyeTZianVrQlpaUXMtTVBEUkNpR0ZabGlWYQ?oc=5",
       "site": "搜狐网",
-      "siteUrl": "https://www.sohu.com"
+      "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-4c74263a5b99",
+      "id": "FL-18defd3aaa01",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 10:55:37 GMT",
       "ts": 1790679337000,
       "scope": "intl",
       "type": "blast",
-      "title": "一颗美国卫星突然爆炸，原因不明 - news.ifeng.com",
+      "title": "一颗美国卫星突然爆炸，原因不明 - 凤凰网",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1JUkxZYUVSMkx6WlpobGd4ZWx4cGZTT3RQVnJ2LTdwN0pmTC1oczJQSEs2S3hVZ1g4c1M4SGdiczZ3SmkzLWVzc3RRM1g?oc=5",
-      "site": "news.ifeng.com",
+      "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com"
     },
     {
@@ -37,6 +61,18 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQjFxSmc0UlcxVlpYR3FBV2ZZblRrOFJ0ak95WW9laWp3VmhNNHNDa1l3V2hfLVRXQ0Vxd3lsMWw0dDNkS1FGaTJQb2xuS01FSDZ1Nm1YeVhRbUJpRzBuckttTFJsVWlKWHVvY0pCZTNDQXZZd3VvVUlyeW9ibjRDWmNxQ1llQ3lLcy1Jc1NPM19nMWxSd2szUm5VeW5FS2MzemJWUFo5NNIBrAFBVV95cUxQMXFVRTBxTUoybENXU3BIWDFSS254UTBhdmlrc0tLU0p2U2xwU21YeVVIVld0WjdwNFJvS19Ubkh3OC1FSXdjUnQyNFkxNUlWeVhISTZXTWE4cFNHNFlOMnVVRGN1em81cUQ0ZV9TSlc1UTNmSVhIYnl4QVFtUEFQeWYya1NsSThMUkx2UnR2MU9RRGtVUkxIWHh0TklZbTlWVWtHQ3dfRjdCWWxT?oc=5",
       "site": "6abc Philadelphia",
       "siteUrl": "https://6abc.com"
+    },
+    {
+      "id": "FL-d3f5a4a731b8",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 10:36:59 GMT",
+      "ts": 1790678219000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "美“星舰”首次地球轨道飞行提前结束，溅落时引发剧烈爆炸 - 欧洲头条",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQd3BHT3YzOV96SXRxNU5zQmR3aTF1cEdLdVJMWm14c2ZGYmdsQ2MtZk4zUHo4UzNHLWJBUmdNZGFkd19ncmZoazdjOFcwN0lsY1pBQW9DcWR6V0VFOTFDVXNERUJJdXYwSDVReFZTZ3h6UkZkQmwyQzk2T2FzZUNEcVlJaGxBbkp0bjExbldDdllaYTVDdkpjM2tIMUVjT2dJcmQzR0RfOUR0dllkel82UFFvNXRGLUV4ay1TbDVUY25WOGg2QWxTTFFta240S2xUeG9pbw?oc=5",
+      "site": "欧洲头条",
+      "siteUrl": "https://www.xinouzhou.com"
     },
     {
       "id": "FL-eb6d906d0f45",
@@ -87,15 +123,15 @@
       "siteUrl": "https://photos.caixin.com"
     },
     {
-      "id": "FL-78a66c85c36f",
+      "id": "FL-7b0987d4867b",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 08:52:56 GMT",
       "ts": 1790671976000,
       "scope": "dom",
       "type": "blast",
-      "title": "韩总统要求军方查明非军事区地雷爆炸事故 - news.ifeng.com",
+      "title": "韩总统要求军方查明非军事区地雷爆炸事故 - 凤凰网",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE81eHRiaUdKcDhldDlKYnhrcmlrdVRNbEZBeUdIS2ptdTNta291MTFyNlVVeEZQOEJGUDZ6TEI1QVZKb2ZJX3RWQjlXU3A?oc=5",
-      "site": "news.ifeng.com",
+      "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com"
     },
     {
@@ -123,15 +159,15 @@
       "siteUrl": "https://www.jpchinapress.com"
     },
     {
-      "id": "FL-0e169a3ccd91",
+      "id": "FL-3e8ac865bae6",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 07:22:21 GMT",
       "ts": 1790666541000,
       "scope": "intl",
       "type": "blast",
-      "title": "韩军在前沿爆炸事故现场发现一枚朝鲜地雷 - cn.yna.co.kr",
+      "title": "韩军在前沿爆炸事故现场发现一枚朝鲜地雷 - 韩联社",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xOE9ZM3JndE0zRkpqSm1Vc21hanRZek5BTVQ2WTJFYVBpMFpxdGJnR3p4X29tdzNPUEtzUE90R0IyNGM1bVN5QkVrdWxEa1RWalRCQmZPQWIwQQ?oc=5",
-      "site": "cn.yna.co.kr",
+      "site": "韩联社",
       "siteUrl": "https://cn.yna.co.kr"
     },
     {
@@ -171,15 +207,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-193fe5c0f7a9",
+      "id": "FL-51681f0930d3",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 06:09:45 GMT",
       "ts": 1790662185000,
       "scope": "dom",
       "type": "blast",
-      "title": "韩统一部：将视前沿爆炸事故调查结果研究应对 - cn.yna.co.kr",
+      "title": "韩统一部：将视前沿爆炸事故调查结果研究应对 - 韩联社",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaSXh6RUN5Y3dyMmdERkVYSDBKOHdZVVRzYW92alZwUVR1VmRGYU1ZazJRcFpESVFMbFJFMnU3cUZfbFVkNXhvbkpzWGZNUDVQRFVYN1RuZEwyZw?oc=5",
-      "site": "cn.yna.co.kr",
+      "site": "韩联社",
       "siteUrl": "https://cn.yna.co.kr"
     },
     {
@@ -219,39 +255,39 @@
       "siteUrl": "https://www.geekpark.net"
     },
     {
-      "id": "FL-e3d3c2861f38",
+      "id": "FL-0e7dc573a75a",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 02:34:01 GMT",
       "ts": 1790649241000,
       "scope": "dom",
       "type": "blast",
-      "title": "韩总统府：非军事区爆炸事故调查纯粹基于军事判断 - cn.yna.co.kr",
+      "title": "韩总统府：非军事区爆炸事故调查纯粹基于军事判断 - 韩联社",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wakx4a0RTdTFPcmNyLUwzOG55RlpOcVdWbklENmNXM0ZERzExNThxOF91NExlSjRYQmMxSlRzdFJRdFJIMl8zQ3JNMDZOOWVjVmFFbjJPVGpWdw?oc=5",
-      "site": "cn.yna.co.kr",
+      "site": "韩联社",
       "siteUrl": "https://cn.yna.co.kr"
     },
     {
-      "id": "FL-f42aba563249",
+      "id": "FL-a942b5132d03",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 01:31:01 GMT",
       "ts": 1790645461000,
       "scope": "intl",
       "type": "blast",
-      "title": "韩军：非军事区爆炸极可能由朝鲜地雷引发 - cn.yna.co.kr",
+      "title": "韩军：非军事区爆炸极可能由朝鲜地雷引发 - 韩联社",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ULWkzQnlnZ3VlaEhTNW1hdlVKSmhaN1VVZzFuM25rVzlScjJTZnAxRV9lSGx4WXd6bWNqRFI1X1FUd1hsZWJxQ2t1V2VOcFFSSGplVGFlWFhKbTdmT3R5YmVia1ktdTlMZ3JZakRRM05XYnFBMmc?oc=5",
-      "site": "cn.yna.co.kr",
+      "site": "韩联社",
       "siteUrl": "https://cn.yna.co.kr"
     },
     {
-      "id": "FL-bf2598b6eb4a",
+      "id": "FL-6e0d8b25d9a2",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 01:18:15 GMT",
       "ts": 1790644695000,
       "scope": "dom",
       "type": "blast",
-      "title": "爆炸🌋 - moomoo.com",
+      "title": "爆炸🌋 - Moomoo",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMnQtbGJIVGlaZFBybExuTmJaS25CLTRBWTVrMG5LcnhkTXYtaC1FUXVJSDJfZktfaF93VEhHOEhwQUEwWEU1NVVIU0RNc1hxWWUwYlBXR1VyRnlueUtrYVpXdndLTGVEdm1fTEw0N2pIbGM0UjB2ZlAyMVhwMjhRVjVfaFVzTll0cklidjJ2YUFpU2g2bGJKVVo4cndxZ09Rblc0aHgxNjFtdFJSZlJtSE8tQ3FyZkdSWEE?oc=5",
-      "site": "moomoo.com",
+      "site": "Moomoo",
       "siteUrl": "https://www.moomoo.com"
     },
     {
@@ -279,15 +315,15 @@
       "siteUrl": "https://science.caixin.com"
     },
     {
-      "id": "FL-f1c86563e0e4",
+      "id": "FL-d2803d2cff60",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 17:10:36 GMT",
       "ts": 1790529036000,
       "scope": "intl",
       "type": "blast",
-      "title": "英国疏散美军所用基地附近居民 多人涉爆炸物被捕 - 央视网",
+      "title": "英国疏散美军所用基地附近居民 多人涉爆炸物被捕 - news.cctv.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91MjNOYzJjSVZaVUpOZjQ3OGwtYnBaNUZNZi1BTUg0LXlDcjhueElmdjlqWTI1cF83YkdPdjVEUmo3a1FKSXVPTVhpNkVaVF8wNk5GbkJsVG1kQjAzRUtMWEpJMmgxMzNQcTl5bmRadTc4R2xuUVJEWA?oc=5",
-      "site": "央视网",
+      "site": "news.cctv.com",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -397,6 +433,18 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wMWFuZGplcnloclpwblE2R1M4YzJiR0Y4TFZNSUhqNjVtajUyUERhUWxVV21VV1V6WHU4N3Y0M2dfR2d3ajJzcXBZZjZkR2RkOG9qLXRhYzk3aGFCUmc?oc=5",
       "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
+      "id": "FL-6db604326750",
+      "date": "2026-09-28",
+      "dateISO": "Mon, 28 Sep 2026 23:28:32 GMT",
+      "ts": 1790638112000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "伊朗媒体：格什姆岛附近传出爆炸声 系警告射击所致 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0cE1yTkZvd2ZUdmcyV3JMZEJFLW8zZ3lNTUNtemd6X0RQTXA3bXB3UUloLXpaVC1xcm1qQ1UwUTJaQl9KSnJ6RHBMTlZNenBZNkdKcDE3QXFDWjdOYnRyWE02Yw?oc=5",
+      "site": "东方财富",
+      "siteUrl": "https://emwap.eastmoney.com"
     },
     {
       "id": "FL-02bcd2ec3d72",
