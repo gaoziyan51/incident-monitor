@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T07:30:46.761Z",
+  "updated": "2026-09-29T07:48:29.278Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -135,15 +135,15 @@
       "siteUrl": "https://www.moomoo.com"
     },
     {
-      "id": "FL-bf5ce353b970",
+      "id": "FL-2b4a1c57ede1",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 00:50:36 GMT",
       "ts": 1790643036000,
       "scope": "dom",
       "type": "blast",
-      "title": "20余名行业领袖示警“智能爆炸”，Anthropic、OpenAI高管呼吁关注AI自我改进 - 凤凰网科技",
+      "title": "20余名行业领袖示警“智能爆炸”，Anthropic、OpenAI高管呼吁关注AI自我改进 - tech.ifeng.com",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA5Mzh3OTJ3RGZ3VXE5bkVVNzIyV3prMkJkSXdxQ2p0RTBCRjJkLWd2bzdydDE2cW4tQkgyTnZxT3VGcVI3QWdYTm4wYnM?oc=5",
-      "site": "凤凰网科技",
+      "site": "tech.ifeng.com",
       "siteUrl": "https://tech.ifeng.com"
     },
     {
@@ -315,18 +315,6 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
-      "id": "FL-0e2bdd952f52",
-      "date": "2026-09-28",
-      "dateISO": "Mon, 28 Sep 2026 19:29:00 GMT",
-      "ts": 1790623740000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "AI godfathers warn of runaway ‘intelligence explosion’ - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMFNkQmpvTmdlZER6dDF6NXlNZ2x2WnpicUlHeDBvRjNRUzlaZy01OUI5Sm91YV9DRUh0Qmk4TzNwTTQ1alBveEdGOHNHcy0wa1pqR0lsZVR2dUxoQ3R1V1FnZTJuZG9MS1d3OWs3eTgxb0ZmUl96dGNiWkhzMk1wN3oyV0xFYjVrdGtIQ1Vzb0l0SWdBWlZEalo3WmxNbVpxNjJoX1dR?oc=5",
-      "site": "The Guardian",
-      "siteUrl": "https://www.theguardian.com"
-    },
-    {
       "id": "FL-ee7ee3979dc4",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 16:42:00 GMT",
@@ -363,16 +351,28 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-04c00040a075",
+      "id": "FL-6b4aa2b11579",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 15:51:05 GMT",
       "ts": 1790610665000,
       "scope": "dom",
       "type": "blast",
-      "title": "AI研发自动化或引发“智能爆炸”！20多名顶尖研究人员呼吁政府加强监管 - cls.cn",
+      "title": "AI研发自动化或引发“智能爆炸”！20多名顶尖研究人员呼吁政府加强监管 - 财联社",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5XY05paDVKVHg0TEJqRU1sWkJaLXhYM3QydGk4OWI3NlNFRzA3UHpHUTh3cjNxeDhESm1ac3VLeTdHdExCZ3JnTw?oc=5",
-      "site": "cls.cn",
+      "site": "财联社",
       "siteUrl": "https://www.cls.cn"
+    },
+    {
+      "id": "FL-b94029012048",
+      "date": "2026-09-28",
+      "dateISO": "Mon, 28 Sep 2026 15:00:00 GMT",
+      "ts": 1790607600000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "AI godfathers warn of runaway ‘intelligence explosion’ - theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMFNkQmpvTmdlZER6dDF6NXlNZ2x2WnpicUlHeDBvRjNRUzlaZy01OUI5Sm91YV9DRUh0Qmk4TzNwTTQ1alBveEdGOHNHcy0wa1pqR0lsZVR2dUxoQ3R1V1FnZTJuZG9MS1d3OWs3eTgxb0ZmUl96dGNiWkhzMk1wN3oyV0xFYjVrdGtIQ1Vzb0l0SWdBWlZEalo3WmxNbVpxNjJoX1dR?oc=5",
+      "site": "theguardian.com",
+      "siteUrl": "https://www.theguardian.com"
     }
   ]
 }
