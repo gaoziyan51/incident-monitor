@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-29T15:06:34.386Z",
+  "updated": "2026-09-29T15:23:16.294Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-b5817d683dd6",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 15:00:25 GMT",
+      "ts": 1790694025000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "韩国指朝鲜地雷引发军事分界线爆炸 违反停战协定 - 8world",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1qNVl2WS1TbUU1WGtlbWtDSk91aVRMRUJiTER0c3ZhVG5wQjZzYU9FS0g0RFJMQS1tS2lBRXBNZWxVU3dzcFJ0TlJ2bTV4M1ZVTUhMMXowV2VHR3VTV21tUnNQcjZQNjI5RFZuUGxRLUx2UkNUaG1sT1hIR2Y?oc=5",
+      "site": "8world",
+      "siteUrl": "https://www.8world.com"
+    },
     {
       "id": "FL-a63ee9cc349e",
       "date": "2026-09-29",
@@ -267,18 +279,6 @@
       "siteUrl": "https://chinese.joins.com"
     },
     {
-      "id": "FL-ef4a8f294b36",
-      "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 03:02:15 GMT",
-      "ts": 1790650935000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "信息爆炸的 10 篇 AGI 访谈，我们从中整理了 14 个关键问题 - 极客公园",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9aa1plUzdlNng2NGlWRVYzLTV5U1pZdWpHN3luelA5WXY1VENXU3FNdDFadmVtZS1nNXhtWFpqbmRQeENuRHlWR0lPYWc?oc=5",
-      "site": "极客公园",
-      "siteUrl": "https://www.geekpark.net"
-    },
-    {
       "id": "FL-0e7dc573a75a",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 02:34:01 GMT",
@@ -351,27 +351,27 @@
       "siteUrl": "https://www.noahpinion.blog"
     },
     {
-      "id": "FL-340d5e981918",
+      "id": "FL-f8061d91b549",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
       "ts": 1787468400000,
       "scope": "dom",
       "type": "blast",
-      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
+      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-0615dd398028",
+      "id": "FL-f38e3c0cb20f",
       "date": "2026-08-02",
       "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
       "ts": 1785654000000,
       "scope": "intl",
       "type": "blast",
-      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - 新华网",
+      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -411,15 +411,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-5e735aebc1c3",
+      "id": "FL-23997ed3202f",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 11:26:44 GMT",
       "ts": 1790422004000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 新华网",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlemFCa3lteDlkZERLTXRLMHhpeTIzNmFqanFBczVPaFNjQjVxOHNJNm54Tkhua1FqOGtuaUhBLWdRSWxXaFRoZThQZXJqclRIV1pUaTNhcjhHU0dwRzA1WXNQc2ZOVEhXX0Z1NUVBcnBUalJRWkE3ZlE0S3NOaXM?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -445,18 +445,6 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0cE1yTkZvd2ZUdmcyV3JMZEJFLW8zZ3lNTUNtemd6X0RQTXA3bXB3UUloLXpaVC1xcm1qQ1UwUTJaQl9KSnJ6RHBMTlZNenBZNkdKcDE3QXFDWjdOYnRyWE02Yw?oc=5",
       "site": "东方财富",
       "siteUrl": "https://emwap.eastmoney.com"
-    },
-    {
-      "id": "FL-02bcd2ec3d72",
-      "date": "2026-09-28",
-      "dateISO": "Mon, 28 Sep 2026 16:40:41 GMT",
-      "ts": 1790613641000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "韩朝军事分界线附近地雷爆炸致3名韩军士兵受伤 韩方称或为朝方埋设 - jpchinapress.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTUxWNlpsemVEby02d0dUdWZBenc4VUo2cW9za3VtVW92eFBNWTl5LTNOVk9xZHlydFFqXy1hZkV2ZjhwdHdoSVRjY1I4c0JtRmh6bU85c053OE1RSFhPS1FEQ19aTUJxSk9FVW5sTzVKYmE2MWo2QmFaOWw4cW9DejcwYWRwenlTbnc?oc=5",
-      "site": "jpchinapress.com",
-      "siteUrl": "https://www.jpchinapress.com"
     },
     {
       "id": "FL-6b4aa2b11579",
