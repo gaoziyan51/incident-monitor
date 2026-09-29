@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T15:52:34.250Z",
+  "updated": "2026-09-29T16:04:06.743Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -13,18 +13,6 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhOFNEa2lsYkR3NHNYa2JIbXVCbXA3ZEVMWldCVU9fZkRUejA0dDVFcjVXbWk0REp2VTVFR3VoQm8yOXpFNHRKXzgxTU03NFNQeUFOelNybEZTRS1MQ0RMSXZZdlhORWF2X3NuS20zZkdtLWZkbGgtRw?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
-    },
-    {
-      "id": "FL-54a00e937f38",
-      "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 15:09:38 GMT",
-      "ts": 1790694578000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "韩国指朝鲜地雷引发边境爆炸 称违反停战协定 - 8world",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95dEZVQkVpVjVDYTBsNEZRakNUZGdfQU91WE13Y2EtYVhxeTVrLUxSc2FNUUIzOEstY1YzaUJDaUhBaUhxNXhVUTBaZWxXYmIzVkMydmpsMHJhV3lrdjFnZWtqOFF3SUpIT2JFcDRWOA?oc=5",
-      "site": "8world",
-      "siteUrl": "https://www.8world.com"
     },
     {
       "id": "FL-b5817d683dd6",
@@ -123,15 +111,15 @@
       "siteUrl": "https://k.sina.com.cn"
     },
     {
-      "id": "FL-0bd691487170",
+      "id": "FL-23a779106230",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 11:27:10 GMT",
       "ts": 1790681230000,
       "scope": "dom",
       "type": "blast",
-      "title": "美“星舰”溅落时剧烈爆炸火光冲天 着陆失败引发担忧 - news.china.com",
+      "title": "美“星舰”溅落时剧烈爆炸火光冲天 着陆失败引发担忧 - 中华网",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14YlpEclpiM3Rjak45ekxCcnRXb0ZaY2U2cGRjdlZJU2xLTUxGV21rQ2g0TXhaZ2d1XzZwamFoNzRZSkVHSUY0S0taZ1BCTTRscXlMaFdBdDl1ZExZTWJINlR1NWlJSEpaS3NWX1o4bGo?oc=5",
-      "site": "news.china.com",
+      "site": "中华网",
       "siteUrl": "https://news.china.com"
     },
     {
@@ -303,18 +291,6 @@
       "siteUrl": "https://chinese.joins.com"
     },
     {
-      "id": "FL-ef4a8f294b36",
-      "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 03:02:15 GMT",
-      "ts": 1790650935000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "信息爆炸的 10 篇 AGI 访谈，我们从中整理了 14 个关键问题 - 极客公园",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9aa1plUzdlNng2NGlWRVYzLTV5U1pZdWpHN3luelA5WXY1VENXU3FNdDFadmVtZS1nNXhtWFpqbmRQeENuRHlWR0lPYWc?oc=5",
-      "site": "极客公园",
-      "siteUrl": "https://www.geekpark.net"
-    },
-    {
       "id": "FL-6e0d8b25d9a2",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 01:18:15 GMT",
@@ -337,6 +313,18 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA5Mzh3OTJ3RGZ3VXE5bkVVNzIyV3prMkJkSXdxQ2p0RTBCRjJkLWd2bzdydDE2cW4tQkgyTnZxT3VGcVI3QWdYTm4wYnM?oc=5",
       "site": "凤凰网科技",
       "siteUrl": "https://tech.ifeng.com"
+    },
+    {
+      "id": "FL-385dd58b908a",
+      "date": "2026-08-11",
+      "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
+      "ts": 1786431600000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - 财新",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fOUNOVy1jMjYtRHRacDFONmZLdmtlUTBvcjVNX0xwMG9rc2lwYkV4ZzRCOFVIVmdNLXdZcUo3Mkw1UnI3elZsRjNGblI4YTBsMGxPeHJCRnZSNWE0dXNTdXRxcUQ?oc=5",
+      "site": "财新",
+      "siteUrl": "https://science.caixin.com"
     },
     {
       "id": "FL-f1c86563e0e4",
