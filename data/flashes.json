@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-29T10:58:26.780Z",
+  "updated": "2026-09-29T11:08:26.299Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
       "id": "FL-117104420717",
       "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 10:42:28 GMT",
-      "ts": 1790678548000,
+      "dateISO": "Tue, 29 Sep 2026 10:45:27 GMT",
+      "ts": 1790678727000,
       "scope": "intl",
       "type": "blast",
       "title": "Exeter Township School District to discontinue homecoming bonfire after explosion - 6abc Philadelphia",
@@ -15,15 +15,27 @@
       "siteUrl": "https://6abc.com"
     },
     {
-      "id": "FL-82dc06a5c594",
+      "id": "FL-eb6d906d0f45",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 10:31:17 GMT",
+      "ts": 1790677877000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "目击者描述伊巴尔-莱佩纳茨运河爆炸事件：房子摇晃了，我以为是地震。 - KoSSev",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE05MV9CS0lhMnhTYWpBMVRyQ1dXTVdjbG1VYU5SczRYaC1aekxrRHFMazRPQXdvaWNCWHh5OC04YXBKbkk4WnM0UG0ydDZfTVdqRnVrVmhPNF9aQWg2OHVkVHR5Ym1NblBack0xcFAxaHVyMmU2dkZWZWZCVQ?oc=5",
+      "site": "KoSSev",
+      "siteUrl": "https://kossev.info"
+    },
+    {
+      "id": "FL-9ba8b5d436e2",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 10:23:17 GMT",
       "ts": 1790677397000,
       "scope": "dom",
       "type": "blast",
-      "title": "开赛倒计时！费德勒搭档李娜、六款“爆炸头”……今年上海劳力士大师赛新惊喜抢先看 - 新浪财经",
+      "title": "开赛倒计时！费德勒搭档李娜、六款“爆炸头”……今年上海劳力士大师赛新惊喜抢先看 - finance.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZVhyWjVLTmxPRWRjYUhyUTZISG1kZ2RHMjY4Q09Bd3dyRGx5Rm13clpxRXJGV3VWTU9aQkkxTnNzeGFjOTM1STlzb09ncE9LZmhNNUJSYXBYT2kxTTNPcHNidzFDN08taVZOaDhfVERDX0FWSFZhbVJ3ZTlfS0FrM0RrWFozZFkyVGpIdk9rdXZEd1lFbFp6bk9VdURtMzRZ?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.com.cn",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -87,15 +99,15 @@
       "siteUrl": "https://www.jpchinapress.com"
     },
     {
-      "id": "FL-0e169a3ccd91",
+      "id": "FL-3e8ac865bae6",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 07:22:21 GMT",
       "ts": 1790666541000,
       "scope": "intl",
       "type": "blast",
-      "title": "韩军在前沿爆炸事故现场发现一枚朝鲜地雷 - cn.yna.co.kr",
+      "title": "韩军在前沿爆炸事故现场发现一枚朝鲜地雷 - 韩联社",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xOE9ZM3JndE0zRkpqSm1Vc21hanRZek5BTVQ2WTJFYVBpMFpxdGJnR3p4X29tdzNPUEtzUE90R0IyNGM1bVN5QkVrdWxEa1RWalRCQmZPQWIwQQ?oc=5",
-      "site": "cn.yna.co.kr",
+      "site": "韩联社",
       "siteUrl": "https://cn.yna.co.kr"
     },
     {
@@ -135,15 +147,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-193fe5c0f7a9",
+      "id": "FL-51681f0930d3",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 06:09:45 GMT",
       "ts": 1790662185000,
       "scope": "dom",
       "type": "blast",
-      "title": "韩统一部：将视前沿爆炸事故调查结果研究应对 - cn.yna.co.kr",
+      "title": "韩统一部：将视前沿爆炸事故调查结果研究应对 - 韩联社",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaSXh6RUN5Y3dyMmdERkVYSDBKOHdZVVRzYW92alZwUVR1VmRGYU1ZazJRcFpESVFMbFJFMnU3cUZfbFVkNXhvbkpzWGZNUDVQRFVYN1RuZEwyZw?oc=5",
-      "site": "cn.yna.co.kr",
+      "site": "韩联社",
       "siteUrl": "https://cn.yna.co.kr"
     },
     {
@@ -171,18 +183,6 @@
       "siteUrl": "https://chinese.joins.com"
     },
     {
-      "id": "FL-662c87430ce2",
-      "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 04:12:00 GMT",
-      "ts": 1790655120000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "韩国国防部称非军事区爆炸违反停战协定——《韩国先驱报》 - UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbEQ5TjNJVE45bGVKMzFOdXFmeE5mOWd4aVVrRTAyTUNLWmhMVTJfVEhPUk1PUW9ldm9UYmZxaTJwYmtJMEV6WjRqa0NCTWNXMzJxTzhTOENobXE5ZW8xeXExLThZY1R2ZUQ3MmVhcUxVems1T1pMbXNjV2RNTkYzSWU3bjBuR2ZfU1NwNEIyeHRGN1pJZ0dhNmRIc0lySDlyYXIxTFBjMWZFaTNocWJwMA?oc=5",
-      "site": "UA.NEWS",
-      "siteUrl": "https://ua.news"
-    },
-    {
       "id": "FL-ef4a8f294b36",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 03:02:15 GMT",
@@ -195,27 +195,27 @@
       "siteUrl": "https://www.geekpark.net"
     },
     {
-      "id": "FL-e3d3c2861f38",
+      "id": "FL-0e7dc573a75a",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 02:34:01 GMT",
       "ts": 1790649241000,
       "scope": "dom",
       "type": "blast",
-      "title": "韩总统府：非军事区爆炸事故调查纯粹基于军事判断 - cn.yna.co.kr",
+      "title": "韩总统府：非军事区爆炸事故调查纯粹基于军事判断 - 韩联社",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wakx4a0RTdTFPcmNyLUwzOG55RlpOcVdWbklENmNXM0ZERzExNThxOF91NExlSjRYQmMxSlRzdFJRdFJIMl8zQ3JNMDZOOWVjVmFFbjJPVGpWdw?oc=5",
-      "site": "cn.yna.co.kr",
+      "site": "韩联社",
       "siteUrl": "https://cn.yna.co.kr"
     },
     {
-      "id": "FL-f42aba563249",
+      "id": "FL-a942b5132d03",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 01:31:01 GMT",
       "ts": 1790645461000,
       "scope": "intl",
       "type": "blast",
-      "title": "韩军：非军事区爆炸极可能由朝鲜地雷引发 - cn.yna.co.kr",
+      "title": "韩军：非军事区爆炸极可能由朝鲜地雷引发 - 韩联社",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ULWkzQnlnZ3VlaEhTNW1hdlVKSmhaN1VVZzFuM25rVzlScjJTZnAxRV9lSGx4WXd6bWNqRFI1X1FUd1hsZWJxQ2t1V2VOcFFSSGplVGFlWFhKbTdmT3R5YmVia1ktdTlMZ3JZakRRM05XYnFBMmc?oc=5",
-      "site": "cn.yna.co.kr",
+      "site": "韩联社",
       "siteUrl": "https://cn.yna.co.kr"
     },
     {
