@@ -1,17 +1,41 @@
 {
-  "updated": "2026-09-29T03:02:19.554Z",
+  "updated": "2026-09-29T03:20:56.337Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-e4bbbe09c330",
+      "id": "FL-ed1b2d53ff30",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 03:12:20 GMT",
+      "ts": 1790651540000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "伊朗格什姆岛附近传出爆炸声 系警告射击所致 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZS1yMTh3TEJFUnF3ZlNlZEx2YTExQkdYUi03VGFBdHRVdmtSdHQ4eHpvTFYycXBraFFraWZTOURWbEFRRjBLNkZDenRoNDlkeUxGQmRmY1BKdG5PT1hlZjg2Nm5YaDlYdFllazdMZlUtOUlBNF9JY3lyU1ZLSFVZdXVVQ1VRRVY3M2xFbw?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-ef4a8f294b36",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 03:02:15 GMT",
+      "ts": 1790650935000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "信息爆炸的 10 篇 AGI 访谈，我们从中整理了 14 个关键问题 - 极客公园",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9aa1plUzdlNng2NGlWRVYzLTV5U1pZdWpHN3luelA5WXY1VENXU3FNdDFadmVtZS1nNXhtWFpqbmRQeENuRHlWR0lPYWc?oc=5",
+      "site": "极客公园",
+      "siteUrl": "https://www.geekpark.net"
+    },
+    {
+      "id": "FL-1fc8154c8d94",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 02:02:12 GMT",
       "ts": 1790647332000,
       "scope": "intl",
       "type": "blast",
-      "title": "军方：“非军事区的爆炸很可能是朝鲜的地雷” - 朝鮮日報中文版",
+      "title": "军方：“非军事区的爆炸很可能是朝鲜的地雷” - cnnews.chosun.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSGNlbzQ1VzI4R0lFdUswcWVKcDVheEtKUkZZX25Ja25RMm56TGhvU25JZ1lZaFlORW8ycmJ3SGNPR3Vmc3VSQXlxaVY5YldPdUhoXzhrd2hzbC13LTJvS2dWOWhMTS1hU2p2Y1pTdVhIZkpfTm9kMF9KWjBvSWxvalZxUG5iZnVod1J4REpWLWwxUQ?oc=5",
-      "site": "朝鮮日報中文版",
+      "site": "cnnews.chosun.com",
       "siteUrl": "https://cnnews.chosun.com"
     },
     {
@@ -27,28 +51,16 @@
       "siteUrl": "https://cn.yna.co.kr"
     },
     {
-      "id": "FL-6e0d8b25d9a2",
+      "id": "FL-bf2598b6eb4a",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 01:18:15 GMT",
       "ts": 1790644695000,
       "scope": "dom",
       "type": "blast",
-      "title": "爆炸🌋 - Moomoo",
+      "title": "爆炸🌋 - moomoo.com",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMnQtbGJIVGlaZFBybExuTmJaS25CLTRBWTVrMG5LcnhkTXYtaC1FUXVJSDJfZktfaF93VEhHOEhwQUEwWEU1NVVIU0RNc1hxWWUwYlBXR1VyRnlueUtrYVpXdndLTGVEdm1fTEw0N2pIbGM0UjB2ZlAyMVhwMjhRVjVfaFVzTll0cklidjJ2YUFpU2g2bGJKVVo4cndxZ09Rblc0aHgxNjFtdFJSZlJtSE8tQ3FyZkdSWEE?oc=5",
-      "site": "Moomoo",
+      "site": "moomoo.com",
       "siteUrl": "https://www.moomoo.com"
-    },
-    {
-      "id": "FL-cee792738972",
-      "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 01:13:00 GMT",
-      "ts": 1790644380000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "燃爆金秋！太一湖百舸争流 沙洋龙舟竞速上演速度与激情 - 荆楚网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WeV82ZHZJUjJxc3YtWl82VjV6aFB6bFBTYl9ZR2lEOXFLMG5yTTMtQ3ozR3l0TEhiYzJxOVlyLTZHQ3JzV0NRQTFYLUJ1OUxObXdOUlN2LXZ2Rm1yeFhxeEdqRV9iLWUxOGp3ai1ON3hnQQ?oc=5",
-      "site": "荆楚网",
-      "siteUrl": "http://news.cnhubei.com"
     },
     {
       "id": "FL-bf5ce353b970",
@@ -87,40 +99,28 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
-      "id": "FL-d55551afd252",
+      "id": "FL-382a151f8c29",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 22:15:26 GMT",
       "ts": 1790547326000,
       "scope": "intl",
       "type": "blast",
-      "title": "英国疏散美军所用基地附近居民 多人涉爆炸物被捕 - finance.sina.cn",
+      "title": "英国疏散美军所用基地附近居民 多人涉爆炸物被捕 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxNZlR1bUU4SHRyRUZhOUhxSFY2Z3hRMG4yUlk1MGVabUw2Vk4wdEg4ei0za1lydU9MWU1jRm5QYkU0YlFYUWU4dlRiSVdjZE5nMG53UzNfVXpBUXFJdXRKNHpwb2oyY0FMNTZiODhnQ2xBWVdGZnBYbTlldHlEYzBFRVZuRHEzdlNTRXoza3RWQUpEcDN6SXM4NHdINm1UX2FSTXdfUUl3WUpWUWlVcFJUTWpybTc5bHVSTHp5YmxwWkxtbXBSdEZXUGVaQzZHdDRWclpQcUMwS2ZLSFhpOWJRVk1zMW4zVlZOYlVRU3llWlQ0RUJFNWVrRGFKSV9fTlBNWWsxOS1HQThaQTFYSnZOOGlVaTNCQTlGTFh3UVc1Y1lhUWlUbThJQ3QtcTlhUC03aHc0TUtqZWtFTFRTeWpSVjB3Wkw3NklvcnBxQjQ1QV9MTURQTTYxYjZfaTZVcldGa0d2b3hSN2hSRDJNcmtjbzNyN3ZETG5XdDFzSmlCcGJiUlBiQjdFamhFY0kyclpOd0plZTJ2aTgxclRuc2ZjM2l5Z2ZHeHFhNFpMTEFZaXUwbGRoa1JIZlEyNGNhX216RGVlUmJtZkttUXR6cGl1MDdxQnY1WmpFR1c5TGVXSHIzZw?oc=5",
-      "site": "finance.sina.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-d2803d2cff60",
+      "id": "FL-f1c86563e0e4",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 17:10:36 GMT",
       "ts": 1790529036000,
       "scope": "intl",
       "type": "blast",
-      "title": "英国疏散美军所用基地附近居民 多人涉爆炸物被捕 - news.cctv.com",
+      "title": "英国疏散美军所用基地附近居民 多人涉爆炸物被捕 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91MjNOYzJjSVZaVUpOZjQ3OGwtYnBaNUZNZi1BTUg0LXlDcjhueElmdjlqWTI1cF83YkdPdjVEUmo3a1FKSXVPTVhpNkVaVF8wNk5GbkJsVG1kQjAzRUtMWEpJMmgxMzNQcTl5bmRadTc4R2xuUVJEWA?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
-    },
-    {
-      "id": "FL-8031fb7bf7d5",
-      "date": "2026-09-27",
-      "dateISO": "Sun, 27 Sep 2026 08:51:00 GMT",
-      "ts": 1790499060000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "美空军驻英基地发生“重大事件”，多人涉嫌爆炸袭击被捕 - finance.sina.cn",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByaHBDS2F2VmxFYlR0SjNpVm1sRWo4UWR0b1lrTm4wQVdaNFBCcDZDUmliOWRkQmk5SFhwa0xfa3UxdThsWHZ5UGp3Yy1YOHNWcUhZaEZEMmtiS29wbDEwQjlodVY3ZnVLenV5ZVBUTHVmYldPMmpNRA?oc=5",
-      "site": "finance.sina.cn",
-      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-e4210ecf8c66",
@@ -171,15 +171,15 @@
       "siteUrl": "https://finance.eastmoney.com"
     },
     {
-      "id": "FL-008d86b164a4",
+      "id": "FL-8497727bdbdb",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 15:30:00 GMT",
       "ts": 1790436600000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典发生爆炸，1名女游客遇难，5人失踪，事发卫城脚下，靠近奥林匹亚宙斯神庙 - 川观新闻",
+      "title": "雅典发生爆炸，1名女游客遇难，5人失踪，事发卫城脚下，靠近奥林匹亚宙斯神庙 - cbgc.scol.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wT2VkbnNVQzB1dlFrSUpwQU5VbElha1Fyc3h0LVI1WFBMSldqQkRfMWkyeV94b1pPS0w5eFQtT1NxQjdRSkRkbm5yUE5iZw?oc=5",
-      "site": "川观新闻",
+      "site": "cbgc.scol.com.cn",
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
@@ -349,18 +349,6 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rNWVzZEFNN1FDLWZNSl9xNDVpVGc5ck80TndzUHBOckNMbUpMcXlNZDBkQmRFbkFkSlZIVXZGQXBnODRDWU5EUDUwV3dRekdJWDNaZWtFcFloWEZRb2RtTkFkaXRKT3JZVWU1STBZNXNpQWc?oc=5",
       "site": "新浪军事",
       "siteUrl": "https://mil.news.sina.com.cn"
-    },
-    {
-      "id": "FL-a4aee5ce4c98",
-      "date": "2026-09-28",
-      "dateISO": "Mon, 28 Sep 2026 08:35:09 GMT",
-      "ts": 1790584509000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "名古屋赛场燃爆！… - 手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LLXVGYUItRTZScDJHRl8tenZXWTVVXzVUb2l0dkRLbTR2RnZuSWxGQk9DNjlFR0xoQ25zeFY0ckw2dTJxRHZ6Ui1UeTlRa3V3RkM5QVJBQU8wdXBZRVVyZlFzVEhqSHZxNEdsVVVYYVJEaVE?oc=5",
-      "site": "手机新浪网",
-      "siteUrl": "https://k.sina.com.cn"
     },
     {
       "id": "FL-2148ba2f4bb2",
