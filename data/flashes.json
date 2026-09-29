@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T17:33:30.312Z",
+  "updated": "2026-09-29T17:48:07.601Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -159,27 +159,27 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-18defd3aaa01",
+      "id": "FL-4c74263a5b99",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 10:55:37 GMT",
       "ts": 1790679337000,
       "scope": "intl",
       "type": "blast",
-      "title": "一颗美国卫星突然爆炸，原因不明 - 凤凰网",
+      "title": "一颗美国卫星突然爆炸，原因不明 - news.ifeng.com",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1JUkxZYUVSMkx6WlpobGd4ZWx4cGZTT3RQVnJ2LTdwN0pmTC1oczJQSEs2S3hVZ1g4c1M4SGdiczZ3SmkzLWVzc3RRM1g?oc=5",
-      "site": "凤凰网",
+      "site": "news.ifeng.com",
       "siteUrl": "https://news.ifeng.com"
     },
     {
-      "id": "FL-db1562ff82c3",
+      "id": "FL-bada52d35350",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 10:37:00 GMT",
       "ts": 1790678220000,
       "scope": "dom",
       "type": "blast",
-      "title": "美“星舰”首次地球轨道飞行提前结束，溅落时引发剧烈爆炸 - 凤凰网",
+      "title": "美“星舰”首次地球轨道飞行提前结束，溅落时引发剧烈爆炸 - news.ifeng.com",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBzUGNrZ1RQcmY2UFVKRlhwWHpRVFNVVGhFNGFnNHdqN1UtTHdsS2RWRmFWc1QySHA2dE5Ec3ozZEl6cjVwblgydmttQ2c?oc=5",
-      "site": "凤凰网",
+      "site": "news.ifeng.com",
       "siteUrl": "https://news.ifeng.com"
     },
     {
@@ -207,28 +207,28 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-7b0987d4867b",
+      "id": "FL-78a66c85c36f",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 08:52:56 GMT",
       "ts": 1790671976000,
       "scope": "dom",
       "type": "blast",
-      "title": "韩总统要求军方查明非军事区地雷爆炸事故 - 凤凰网",
+      "title": "韩总统要求军方查明非军事区地雷爆炸事故 - news.ifeng.com",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE81eHRiaUdKcDhldDlKYnhrcmlrdVRNbEZBeUdIS2ptdTNta291MTFyNlVVeEZQOEJGUDZ6TEI1QVZKb2ZJX3RWQjlXU3A?oc=5",
-      "site": "凤凰网",
+      "site": "news.ifeng.com",
       "siteUrl": "https://news.ifeng.com"
     },
     {
-      "id": "FL-ee987b375dce",
+      "id": "FL-4005a13f1a26",
       "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 08:43:00 GMT",
-      "ts": 1790671380000,
-      "scope": "dom",
+      "dateISO": "Tue, 29 Sep 2026 08:39:03 GMT",
+      "ts": 1790671143000,
+      "scope": "intl",
       "type": "blast",
-      "title": "【新闻分析】爆炸事故疑由朝军地雷引发，韩朝关系恐受重大冲击: 政治·社会 - 韩民族日报",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KZGo3aWxlNl91RXNaTE9pZVlDRzlIU2UtcUZnV2VscXgxN1ZfRFpGbFM2dDVNOHBodEFxU1NMUmNxdHc4blhNSWFnVnF6N2Q3eEVKU2djR2xHZHE0UFE?oc=5",
-      "site": "韩民族日报",
-      "siteUrl": "https://china.hani.co.kr"
+      "title": "伊朗否认与英国空军基地附近涉嫌策划爆炸袭击者有关 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5OcVZaLWdCQmdUQmJvdHM0N3hqRFY0SHJud3pLaUdsZW4wTUZHVGdFTW53WkFRWk9pbGFnQTZFbDBzb21jTVZ6RmZRRU9XM0Y0UFk1bndMcGxNbWluNU5YbldCYw?oc=5",
+      "site": "东方财富",
+      "siteUrl": "https://emwap.eastmoney.com"
     },
     {
       "id": "FL-b81f2ac9c231",
@@ -241,6 +241,18 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMHNjSmJFVl9CUFF3SWVadGItOU9SOTkzQWFKaFp3NGpYSkJGMEt5VmxXanZRNzRJZnVMaW9KeUYwWlg2WjRBUUhZak4yTEVoUXEtRTV2MXo5bG9xbkJFSDRBRUE3SFNBMFNZSXNQd1dNRTJfZC1McEVYb0QxS2FPc095ejJKN3MweVE?oc=5",
       "site": "jpchinapress.com",
       "siteUrl": "https://www.jpchinapress.com"
+    },
+    {
+      "id": "FL-0e2bdd952f52",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 07:24:00 GMT",
+      "ts": 1790666640000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "AI godfathers warn of runaway ‘intelligence explosion’ - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMFNkQmpvTmdlZER6dDF6NXlNZ2x2WnpicUlHeDBvRjNRUzlaZy01OUI5Sm91YV9DRUh0Qmk4TzNwTTQ1alBveEdGOHNHcy0wa1pqR0lsZVR2dUxoQ3R1V1FnZTJuZG9MS1d3OWs3eTgxb0ZmUl96dGNiWkhzMk1wN3oyV0xFYjVrdGtIQ1Vzb0l0SWdBWlZEalo3WmxNbVpxNjJoX1dR?oc=5",
+      "site": "The Guardian",
+      "siteUrl": "https://www.theguardian.com"
     },
     {
       "id": "FL-3e8ac865bae6",
@@ -447,15 +459,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-e6da002b8732",
+      "id": "FL-d1d043dda2d5",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 07:07:30 GMT",
       "ts": 1790406450000,
       "scope": "intl",
       "type": "blast",
-      "title": "俄远东一煤矿矿区爆炸 有人员伤亡 - 东方财富",
+      "title": "俄远东一煤矿矿区爆炸 有人员伤亡 - eastmoney.com",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yRUEyVUZDMTdQcTR1emZMSTZNcTFrMzdVRktDNnBEVlNETk9FN29SVnA0WlQxVzg4NGsyd0ZZejJFWGFSSEVjQTl3M2p2blNWVllnTEVTRng2bkhBeXI0eA?oc=5",
-      "site": "东方财富",
+      "site": "eastmoney.com",
       "siteUrl": "https://wap.eastmoney.com"
     },
     {
@@ -471,28 +483,16 @@
       "siteUrl": "https://emwap.eastmoney.com"
     },
     {
-      "id": "FL-04c00040a075",
+      "id": "FL-6b4aa2b11579",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 15:51:05 GMT",
       "ts": 1790610665000,
       "scope": "dom",
       "type": "blast",
-      "title": "AI研发自动化或引发“智能爆炸”！20多名顶尖研究人员呼吁政府加强监管 - cls.cn",
+      "title": "AI研发自动化或引发“智能爆炸”！20多名顶尖研究人员呼吁政府加强监管 - 财联社",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5XY05paDVKVHg0TEJqRU1sWkJaLXhYM3QydGk4OWI3NlNFRzA3UHpHUTh3cjNxeDhESm1ac3VLeTdHdExCZ3JnTw?oc=5",
-      "site": "cls.cn",
+      "site": "财联社",
       "siteUrl": "https://www.cls.cn"
-    },
-    {
-      "id": "FL-4005a13f1a26",
-      "date": "2026-09-28",
-      "dateISO": "Mon, 28 Sep 2026 07:00:00 GMT",
-      "ts": 1790578800000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "伊朗否认与英国空军基地附近涉嫌策划爆炸袭击者有关 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5OcVZaLWdCQmdUQmJvdHM0N3hqRFY0SHJud3pLaUdsZW4wTUZHVGdFTW53WkFRWk9pbGFnQTZFbDBzb21jTVZ6RmZRRU9XM0Y0UFk1bndMcGxNbWluNU5YbldCYw?oc=5",
-      "site": "东方财富",
-      "siteUrl": "https://emwap.eastmoney.com"
     }
   ]
 }
