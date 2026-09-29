@@ -1,18 +1,30 @@
 {
-  "updated": "2026-09-29T09:11:40.166Z",
+  "updated": "2026-09-29T09:31:24.461Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-b243152dc25d",
+      "id": "FL-82dc06a5c594",
       "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 08:58:00 GMT",
-      "ts": 1790672280000,
-      "scope": "intl",
+      "dateISO": "Tue, 29 Sep 2026 09:01:00 GMT",
+      "ts": 1790672460000,
+      "scope": "dom",
       "type": "blast",
-      "title": "韩朝非军事区地雷爆炸致3伤，韩国总统要求军方迅速查明真相 - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1clZ0V1NBMFBPdVJRUG9DeWFCSUVha253ejg3emtXNFFOWnBNazZyOTVmWWZnOVZmay16RzBWRGZlZWlNUW5Oa0lxTGFVZEliQ01Wb0Q4cHYzQVBWRmc1QVZLMFc?oc=5",
-      "site": "新京报",
-      "siteUrl": "https://www.bjnews.com.cn"
+      "title": "开赛倒计时！费德勒搭档李娜、六款“爆炸头”……今年上海劳力士大师赛新惊喜抢先看 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tdHpsYzF1dVNQVDZxMGJRTHFQSm1CNW52ZzlHYXZybURCUURhV0hyQ0l4WU80NGxvaFVDUVVrQUtpVzRnZkhCMTdmUnA4QmVWTkl2bTVWRXFTdERFNm1LYWFvZF9PZVNubEI2emJqSTViMzBSMGZvZw?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
+    },
+    {
+      "id": "FL-7b0987d4867b",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 08:52:56 GMT",
+      "ts": 1790671976000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "韩总统要求军方查明非军事区地雷爆炸事故 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE81eHRiaUdKcDhldDlKYnhrcmlrdVRNbEZBeUdIS2ptdTNta291MTFyNlVVeEZQOEJGUDZ6TEI1QVZKb2ZJX3RWQjlXU3A?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://news.ifeng.com"
     },
     {
       "id": "FL-ee987b375dce",
@@ -135,16 +147,16 @@
       "siteUrl": "https://chinese.joins.com"
     },
     {
-      "id": "FL-ed1b2d53ff30",
+      "id": "FL-662c87430ce2",
       "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 03:12:20 GMT",
-      "ts": 1790651540000,
+      "dateISO": "Tue, 29 Sep 2026 04:12:00 GMT",
+      "ts": 1790655120000,
       "scope": "intl",
       "type": "blast",
-      "title": "伊朗格什姆岛附近传出爆炸声 系警告射击所致 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZS1yMTh3TEJFUnF3ZlNlZEx2YTExQkdYUi03VGFBdHRVdmtSdHQ4eHpvTFYycXBraFFraWZTOURWbEFRRjBLNkZDenRoNDlkeUxGQmRmY1BKdG5PT1hlZjg2Nm5YaDlYdFllazdMZlUtOUlBNF9JY3lyU1ZLSFVZdXVVQ1VRRVY3M2xFbw?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
+      "title": "韩国国防部称非军事区爆炸违反停战协定——《韩国先驱报》 - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbEQ5TjNJVE45bGVKMzFOdXFmeE5mOWd4aVVrRTAyTUNLWmhMVTJfVEhPUk1PUW9ldm9UYmZxaTJwYmtJMEV6WjRqa0NCTWNXMzJxTzhTOENobXE5ZW8xeXExLThZY1R2ZUQ3MmVhcUxVems1T1pMbXNjV2RNTkYzSWU3bjBuR2ZfU1NwNEIyeHRGN1pJZ0dhNmRIc0lySDlyYXIxTFBjMWZFaTNocWJwMA?oc=5",
+      "site": "UA.NEWS",
+      "siteUrl": "https://ua.news"
     },
     {
       "id": "FL-ef4a8f294b36",
@@ -375,27 +387,27 @@
       "siteUrl": "https://www.jpchinapress.com"
     },
     {
-      "id": "FL-04c00040a075",
+      "id": "FL-6b4aa2b11579",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 15:51:05 GMT",
       "ts": 1790610665000,
       "scope": "dom",
       "type": "blast",
-      "title": "AI研发自动化或引发“智能爆炸”！20多名顶尖研究人员呼吁政府加强监管 - cls.cn",
+      "title": "AI研发自动化或引发“智能爆炸”！20多名顶尖研究人员呼吁政府加强监管 - 财联社",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5XY05paDVKVHg0TEJqRU1sWkJaLXhYM3QydGk4OWI3NlNFRzA3UHpHUTh3cjNxeDhESm1ac3VLeTdHdExCZ3JnTw?oc=5",
-      "site": "cls.cn",
+      "site": "财联社",
       "siteUrl": "https://www.cls.cn"
     },
     {
-      "id": "FL-0e2bdd952f52",
+      "id": "FL-b94029012048",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 15:00:00 GMT",
       "ts": 1790607600000,
       "scope": "intl",
       "type": "blast",
-      "title": "AI godfathers warn of runaway ‘intelligence explosion’ - The Guardian",
+      "title": "AI godfathers warn of runaway ‘intelligence explosion’ - theguardian.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMFNkQmpvTmdlZER6dDF6NXlNZ2x2WnpicUlHeDBvRjNRUzlaZy01OUI5Sm91YV9DRUh0Qmk4TzNwTTQ1alBveEdGOHNHcy0wa1pqR0lsZVR2dUxoQ3R1V1FnZTJuZG9MS1d3OWs3eTgxb0ZmUl96dGNiWkhzMk1wN3oyV0xFYjVrdGtIQ1Vzb0l0SWdBWlZEalo3WmxNbVpxNjJoX1dR?oc=5",
-      "site": "The Guardian",
+      "site": "theguardian.com",
       "siteUrl": "https://www.theguardian.com"
     }
   ]
