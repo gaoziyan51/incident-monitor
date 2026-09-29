@@ -1,18 +1,54 @@
 {
-  "updated": "2026-09-29T16:04:06.743Z",
+  "updated": "2026-09-29T16:23:47.897Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-ed4b2673e144",
+      "id": "FL-d1a1d9d25a2c",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 16:19:42 GMT",
+      "ts": 1790698782000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "“星舰”溅落时引发剧烈爆炸 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLWZqaVFhMzVDMVFQZl9yZlhURmJXczBwWkpKMDdLaDA0dm9EQzR2T0QzVG9YV21lY3pKZTZnSXhURmw1b3ZzMkdaTmtEUmpiaFl4aHJQcDYxMTZVWkFfREcxZVRGWXF3ZTMtMHpMVDNiMnBHbEp3V2hXRktTanVzMTZ2YUFKb010QTZVb25NN0w3djVHNlZwYkp0djJicW5xcmF6eG1SVzR0NjVBT3NrUFR3?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
+    },
+    {
+      "id": "FL-6f32e8bf3b73",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 15:38:44 GMT",
+      "ts": 1790696324000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "溅落时引发剧烈爆炸！“星舰”飞船首次地球轨道飞行提前结束 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcGpvY0pWUlowb0g1Yk9jT25TZ2lsWll3ZzVjTXpQWlRad25uVlgycXQ4REpJRDFZWTNCSWR1MkkwazB0TkpVRURCX3pVbFVFTFIyTEVFVEpsWWFrRnc3bWxxcnNnN2RsVndrb1VzSUNkSUlxcUliX3BwVm0xVGR6M2IybG11ZTc3TURnRw?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-77adec2d34c9",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 15:33:00 GMT",
       "ts": 1790695980000,
       "scope": "dom",
       "type": "blast",
-      "title": "溅落时引发剧烈爆炸！“星舰”飞船首次地球轨道飞行提前结束 - 新浪财经",
+      "title": "溅落时引发剧烈爆炸！“星舰”飞船首次地球轨道飞行提前结束 - finance.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhOFNEa2lsYkR3NHNYa2JIbXVCbXA3ZEVMWldCVU9fZkRUejA0dDVFcjVXbWk0REp2VTVFR3VoQm8yOXpFNHRKXzgxTU03NFNQeUFOelNybEZTRS1MQ0RMSXZZdlhORWF2X3NuS20zZkdtLWZkbGgtRw?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.com.cn",
       "siteUrl": "https://finance.sina.com.cn"
+    },
+    {
+      "id": "FL-f8820e4b45db",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 15:22:30 GMT",
+      "ts": 1790695350000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Worker injured in explosion, fire at plastics facility in Battle Creek; condition unknown - WWMT",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeG9CVGNUa0wyNEhXSHRVazQzaTU5b2gxZ3FOSER3WWJncnpBZTZDWEVPS0pldGRfd0VRbDBnRlNyVDdDREoxV3ZOWTZRMXV6djJTYnh4d3ZnZ3ZmU1JyNl84SGZXMzFNY3Z2MU5rbXBrSDl4Zk5fSUFVZ2lrN21FbmFjWDBOM1Q3QzZOYzloU2xNUi1iMlkwV2M1RTNsdDFDRlh4N05YcV80dk9KaHo2YXRLQkstSWhHTW13cjFYWDZ0R3VBZE5sUGI2dmFCSVhZUmZfVW9kUDlNTWZTRDVRTjJMWjJmNTl6?oc=5",
+      "site": "WWMT",
+      "siteUrl": "https://wwmt.com"
     },
     {
       "id": "FL-b5817d683dd6",
@@ -61,18 +97,6 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45bXhnakstNmVHUTVjREJnU1p5blNjM0tzR1J0QjhBYkxzTkxiUWg2SVpsOTNmWXFDekNrNGdHUUszeHAwR0NSY2R0aVFnU0c2dG1XTmdISEFRVUVVZHNYalRjcWd0bnRDUzNoZg?oc=5",
       "site": "chinese.joins.com",
       "siteUrl": "https://chinese.joins.com"
-    },
-    {
-      "id": "FL-d1a1d9d25a2c",
-      "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 12:55:00 GMT",
-      "ts": 1790686500000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "“星舰”溅落时引发剧烈爆炸 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tZlhDNXRlQjdxanZ2M05kN0dmNHdqd25vTWlCZTlPVzhmZmlDZUtHOFdVeWYyam8xcTZTY3FKOWxVM2FtMjUzblJLcnJwMVR4Nkt4QjlJZkpjOXFwd0F3LU1vVXo5N0lrNjhuRTR3?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://cj.sina.cn"
     },
     {
       "id": "FL-dd473ccfbdfe",
@@ -181,6 +205,18 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oYW9yZmhiZ2hwNjl6MUZKb0RUZU45U3FwaTUtakNwMjRYcHNvUEV4Z2FfdHhIajhGQkRVd2MwTjJScG4zbXNQQjUwbDFwU3ZYeHpkVUVrWGdEc2p1WDhXXw?oc=5",
       "site": "财新",
       "siteUrl": "https://photos.caixin.com"
+    },
+    {
+      "id": "FL-9ba8b5d436e2",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 09:01:00 GMT",
+      "ts": 1790672460000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "开赛倒计时！费德勒搭档李娜、六款“爆炸头”……今年上海劳力士大师赛新惊喜抢先看 - finance.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tdHpsYzF1dVNQVDZxMGJRTHFQSm1CNW52ZzlHYXZybURCUURhV0hyQ0l4WU80NGxvaFVDUVVrQUtpVzRnZkhCMTdmUnA4QmVWTkl2bTVWRXFTdERFNm1LYWFvZF9PZVNubEI2emJqSTViMzBSMGZvZw?oc=5",
+      "site": "finance.sina.com.cn",
+      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-7b0987d4867b",
@@ -423,15 +459,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-d1d043dda2d5",
+      "id": "FL-e6da002b8732",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 07:07:30 GMT",
       "ts": 1790406450000,
       "scope": "intl",
       "type": "blast",
-      "title": "俄远东一煤矿矿区爆炸 有人员伤亡 - eastmoney.com",
+      "title": "俄远东一煤矿矿区爆炸 有人员伤亡 - 东方财富",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yRUEyVUZDMTdQcTR1emZMSTZNcTFrMzdVRktDNnBEVlNETk9FN29SVnA0WlQxVzg4NGsyd0ZZejJFWGFSSEVjQTl3M2p2blNWVllnTEVTRng2bkhBeXI0eA?oc=5",
-      "site": "eastmoney.com",
+      "site": "东方财富",
       "siteUrl": "https://wap.eastmoney.com"
     },
     {
