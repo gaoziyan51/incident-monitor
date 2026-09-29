@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T19:21:43.865Z",
+  "updated": "2026-09-29T19:37:11.497Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -51,6 +51,18 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
+      "id": "FL-120651d1eb83",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 15:05:23 GMT",
+      "ts": 1790694323000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "“星舰”溅落时，发生剧烈爆炸 - sohu.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWktvdGExMFZrV09pTUg4VjRfb3U5T0lBeXVCREVoS0VCbFJTeFNwckJiWThSOTlHTjk4Q1gzSy1zVjB1aEN1RUFLeFJoSFJtMDNqUjhuRWR6RVFOeEQ3WlYzR3phTFlTOHRXcUlXZHhxUHlCSmxFQklfYTRZdlRwZHIyNUdVbkN4QWFxRw?oc=5",
+      "site": "sohu.com",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-b5817d683dd6",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 15:00:25 GMT",
@@ -99,15 +111,15 @@
       "siteUrl": "https://news.mydrivers.com"
     },
     {
-      "id": "FL-455b4c84a24e",
+      "id": "FL-117104420717",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 12:30:35 GMT",
       "ts": 1790685035000,
       "scope": "intl",
       "type": "blast",
-      "title": "Exeter Township School District to discontinue homecoming bonfire after explosion - 6abc.com",
+      "title": "Exeter Township School District to discontinue homecoming bonfire after explosion - 6abc Philadelphia",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQjFxSmc0UlcxVlpYR3FBV2ZZblRrOFJ0ak95WW9laWp3VmhNNHNDa1l3V2hfLVRXQ0Vxd3lsMWw0dDNkS1FGaTJQb2xuS01FSDZ1Nm1YeVhRbUJpRzBuckttTFJsVWlKWHVvY0pCZTNDQXZZd3VvVUlyeW9ibjRDWmNxQ1llQ3lLcy1Jc1NPM19nMWxSd2szUm5VeW5FS2MzemJWUFo5NNIBrAFBVV95cUxQMXFVRTBxTUoybENXU3BIWDFSS254UTBhdmlrc0tLU0p2U2xwU21YeVVIVld0WjdwNFJvS19Ubkh3OC1FSXdjUnQyNFkxNUlWeVhISTZXTWE4cFNHNFlOMnVVRGN1em81cUQ0ZV9TSlc1UTNmSVhIYnl4QVFtUEFQeWYya1NsSThMUkx2UnR2MU9RRGtVUkxIWHh0TklZbTlWVWtHQ3dfRjdCWWxT?oc=5",
-      "site": "6abc.com",
+      "site": "6abc Philadelphia",
       "siteUrl": "https://6abc.com"
     },
     {
@@ -155,18 +167,6 @@
       "type": "blast",
       "title": "一颗美国卫星突然爆炸，原因不明 - 凤凰网",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1JUkxZYUVSMkx6WlpobGd4ZWx4cGZTT3RQVnJ2LTdwN0pmTC1oczJQSEs2S3hVZ1g4c1M4SGdiczZ3SmkzLWVzc3RRM1g?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://news.ifeng.com"
-    },
-    {
-      "id": "FL-db1562ff82c3",
-      "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 10:37:00 GMT",
-      "ts": 1790678220000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "美“星舰”首次地球轨道飞行提前结束，溅落时引发剧烈爆炸 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBzUGNrZ1RQcmY2UFVKRlhwWHpRVFNVVGhFNGFnNHdqN1UtTHdsS2RWRmFWc1QySHA2dE5Ec3ozZEl6cjVwblgydmttQ2c?oc=5",
       "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com"
     },
