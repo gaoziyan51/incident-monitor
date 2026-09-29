@@ -1,19 +1,7 @@
 {
-  "updated": "2026-09-29T22:32:34.083Z",
+  "updated": "2026-09-29T22:46:04.826Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-3be470145efc",
-      "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 21:27:00 GMT",
-      "ts": 1790717220000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "NTSB: 2025 Hutchinson gas explosion linked to vintage pipe weld failure - KWCH",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ0FULWFuTzNkeVRrQmpGdGFMSUQySXFaNXRKVkRrSlRmanhoMzdLTWVtMnF3UGYxSndxa2pIMnNoLU54N0JOekttWkpfWC1tRjFfa2MzNDhoaEhHelFCcG9DV0RmTGNQZ01raE4zSWZDY0xab0dudjhyWlRRNHZmTHllbTE5dngybGVhYWdabHY3Z1dLNlRBVC1tN3JjUGtHOTVfUFl2c2ZYTGdnWHowWXJFRWlLbjNv?oc=5",
-      "site": "KWCH",
-      "siteUrl": "https://www.kwch.com"
-    },
     {
       "id": "FL-123dd3a89afe",
       "date": "2026-09-29",
@@ -183,6 +171,18 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
+      "id": "FL-700f9ca487a8",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 09:20:00 GMT",
+      "ts": 1790673600000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "视线｜黎巴嫩寻呼机爆炸案两年后 幸存少年的劫后余生 - 财新",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oYW9yZmhiZ2hwNjl6MUZKb0RUZU45U3FwaTUtakNwMjRYcHNvUEV4Z2FfdHhIajhGQkRVd2MwTjJScG4zbXNQQjUwbDFwU3ZYeHpkVUVrWGdEc2p1WDhXXw?oc=5",
+      "site": "财新",
+      "siteUrl": "https://photos.caixin.com"
+    },
+    {
       "id": "FL-82dc06a5c594",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 09:01:00 GMT",
@@ -229,6 +229,18 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMHNjSmJFVl9CUFF3SWVadGItOU9SOTkzQWFKaFp3NGpYSkJGMEt5VmxXanZRNzRJZnVMaW9KeUYwWlg2WjRBUUhZak4yTEVoUXEtRTV2MXo5bG9xbkJFSDRBRUE3SFNBMFNZSXNQd1dNRTJfZC1McEVYb0QxS2FPc095ejJKN3MweVE?oc=5",
       "site": "jpchinapress.com",
       "siteUrl": "https://www.jpchinapress.com"
+    },
+    {
+      "id": "FL-0e2bdd952f52",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 07:24:00 GMT",
+      "ts": 1790666640000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "AI godfathers warn of runaway ‘intelligence explosion’ - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMFNkQmpvTmdlZER6dDF6NXlNZ2x2WnpicUlHeDBvRjNRUzlaZy01OUI5Sm91YV9DRUh0Qmk4TzNwTTQ1alBveEdGOHNHcy0wa1pqR0lsZVR2dUxoQ3R1V1FnZTJuZG9MS1d3OWs3eTgxb0ZmUl96dGNiWkhzMk1wN3oyV0xFYjVrdGtIQ1Vzb0l0SWdBWlZEalo3WmxNbVpxNjJoX1dR?oc=5",
+      "site": "The Guardian",
+      "siteUrl": "https://www.theguardian.com"
     },
     {
       "id": "FL-3e8ac865bae6",
@@ -301,6 +313,18 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnZjZCRjNfVTFLVjZqNG1mUThYYzZzTVI5c3BBeFVnWXBHRGROeXgxc0FZS2hTZnpMN0I0S3M4VlMxU016bE4yTFBlWEthSl9nWU5uRUl1MUlYbzJ0cXhBMnc3MHBUbjRZRDhVQw?oc=5",
       "site": "chinese.joins.com",
       "siteUrl": "https://chinese.joins.com"
+    },
+    {
+      "id": "FL-0e7dc573a75a",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 02:34:01 GMT",
+      "ts": 1790649241000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "韩总统府：非军事区爆炸事故调查纯粹基于军事判断 - 韩联社",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wakx4a0RTdTFPcmNyLUwzOG55RlpOcVdWbklENmNXM0ZERzExNThxOF91NExlSjRYQmMxSlRzdFJRdFJIMl8zQ3JNMDZOOWVjVmFFbjJPVGpWdw?oc=5",
+      "site": "韩联社",
+      "siteUrl": "https://cn.yna.co.kr"
     },
     {
       "id": "FL-6e0d8b25d9a2",
