@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-29T21:36:01.381Z",
+  "updated": "2026-09-29T21:47:02.977Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-ce7f968143c9",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 21:27:00 GMT",
+      "ts": 1790717220000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "NTSB: 1936 vintage pipe weld failure caused destructive 2025 Hutchinson gas explosion - KWCH",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ0FULWFuTzNkeVRrQmpGdGFMSUQySXFaNXRKVkRrSlRmanhoMzdLTWVtMnF3UGYxSndxa2pIMnNoLU54N0JOekttWkpfWC1tRjFfa2MzNDhoaEhHelFCcG9DV0RmTGNQZ01raE4zSWZDY0xab0dudjhyWlRRNHZmTHllbTE5dngybGVhYWdabHY3Z1dLNlRBVC1tN3JjUGtHOTVfUFl2c2ZYTGdnWHowWXJFRWlLbjNv?oc=5",
+      "site": "KWCH",
+      "siteUrl": "https://www.kwch.com"
+    },
     {
       "id": "FL-123dd3a89afe",
       "date": "2026-09-29",
@@ -27,15 +39,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-77adec2d34c9",
+      "id": "FL-ed4b2673e144",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 15:33:00 GMT",
       "ts": 1790695980000,
       "scope": "dom",
       "type": "blast",
-      "title": "溅落时引发剧烈爆炸！“星舰”飞船首次地球轨道飞行提前结束 - finance.sina.com.cn",
+      "title": "溅落时引发剧烈爆炸！“星舰”飞船首次地球轨道飞行提前结束 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhOFNEa2lsYkR3NHNYa2JIbXVCbXA3ZEVMWldCVU9fZkRUejA0dDVFcjVXbWk0REp2VTVFR3VoQm8yOXpFNHRKXzgxTU03NFNQeUFOelNybEZTRS1MQ0RMSXZZdlhORWF2X3NuS20zZkdtLWZkbGgtRw?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -181,6 +193,18 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZVhyWjVLTmxPRWRjYUhyUTZISG1kZ2RHMjY4Q09Bd3dyRGx5Rm13clpxRXJGV3VWTU9aQkkxTnNzeGFjOTM1STlzb09ncE9LZmhNNUJSYXBYT2kxTTNPcHNidzFDN08taVZOaDhfVERDX0FWSFZhbVJ3ZTlfS0FrM0RrWFozZFkyVGpIdk9rdXZEd1lFbFp6bk9VdURtMzRZ?oc=5",
       "site": "finance.sina.com.cn",
       "siteUrl": "https://finance.sina.cn"
+    },
+    {
+      "id": "FL-82dc06a5c594",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 09:01:00 GMT",
+      "ts": 1790672460000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "开赛倒计时！费德勒搭档李娜、六款“爆炸头”……今年上海劳力士大师赛新惊喜抢先看 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tdHpsYzF1dVNQVDZxMGJRTHFQSm1CNW52ZzlHYXZybURCUURhV0hyQ0l4WU80NGxvaFVDUVVrQUtpVzRnZkhCMTdmUnA4QmVWTkl2bTVWRXFTdERFNm1LYWFvZF9PZVNubEI2emJqSTViMzBSMGZvZw?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-7b0987d4867b",
