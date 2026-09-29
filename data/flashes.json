@@ -1,17 +1,17 @@
 {
-  "updated": "2026-09-29T02:54:42.296Z",
+  "updated": "2026-09-29T03:02:19.554Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-1fc8154c8d94",
+      "id": "FL-e4bbbe09c330",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 02:02:12 GMT",
       "ts": 1790647332000,
       "scope": "intl",
       "type": "blast",
-      "title": "军方：“非军事区的爆炸很可能是朝鲜的地雷” - cnnews.chosun.com",
+      "title": "军方：“非军事区的爆炸很可能是朝鲜的地雷” - 朝鮮日報中文版",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSGNlbzQ1VzI4R0lFdUswcWVKcDVheEtKUkZZX25Ja25RMm56TGhvU25JZ1lZaFlORW8ycmJ3SGNPR3Vmc3VSQXlxaVY5YldPdUhoXzhrd2hzbC13LTJvS2dWOWhMTS1hU2p2Y1pTdVhIZkpfTm9kMF9KWjBvSWxvalZxUG5iZnVod1J4REpWLWwxUQ?oc=5",
-      "site": "cnnews.chosun.com",
+      "site": "朝鮮日報中文版",
       "siteUrl": "https://cnnews.chosun.com"
     },
     {
@@ -75,39 +75,51 @@
       "siteUrl": "https://science.caixin.com"
     },
     {
-      "id": "FL-382a151f8c29",
+      "id": "FL-6612abd30963",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 07:00:00 GMT",
+      "ts": 1789628400000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "宇宙大爆炸最初五分钟氦丰度获最精确测量 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MzVkcXZnR2UwelNkenFIYVFYVzBPcUxUQ1VSaUVHcV9LYVJnZzhjQWZzM09DNk8wc0xVNlo2amRqNjBueWtVeTdSbkJZT053RjRSZDhmeXJyT19wekF3UHB6WERtZkxLaFFwT2pVWTE?oc=5",
+      "site": "中国科技网",
+      "siteUrl": "https://www.stdaily.com"
+    },
+    {
+      "id": "FL-d55551afd252",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 22:15:26 GMT",
       "ts": 1790547326000,
       "scope": "intl",
       "type": "blast",
-      "title": "英国疏散美军所用基地附近居民 多人涉爆炸物被捕 - 新浪财经",
+      "title": "英国疏散美军所用基地附近居民 多人涉爆炸物被捕 - finance.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxNZlR1bUU4SHRyRUZhOUhxSFY2Z3hRMG4yUlk1MGVabUw2Vk4wdEg4ei0za1lydU9MWU1jRm5QYkU0YlFYUWU4dlRiSVdjZE5nMG53UzNfVXpBUXFJdXRKNHpwb2oyY0FMNTZiODhnQ2xBWVdGZnBYbTlldHlEYzBFRVZuRHEzdlNTRXoza3RWQUpEcDN6SXM4NHdINm1UX2FSTXdfUUl3WUpWUWlVcFJUTWpybTc5bHVSTHp5YmxwWkxtbXBSdEZXUGVaQzZHdDRWclpQcUMwS2ZLSFhpOWJRVk1zMW4zVlZOYlVRU3llWlQ0RUJFNWVrRGFKSV9fTlBNWWsxOS1HQThaQTFYSnZOOGlVaTNCQTlGTFh3UVc1Y1lhUWlUbThJQ3QtcTlhUC03aHc0TUtqZWtFTFRTeWpSVjB3Wkw3NklvcnBxQjQ1QV9MTURQTTYxYjZfaTZVcldGa0d2b3hSN2hSRDJNcmtjbzNyN3ZETG5XdDFzSmlCcGJiUlBiQjdFamhFY0kyclpOd0plZTJ2aTgxclRuc2ZjM2l5Z2ZHeHFhNFpMTEFZaXUwbGRoa1JIZlEyNGNhX216RGVlUmJtZkttUXR6cGl1MDdxQnY1WmpFR1c5TGVXSHIzZw?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.cn",
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-f1c86563e0e4",
+      "id": "FL-d2803d2cff60",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 17:10:36 GMT",
       "ts": 1790529036000,
       "scope": "intl",
       "type": "blast",
-      "title": "英国疏散美军所用基地附近居民 多人涉爆炸物被捕 - 央视网",
+      "title": "英国疏散美军所用基地附近居民 多人涉爆炸物被捕 - news.cctv.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91MjNOYzJjSVZaVUpOZjQ3OGwtYnBaNUZNZi1BTUg0LXlDcjhueElmdjlqWTI1cF83YkdPdjVEUmo3a1FKSXVPTVhpNkVaVF8wNk5GbkJsVG1kQjAzRUtMWEpJMmgxMzNQcTl5bmRadTc4R2xuUVJEWA?oc=5",
-      "site": "央视网",
+      "site": "news.cctv.com",
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-ec572d894538",
+      "id": "FL-8031fb7bf7d5",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 08:51:00 GMT",
       "ts": 1790499060000,
       "scope": "dom",
       "type": "blast",
-      "title": "美空军驻英基地发生“重大事件”，多人涉嫌爆炸袭击被捕 - 新浪财经",
+      "title": "美空军驻英基地发生“重大事件”，多人涉嫌爆炸袭击被捕 - finance.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByaHBDS2F2VmxFYlR0SjNpVm1sRWo4UWR0b1lrTm4wQVdaNFBCcDZDUmliOWRkQmk5SFhwa0xfa3UxdThsWHZ5UGp3Yy1YOHNWcUhZaEZEMmtiS29wbDEwQjlodVY3ZnVLenV5ZVBUTHVmYldPMmpNRA?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.cn",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -123,27 +135,27 @@
       "siteUrl": "https://www.noahpinion.blog"
     },
     {
-      "id": "FL-f8061d91b549",
+      "id": "FL-340d5e981918",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
       "ts": 1787468400000,
       "scope": "dom",
       "type": "blast",
-      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - news.cn",
+      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-f38e3c0cb20f",
+      "id": "FL-0615dd398028",
       "date": "2026-08-02",
       "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
       "ts": 1785654000000,
       "scope": "intl",
       "type": "blast",
-      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - news.cn",
+      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -183,15 +195,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-23997ed3202f",
+      "id": "FL-5e735aebc1c3",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 11:26:44 GMT",
       "ts": 1790422004000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - news.cn",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlemFCa3lteDlkZERLTXRLMHhpeTIzNmFqanFBczVPaFNjQjVxOHNJNm54Tkhua1FqOGtuaUhBLWdRSWxXaFRoZThQZXJqclRIV1pUaTNhcjhHU0dwRzA1WXNQc2ZOVEhXX0Z1NUVBcnBUalJRWkE3ZlE0S3NOaXM?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -363,27 +375,27 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-5414e00ffd4e",
+      "id": "FL-160d55aeb47e",
       "date": "2026-06-22",
       "dateISO": "Mon, 22 Jun 2026 07:00:00 GMT",
       "ts": 1782111600000,
       "scope": "intl",
       "type": "blast",
-      "title": "卡塔尔工厂爆炸已致13人死亡 - news.cn",
+      "title": "卡塔尔工厂爆炸已致13人死亡 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mR2pTX0YxWjBwQ2lLNC1XZjFhd3IwVEYtWkZFR3ZBU3B5RTFHR1BldmQ3OEkxN2NaWTMzYUkwWENDeEliY3dVNEloOExFS1B6SlZQTENHdWVmTWpUM042M2hRcmo4QS1qdl85cXlhZHJ3R3JGTEU4?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-dbcf7399ae0d",
+      "id": "FL-b042a088a326",
       "date": "2026-08-03",
       "dateISO": "Mon, 03 Aug 2026 07:00:00 GMT",
       "ts": 1785740400000,
       "scope": "intl",
       "type": "blast",
-      "title": "巴基斯坦西北部发生爆炸致14人死亡 - news.cn",
+      "title": "巴基斯坦西北部发生爆炸致14人死亡 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     }
   ]
