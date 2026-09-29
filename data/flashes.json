@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T02:04:35.258Z",
+  "updated": "2026-09-29T02:18:40.011Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -51,16 +51,28 @@
       "siteUrl": "https://tech.ifeng.com"
     },
     {
-      "id": "FL-52720b98ede5",
+      "id": "FL-385dd58b908a",
       "date": "2026-08-11",
       "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
       "ts": 1786431600000,
       "scope": "dom",
       "type": "blast",
-      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - science.caixin.com",
+      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - 财新",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fOUNOVy1jMjYtRHRacDFONmZLdmtlUTBvcjVNX0xwMG9rc2lwYkV4ZzRCOFVIVmdNLXdZcUo3Mkw1UnI3elZsRjNGblI4YTBsMGxPeHJCRnZSNWE0dXNTdXRxcUQ?oc=5",
-      "site": "science.caixin.com",
+      "site": "财新",
       "siteUrl": "https://science.caixin.com"
+    },
+    {
+      "id": "FL-6612abd30963",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 07:00:00 GMT",
+      "ts": 1789628400000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "宇宙大爆炸最初五分钟氦丰度获最精确测量 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MzVkcXZnR2UwelNkenFIYVFYVzBPcUxUQ1VSaUVHcV9LYVJnZzhjQWZzM09DNk8wc0xVNlo2amRqNjBueWtVeTdSbkJZT053RjRSZDhmeXJyT19wekF3UHB6WERtZkxLaFFwT2pVWTE?oc=5",
+      "site": "中国科技网",
+      "siteUrl": "https://www.stdaily.com"
     },
     {
       "id": "FL-382a151f8c29",
@@ -219,27 +231,27 @@
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
-      "id": "FL-0a65f3e8ea29",
+      "id": "FL-e4210ecf8c66",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 23:27:26 GMT",
       "ts": 1790638046000,
       "scope": "intl",
       "type": "blast",
-      "title": "Where’s the “intelligence explosion”? - by Ramez Naam - noahpinion.blog",
+      "title": "Where’s the “intelligence explosion”? - by Ramez Naam - Noahpinion",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TU2dmbkt6OXJTZGRLUndMRHpXbGtBb2Z6c0RRb3lrVzBYdnZURUo3ZHV6Ym9kTUJiQ204enJCamdTZGFEU1N5ZjF0Nk45UjlBbHJvdGdPZVJWRWZPRThhbVN0bnlhZzI5TFNXemJFS3U?oc=5",
-      "site": "noahpinion.blog",
+      "site": "Noahpinion",
       "siteUrl": "https://www.noahpinion.blog"
     },
     {
-      "id": "FL-9409a4211df3",
+      "id": "FL-e95354472682",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 23:20:57 GMT",
       "ts": 1790637657000,
       "scope": "intl",
       "type": "blast",
-      "title": "伊朗媒体：格什姆岛附近传出爆炸声 系警告射击所致 - cj.sina.cn",
+      "title": "伊朗媒体：格什姆岛附近传出爆炸声 系警告射击所致 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmVHhRUzRhTlpZZHFIb2JsX3pHNFJ0ZjU1ZVFPM3ZuVU5Obmh0Wm52MW9PSjBFYW12bS1Ld01mU056TDRCaTdnQV9Vdw?oc=5",
-      "site": "cj.sina.cn",
+      "site": "新浪财经",
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
