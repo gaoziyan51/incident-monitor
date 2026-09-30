@@ -1,17 +1,29 @@
 {
-  "updated": "2026-09-30T11:48:39.073Z",
+  "updated": "2026-09-30T11:58:48.445Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-0c24917f0b0c",
+      "id": "FL-d08f12820339",
+      "date": "2026-09-30",
+      "dateISO": "Wed, 30 Sep 2026 11:36:00 GMT",
+      "ts": 1790768160000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "HOUSE EXPLOSION | Emergency crews on scene, road closed - WGAL",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aMWRHbkw0dFE0UnFNeG0xQjJCc3B6V1ZqS0JhVlNCR3NiUUVfRzItb0VUUmxpMEY0M3UtUTRQd25wY0tXemVTaDRkY2JySGpEdGo2Ykg3cVBOb2tJUmlqeC03eHlQUHpJcm9LZlFibEZ5cWJ6TGNPMg?oc=5",
+      "site": "WGAL",
+      "siteUrl": "https://www.wgal.com"
+    },
+    {
+      "id": "FL-67e2a5843139",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 11:33:39 GMT",
       "ts": 1790768019000,
       "scope": "dom",
       "type": "blast",
-      "title": "韩西部边境地区自朝方频传爆炸声引居民不安 - 韩联社",
+      "title": "韩西部边境地区自朝方频传爆炸声引居民不安 - cn.yna.co.kr",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtRVpRTDZzWWZWRkphM2FvcmdXMVNjNUJsclRMTHZROFc2WldaZG0wdHpVdVl2NjFsanl6NjdpdU1UV3JaaEl4WENfUGR5cWluaVp3YnBNa1FUQQ?oc=5",
-      "site": "韩联社",
+      "site": "cn.yna.co.kr",
       "siteUrl": "https://cn.yna.co.kr"
     },
     {
@@ -39,15 +51,15 @@
       "siteUrl": "https://www.epochtimes.com"
     },
     {
-      "id": "FL-60d34d862b24",
+      "id": "FL-3dcf7b866a99",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 07:03:07 GMT",
       "ts": 1790751787000,
       "scope": "dom",
       "type": "blast",
-      "title": "李在明慰问因地雷爆炸受伤韩军官兵 - 연합뉴스",
+      "title": "李在明慰问因地雷爆炸受伤韩军官兵 - m-cn.yna.co.kr",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tSVpOaFJxalh4NVM0ZU9PUzVfUDVPOWVobFdQQmtBRXlmcGZMcWxBR3lZbnJIa3MwZlJEenBuOVVHbnVuLUZxdy0ySk1haDhXNG9rclBpREhNNEtj?oc=5",
-      "site": "연합뉴스",
+      "site": "m-cn.yna.co.kr",
       "siteUrl": "https://m-cn.yna.co.kr"
     },
     {
@@ -99,15 +111,15 @@
       "siteUrl": "https://gbcode.rthk.hk"
     },
     {
-      "id": "FL-51fd8cfa8720",
+      "id": "FL-3ef1312740fe",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 05:30:16 GMT",
       "ts": 1790746216000,
       "scope": "dom",
       "type": "blast",
-      "title": "韩军促朝停止边境加固工程并就爆炸事故道歉 - 韩联社",
+      "title": "韩军促朝停止边境加固工程并就爆炸事故道歉 - cn.yna.co.kr",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53LW5adnZTdG1FZHZXQlBveGZtdmZMYmtRUE9OaFhxNlFQdVlNNGtPazhfNVdKZHFnRU1JdUFaMTB2QnhYRHhKX3JicUtNTllPNGwtNWkzYXk1YjZWUWZoQl9YTnBZQ3VwWU9raWJGZFcyWVU4elE?oc=5",
-      "site": "韩联社",
+      "site": "cn.yna.co.kr",
       "siteUrl": "https://cn.yna.co.kr"
     },
     {
@@ -147,15 +159,15 @@
       "siteUrl": "https://gbcode.rthk.hk"
     },
     {
-      "id": "FL-85878f5a6f4c",
+      "id": "FL-e436e4ddde26",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 03:00:06 GMT",
       "ts": 1790737206000,
       "scope": "dom",
       "type": "blast",
-      "title": "联合国军司令部认定前沿爆炸属违反停战协定事件 - 韩联社",
+      "title": "联合国军司令部认定前沿爆炸属违反停战协定事件 - cn.yna.co.kr",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSbWVuRjNmWEczTXdPempnVE84WkFsVTdxbnR6V3c2aFVybWRzQ29FZ1NtVzN4Y083UVpiMUJ0SnphRzZ3V200STJqRWlPd2lhVVBOc0JZdmtoUU1lMHNJbmVmejNjcDlTRi03c3VjR1ZNVGlCTXc?oc=5",
-      "site": "韩联社",
+      "site": "cn.yna.co.kr",
       "siteUrl": "https://cn.yna.co.kr"
     },
     {
@@ -171,15 +183,15 @@
       "siteUrl": "https://chinese.joins.com"
     },
     {
-      "id": "FL-659a0f6b2dfe",
+      "id": "FL-4dba83a38fb6",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 01:57:30 GMT",
       "ts": 1790733450000,
       "scope": "dom",
       "type": "blast",
-      "title": "详讯：联合军司令部认定前沿爆炸属违反停战协定事件 - 韩联社",
+      "title": "详讯：联合军司令部认定前沿爆炸属违反停战协定事件 - cn.yna.co.kr",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2SjlHQll0UUI3V0NNdUUzSWptRDVabHJJR3BIZlFfMURlT1RNTUNkbU53RkxMdUxPN2lDT1c2bWxuSktUUUZPNXNNMWlBbjVMOWZrTnNoeUt0QQ?oc=5",
-      "site": "韩联社",
+      "site": "cn.yna.co.kr",
       "siteUrl": "https://cn.yna.co.kr"
     },
     {
@@ -243,15 +255,15 @@
       "siteUrl": "https://china.hani.co.kr"
     },
     {
-      "id": "FL-9bcc4c294c5c",
+      "id": "FL-d13df73f85ca",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 00:48:36 GMT",
       "ts": 1790729316000,
       "scope": "dom",
       "type": "blast",
-      "title": "快讯：联合军司令部认定前沿爆炸属违反停战协定事件 - 韩联社",
+      "title": "快讯：联合军司令部认定前沿爆炸属违反停战协定事件 - cn.yna.co.kr",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4welZXTTlQN21WTWhSS0M2QjdrWExfSXd4SzhpSFJDZVVZU1RSUXZrWVFTYWNaMHZOb3hSZk1UWW9UMTZyY0JrcG52Tlh3TE01aDUyZGlJMXZqQQ?oc=5",
-      "site": "韩联社",
+      "site": "cn.yna.co.kr",
       "siteUrl": "https://cn.yna.co.kr"
     },
     {
@@ -267,15 +279,15 @@
       "siteUrl": "https://www.8world.com"
     },
     {
-      "id": "FL-eb2cc2e65597",
+      "id": "FL-e4c9e7fa6885",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 00:36:41 GMT",
       "ts": 1790728601000,
       "scope": "dom",
       "type": "blast",
-      "title": "金与正全面否认韩方爆炸事故调查结论 - 韩联社",
+      "title": "金与正全面否认韩方爆炸事故调查结论 - cn.yna.co.kr",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tTmZoNDUySGV5aXEtOVh3clVIUjhTOUFkTkxuckRvbmI2d2d1N1ZmakpNbjFuZlZub1hfU05sQW4xeVJqeV9IelNFS1M3aTFWMll0VEg0d0E5UQ?oc=5",
-      "site": "韩联社",
+      "site": "cn.yna.co.kr",
       "siteUrl": "https://cn.yna.co.kr"
     },
     {
@@ -351,15 +363,15 @@
       "siteUrl": "https://news.ifeng.com"
     },
     {
-      "id": "FL-b9db7cd7a655",
+      "id": "FL-f9f03aadcacc",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 23:03:06 GMT",
       "ts": 1790722986000,
       "scope": "dom",
       "type": "blast",
-      "title": "俄無人機襲基輔國家科學院 大樓爆炸多人傷亡 - 新唐人電視台",
+      "title": "俄無人機襲基輔國家科學院 大樓爆炸多人傷亡 - ntdtv.com",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lYlpBYUN5ZmNtdnJvNWE2R0xrMVZxNVFJcmJqV05tb2U1Smp1cHVQdFJlQkZVWmt0c3h4cE9WUEE1b2RzUWRhQ3BPU1FMLVNFcXpISTAzTjdlZXdMLUpnYdIBZkFVX3lxTFB2N2hqLXN5bDFJcDM1V0NNOGJqM1dabWI2eExnbk81RlVpNlY3OTdVNGZZVW9XeWsyeW95MkEzWXQ4UG5mRUdBM0dHZjlIbncxNG1BVTlMTThVRUhrM0Vvc3EtYUc1UQ?oc=5",
-      "site": "新唐人電視台",
+      "site": "ntdtv.com",
       "siteUrl": "https://www.ntdtv.com"
     },
     {
@@ -447,6 +459,18 @@
       "siteUrl": "https://news.ifeng.com"
     },
     {
+      "id": "FL-f928c478223f",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 07:03:08 GMT",
+      "ts": 1790665388000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "【快讯】韩军方：\"爆炸现场附近发现1枚北韩树脂反步兵地雷\" - chinese.joins.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lNXhicFRhUTNzZHVDX0NRTEJ6eVBEV3lLUFlzQVpPbUtVV2lYYWd1Rm9aMVhZeHBCbkxaSUVLUU1neE02VzEyU0lNd05MSUc5aEdsd3NPdGt0SlhnUXlLelZWYzNZUEtRRG91RA?oc=5",
+      "site": "chinese.joins.com",
+      "siteUrl": "https://chinese.joins.com"
+    },
+    {
       "id": "FL-f1c86563e0e4",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 17:10:36 GMT",
@@ -459,15 +483,15 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-0a65f3e8ea29",
+      "id": "FL-e4210ecf8c66",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 07:20:08 GMT",
       "ts": 1790493608000,
       "scope": "intl",
       "type": "blast",
-      "title": "Where’s the “intelligence explosion”? - by Ramez Naam - noahpinion.blog",
+      "title": "Where’s the “intelligence explosion”? - by Ramez Naam - Noahpinion",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TU2dmbkt6OXJTZGRLUndMRHpXbGtBb2Z6c0RRb3lrVzBYdnZURUo3ZHV6Ym9kTUJiQ204enJCamdTZGFEU1N5ZjF0Nk45UjlBbHJvdGdPZVJWRWZPRThhbVN0bnlhZzI5TFNXemJFS3U?oc=5",
-      "site": "noahpinion.blog",
+      "site": "Noahpinion",
       "siteUrl": "https://www.noahpinion.blog"
     },
     {
