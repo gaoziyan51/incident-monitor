@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-30T01:20:57.897Z",
+  "updated": "2026-09-30T01:36:07.152Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-204d5cc7d240",
+      "date": "2026-09-30",
+      "dateISO": "Wed, 30 Sep 2026 01:25:21 GMT",
+      "ts": 1790731521000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "联合国军司令部判定DMZ爆炸事件违反停战协定 - chinese.joins.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kQ2dKcF9IRGpQTVNZam1MU3ZYYVEwZFI3RVZvQ1VOM3VSc29HMkxyQmpTTGJRZS0talNGYnlJWUc5Z1NDUlVQSjhHTWcxekpMVWp4NFNqaWxrRDhyNFF0Uy1WeGctY1dPWUFZeA?oc=5",
+      "site": "chinese.joins.com",
+      "siteUrl": "https://chinese.joins.com"
+    },
     {
       "id": "FL-08b77fd5f983",
       "date": "2026-09-30",
@@ -37,6 +49,18 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4ySGxFeVFlV2NEdUdEaWxPa3RLcXdXU2lOcFE2dzlCZWV3TWNScm1sLU92ZmdWV3BHT01BMzQxY0NVZ3B1QkxGZWhwYUhqRXVpRmdYMVNhUUI3NzMw?oc=5",
       "site": "연합뉴스",
       "siteUrl": "https://m-cn.yna.co.kr"
+    },
+    {
+      "id": "FL-ef82b85f10e4",
+      "date": "2026-09-30",
+      "dateISO": "Wed, 30 Sep 2026 00:47:08 GMT",
+      "ts": 1790729228000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "金与正回应地雷爆炸事件 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Xbno4WW02eDRpWDYxVmtYNk9yUGNtaWhFQi1kVVJNd2JabFo5WTF0OVpGWVlQNElFSlVtblZFaVlqdlVVdTBfNnNkRzE?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://news.ifeng.com"
     },
     {
       "id": "FL-df6057618573",
@@ -97,18 +121,6 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvYllNZF9uTHhWSVhUYTg1YlU5MVZuaVJ2amRfa2J5ZlNtV3JzNlc3c2Y2bmJ1SHlRbzhsQzM1VFdOU2NXQ0VRQ3VkSWN6c0JVVWpBSVNpakNnVmlXelNyamhpR2U4b3d6Mmx6MA?oc=5",
       "site": "生物通",
       "siteUrl": "https://www.ebiotrade.com"
-    },
-    {
-      "id": "FL-9b4d6fab0a81",
-      "date": "2026-09-30",
-      "dateISO": "Wed, 30 Sep 2026 00:03:54 GMT",
-      "ts": 1790726634000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "金与正回应地雷爆炸事件 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aa1FHaE1UUWR2NkpEOURlX3RMSGNzZk9zNUE5VmhGOVpxb1FIOURIZlp2eTlrbm52V3Fad3ZzUHVNdkNEYzRaczd2a0ZvR2hITnc?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://www.sohu.com"
     },
     {
       "id": "FL-3e8ac865bae6",
@@ -397,18 +409,6 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMnQtbGJIVGlaZFBybExuTmJaS25CLTRBWTVrMG5LcnhkTXYtaC1FUXVJSDJfZktfaF93VEhHOEhwQUEwWEU1NVVIU0RNc1hxWWUwYlBXR1VyRnlueUtrYVpXdndLTGVEdm1fTEw0N2pIbGM0UjB2ZlAyMVhwMjhRVjVfaFVzTll0cklidjJ2YUFpU2g2bGJKVVo4cndxZ09Rblc0aHgxNjFtdFJSZlJtSE8tQ3FyZkdSWEE?oc=5",
       "site": "Moomoo",
       "siteUrl": "https://www.moomoo.com"
-    },
-    {
-      "id": "FL-bf5ce353b970",
-      "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 00:50:36 GMT",
-      "ts": 1790643036000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "20余名行业领袖示警“智能爆炸”，Anthropic、OpenAI高管呼吁关注AI自我改进 - 凤凰网科技",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA5Mzh3OTJ3RGZ3VXE5bkVVNzIyV3prMkJkSXdxQ2p0RTBCRjJkLWd2bzdydDE2cW4tQkgyTnZxT3VGcVI3QWdYTm4wYnM?oc=5",
-      "site": "凤凰网科技",
-      "siteUrl": "https://tech.ifeng.com"
     },
     {
       "id": "FL-f1c86563e0e4",
