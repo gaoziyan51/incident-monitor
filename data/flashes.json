@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-30T05:58:48.132Z",
+  "updated": "2026-09-30T06:11:30.608Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-cb150749dc79",
+      "date": "2026-09-30",
+      "dateISO": "Wed, 30 Sep 2026 05:49:58 GMT",
+      "ts": 1790747398000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "利用耦合的PBM-DEM-FEM框架对颗粒介质爆炸扩散进行数值研究 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvYllNZF9uTHhWSVhUYTg1YlU5MVZuaVJ2amRfa2J5ZlNtV3JzNlc3c2Y2bmJ1SHlRbzhsQzM1VFdOU2NXQ0VRQ3VkSWN6c0JVVWpBSVNpakNnVmlXelNyamhpR2U4b3d6Mmx6MA?oc=5",
+      "site": "生物通",
+      "siteUrl": "https://www.ebiotrade.com"
+    },
     {
       "id": "FL-2c9054983444",
       "date": "2026-09-30",
@@ -219,18 +231,6 @@
       "siteUrl": "https://cn.yna.co.kr"
     },
     {
-      "id": "FL-ef82b85f10e4",
-      "date": "2026-09-30",
-      "dateISO": "Wed, 30 Sep 2026 00:47:08 GMT",
-      "ts": 1790729228000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "金与正回应地雷爆炸事件 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Xbno4WW02eDRpWDYxVmtYNk9yUGNtaWhFQi1kVVJNd2JabFo5WTF0OVpGWVlQNElFSlVtblZFaVlqdlVVdTBfNnNkRzE?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://news.ifeng.com"
-    },
-    {
       "id": "FL-df6057618573",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 00:42:19 GMT",
@@ -267,30 +267,6 @@
       "siteUrl": "https://cn.wsj.com"
     },
     {
-      "id": "FL-cb150749dc79",
-      "date": "2026-09-30",
-      "dateISO": "Wed, 30 Sep 2026 00:06:26 GMT",
-      "ts": 1790726786000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "利用耦合的PBM-DEM-FEM框架对颗粒介质爆炸扩散进行数值研究 - 生物通",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvYllNZF9uTHhWSVhUYTg1YlU5MVZuaVJ2amRfa2J5ZlNtV3JzNlc3c2Y2bmJ1SHlRbzhsQzM1VFdOU2NXQ0VRQ3VkSWN6c0JVVWpBSVNpakNnVmlXelNyamhpR2U4b3d6Mmx6MA?oc=5",
-      "site": "生物通",
-      "siteUrl": "https://www.ebiotrade.com"
-    },
-    {
-      "id": "FL-3e8ac865bae6",
-      "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 23:55:50 GMT",
-      "ts": 1790726150000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "韩军在前沿爆炸事故现场发现一枚朝鲜地雷 - 韩联社",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oZ0RFR05YUTYzc3BSbWhZLWFNWi1mT3lINDRMbUpnYkQtV3BfYi1ILVk0MkVnZUVRdlVLTGVRUzNQczJYUnhVeWt3azFVSktnREttakQ0V0tCNkMtR0FGQTRCTzd6Z1I1eFRWTV90YURNVmIyN1E?oc=5",
-      "site": "韩联社",
-      "siteUrl": "https://cn.yna.co.kr"
-    },
-    {
       "id": "FL-747ac303946d",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 23:52:00 GMT",
@@ -325,6 +301,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIbjdObndiSGMxVnZzdkdLYllRMkVqOXpUMUxsRThkbTR3cDZFLUZEbS1Bb0FtYUVLbzhsZ0N5UXNyc25DdGZmNkNTdjR3Z0V4ZFR1YkpuRTQ5RHV6R051Z0xYVE1ZYjVQaGUzMGdlS3NFSWtXS2FTa094MTBnMlE?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
+    },
+    {
+      "id": "FL-ef82b85f10e4",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 23:38:28 GMT",
+      "ts": 1790725108000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "金与正回应地雷爆炸事件 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Xbno4WW02eDRpWDYxVmtYNk9yUGNtaWhFQi1kVVJNd2JabFo5WTF0OVpGWVlQNElFSlVtblZFaVlqdlVVdTBfNnNkRzE?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://news.ifeng.com"
     },
     {
       "id": "FL-b9db7cd7a655",
@@ -591,15 +579,15 @@
       "siteUrl": "https://wap.eastmoney.com"
     },
     {
-      "id": "FL-6db604326750",
+      "id": "FL-b1e0fde6ab4e",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 23:28:32 GMT",
       "ts": 1790638112000,
       "scope": "intl",
       "type": "blast",
-      "title": "伊朗媒体：格什姆岛附近传出爆炸声 系警告射击所致 - 东方财富",
+      "title": "伊朗媒体：格什姆岛附近传出爆炸声 系警告射击所致 - emwap.eastmoney.com",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0cE1yTkZvd2ZUdmcyV3JMZEJFLW8zZ3lNTUNtemd6X0RQTXA3bXB3UUloLXpaVC1xcm1qQ1UwUTJaQl9KSnJ6RHBMTlZNenBZNkdKcDE3QXFDWjdOYnRyWE02Yw?oc=5",
-      "site": "东方财富",
+      "site": "emwap.eastmoney.com",
       "siteUrl": "https://emwap.eastmoney.com"
     },
     {
