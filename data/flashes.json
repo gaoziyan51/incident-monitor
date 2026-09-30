@@ -1,18 +1,30 @@
 {
-  "updated": "2026-09-30T02:21:22.156Z",
+  "updated": "2026-09-30T02:36:46.350Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-1035c78efccc",
+      "id": "FL-748b527da3c0",
       "date": "2026-09-30",
-      "dateISO": "Wed, 30 Sep 2026 02:00:40 GMT",
-      "ts": 1790733640000,
-      "scope": "intl",
+      "dateISO": "Wed, 30 Sep 2026 02:28:12 GMT",
+      "ts": 1790735292000,
+      "scope": "dom",
       "type": "blast",
-      "title": "基辅遭遇9小时持续空袭，市中心爆炸声不绝，乌克兰防空极限承压 - sohu.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLW1IU09ZTFl6NXljVzh6WHQxNml6d1ZxSUpQOWRKWHNiUXFXU0hkNWMzNGhZc0R6UWRxVlFtajVNNEJ5MmFISVYybW5VWmdGbVVIRTVkRnhGRnNnN0pvTkZSOTRUbzNSb0hBUkxKNVBFWmhIdTNlUnA4QklvQk91QWxXNDJVZk1IazEydQ?oc=5",
-      "site": "sohu.com",
-      "siteUrl": "https://m.sohu.com"
+      "title": "【社论】DMZ地雷爆炸事件，未能阻止北韩埋设地雷的责任同样重大 - chinese.joins.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wOWhBUFUwS01iOUFlUXdIVkJBTVZZOV9vQmNMc2VKLWN0Z3pKejFtTWlVdjhlUE02azJnMmRzOXVDZE12RzMwWWNkRnQyR1BMYmxQTC1XSDgtdnJVTWhOMWtSMG1TbGtBLVp2dQ?oc=5",
+      "site": "chinese.joins.com",
+      "siteUrl": "https://chinese.joins.com"
+    },
+    {
+      "id": "FL-c7896ef61e56",
+      "date": "2026-09-30",
+      "dateISO": "Wed, 30 Sep 2026 02:23:56 GMT",
+      "ts": 1790735036000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "联合国军司令部认定韩朝边境爆炸属违反停战协定事件 - 联合早报",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UZ19NbFN0bUo0X05ld3RCZUVWZzFCajI1Qi0wVlBpZ29MNTFIaWVTVl9raUNBSmZENEI5T29rQlFVNENEWTVVMUFfbWRyaVlUMm1FaWZQcmxfc1NzVnpJSHl0U194ZkhqR1E?oc=5",
+      "site": "联合早报",
+      "siteUrl": "https://www.zaobao.com.sg"
     },
     {
       "id": "FL-659a0f6b2dfe",
@@ -99,16 +111,16 @@
       "siteUrl": "https://cn.yna.co.kr"
     },
     {
-      "id": "FL-898cd1979bb7",
+      "id": "FL-9bcc4c294c5c",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 00:48:36 GMT",
       "ts": 1790729316000,
       "scope": "dom",
       "type": "blast",
-      "title": "快讯：联合军司令部认定前沿爆炸属违反停战协定事件 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4ySGxFeVFlV2NEdUdEaWxPa3RLcXdXU2lOcFE2dzlCZWV3TWNScm1sLU92ZmdWV3BHT01BMzQxY0NVZ3B1QkxGZWhwYUhqRXVpRmdYMVNhUUI3NzMw?oc=5",
-      "site": "연합뉴스",
-      "siteUrl": "https://m-cn.yna.co.kr"
+      "title": "快讯：联合军司令部认定前沿爆炸属违反停战协定事件 - 韩联社",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4welZXTTlQN21WTWhSS0M2QjdrWExfSXd4SzhpSFJDZVVZU1RSUXZrWVFTYWNaMHZOb3hSZk1UWW9UMTZyY0JrcG52Tlh3TE01aDUyZGlJMXZqQQ?oc=5",
+      "site": "韩联社",
+      "siteUrl": "https://cn.yna.co.kr"
     },
     {
       "id": "FL-b86fe1c5ea63",
@@ -219,15 +231,15 @@
       "siteUrl": "https://www.sohu.com"
     },
     {
-      "id": "FL-f9f03aadcacc",
+      "id": "FL-b9db7cd7a655",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 23:03:06 GMT",
       "ts": 1790722986000,
       "scope": "dom",
       "type": "blast",
-      "title": "俄無人機襲基輔國家科學院 大樓爆炸多人傷亡 - ntdtv.com",
+      "title": "俄無人機襲基輔國家科學院 大樓爆炸多人傷亡 - 新唐人電視台",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lYlpBYUN5ZmNtdnJvNWE2R0xrMVZxNVFJcmJqV05tb2U1Smp1cHVQdFJlQkZVWmt0c3h4cE9WUEE1b2RzUWRhQ3BPU1FMLVNFcXpISTAzTjdlZXdMLUpnYdIBZkFVX3lxTFB2N2hqLXN5bDFJcDM1V0NNOGJqM1dabWI2eExnbk81RlVpNlY3OTdVNGZZVW9XeWsyeW95MkEzWXQ4UG5mRUdBM0dHZjlIbncxNG1BVTlMTThVRUhrM0Vvc3EtYUc1UQ?oc=5",
-      "site": "ntdtv.com",
+      "site": "新唐人電視台",
       "siteUrl": "https://www.ntdtv.com"
     },
     {
@@ -327,15 +339,15 @@
       "siteUrl": "https://cj.sina.cn"
     },
     {
-      "id": "FL-cdd8ba244637",
+      "id": "FL-dd473ccfbdfe",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 12:35:00 GMT",
       "ts": 1790685300000,
       "scope": "dom",
       "type": "blast",
-      "title": "SpaceX星舰地球轨道飞行提前结束 溅落时剧烈爆炸火光冲天 - news.mydrivers.com",
+      "title": "SpaceX星舰地球轨道飞行提前结束 溅落时剧烈爆炸火光冲天 - 驱动之家",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93RGdDV2Z4Tm1pYUY3RmFSRWFOUW1rVHNfWXVWNkVLMFpDbTRoOUJVdVVBbWxuOTNRVjkzQlpqQWNlTGd3eW43WXNKOG1hOW1pMGJ6TUJIWG0?oc=5",
-      "site": "news.mydrivers.com",
+      "site": "驱动之家",
       "siteUrl": "https://news.mydrivers.com"
     },
     {
@@ -399,16 +411,28 @@
       "siteUrl": "https://kossev.info"
     },
     {
-      "id": "FL-82dc06a5c594",
+      "id": "FL-32ebcde3a9b9",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 10:23:17 GMT",
       "ts": 1790677397000,
       "scope": "dom",
       "type": "blast",
-      "title": "开赛倒计时！费德勒搭档李娜、六款“爆炸头”……今年上海劳力士大师赛新惊喜抢先看 - 新浪财经",
+      "title": "开赛倒计时！费德勒搭档李娜、六款“爆炸头”……今年上海劳力士大师赛新惊喜抢先看 - finance.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZVhyWjVLTmxPRWRjYUhyUTZISG1kZ2RHMjY4Q09Bd3dyRGx5Rm13clpxRXJGV3VWTU9aQkkxTnNzeGFjOTM1STlzb09ncE9LZmhNNUJSYXBYT2kxTTNPcHNidzFDN08taVZOaDhfVERDX0FWSFZhbVJ3ZTlfS0FrM0RrWFozZFkyVGpIdk9rdXZEd1lFbFp6bk9VdURtMzRZ?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.cn",
       "siteUrl": "https://finance.sina.cn"
+    },
+    {
+      "id": "FL-82dc06a5c594",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 09:01:00 GMT",
+      "ts": 1790672460000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "开赛倒计时！费德勒搭档李娜、六款“爆炸头”……今年上海劳力士大师赛新惊喜抢先看 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tdHpsYzF1dVNQVDZxMGJRTHFQSm1CNW52ZzlHYXZybURCUURhV0hyQ0l4WU80NGxvaFVDUVVrQUtpVzRnZkhCMTdmUnA4QmVWTkl2bTVWRXFTdERFNm1LYWFvZF9PZVNubEI2emJqSTViMzBSMGZvZw?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-78a66c85c36f",
@@ -531,15 +555,15 @@
       "siteUrl": "https://wap.eastmoney.com"
     },
     {
-      "id": "FL-6db604326750",
+      "id": "FL-b1e0fde6ab4e",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 23:28:32 GMT",
       "ts": 1790638112000,
       "scope": "intl",
       "type": "blast",
-      "title": "伊朗媒体：格什姆岛附近传出爆炸声 系警告射击所致 - 东方财富",
+      "title": "伊朗媒体：格什姆岛附近传出爆炸声 系警告射击所致 - emwap.eastmoney.com",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0cE1yTkZvd2ZUdmcyV3JMZEJFLW8zZ3lNTUNtemd6X0RQTXA3bXB3UUloLXpaVC1xcm1qQ1UwUTJaQl9KSnJ6RHBMTlZNenBZNkdKcDE3QXFDWjdOYnRyWE02Yw?oc=5",
-      "site": "东方财富",
+      "site": "emwap.eastmoney.com",
       "siteUrl": "https://emwap.eastmoney.com"
     },
     {
