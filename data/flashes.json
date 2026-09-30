@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-30T00:29:12.730Z",
+  "updated": "2026-09-30T00:47:38.778Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-6cae2c7464c7",
+      "date": "2026-09-30",
+      "dateISO": "Wed, 30 Sep 2026 00:31:09 GMT",
+      "ts": 1790728269000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "希腊爆炸中4名美国游客死亡 燃气泄漏疑为原因 - 中华军事",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80VGJwUXlDUVRpNlo5UGVHenRER2tvSnQzam5BV08tT20wZFJHZTlzc0tTbFoyUGFRWTZISUwzSms1aG84TFJXZHhRQ1c2WlM0UTJZdUJqdU1SMll3Vkp5aHpqODhKU1lDMmFJaEZNSEs?oc=5",
+      "site": "中华军事",
+      "siteUrl": "https://military.china.com"
+    },
     {
       "id": "FL-ed856f656f26",
       "date": "2026-09-30",
@@ -87,16 +99,28 @@
       "siteUrl": "https://www.sohu.com"
     },
     {
-      "id": "FL-f9f03aadcacc",
+      "id": "FL-b9db7cd7a655",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 23:03:06 GMT",
       "ts": 1790722986000,
       "scope": "dom",
       "type": "blast",
-      "title": "俄無人機襲基輔國家科學院 大樓爆炸多人傷亡 - ntdtv.com",
+      "title": "俄無人機襲基輔國家科學院 大樓爆炸多人傷亡 - 新唐人電視台",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lYlpBYUN5ZmNtdnJvNWE2R0xrMVZxNVFJcmJqV05tb2U1Smp1cHVQdFJlQkZVWmt0c3h4cE9WUEE1b2RzUWRhQ3BPU1FMLVNFcXpISTAzTjdlZXdMLUpnYdIBZkFVX3lxTFB2N2hqLXN5bDFJcDM1V0NNOGJqM1dabWI2eExnbk81RlVpNlY3OTdVNGZZVW9XeWsyeW95MkEzWXQ4UG5mRUdBM0dHZjlIbncxNG1BVTlMTThVRUhrM0Vvc3EtYUc1UQ?oc=5",
-      "site": "ntdtv.com",
+      "site": "新唐人電視台",
       "siteUrl": "https://www.ntdtv.com"
+    },
+    {
+      "id": "FL-d49b8fd85abb",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 19:31:00 GMT",
+      "ts": 1790710260000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "乌克兰法院以叛国罪判处文尼察爆炸案女子15年监禁并没收财产 - mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fSnpZaTJUQ1lEMjc4LUhFVUtKRlQySUNQemgtMzlsbnp5ZDc2MlJFS21xbHRLTHVsZEFqT09vVWxWZzdBU3lrVGFXQnNia0hPczBqUzhkQWlZM1NTUG9MRU52ZEhobmd1UHpHOGpB?oc=5",
+      "site": "mezha.net",
+      "siteUrl": "https://mezha.net"
     },
     {
       "id": "FL-123dd3a89afe",
@@ -147,6 +171,18 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
+      "id": "FL-94985c8a9a47",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 15:05:23 GMT",
+      "ts": 1790694323000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "“星舰”溅落时，发生剧烈爆炸 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWktvdGExMFZrV09pTUg4VjRfb3U5T0lBeXVCREVoS0VCbFJTeFNwckJiWThSOTlHTjk4Q1gzSy1zVjB1aEN1RUFLeFJoSFJtMDNqUjhuRWR6RVFOeEQ3WlYzR3phTFlTOHRXcUlXZHhxUHlCSmxFQklfYTRZdlRwZHIyNUdVbkN4QWFxRw?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-5ab368322275",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 13:43:35 GMT",
@@ -171,15 +207,15 @@
       "siteUrl": "https://cj.sina.cn"
     },
     {
-      "id": "FL-cdd8ba244637",
+      "id": "FL-dd473ccfbdfe",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 12:35:00 GMT",
       "ts": 1790685300000,
       "scope": "dom",
       "type": "blast",
-      "title": "SpaceX星舰地球轨道飞行提前结束 溅落时剧烈爆炸火光冲天 - news.mydrivers.com",
+      "title": "SpaceX星舰地球轨道飞行提前结束 溅落时剧烈爆炸火光冲天 - 驱动之家",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93RGdDV2Z4Tm1pYUY3RmFSRWFOUW1rVHNfWXVWNkVLMFpDbTRoOUJVdVVBbWxuOTNRVjkzQlpqQWNlTGd3eW43WXNKOG1hOW1pMGJ6TUJIWG0?oc=5",
-      "site": "news.mydrivers.com",
+      "site": "驱动之家",
       "siteUrl": "https://news.mydrivers.com"
     },
     {
@@ -303,6 +339,18 @@
       "siteUrl": "https://k.sina.com.cn"
     },
     {
+      "id": "FL-ad1d3df54831",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 05:26:20 GMT",
+      "ts": 1790659580000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "【社论】DMZ爆炸事故北韩嫌疑重大，须就违反停战协定做出严正应对 - chinese.joins.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnZjZCRjNfVTFLVjZqNG1mUThYYzZzTVI5c3BBeFVnWXBHRGROeXgxc0FZS2hTZnpMN0I0S3M4VlMxU016bE4yTFBlWEthSl9nWU5uRUl1MUlYbzJ0cXhBMnc3MHBUbjRZRDhVQw?oc=5",
+      "site": "chinese.joins.com",
+      "siteUrl": "https://chinese.joins.com"
+    },
+    {
       "id": "FL-6e0d8b25d9a2",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 01:18:15 GMT",
@@ -315,6 +363,18 @@
       "siteUrl": "https://www.moomoo.com"
     },
     {
+      "id": "FL-bf5ce353b970",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 00:50:36 GMT",
+      "ts": 1790643036000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "20余名行业领袖示警“智能爆炸”，Anthropic、OpenAI高管呼吁关注AI自我改进 - 凤凰网科技",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA5Mzh3OTJ3RGZ3VXE5bkVVNzIyV3prMkJkSXdxQ2p0RTBCRjJkLWd2bzdydDE2cW4tQkgyTnZxT3VGcVI3QWdYTm4wYnM?oc=5",
+      "site": "凤凰网科技",
+      "siteUrl": "https://tech.ifeng.com"
+    },
+    {
       "id": "FL-385dd58b908a",
       "date": "2026-08-11",
       "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
@@ -325,6 +385,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fOUNOVy1jMjYtRHRacDFONmZLdmtlUTBvcjVNX0xwMG9rc2lwYkV4ZzRCOFVIVmdNLXdZcUo3Mkw1UnI3elZsRjNGblI4YTBsMGxPeHJCRnZSNWE0dXNTdXRxcUQ?oc=5",
       "site": "财新",
       "siteUrl": "https://science.caixin.com"
+    },
+    {
+      "id": "FL-6612abd30963",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 07:00:00 GMT",
+      "ts": 1789628400000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "宇宙大爆炸最初五分钟氦丰度获最精确测量 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MzVkcXZnR2UwelNkenFIYVFYVzBPcUxUQ1VSaUVHcV9LYVJnZzhjQWZzM09DNk8wc0xVNlo2amRqNjBueWtVeTdSbkJZT053RjRSZDhmeXJyT19wekF3UHB6WERtZkxLaFFwT2pVWTE?oc=5",
+      "site": "中国科技网",
+      "siteUrl": "https://www.stdaily.com"
     },
     {
       "id": "FL-f1c86563e0e4",
@@ -347,18 +419,6 @@
       "type": "blast",
       "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-0615dd398028",
-      "date": "2026-08-02",
-      "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
-      "ts": 1785654000000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
@@ -457,30 +517,6 @@
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5XY05paDVKVHg0TEJqRU1sWkJaLXhYM3QydGk4OWI3NlNFRzA3UHpHUTh3cjNxeDhESm1ac3VLeTdHdExCZ3JnTw?oc=5",
       "site": "财联社",
       "siteUrl": "https://www.cls.cn"
-    },
-    {
-      "id": "FL-160d55aeb47e",
-      "date": "2026-06-22",
-      "dateISO": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "ts": 1782111600000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "卡塔尔工厂爆炸已致13人死亡 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mR2pTX0YxWjBwQ2lLNC1XZjFhd3IwVEYtWkZFR3ZBU3B5RTFHR1BldmQ3OEkxN2NaWTMzYUkwWENDeEliY3dVNEloOExFS1B6SlZQTENHdWVmTWpUM042M2hRcmo4QS1qdl85cXlhZHJ3R3JGTEU4?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-b042a088a326",
-      "date": "2026-08-03",
-      "dateISO": "Mon, 03 Aug 2026 07:00:00 GMT",
-      "ts": 1785740400000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "巴基斯坦西北部发生爆炸致14人死亡 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
     }
   ]
 }
