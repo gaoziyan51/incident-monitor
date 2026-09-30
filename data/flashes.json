@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T03:07:36.988Z",
+  "updated": "2026-09-30T03:23:18.058Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -39,15 +39,15 @@
       "siteUrl": "https://chinese.joins.com"
     },
     {
-      "id": "FL-c7896ef61e56",
+      "id": "FL-6ba1fdc017bf",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 02:23:56 GMT",
       "ts": 1790735036000,
       "scope": "dom",
       "type": "blast",
-      "title": "联合国军司令部认定韩朝边境爆炸属违反停战协定事件 - 联合早报",
+      "title": "联合国军司令部认定韩朝边境爆炸属违反停战协定事件 - zaobao.com.sg",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UZ19NbFN0bUo0X05ld3RCZUVWZzFCajI1Qi0wVlBpZ29MNTFIaWVTVl9raUNBSmZENEI5T29rQlFVNENEWTVVMUFfbWRyaVlUMm1FaWZQcmxfc1NzVnpJSHl0U194ZkhqR1E?oc=5",
-      "site": "联合早报",
+      "site": "zaobao.com.sg",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
@@ -159,28 +159,16 @@
       "siteUrl": "https://news.ifeng.com"
     },
     {
-      "id": "FL-df6057618573",
+      "id": "FL-d7685f8c2669",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 00:42:19 GMT",
       "ts": 1790728939000,
       "scope": "intl",
       "type": "blast",
-      "title": "韩国指朝鲜地雷引发边境爆炸 朝鲜否认指控 - 8world",
+      "title": "韩国指朝鲜地雷引发边境爆炸 朝鲜否认指控 - 8world.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMXNZc3dWYzEzX08yeHRlSVZubU9sUkJrTi1mdW03VUpNTnZSTmo3WGhrNk1nZHYxX3NRdGg1LTRtbXc1T0d2NTRXWTJYVGFOLUtQWWFXeGgwdmt0bnZabUNGM2xzdXp0Rm53MUhPc1R1X2dwZ3hpRVI3MkNtTVhWM1R3dGtoUkFIdVpMMVdNTUlhUTBFMFdNVWZRX1p4S2Foam1TMkJnOU0?oc=5",
-      "site": "8world",
+      "site": "8world.com",
       "siteUrl": "https://www.8world.com"
-    },
-    {
-      "id": "FL-6cae2c7464c7",
-      "date": "2026-09-30",
-      "dateISO": "Wed, 30 Sep 2026 00:31:09 GMT",
-      "ts": 1790728269000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "希腊爆炸中4名美国游客死亡 燃气泄漏疑为原因 - 中华军事",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80VGJwUXlDUVRpNlo5UGVHenRER2tvSnQzam5BV08tT20wZFJHZTlzc0tTbFoyUGFRWTZISUwzSms1aG84TFJXZHhRQ1c2WlM0UTJZdUJqdU1SMll3Vkp5aHpqODhKU1lDMmFJaEZNSEs?oc=5",
-      "site": "中华军事",
-      "siteUrl": "https://military.china.com"
     },
     {
       "id": "FL-3eacb9a83667",
@@ -195,15 +183,15 @@
       "siteUrl": "https://cn.wsj.com"
     },
     {
-      "id": "FL-eba3ce057d72",
+      "id": "FL-06faf2777047",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 00:13:28 GMT",
       "ts": 1790727208000,
       "scope": "intl",
       "type": "blast",
-      "title": "金与正：韩国借所谓地雷爆炸事件挑衅朝鲜，企图捏造“物证”来证明，非常荒谬；韩方将会为其挑衅行为承担责任 - 搜狐网",
+      "title": "金与正：韩国借所谓地雷爆炸事件挑衅朝鲜，企图捏造“物证”来证明，非常荒谬；韩方将会为其挑衅行为承担责任 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRXJ5N2F1cVpzT1MzOTEwdURQM1ExUjFCYkNQUlFVMHpNdDNnaFdOempwUUE2UWhrMDk1ZVNjeGFVQ0xrbVhXZ2E4d2VGNnp2SW8zOUhTYm9xclVjY1JhTkVlRnpoUENhZGRLclRWT2FZODBvN3piRUZtQXBUU1dKM3pwZjE0Q3pDWFB0Rg?oc=5",
-      "site": "搜狐网",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -243,16 +231,28 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-def8662583d8",
+      "id": "FL-f4137c6faa4a",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 23:49:53 GMT",
       "ts": 1790725793000,
       "scope": "intl",
       "type": "blast",
-      "title": "金与正：韩国借所谓地雷爆炸事件挑衅朝鲜，把责任推卸给朝方，企图捏造“物证”来证明，这种做法非常荒谬 - 搜狐网",
+      "title": "金与正：韩国借所谓地雷爆炸事件挑衅朝鲜，把责任推卸给朝方，企图捏造“物证”来证明，这种做法非常荒谬 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeEpxRC1PR3JCbnM3c3pMaTJfMW5EbXRNQjJaTHpfTnBjZFJnVDBTY1c5VHVoR2JMWFpoZU45QTNnbUNzS0VkeFZHTUJiaFFwZFNLYldkVHJTcjAwb2U1OXlrZVQySlIxZGs1T1NfVjJFQ1V3RXFITHZBdWszX1Z5S25YQmxmWlpZSERFbGREQQ?oc=5",
-      "site": "搜狐网",
+      "site": "sohu.com",
       "siteUrl": "https://www.sohu.com"
+    },
+    {
+      "id": "FL-58edb07d4b23",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 23:44:00 GMT",
+      "ts": 1790725440000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "寿命3年在轨硬扛38年！美国间谍卫星太空爆炸：200颗卫星受威胁 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIbjdObndiSGMxVnZzdkdLYllRMkVqOXpUMUxsRThkbTR3cDZFLUZEbS1Bb0FtYUVLbzhsZ0N5UXNyc25DdGZmNkNTdjR3Z0V4ZFR1YkpuRTQ5RHV6R051Z0xYVE1ZYjVQaGUzMGdlS3NFSWtXS2FTa094MTBnMlE?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-b9db7cd7a655",
@@ -279,27 +279,27 @@
       "siteUrl": "https://abc7ny.com"
     },
     {
-      "id": "FL-36ec24b63dc3",
+      "id": "FL-123dd3a89afe",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 19:23:13 GMT",
       "ts": 1790709793000,
       "scope": "intl",
       "type": "blast",
-      "title": "英国警方：在与美军基地事件有关的车辆中未发现简易爆炸装置 - voachinese.com",
+      "title": "英国警方：在与美军基地事件有关的车辆中未发现简易爆炸装置 - 美国之音",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSVlvVjVneDN3c19qbFRzdFBsWGJ3YUkyLWUwOVFONGxHLWZoUHJxU2s3M0FBWFFCRnM3YXhPT3hZRVpGczZnSnVHNkluTHM1eEZ0YnhyVlBUb1lydllxSjd3ZU1vdk5LV3NnU0hwSFdpelA3WFpCRkNxaGNmWFY5bmt2aWlGa1g5Q09oRGxtZXhScWs3T21VUFd1ZzhqSnZkNm1jSHdmNWU3UUtnSlZHbEJ5Mmh0bEE4NUk3WEsxdDNfbnVxeXhEaVVFQUhDYUM4OXJYYW5FVllBZkRud0lmMzdIXzU1Z194NnYtS0ln0gHwAUFVX3lxTE1pZzgzMlpIenpKYkVKV1ZQNXl0SWh2a0JZOHBEMVhzc1MzU2lpNG9mbzVVN0hiRTBIWi1WTU9rYXJZdDc0eVA5S1ZYTGQtQ3JmNWJ0VTNOOXMtX2dxdURHVUZ6bU5xOUR0ZWQ5QWZvcFI5NHRkM01Sd2kyOTNfRk9VckJBT0hpck5hVUxvWWRNWk05d3lsc2JmUHRYV2hET2s2SVZWZ3FxblU5azdwdVZkZTBIel9Udmk2VDhWS3p2ZGZ1Y1V1Z1FDLWh6eDRzVXRtUHNPcU5BT3BzaVJHV1AydUVsbGx5bkNRdnpKQnpFQQ?oc=5",
-      "site": "voachinese.com",
+      "site": "美国之音",
       "siteUrl": "https://www.voachinese.com"
     },
     {
-      "id": "FL-6f32e8bf3b73",
+      "id": "FL-b655bac704b4",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 15:38:44 GMT",
       "ts": 1790696324000,
       "scope": "dom",
       "type": "blast",
-      "title": "溅落时引发剧烈爆炸！“星舰”飞船首次地球轨道飞行提前结束 - 搜狐网",
+      "title": "溅落时引发剧烈爆炸！“星舰”飞船首次地球轨道飞行提前结束 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcGpvY0pWUlowb0g1Yk9jT25TZ2lsWll3ZzVjTXpQWlRad25uVlgycXQ4REpJRDFZWTNCSWR1MkkwazB0TkpVRURCX3pVbFVFTFIyTEVFVEpsWWFrRnc3bWxxcnNnN2RsVndrb1VzSUNkSUlxcUliX3BwVm0xVGR6M2IybG11ZTc3TURnRw?oc=5",
-      "site": "搜狐网",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -315,15 +315,15 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-94985c8a9a47",
+      "id": "FL-120651d1eb83",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 15:05:23 GMT",
       "ts": 1790694323000,
       "scope": "dom",
       "type": "blast",
-      "title": "“星舰”溅落时，发生剧烈爆炸 - 搜狐网",
+      "title": "“星舰”溅落时，发生剧烈爆炸 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWktvdGExMFZrV09pTUg4VjRfb3U5T0lBeXVCREVoS0VCbFJTeFNwckJiWThSOTlHTjk4Q1gzSy1zVjB1aEN1RUFLeFJoSFJtMDNqUjhuRWR6RVFOeEQ3WlYzR3phTFlTOHRXcUlXZHhxUHlCSmxFQklfYTRZdlRwZHIyNUdVbkN4QWFxRw?oc=5",
-      "site": "搜狐网",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -363,15 +363,27 @@
       "siteUrl": "https://news.mydrivers.com"
     },
     {
-      "id": "FL-aca7f036c615",
+      "id": "FL-117104420717",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 12:30:35 GMT",
+      "ts": 1790685035000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Exeter Township School District to discontinue homecoming bonfire after explosion - 6abc Philadelphia",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQjFxSmc0UlcxVlpYR3FBV2ZZblRrOFJ0ak95WW9laWp3VmhNNHNDa1l3V2hfLVRXQ0Vxd3lsMWw0dDNkS1FGaTJQb2xuS01FSDZ1Nm1YeVhRbUJpRzBuckttTFJsVWlKWHVvY0pCZTNDQXZZd3VvVUlyeW9ibjRDWmNxQ1llQ3lLcy1Jc1NPM19nMWxSd2szUm5VeW5FS2MzemJWUFo5NNIBrAFBVV95cUxQMXFVRTBxTUoybENXU3BIWDFSS254UTBhdmlrc0tLU0p2U2xwU21YeVVIVld0WjdwNFJvS19Ubkh3OC1FSXdjUnQyNFkxNUlWeVhISTZXTWE4cFNHNFlOMnVVRGN1em81cUQ0ZV9TSlc1UTNmSVhIYnl4QVFtUEFQeWYya1NsSThMUkx2UnR2MU9RRGtVUkxIWHh0TklZbTlWVWtHQ3dfRjdCWWxT?oc=5",
+      "site": "6abc Philadelphia",
+      "siteUrl": "https://6abc.com"
+    },
+    {
+      "id": "FL-22dba2639a14",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 11:56:11 GMT",
       "ts": 1790682971000,
       "scope": "dom",
       "type": "blast",
-      "title": "韩总统要求军方查明非军事区地雷爆炸事故 - 搜狐网",
+      "title": "韩总统要求军方查明非军事区地雷爆炸事故 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZTM4ejRRVDRVMWgtejZNbTdBaFlONDRQY1hMTTJyYW5CRldQb1J5N1BLeFR6MDhXbk1KUVNTU1NKQ1d0ODRMTmxSc3pRTWl0dnhGTmRZcWRIUXRkZDJlVmlSYzIzM0pwd2YyYURuOWh2STU3Sm1yM3BySE1NOVd0NGdpSGw5WHUw?oc=5",
-      "site": "搜狐网",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -411,28 +423,28 @@
       "siteUrl": "https://news.ifeng.com"
     },
     {
-      "id": "FL-eb6d906d0f45",
-      "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 10:31:17 GMT",
-      "ts": 1790677877000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "目击者描述伊巴尔-莱佩纳茨运河爆炸事件：房子摇晃了，我以为是地震。 - KoSSev",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE05MV9CS0lhMnhTYWpBMVRyQ1dXTVdjbG1VYU5SczRYaC1aekxrRHFMazRPQXdvaWNCWHh5OC04YXBKbkk4WnM0UG0ydDZfTVdqRnVrVmhPNF9aQWg2OHVkVHR5Ym1NblBack0xcFAxaHVyMmU2dkZWZWZCVQ?oc=5",
-      "site": "KoSSev",
-      "siteUrl": "https://kossev.info"
-    },
-    {
-      "id": "FL-82dc06a5c594",
+      "id": "FL-32ebcde3a9b9",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 10:23:17 GMT",
       "ts": 1790677397000,
       "scope": "dom",
       "type": "blast",
-      "title": "开赛倒计时！费德勒搭档李娜、六款“爆炸头”……今年上海劳力士大师赛新惊喜抢先看 - 新浪财经",
+      "title": "开赛倒计时！费德勒搭档李娜、六款“爆炸头”……今年上海劳力士大师赛新惊喜抢先看 - finance.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZVhyWjVLTmxPRWRjYUhyUTZISG1kZ2RHMjY4Q09Bd3dyRGx5Rm13clpxRXJGV3VWTU9aQkkxTnNzeGFjOTM1STlzb09ncE9LZmhNNUJSYXBYT2kxTTNPcHNidzFDN08taVZOaDhfVERDX0FWSFZhbVJ3ZTlfS0FrM0RrWFozZFkyVGpIdk9rdXZEd1lFbFp6bk9VdURtMzRZ?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.cn",
       "siteUrl": "https://finance.sina.cn"
+    },
+    {
+      "id": "FL-82dc06a5c594",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 09:01:00 GMT",
+      "ts": 1790672460000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "开赛倒计时！费德勒搭档李娜、六款“爆炸头”……今年上海劳力士大师赛新惊喜抢先看 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tdHpsYzF1dVNQVDZxMGJRTHFQSm1CNW52ZzlHYXZybURCUURhV0hyQ0l4WU80NGxvaFVDUVVrQUtpVzRnZkhCMTdmUnA4QmVWTkl2bTVWRXFTdERFNm1LYWFvZF9PZVNubEI2emJqSTViMzBSMGZvZw?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-7b0987d4867b",
@@ -483,39 +495,27 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-435013707dbb",
+      "id": "FL-f4f7ceda2939",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 21:06:34 GMT",
       "ts": 1790456794000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典老城区爆炸事故致6死3伤 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PalBtWlYtLVkyQmRpWkxjQ1lOLS1VOEVsbUk2NGs2MV93ZUh0NnJodTBpS0Y3dnNEVExwWEE3Q0UxWjR1V3hUV2ZsSTZLOHVCSHllY0cydlQxbjVZcUNVVg?oc=5",
-      "site": "东方财富",
-      "siteUrl": "https://wap.eastmoney.com"
+      "title": "雅典老城区爆炸事故致6死3伤 - finance.eastmoney.com",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xTGZlLXJTZlVuMEx6c1BjOFNNcWxlQ25OUW5JdFh5TTh0S0tMZHVGa09ZT3AxZnZ6cGFPT0dRdUZlTHFfaC1IVTRHckdIR2ZvTXNpdlFJUnFZc29PdFBJMGZjMXJjUQ?oc=5",
+      "site": "finance.eastmoney.com",
+      "siteUrl": "https://finance.eastmoney.com"
     },
     {
-      "id": "FL-008d86b164a4",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 15:30:00 GMT",
-      "ts": 1790436600000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "雅典发生爆炸，1名女游客遇难，5人失踪，事发卫城脚下，靠近奥林匹亚宙斯神庙 - 川观新闻",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wT2VkbnNVQzB1dlFrSUpwQU5VbElha1Fyc3h0LVI1WFBMSldqQkRfMWkyeV94b1pPS0w5eFQtT1NxQjdRSkRkbm5yUE5iZw?oc=5",
-      "site": "川观新闻",
-      "siteUrl": "https://cbgc.scol.com.cn"
-    },
-    {
-      "id": "FL-53093e91fe3a",
+      "id": "FL-4fcd67df38a6",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 12:25:51 GMT",
       "ts": 1790425551000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 搜狐网",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUU9ESGJKMW5sendsVU4zOUFWYXhBSlFXdVFQUXZ5RVZqQzhlTTRFSlpsSmdWeFRXSHlJakg3ckQtVElSSGZtYkhDM3JMUXVmVTZMX09CeFRhTlVNZ3c0MFNXQXM2LWVpMURDNjU3cXZ6Y01wWHQxRTNIZDhfWEsyUVNJb21URjZKZkJVMElGZ0xueENOU2Jyd0ZNaHk1akVU?oc=5",
-      "site": "搜狐网",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -531,27 +531,27 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-e6da002b8732",
+      "id": "FL-d1d043dda2d5",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 07:07:30 GMT",
       "ts": 1790406450000,
       "scope": "intl",
       "type": "blast",
-      "title": "俄远东一煤矿矿区爆炸 有人员伤亡 - 东方财富",
+      "title": "俄远东一煤矿矿区爆炸 有人员伤亡 - eastmoney.com",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yRUEyVUZDMTdQcTR1emZMSTZNcTFrMzdVRktDNnBEVlNETk9FN29SVnA0WlQxVzg4NGsyd0ZZejJFWGFSSEVjQTl3M2p2blNWVllnTEVTRng2bkhBeXI0eA?oc=5",
-      "site": "东方财富",
+      "site": "eastmoney.com",
       "siteUrl": "https://wap.eastmoney.com"
     },
     {
-      "id": "FL-6db604326750",
+      "id": "FL-b1e0fde6ab4e",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 23:28:32 GMT",
       "ts": 1790638112000,
       "scope": "intl",
       "type": "blast",
-      "title": "伊朗媒体：格什姆岛附近传出爆炸声 系警告射击所致 - 东方财富",
+      "title": "伊朗媒体：格什姆岛附近传出爆炸声 系警告射击所致 - emwap.eastmoney.com",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0cE1yTkZvd2ZUdmcyV3JMZEJFLW8zZ3lNTUNtemd6X0RQTXA3bXB3UUloLXpaVC1xcm1qQ1UwUTJaQl9KSnJ6RHBMTlZNenBZNkdKcDE3QXFDWjdOYnRyWE02Yw?oc=5",
-      "site": "东方财富",
+      "site": "emwap.eastmoney.com",
       "siteUrl": "https://emwap.eastmoney.com"
     },
     {
