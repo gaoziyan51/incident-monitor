@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T03:38:15.704Z",
+  "updated": "2026-09-30T03:50:43.629Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -39,15 +39,15 @@
       "siteUrl": "https://chinese.joins.com"
     },
     {
-      "id": "FL-6ba1fdc017bf",
+      "id": "FL-c7896ef61e56",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 02:23:56 GMT",
       "ts": 1790735036000,
       "scope": "dom",
       "type": "blast",
-      "title": "联合国军司令部认定韩朝边境爆炸属违反停战协定事件 - zaobao.com.sg",
+      "title": "联合国军司令部认定韩朝边境爆炸属违反停战协定事件 - 联合早报",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UZ19NbFN0bUo0X05ld3RCZUVWZzFCajI1Qi0wVlBpZ29MNTFIaWVTVl9raUNBSmZENEI5T29rQlFVNENEWTVVMUFfbWRyaVlUMm1FaWZQcmxfc1NzVnpJSHl0U194ZkhqR1E?oc=5",
-      "site": "zaobao.com.sg",
+      "site": "联合早报",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
@@ -159,15 +159,15 @@
       "siteUrl": "https://news.ifeng.com"
     },
     {
-      "id": "FL-d7685f8c2669",
+      "id": "FL-df6057618573",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 00:42:19 GMT",
       "ts": 1790728939000,
       "scope": "intl",
       "type": "blast",
-      "title": "韩国指朝鲜地雷引发边境爆炸 朝鲜否认指控 - 8world.com",
+      "title": "韩国指朝鲜地雷引发边境爆炸 朝鲜否认指控 - 8world",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMXNZc3dWYzEzX08yeHRlSVZubU9sUkJrTi1mdW03VUpNTnZSTmo3WGhrNk1nZHYxX3NRdGg1LTRtbXc1T0d2NTRXWTJYVGFOLUtQWWFXeGgwdmt0bnZabUNGM2xzdXp0Rm53MUhPc1R1X2dwZ3hpRVI3MkNtTVhWM1R3dGtoUkFIdVpMMVdNTUlhUTBFMFdNVWZRX1p4S2Foam1TMkJnOU0?oc=5",
-      "site": "8world.com",
+      "site": "8world",
       "siteUrl": "https://www.8world.com"
     },
     {
@@ -375,18 +375,6 @@
       "siteUrl": "https://news.mydrivers.com"
     },
     {
-      "id": "FL-117104420717",
-      "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 12:30:35 GMT",
-      "ts": 1790685035000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Exeter Township School District to discontinue homecoming bonfire after explosion - 6abc Philadelphia",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQjFxSmc0UlcxVlpYR3FBV2ZZblRrOFJ0ak95WW9laWp3VmhNNHNDa1l3V2hfLVRXQ0Vxd3lsMWw0dDNkS1FGaTJQb2xuS01FSDZ1Nm1YeVhRbUJpRzBuckttTFJsVWlKWHVvY0pCZTNDQXZZd3VvVUlyeW9ibjRDWmNxQ1llQ3lLcy1Jc1NPM19nMWxSd2szUm5VeW5FS2MzemJWUFo5NNIBrAFBVV95cUxQMXFVRTBxTUoybENXU3BIWDFSS254UTBhdmlrc0tLU0p2U2xwU21YeVVIVld0WjdwNFJvS19Ubkh3OC1FSXdjUnQyNFkxNUlWeVhISTZXTWE4cFNHNFlOMnVVRGN1em81cUQ0ZV9TSlc1UTNmSVhIYnl4QVFtUEFQeWYya1NsSThMUkx2UnR2MU9RRGtVUkxIWHh0TklZbTlWVWtHQ3dfRjdCWWxT?oc=5",
-      "site": "6abc Philadelphia",
-      "siteUrl": "https://6abc.com"
-    },
-    {
       "id": "FL-22dba2639a14",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 11:56:11 GMT",
@@ -495,16 +483,28 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-f4f7ceda2939",
+      "id": "FL-d5fb9464dd94",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 21:06:34 GMT",
       "ts": 1790456794000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典老城区爆炸事故致6死3伤 - finance.eastmoney.com",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xTGZlLXJTZlVuMEx6c1BjOFNNcWxlQ25OUW5JdFh5TTh0S0tMZHVGa09ZT3AxZnZ6cGFPT0dRdUZlTHFfaC1IVTRHckdIR2ZvTXNpdlFJUnFZc29PdFBJMGZjMXJjUQ?oc=5",
-      "site": "finance.eastmoney.com",
-      "siteUrl": "https://finance.eastmoney.com"
+      "title": "雅典老城区爆炸事故致6死3伤 - eastmoney.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PalBtWlYtLVkyQmRpWkxjQ1lOLS1VOEVsbUk2NGs2MV93ZUh0NnJodTBpS0Y3dnNEVExwWEE3Q0UxWjR1V3hUV2ZsSTZLOHVCSHllY0cydlQxbjVZcUNVVg?oc=5",
+      "site": "eastmoney.com",
+      "siteUrl": "https://wap.eastmoney.com"
+    },
+    {
+      "id": "FL-008d86b164a4",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 15:30:00 GMT",
+      "ts": 1790436600000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典发生爆炸，1名女游客遇难，5人失踪，事发卫城脚下，靠近奥林匹亚宙斯神庙 - 川观新闻",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wT2VkbnNVQzB1dlFrSUpwQU5VbElha1Fyc3h0LVI1WFBMSldqQkRfMWkyeV94b1pPS0w5eFQtT1NxQjdRSkRkbm5yUE5iZw?oc=5",
+      "site": "川观新闻",
+      "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
       "id": "FL-4fcd67df38a6",
@@ -531,15 +531,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-e6da002b8732",
+      "id": "FL-d1d043dda2d5",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 07:07:30 GMT",
       "ts": 1790406450000,
       "scope": "intl",
       "type": "blast",
-      "title": "俄远东一煤矿矿区爆炸 有人员伤亡 - 东方财富",
+      "title": "俄远东一煤矿矿区爆炸 有人员伤亡 - eastmoney.com",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yRUEyVUZDMTdQcTR1emZMSTZNcTFrMzdVRktDNnBEVlNETk9FN29SVnA0WlQxVzg4NGsyd0ZZejJFWGFSSEVjQTl3M2p2blNWVllnTEVTRng2bkhBeXI0eA?oc=5",
-      "site": "东方财富",
+      "site": "eastmoney.com",
       "siteUrl": "https://wap.eastmoney.com"
     },
     {
