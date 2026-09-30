@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T20:57:33.698Z",
+  "updated": "2026-09-30T21:05:04.775Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -27,18 +27,6 @@
       "siteUrl": "https://www.wgal.com"
     },
     {
-      "id": "FL-902bc8004a5f",
-      "date": "2026-09-30",
-      "dateISO": "Wed, 30 Sep 2026 18:51:42 GMT",
-      "ts": 1790794302000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "学校引爆爆炸物炸伤自身 马国12岁男童被捕 - 联合早报",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCZEM1cDgyc2NLcHBYLXNkWUJsZ21LMEMtRUlfTFpDSGRxQ0pKcW5wMkl3Q1V2YXdaX2E1OG1oZmxYeWk0ZlJBRnl0cmdXLUlPbWVHN0RGU2JVU1B1dURGamtmRG1aUkU?oc=5",
-      "site": "联合早报",
-      "siteUrl": "https://www.zaobao.com.sg"
-    },
-    {
       "id": "FL-158a192c119b",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 17:09:26 GMT",
@@ -61,6 +49,18 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53ajNzUENQVGRqclFhZWl2ek43Q2R1dTRoY1BmaTlBaWU4TmF0QlAzcWZiQnhJUnZJbV9HME1OOHJOc3JNazJZZHE2NDVLaGVrOWhWQWZReVRtcXpJZW5XNWo2RFlqUXREcEFTZ21RQS0?oc=5",
       "site": "news.china.com",
       "siteUrl": "https://news.china.com"
+    },
+    {
+      "id": "FL-902bc8004a5f",
+      "date": "2026-09-30",
+      "dateISO": "Wed, 30 Sep 2026 13:26:30 GMT",
+      "ts": 1790774790000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "学校引爆爆炸物炸伤自身 马国12岁男童被捕 - 联合早报",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCZEM1cDgyc2NLcHBYLXNkWUJsZ21LMEMtRUlfTFpDSGRxQ0pKcW5wMkl3Q1V2YXdaX2E1OG1oZmxYeWk0ZlJBRnl0cmdXLUlPbWVHN0RGU2JVU1B1dURGamtmRG1aUkU?oc=5",
+      "site": "联合早报",
+      "siteUrl": "https://www.zaobao.com.sg"
     },
     {
       "id": "FL-89279a9651ab",
