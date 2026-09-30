@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T18:42:36.783Z",
+  "updated": "2026-09-30T18:59:43.808Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -27,15 +27,15 @@
       "siteUrl": "https://www.wgal.com"
     },
     {
-      "id": "FL-708943aeaa30",
+      "id": "FL-a1db66c93102",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 14:02:00 GMT",
       "ts": 1790776920000,
       "scope": "intl",
       "type": "blast",
-      "title": "Coroner called to explosion that ‘obliterated’ Perry County home - PennLive.com",
+      "title": "Coroner called to explosion that ‘obliterated’ Perry County home - pennlive.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeU1FV3pEVXU4Sm4tZHZKVUx3REpCajN3S29EOFU1VDNmRHNCTk9Mb2FKcGNRdmFYUDB1VE16V2Z2eE5YNnYxLUYyT01uRjVQS0NhSjkyMS00TlczMGIxUFR4SWZKX2JNZzBaNHdMWGwyb1JIbk01UnlFRWZCUklIbG9vRERldUZISHNabVZJUm1Pam92OFl5ak1BbEdlM0VzMmVXSzRGQk_SAbwBQVVfeXFMTWJLTmlmUkRfTUpFVEdMbjQwWHczM3pVR2xjZW12M001NlJxdVA4OUFJT3BhX25IbmZIZzY1aXNUb1JUSTd1amRmTExHbzdJaUJwVE1fNWxrczVmSDRJbE10N0RySG9yMDBmZU41eEs2ejliV3AyVEJIRF9vdlZlbERSTnpHTmV1MVJhSi1wTThaRmQxVlhRZTBWN1VQRzhNQVYtQ3dJdDZHd0wzR183UmF2VmV3UU5BQzR4Ty0?oc=5",
-      "site": "PennLive.com",
+      "site": "pennlive.com",
       "siteUrl": "https://www.pennlive.com"
     },
     {
@@ -63,15 +63,15 @@
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
-      "id": "FL-5a2379136b28",
+      "id": "FL-89279a9651ab",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 12:30:16 GMT",
       "ts": 1790771416000,
       "scope": "dom",
       "type": "blast",
-      "title": "一楼内电动车燃爆起火！逃生通道秒变夺命通道 - sohu.com",
+      "title": "一楼内电动车燃爆起火！逃生通道秒变夺命通道 - 搜狐网",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeDhUaV81UDg3bzJXeEpsbGxOWFRJZ29neXdGY1BCdGJpem53bF9QNEh1cGZodWUyZW9yYjJNM1VMbFNTeW1MZHdzUU1RV3otMVZqc2gwUThHMFJzLTlza2pfa0ItVU4zWjllLVdSdEJxcm1aa1BpN3p6OEtBUUtXelJqUXZXNEgtWDRuZg?oc=5",
-      "site": "sohu.com",
+      "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -315,15 +315,15 @@
       "siteUrl": "https://news.china.com"
     },
     {
-      "id": "FL-fb52a597fc9e",
+      "id": "FL-9b4d6fab0a81",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 00:03:54 GMT",
       "ts": 1790726634000,
       "scope": "dom",
       "type": "blast",
-      "title": "金与正回应地雷爆炸事件 - sohu.com",
+      "title": "金与正回应地雷爆炸事件 - 搜狐网",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aa1FHaE1UUWR2NkpEOURlX3RMSGNzZk9zNUE5VmhGOVpxb1FIOURIZlp2eTlrbm52V3Fad3ZzUHVNdkNEYzRaczd2a0ZvR2hITnc?oc=5",
-      "site": "sohu.com",
+      "site": "搜狐网",
       "siteUrl": "https://www.sohu.com"
     },
     {
@@ -351,18 +351,6 @@
       "siteUrl": "https://news.ifeng.com"
     },
     {
-      "id": "FL-a0cb75f1b4ab",
-      "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 22:13:17 GMT",
-      "ts": 1790719997000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Greece building explosion: Westchester mourns Bronx-raised lawyer killed in blast - ABC7 Eyewitness News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVGloaDgyZldTR0dKLV8xb3ZPaW1yVzhsN1BVUVF4QmVBWnhFWTF4MHBNRVRSa1V2X0taNGtJSVFlRFRja0hjaGJ4MlY0MUJjRXZJT3c5R0I0clp3ZW5yeFJjV3F1VFRsaFpmemhJcnBPS0l3dmVqaFB0S29tZDFFLUJselIzQ1BTSExlckY2MWc5R0NQbjEtajRaTXRDSllsSHZldnRqTkpIeEdRUWV2StIBtgFBVV95cUxOUGhXWnB5clMxaW9SY0REZWFPSUd3RjhlNDluVlJBZ2xvbnhoZnozaEh2cDBYbzM4RnZJb3JBTnhyVE9zUmNOVVdWZ0NyZVh2V2pOSHotR2dSLUZHVFJGVm4xcHAtUkVqZE1HWk5aeEg4TUlFekxnaXA0OTktOE1pbW9UaDl2Nk9iLUVnOHQxOElMekpKSXY0TzlsaE02M2t0eExxU2xnTGFBbEpHeUwwMy1URlk1dw?oc=5",
-      "site": "ABC7 Eyewitness News",
-      "siteUrl": "https://abc7ny.com"
-    },
-    {
       "id": "FL-123dd3a89afe",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 19:23:13 GMT",
@@ -375,15 +363,15 @@
       "siteUrl": "https://www.voachinese.com"
     },
     {
-      "id": "FL-22dba2639a14",
+      "id": "FL-aca7f036c615",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 11:56:11 GMT",
       "ts": 1790682971000,
       "scope": "dom",
       "type": "blast",
-      "title": "韩总统要求军方查明非军事区地雷爆炸事故 - sohu.com",
+      "title": "韩总统要求军方查明非军事区地雷爆炸事故 - 搜狐网",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZTM4ejRRVDRVMWgtejZNbTdBaFlONDRQY1hMTTJyYW5CRldQb1J5N1BLeFR6MDhXbk1KUVNTU1NKQ1d0ODRMTmxSc3pRTWl0dnhGTmRZcWRIUXRkZDJlVmlSYzIzM0pwd2YyYURuOWh2STU3Sm1yM3BySE1NOVd0NGdpSGw5WHUw?oc=5",
-      "site": "sohu.com",
+      "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -435,6 +423,18 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
+      "id": "FL-e4210ecf8c66",
+      "date": "2026-09-27",
+      "dateISO": "Sun, 27 Sep 2026 07:20:08 GMT",
+      "ts": 1790493608000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Where’s the “intelligence explosion”? - by Ramez Naam - Noahpinion",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TU2dmbkt6OXJTZGRLUndMRHpXbGtBb2Z6c0RRb3lrVzBYdnZURUo3ZHV6Ym9kTUJiQ204enJCamdTZGFEU1N5ZjF0Nk45UjlBbHJvdGdPZVJWRWZPRThhbVN0bnlhZzI5TFNXemJFS3U?oc=5",
+      "site": "Noahpinion",
+      "siteUrl": "https://www.noahpinion.blog"
+    },
+    {
       "id": "FL-340d5e981918",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
@@ -459,27 +459,27 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-f4f7ceda2939",
+      "id": "FL-435013707dbb",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 21:06:34 GMT",
       "ts": 1790456794000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典老城区爆炸事故致6死3伤 - finance.eastmoney.com",
+      "title": "雅典老城区爆炸事故致6死3伤 - 东方财富",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xTGZlLXJTZlVuMEx6c1BjOFNNcWxlQ25OUW5JdFh5TTh0S0tMZHVGa09ZT3AxZnZ6cGFPT0dRdUZlTHFfaC1IVTRHckdIR2ZvTXNpdlFJUnFZc29PdFBJMGZjMXJjUQ?oc=5",
-      "site": "finance.eastmoney.com",
+      "site": "东方财富",
       "siteUrl": "https://finance.eastmoney.com"
     },
     {
-      "id": "FL-4fcd67df38a6",
+      "id": "FL-53093e91fe3a",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 12:25:51 GMT",
       "ts": 1790425551000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - sohu.com",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 搜狐网",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUU9ESGJKMW5sendsVU4zOUFWYXhBSlFXdVFQUXZ5RVZqQzhlTTRFSlpsSmdWeFRXSHlJakg3ckQtVElSSGZtYkhDM3JMUXVmVTZMX09CeFRhTlVNZ3c0MFNXQXM2LWVpMURDNjU3cXZ6Y01wWHQxRTNIZDhfWEsyUVNJb21URjZKZkJVMElGZ0xueENOU2Jyd0ZNaHk1akVU?oc=5",
-      "site": "sohu.com",
+      "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -505,6 +505,18 @@
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5XY05paDVKVHg0TEJqRU1sWkJaLXhYM3QydGk4OWI3NlNFRzA3UHpHUTh3cjNxeDhESm1ac3VLeTdHdExCZ3JnTw?oc=5",
       "site": "财联社",
       "siteUrl": "https://www.cls.cn"
+    },
+    {
+      "id": "FL-c39833bbfc21",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 22:10:00 GMT",
+      "ts": 1790374200000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 环球网",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5naEpaTmt5bmlhUXlZdndRR2F3XzN6Z2d5aWcwdU4zRnpJWXBJX3VpVWxzRDBzQUFVRXZ4TW1lOTJQUEhCQ3NDNDFEN2FpVTRuYTh3?oc=5",
+      "site": "环球网",
+      "siteUrl": "https://m.huanqiu.com"
     }
   ]
 }
