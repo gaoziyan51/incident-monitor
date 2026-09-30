@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-30T07:05:09.759Z",
+  "updated": "2026-09-30T07:23:08.665Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-8292210bd438",
+      "date": "2026-09-30",
+      "dateISO": "Wed, 30 Sep 2026 07:03:07 GMT",
+      "ts": 1790751787000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "李在明慰问因地雷爆炸受伤韩军官兵 - 韩联社",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tSVpOaFJxalh4NVM0ZU9PUzVfUDVPOWVobFdQQmtBRXlmcGZMcWxBR3lZbnJIa3MwZlJEenBuOVVHbnVuLUZxdy0ySk1haDhXNG9rclBpREhNNEtj?oc=5",
+      "site": "韩联社",
+      "siteUrl": "https://m-cn.yna.co.kr"
+    },
     {
       "id": "FL-593edf453047",
       "date": "2026-09-30",
@@ -51,18 +63,6 @@
       "siteUrl": "https://gbcode.rthk.hk"
     },
     {
-      "id": "FL-a29450362a60",
-      "date": "2026-09-30",
-      "dateISO": "Wed, 30 Sep 2026 05:38:54 GMT",
-      "ts": 1790746734000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "英警方：空军基地疑似恐袭案未发现爆炸装置 卢比奥指涉外国势力 - 8world",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWjJOYklYRlU3OFctVVRjNWZDQ2pra1F0dHp0TGFPVTVCN3hVTFJraXpXaEx3bkVlaUpGZ04ySG5mM0VpQ3JGYVJ3RFA5WGxRYmtadHFjUUQ1b1k2TmF1S2w4d1lwYS0xOVBWc1FDRnhQLXhFcmxLbEEwcTlTejM3cHBNQVh1MnQ0MUFwUi1xYlpLY0lJR19MSi1nbVlJOUlERXlpVGlBQTY?oc=5",
-      "site": "8world",
-      "siteUrl": "https://www.8world.com"
-    },
-    {
       "id": "FL-af2cce547279",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 04:43:19 GMT",
@@ -85,6 +85,18 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOE81QlVPX1gwb2xVamx1amV2VE1hcTMwdW1PaDM4LXBjTzRiQkRzWFAyWDlDSjAtb1BEdDh2RG5sdFRrRklOQ01OTVhVRU5QR01ENjRqa2x0MUFkNl9wRDlJLTYyb3ZyVGpKeDE4XzZBSmpKYzh5V1kyRkZSNGFucHJzaDUwOGlF?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-a29450362a60",
+      "date": "2026-09-30",
+      "dateISO": "Wed, 30 Sep 2026 04:08:03 GMT",
+      "ts": 1790741283000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "英警方：空军基地疑似恐袭案未发现爆炸装置 卢比奥指涉外国势力 - 8world",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWjJOYklYRlU3OFctVVRjNWZDQ2pra1F0dHp0TGFPVTVCN3hVTFJraXpXaEx3bkVlaUpGZ04ySG5mM0VpQ3JGYVJ3RFA5WGxRYmtadHFjUUQ1b1k2TmF1S2w4d1lwYS0xOVBWc1FDRnhQLXhFcmxLbEEwcTlTejM3cHBNQVh1MnQ0MUFwUi1xYlpLY0lJR19MSi1nbVlJOUlERXlpVGlBQTY?oc=5",
+      "site": "8world",
+      "siteUrl": "https://www.8world.com"
     },
     {
       "id": "FL-72cabe2f0c82",
