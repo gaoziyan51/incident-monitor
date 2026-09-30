@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-30T11:32:04.834Z",
+  "updated": "2026-09-30T11:48:39.073Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-0c24917f0b0c",
+      "date": "2026-09-30",
+      "dateISO": "Wed, 30 Sep 2026 11:33:39 GMT",
+      "ts": 1790768019000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "韩西部边境地区自朝方频传爆炸声引居民不安 - 韩联社",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtRVpRTDZzWWZWRkphM2FvcmdXMVNjNUJsclRMTHZROFc2WldaZG0wdHpVdVl2NjFsanl6NjdpdU1UV3JaaEl4WENfUGR5cWluaVp3YnBNa1FUQQ?oc=5",
+      "site": "韩联社",
+      "siteUrl": "https://cn.yna.co.kr"
+    },
     {
       "id": "FL-45f3dc5aaf45",
       "date": "2026-09-30",
@@ -27,15 +39,15 @@
       "siteUrl": "https://www.epochtimes.com"
     },
     {
-      "id": "FL-8292210bd438",
+      "id": "FL-60d34d862b24",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 07:03:07 GMT",
       "ts": 1790751787000,
       "scope": "dom",
       "type": "blast",
-      "title": "李在明慰问因地雷爆炸受伤韩军官兵 - 韩联社",
+      "title": "李在明慰问因地雷爆炸受伤韩军官兵 - 연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tSVpOaFJxalh4NVM0ZU9PUzVfUDVPOWVobFdQQmtBRXlmcGZMcWxBR3lZbnJIa3MwZlJEenBuOVVHbnVuLUZxdy0ySk1haDhXNG9rclBpREhNNEtj?oc=5",
-      "site": "韩联社",
+      "site": "연합뉴스",
       "siteUrl": "https://m-cn.yna.co.kr"
     },
     {
@@ -85,6 +97,18 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRWRrTjgxdC1TY2ZKRWhnSU9IdTk2TURTRW5pajlRaFZJLWdacUJkLUFlYWJFQTBMM0liYmo0MGk0bWZPQTFwU3c5MHNfdy1VRjBqakhrdnJqdlVfTFFqRDV1Q0dKT3YzQ0V3UHJFMmRZVkZJTFE0M2xaV25WSWlVLXpYT0VkYlV2Mzl4VDJIUEoyT3VBMmY0QThwbE1INE9aR0I0?oc=5",
       "site": "gbcode.rthk.hk",
       "siteUrl": "https://gbcode.rthk.hk"
+    },
+    {
+      "id": "FL-51fd8cfa8720",
+      "date": "2026-09-30",
+      "dateISO": "Wed, 30 Sep 2026 05:30:16 GMT",
+      "ts": 1790746216000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "韩军促朝停止边境加固工程并就爆炸事故道歉 - 韩联社",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53LW5adnZTdG1FZHZXQlBveGZtdmZMYmtRUE9OaFhxNlFQdVlNNGtPazhfNVdKZHFnRU1JdUFaMTB2QnhYRHhKX3JicUtNTllPNGwtNWkzYXk1YjZWUWZoQl9YTnBZQ3VwWU9raWJGZFcyWVU4elE?oc=5",
+      "site": "韩联社",
+      "siteUrl": "https://cn.yna.co.kr"
     },
     {
       "id": "FL-af2cce547279",
@@ -181,18 +205,6 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV1AySEZPN1VDVkc5djk5ck5KUzF4NFEyY1IzZnJKalBHVXdlUVlZbGdOTXZJUDJWd1hzbVZnOVMtVm90S05zTm1UZTFra3lJZjBtSEhfcHhxZUNRaVk0Rkdsa1NXNktYYU1GeXZzZS0xRXRzdWhzbHJJNjJqOXhLcldpT2Iwa3p5TUQwcVdNU01oUQ?oc=5",
       "site": "朝鮮日報中文版",
       "siteUrl": "https://cnnews.chosun.com"
-    },
-    {
-      "id": "FL-b7a160f5f6d5",
-      "date": "2026-09-30",
-      "dateISO": "Wed, 30 Sep 2026 01:48:17 GMT",
-      "ts": 1790732897000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "快讯：韩军促朝停止边境加固工程并就爆炸事故道歉 - 韩联社",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pTnZTYU1HdVkydjloam9EVk4tdGxVdlRNb1B4THc3MjN5eEkxa1lLV0NuZFVlTllPZXBRLWdsd1JwQXlBMHkxYnJ3TWNTaEFZWkdIVkR3NUNoUQ?oc=5",
-      "site": "韩联社",
-      "siteUrl": "https://cn.yna.co.kr"
     },
     {
       "id": "FL-204d5cc7d240",
@@ -435,18 +447,6 @@
       "siteUrl": "https://news.ifeng.com"
     },
     {
-      "id": "FL-f928c478223f",
-      "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 07:03:08 GMT",
-      "ts": 1790665388000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "【快讯】韩军方：\"爆炸现场附近发现1枚北韩树脂反步兵地雷\" - chinese.joins.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lNXhicFRhUTNzZHVDX0NRTEJ6eVBEV3lLUFlzQVpPbUtVV2lYYWd1Rm9aMVhZeHBCbkxaSUVLUU1neE02VzEyU0lNd05MSUc5aEdsd3NPdGt0SlhnUXlLelZWYzNZUEtRRG91RA?oc=5",
-      "site": "chinese.joins.com",
-      "siteUrl": "https://chinese.joins.com"
-    },
-    {
       "id": "FL-f1c86563e0e4",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 17:10:36 GMT",
@@ -459,15 +459,15 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-e4210ecf8c66",
+      "id": "FL-0a65f3e8ea29",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 07:20:08 GMT",
       "ts": 1790493608000,
       "scope": "intl",
       "type": "blast",
-      "title": "Where’s the “intelligence explosion”? - by Ramez Naam - Noahpinion",
+      "title": "Where’s the “intelligence explosion”? - by Ramez Naam - noahpinion.blog",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TU2dmbkt6OXJTZGRLUndMRHpXbGtBb2Z6c0RRb3lrVzBYdnZURUo3ZHV6Ym9kTUJiQ204enJCamdTZGFEU1N5ZjF0Nk45UjlBbHJvdGdPZVJWRWZPRThhbVN0bnlhZzI5TFNXemJFS3U?oc=5",
-      "site": "Noahpinion",
+      "site": "noahpinion.blog",
       "siteUrl": "https://www.noahpinion.blog"
     },
     {
