@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-30T14:34:12.106Z",
+  "updated": "2026-09-30T14:52:25.271Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-94712f0b34ce",
+      "date": "2026-09-30",
+      "dateISO": "Wed, 30 Sep 2026 14:02:56 GMT",
+      "ts": 1790776976000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Coroner responds to massive house explosion | Neighbors say they felt the blast - WGAL",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aMWRHbkw0dFE0UnFNeG0xQjJCc3B6V1ZqS0JhVlNCR3NiUUVfRzItb0VUUmxpMEY0M3UtUTRQd25wY0tXemVTaDRkY2JySGpEdGo2Ykg3cVBOb2tJUmlqeC03eHlQUHpJcm9LZlFibEZ5cWJ6TGNPMg?oc=5",
+      "site": "WGAL",
+      "siteUrl": "https://www.wgal.com"
+    },
     {
       "id": "FL-53101edd49b1",
       "date": "2026-09-30",
@@ -15,16 +27,16 @@
       "siteUrl": "https://www.firehouse.com"
     },
     {
-      "id": "FL-94712f0b34ce",
+      "id": "FL-1439f98136f2",
       "date": "2026-09-30",
-      "dateISO": "Wed, 30 Sep 2026 13:52:30 GMT",
-      "ts": 1790776350000,
-      "scope": "intl",
+      "dateISO": "Wed, 30 Sep 2026 13:58:53 GMT",
+      "ts": 1790776733000,
+      "scope": "dom",
       "type": "blast",
-      "title": "Coroner responds to massive house explosion | Neighbors say they felt the blast - WGAL",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aMWRHbkw0dFE0UnFNeG0xQjJCc3B6V1ZqS0JhVlNCR3NiUUVfRzItb0VUUmxpMEY0M3UtUTRQd25wY0tXemVTaDRkY2JySGpEdGo2Ykg3cVBOb2tJUmlqeC03eHlQUHpJcm9LZlFibEZ5cWJ6TGNPMg?oc=5",
-      "site": "WGAL",
-      "siteUrl": "https://www.wgal.com"
+      "title": "网媒“爆炸头”邓浩荣落网 国安处再行动拘两人 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53ajNzUENQVGRqclFhZWl2ek43Q2R1dTRoY1BmaTlBaWU4TmF0QlAzcWZiQnhJUnZJbV9HME1OOHJOc3JNazJZZHE2NDVLaGVrOWhWQWZReVRtcXpJZW5XNWo2RFlqUXREcEFTZ21RQS0?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
     },
     {
       "id": "FL-902bc8004a5f",
@@ -63,15 +75,15 @@
       "siteUrl": "https://news.china.com"
     },
     {
-      "id": "FL-b7e6a276f2d0",
+      "id": "FL-b79a49681182",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 11:35:00 GMT",
       "ts": 1790768100000,
       "scope": "intl",
       "type": "blast",
-      "title": "Police investigate house explosion in Perry County - pennlive.com",
+      "title": "Police investigate house explosion in Perry County - PennLive.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSVozb2hTN29ocHZ0TUNXdjdTQ1piMU5uY1NCaWEwZzBIMHpSb3ZUNVUtT05td0ZqVFFQX2VDVU4zakE5MzBCMXFiR0xaYk9wNnAyS203Mld3MDQwZ2YySl81RnowZUhmUE5MNERnMUdOanI1d0N1aVp6a1lqaHRfR3dVWmFxUEJhdVJrMzdhREFpc1FPcWhPS9IBrAFBVV95cUxNeElyU3Nvd0dsRVh5TERsVFlEdlpTU25XLXM2T3VwcmxEZWRlRkE1aEJDcGQ1VkplUmVkVGxnQ0t2a3RKXzBlcE51bkRjWk5NZHQtWTR0WDBzTXpSQWxSWFNnVVMwRXZXZmR0cnpDUWI2NzRfc0pETXV1dFhNc2t6VUN2VXlyc0EwRTFSeXBub3ZZQlQxVGUyVU9mZzJNbGJnbGh4WlR0WjBNMm1K?oc=5",
-      "site": "pennlive.com",
+      "site": "PennLive.com",
       "siteUrl": "https://www.pennlive.com"
     },
     {
@@ -87,13 +99,13 @@
       "siteUrl": "https://cn.yna.co.kr"
     },
     {
-      "id": "FL-45f3dc5aaf45",
+      "id": "FL-959cf625016b",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 11:03:53 GMT",
       "ts": 1790766233000,
       "scope": "intl",
       "type": "blast",
-      "title": "Crews respond to Perry County home after reported explosion - ABC27",
+      "title": "Coroner called to scene of Perry County house explosion - ABC27",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV0dhcVhsT3ZZdlFLRDlfRHJHSjNCM1Q3NmVGUVBOaWdUNDhFbHJGQ09ac0F1d1dnTjBUSWpCRjVMbDJmRnhZam5oX3ZzekI5YnI1dkZmaXp0X3VSQW1XVFQtQlJ1UV94R1Z3RWJRMHZORjJaNTgyajRYYlhaSk9CM011Z2JlakZUaVAwUzJMTndNWklFSUY5adIBngFBVV95cUxPdC1UajJqcUt0TURjZTdpQ0JaM3N3ZExJN2hnRDNBYXdXMGQxM25xN0tzQmlHcHMyNDNxSXdNNzVORG5kVHpyb3ZWc20tOHpja2tlcTJPcmc5WTJEZ3AtWEpOaXdwX2dkcTZZSWlvVzlCQTlMa2pMalNPdjlEYXFYM1dXNmdzSVlNdmFQTXp0a3ppbTc5cVczM1FwYnFRQQ?oc=5",
       "site": "ABC27",
       "siteUrl": "https://www.abc27.com"
@@ -130,7 +142,7 @@
       "scope": "dom",
       "type": "blast",
       "title": "8.31太子站外事件多两人被捕 据悉为「爆炸头」成员及李盈姿 - gbcode.rthk.hk",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdy1zYWg3OFdkQjliUHlidkVwdENqeUxPZmxLN1hJYnhNSjNHTS1wRENsZldNdlRjNG9mNWU4SVE1VVZ0TWNJak9pRU1nRGh3M0JnOVlGWmJTa2tmaXFEa1dTa3JSSUhTc1BWNi1zdXZzM3lJWGRrRDRTUThWNDlQZ3o4aXFkMWdBd05DNUZYaURkQ3RESzJjOWp0ek4yalIwU0hj?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYVQtT3FNZ3VEU2puZm5VUHB6VC1GT2VBTDMyejEwMVJPbHVXNnI0YV8tSDlJZmpxU1hNRVNiTEFhUHBZVTYxMHRfeHNBT0N2d0prUTBnYmFsTHFzNmVsWjZlZHdhRFpXTmZnX1pWZXM5a0VHWnVNSXZoUmw4d2RNTG8xWVdSQnVIY2hR?oc=5",
       "site": "gbcode.rthk.hk",
       "siteUrl": "https://gbcode.rthk.hk"
     },
@@ -183,15 +195,15 @@
       "siteUrl": "https://www.zaochenbao.com"
     },
     {
-      "id": "FL-cb150749dc79",
+      "id": "FL-632fa5efb63b",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 05:49:58 GMT",
       "ts": 1790747398000,
       "scope": "dom",
       "type": "blast",
-      "title": "利用耦合的PBM-DEM-FEM框架对颗粒介质爆炸扩散进行数值研究 - 生物通",
+      "title": "利用耦合的PBM-DEM-FEM框架对颗粒介质爆炸扩散进行数值研究 - ebiotrade.com",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvYllNZF9uTHhWSVhUYTg1YlU5MVZuaVJ2amRfa2J5ZlNtV3JzNlc3c2Y2bmJ1SHlRbzhsQzM1VFdOU2NXQ0VRQ3VkSWN6c0JVVWpBSVNpakNnVmlXelNyamhpR2U4b3d6Mmx6MA?oc=5",
-      "site": "生物通",
+      "site": "ebiotrade.com",
       "siteUrl": "https://www.ebiotrade.com"
     },
     {
@@ -279,28 +291,16 @@
       "siteUrl": "https://cn.yna.co.kr"
     },
     {
-      "id": "FL-d67a9251e52b",
+      "id": "FL-ede778046e49",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 01:53:01 GMT",
       "ts": 1790733181000,
       "scope": "dom",
       "type": "blast",
-      "title": "狂飙盛宴！山海狂飙汽摩音乐盛会燃爆全场 - 66wz.com",
+      "title": "狂飙盛宴！山海狂飙汽摩音乐盛会燃爆全场 - 温州新闻",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LNGtjeVNkNk91NjFja2YtaGoxSVBCQnNJVUgxM2s0d0NQTDEzT0hiNEVxWlFVOXdaUkVGbXFMdTd0NnN5cHFfX0JtSEdqbnE4VDQwZWVTTlRjSHo5bzFVRDF0T0NXVzdEYWxIMw?oc=5",
-      "site": "66wz.com",
+      "site": "温州新闻",
       "siteUrl": "https://www.66wz.com"
-    },
-    {
-      "id": "FL-947b9612db24",
-      "date": "2026-09-30",
-      "dateISO": "Wed, 30 Sep 2026 01:50:16 GMT",
-      "ts": 1790733016000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "DMZ爆炸现场至少4枚…那里是“朝鲜地雷田” - 朝鮮日報中文版",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV1AySEZPN1VDVkc5djk5ck5KUzF4NFEyY1IzZnJKalBHVXdlUVlZbGdOTXZJUDJWd1hzbVZnOVMtVm90S05zTm1UZTFra3lJZjBtSEhfcHhxZUNRaVk0Rkdsa1NXNktYYU1GeXZzZS0xRXRzdWhzbHJJNjJqOXhLcldpT2Iwa3p5TUQwcVdNU01oUQ?oc=5",
-      "site": "朝鮮日報中文版",
-      "siteUrl": "https://cnnews.chosun.com"
     },
     {
       "id": "FL-204d5cc7d240",
@@ -351,18 +351,6 @@
       "siteUrl": "https://cn.yna.co.kr"
     },
     {
-      "id": "FL-df6057618573",
-      "date": "2026-09-30",
-      "dateISO": "Wed, 30 Sep 2026 00:42:19 GMT",
-      "ts": 1790728939000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "韩国指朝鲜地雷引发边境爆炸 朝鲜否认指控 - 8world",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMXNZc3dWYzEzX08yeHRlSVZubU9sUkJrTi1mdW03VUpNTnZSTmo3WGhrNk1nZHYxX3NRdGg1LTRtbXc1T0d2NTRXWTJYVGFOLUtQWWFXeGgwdmt0bnZabUNGM2xzdXp0Rm53MUhPc1R1X2dwZ3hpRVI3MkNtTVhWM1R3dGtoUkFIdVpMMVdNTUlhUTBFMFdNVWZRX1p4S2Foam1TMkJnOU0?oc=5",
-      "site": "8world",
-      "siteUrl": "https://www.8world.com"
-    },
-    {
       "id": "FL-eb2cc2e65597",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 00:36:41 GMT",
@@ -375,15 +363,15 @@
       "siteUrl": "https://cn.yna.co.kr"
     },
     {
-      "id": "FL-40c1f357940f",
+      "id": "FL-911de1bc6c36",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 00:25:55 GMT",
       "ts": 1790727955000,
       "scope": "intl",
       "type": "blast",
-      "title": "乌克兰基辅传出爆炸声。 - 新浪财经",
+      "title": "乌克兰基辅传出爆炸声。 - cj.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5hWTAwelBBa1JYRzF3bjZGSHhwN2ZXX01XLTR1amJCdU92OURuTzRCTFJPVWhvZU1ZMXhoZUwyUGR3WmVmaHAwS09mOA?oc=5",
-      "site": "新浪财经",
+      "site": "cj.sina.cn",
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
@@ -411,6 +399,18 @@
       "siteUrl": "https://news.china.com"
     },
     {
+      "id": "FL-9b4d6fab0a81",
+      "date": "2026-09-30",
+      "dateISO": "Wed, 30 Sep 2026 00:03:54 GMT",
+      "ts": 1790726634000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "金与正回应地雷爆炸事件 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aa1FHaE1UUWR2NkpEOURlX3RMSGNzZk9zNUE5VmhGOVpxb1FIOURIZlp2eTlrbm52V3Fad3ZzUHVNdkNEYzRaczd2a0ZvR2hITnc?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://www.sohu.com"
+    },
+    {
       "id": "FL-747ac303946d",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 23:52:00 GMT",
@@ -423,15 +423,15 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-ef82b85f10e4",
+      "id": "FL-b86fe1c5ea63",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 23:38:28 GMT",
       "ts": 1790725108000,
       "scope": "dom",
       "type": "blast",
-      "title": "金与正回应地雷爆炸事件 - 凤凰网",
+      "title": "金与正回应地雷爆炸事件 - news.ifeng.com",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Xbno4WW02eDRpWDYxVmtYNk9yUGNtaWhFQi1kVVJNd2JabFo5WTF0OVpGWVlQNElFSlVtblZFaVlqdlVVdTBfNnNkRzE?oc=5",
-      "site": "凤凰网",
+      "site": "news.ifeng.com",
       "siteUrl": "https://news.ifeng.com"
     },
     {
@@ -447,27 +447,27 @@
       "siteUrl": "https://www.voachinese.com"
     },
     {
-      "id": "FL-18defd3aaa01",
+      "id": "FL-4c74263a5b99",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 10:55:37 GMT",
       "ts": 1790679337000,
       "scope": "intl",
       "type": "blast",
-      "title": "一颗美国卫星突然爆炸，原因不明 - 凤凰网",
+      "title": "一颗美国卫星突然爆炸，原因不明 - news.ifeng.com",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1JUkxZYUVSMkx6WlpobGd4ZWx4cGZTT3RQVnJ2LTdwN0pmTC1oczJQSEs2S3hVZ1g4c1M4SGdiczZ3SmkzLWVzc3RRM1g?oc=5",
-      "site": "凤凰网",
+      "site": "news.ifeng.com",
       "siteUrl": "https://news.ifeng.com"
     },
     {
-      "id": "FL-7b0987d4867b",
+      "id": "FL-78a66c85c36f",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 08:52:56 GMT",
       "ts": 1790671976000,
       "scope": "dom",
       "type": "blast",
-      "title": "韩总统要求军方查明非军事区地雷爆炸事故 - 凤凰网",
+      "title": "韩总统要求军方查明非军事区地雷爆炸事故 - news.ifeng.com",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE81eHRiaUdKcDhldDlKYnhrcmlrdVRNbEZBeUdIS2ptdTNta291MTFyNlVVeEZQOEJGUDZ6TEI1QVZKb2ZJX3RWQjlXU3A?oc=5",
-      "site": "凤凰网",
+      "site": "news.ifeng.com",
       "siteUrl": "https://news.ifeng.com"
     },
     {
@@ -507,27 +507,27 @@
       "siteUrl": "https://www.noahpinion.blog"
     },
     {
-      "id": "FL-340d5e981918",
+      "id": "FL-f8061d91b549",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
       "ts": 1787468400000,
       "scope": "dom",
       "type": "blast",
-      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
+      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-0615dd398028",
+      "id": "FL-f38e3c0cb20f",
       "date": "2026-08-02",
       "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
       "ts": 1785654000000,
       "scope": "intl",
       "type": "blast",
-      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - 新华网",
+      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -555,15 +555,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-5e735aebc1c3",
+      "id": "FL-23997ed3202f",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 11:26:44 GMT",
       "ts": 1790422004000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 新华网",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlemFCa3lteDlkZERLTXRLMHhpeTIzNmFqanFBczVPaFNjQjVxOHNJNm54Tkhua1FqOGtuaUhBLWdRSWxXaFRoZThQZXJqclRIV1pUaTNhcjhHU0dwRzA1WXNQc2ZOVEhXX0Z1NUVBcnBUalJRWkE3ZlE0S3NOaXM?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
