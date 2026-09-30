@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T14:52:25.271Z",
+  "updated": "2026-09-30T15:06:35.552Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -135,6 +135,18 @@
       "siteUrl": "https://www.ntdtv.com"
     },
     {
+      "id": "FL-5048263a97f9",
+      "date": "2026-09-30",
+      "dateISO": "Wed, 30 Sep 2026 09:19:00 GMT",
+      "ts": 1790759940000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "香港網媒《爆炸頭》創辦人鄧浩榮被捕 - 大纪元",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1ZDBCTWtmWG1qTlNzM0tzRm5vSE40aHRxcjlKT3R5ODc0SmJUNGxqMG9Va1c1LXc0WmxWT2RiWExycHotck8yajNsZm9QWkt3SFZ3NVhHQTlWeXVkR3FERtIBZkFVX3lxTE5pak1DVzJPLUNudWtmT054Uk8tdGZOSFpoRlhjXzJuYWFSYk9NZGpEREVSREtvcl9RMjlIcVQ5MUdETXZ5R1Z5MVgwMzlGWlF2MUV0SjMxUWxmTnZIVzJUV1Frd0l1QQ?oc=5",
+      "site": "大纪元",
+      "siteUrl": "https://www.epochtimes.com"
+    },
+    {
       "id": "FL-e0fd1fdea93b",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 07:29:00 GMT",
@@ -193,18 +205,6 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IN2hFVXVGMDZMWVFVYzl3WjYzVmtsQmhiQ3o5MmRUVXlEcHBSeEFEYlNjMWljQjRjaWNJRTMtTjVmNURyVGU4dzk4X3hhbUNRTUYtV3dIMFNldFZhY29Ia3QyWmhENURURkNpLQ?oc=5",
       "site": "早晨报",
       "siteUrl": "https://www.zaochenbao.com"
-    },
-    {
-      "id": "FL-632fa5efb63b",
-      "date": "2026-09-30",
-      "dateISO": "Wed, 30 Sep 2026 05:49:58 GMT",
-      "ts": 1790747398000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "利用耦合的PBM-DEM-FEM框架对颗粒介质爆炸扩散进行数值研究 - ebiotrade.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvYllNZF9uTHhWSVhUYTg1YlU5MVZuaVJ2amRfa2J5ZlNtV3JzNlc3c2Y2bmJ1SHlRbzhsQzM1VFdOU2NXQ0VRQ3VkSWN6c0JVVWpBSVNpakNnVmlXelNyamhpR2U4b3d6Mmx6MA?oc=5",
-      "site": "ebiotrade.com",
-      "siteUrl": "https://www.ebiotrade.com"
     },
     {
       "id": "FL-2c9054983444",
@@ -423,6 +423,18 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
+      "id": "FL-58edb07d4b23",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 23:44:00 GMT",
+      "ts": 1790725440000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "寿命3年在轨硬扛38年！美国间谍卫星太空爆炸：200颗卫星受威胁 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaXVWMkcyaGVjbjdZTXFvMW0xRWkzTkEzZGJzTDRDV3NxUWFpSW85dE1nYnp3UXNES1U3ZDRpNHJMR29wemV0LTJYWDZkQ0U3T0tLVC16NWFweGdacDdHQkRVd0NiSWZJVV9nVG9KeGhKdTB4S3NmMTFhMXNmd2puRXRWZWY2VGQySm1oTVFhWWk?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
+    },
+    {
       "id": "FL-b86fe1c5ea63",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 23:38:28 GMT",
@@ -445,6 +457,18 @@
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSVlvVjVneDN3c19qbFRzdFBsWGJ3YUkyLWUwOVFONGxHLWZoUHJxU2s3M0FBWFFCRnM3YXhPT3hZRVpGczZnSnVHNkluTHM1eEZ0YnhyVlBUb1lydllxSjd3ZU1vdk5LV3NnU0hwSFdpelA3WFpCRkNxaGNmWFY5bmt2aWlGa1g5Q09oRGxtZXhScWs3T21VUFd1ZzhqSnZkNm1jSHdmNWU3UUtnSlZHbEJ5Mmh0bEE4NUk3WEsxdDNfbnVxeXhEaVVFQUhDYUM4OXJYYW5FVllBZkRud0lmMzdIXzU1Z194NnYtS0ln0gHwAUFVX3lxTE1pZzgzMlpIenpKYkVKV1ZQNXl0SWh2a0JZOHBEMVhzc1MzU2lpNG9mbzVVN0hiRTBIWi1WTU9rYXJZdDc0eVA5S1ZYTGQtQ3JmNWJ0VTNOOXMtX2dxdURHVUZ6bU5xOUR0ZWQ5QWZvcFI5NHRkM01Sd2kyOTNfRk9VckJBT0hpck5hVUxvWWRNWk05d3lsc2JmUHRYV2hET2s2SVZWZ3FxblU5azdwdVZkZTBIel9Udmk2VDhWS3p2ZGZ1Y1V1Z1FDLWh6eDRzVXRtUHNPcU5BT3BzaVJHV1AydUVsbGx5bkNRdnpKQnpFQQ?oc=5",
       "site": "美国之音",
       "siteUrl": "https://www.voachinese.com"
+    },
+    {
+      "id": "FL-aca7f036c615",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 11:56:11 GMT",
+      "ts": 1790682971000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "韩总统要求军方查明非军事区地雷爆炸事故 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZTM4ejRRVDRVMWgtejZNbTdBaFlONDRQY1hMTTJyYW5CRldQb1J5N1BLeFR6MDhXbk1KUVNTU1NKQ1d0ODRMTmxSc3pRTWl0dnhGTmRZcWRIUXRkZDJlVmlSYzIzM0pwd2YyYURuOWh2STU3Sm1yM3BySE1NOVd0NGdpSGw5WHUw?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-4c74263a5b99",
@@ -471,18 +495,6 @@
       "siteUrl": "https://news.ifeng.com"
     },
     {
-      "id": "FL-385dd58b908a",
-      "date": "2026-08-11",
-      "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
-      "ts": 1786431600000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - 财新",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fOUNOVy1jMjYtRHRacDFONmZLdmtlUTBvcjVNX0xwMG9rc2lwYkV4ZzRCOFVIVmdNLXdZcUo3Mkw1UnI3elZsRjNGblI4YTBsMGxPeHJCRnZSNWE0dXNTdXRxcUQ?oc=5",
-      "site": "财新",
-      "siteUrl": "https://science.caixin.com"
-    },
-    {
       "id": "FL-f1c86563e0e4",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 17:10:36 GMT",
@@ -505,30 +517,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TU2dmbkt6OXJTZGRLUndMRHpXbGtBb2Z6c0RRb3lrVzBYdnZURUo3ZHV6Ym9kTUJiQ204enJCamdTZGFEU1N5ZjF0Nk45UjlBbHJvdGdPZVJWRWZPRThhbVN0bnlhZzI5TFNXemJFS3U?oc=5",
       "site": "Noahpinion",
       "siteUrl": "https://www.noahpinion.blog"
-    },
-    {
-      "id": "FL-f8061d91b549",
-      "date": "2026-08-23",
-      "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
-      "ts": 1787468400000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - news.cn",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
-      "site": "news.cn",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-f38e3c0cb20f",
-      "date": "2026-08-02",
-      "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
-      "ts": 1785654000000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - news.cn",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
-      "site": "news.cn",
-      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-435013707dbb",
@@ -555,15 +543,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-23997ed3202f",
+      "id": "FL-5e735aebc1c3",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 11:26:44 GMT",
       "ts": 1790422004000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - news.cn",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlemFCa3lteDlkZERLTXRLMHhpeTIzNmFqanFBczVPaFNjQjVxOHNJNm54Tkhua1FqOGtuaUhBLWdRSWxXaFRoZThQZXJqclRIV1pUaTNhcjhHU0dwRzA1WXNQc2ZOVEhXX0Z1NUVBcnBUalJRWkE3ZlE0S3NOaXM?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
