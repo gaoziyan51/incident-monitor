@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T01:36:07.152Z",
+  "updated": "2026-09-30T01:48:14.008Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -51,15 +51,15 @@
       "siteUrl": "https://m-cn.yna.co.kr"
     },
     {
-      "id": "FL-ef82b85f10e4",
+      "id": "FL-b86fe1c5ea63",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 00:47:08 GMT",
       "ts": 1790729228000,
       "scope": "dom",
       "type": "blast",
-      "title": "金与正回应地雷爆炸事件 - 凤凰网",
+      "title": "金与正回应地雷爆炸事件 - news.ifeng.com",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Xbno4WW02eDRpWDYxVmtYNk9yUGNtaWhFQi1kVVJNd2JabFo5WTF0OVpGWVlQNElFSlVtblZFaVlqdlVVdTBfNnNkRzE?oc=5",
-      "site": "凤凰网",
+      "site": "news.ifeng.com",
       "siteUrl": "https://news.ifeng.com"
     },
     {
@@ -87,15 +87,15 @@
       "siteUrl": "https://military.china.com"
     },
     {
-      "id": "FL-ed856f656f26",
+      "id": "FL-3eacb9a83667",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 00:22:00 GMT",
       "ts": 1790727720000,
       "scope": "intl",
       "type": "blast",
-      "title": "韩国称朝韩非军事区爆炸“极可能”由朝鲜地雷引发 - 华尔街日报中文网",
+      "title": "韩国称朝韩非军事区爆炸“极可能”由朝鲜地雷引发 - 华尔街日报中文版",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMUJvdjRWWjNmY1pDa05Qall1Z3RmSmdzTHVCT3IwY2VoZVJsMW1ERVNKSjRzbkh2NDJtVTVCUXVBQlhkMk8tYk96MU9FMDV0ZWpkMWdLbmdBcVZOYWd4S0ZjNHU3NHRib2pteFZmcFM4Ynp2Ui1FS1dWUUUyY0kzRV9pTHdoalpYZzV4WmJkalItemxLZW9tZmlDQmV4TFJTcDNsMWo1MzE?oc=5",
-      "site": "华尔街日报中文网",
+      "site": "华尔街日报中文版",
       "siteUrl": "https://cn.wsj.com"
     },
     {
@@ -303,27 +303,27 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
-      "id": "FL-18defd3aaa01",
+      "id": "FL-4c74263a5b99",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 10:55:37 GMT",
       "ts": 1790679337000,
       "scope": "intl",
       "type": "blast",
-      "title": "一颗美国卫星突然爆炸，原因不明 - 凤凰网",
+      "title": "一颗美国卫星突然爆炸，原因不明 - news.ifeng.com",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1JUkxZYUVSMkx6WlpobGd4ZWx4cGZTT3RQVnJ2LTdwN0pmTC1oczJQSEs2S3hVZ1g4c1M4SGdiczZ3SmkzLWVzc3RRM1g?oc=5",
-      "site": "凤凰网",
+      "site": "news.ifeng.com",
       "siteUrl": "https://news.ifeng.com"
     },
     {
-      "id": "FL-db1562ff82c3",
+      "id": "FL-bada52d35350",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 10:37:00 GMT",
       "ts": 1790678220000,
       "scope": "dom",
       "type": "blast",
-      "title": "美“星舰”首次地球轨道飞行提前结束，溅落时引发剧烈爆炸 - 凤凰网",
+      "title": "美“星舰”首次地球轨道飞行提前结束，溅落时引发剧烈爆炸 - news.ifeng.com",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBzUGNrZ1RQcmY2UFVKRlhwWHpRVFNVVGhFNGFnNHdqN1UtTHdsS2RWRmFWc1QySHA2dE5Ec3ozZEl6cjVwblgydmttQ2c?oc=5",
-      "site": "凤凰网",
+      "site": "news.ifeng.com",
       "siteUrl": "https://news.ifeng.com"
     },
     {
@@ -363,16 +363,28 @@
       "siteUrl": "https://photos.caixin.com"
     },
     {
-      "id": "FL-7b0987d4867b",
+      "id": "FL-78a66c85c36f",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 08:52:56 GMT",
       "ts": 1790671976000,
       "scope": "dom",
       "type": "blast",
-      "title": "韩总统要求军方查明非军事区地雷爆炸事故 - 凤凰网",
+      "title": "韩总统要求军方查明非军事区地雷爆炸事故 - news.ifeng.com",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE81eHRiaUdKcDhldDlKYnhrcmlrdVRNbEZBeUdIS2ptdTNta291MTFyNlVVeEZQOEJGUDZ6TEI1QVZKb2ZJX3RWQjlXU3A?oc=5",
-      "site": "凤凰网",
+      "site": "news.ifeng.com",
       "siteUrl": "https://news.ifeng.com"
+    },
+    {
+      "id": "FL-e5e6c417805b",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 07:13:25 GMT",
+      "ts": 1790666005000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "DJ+乐队+实力女声，连续嗨唱，燃爆你的“国庆”夜 - 台州新闻",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kc3g5RTBWU0NwWTZISzRZMEp5ajE2QmFhOEk3ZEtFdnNxbFROTmFFQjBwdjYwcnVaYVlqeGo3S28yRElodmVHR0JSVzZUTGFsb2pwT28wbjdVX2psbTJvV2EwWV9Fem1LU1E?oc=5",
+      "site": "台州新闻",
+      "siteUrl": "http://tz.zjol.com.cn"
     },
     {
       "id": "FL-f928c478223f",
@@ -397,18 +409,6 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnZjZCRjNfVTFLVjZqNG1mUThYYzZzTVI5c3BBeFVnWXBHRGROeXgxc0FZS2hTZnpMN0I0S3M4VlMxU016bE4yTFBlWEthSl9nWU5uRUl1MUlYbzJ0cXhBMnc3MHBUbjRZRDhVQw?oc=5",
       "site": "chinese.joins.com",
       "siteUrl": "https://chinese.joins.com"
-    },
-    {
-      "id": "FL-6e0d8b25d9a2",
-      "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 01:18:15 GMT",
-      "ts": 1790644695000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "爆炸🌋 - Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMnQtbGJIVGlaZFBybExuTmJaS25CLTRBWTVrMG5LcnhkTXYtaC1FUXVJSDJfZktfaF93VEhHOEhwQUEwWEU1NVVIU0RNc1hxWWUwYlBXR1VyRnlueUtrYVpXdndLTGVEdm1fTEw0N2pIbGM0UjB2ZlAyMVhwMjhRVjVfaFVzTll0cklidjJ2YUFpU2g2bGJKVVo4cndxZ09Rblc0aHgxNjFtdFJSZlJtSE8tQ3FyZkdSWEE?oc=5",
-      "site": "Moomoo",
-      "siteUrl": "https://www.moomoo.com"
     },
     {
       "id": "FL-f1c86563e0e4",
