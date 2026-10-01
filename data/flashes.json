@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T19:47:54.003Z",
+  "updated": "2026-10-01T19:56:00.488Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -75,16 +75,28 @@
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
-      "id": "FL-3e0c13e63420",
+      "id": "FL-f1d79e441207",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 01:30:06 GMT",
       "ts": 1790731806000,
       "scope": "dom",
       "type": "blast",
-      "title": "金与正回应地雷爆炸事件 - 京报网",
+      "title": "金与正回应地雷爆炸事件 - news.bjd.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PaDliMnJyaU9MRy1yRmhCMXJpR1MzT2E5eWNyZFZLajR2bjlINXBVUjVSMkNySEN1WkV2VXM2cjBTSTVkZGhWcm9CZmxCQUpDY1FLOVh1elpKOHRtbmc?oc=5",
-      "site": "京报网",
+      "site": "news.bjd.com.cn",
       "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
+      "id": "FL-19969bf0e95b",
+      "date": "2026-09-30",
+      "dateISO": "Wed, 30 Sep 2026 00:22:00 GMT",
+      "ts": 1790727720000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "韩国称朝韩非军事区爆炸“极可能”由朝鲜地雷引发 - cn.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMUJvdjRWWjNmY1pDa05Qall1Z3RmSmdzTHVCT3IwY2VoZVJsMW1ERVNKSjRzbkh2NDJtVTVCUXVBQlhkMk8tYk96MU9FMDV0ZWpkMWdLbmdBcVZOYWd4S0ZjNHU3NHRib2pteFZmcFM4Ynp2Ui1FS1dWUUUyY0kzRV9pTHdoalpYZzV4WmJkalItemxLZW9tZmlDQmV4TFJTcDNsMWo1MzE?oc=5",
+      "site": "cn.wsj.com",
+      "siteUrl": "https://cn.wsj.com"
     },
     {
       "id": "FL-ef82b85f10e4",
@@ -171,15 +183,15 @@
       "siteUrl": "https://science.caixin.com"
     },
     {
-      "id": "FL-afd76f7aaf2e",
+      "id": "FL-2472e0a3bccb",
       "date": "2026-10-01",
       "dateISO": "Thu, 01 Oct 2026 18:02:35 GMT",
       "ts": 1790877755000,
       "scope": "intl",
       "type": "blast",
-      "title": "2 Kingfisher employees injured during flash explosion at city power plant - KOCO",
+      "title": "2 Kingfisher employees injured during flash explosion at city power plant - koco.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcktlRDd5ME10U004RmpGSVRrLUpPUVFUb2RBRldBcmFpZUNaVUVwSFZIWGdscGlZaG90MXVhUVhpbVluWDdLRjVOTmw2bmJWVG5TNHRMN1VNbUFpbXdUdmR6S3VQNTRMME52LTBjUlBhVHU5RXZTclBnLWNkdV83LVhVeTdyRXFCZndSZDlnMXBuUXctOG4td2c4UGc3aDcwZnRtUA?oc=5",
-      "site": "KOCO",
+      "site": "koco.com",
       "siteUrl": "https://www.koco.com"
     },
     {
@@ -219,15 +231,15 @@
       "siteUrl": "https://ua.news"
     },
     {
-      "id": "FL-f7b6810bb2c4",
+      "id": "FL-ec99c3dc11e5",
       "date": "2026-10-01",
       "dateISO": "Thu, 01 Oct 2026 11:50:00 GMT",
       "ts": 1790855400000,
       "scope": "intl",
       "type": "blast",
-      "title": "‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years - theguardian.com",
+      "title": "‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOHotQmcyZWt5ZUpHZ1lfZ1F3M0pkQVNBOF9KTTQwUmdLOWZjQkdsRnhpYVNXdWU4S0tQSVFWY1VwYkZCcnVRVWtVRkE5NFlMLWk4QmtydHQwSlJBb0dYMWdTZ1gyenVJZXJQVVdncG5EZkxSbGlBYS1POUZlYUdYN2VWcC1nRE5FTk42VVdPWWRxSGlXZG1nY3FWNVduWnVLQXVzenBLdWs?oc=5",
-      "site": "theguardian.com",
+      "site": "The Guardian",
       "siteUrl": "https://www.theguardian.com"
     },
     {
@@ -277,18 +289,6 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91MjNOYzJjSVZaVUpOZjQ3OGwtYnBaNUZNZi1BTUg0LXlDcjhueElmdjlqWTI1cF83YkdPdjVEUmo3a1FKSXVPTVhpNkVaVF8wNk5GbkJsVG1kQjAzRUtMWEpJMmgxMzNQcTl5bmRadTc4R2xuUVJEWA?oc=5",
       "site": "央视网",
       "siteUrl": "https://news.cctv.com"
-    },
-    {
-      "id": "FL-e4210ecf8c66",
-      "date": "2026-09-27",
-      "dateISO": "Sun, 27 Sep 2026 07:20:08 GMT",
-      "ts": 1790493608000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Where’s the “intelligence explosion”? - by Ramez Naam - Noahpinion",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TU2dmbkt6OXJTZGRLUndMRHpXbGtBb2Z6c0RRb3lrVzBYdnZURUo3ZHV6Ym9kTUJiQ204enJCamdTZGFEU1N5ZjF0Nk45UjlBbHJvdGdPZVJWRWZPRThhbVN0bnlhZzI5TFNXemJFS3U?oc=5",
-      "site": "Noahpinion",
-      "siteUrl": "https://www.noahpinion.blog"
     },
     {
       "id": "FL-340d5e981918",
