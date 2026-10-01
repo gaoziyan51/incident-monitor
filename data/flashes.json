@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T03:59:50.563Z",
+  "updated": "2026-10-01T04:12:23.387Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -39,15 +39,15 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-a1db66c93102",
+      "id": "FL-708943aeaa30",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 14:02:00 GMT",
       "ts": 1790776920000,
       "scope": "intl",
       "type": "blast",
-      "title": "Coroner called to explosion that ‘obliterated’ Perry County home - pennlive.com",
+      "title": "Coroner called to explosion that ‘obliterated’ Perry County home - PennLive.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeU1FV3pEVXU4Sm4tZHZKVUx3REpCajN3S29EOFU1VDNmRHNCTk9Mb2FKcGNRdmFYUDB1VE16V2Z2eE5YNnYxLUYyT01uRjVQS0NhSjkyMS00TlczMGIxUFR4SWZKX2JNZzBaNHdMWGwyb1JIbk01UnlFRWZCUklIbG9vRERldUZISHNabVZJUm1Pam92OFl5ak1BbEdlM0VzMmVXSzRGQk_SAbwBQVVfeXFMTWJLTmlmUkRfTUpFVEdMbjQwWHczM3pVR2xjZW12M001NlJxdVA4OUFJT3BhX25IbmZIZzY1aXNUb1JUSTd1amRmTExHbzdJaUJwVE1fNWxrczVmSDRJbE10N0RySG9yMDBmZU41eEs2ejliV3AyVEJIRF9vdlZlbERSTnpHTmV1MVJhSi1wTThaRmQxVlhRZTBWN1VQRzhNQVYtQ3dJdDZHd0wzR183UmF2VmV3UU5BQzR4Ty0?oc=5",
-      "site": "pennlive.com",
+      "site": "PennLive.com",
       "siteUrl": "https://www.pennlive.com"
     },
     {
@@ -85,6 +85,18 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeDhUaV81UDg3bzJXeEpsbGxOWFRJZ29neXdGY1BCdGJpem53bF9QNEh1cGZodWUyZW9yYjJNM1VMbFNTeW1MZHdzUU1RV3otMVZqc2gwUThHMFJzLTlza2pfa0ItVU4zWjllLVdSdEJxcm1aa1BpN3p6OEtBUUtXelJqUXZXNEgtWDRuZg?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-7c9f7c2536db",
+      "date": "2026-09-30",
+      "dateISO": "Wed, 30 Sep 2026 12:00:03 GMT",
+      "ts": 1790769603000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "星舰首次地轨飞行溅落时剧烈爆炸 着陆过程不平稳引发关注 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OWkRtMVg1aEpwMEFtYTVWU1ZTblNVeG5qdmFvOThhZ0dFVjFOTktPQ3QzLUVJaGtxSHhqRkVwb0M3Zkd1ek9kMHhuM3JrUE80NWZ5RTJFZ1NzT3dZbTliSHhfcU1BN09NRVlzTFZsYnE?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
     },
     {
       "id": "FL-0c24917f0b0c",
@@ -133,18 +145,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lYlpBYUN5ZmNtdnJvNWE2R0xrMVZxNVFJcmJqV05tb2U1Smp1cHVQdFJlQkZVWmt0c3h4cE9WUEE1b2RzUWRhQ3BPU1FMLVNFcXpISTAzTjdlZXdMLUpnYdIBZkFVX3lxTFB2N2hqLXN5bDFJcDM1V0NNOGJqM1dabWI2eExnbk81RlVpNlY3OTdVNGZZVW9XeWsyeW95MkEzWXQ4UG5mRUdBM0dHZjlIbncxNG1BVTlMTThVRUhrM0Vvc3EtYUc1UQ?oc=5",
       "site": "新唐人電視台",
       "siteUrl": "https://www.ntdtv.com"
-    },
-    {
-      "id": "FL-e0fd1fdea93b",
-      "date": "2026-09-30",
-      "dateISO": "Wed, 30 Sep 2026 07:29:00 GMT",
-      "ts": 1790753340000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "8.31太子站外事件多两人被捕 据悉为「爆炸头」成员及李盈姿 - gbcode.rthk.hk",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYVQtT3FNZ3VEU2puZm5VUHB6VC1GT2VBTDMyejEwMVJPbHVXNnI0YV8tSDlJZmpxU1hNRVNiTEFhUHBZVTYxMHRfeHNBT0N2d0prUTBnYmFsTHFzNmVsWjZlZHdhRFpXTmZnX1pWZXM5a0VHWnVNSXZoUmw4d2RNTG8xWVdSQnVIY2hR?oc=5",
-      "site": "gbcode.rthk.hk",
-      "siteUrl": "https://gbcode.rthk.hk"
     },
     {
       "id": "FL-593edf453047",
@@ -219,16 +219,16 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-08b77fd5f983",
+      "id": "FL-eb2cc2e65597",
       "date": "2026-09-30",
-      "dateISO": "Wed, 30 Sep 2026 01:15:00 GMT",
-      "ts": 1790730900000,
+      "dateISO": "Wed, 30 Sep 2026 00:36:41 GMT",
+      "ts": 1790728601000,
       "scope": "dom",
       "type": "blast",
-      "title": "【快讯】联合国军司令部：认定韩朝非军事区爆炸事件中存在违反停战协定的行为: 政治·社会 - 韩民族日报",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IcmR3Sm1vYW03TWt2Q2VIZ1BBRzZMbVhpaTU1TUczMmxSZGxDR29zTVpYd3VTVzJybXlLa3lLZndHWXhvdFZ1ZVM2c1JZTnkzZERFV2l2UHZEVmV3dXc?oc=5",
-      "site": "韩民族日报",
-      "siteUrl": "https://china.hani.co.kr"
+      "title": "金与正全面否认韩方爆炸事故调查结论 - 韩联社",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tTmZoNDUySGV5aXEtOVh3clVIUjhTOUFkTkxuckRvbmI2d2d1N1ZmakpNbjFuZlZub1hfU05sQW4xeVJqeV9IelNFS1M3aTFWMll0VEg0d0E5UQ?oc=5",
+      "site": "韩联社",
+      "siteUrl": "https://cn.yna.co.kr"
     },
     {
       "id": "FL-ef82b85f10e4",
@@ -255,30 +255,6 @@
       "siteUrl": "https://www.voachinese.com"
     },
     {
-      "id": "FL-b40df4eb0730",
-      "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 16:19:42 GMT",
-      "ts": 1790698782000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "“星舰”溅落时引发剧烈爆炸 - finance.sina.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLWZqaVFhMzVDMVFQZl9yZlhURmJXczBwWkpKMDdLaDA0dm9EQzR2T0QzVG9YV21lY3pKZTZnSXhURmw1b3ZzMkdaTmtEUmpiaFl4aHJQcDYxMTZVWkFfREcxZVRGWXF3ZTMtMHpMVDNiMnBHbEp3V2hXRktTanVzMTZ2YUFKb010QTZVb25NN0w3djVHNlZwYkp0djJicW5xcmF6eG1SVzR0NjVBT3NrUFR3?oc=5",
-      "site": "finance.sina.com.cn",
-      "siteUrl": "https://finance.sina.cn"
-    },
-    {
-      "id": "FL-cdd8ba244637",
-      "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 12:35:00 GMT",
-      "ts": 1790685300000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "SpaceX星舰地球轨道飞行提前结束 溅落时剧烈爆炸火光冲天 - news.mydrivers.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93RGdDV2Z4Tm1pYUY3RmFSRWFOUW1rVHNfWXVWNkVLMFpDbTRoOUJVdVVBbWxuOTNRVjkzQlpqQWNlTGd3eW43WXNKOG1hOW1pMGJ6TUJIWG0?oc=5",
-      "site": "news.mydrivers.com",
-      "siteUrl": "https://news.mydrivers.com"
-    },
-    {
       "id": "FL-27bf28fa2315",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 12:12:00 GMT",
@@ -303,18 +279,6 @@
       "siteUrl": "https://news.ifeng.com"
     },
     {
-      "id": "FL-9ba8b5d436e2",
-      "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 10:23:17 GMT",
-      "ts": 1790677397000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "开赛倒计时！费德勒搭档李娜、六款“爆炸头”……今年上海劳力士大师赛新惊喜抢先看 - finance.sina.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZVhyWjVLTmxPRWRjYUhyUTZISG1kZ2RHMjY4Q09Bd3dyRGx5Rm13clpxRXJGV3VWTU9aQkkxTnNzeGFjOTM1STlzb09ncE9LZmhNNUJSYXBYT2kxTTNPcHNidzFDN08taVZOaDhfVERDX0FWSFZhbVJ3ZTlfS0FrM0RrWFozZFkyVGpIdk9rdXZEd1lFbFp6bk9VdURtMzRZ?oc=5",
-      "site": "finance.sina.com.cn",
-      "siteUrl": "https://finance.sina.cn"
-    },
-    {
       "id": "FL-7b0987d4867b",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 08:52:56 GMT",
@@ -325,6 +289,18 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE81eHRiaUdKcDhldDlKYnhrcmlrdVRNbEZBeUdIS2ptdTNta291MTFyNlVVeEZQOEJGUDZ6TEI1QVZKb2ZJX3RWQjlXU3A?oc=5",
       "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com"
+    },
+    {
+      "id": "FL-6e0d8b25d9a2",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 01:18:15 GMT",
+      "ts": 1790644695000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "爆炸🌋 - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMnQtbGJIVGlaZFBybExuTmJaS25CLTRBWTVrMG5LcnhkTXYtaC1FUXVJSDJfZktfaF93VEhHOEhwQUEwWEU1NVVIU0RNc1hxWWUwYlBXR1VyRnlueUtrYVpXdndLTGVEdm1fTEw0N2pIbGM0UjB2ZlAyMVhwMjhRVjVfaFVzTll0cklidjJ2YUFpU2g2bGJKVVo4cndxZ09Rblc0aHgxNjFtdFJSZlJtSE8tQ3FyZkdSWEE?oc=5",
+      "site": "Moomoo",
+      "siteUrl": "https://www.moomoo.com"
     },
     {
       "id": "FL-385dd58b908a",
@@ -339,6 +315,18 @@
       "siteUrl": "https://science.caixin.com"
     },
     {
+      "id": "FL-6612abd30963",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 07:00:00 GMT",
+      "ts": 1789628400000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "宇宙大爆炸最初五分钟氦丰度获最精确测量 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MzVkcXZnR2UwelNkenFIYVFYVzBPcUxUQ1VSaUVHcV9LYVJnZzhjQWZzM09DNk8wc0xVNlo2amRqNjBueWtVeTdSbkJZT053RjRSZDhmeXJyT19wekF3UHB6WERtZkxLaFFwT2pVWTE?oc=5",
+      "site": "中国科技网",
+      "siteUrl": "https://www.stdaily.com"
+    },
+    {
       "id": "FL-a68a94bd129b",
       "date": "2026-10-01",
       "dateISO": "Thu, 01 Oct 2026 03:48:46 GMT",
@@ -351,15 +339,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-55884ce00124",
+      "id": "FL-6f5e410c6abc",
       "date": "2026-10-01",
       "dateISO": "Thu, 01 Oct 2026 01:12:00 GMT",
       "ts": 1790817120000,
       "scope": "intl",
       "type": "blast",
-      "title": "Firefighters battle fire at ABC Junkyard in Waiawa after explosions reported - Hawaii News Now",
+      "title": "Firefighters battle fire at ABC Junkyard in Waiawa after explosions reported - hawaiinewsnow.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVWRNZjc0bDRRc1Z5QWE5UDZEODdxMFZxbmVsR1d6NmxOOTZIR1B4MDM5Q3lOVlppU2thVGpJR014MC13UFFXX2k1WEZ5R3BOZllOektjVEc3UjJMNDFDRHRmWmdPc0lFS0hxQmh1S1B6UU1EVlJ5eTM2WlhhVWdmcW9Yb2NOSV9HVTdxVG5wWTFaQ092SUFPYmwwekxDcXN1NGItMmJJeFI4bVVPMjB4QnNR?oc=5",
-      "site": "Hawaii News Now",
+      "site": "hawaiinewsnow.com",
       "siteUrl": "https://www.hawaiinewsnow.com"
     },
     {
@@ -445,6 +433,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlemFCa3lteDlkZERLTXRLMHhpeTIzNmFqanFBczVPaFNjQjVxOHNJNm54Tkhua1FqOGtuaUhBLWdRSWxXaFRoZThQZXJqclRIV1pUaTNhcjhHU0dwRzA1WXNQc2ZOVEhXX0Z1NUVBcnBUalJRWkE3ZlE0S3NOaXM?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-37ae5c7b2505",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 13:34:10 GMT",
+      "ts": 1789824850000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "叙利亚东部爆炸致过渡政府国防部11人死亡 - 新华网客户端",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa21SSnpRaWdxQy1GYVBmWi1LQ3VzQ0xwZUwzTE9rSVRuLXhac2xTZl9wYlB5c2RoQkRYY1pfbDRZWmF3RFdFZXg4M3NSZ0s0alQ2XzRtUFI0SjR2R2FidlRXZ3pOckwtM20zaFNtR0h4bjFBdTdsZW9yeEpoampleUFNajd4NDVaUElBYTgxUG5vQzRoWjFIcGhn?oc=5",
+      "site": "新华网客户端",
+      "siteUrl": "https://app.xinhuanet.com"
     },
     {
       "id": "FL-6b4aa2b11579",
