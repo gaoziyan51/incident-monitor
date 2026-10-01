@@ -1,17 +1,17 @@
 {
-  "updated": "2026-10-01T05:42:51.542Z",
+  "updated": "2026-10-01T05:57:33.401Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-3e19f8f479af",
+      "id": "FL-06f67d88c587",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 22:44:53 GMT",
       "ts": 1790808293000,
       "scope": "intl",
       "type": "blast",
-      "title": "Attorneys Split on Sentencing Recommendation As Men Charged in HMS Explosion Await Hearing - The Harvard Crimson",
+      "title": "Attorneys Split on Sentencing Recommendation As Men Charged in HMS Explosion Await Hearing - thecrimson.com",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ObXZCd08xT09SQXdacUJHX3htQ04td2ZwSEFzQ2VyYVA5ZU5hMUg0Nkszc3JTMVNRMzg2TF82WkVKUVpqMGlZWVdXQzBSRnRKQ2g3UmhNdVZGT0J4WWttZ2FjMnZjLUtIeTBfM0wxZTlha29WR2hj?oc=5",
-      "site": "The Harvard Crimson",
+      "site": "thecrimson.com",
       "siteUrl": "https://www.thecrimson.com"
     },
     {
@@ -207,18 +207,6 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-dd473ccfbdfe",
-      "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 12:35:00 GMT",
-      "ts": 1790685300000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "SpaceX星舰地球轨道飞行提前结束 溅落时剧烈爆炸火光冲天 - 驱动之家",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93RGdDV2Z4Tm1pYUY3RmFSRWFOUW1rVHNfWXVWNkVLMFpDbTRoOUJVdVVBbWxuOTNRVjkzQlpqQWNlTGd3eW43WXNKOG1hOW1pMGJ6TUJIWG0?oc=5",
-      "site": "驱动之家",
-      "siteUrl": "https://news.mydrivers.com"
-    },
-    {
       "id": "FL-27bf28fa2315",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 12:12:00 GMT",
@@ -363,18 +351,6 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-e4210ecf8c66",
-      "date": "2026-09-27",
-      "dateISO": "Sun, 27 Sep 2026 07:20:08 GMT",
-      "ts": 1790493608000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Where’s the “intelligence explosion”? - by Ramez Naam - Noahpinion",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TU2dmbkt6OXJTZGRLUndMRHpXbGtBb2Z6c0RRb3lrVzBYdnZURUo3ZHV6Ym9kTUJiQ204enJCamdTZGFEU1N5ZjF0Nk45UjlBbHJvdGdPZVJWRWZPRThhbVN0bnlhZzI5TFNXemJFS3U?oc=5",
-      "site": "Noahpinion",
-      "siteUrl": "https://www.noahpinion.blog"
-    },
-    {
       "id": "FL-340d5e981918",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
@@ -433,6 +409,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlemFCa3lteDlkZERLTXRLMHhpeTIzNmFqanFBczVPaFNjQjVxOHNJNm54Tkhua1FqOGtuaUhBLWdRSWxXaFRoZThQZXJqclRIV1pUaTNhcjhHU0dwRzA1WXNQc2ZOVEhXX0Z1NUVBcnBUalJRWkE3ZlE0S3NOaXM?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-6db604326750",
+      "date": "2026-09-28",
+      "dateISO": "Mon, 28 Sep 2026 23:28:32 GMT",
+      "ts": 1790638112000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "伊朗媒体：格什姆岛附近传出爆炸声 系警告射击所致 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0cE1yTkZvd2ZUdmcyV3JMZEJFLW8zZ3lNTUNtemd6X0RQTXA3bXB3UUloLXpaVC1xcm1qQ1UwUTJaQl9KSnJ6RHBMTlZNenBZNkdKcDE3QXFDWjdOYnRyWE02Yw?oc=5",
+      "site": "东方财富",
+      "siteUrl": "https://emwap.eastmoney.com"
     },
     {
       "id": "FL-6b4aa2b11579",
