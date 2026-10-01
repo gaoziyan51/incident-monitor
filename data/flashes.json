@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T17:30:25.982Z",
+  "updated": "2026-10-01T17:48:58.268Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,15 +15,15 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-5a2379136b28",
+      "id": "FL-89279a9651ab",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 12:30:16 GMT",
       "ts": 1790771416000,
       "scope": "dom",
       "type": "blast",
-      "title": "一楼内电动车燃爆起火！逃生通道秒变夺命通道 - sohu.com",
+      "title": "一楼内电动车燃爆起火！逃生通道秒变夺命通道 - 搜狐网",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeDhUaV81UDg3bzJXeEpsbGxOWFRJZ29neXdGY1BCdGJpem53bF9QNEh1cGZodWUyZW9yYjJNM1VMbFNTeW1MZHdzUU1RV3otMVZqc2gwUThHMFJzLTlza2pfa0ItVU4zWjllLVdSdEJxcm1aa1BpN3p6OEtBUUtXelJqUXZXNEgtWDRuZg?oc=5",
-      "site": "sohu.com",
+      "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -183,16 +183,28 @@
       "siteUrl": "https://science.caixin.com"
     },
     {
-      "id": "FL-15538e1ba488",
+      "id": "FL-03b176b08179",
       "date": "2026-10-01",
-      "dateISO": "Thu, 01 Oct 2026 17:02:37 GMT",
-      "ts": 1790874157000,
+      "dateISO": "Thu, 01 Oct 2026 17:04:30 GMT",
+      "ts": 1790874270000,
       "scope": "intl",
       "type": "blast",
-      "title": "Take The Power Back | Explosion of AI Data Centers Across the US - KDBC",
-      "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNbjFZbXdOQ3FGZFVvQjNrZUpSUkd5MDNkYzE0SDZZUENTMC1TRFZDb09rdnEybEZuMW9nS0ViWHRLTjRtd0E2MzlMVGd1dHkwUURkMmxDc2JEZTZPLVpoNElVWDg1eWtnNTRkT0RZRkxoWVJ3YVZISlFiV1MwaE8wek9aMTNaVEFBQW12UjJ4bXBDZGZsTHFBb05fa2h5S1c1dGFVZ3hPYWFCNThRdGF3eUd6Tnl3NHZOTTgtRUY0ZUpGekVZTlVGUVN1SlF2N2FINmZHb1NqeldicWFVS3poVm81ZUN6WGdpNXF0WHFnQmY3ZzZjNGVCbTFkeU1MR21Uc3JzYXBvblVVR2kxQlkxOENfWkJZMlY0SWlRQ294WGdUel9nRG1jSlBGb09nanFLWk5YSko0ZlBrOVVaTlhPTjgzTzBYQThMSF90Y1J0TzlXQzlZUDROaDFtM0JjSWVJMEs4b0p3Y3pMLWp4NV9KcjBZODVRM1NUZDRhUkhxRQ?oc=5",
-      "site": "KDBC",
-      "siteUrl": "https://cbs4local.com"
+      "title": "Take The Power Back | Explosion of AI Data Centers Across the US - WBMA",
+      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNNFRfQloxUnlfaHlHMmJzR1dRcEZlekRRUk9GajN3Z2lmRW5xVGlPRWNMT0syOU1KWkhuYWZwc2tnZWx5Ti0zUkdjUGRrZzF3MTRzdDZzZV9SU1dSdFNtYWFkQURHQW9lZjhRbEVidDN0WWhHbm44ajI5YVRtcmtqbHl1eF9XUThjZDhiTmstTmlrajBNNFpZcWRCM1RzdmZwZXJZekpzaGNNRDlrVU1hZ0Z6c1FTcGU3UHd2M1hHeFhyRWd3ZzJ3clMtaHVSVG9pZTlpeXVnbmRlUHlNQ2tsZDdlNW5LOTBNbWJKemtnSzVqNVZmVnhwdklhX0c4b2VFNnF0TFM5c1NXU01kQWpEcjB5UVhwb3JqUFlEVU1WOUxMZWxXNGs2d200aDQtR2FmNVBzRVlydGZDQ2x0RTlqelZUTmlSMjlNSjI0OXprTk82MzVfZzZua3h5UDJrS0k?oc=5",
+      "site": "WBMA",
+      "siteUrl": "https://abc3340.com"
+    },
+    {
+      "id": "FL-f0dee7722f14",
+      "date": "2026-10-01",
+      "dateISO": "Thu, 01 Oct 2026 17:02:48 GMT",
+      "ts": 1790874168000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Take The Power Back | Explosion of AI Data Centers Across the US - WCYB",
+      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQeXhpVzBGNkhFOHlFS01VRndocUFBQXhTNW5OV0xqcnBZcjdLZU94V1FneTZIS1kxTXZZM0lFRFJQeUtpalRFOWhsNHo3VDNOaWxLN0VzbDFtZWxiZjZNdzZJVWxLYllWUzRZdE9kLXItV09TZk04YlY2RVczS0ZtQ3NnRThKX28wTWlfbmxaZW9LOE1obDN3SDM1WTh4eVhvNFJMa19Wd2RuaVVteVpLc25sOW5fcHViQ3hoWDJnU000S091WkNVdEJrZ1dXVnZ4RWZvbWdyeDZYSGF1TDJqU3dxUThhRGVYUmtKenBPbzhqZUNqUy1KcV9CcTRWZFJlVzl6cF9lRTJuSkJNekV6bVhoaUVXTEc2S2JXMjRUUjFPVUN0V0pHWUdYcFVnbV90dVJ6N2ozd3JUX1d6dk96TlptNTVKS1M5eS1VTDYzVkxKYkJGbHU4aE1ITQ?oc=5",
+      "site": "WCYB",
+      "siteUrl": "https://wcyb.com"
     },
     {
       "id": "FL-a8e62350e695",
@@ -207,15 +219,27 @@
       "siteUrl": "https://cbsaustin.com"
     },
     {
-      "id": "FL-a6d7d85def3c",
+      "id": "FL-bf4f7a9cb923",
+      "date": "2026-10-01",
+      "dateISO": "Thu, 01 Oct 2026 15:41:00 GMT",
+      "ts": 1790869260000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Another explosion reported at feed mill in Sheldon, IA - ktiv.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMXNxTlpPZHRTOFlESFNqY1c2RDA5Sm1NNzEtWXZDZ2JDenJzcFFkRlRUbGtwcWh5UE8zQmp5TWZYYlh1UC13ajc5NFQ2VXhsekhpYUdhRWcwck0yOHd5RkZ1dmc5ajNldFV3M2t4ZDZmVmxfZ29Yakk1RThvUFd6R21Rdw?oc=5",
+      "site": "ktiv.com",
+      "siteUrl": "https://www.ktiv.com"
+    },
+    {
+      "id": "FL-2ed9b31a453d",
       "date": "2026-10-01",
       "dateISO": "Thu, 01 Oct 2026 14:27:33 GMT",
       "ts": 1790864853000,
       "scope": "dom",
       "type": "blast",
-      "title": "埃塞首都傳爆炸聲 反政府武裝稱無人機襲擊 - epochtimes.com",
+      "title": "埃塞首都傳爆炸聲 反政府武裝稱無人機襲擊 - 大紀元新聞網",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1YzVidFkyV0lUWS1lazI0bnNYTHdlN2g3Smd6ZW1jY1FSdERrN0Z3YmpNVmQ2c3RtRlNpNktjNDBKZ1RFczRpNFFneWdWSUcxWUdFTTB4dkstTzIzMVd5adIBZkFVX3lxTFA2dWlueU9yNkdiQmY1UHozcWFiSGdmd1dEUUh6eU12UHhCbVBIMlVfejFZMDRYakN1bk9OQWMzb3RTNWVSSWpsSUxZLU81VXZpWk9YWUVja3hWNUx1X0N5SkVtelpoQQ?oc=5",
-      "site": "epochtimes.com",
+      "site": "大紀元新聞網",
       "siteUrl": "https://www.epochtimes.com"
     },
     {
@@ -279,15 +303,15 @@
       "siteUrl": "https://www.ntdtv.com"
     },
     {
-      "id": "FL-d2803d2cff60",
+      "id": "FL-f1c86563e0e4",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 17:10:36 GMT",
       "ts": 1790529036000,
       "scope": "intl",
       "type": "blast",
-      "title": "英国疏散美军所用基地附近居民 多人涉爆炸物被捕 - news.cctv.com",
+      "title": "英国疏散美军所用基地附近居民 多人涉爆炸物被捕 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91MjNOYzJjSVZaVUpOZjQ3OGwtYnBaNUZNZi1BTUg0LXlDcjhueElmdjlqWTI1cF83YkdPdjVEUmo3a1FKSXVPTVhpNkVaVF8wNk5GbkJsVG1kQjAzRUtMWEpJMmgxMzNQcTl5bmRadTc4R2xuUVJEWA?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -339,15 +363,15 @@
       "siteUrl": "https://finance.eastmoney.com"
     },
     {
-      "id": "FL-4fcd67df38a6",
+      "id": "FL-53093e91fe3a",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 12:25:51 GMT",
       "ts": 1790425551000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - sohu.com",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 搜狐网",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUU9ESGJKMW5sendsVU4zOUFWYXhBSlFXdVFQUXZ5RVZqQzhlTTRFSlpsSmdWeFRXSHlJakg3ckQtVElSSGZtYkhDM3JMUXVmVTZMX09CeFRhTlVNZ3c0MFNXQXM2LWVpMURDNjU3cXZ6Y01wWHQxRTNIZDhfWEsyUVNJb21URjZKZkJVMElGZ0xueENOU2Jyd0ZNaHk1akVU?oc=5",
-      "site": "sohu.com",
+      "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
     },
     {
