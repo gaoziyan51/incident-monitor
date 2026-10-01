@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T19:37:00.521Z",
+  "updated": "2026-10-01T19:47:54.003Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -25,18 +25,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeDhUaV81UDg3bzJXeEpsbGxOWFRJZ29neXdGY1BCdGJpem53bF9QNEh1cGZodWUyZW9yYjJNM1VMbFNTeW1MZHdzUU1RV3otMVZqc2gwUThHMFJzLTlza2pfa0ItVU4zWjllLVdSdEJxcm1aa1BpN3p6OEtBUUtXelJqUXZXNEgtWDRuZg?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-dec5d688a150",
-      "date": "2026-09-30",
-      "dateISO": "Wed, 30 Sep 2026 11:12:00 GMT",
-      "ts": 1790766720000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "印度曼格洛尔炼油厂发生爆炸，造成1人死亡——OilPrice - UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQXZ2VjVjYTNSSXBXaUU4RWJRME9HQUhIUW1VZnJlZHNCaVZuUVVUdFFsUmxnNEFkQkhxMFYzelJHTUJCek5fdldocHcxeHV3YmJOSTExTTlHZ3R4cXRGSVRKbXJOZkZKNTFuTDhHaUtISDFQLVFrTmRrMXMxNUIxcHV3OEpBYmt3QzVxU2tMTTN6ZGE0ay1qWQ?oc=5",
-      "site": "UA.NEWS",
-      "siteUrl": "https://ua.news"
     },
     {
       "id": "FL-b9db7cd7a655",
@@ -87,28 +75,16 @@
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
-      "id": "FL-f1d79e441207",
+      "id": "FL-3e0c13e63420",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 01:30:06 GMT",
       "ts": 1790731806000,
       "scope": "dom",
       "type": "blast",
-      "title": "金与正回应地雷爆炸事件 - news.bjd.com.cn",
+      "title": "金与正回应地雷爆炸事件 - 京报网",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PaDliMnJyaU9MRy1yRmhCMXJpR1MzT2E5eWNyZFZLajR2bjlINXBVUjVSMkNySEN1WkV2VXM2cjBTSTVkZGhWcm9CZmxCQUpDY1FLOVh1elpKOHRtbmc?oc=5",
-      "site": "news.bjd.com.cn",
+      "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
-    },
-    {
-      "id": "FL-ef93ea014fdf",
-      "date": "2026-09-30",
-      "dateISO": "Wed, 30 Sep 2026 00:11:43 GMT",
-      "ts": 1790727103000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "星舰溅落时发生剧烈爆炸 着陆过程充满挑战 - 中华网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03NnVPRThLZkV2Tmw1cWRUQ2tTV1ZsSThmQ1ZsYTk0NW5ma2xmM1BKNGVveGdIMWRpaXg0SXZmVFE5QWlLWXFLcUxyZmI5YWNER25jcVg1ay1XajhqYmljSXhnd3g5MGsxbzhBOFpDcWI?oc=5",
-      "site": "中华网",
-      "siteUrl": "https://news.china.com"
     },
     {
       "id": "FL-ef82b85f10e4",
@@ -195,27 +171,15 @@
       "siteUrl": "https://science.caixin.com"
     },
     {
-      "id": "FL-555d57ee1dad",
-      "date": "2026-10-01",
-      "dateISO": "Thu, 01 Oct 2026 18:51:05 GMT",
-      "ts": 1790880665000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Take The Power Back | Explosion of AI Data Centers Across the US - WCIV",
-      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPUHl4RDI5Z1hUZjAyc2J6ZFRFWlBaYzV1NmFHZTBBS3hHczExVmRyQmVsdU9hNU5RQkJLaU1jT3lpLU42elJxUWMtYkE0MXViYUVKRXRVVndOLUFXUHN6UWNZV1VpNmhBc1g0ZTFEMktwS1dvOVhtOEdwdWZiZ2I4QzZGb1pqb1BDSks5ZlM4RUxuTlZCd0l1M0ljNHREeGc5Q2RMU1loNnZGdmdXcjBaSlY3NElrMXYwaXluWkVzdVRvNVF3eUtPc25xRTJMckIyVFYwTVFNUG5ORkNEaUJqSUJkX1RpeURocDk5MlJqcjZncmVzdENYaUxyQW04UDNZMmVmV1ZnaTZyY2l4aVZlMVM1VFFSYnpacTNscENFTUdybllPRVg0UXRZSGF2OHBLUFM3MHZubTU4cmhuNG5zaWxQdHczaHJ1Y0JpdnVpd3NhNXk2YWR6SGxNYmpJQ0U0SXZXX0lQREdwMDFrZlZCai1LU0g5bUNjcG9MV0VR?oc=5",
-      "site": "WCIV",
-      "siteUrl": "https://abcnews4.com"
-    },
-    {
-      "id": "FL-2472e0a3bccb",
+      "id": "FL-afd76f7aaf2e",
       "date": "2026-10-01",
       "dateISO": "Thu, 01 Oct 2026 18:02:35 GMT",
       "ts": 1790877755000,
       "scope": "intl",
       "type": "blast",
-      "title": "2 Kingfisher employees injured during flash explosion at city power plant - koco.com",
+      "title": "2 Kingfisher employees injured during flash explosion at city power plant - KOCO",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcktlRDd5ME10U004RmpGSVRrLUpPUVFUb2RBRldBcmFpZUNaVUVwSFZIWGdscGlZaG90MXVhUVhpbVluWDdLRjVOTmw2bmJWVG5TNHRMN1VNbUFpbXdUdmR6S3VQNTRMME52LTBjUlBhVHU5RXZTclBnLWNkdV83LVhVeTdyRXFCZndSZDlnMXBuUXctOG4td2c4UGc3aDcwZnRtUA?oc=5",
-      "site": "koco.com",
+      "site": "KOCO",
       "siteUrl": "https://www.koco.com"
     },
     {
@@ -229,18 +193,6 @@
       "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNNFRfQloxUnlfaHlHMmJzR1dRcEZlekRRUk9GajN3Z2lmRW5xVGlPRWNMT0syOU1KWkhuYWZwc2tnZWx5Ti0zUkdjUGRrZzF3MTRzdDZzZV9SU1dSdFNtYWFkQURHQW9lZjhRbEVidDN0WWhHbm44ajI5YVRtcmtqbHl1eF9XUThjZDhiTmstTmlrajBNNFpZcWRCM1RzdmZwZXJZekpzaGNNRDlrVU1hZ0Z6c1FTcGU3UHd2M1hHeFhyRWd3ZzJ3clMtaHVSVG9pZTlpeXVnbmRlUHlNQ2tsZDdlNW5LOTBNbWJKemtnSzVqNVZmVnhwdklhX0c4b2VFNnF0TFM5c1NXU01kQWpEcjB5UVhwb3JqUFlEVU1WOUxMZWxXNGs2d200aDQtR2FmNVBzRVlydGZDQ2x0RTlqelZUTmlSMjlNSjI0OXprTk82MzVfZzZua3h5UDJrS0k?oc=5",
       "site": "WBMA",
       "siteUrl": "https://abc3340.com"
-    },
-    {
-      "id": "FL-4ebb0c4dfeeb",
-      "date": "2026-10-01",
-      "dateISO": "Thu, 01 Oct 2026 15:41:00 GMT",
-      "ts": 1790869260000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Another explosion reported at feed mill in Sheldon, IA - KTIV",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMXNxTlpPZHRTOFlESFNqY1c2RDA5Sm1NNzEtWXZDZ2JDenJzcFFkRlRUbGtwcWh5UE8zQmp5TWZYYlh1UC13ajc5NFQ2VXhsekhpYUdhRWcwck0yOHd5RkZ1dmc5ajNldFV3M2t4ZDZmVmxfZ29Yakk1RThvUFd6R21Rdw?oc=5",
-      "site": "KTIV",
-      "siteUrl": "https://www.ktiv.com"
     },
     {
       "id": "FL-2ed9b31a453d",
@@ -267,27 +219,15 @@
       "siteUrl": "https://ua.news"
     },
     {
-      "id": "FL-9376909db733",
-      "date": "2026-10-01",
-      "dateISO": "Thu, 01 Oct 2026 12:12:00 GMT",
-      "ts": 1790856720000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Identity released | Body recovered from debris after deadly Perry County house explosion, police say - WGAL",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aMWRHbkw0dFE0UnFNeG0xQjJCc3B6V1ZqS0JhVlNCR3NiUUVfRzItb0VUUmxpMEY0M3UtUTRQd25wY0tXemVTaDRkY2JySGpEdGo2Ykg3cVBOb2tJUmlqeC03eHlQUHpJcm9LZlFibEZ5cWJ6TGNPMg?oc=5",
-      "site": "WGAL",
-      "siteUrl": "https://www.wgal.com"
-    },
-    {
-      "id": "FL-ec99c3dc11e5",
+      "id": "FL-f7b6810bb2c4",
       "date": "2026-10-01",
       "dateISO": "Thu, 01 Oct 2026 11:50:00 GMT",
       "ts": 1790855400000,
       "scope": "intl",
       "type": "blast",
-      "title": "‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years - The Guardian",
+      "title": "‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years - theguardian.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOHotQmcyZWt5ZUpHZ1lfZ1F3M0pkQVNBOF9KTTQwUmdLOWZjQkdsRnhpYVNXdWU4S0tQSVFWY1VwYkZCcnVRVWtVRkE5NFlMLWk4QmtydHQwSlJBb0dYMWdTZ1gyenVJZXJQVVdncG5EZkxSbGlBYS1POUZlYUdYN2VWcC1nRE5FTk42VVdPWWRxSGlXZG1nY3FWNVduWnVLQXVzenBLdWs?oc=5",
-      "site": "The Guardian",
+      "site": "theguardian.com",
       "siteUrl": "https://www.theguardian.com"
     },
     {
@@ -337,6 +277,18 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91MjNOYzJjSVZaVUpOZjQ3OGwtYnBaNUZNZi1BTUg0LXlDcjhueElmdjlqWTI1cF83YkdPdjVEUmo3a1FKSXVPTVhpNkVaVF8wNk5GbkJsVG1kQjAzRUtMWEpJMmgxMzNQcTl5bmRadTc4R2xuUVJEWA?oc=5",
       "site": "央视网",
       "siteUrl": "https://news.cctv.com"
+    },
+    {
+      "id": "FL-e4210ecf8c66",
+      "date": "2026-09-27",
+      "dateISO": "Sun, 27 Sep 2026 07:20:08 GMT",
+      "ts": 1790493608000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Where’s the “intelligence explosion”? - by Ramez Naam - Noahpinion",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TU2dmbkt6OXJTZGRLUndMRHpXbGtBb2Z6c0RRb3lrVzBYdnZURUo3ZHV6Ym9kTUJiQ204enJCamdTZGFEU1N5ZjF0Nk45UjlBbHJvdGdPZVJWRWZPRThhbVN0bnlhZzI5TFNXemJFS3U?oc=5",
+      "site": "Noahpinion",
+      "siteUrl": "https://www.noahpinion.blog"
     },
     {
       "id": "FL-340d5e981918",
