@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T08:24:22.952Z",
+  "updated": "2026-10-01T08:40:22.023Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -39,15 +39,15 @@
       "siteUrl": "https://news.china.com"
     },
     {
-      "id": "FL-902bc8004a5f",
+      "id": "FL-c4e3d68b0d5c",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 13:26:30 GMT",
       "ts": 1790774790000,
       "scope": "dom",
       "type": "blast",
-      "title": "学校引爆爆炸物炸伤自身 马国12岁男童被捕 - 联合早报",
+      "title": "学校引爆爆炸物炸伤自身 马国12岁男童被捕 - zaobao.com.sg",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCZEM1cDgyc2NLcHBYLXNkWUJsZ21LMEMtRUlfTFpDSGRxQ0pKcW5wMkl3Q1V2YXdaX2E1OG1oZmxYeWk0ZlJBRnl0cmdXLUlPbWVHN0RGU2JVU1B1dURGamtmRG1aUkU?oc=5",
-      "site": "联合早报",
+      "site": "zaobao.com.sg",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
@@ -195,27 +195,27 @@
       "siteUrl": "https://chinese.joins.com"
     },
     {
-      "id": "FL-c8b058720225",
+      "id": "FL-08b77fd5f983",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 01:15:00 GMT",
       "ts": 1790730900000,
       "scope": "dom",
       "type": "blast",
-      "title": "【快讯】联合国军司令部：认定韩朝非军事区爆炸事件中存在违反停战协定的行为: 政治·社会 - china.hani.co.kr",
+      "title": "【快讯】联合国军司令部：认定韩朝非军事区爆炸事件中存在违反停战协定的行为: 政治·社会 - 韩民族日报",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IcmR3Sm1vYW03TWt2Q2VIZ1BBRzZMbVhpaTU1TUczMmxSZGxDR29zTVpYd3VTVzJybXlLa3lLZndHWXhvdFZ1ZVM2c1JZTnkzZERFV2l2UHZEVmV3dXc?oc=5",
-      "site": "china.hani.co.kr",
+      "site": "韩民族日报",
       "siteUrl": "https://china.hani.co.kr"
     },
     {
-      "id": "FL-3eacb9a83667",
+      "id": "FL-19969bf0e95b",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 00:22:00 GMT",
       "ts": 1790727720000,
       "scope": "intl",
       "type": "blast",
-      "title": "韩国称朝韩非军事区爆炸“极可能”由朝鲜地雷引发 - 华尔街日报中文版",
+      "title": "韩国称朝韩非军事区爆炸“极可能”由朝鲜地雷引发 - cn.wsj.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMUJvdjRWWjNmY1pDa05Qall1Z3RmSmdzTHVCT3IwY2VoZVJsMW1ERVNKSjRzbkh2NDJtVTVCUXVBQlhkMk8tYk96MU9FMDV0ZWpkMWdLbmdBcVZOYWd4S0ZjNHU3NHRib2pteFZmcFM4Ynp2Ui1FS1dWUUUyY0kzRV9pTHdoalpYZzV4WmJkalItemxLZW9tZmlDQmV4TFJTcDNsMWo1MzE?oc=5",
-      "site": "华尔街日报中文版",
+      "site": "cn.wsj.com",
       "siteUrl": "https://cn.wsj.com"
     },
     {
@@ -279,15 +279,15 @@
       "siteUrl": "https://news.mydrivers.com"
     },
     {
-      "id": "FL-27bf28fa2315",
+      "id": "FL-f1ee346649f5",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 12:12:00 GMT",
       "ts": 1790683920000,
       "scope": "dom",
       "type": "blast",
-      "title": "“星舰”受控溅落时发生剧烈爆炸 - 财联社",
+      "title": "“星舰”受控溅落时发生剧烈爆炸 - cls.cn",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ZemMwNnJrSmpfU09scEpCMXNXRGRGaUZ6ZER1MzJyRDBubmdhWjZLTUVjcV9lZVNYdV95dGNtVTZwOEl3OFFhaw?oc=5",
-      "site": "财联社",
+      "site": "cls.cn",
       "siteUrl": "https://www.cls.cn"
     },
     {
@@ -351,18 +351,6 @@
       "siteUrl": "https://www.guancha.cn"
     },
     {
-      "id": "FL-6f5e410c6abc",
-      "date": "2026-10-01",
-      "dateISO": "Thu, 01 Oct 2026 07:02:31 GMT",
-      "ts": 1790838151000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Firefighters battle fire at ABC Junkyard in Waiawa after explosions reported - hawaiinewsnow.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVTI5UlAzb0VqYmh1RHdESWNiZzVtQWRYNjQtd2tXSUdqLWh1OHVCaUpYNVV5WWhsOWc0TGVqNGQwYVVEaUJ1dGJSQ3lBaGNyd1ZfWkFpUHJJNzd6Wmt4S3BLYlp5cUlHZXFIaGxyWXJmWXJ0UXNLRTRlRDlmNThHQkQ4bFFHTEJBRUwya0JmREpSNy12MDRkN1pYbUJHREpPTmtFUGU3MC0waFlzcmdybW1NMURwaEtfVlE?oc=5",
-      "site": "hawaiinewsnow.com",
-      "siteUrl": "https://www.hawaiinewsnow.com"
-    },
-    {
       "id": "FL-ec99c3dc11e5",
       "date": "2026-10-01",
       "dateISO": "Thu, 01 Oct 2026 04:01:00 GMT",
@@ -387,15 +375,15 @@
       "siteUrl": "https://www.wgal.com"
     },
     {
-      "id": "FL-f0ad6d9c2914",
+      "id": "FL-7ae8edb47a08",
       "date": "2026-10-01",
       "dateISO": "Thu, 01 Oct 2026 01:12:00 GMT",
       "ts": 1790817120000,
       "scope": "intl",
       "type": "blast",
-      "title": "Firefighters battle fire at ABC junkyard in Waiawa after explosions reported - hawaiinewsnow.com",
+      "title": "Firefighters battle fire at ABC junkyard in Waiawa after explosions reported - Hawaii News Now",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeU9wWVZadEdVa1JIOEdYMVI2eWh1TFFkaHRnek42UGNNWnlCZHktUmlqcjU4RDRRYlFmUEg0cXBhMmtLMXN4djNnS2t3bEgyODRLRDBzUTMxVHU2bTExV3NpdzdhQTFLdkdic0IwRWVNWHhPM2NYR2I3aU5vQzRBeTVHRXlwdW93ZHUwSEFoNDNFZ2JTYm1CUnU1azZvbHF4bXd4cEl2S3BCM181aHV6Tnc3UdIBxwFBVV95cUxPVTNrZlVVaTlCUm5Pam01dktscDQ0YzZRbmhWYXdvQ0g0UVVxM0o3cG5Qck9yeGpKT045Y3JIdzl6bzV2RDlzcUxCbklHUmNXZUV0dG9VTTVEMkxtZWhrWjdXcDBWYXZMeFFvLU9ZcC1weENqbXQ0RTdZWmU5dXM5amFiZW1VRzdmclU5WjVTMUVaSlJpY1MtUnBJZFlTMFJsbnM3MnVtYW15dW1hdEJ1UlR2TGdFTzJiYXdUSFhzNXNOaDQ4UGY0?oc=5",
-      "site": "hawaiinewsnow.com",
+      "site": "Hawaii News Now",
       "siteUrl": "https://www.hawaiinewsnow.com"
     },
     {
@@ -483,27 +471,27 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
-      "id": "FL-6db604326750",
+      "id": "FL-b1e0fde6ab4e",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 23:28:32 GMT",
       "ts": 1790638112000,
       "scope": "intl",
       "type": "blast",
-      "title": "伊朗媒体：格什姆岛附近传出爆炸声 系警告射击所致 - 东方财富",
+      "title": "伊朗媒体：格什姆岛附近传出爆炸声 系警告射击所致 - emwap.eastmoney.com",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0cE1yTkZvd2ZUdmcyV3JMZEJFLW8zZ3lNTUNtemd6X0RQTXA3bXB3UUloLXpaVC1xcm1qQ1UwUTJaQl9KSnJ6RHBMTlZNenBZNkdKcDE3QXFDWjdOYnRyWE02Yw?oc=5",
-      "site": "东方财富",
+      "site": "emwap.eastmoney.com",
       "siteUrl": "https://emwap.eastmoney.com"
     },
     {
-      "id": "FL-6b4aa2b11579",
+      "id": "FL-04c00040a075",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 15:51:05 GMT",
       "ts": 1790610665000,
       "scope": "dom",
       "type": "blast",
-      "title": "AI研发自动化或引发“智能爆炸”！20多名顶尖研究人员呼吁政府加强监管 - 财联社",
+      "title": "AI研发自动化或引发“智能爆炸”！20多名顶尖研究人员呼吁政府加强监管 - cls.cn",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5XY05paDVKVHg0TEJqRU1sWkJaLXhYM3QydGk4OWI3NlNFRzA3UHpHUTh3cjNxeDhESm1ac3VLeTdHdExCZ3JnTw?oc=5",
-      "site": "财联社",
+      "site": "cls.cn",
       "siteUrl": "https://www.cls.cn"
     }
   ]
