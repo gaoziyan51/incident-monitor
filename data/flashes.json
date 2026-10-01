@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T23:17:42.066Z",
+  "updated": "2026-10-01T23:28:33.998Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -27,27 +27,27 @@
       "siteUrl": "https://www.jpchinapress.com"
     },
     {
-      "id": "FL-af2cce547279",
+      "id": "FL-0115ee714c6a",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 04:43:19 GMT",
       "ts": 1790743399000,
       "scope": "dom",
       "type": "blast",
-      "title": "韩军促朝停止边境加固工程并就爆炸事故道歉 - 联合早报",
+      "title": "韩军促朝停止边境加固工程并就爆炸事故道歉 - zaobao.com.sg",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3ZnZEaG1GeE9YY2lxS21Uc2RUZVRjWnl1ZlowQWNrN0dfU3N3ejBURkVsaEZnQlBfN2JGV2MzWkl3N3NBUnkyVlpjTEVqazE2Ujd2dmdNbVJ4V1EyNmxrTHJtSnZFelNjNkE?oc=5",
-      "site": "联合早报",
+      "site": "zaobao.com.sg",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
-      "id": "FL-c7896ef61e56",
+      "id": "FL-6ba1fdc017bf",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 02:23:56 GMT",
       "ts": 1790735036000,
       "scope": "dom",
       "type": "blast",
-      "title": "联合国军司令部认定韩朝边境爆炸属违反停战协定事件 - 联合早报",
+      "title": "联合国军司令部认定韩朝边境爆炸属违反停战协定事件 - zaobao.com.sg",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UZ19NbFN0bUo0X05ld3RCZUVWZzFCajI1Qi0wVlBpZ29MNTFIaWVTVl9raUNBSmZENEI5T29rQlFVNENEWTVVMUFfbWRyaVlUMm1FaWZQcmxfc1NzVnpJSHl0U194ZkhqR1E?oc=5",
-      "site": "联合早报",
+      "site": "zaobao.com.sg",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
@@ -61,6 +61,18 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PaDliMnJyaU9MRy1yRmhCMXJpR1MzT2E5eWNyZFZLajR2bjlINXBVUjVSMkNySEN1WkV2VXM2cjBTSTVkZGhWcm9CZmxCQUpDY1FLOVh1elpKOHRtbmc?oc=5",
       "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
+      "id": "FL-ef93ea014fdf",
+      "date": "2026-09-30",
+      "dateISO": "Wed, 30 Sep 2026 00:11:43 GMT",
+      "ts": 1790727103000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "星舰溅落时发生剧烈爆炸 着陆过程充满挑战 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03NnVPRThLZkV2Tmw1cWRUQ2tTV1ZsSThmQ1ZsYTk0NW5ma2xmM1BKNGVveGdIMWRpaXg0SXZmVFE5QWlLWXFLcUxyZmI5YWNER25jcVg1ay1XajhqYmljSXhnd3g5MGsxbzhBOFpDcWI?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
     },
     {
       "id": "FL-ef82b85f10e4",
@@ -99,15 +111,15 @@
       "siteUrl": "https://www.66wz.com"
     },
     {
-      "id": "FL-f1ee346649f5",
+      "id": "FL-27bf28fa2315",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 12:12:00 GMT",
       "ts": 1790683920000,
       "scope": "dom",
       "type": "blast",
-      "title": "“星舰”受控溅落时发生剧烈爆炸 - cls.cn",
+      "title": "“星舰”受控溅落时发生剧烈爆炸 - 财联社",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ZemMwNnJrSmpfU09scEpCMXNXRGRGaUZ6ZER1MzJyRDBubmdhWjZLTUVjcV9lZVNYdV95dGNtVTZwOEl3OFFhaw?oc=5",
-      "site": "cls.cn",
+      "site": "财联社",
       "siteUrl": "https://www.cls.cn"
     },
     {
@@ -123,15 +135,15 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-70ccb467ede8",
+      "id": "FL-e67ae08b22c3",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 09:10:00 GMT",
       "ts": 1790673000000,
       "scope": "dom",
       "type": "blast",
-      "title": "韩朝非军事区地雷爆炸致3名韩军受伤，韩方怀疑朝方埋雷，李在明要求迅速查明真相 - 上观新闻",
+      "title": "韩朝非军事区地雷爆炸致3名韩军受伤，韩方怀疑朝方埋雷，李在明要求迅速查明真相 - jfdaily.com",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pZFN1QWFhQmZ6aEdRYWtWeU1rb3BKQnNKRkNYaFVlaE92OVliUTBteVZFS2NQMS10R09ka0cxRjA5c1FoSmpJWFZyeUJac0RkY2pzNk5zQy1Hdw?oc=5",
-      "site": "上观新闻",
+      "site": "jfdaily.com",
       "siteUrl": "https://www.jfdaily.com"
     },
     {
@@ -159,18 +171,6 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
-      "id": "FL-7511d3974e69",
-      "date": "2026-10-01",
-      "dateISO": "Thu, 01 Oct 2026 22:05:52 GMT",
-      "ts": 1790892352000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Explosion causes damage at battery recycling plant in Lancaster - WSYX",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOYVNHWXMwZzhyWG56R0JlOGxIOV9nUEJBQ24zazdYYTh2ZENXMTJiZGJYcnEwSl9CWlFxckVfMkVwSmp0OW16TEIyYS1fZTVhNHd5RzB4WGdyYVgzV08xZjUyYk1lUXg2bFFJak9xMVRraVNPM1RZRklZSFUybzZxZ2xyTUxuUjF5eS1BMTVrbEQ0c2F1US1OYWE3SVB2Q05wTS1TTXZxbUVXeDl1SUJBcXJUbkt3cnBpN0IzdFpYLWRnSGxCZ01PXzltaHpzUUwxei1HTkd6SUs5bzIwa2JlQkhXaUZUYWF1cmxlMm5FQzYwdG8?oc=5",
-      "site": "WSYX",
-      "siteUrl": "https://abc6onyourside.com"
-    },
-    {
       "id": "FL-b98b22a2a0b8",
       "date": "2026-10-01",
       "dateISO": "Thu, 01 Oct 2026 20:57:33 GMT",
@@ -183,27 +183,39 @@
       "siteUrl": "https://news.cnjiwang.com"
     },
     {
-      "id": "FL-bf4f7a9cb923",
+      "id": "FL-67e33e44d575",
+      "date": "2026-10-01",
+      "dateISO": "Thu, 01 Oct 2026 17:28:28 GMT",
+      "ts": 1790875708000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "7 Reported Killed in Explosion at Ammunition Plant Near Moscow - The Moscow Times",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeWdqdF9LM3Bxc3NtX2RVZF82Nmp1ZGkyVzRzeFVTTGV2cUFvVmhmcURCaGI5cW9sQWliZVJBcGlIRUtoemxYNzRIdnEyOU5ENXNXYjF4SDVzWFE2WEo4RFRzUWJzZXdMd29ibU9ZLUNoX1I4MU5pbU91TUs5OE9mcGhDbUF1a253T2JVQVIwWjlRcG5RME11OWVCYmU4YkZyR1plTXphLTF6OTlEYVBsWg?oc=5",
+      "site": "The Moscow Times",
+      "siteUrl": "https://www.themoscowtimes.com"
+    },
+    {
+      "id": "FL-4ebb0c4dfeeb",
       "date": "2026-10-01",
       "dateISO": "Thu, 01 Oct 2026 15:41:00 GMT",
       "ts": 1790869260000,
       "scope": "intl",
       "type": "blast",
-      "title": "Another explosion reported at feed mill in Sheldon, IA - ktiv.com",
+      "title": "Another explosion reported at feed mill in Sheldon, IA - KTIV",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMXNxTlpPZHRTOFlESFNqY1c2RDA5Sm1NNzEtWXZDZ2JDenJzcFFkRlRUbGtwcWh5UE8zQmp5TWZYYlh1UC13ajc5NFQ2VXhsekhpYUdhRWcwck0yOHd5RkZ1dmc5ajNldFV3M2t4ZDZmVmxfZ29Yakk1RThvUFd6R21Rdw?oc=5",
-      "site": "ktiv.com",
+      "site": "KTIV",
       "siteUrl": "https://www.ktiv.com"
     },
     {
-      "id": "FL-a6d7d85def3c",
+      "id": "FL-2ed9b31a453d",
       "date": "2026-10-01",
       "dateISO": "Thu, 01 Oct 2026 14:27:33 GMT",
       "ts": 1790864853000,
       "scope": "dom",
       "type": "blast",
-      "title": "埃塞首都傳爆炸聲 反政府武裝稱無人機襲擊 - epochtimes.com",
+      "title": "埃塞首都傳爆炸聲 反政府武裝稱無人機襲擊 - 大紀元新聞網",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1YzVidFkyV0lUWS1lazI0bnNYTHdlN2g3Smd6ZW1jY1FSdERrN0Z3YmpNVmQ2c3RtRlNpNktjNDBKZ1RFczRpNFFneWdWSUcxWUdFTTB4dkstTzIzMVd5adIBZkFVX3lxTFA2dWlueU9yNkdiQmY1UHozcWFiSGdmd1dEUUh6eU12UHhCbVBIMlVfejFZMDRYakN1bk9OQWMzb3RTNWVSSWpsSUxZLU81VXZpWk9YWUVja3hWNUx1X0N5SkVtelpoQQ?oc=5",
-      "site": "epochtimes.com",
+      "site": "大紀元新聞網",
       "siteUrl": "https://www.epochtimes.com"
     },
     {
@@ -243,15 +255,15 @@
       "siteUrl": "https://atvnewsonline.com"
     },
     {
-      "id": "FL-f608bb5b0e0f",
+      "id": "FL-d851b7fe4205",
       "date": "2026-10-01",
       "dateISO": "Thu, 01 Oct 2026 09:15:05 GMT",
       "ts": 1790846105000,
       "scope": "dom",
       "type": "blast",
-      "title": "非军事区爆炸事件后 南韩总统敦促平壤展开对话 - swissinfo.ch",
+      "title": "非军事区爆炸事件后 南韩总统敦促平壤展开对话 - SWI swissinfo.ch",
       "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOczZla3ItZXBJLXJLa3p4UE41ZmNQdHJlMnJ0U3phNGFSUWtWdW43Zi1qelc0MGs4QmIzSkFUU1pQbVc4UUlKeXVGTlpPZWM4eXhvNGUtbFZqQnJmRjl1cV84VWtFanFOYl9RdW04Y09XOU9uNGZva0FGdUFkdlp3TzVXbG9XVlUzOGE5azZXak1tNEVYWWhVMGc3OVFBMG1MdHJIOV9rS1pRRDJ3UEU0b0dqdzEwVEcyMWphN3piMWJJLVRONzZ6UzJXWXNLbnBoZC12Y0JMRGVfcU90WGIyMTUzVzIyWjFCckMtWHNsaHk0RTBBeHZoQlY1c0lEQnlKTkZKeEw1X1I0Znl6N1ZvSk1HMUM2eFF4cEs1MGpUV2RUYWRCaHZZNXhHcVM1VXhhaGVNZXFtdkltSDBxai05bVZlNXo2NTh1WHdIWg?oc=5",
-      "site": "swissinfo.ch",
+      "site": "SWI swissinfo.ch",
       "siteUrl": "https://www.swissinfo.ch"
     },
     {
@@ -289,18 +301,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-435013707dbb",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 21:06:34 GMT",
-      "ts": 1790456794000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "雅典老城区爆炸事故致6死3伤 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xTGZlLXJTZlVuMEx6c1BjOFNNcWxlQ25OUW5JdFh5TTh0S0tMZHVGa09ZT3AxZnZ6cGFPT0dRdUZlTHFfaC1IVTRHckdIR2ZvTXNpdlFJUnFZc29PdFBJMGZjMXJjUQ?oc=5",
-      "site": "东方财富",
-      "siteUrl": "https://finance.eastmoney.com"
     },
     {
       "id": "FL-53093e91fe3a",
