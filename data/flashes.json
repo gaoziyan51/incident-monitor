@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T19:21:29.736Z",
+  "updated": "2026-10-01T19:37:00.521Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -87,15 +87,15 @@
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
-      "id": "FL-3e0c13e63420",
+      "id": "FL-f1d79e441207",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 01:30:06 GMT",
       "ts": 1790731806000,
       "scope": "dom",
       "type": "blast",
-      "title": "金与正回应地雷爆炸事件 - 京报网",
+      "title": "金与正回应地雷爆炸事件 - news.bjd.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PaDliMnJyaU9MRy1yRmhCMXJpR1MzT2E5eWNyZFZLajR2bjlINXBVUjVSMkNySEN1WkV2VXM2cjBTSTVkZGhWcm9CZmxCQUpDY1FLOVh1elpKOHRtbmc?oc=5",
-      "site": "京报网",
+      "site": "news.bjd.com.cn",
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
@@ -159,15 +159,15 @@
       "siteUrl": "https://www.cls.cn"
     },
     {
-      "id": "FL-9ba8b5d436e2",
+      "id": "FL-82dc06a5c594",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 10:23:17 GMT",
       "ts": 1790677397000,
       "scope": "dom",
       "type": "blast",
-      "title": "开赛倒计时！费德勒搭档李娜、六款“爆炸头”……今年上海劳力士大师赛新惊喜抢先看 - finance.sina.com.cn",
+      "title": "开赛倒计时！费德勒搭档李娜、六款“爆炸头”……今年上海劳力士大师赛新惊喜抢先看 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZVhyWjVLTmxPRWRjYUhyUTZISG1kZ2RHMjY4Q09Bd3dyRGx5Rm13clpxRXJGV3VWTU9aQkkxTnNzeGFjOTM1STlzb09ncE9LZmhNNUJSYXBYT2kxTTNPcHNidzFDN08taVZOaDhfVERDX0FWSFZhbVJ3ZTlfS0FrM0RrWFozZFkyVGpIdk9rdXZEd1lFbFp6bk9VdURtMzRZ?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -195,15 +195,27 @@
       "siteUrl": "https://science.caixin.com"
     },
     {
-      "id": "FL-afd76f7aaf2e",
+      "id": "FL-555d57ee1dad",
+      "date": "2026-10-01",
+      "dateISO": "Thu, 01 Oct 2026 18:51:05 GMT",
+      "ts": 1790880665000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Take The Power Back | Explosion of AI Data Centers Across the US - WCIV",
+      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPUHl4RDI5Z1hUZjAyc2J6ZFRFWlBaYzV1NmFHZTBBS3hHczExVmRyQmVsdU9hNU5RQkJLaU1jT3lpLU42elJxUWMtYkE0MXViYUVKRXRVVndOLUFXUHN6UWNZV1VpNmhBc1g0ZTFEMktwS1dvOVhtOEdwdWZiZ2I4QzZGb1pqb1BDSks5ZlM4RUxuTlZCd0l1M0ljNHREeGc5Q2RMU1loNnZGdmdXcjBaSlY3NElrMXYwaXluWkVzdVRvNVF3eUtPc25xRTJMckIyVFYwTVFNUG5ORkNEaUJqSUJkX1RpeURocDk5MlJqcjZncmVzdENYaUxyQW04UDNZMmVmV1ZnaTZyY2l4aVZlMVM1VFFSYnpacTNscENFTUdybllPRVg0UXRZSGF2OHBLUFM3MHZubTU4cmhuNG5zaWxQdHczaHJ1Y0JpdnVpd3NhNXk2YWR6SGxNYmpJQ0U0SXZXX0lQREdwMDFrZlZCai1LU0g5bUNjcG9MV0VR?oc=5",
+      "site": "WCIV",
+      "siteUrl": "https://abcnews4.com"
+    },
+    {
+      "id": "FL-2472e0a3bccb",
       "date": "2026-10-01",
       "dateISO": "Thu, 01 Oct 2026 18:02:35 GMT",
       "ts": 1790877755000,
       "scope": "intl",
       "type": "blast",
-      "title": "2 Kingfisher employees injured during flash explosion at city power plant - KOCO",
+      "title": "2 Kingfisher employees injured during flash explosion at city power plant - koco.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcktlRDd5ME10U004RmpGSVRrLUpPUVFUb2RBRldBcmFpZUNaVUVwSFZIWGdscGlZaG90MXVhUVhpbVluWDdLRjVOTmw2bmJWVG5TNHRMN1VNbUFpbXdUdmR6S3VQNTRMME52LTBjUlBhVHU5RXZTclBnLWNkdV83LVhVeTdyRXFCZndSZDlnMXBuUXctOG4td2c4UGc3aDcwZnRtUA?oc=5",
-      "site": "KOCO",
+      "site": "koco.com",
       "siteUrl": "https://www.koco.com"
     },
     {
