@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T21:37:56.505Z",
+  "updated": "2026-10-01T21:50:21.888Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -171,6 +171,18 @@
       "siteUrl": "https://science.caixin.com"
     },
     {
+      "id": "FL-01685485a83c",
+      "date": "2026-10-01",
+      "dateISO": "Thu, 01 Oct 2026 21:17:49 GMT",
+      "ts": 1790889469000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Rainbow Terrace families call for new investigation into explosion, fire; say city's findings 'unacceptable' - News 5 Cleveland WEWS",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONTlnaXVGOU1PNHlsNWJrSmdmRmxIclV4T1k2SmdpZVhpLXRzZ1ZfemJ4X2NYMEFROGE5a3B0QlY4d1V0U0ZsVERicFdvU042eE1CZlZYVTRZSFIzcnp0a2JaR0RDMDZoQkwtV2syYVRqV202NDlRaDJXTVdURVJiR0NXV2xZdlpJUFVuYVZpRWMxaXlsdUl6aXlVZnN6YlY3MGpDNldoMEJHa2NjcnE4a2pqYWhJNGhtNXpuRkMxVEt3MktJN0tfSjk5Q3RBN2ZIbTh1cVRYeWU1UkYxWUU3TUFiSy1DZE8tLS1BLVJ6U2FkdUtERU9OdFVn?oc=5",
+      "site": "News 5 Cleveland WEWS",
+      "siteUrl": "https://www.news5cleveland.com"
+    },
+    {
       "id": "FL-b98b22a2a0b8",
       "date": "2026-10-01",
       "dateISO": "Thu, 01 Oct 2026 20:57:33 GMT",
@@ -183,28 +195,16 @@
       "siteUrl": "https://news.cnjiwang.com"
     },
     {
-      "id": "FL-afd76f7aaf2e",
+      "id": "FL-4ebb0c4dfeeb",
       "date": "2026-10-01",
-      "dateISO": "Thu, 01 Oct 2026 18:02:35 GMT",
-      "ts": 1790877755000,
+      "dateISO": "Thu, 01 Oct 2026 15:41:00 GMT",
+      "ts": 1790869260000,
       "scope": "intl",
       "type": "blast",
-      "title": "2 Kingfisher employees injured during flash explosion at city power plant - KOCO",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcktlRDd5ME10U004RmpGSVRrLUpPUVFUb2RBRldBcmFpZUNaVUVwSFZIWGdscGlZaG90MXVhUVhpbVluWDdLRjVOTmw2bmJWVG5TNHRMN1VNbUFpbXdUdmR6S3VQNTRMME52LTBjUlBhVHU5RXZTclBnLWNkdV83LVhVeTdyRXFCZndSZDlnMXBuUXctOG4td2c4UGc3aDcwZnRtUA?oc=5",
-      "site": "KOCO",
-      "siteUrl": "https://www.koco.com"
-    },
-    {
-      "id": "FL-4de2179221a7",
-      "date": "2026-10-01",
-      "dateISO": "Thu, 01 Oct 2026 17:58:59 GMT",
-      "ts": 1790877539000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Explosion and Fire at Moscow-Area Chemical Plant, Leaving 7 Dead - united24media.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOUtQSnNvNklvOWQ0OGF1eEVYLUdoZjNpT2hYcllOMm1pX0pvVDZDU291RWp3UkNhV2lFUkExN0NLbEZwd0lJWEstdFU0c2UtYk1CY0lSemFWcldLd2tFZnRxSDczWHpiWlo3NzdiWkVLakJ0UFd5eFdLQ0hwQjRSVElVM25SUDFCZ09mV0c3SDF6NjdkOFpEVVBGYmFXMTVVTFFN?oc=5",
-      "site": "united24media.com",
-      "siteUrl": "https://united24media.com"
+      "title": "Another explosion reported at feed mill in Sheldon, IA - KTIV",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMXNxTlpPZHRTOFlESFNqY1c2RDA5Sm1NNzEtWXZDZ2JDenJzcFFkRlRUbGtwcWh5UE8zQmp5TWZYYlh1UC13ajc5NFQ2VXhsekhpYUdhRWcwck0yOHd5RkZ1dmc5ajNldFV3M2t4ZDZmVmxfZ29Yakk1RThvUFd6R21Rdw?oc=5",
+      "site": "KTIV",
+      "siteUrl": "https://www.ktiv.com"
     },
     {
       "id": "FL-2ed9b31a453d",
@@ -277,18 +277,6 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91MjNOYzJjSVZaVUpOZjQ3OGwtYnBaNUZNZi1BTUg0LXlDcjhueElmdjlqWTI1cF83YkdPdjVEUmo3a1FKSXVPTVhpNkVaVF8wNk5GbkJsVG1kQjAzRUtMWEpJMmgxMzNQcTl5bmRadTc4R2xuUVJEWA?oc=5",
       "site": "央视网",
       "siteUrl": "https://news.cctv.com"
-    },
-    {
-      "id": "FL-e4210ecf8c66",
-      "date": "2026-09-27",
-      "dateISO": "Sun, 27 Sep 2026 07:20:08 GMT",
-      "ts": 1790493608000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Where’s the “intelligence explosion”? - by Ramez Naam - Noahpinion",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TU2dmbkt6OXJTZGRLUndMRHpXbGtBb2Z6c0RRb3lrVzBYdnZURUo3ZHV6Ym9kTUJiQ204enJCamdTZGFEU1N5ZjF0Nk45UjlBbHJvdGdPZVJWRWZPRThhbVN0bnlhZzI5TFNXemJFS3U?oc=5",
-      "site": "Noahpinion",
-      "siteUrl": "https://www.noahpinion.blog"
     },
     {
       "id": "FL-f8061d91b549",
