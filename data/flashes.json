@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T20:03:16.471Z",
+  "updated": "2026-10-01T20:21:51.500Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -195,30 +195,6 @@
       "siteUrl": "https://science.caixin.com"
     },
     {
-      "id": "FL-afd76f7aaf2e",
-      "date": "2026-10-01",
-      "dateISO": "Thu, 01 Oct 2026 18:02:35 GMT",
-      "ts": 1790877755000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "2 Kingfisher employees injured during flash explosion at city power plant - KOCO",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcktlRDd5ME10U004RmpGSVRrLUpPUVFUb2RBRldBcmFpZUNaVUVwSFZIWGdscGlZaG90MXVhUVhpbVluWDdLRjVOTmw2bmJWVG5TNHRMN1VNbUFpbXdUdmR6S3VQNTRMME52LTBjUlBhVHU5RXZTclBnLWNkdV83LVhVeTdyRXFCZndSZDlnMXBuUXctOG4td2c4UGc3aDcwZnRtUA?oc=5",
-      "site": "KOCO",
-      "siteUrl": "https://www.koco.com"
-    },
-    {
-      "id": "FL-03b176b08179",
-      "date": "2026-10-01",
-      "dateISO": "Thu, 01 Oct 2026 17:04:30 GMT",
-      "ts": 1790874270000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Take The Power Back | Explosion of AI Data Centers Across the US - WBMA",
-      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNNFRfQloxUnlfaHlHMmJzR1dRcEZlekRRUk9GajN3Z2lmRW5xVGlPRWNMT0syOU1KWkhuYWZwc2tnZWx5Ti0zUkdjUGRrZzF3MTRzdDZzZV9SU1dSdFNtYWFkQURHQW9lZjhRbEVidDN0WWhHbm44ajI5YVRtcmtqbHl1eF9XUThjZDhiTmstTmlrajBNNFpZcWRCM1RzdmZwZXJZekpzaGNNRDlrVU1hZ0Z6c1FTcGU3UHd2M1hHeFhyRWd3ZzJ3clMtaHVSVG9pZTlpeXVnbmRlUHlNQ2tsZDdlNW5LOTBNbWJKemtnSzVqNVZmVnhwdklhX0c4b2VFNnF0TFM5c1NXU01kQWpEcjB5UVhwb3JqUFlEVU1WOUxMZWxXNGs2d200aDQtR2FmNVBzRVlydGZDQ2x0RTlqelZUTmlSMjlNSjI0OXprTk82MzVfZzZua3h5UDJrS0k?oc=5",
-      "site": "WBMA",
-      "siteUrl": "https://abc3340.com"
-    },
-    {
       "id": "FL-2ed9b31a453d",
       "date": "2026-10-01",
       "dateISO": "Thu, 01 Oct 2026 14:27:33 GMT",
@@ -277,6 +253,18 @@
       "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOczZla3ItZXBJLXJLa3p4UE41ZmNQdHJlMnJ0U3phNGFSUWtWdW43Zi1qelc0MGs4QmIzSkFUU1pQbVc4UUlKeXVGTlpPZWM4eXhvNGUtbFZqQnJmRjl1cV84VWtFanFOYl9RdW04Y09XOU9uNGZva0FGdUFkdlp3TzVXbG9XVlUzOGE5azZXak1tNEVYWWhVMGc3OVFBMG1MdHJIOV9rS1pRRDJ3UEU0b0dqdzEwVEcyMWphN3piMWJJLVRONzZ6UzJXWXNLbnBoZC12Y0JMRGVfcU90WGIyMTUzVzIyWjFCckMtWHNsaHk0RTBBeHZoQlY1c0lEQnlKTkZKeEw1X1I0Znl6N1ZvSk1HMUM2eFF4cEs1MGpUV2RUYWRCaHZZNXhHcVM1VXhhaGVNZXFtdkltSDBxai05bVZlNXo2NTh1WHdIWg?oc=5",
       "site": "SWI swissinfo.ch",
       "siteUrl": "https://www.swissinfo.ch"
+    },
+    {
+      "id": "FL-425545c97fbe",
+      "date": "2026-10-01",
+      "dateISO": "Thu, 01 Oct 2026 00:44:27 GMT",
+      "ts": 1790815467000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Gunmen kill 7 on bus in Syria as pipeline blast knocks out 3 power plants - aljazeera.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQkh4dkxHazZ2OE1BNDdzSmZhZGZsYXlNd01idGxlLXF0T1VwSkxhUWtlZ2g2SjhqME5IWWF2M2xPZ1NOZk03Z05BX0x2cEVhUkVYSzV4TDBxR2E0VE8zd1Zmem12NnYyN0NpTDdFaFhGaDZ5LU5jY3h3clFzTlZkX0NHT0xZdWhONUZFR0IyMFREYXZoenJfZ01WS1BtVkhxTTdXUHV6TVXSAa4BQVVfeXFMTl9lT2I4LW8zSEc0QmVza3FUMmVlc3lWYWZOWlpjWkZieXhpakhMbzZKcmF4aXhLRWE2bUFUWWdIN3NwU28tQVF2LWV6OXJ2T0ZsOUpsaXpxMFEyaDBlaHlBTDhwczhienhyQURmc0hESHlpZ3c3THh2N2pxdHlUVWJwc3RZTjdnOFJwcXVvd2VScjVYQ3RRdDhLUURXdlpRTzBfV0s1dU51WWg3UnBR?oc=5",
+      "site": "aljazeera.com",
+      "siteUrl": "https://www.aljazeera.com"
     },
     {
       "id": "FL-97a6c61c8b75",
