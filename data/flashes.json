@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T21:20:25.978Z",
+  "updated": "2026-10-01T21:37:56.505Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -171,18 +171,6 @@
       "siteUrl": "https://science.caixin.com"
     },
     {
-      "id": "FL-6612abd30963",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 07:00:00 GMT",
-      "ts": 1789628400000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "宇宙大爆炸最初五分钟氦丰度获最精确测量 - 中国科技网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MzVkcXZnR2UwelNkenFIYVFYVzBPcUxUQ1VSaUVHcV9LYVJnZzhjQWZzM09DNk8wc0xVNlo2amRqNjBueWtVeTdSbkJZT053RjRSZDhmeXJyT19wekF3UHB6WERtZkxLaFFwT2pVWTE?oc=5",
-      "site": "中国科技网",
-      "siteUrl": "https://www.stdaily.com"
-    },
-    {
       "id": "FL-b98b22a2a0b8",
       "date": "2026-10-01",
       "dateISO": "Thu, 01 Oct 2026 20:57:33 GMT",
@@ -205,6 +193,18 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcktlRDd5ME10U004RmpGSVRrLUpPUVFUb2RBRldBcmFpZUNaVUVwSFZIWGdscGlZaG90MXVhUVhpbVluWDdLRjVOTmw2bmJWVG5TNHRMN1VNbUFpbXdUdmR6S3VQNTRMME52LTBjUlBhVHU5RXZTclBnLWNkdV83LVhVeTdyRXFCZndSZDlnMXBuUXctOG4td2c4UGc3aDcwZnRtUA?oc=5",
       "site": "KOCO",
       "siteUrl": "https://www.koco.com"
+    },
+    {
+      "id": "FL-4de2179221a7",
+      "date": "2026-10-01",
+      "dateISO": "Thu, 01 Oct 2026 17:58:59 GMT",
+      "ts": 1790877539000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Explosion and Fire at Moscow-Area Chemical Plant, Leaving 7 Dead - united24media.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOUtQSnNvNklvOWQ0OGF1eEVYLUdoZjNpT2hYcllOMm1pX0pvVDZDU291RWp3UkNhV2lFUkExN0NLbEZwd0lJWEstdFU0c2UtYk1CY0lSemFWcldLd2tFZnRxSDczWHpiWlo3NzdiWkVLakJ0UFd5eFdLQ0hwQjRSVElVM25SUDFCZ09mV0c3SDF6NjdkOFpEVVBGYmFXMTVVTFFN?oc=5",
+      "site": "united24media.com",
+      "siteUrl": "https://united24media.com"
     },
     {
       "id": "FL-2ed9b31a453d",
@@ -279,6 +279,18 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
+      "id": "FL-e4210ecf8c66",
+      "date": "2026-09-27",
+      "dateISO": "Sun, 27 Sep 2026 07:20:08 GMT",
+      "ts": 1790493608000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Where’s the “intelligence explosion”? - by Ramez Naam - Noahpinion",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TU2dmbkt6OXJTZGRLUndMRHpXbGtBb2Z6c0RRb3lrVzBYdnZURUo3ZHV6Ym9kTUJiQ204enJCamdTZGFEU1N5ZjF0Nk45UjlBbHJvdGdPZVJWRWZPRThhbVN0bnlhZzI5TFNXemJFS3U?oc=5",
+      "site": "Noahpinion",
+      "siteUrl": "https://www.noahpinion.blog"
+    },
+    {
       "id": "FL-f8061d91b549",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
@@ -310,9 +322,9 @@
       "scope": "intl",
       "type": "blast",
       "title": "雅典老城区爆炸事故致6死3伤 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PalBtWlYtLVkyQmRpWkxjQ1lOLS1VOEVsbUk2NGs2MV93ZUh0NnJodTBpS0Y3dnNEVExwWEE3Q0UxWjR1V3hUV2ZsSTZLOHVCSHllY0cydlQxbjVZcUNVVg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xTGZlLXJTZlVuMEx6c1BjOFNNcWxlQ25OUW5JdFh5TTh0S0tMZHVGa09ZT3AxZnZ6cGFPT0dRdUZlTHFfaC1IVTRHckdIR2ZvTXNpdlFJUnFZc29PdFBJMGZjMXJjUQ?oc=5",
       "site": "东方财富",
-      "siteUrl": "https://wap.eastmoney.com"
+      "siteUrl": "https://finance.eastmoney.com"
     },
     {
       "id": "FL-53093e91fe3a",
