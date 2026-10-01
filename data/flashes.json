@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-01T05:29:37.715Z",
+  "updated": "2026-10-01T05:42:51.542Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-3e19f8f479af",
+      "date": "2026-09-30",
+      "dateISO": "Wed, 30 Sep 2026 22:44:53 GMT",
+      "ts": 1790808293000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Attorneys Split on Sentencing Recommendation As Men Charged in HMS Explosion Await Hearing - The Harvard Crimson",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ObXZCd08xT09SQXdacUJHX3htQ04td2ZwSEFzQ2VyYVA5ZU5hMUg0Nkszc3JTMVNRMzg2TF82WkVKUVpqMGlZWVdXQzBSRnRKQ2g3UmhNdVZGT0J4WWttZ2FjMnZjLUtIeTBfM0wxZTlha29WR2hj?oc=5",
+      "site": "The Harvard Crimson",
+      "siteUrl": "https://www.thecrimson.com"
+    },
     {
       "id": "FL-103bb432ef92",
       "date": "2026-09-30",
@@ -25,18 +37,6 @@
       "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPTnkxTGU0cTdDbEFjc1k5aDNPWi1GakladWZfME9ValRzUVhXekYxTmVCZDZ3cGZPMDFnQzhhN1BneXMyR09EVkc3UkVfUTdTdWw0bjVxTjhmVkMyZXZTM3ZHR1ZzSHFRaS1IclB2ZktIQ004ZjNGRlR4UUZJTEtpN3BIaVpqemNvRmZtN2puVXk0RzFualV1MWJwSUFqWXJ1ckFtVE9yWk5uVllNODZNd2tpSVRkazR6V2ozbmRubkdENTlmTW9hZlBxaUE3b3VJQk96Z3FWd25xWXowREFxZno0UXNnaEp4SWpLRGpmYkpfTmRmdl8ybTRxNUpKYzNXc0pLUFVlUExvOURPOU9DMldtRWxTbjM1MzFwZkZKTllRaHBqQlNHV2YtVW5EcHF1c3NKTS1fQjZKLWtvWTJwWkgxOFlPZHB0UTh3cWxnMXduV2RCc1dyLU5taWN1Y1Z2a3NNMG9hekVpb2o3UnRUVFhSbEFBSVlDZzBjS1RLT2dqZ0VOQkVYSXlya1Q?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr"
-    },
-    {
-      "id": "FL-708943aeaa30",
-      "date": "2026-09-30",
-      "dateISO": "Wed, 30 Sep 2026 14:02:00 GMT",
-      "ts": 1790776920000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Coroner called to explosion that ‘obliterated’ Perry County home - PennLive.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeU1FV3pEVXU4Sm4tZHZKVUx3REpCajN3S29EOFU1VDNmRHNCTk9Mb2FKcGNRdmFYUDB1VE16V2Z2eE5YNnYxLUYyT01uRjVQS0NhSjkyMS00TlczMGIxUFR4SWZKX2JNZzBaNHdMWGwyb1JIbk01UnlFRWZCUklIbG9vRERldUZISHNabVZJUm1Pam92OFl5ak1BbEdlM0VzMmVXSzRGQk_SAbwBQVVfeXFMTWJLTmlmUkRfTUpFVEdMbjQwWHczM3pVR2xjZW12M001NlJxdVA4OUFJT3BhX25IbmZIZzY1aXNUb1JUSTd1amRmTExHbzdJaUJwVE1fNWxrczVmSDRJbE10N0RySG9yMDBmZU41eEs2ejliV3AyVEJIRF9vdlZlbERSTnpHTmV1MVJhSi1wTThaRmQxVlhRZTBWN1VQRzhNQVYtQ3dJdDZHd0wzR183UmF2VmV3UU5BQzR4Ty0?oc=5",
-      "site": "PennLive.com",
-      "siteUrl": "https://www.pennlive.com"
     },
     {
       "id": "FL-1439f98136f2",
@@ -135,18 +135,6 @@
       "siteUrl": "https://www.jpchinapress.com"
     },
     {
-      "id": "FL-2c9054983444",
-      "date": "2026-09-30",
-      "dateISO": "Wed, 30 Sep 2026 05:41:00 GMT",
-      "ts": 1790746860000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "韩军要求朝鲜就地雷爆炸道歉 金与正：韩方藉地雷事件挑衅 - gbcode.rthk.hk",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRWRrTjgxdC1TY2ZKRWhnSU9IdTk2TURTRW5pajlRaFZJLWdacUJkLUFlYWJFQTBMM0liYmo0MGk0bWZPQTFwU3c5MHNfdy1VRjBqakhrdnJqdlVfTFFqRDV1Q0dKT3YzQ0V3UHJFMmRZVkZJTFE0M2xaV25WSWlVLXpYT0VkYlV2Mzl4VDJIUEoyT3VBMmY0QThwbE1INE9aR0I0?oc=5",
-      "site": "gbcode.rthk.hk",
-      "siteUrl": "https://gbcode.rthk.hk"
-    },
-    {
       "id": "FL-51fd8cfa8720",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 05:30:16 GMT",
@@ -155,18 +143,6 @@
       "type": "blast",
       "title": "韩军促朝停止边境加固工程并就爆炸事故道歉 - 韩联社",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53LW5adnZTdG1FZHZXQlBveGZtdmZMYmtRUE9OaFhxNlFQdVlNNGtPazhfNVdKZHFnRU1JdUFaMTB2QnhYRHhKX3JicUtNTllPNGwtNWkzYXk1YjZWUWZoQl9YTnBZQ3VwWU9raWJGZFcyWVU4elE?oc=5",
-      "site": "韩联社",
-      "siteUrl": "https://cn.yna.co.kr"
-    },
-    {
-      "id": "FL-659a0f6b2dfe",
-      "date": "2026-09-30",
-      "dateISO": "Wed, 30 Sep 2026 01:57:30 GMT",
-      "ts": 1790733450000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "详讯：联合军司令部认定前沿爆炸属违反停战协定事件 - 韩联社",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2SjlHQll0UUI3V0NNdUUzSWptRDVabHJJR3BIZlFfMURlT1RNTUNkbU53RkxMdUxPN2lDT1c2bWxuSktUUUZPNXNNMWlBbjVMOWZrTnNoeUt0QQ?oc=5",
       "site": "韩联社",
       "siteUrl": "https://cn.yna.co.kr"
     },
@@ -279,16 +255,28 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-7b0987d4867b",
+      "id": "FL-70ccb467ede8",
       "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 08:52:56 GMT",
-      "ts": 1790671976000,
+      "dateISO": "Tue, 29 Sep 2026 09:10:00 GMT",
+      "ts": 1790673000000,
       "scope": "dom",
       "type": "blast",
-      "title": "韩总统要求军方查明非军事区地雷爆炸事故 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE81eHRiaUdKcDhldDlKYnhrcmlrdVRNbEZBeUdIS2ptdTNta291MTFyNlVVeEZQOEJGUDZ6TEI1QVZKb2ZJX3RWQjlXU3A?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://news.ifeng.com"
+      "title": "韩朝非军事区地雷爆炸致3名韩军受伤，韩方怀疑朝方埋雷，李在明要求迅速查明真相 - 上观新闻",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pZFN1QWFhQmZ6aEdRYWtWeU1rb3BKQnNKRkNYaFVlaE92OVliUTBteVZFS2NQMS10R09ka0cxRjA5c1FoSmpJWFZyeUJac0RkY2pzNk5zQy1Hdw?oc=5",
+      "site": "上观新闻",
+      "siteUrl": "https://www.jfdaily.com"
+    },
+    {
+      "id": "FL-6e0d8b25d9a2",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 01:18:15 GMT",
+      "ts": 1790644695000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "爆炸🌋 - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMnQtbGJIVGlaZFBybExuTmJaS25CLTRBWTVrMG5LcnhkTXYtaC1FUXVJSDJfZktfaF93VEhHOEhwQUEwWEU1NVVIU0RNc1hxWWUwYlBXR1VyRnlueUtrYVpXdndLTGVEdm1fTEw0N2pIbGM0UjB2ZlAyMVhwMjhRVjVfaFVzTll0cklidjJ2YUFpU2g2bGJKVVo4cndxZ09Rblc0aHgxNjFtdFJSZlJtSE8tQ3FyZkdSWEE?oc=5",
+      "site": "Moomoo",
+      "siteUrl": "https://www.moomoo.com"
     },
     {
       "id": "FL-385dd58b908a",
@@ -373,6 +361,18 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91MjNOYzJjSVZaVUpOZjQ3OGwtYnBaNUZNZi1BTUg0LXlDcjhueElmdjlqWTI1cF83YkdPdjVEUmo3a1FKSXVPTVhpNkVaVF8wNk5GbkJsVG1kQjAzRUtMWEpJMmgxMzNQcTl5bmRadTc4R2xuUVJEWA?oc=5",
       "site": "央视网",
       "siteUrl": "https://news.cctv.com"
+    },
+    {
+      "id": "FL-e4210ecf8c66",
+      "date": "2026-09-27",
+      "dateISO": "Sun, 27 Sep 2026 07:20:08 GMT",
+      "ts": 1790493608000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Where’s the “intelligence explosion”? - by Ramez Naam - Noahpinion",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TU2dmbkt6OXJTZGRLUndMRHpXbGtBb2Z6c0RRb3lrVzBYdnZURUo3ZHV6Ym9kTUJiQ204enJCamdTZGFEU1N5ZjF0Nk45UjlBbHJvdGdPZVJWRWZPRThhbVN0bnlhZzI5TFNXemJFS3U?oc=5",
+      "site": "Noahpinion",
+      "siteUrl": "https://www.noahpinion.blog"
     },
     {
       "id": "FL-340d5e981918",
