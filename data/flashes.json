@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T11:03:45.660Z",
+  "updated": "2026-10-01T11:21:25.923Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -39,15 +39,15 @@
       "siteUrl": "https://news.china.com"
     },
     {
-      "id": "FL-902bc8004a5f",
+      "id": "FL-c4e3d68b0d5c",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 13:26:30 GMT",
       "ts": 1790774790000,
       "scope": "dom",
       "type": "blast",
-      "title": "学校引爆爆炸物炸伤自身 马国12岁男童被捕 - 联合早报",
+      "title": "学校引爆爆炸物炸伤自身 马国12岁男童被捕 - zaobao.com.sg",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCZEM1cDgyc2NLcHBYLXNkWUJsZ21LMEMtRUlfTFpDSGRxQ0pKcW5wMkl3Q1V2YXdaX2E1OG1oZmxYeWk0ZlJBRnl0cmdXLUlPbWVHN0RGU2JVU1B1dURGamtmRG1aUkU?oc=5",
-      "site": "联合早报",
+      "site": "zaobao.com.sg",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
@@ -111,15 +111,15 @@
       "siteUrl": "https://www.jpchinapress.com"
     },
     {
-      "id": "FL-5dcec6f8f4b8",
+      "id": "FL-5238b77d6b45",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 06:31:00 GMT",
       "ts": 1790749860000,
       "scope": "dom",
       "type": "blast",
-      "title": "韩军促朝停止边境加固工程并就爆炸事故道歉 - zaochenbao.com",
+      "title": "韩军促朝停止边境加固工程并就爆炸事故道歉 - 早晨报",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WVmxUUWxZSWtKbjV6X3hGcks2bXV5RmhVVG5xZDdWTlhfeEZKak1OLUlOSEtZcHA5NENIbVljdVZ5czhmaUVJUkpyVHhPbS1FckVyQmRNVlR5bU5aYTVtaGw5dTZLOGpnYkZWNQ?oc=5",
-      "site": "zaochenbao.com",
+      "site": "早晨报",
       "siteUrl": "https://www.zaochenbao.com"
     },
     {
@@ -135,15 +135,15 @@
       "siteUrl": "https://chinese.joins.com"
     },
     {
-      "id": "FL-3e0c13e63420",
+      "id": "FL-f1d79e441207",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 01:30:06 GMT",
       "ts": 1790731806000,
       "scope": "dom",
       "type": "blast",
-      "title": "金与正回应地雷爆炸事件 - 京报网",
+      "title": "金与正回应地雷爆炸事件 - news.bjd.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PaDliMnJyaU9MRy1yRmhCMXJpR1MzT2E5eWNyZFZLajR2bjlINXBVUjVSMkNySEN1WkV2VXM2cjBTSTVkZGhWcm9CZmxCQUpDY1FLOVh1elpKOHRtbmc?oc=5",
-      "site": "京报网",
+      "site": "news.bjd.com.cn",
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
@@ -171,16 +171,28 @@
       "siteUrl": "https://news.china.com"
     },
     {
-      "id": "FL-ef82b85f10e4",
+      "id": "FL-b86fe1c5ea63",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 23:38:28 GMT",
       "ts": 1790725108000,
       "scope": "dom",
       "type": "blast",
-      "title": "金与正回应地雷爆炸事件 - 凤凰网",
+      "title": "金与正回应地雷爆炸事件 - news.ifeng.com",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Xbno4WW02eDRpWDYxVmtYNk9yUGNtaWhFQi1kVVJNd2JabFo5WTF0OVpGWVlQNElFSlVtblZFaVlqdlVVdTBfNnNkRzE?oc=5",
-      "site": "凤凰网",
+      "site": "news.ifeng.com",
       "siteUrl": "https://news.ifeng.com"
+    },
+    {
+      "id": "FL-123dd3a89afe",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 19:23:13 GMT",
+      "ts": 1790709793000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "英国警方：在与美军基地事件有关的车辆中未发现简易爆炸装置 - 美国之音",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSVlvVjVneDN3c19qbFRzdFBsWGJ3YUkyLWUwOVFONGxHLWZoUHJxU2s3M0FBWFFCRnM3YXhPT3hZRVpGczZnSnVHNkluTHM1eEZ0YnhyVlBUb1lydllxSjd3ZU1vdk5LV3NnU0hwSFdpelA3WFpCRkNxaGNmWFY5bmt2aWlGa1g5Q09oRGxtZXhScWs3T21VUFd1ZzhqSnZkNm1jSHdmNWU3UUtnSlZHbEJ5Mmh0bEE4NUk3WEsxdDNfbnVxeXhEaVVFQUhDYUM4OXJYYW5FVllBZkRud0lmMzdIXzU1Z194NnYtS0ln0gHwAUFVX3lxTE1pZzgzMlpIenpKYkVKV1ZQNXl0SWh2a0JZOHBEMVhzc1MzU2lpNG9mbzVVN0hiRTBIWi1WTU9rYXJZdDc0eVA5S1ZYTGQtQ3JmNWJ0VTNOOXMtX2dxdURHVUZ6bU5xOUR0ZWQ5QWZvcFI5NHRkM01Sd2kyOTNfRk9VckJBT0hpck5hVUxvWWRNWk05d3lsc2JmUHRYV2hET2s2SVZWZ3FxblU5azdwdVZkZTBIel9Udmk2VDhWS3p2ZGZ1Y1V1Z1FDLWh6eDRzVXRtUHNPcU5BT3BzaVJHV1AydUVsbGx5bkNRdnpKQnpFQQ?oc=5",
+      "site": "美国之音",
+      "siteUrl": "https://www.voachinese.com"
     },
     {
       "id": "FL-4ecd64efdc33",
@@ -231,15 +243,15 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-e67ae08b22c3",
+      "id": "FL-70ccb467ede8",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 09:10:00 GMT",
       "ts": 1790673000000,
       "scope": "dom",
       "type": "blast",
-      "title": "韩朝非军事区地雷爆炸致3名韩军受伤，韩方怀疑朝方埋雷，李在明要求迅速查明真相 - jfdaily.com",
+      "title": "韩朝非军事区地雷爆炸致3名韩军受伤，韩方怀疑朝方埋雷，李在明要求迅速查明真相 - 上观新闻",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pZFN1QWFhQmZ6aEdRYWtWeU1rb3BKQnNKRkNYaFVlaE92OVliUTBteVZFS2NQMS10R09ka0cxRjA5c1FoSmpJWFZyeUJac0RkY2pzNk5zQy1Hdw?oc=5",
-      "site": "jfdaily.com",
+      "site": "上观新闻",
       "siteUrl": "https://www.jfdaily.com"
     },
     {
@@ -253,6 +265,18 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1rX0hPSUZpSWlNcUdVSU9zV1R1Zk14X0JNS3Y2SUMxTnBQZHFlcWVQUWctUktXYTZWMTNMWExndlhrMkI1czVWOGhUUWdlZmxtNFhhcGFycnhOVENJZmRZb2ZRYWc5dEZ6VUtYRFp2TGRfNnc?oc=5",
       "site": "guancha.cn",
       "siteUrl": "https://www.guancha.cn"
+    },
+    {
+      "id": "FL-99bfec49823e",
+      "date": "2026-10-01",
+      "dateISO": "Thu, 01 Oct 2026 11:16:31 GMT",
+      "ts": 1790853391000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "疑受网暴内容影响自制爆炸物 华小生暗藏包包带入校园引爆 - news.seehua.com",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wS0d5dzA5Nlo4UWZYUm01ekZuRVJqbXlCRHAtanhUQkRCTWdCeEJrV1pkbnBvU24xang2WVNzZ1VDU2pCWWdSejdwWVFjUQ?oc=5",
+      "site": "news.seehua.com",
+      "siteUrl": "https://news.seehua.com"
     },
     {
       "id": "FL-8f4c2f66206c",
@@ -277,18 +301,6 @@
       "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOczZla3ItZXBJLXJLa3p4UE41ZmNQdHJlMnJ0U3phNGFSUWtWdW43Zi1qelc0MGs4QmIzSkFUU1pQbVc4UUlKeXVGTlpPZWM4eXhvNGUtbFZqQnJmRjl1cV84VWtFanFOYl9RdW04Y09XOU9uNGZva0FGdUFkdlp3TzVXbG9XVlUzOGE5azZXak1tNEVYWWhVMGc3OVFBMG1MdHJIOV9rS1pRRDJ3UEU0b0dqdzEwVEcyMWphN3piMWJJLVRONzZ6UzJXWXNLbnBoZC12Y0JMRGVfcU90WGIyMTUzVzIyWjFCckMtWHNsaHk0RTBBeHZoQlY1c0lEQnlKTkZKeEw1X1I0Znl6N1ZvSk1HMUM2eFF4cEs1MGpUV2RUYWRCaHZZNXhHcVM1VXhhaGVNZXFtdkltSDBxai05bVZlNXo2NTh1WHdIWg?oc=5",
       "site": "SWI swissinfo.ch",
       "siteUrl": "https://www.swissinfo.ch"
-    },
-    {
-      "id": "FL-55884ce00124",
-      "date": "2026-10-01",
-      "dateISO": "Thu, 01 Oct 2026 07:02:31 GMT",
-      "ts": 1790838151000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Firefighters battle fire at ABC Junkyard in Waiawa after explosions reported - Hawaii News Now",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVTI5UlAzb0VqYmh1RHdESWNiZzVtQWRYNjQtd2tXSUdqLWh1OHVCaUpYNVV5WWhsOWc0TGVqNGQwYVVEaUJ1dGJSQ3lBaGNyd1ZfWkFpUHJJNzd6Wmt4S3BLYlp5cUlHZXFIaGxyWXJmWXJ0UXNLRTRlRDlmNThHQkQ4bFFHTEJBRUwya0JmREpSNy12MDRkN1pYbUJHREpPTmtFUGU3MC0waFlzcmdybW1NMURwaEtfVlE?oc=5",
-      "site": "Hawaii News Now",
-      "siteUrl": "https://www.hawaiinewsnow.com"
     },
     {
       "id": "FL-ec99c3dc11e5",
@@ -399,15 +411,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-37ae5c7b2505",
+      "id": "FL-14d5d846c7ad",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 13:34:10 GMT",
       "ts": 1789824850000,
       "scope": "dom",
       "type": "blast",
-      "title": "叙利亚东部爆炸致过渡政府国防部11人死亡 - 新华网客户端",
+      "title": "叙利亚东部爆炸致过渡政府国防部11人死亡 - app.xinhuanet.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa21SSnpRaWdxQy1GYVBmWi1LQ3VzQ0xwZUwzTE9rSVRuLXhac2xTZl9wYlB5c2RoQkRYY1pfbDRZWmF3RFdFZXg4M3NSZ0s0alQ2XzRtUFI0SjR2R2FidlRXZ3pOckwtM20zaFNtR0h4bjFBdTdsZW9yeEpoampleUFNajd4NDVaUElBYTgxUG5vQzRoWjFIcGhn?oc=5",
-      "site": "新华网客户端",
+      "site": "app.xinhuanet.com",
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
