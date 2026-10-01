@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T20:39:06.758Z",
+  "updated": "2026-10-01T20:50:59.600Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -75,39 +75,39 @@
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
-      "id": "FL-3e0c13e63420",
+      "id": "FL-f1d79e441207",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 01:30:06 GMT",
       "ts": 1790731806000,
       "scope": "dom",
       "type": "blast",
-      "title": "金与正回应地雷爆炸事件 - 京报网",
+      "title": "金与正回应地雷爆炸事件 - news.bjd.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PaDliMnJyaU9MRy1yRmhCMXJpR1MzT2E5eWNyZFZLajR2bjlINXBVUjVSMkNySEN1WkV2VXM2cjBTSTVkZGhWcm9CZmxCQUpDY1FLOVh1elpKOHRtbmc?oc=5",
-      "site": "京报网",
+      "site": "news.bjd.com.cn",
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-3eacb9a83667",
+      "id": "FL-19969bf0e95b",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 00:22:00 GMT",
       "ts": 1790727720000,
       "scope": "intl",
       "type": "blast",
-      "title": "韩国称朝韩非军事区爆炸“极可能”由朝鲜地雷引发 - 华尔街日报中文版",
+      "title": "韩国称朝韩非军事区爆炸“极可能”由朝鲜地雷引发 - cn.wsj.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMUJvdjRWWjNmY1pDa05Qall1Z3RmSmdzTHVCT3IwY2VoZVJsMW1ERVNKSjRzbkh2NDJtVTVCUXVBQlhkMk8tYk96MU9FMDV0ZWpkMWdLbmdBcVZOYWd4S0ZjNHU3NHRib2pteFZmcFM4Ynp2Ui1FS1dWUUUyY0kzRV9pTHdoalpYZzV4WmJkalItemxLZW9tZmlDQmV4TFJTcDNsMWo1MzE?oc=5",
-      "site": "华尔街日报中文版",
+      "site": "cn.wsj.com",
       "siteUrl": "https://cn.wsj.com"
     },
     {
-      "id": "FL-ef93ea014fdf",
+      "id": "FL-dd5df27ab4d6",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 00:11:43 GMT",
       "ts": 1790727103000,
       "scope": "dom",
       "type": "blast",
-      "title": "星舰溅落时发生剧烈爆炸 着陆过程充满挑战 - 中华网",
+      "title": "星舰溅落时发生剧烈爆炸 着陆过程充满挑战 - news.china.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03NnVPRThLZkV2Tmw1cWRUQ2tTV1ZsSThmQ1ZsYTk0NW5ma2xmM1BKNGVveGdIMWRpaXg0SXZmVFE5QWlLWXFLcUxyZmI5YWNER25jcVg1ay1XajhqYmljSXhnd3g5MGsxbzhBOFpDcWI?oc=5",
-      "site": "中华网",
+      "site": "news.china.com",
       "siteUrl": "https://news.china.com"
     },
     {
@@ -195,6 +195,30 @@
       "siteUrl": "https://science.caixin.com"
     },
     {
+      "id": "FL-2472e0a3bccb",
+      "date": "2026-10-01",
+      "dateISO": "Thu, 01 Oct 2026 18:02:35 GMT",
+      "ts": 1790877755000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "2 Kingfisher employees injured during flash explosion at city power plant - koco.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcktlRDd5ME10U004RmpGSVRrLUpPUVFUb2RBRldBcmFpZUNaVUVwSFZIWGdscGlZaG90MXVhUVhpbVluWDdLRjVOTmw2bmJWVG5TNHRMN1VNbUFpbXdUdmR6S3VQNTRMME52LTBjUlBhVHU5RXZTclBnLWNkdV83LVhVeTdyRXFCZndSZDlnMXBuUXctOG4td2c4UGc3aDcwZnRtUA?oc=5",
+      "site": "koco.com",
+      "siteUrl": "https://www.koco.com"
+    },
+    {
+      "id": "FL-4de2179221a7",
+      "date": "2026-10-01",
+      "dateISO": "Thu, 01 Oct 2026 17:58:59 GMT",
+      "ts": 1790877539000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Explosion and Fire at Moscow-Area Chemical Plant, Leaving 7 Dead - united24media.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOUtQSnNvNklvOWQ0OGF1eEVYLUdoZjNpT2hYcllOMm1pX0pvVDZDU291RWp3UkNhV2lFUkExN0NLbEZwd0lJWEstdFU0c2UtYk1CY0lSemFWcldLd2tFZnRxSDczWHpiWlo3NzdiWkVLakJ0UFd5eFdLQ0hwQjRSVElVM25SUDFCZ09mV0c3SDF6NjdkOFpEVVBGYmFXMTVVTFFN?oc=5",
+      "site": "united24media.com",
+      "siteUrl": "https://united24media.com"
+    },
+    {
       "id": "FL-2ed9b31a453d",
       "date": "2026-10-01",
       "dateISO": "Thu, 01 Oct 2026 14:27:33 GMT",
@@ -219,15 +243,15 @@
       "siteUrl": "https://ua.news"
     },
     {
-      "id": "FL-f7b6810bb2c4",
+      "id": "FL-ec99c3dc11e5",
       "date": "2026-10-01",
       "dateISO": "Thu, 01 Oct 2026 11:50:00 GMT",
       "ts": 1790855400000,
       "scope": "intl",
       "type": "blast",
-      "title": "‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years - theguardian.com",
+      "title": "‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOHotQmcyZWt5ZUpHZ1lfZ1F3M0pkQVNBOF9KTTQwUmdLOWZjQkdsRnhpYVNXdWU4S0tQSVFWY1VwYkZCcnVRVWtVRkE5NFlMLWk4QmtydHQwSlJBb0dYMWdTZ1gyenVJZXJQVVdncG5EZkxSbGlBYS1POUZlYUdYN2VWcC1nRE5FTk42VVdPWWRxSGlXZG1nY3FWNVduWnVLQXVzenBLdWs?oc=5",
-      "site": "theguardian.com",
+      "site": "The Guardian",
       "siteUrl": "https://www.theguardian.com"
     },
     {
@@ -327,15 +351,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-435013707dbb",
+      "id": "FL-f4f7ceda2939",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 21:06:34 GMT",
       "ts": 1790456794000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典老城区爆炸事故致6死3伤 - 东方财富",
+      "title": "雅典老城区爆炸事故致6死3伤 - finance.eastmoney.com",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xTGZlLXJTZlVuMEx6c1BjOFNNcWxlQ25OUW5JdFh5TTh0S0tMZHVGa09ZT3AxZnZ6cGFPT0dRdUZlTHFfaC1IVTRHckdIR2ZvTXNpdlFJUnFZc29PdFBJMGZjMXJjUQ?oc=5",
-      "site": "东方财富",
+      "site": "finance.eastmoney.com",
       "siteUrl": "https://finance.eastmoney.com"
     },
     {
