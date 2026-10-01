@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T18:35:07.683Z",
+  "updated": "2026-10-01T18:51:31.487Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -25,6 +25,18 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeDhUaV81UDg3bzJXeEpsbGxOWFRJZ29neXdGY1BCdGJpem53bF9QNEh1cGZodWUyZW9yYjJNM1VMbFNTeW1MZHdzUU1RV3otMVZqc2gwUThHMFJzLTlza2pfa0ItVU4zWjllLVdSdEJxcm1aa1BpN3p6OEtBUUtXelJqUXZXNEgtWDRuZg?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-b9db7cd7a655",
+      "date": "2026-09-30",
+      "dateISO": "Wed, 30 Sep 2026 11:00:00 GMT",
+      "ts": 1790766000000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "俄無人機襲基輔國家科學院 大樓爆炸多人傷亡 - 新唐人電視台",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lYlpBYUN5ZmNtdnJvNWE2R0xrMVZxNVFJcmJqV05tb2U1Smp1cHVQdFJlQkZVWmt0c3h4cE9WUEE1b2RzUWRhQ3BPU1FMLVNFcXpISTAzTjdlZXdMLUpnYdIBZkFVX3lxTFB2N2hqLXN5bDFJcDM1V0NNOGJqM1dabWI2eExnbk81RlVpNlY3OTdVNGZZVW9XeWsyeW95MkEzWXQ4UG5mRUdBM0dHZjlIbncxNG1BVTlMTThVRUhrM0Vvc3EtYUc1UQ?oc=5",
+      "site": "新唐人電視台",
+      "siteUrl": "https://www.ntdtv.com"
     },
     {
       "id": "FL-593edf453047",
@@ -171,16 +183,16 @@
       "siteUrl": "https://science.caixin.com"
     },
     {
-      "id": "FL-8496239c815d",
+      "id": "FL-afd76f7aaf2e",
       "date": "2026-10-01",
-      "dateISO": "Thu, 01 Oct 2026 17:08:59 GMT",
-      "ts": 1790874539000,
+      "dateISO": "Thu, 01 Oct 2026 18:02:35 GMT",
+      "ts": 1790877755000,
       "scope": "intl",
       "type": "blast",
-      "title": "Take The Power Back | Explosion of AI Data Centers Across the US - kfoxtv.com",
-      "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNUElKejJvb0NWa19NNERXTVdXQVRVanpuWFVnXzNMcm5lSk9wZ2doYXNueGV1NG9YV2FTbExSWXI0SHMzRmpfTEE4YzNxazBEdVlpVy1FZU9JTkMwbzgzZzlxQVo0UWg4LWt5dW9Fbm5hY2lwZXAyWlNUbFhjSi1VdjVMdnBpOEJ4dVB4cUhnS3pxOTFhZ1owa3FnMTV4NXVTTDVUTE5adUxVVUZlMUpkVU9Td2R5U3N5MUZiTnZoZDFQVU5tZ2U4VnVBSTBEWk9MM1dlNEJTcW5weGpKdHJBSXBoamszVHN2T1o5SFhTTW1YZEdhQUoyN2RmbUFYU1BOYlp5VjBVb29vQU5RWnJaOFNuNFNkX0YxR3pSaDVMcGZ2VmlBUlROLXZ3RklMMWNsTGRmbGVGVDViLTdDS3FuS2RDSzVtUkNybWNUVU9iSVVIenNzMEJRc2h5dmFRTjZNWVRzQldORmpHTU1PRjRVNDBRNGlyRmhFbjd3?oc=5",
-      "site": "kfoxtv.com",
-      "siteUrl": "https://kfoxtv.com"
+      "title": "2 Kingfisher employees injured during flash explosion at city power plant - KOCO",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcktlRDd5ME10U004RmpGSVRrLUpPUVFUb2RBRldBcmFpZUNaVUVwSFZIWGdscGlZaG90MXVhUVhpbVluWDdLRjVOTmw2bmJWVG5TNHRMN1VNbUFpbXdUdmR6S3VQNTRMME52LTBjUlBhVHU5RXZTclBnLWNkdV83LVhVeTdyRXFCZndSZDlnMXBuUXctOG4td2c4UGc3aDcwZnRtUA?oc=5",
+      "site": "KOCO",
+      "siteUrl": "https://www.koco.com"
     },
     {
       "id": "FL-03b176b08179",
@@ -313,18 +325,6 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91MjNOYzJjSVZaVUpOZjQ3OGwtYnBaNUZNZi1BTUg0LXlDcjhueElmdjlqWTI1cF83YkdPdjVEUmo3a1FKSXVPTVhpNkVaVF8wNk5GbkJsVG1kQjAzRUtMWEpJMmgxMzNQcTl5bmRadTc4R2xuUVJEWA?oc=5",
       "site": "央视网",
       "siteUrl": "https://news.cctv.com"
-    },
-    {
-      "id": "FL-e4210ecf8c66",
-      "date": "2026-09-27",
-      "dateISO": "Sun, 27 Sep 2026 07:20:08 GMT",
-      "ts": 1790493608000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Where’s the “intelligence explosion”? - by Ramez Naam - Noahpinion",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TU2dmbkt6OXJTZGRLUndMRHpXbGtBb2Z6c0RRb3lrVzBYdnZURUo3ZHV6Ym9kTUJiQ204enJCamdTZGFEU1N5ZjF0Nk45UjlBbHJvdGdPZVJWRWZPRThhbVN0bnlhZzI5TFNXemJFS3U?oc=5",
-      "site": "Noahpinion",
-      "siteUrl": "https://www.noahpinion.blog"
     },
     {
       "id": "FL-340d5e981918",
