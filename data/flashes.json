@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T20:21:51.500Z",
+  "updated": "2026-10-01T20:39:06.758Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -219,15 +219,15 @@
       "siteUrl": "https://ua.news"
     },
     {
-      "id": "FL-ec99c3dc11e5",
+      "id": "FL-f7b6810bb2c4",
       "date": "2026-10-01",
       "dateISO": "Thu, 01 Oct 2026 11:50:00 GMT",
       "ts": 1790855400000,
       "scope": "intl",
       "type": "blast",
-      "title": "‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years - The Guardian",
+      "title": "‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years - theguardian.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOHotQmcyZWt5ZUpHZ1lfZ1F3M0pkQVNBOF9KTTQwUmdLOWZjQkdsRnhpYVNXdWU4S0tQSVFWY1VwYkZCcnVRVWtVRkE5NFlMLWk4QmtydHQwSlJBb0dYMWdTZ1gyenVJZXJQVVdncG5EZkxSbGlBYS1POUZlYUdYN2VWcC1nRE5FTk42VVdPWWRxSGlXZG1nY3FWNVduWnVLQXVzenBLdWs?oc=5",
-      "site": "The Guardian",
+      "site": "theguardian.com",
       "siteUrl": "https://www.theguardian.com"
     },
     {
@@ -255,15 +255,15 @@
       "siteUrl": "https://www.swissinfo.ch"
     },
     {
-      "id": "FL-425545c97fbe",
+      "id": "FL-b85d3621ffe3",
       "date": "2026-10-01",
       "dateISO": "Thu, 01 Oct 2026 00:44:27 GMT",
       "ts": 1790815467000,
       "scope": "intl",
       "type": "blast",
-      "title": "Gunmen kill 7 on bus in Syria as pipeline blast knocks out 3 power plants - aljazeera.com",
+      "title": "Gunmen kill 7 on bus in Syria as pipeline blast knocks out 3 power plants - Al Jazeera",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQkh4dkxHazZ2OE1BNDdzSmZhZGZsYXlNd01idGxlLXF0T1VwSkxhUWtlZ2g2SjhqME5IWWF2M2xPZ1NOZk03Z05BX0x2cEVhUkVYSzV4TDBxR2E0VE8zd1Zmem12NnYyN0NpTDdFaFhGaDZ5LU5jY3h3clFzTlZkX0NHT0xZdWhONUZFR0IyMFREYXZoenJfZ01WS1BtVkhxTTdXUHV6TVXSAa4BQVVfeXFMTl9lT2I4LW8zSEc0QmVza3FUMmVlc3lWYWZOWlpjWkZieXhpakhMbzZKcmF4aXhLRWE2bUFUWWdIN3NwU28tQVF2LWV6OXJ2T0ZsOUpsaXpxMFEyaDBlaHlBTDhwczhienhyQURmc0hESHlpZ3c3THh2N2pxdHlUVWJwc3RZTjdnOFJwcXVvd2VScjVYQ3RRdDhLUURXdlpRTzBfV0s1dU51WWg3UnBR?oc=5",
-      "site": "aljazeera.com",
+      "site": "Al Jazeera",
       "siteUrl": "https://www.aljazeera.com"
     },
     {
@@ -291,27 +291,39 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-f8061d91b549",
+      "id": "FL-e4210ecf8c66",
+      "date": "2026-09-27",
+      "dateISO": "Sun, 27 Sep 2026 07:20:08 GMT",
+      "ts": 1790493608000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Where’s the “intelligence explosion”? - by Ramez Naam - Noahpinion",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TU2dmbkt6OXJTZGRLUndMRHpXbGtBb2Z6c0RRb3lrVzBYdnZURUo3ZHV6Ym9kTUJiQ204enJCamdTZGFEU1N5ZjF0Nk45UjlBbHJvdGdPZVJWRWZPRThhbVN0bnlhZzI5TFNXemJFS3U?oc=5",
+      "site": "Noahpinion",
+      "siteUrl": "https://www.noahpinion.blog"
+    },
+    {
+      "id": "FL-340d5e981918",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
       "ts": 1787468400000,
       "scope": "dom",
       "type": "blast",
-      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - news.cn",
+      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-f38e3c0cb20f",
+      "id": "FL-0615dd398028",
       "date": "2026-08-02",
       "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
       "ts": 1785654000000,
       "scope": "intl",
       "type": "blast",
-      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - news.cn",
+      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -339,15 +351,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-23997ed3202f",
+      "id": "FL-5e735aebc1c3",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 11:26:44 GMT",
       "ts": 1790422004000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - news.cn",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlemFCa3lteDlkZERLTXRLMHhpeTIzNmFqanFBczVPaFNjQjVxOHNJNm54Tkhua1FqOGtuaUhBLWdRSWxXaFRoZThQZXJqclRIV1pUaTNhcjhHU0dwRzA1WXNQc2ZOVEhXX0Z1NUVBcnBUalJRWkE3ZlE0S3NOaXM?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -363,27 +375,27 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
-      "id": "FL-5414e00ffd4e",
+      "id": "FL-160d55aeb47e",
       "date": "2026-06-22",
       "dateISO": "Mon, 22 Jun 2026 07:00:00 GMT",
       "ts": 1782111600000,
       "scope": "intl",
       "type": "blast",
-      "title": "卡塔尔工厂爆炸已致13人死亡 - news.cn",
+      "title": "卡塔尔工厂爆炸已致13人死亡 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mR2pTX0YxWjBwQ2lLNC1XZjFhd3IwVEYtWkZFR3ZBU3B5RTFHR1BldmQ3OEkxN2NaWTMzYUkwWENDeEliY3dVNEloOExFS1B6SlZQTENHdWVmTWpUM042M2hRcmo4QS1qdl85cXlhZHJ3R3JGTEU4?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-dbcf7399ae0d",
+      "id": "FL-b042a088a326",
       "date": "2026-08-03",
       "dateISO": "Mon, 03 Aug 2026 07:00:00 GMT",
       "ts": 1785740400000,
       "scope": "intl",
       "type": "blast",
-      "title": "巴基斯坦西北部发生爆炸致14人死亡 - news.cn",
+      "title": "巴基斯坦西北部发生爆炸致14人死亡 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     }
   ]
