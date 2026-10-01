@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T14:40:44.440Z",
+  "updated": "2026-10-01T14:57:52.941Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -123,18 +123,6 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-204d5cc7d240",
-      "date": "2026-09-30",
-      "dateISO": "Wed, 30 Sep 2026 01:25:21 GMT",
-      "ts": 1790731521000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "联合国军司令部判定DMZ爆炸事件违反停战协定 - chinese.joins.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kQ2dKcF9IRGpQTVNZam1MU3ZYYVEwZFI3RVZvQ1VOM3VSc29HMkxyQmpTTGJRZS0talNGYnlJWUc5Z1NDUlVQSjhHTWcxekpMVWp4NFNqaWxrRDhyNFF0Uy1WeGctY1dPWUFZeA?oc=5",
-      "site": "chinese.joins.com",
-      "siteUrl": "https://chinese.joins.com"
-    },
-    {
       "id": "FL-ef93ea014fdf",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 00:11:43 GMT",
@@ -171,15 +159,15 @@
       "siteUrl": "https://www.voachinese.com"
     },
     {
-      "id": "FL-4ecd64efdc33",
+      "id": "FL-14e7b81af1cb",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 13:07:36 GMT",
       "ts": 1790687256000,
       "scope": "dom",
       "type": "blast",
-      "title": "“星舰”溅落时引发剧烈爆炸 - 温州新闻",
+      "title": "“星舰”溅落时引发剧烈爆炸 - 66wz.com",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnbS11aHJWY2hPZTlpbHlXX0pPSjFJcGRpak14OFo0bWF3OGdNV0pxSmVMZkEzcHNFTVNTSWRGTmh2MmVBVEw5cVl5cXZtLTFUSXRSV21ZNlZjZFduOC10ODhHUU9aZDdMNndHdQ?oc=5",
-      "site": "温州新闻",
+      "site": "66wz.com",
       "siteUrl": "https://www.66wz.com"
     },
     {
@@ -243,15 +231,27 @@
       "siteUrl": "https://science.caixin.com"
     },
     {
-      "id": "FL-ec99c3dc11e5",
+      "id": "FL-99f0ebd36c75",
+      "date": "2026-10-01",
+      "dateISO": "Thu, 01 Oct 2026 14:27:33 GMT",
+      "ts": 1790864853000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "埃塞首都傳爆炸聲 反政府武裝稱無人機襲擊 - 大纪元",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1YzVidFkyV0lUWS1lazI0bnNYTHdlN2g3Smd6ZW1jY1FSdERrN0Z3YmpNVmQ2c3RtRlNpNktjNDBKZ1RFczRpNFFneWdWSUcxWUdFTTB4dkstTzIzMVd5adIBZkFVX3lxTFA2dWlueU9yNkdiQmY1UHozcWFiSGdmd1dEUUh6eU12UHhCbVBIMlVfejFZMDRYakN1bk9OQWMzb3RTNWVSSWpsSUxZLU81VXZpWk9YWUVja3hWNUx1X0N5SkVtelpoQQ?oc=5",
+      "site": "大纪元",
+      "siteUrl": "https://www.epochtimes.com"
+    },
+    {
+      "id": "FL-f7b6810bb2c4",
       "date": "2026-10-01",
       "dateISO": "Thu, 01 Oct 2026 11:50:00 GMT",
       "ts": 1790855400000,
       "scope": "intl",
       "type": "blast",
-      "title": "‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years - The Guardian",
+      "title": "‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years - theguardian.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOHotQmcyZWt5ZUpHZ1lfZ1F3M0pkQVNBOF9KTTQwUmdLOWZjQkdsRnhpYVNXdWU4S0tQSVFWY1VwYkZCcnVRVWtVRkE5NFlMLWk4QmtydHQwSlJBb0dYMWdTZ1gyenVJZXJQVVdncG5EZkxSbGlBYS1POUZlYUdYN2VWcC1nRE5FTk42VVdPWWRxSGlXZG1nY3FWNVduWnVLQXVzenBLdWs?oc=5",
-      "site": "The Guardian",
+      "site": "theguardian.com",
       "siteUrl": "https://www.theguardian.com"
     },
     {
