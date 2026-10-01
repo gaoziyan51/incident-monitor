@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T08:40:22.023Z",
+  "updated": "2026-10-01T08:53:34.296Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -39,15 +39,15 @@
       "siteUrl": "https://news.china.com"
     },
     {
-      "id": "FL-c4e3d68b0d5c",
+      "id": "FL-902bc8004a5f",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 13:26:30 GMT",
       "ts": 1790774790000,
       "scope": "dom",
       "type": "blast",
-      "title": "学校引爆爆炸物炸伤自身 马国12岁男童被捕 - zaobao.com.sg",
+      "title": "学校引爆爆炸物炸伤自身 马国12岁男童被捕 - 联合早报",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCZEM1cDgyc2NLcHBYLXNkWUJsZ21LMEMtRUlfTFpDSGRxQ0pKcW5wMkl3Q1V2YXdaX2E1OG1oZmxYeWk0ZlJBRnl0cmdXLUlPbWVHN0RGU2JVU1B1dURGamtmRG1aUkU?oc=5",
-      "site": "zaobao.com.sg",
+      "site": "联合早报",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
@@ -61,18 +61,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeDhUaV81UDg3bzJXeEpsbGxOWFRJZ29neXdGY1BCdGJpem53bF9QNEh1cGZodWUyZW9yYjJNM1VMbFNTeW1MZHdzUU1RV3otMVZqc2gwUThHMFJzLTlza2pfa0ItVU4zWjllLVdSdEJxcm1aa1BpN3p6OEtBUUtXelJqUXZXNEgtWDRuZg?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-7c9f7c2536db",
-      "date": "2026-09-30",
-      "dateISO": "Wed, 30 Sep 2026 12:00:03 GMT",
-      "ts": 1790769603000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "星舰首次地轨飞行溅落时剧烈爆炸 着陆过程不平稳引发关注 - 中华网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OWkRtMVg1aEpwMEFtYTVWU1ZTblNVeG5qdmFvOThhZ0dFVjFOTktPQ3QzLUVJaGtxSHhqRkVwb0M3Zkd1ek9kMHhuM3JrUE80NWZ5RTJFZ1NzT3dZbTliSHhfcU1BN09NRVlzTFZsYnE?oc=5",
-      "site": "中华网",
-      "siteUrl": "https://news.china.com"
     },
     {
       "id": "FL-0c24917f0b0c",
@@ -291,18 +279,6 @@
       "siteUrl": "https://www.cls.cn"
     },
     {
-      "id": "FL-18defd3aaa01",
-      "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 10:55:37 GMT",
-      "ts": 1790679337000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "一颗美国卫星突然爆炸，原因不明 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1JUkxZYUVSMkx6WlpobGd4ZWx4cGZTT3RQVnJ2LTdwN0pmTC1oczJQSEs2S3hVZ1g4c1M4SGdiczZ3SmkzLWVzc3RRM1g?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://news.ifeng.com"
-    },
-    {
       "id": "FL-82dc06a5c594",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 10:23:17 GMT",
@@ -483,16 +459,16 @@
       "siteUrl": "https://emwap.eastmoney.com"
     },
     {
-      "id": "FL-04c00040a075",
+      "id": "FL-0e0d1191daa0",
       "date": "2026-09-28",
-      "dateISO": "Mon, 28 Sep 2026 15:51:05 GMT",
-      "ts": 1790610665000,
+      "dateISO": "Mon, 28 Sep 2026 20:17:00 GMT",
+      "ts": 1790626620000,
       "scope": "dom",
       "type": "blast",
-      "title": "AI研发自动化或引发“智能爆炸”！20多名顶尖研究人员呼吁政府加强监管 - cls.cn",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5XY05paDVKVHg0TEJqRU1sWkJaLXhYM3QydGk4OWI3NlNFRzA3UHpHUTh3cjNxeDhESm1ac3VLeTdHdExCZ3JnTw?oc=5",
-      "site": "cls.cn",
-      "siteUrl": "https://www.cls.cn"
+      "title": "AI研发自动化，或引发“智能爆炸” - 36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5zVE5UaGJST1psVnlPSnRHNGx1bHRhSHY1NGlaNExrbTNqNFN3NExWTWdkODBpVm5GZWFqeFdPTXJaQUhHaG9Mcl9ZbGNidw?oc=5",
+      "site": "36kr.com",
+      "siteUrl": "https://m.36kr.com"
     }
   ]
 }
