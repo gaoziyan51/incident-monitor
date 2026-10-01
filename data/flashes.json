@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T16:03:12.771Z",
+  "updated": "2026-10-01T16:21:43.859Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,15 +15,39 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-5a2379136b28",
+      "id": "FL-1439f98136f2",
+      "date": "2026-09-30",
+      "dateISO": "Wed, 30 Sep 2026 13:58:53 GMT",
+      "ts": 1790776733000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "网媒“爆炸头”邓浩荣落网 国安处再行动拘两人 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53ajNzUENQVGRqclFhZWl2ek43Q2R1dTRoY1BmaTlBaWU4TmF0QlAzcWZiQnhJUnZJbV9HME1OOHJOc3JNazJZZHE2NDVLaGVrOWhWQWZReVRtcXpJZW5XNWo2RFlqUXREcEFTZ21RQS0?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
+    },
+    {
+      "id": "FL-902bc8004a5f",
+      "date": "2026-09-30",
+      "dateISO": "Wed, 30 Sep 2026 13:26:30 GMT",
+      "ts": 1790774790000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "学校引爆爆炸物炸伤自身 马国12岁男童被捕 - 联合早报",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCZEM1cDgyc2NLcHBYLXNkWUJsZ21LMEMtRUlfTFpDSGRxQ0pKcW5wMkl3Q1V2YXdaX2E1OG1oZmxYeWk0ZlJBRnl0cmdXLUlPbWVHN0RGU2JVU1B1dURGamtmRG1aUkU?oc=5",
+      "site": "联合早报",
+      "siteUrl": "https://www.zaobao.com.sg"
+    },
+    {
+      "id": "FL-89279a9651ab",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 12:30:16 GMT",
       "ts": 1790771416000,
       "scope": "dom",
       "type": "blast",
-      "title": "一楼内电动车燃爆起火！逃生通道秒变夺命通道 - sohu.com",
+      "title": "一楼内电动车燃爆起火！逃生通道秒变夺命通道 - 搜狐网",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeDhUaV81UDg3bzJXeEpsbGxOWFRJZ29neXdGY1BCdGJpem53bF9QNEh1cGZodWUyZW9yYjJNM1VMbFNTeW1MZHdzUU1RV3otMVZqc2gwUThHMFJzLTlza2pfa0ItVU4zWjllLVdSdEJxcm1aa1BpN3p6OEtBUUtXelJqUXZXNEgtWDRuZg?oc=5",
-      "site": "sohu.com",
+      "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -39,6 +63,18 @@
       "siteUrl": "https://ua.news"
     },
     {
+      "id": "FL-e0fd1fdea93b",
+      "date": "2026-09-30",
+      "dateISO": "Wed, 30 Sep 2026 07:29:00 GMT",
+      "ts": 1790753340000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "8.31太子站外事件多两人被捕 据悉为「爆炸头」成员及李盈姿 - gbcode.rthk.hk",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYVQtT3FNZ3VEU2puZm5VUHB6VC1GT2VBTDMyejEwMVJPbHVXNnI0YV8tSDlJZmpxU1hNRVNiTEFhUHBZVTYxMHRfeHNBT0N2d0prUTBnYmFsTHFzNmVsWjZlZHdhRFpXTmZnX1pWZXM5a0VHWnVNSXZoUmw4d2RNTG8xWVdSQnVIY2hR?oc=5",
+      "site": "gbcode.rthk.hk",
+      "siteUrl": "https://gbcode.rthk.hk"
+    },
+    {
       "id": "FL-593edf453047",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 06:46:15 GMT",
@@ -49,6 +85,30 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeTZjbzI5VGxZV0xQbDQwdHgxalQ3bjJTSXhlT3VXaFh1cUE3MGhXdUctam9xdUlsemhfdEg3VV9LeDV1THpabGl1c0hVNkhHN3o1dTk5TDM5a1EzZEJyUmx3SzJmWTIzUENmVFdQN01IQWxFa3RBdnNNR2oyU3o4Y0U5dnhtNE5QS3c?oc=5",
       "site": "jpchinapress.com",
       "siteUrl": "https://www.jpchinapress.com"
+    },
+    {
+      "id": "FL-af2cce547279",
+      "date": "2026-09-30",
+      "dateISO": "Wed, 30 Sep 2026 04:43:19 GMT",
+      "ts": 1790743399000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "韩军促朝停止边境加固工程并就爆炸事故道歉 - 联合早报",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3ZnZEaG1GeE9YY2lxS21Uc2RUZVRjWnl1ZlowQWNrN0dfU3N3ejBURkVsaEZnQlBfN2JGV2MzWkl3N3NBUnkyVlpjTEVqazE2Ujd2dmdNbVJ4V1EyNmxrTHJtSnZFelNjNkE?oc=5",
+      "site": "联合早报",
+      "siteUrl": "https://www.zaobao.com.sg"
+    },
+    {
+      "id": "FL-c7896ef61e56",
+      "date": "2026-09-30",
+      "dateISO": "Wed, 30 Sep 2026 02:23:56 GMT",
+      "ts": 1790735036000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "联合国军司令部认定韩朝边境爆炸属违反停战协定事件 - 联合早报",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UZ19NbFN0bUo0X05ld3RCZUVWZzFCajI1Qi0wVlBpZ29MNTFIaWVTVl9raUNBSmZENEI5T29rQlFVNENEWTVVMUFfbWRyaVlUMm1FaWZQcmxfc1NzVnpJSHl0U194ZkhqR1E?oc=5",
+      "site": "联合早报",
+      "siteUrl": "https://www.zaobao.com.sg"
     },
     {
       "id": "FL-3e0c13e63420",
@@ -63,6 +123,18 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
+      "id": "FL-5c89337b78b0",
+      "date": "2026-09-30",
+      "dateISO": "Wed, 30 Sep 2026 00:13:44 GMT",
+      "ts": 1790727224000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "星舰首次完成地球轨道飞行坠海爆炸 任务成果与挑战并存 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HQUhsX0IyaDNhZW9SaUJqcEg4anRjVko0cFRROXFzeDNFS2J4QnR2YVRfTTVDU2pPdHhNWlJwZmI2Zm1yd3JRd2pSX3BuUnIzSmxBUUVRdzR2ci1xRjd4cmMyd19NVl9PUFh3b3hsLWo?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
+    },
+    {
       "id": "FL-ef93ea014fdf",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 00:11:43 GMT",
@@ -73,18 +145,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03NnVPRThLZkV2Tmw1cWRUQ2tTV1ZsSThmQ1ZsYTk0NW5ma2xmM1BKNGVveGdIMWRpaXg0SXZmVFE5QWlLWXFLcUxyZmI5YWNER25jcVg1ay1XajhqYmljSXhnd3g5MGsxbzhBOFpDcWI?oc=5",
       "site": "中华网",
       "siteUrl": "https://news.china.com"
-    },
-    {
-      "id": "FL-710fe48d473f",
-      "date": "2026-06-03",
-      "dateISO": "Wed, 03 Jun 2026 07:00:00 GMT",
-      "ts": 1780470000000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "特别重大瓦斯爆炸事故后 山西煤矿迎来“最严整治” - 中国能源新闻网",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tM3B2anpUNmRxVVRfUk0yOVBuN2ZDNU9uQUJXWEljSEFEX3FXVU5QUWVXZEh0b3drdU5fNXlkXzRvdURYaDZJYXRkN0hUWXJoRXBPcXVud2NpLWRLQUxpMXZTYU5DNnRYbGQ5TVlR?oc=5",
-      "site": "中国能源新闻网",
-      "siteUrl": "https://www.cpnn.com.cn"
     },
     {
       "id": "FL-b86fe1c5ea63",
@@ -121,6 +181,18 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnbS11aHJWY2hPZTlpbHlXX0pPSjFJcGRpak14OFo0bWF3OGdNV0pxSmVMZkEzcHNFTVNTSWRGTmh2MmVBVEw5cVl5cXZtLTFUSXRSV21ZNlZjZFduOC10ODhHUU9aZDdMNndHdQ?oc=5",
       "site": "66wz.com",
       "siteUrl": "https://www.66wz.com"
+    },
+    {
+      "id": "FL-cdd8ba244637",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 12:35:00 GMT",
+      "ts": 1790685300000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "SpaceX星舰地球轨道飞行提前结束 溅落时剧烈爆炸火光冲天 - news.mydrivers.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93RGdDV2Z4Tm1pYUY3RmFSRWFOUW1rVHNfWXVWNkVLMFpDbTRoOUJVdVVBbWxuOTNRVjkzQlpqQWNlTGd3eW43WXNKOG1hOW1pMGJ6TUJIWG0?oc=5",
+      "site": "news.mydrivers.com",
+      "siteUrl": "https://news.mydrivers.com"
     },
     {
       "id": "FL-27bf28fa2315",
@@ -195,6 +267,18 @@
       "siteUrl": "https://www.epochtimes.com"
     },
     {
+      "id": "FL-97d0b253e3d1",
+      "date": "2026-10-01",
+      "dateISO": "Thu, 01 Oct 2026 14:06:52 GMT",
+      "ts": 1790863612000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "无人机在基辅撞上桥梁并爆炸的那一刻。 - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVVJQaWxSZWxOUGtieXNKR1JvRFpXRjBGbnRiX19ZaDV4QW83cGpRU2JJUm9CWFdGZmtXc1RITTNiMG1JYlZPUVJEZ2M4d0poSy1EaC1qX3QwWVZDZG51V0JLV09aZkRyRGdQdWNHeFo1TjlRMGNzRGhpeWE5VkJ4c01mTEYxN0JBRFl4Yjd3MXFYQlppbkxxeWN5Wml5MWFhRUl3?oc=5",
+      "site": "Vietnam.vn",
+      "siteUrl": "https://www.vietnam.vn"
+    },
+    {
       "id": "FL-ec99c3dc11e5",
       "date": "2026-10-01",
       "dateISO": "Thu, 01 Oct 2026 11:50:00 GMT",
@@ -241,18 +325,6 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aMWRHbkw0dFE0UnFNeG0xQjJCc3B6V1ZqS0JhVlNCR3NiUUVfRzItb0VUUmxpMEY0M3UtUTRQd25wY0tXemVTaDRkY2JySGpEdGo2Ykg3cVBOb2tJUmlqeC03eHlQUHpJcm9LZlFibEZ5cWJ6TGNPMg?oc=5",
       "site": "WGAL",
       "siteUrl": "https://www.wgal.com"
-    },
-    {
-      "id": "FL-b85d3621ffe3",
-      "date": "2026-10-01",
-      "dateISO": "Thu, 01 Oct 2026 00:44:27 GMT",
-      "ts": 1790815467000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Gunmen kill 7 on bus in Syria as pipeline blast knocks out 3 power plants - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQkh4dkxHazZ2OE1BNDdzSmZhZGZsYXlNd01idGxlLXF0T1VwSkxhUWtlZ2g2SjhqME5IWWF2M2xPZ1NOZk03Z05BX0x2cEVhUkVYSzV4TDBxR2E0VE8zd1Zmem12NnYyN0NpTDdFaFhGaDZ5LU5jY3h3clFzTlZkX0NHT0xZdWhONUZFR0IyMFREYXZoenJfZ01WS1BtVkhxTTdXUHV6TVXSAa4BQVVfeXFMTl9lT2I4LW8zSEc0QmVza3FUMmVlc3lWYWZOWlpjWkZieXhpakhMbzZKcmF4aXhLRWE2bUFUWWdIN3NwU28tQVF2LWV6OXJ2T0ZsOUpsaXpxMFEyaDBlaHlBTDhwczhienhyQURmc0hESHlpZ3c3THh2N2pxdHlUVWJwc3RZTjdnOFJwcXVvd2VScjVYQ3RRdDhLUURXdlpRTzBfV0s1dU51WWg3UnBR?oc=5",
-      "site": "Al Jazeera",
-      "siteUrl": "https://www.aljazeera.com"
     },
     {
       "id": "FL-343854ce2ad9",
@@ -315,15 +387,15 @@
       "siteUrl": "https://finance.eastmoney.com"
     },
     {
-      "id": "FL-4fcd67df38a6",
+      "id": "FL-53093e91fe3a",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 12:25:51 GMT",
       "ts": 1790425551000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - sohu.com",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 搜狐网",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUU9ESGJKMW5sendsVU4zOUFWYXhBSlFXdVFQUXZ5RVZqQzhlTTRFSlpsSmdWeFRXSHlJakg3ckQtVElSSGZtYkhDM3JMUXVmVTZMX09CeFRhTlVNZ3c0MFNXQXM2LWVpMURDNjU3cXZ6Y01wWHQxRTNIZDhfWEsyUVNJb21URjZKZkJVMElGZ0xueENOU2Jyd0ZNaHk1akVU?oc=5",
-      "site": "sohu.com",
+      "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -349,30 +421,6 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa21SSnpRaWdxQy1GYVBmWi1LQ3VzQ0xwZUwzTE9rSVRuLXhac2xTZl9wYlB5c2RoQkRYY1pfbDRZWmF3RFdFZXg4M3NSZ0s0alQ2XzRtUFI0SjR2R2FidlRXZ3pOckwtM20zaFNtR0h4bjFBdTdsZW9yeEpoampleUFNajd4NDVaUElBYTgxUG5vQzRoWjFIcGhn?oc=5",
       "site": "app.xinhuanet.com",
       "siteUrl": "https://app.xinhuanet.com"
-    },
-    {
-      "id": "FL-5414e00ffd4e",
-      "date": "2026-06-22",
-      "dateISO": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "ts": 1782111600000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "卡塔尔工厂爆炸已致13人死亡 - news.cn",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mR2pTX0YxWjBwQ2lLNC1XZjFhd3IwVEYtWkZFR3ZBU3B5RTFHR1BldmQ3OEkxN2NaWTMzYUkwWENDeEliY3dVNEloOExFS1B6SlZQTENHdWVmTWpUM042M2hRcmo4QS1qdl85cXlhZHJ3R3JGTEU4?oc=5",
-      "site": "news.cn",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-dbcf7399ae0d",
-      "date": "2026-08-03",
-      "dateISO": "Mon, 03 Aug 2026 07:00:00 GMT",
-      "ts": 1785740400000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "巴基斯坦西北部发生爆炸致14人死亡 - news.cn",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
-      "site": "news.cn",
-      "siteUrl": "https://www.news.cn"
     }
   ]
 }
