@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T05:57:33.401Z",
+  "updated": "2026-10-01T06:10:20.722Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -99,15 +99,15 @@
       "siteUrl": "https://ua.news"
     },
     {
-      "id": "FL-6593463727e4",
+      "id": "FL-6edebede6741",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 11:03:53 GMT",
       "ts": 1790766233000,
       "scope": "intl",
       "type": "blast",
-      "title": "Perry County Coroner identifies victim after house explosion - ABC27",
+      "title": "Perry County Coroner identifies victim after house explosion - abc27.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV0dhcVhsT3ZZdlFLRDlfRHJHSjNCM1Q3NmVGUVBOaWdUNDhFbHJGQ09ac0F1d1dnTjBUSWpCRjVMbDJmRnhZam5oX3ZzekI5YnI1dkZmaXp0X3VSQW1XVFQtQlJ1UV94R1Z3RWJRMHZORjJaNTgyajRYYlhaSk9CM011Z2JlakZUaVAwUzJMTndNWklFSUY5adIBngFBVV95cUxPdC1UajJqcUt0TURjZTdpQ0JaM3N3ZExJN2hnRDNBYXdXMGQxM25xN0tzQmlHcHMyNDNxSXdNNzVORG5kVHpyb3ZWc20tOHpja2tlcTJPcmc5WTJEZ3AtWEpOaXdwX2dkcTZZSWlvVzlCQTlMa2pMalNPdjlEYXFYM1dXNmdzSVlNdmFQTXp0a3ppbTc5cVczM1FwYnFRQQ?oc=5",
-      "site": "ABC27",
+      "site": "abc27.com",
       "siteUrl": "https://www.abc27.com"
     },
     {
@@ -205,6 +205,18 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLWZqaVFhMzVDMVFQZl9yZlhURmJXczBwWkpKMDdLaDA0dm9EQzR2T0QzVG9YV21lY3pKZTZnSXhURmw1b3ZzMkdaTmtEUmpiaFl4aHJQcDYxMTZVWkFfREcxZVRGWXF3ZTMtMHpMVDNiMnBHbEp3V2hXRktTanVzMTZ2YUFKb010QTZVb25NN0w3djVHNlZwYkp0djJicW5xcmF6eG1SVzR0NjVBT3NrUFR3?oc=5",
       "site": "finance.sina.com.cn",
       "siteUrl": "https://finance.sina.cn"
+    },
+    {
+      "id": "FL-dd473ccfbdfe",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 12:35:00 GMT",
+      "ts": 1790685300000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "SpaceX星舰地球轨道飞行提前结束 溅落时剧烈爆炸火光冲天 - 驱动之家",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93RGdDV2Z4Tm1pYUY3RmFSRWFOUW1rVHNfWXVWNkVLMFpDbTRoOUJVdVVBbWxuOTNRVjkzQlpqQWNlTGd3eW43WXNKOG1hOW1pMGJ6TUJIWG0?oc=5",
+      "site": "驱动之家",
+      "siteUrl": "https://news.mydrivers.com"
     },
     {
       "id": "FL-27bf28fa2315",
@@ -323,6 +335,18 @@
       "type": "blast",
       "title": "Firefighters battle fire at ABC junkyard in Waiawa after explosions reported - Hawaii News Now",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeU9wWVZadEdVa1JIOEdYMVI2eWh1TFFkaHRnek42UGNNWnlCZHktUmlqcjU4RDRRYlFmUEg0cXBhMmtLMXN4djNnS2t3bEgyODRLRDBzUTMxVHU2bTExV3NpdzdhQTFLdkdic0IwRWVNWHhPM2NYR2I3aU5vQzRBeTVHRXlwdW93ZHUwSEFoNDNFZ2JTYm1CUnU1azZvbHF4bXd4cEl2S3BCM181aHV6Tnc3UdIBxwFBVV95cUxPVTNrZlVVaTlCUm5Pam01dktscDQ0YzZRbmhWYXdvQ0g0UVVxM0o3cG5Qck9yeGpKT045Y3JIdzl6bzV2RDlzcUxCbklHUmNXZUV0dG9VTTVEMkxtZWhrWjdXcDBWYXZMeFFvLU9ZcC1weENqbXQ0RTdZWmU5dXM5amFiZW1VRzdmclU5WjVTMUVaSlJpY1MtUnBJZFlTMFJsbnM3MnVtYW15dW1hdEJ1UlR2TGdFTzJiYXdUSFhzNXNOaDQ4UGY0?oc=5",
+      "site": "Hawaii News Now",
+      "siteUrl": "https://www.hawaiinewsnow.com"
+    },
+    {
+      "id": "FL-7f10b5cc88df",
+      "date": "2026-10-01",
+      "dateISO": "Thu, 01 Oct 2026 01:12:00 GMT",
+      "ts": 1790817120000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Firefighters extinguish fire at ABC Junkyard in Waiawa after explosions reported - Hawaii News Now",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNjlIY0FfM09PNEZadU1hUWpBa0xLNGZsdHFzdUxnNjRWMGJtNzgyY1h1VzZTVEFHQU02REU2ekFsckVhazhRbmRLUmp2eWkybXVMTDdRTGJsa1hkN0E4czF4eDlWempYYXB4QnA4WDBaNEhIc3V6NTJRWFAyZTJ3OHJmX05ucHAtU2RSU1NQVHA1eWpBU2RseE9Wa0RmNWV5akhEdTJ4Wkd1aFhEX0Vtdzc4R3JNMm_SAcsBQVVfeXFMTTNoSktscVBacTQ1YXJtcHdrN2JSYlUtOTIxR3BoSHVRaTlOSmk0MGlWdGJpXzNaVHdPUGFoSjJ5Sjh4QXp2NFIzb0t0QlZSSDZ6eXZZellBVmRHQ2V1LTdnSjVEWEJPQ09PSHhRczdqZkdpNjBOM0ZEQ2lwSEFZNjNzUmpCWXVlVUhVUm8yNjRMa1ZjcmNPaHNVQmVxZXh1OFMzQUxsQTJRLUswa0VjOXUxSS04NWwybElvSE45TXAzcXFsOU94SVhOcFE?oc=5",
       "site": "Hawaii News Now",
       "siteUrl": "https://www.hawaiinewsnow.com"
     },
