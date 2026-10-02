@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T16:50:01.120Z",
+  "updated": "2026-10-02T16:59:39.123Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -27,15 +27,15 @@
       "siteUrl": "https://news.china.com"
     },
     {
-      "id": "FL-c4e3d68b0d5c",
+      "id": "FL-902bc8004a5f",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 13:26:30 GMT",
       "ts": 1790774790000,
       "scope": "dom",
       "type": "blast",
-      "title": "学校引爆爆炸物炸伤自身 马国12岁男童被捕 - zaobao.com.sg",
+      "title": "学校引爆爆炸物炸伤自身 马国12岁男童被捕 - 联合早报",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCZEM1cDgyc2NLcHBYLXNkWUJsZ21LMEMtRUlfTFpDSGRxQ0pKcW5wMkl3Q1V2YXdaX2E1OG1oZmxYeWk0ZlJBRnl0cmdXLUlPbWVHN0RGU2JVU1B1dURGamtmRG1aUkU?oc=5",
-      "site": "zaobao.com.sg",
+      "site": "联合早报",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
@@ -51,15 +51,15 @@
       "siteUrl": "https://ua.news"
     },
     {
-      "id": "FL-0115ee714c6a",
+      "id": "FL-af2cce547279",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 04:43:19 GMT",
       "ts": 1790743399000,
       "scope": "dom",
       "type": "blast",
-      "title": "韩军促朝停止边境加固工程并就爆炸事故道歉 - zaobao.com.sg",
+      "title": "韩军促朝停止边境加固工程并就爆炸事故道歉 - 联合早报",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3ZnZEaG1GeE9YY2lxS21Uc2RUZVRjWnl1ZlowQWNrN0dfU3N3ejBURkVsaEZnQlBfN2JGV2MzWkl3N3NBUnkyVlpjTEVqazE2Ujd2dmdNbVJ4V1EyNmxrTHJtSnZFelNjNkE?oc=5",
-      "site": "zaobao.com.sg",
+      "site": "联合早报",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
@@ -217,6 +217,18 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JdTVsYVVFWHBSX3JkaE5ocVh2cmtPd0NWVkpmT1EyOENqOGJZcHhnQllGeU9RYThKRTJmYnRVaXpEQ25RcGNGNi1LcmZJUUFnY2Q1cVVpS2dkSW8wQzJfSFI4U3FYMzdXNmJSWm1SdEpsckl2Y190Sg?oc=5",
       "site": "央视网",
       "siteUrl": "https://news.cctv.com"
+    },
+    {
+      "id": "FL-b042a088a326",
+      "date": "2026-08-03",
+      "dateISO": "Mon, 03 Aug 2026 07:00:00 GMT",
+      "ts": 1785740400000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "巴基斯坦西北部发生爆炸致14人死亡 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-bba07bf24c97",
