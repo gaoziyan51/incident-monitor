@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T00:30:07.647Z",
+  "updated": "2026-10-02T00:47:42.833Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -35,6 +35,18 @@
       "type": "blast",
       "title": "韩军促朝停止边境加固工程并就爆炸事故道歉 - 联合早报",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3ZnZEaG1GeE9YY2lxS21Uc2RUZVRjWnl1ZlowQWNrN0dfU3N3ejBURkVsaEZnQlBfN2JGV2MzWkl3N3NBUnkyVlpjTEVqazE2Ujd2dmdNbVJ4V1EyNmxrTHJtSnZFelNjNkE?oc=5",
+      "site": "联合早报",
+      "siteUrl": "https://www.zaobao.com.sg"
+    },
+    {
+      "id": "FL-c7896ef61e56",
+      "date": "2026-09-30",
+      "dateISO": "Wed, 30 Sep 2026 02:23:56 GMT",
+      "ts": 1790735036000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "联合国军司令部认定韩朝边境爆炸属违反停战协定事件 - 联合早报",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UZ19NbFN0bUo0X05ld3RCZUVWZzFCajI1Qi0wVlBpZ29MNTFIaWVTVl9raUNBSmZENEI5T29rQlFVNENEWTVVMUFfbWRyaVlUMm1FaWZQcmxfc1NzVnpJSHl0U194ZkhqR1E?oc=5",
       "site": "联合早报",
       "siteUrl": "https://www.zaobao.com.sg"
     },
@@ -85,18 +97,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aMnVnT0dfZzFDcG9hX2NQYm9BS3ZIQk1nUF9VWGpsRmdKZnMtZjdKVnhhbUItWnozdlZDX3psaUtTYmQxR1A0NmVoeVFSQk1mQ2dNeUdSZl8zTTdYa2h2aWVxdFQ4QQ?oc=5",
       "site": "东方财富",
       "siteUrl": "https://finance.eastmoney.com"
-    },
-    {
-      "id": "FL-dd473ccfbdfe",
-      "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 12:35:00 GMT",
-      "ts": 1790685300000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "SpaceX星舰地球轨道飞行提前结束 溅落时剧烈爆炸火光冲天 - 驱动之家",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93RGdDV2Z4Tm1pYUY3RmFSRWFOUW1rVHNfWXVWNkVLMFpDbTRoOUJVdVVBbWxuOTNRVjkzQlpqQWNlTGd3eW43WXNKOG1hOW1pMGJ6TUJIWG0?oc=5",
-      "site": "驱动之家",
-      "siteUrl": "https://news.mydrivers.com"
     },
     {
       "id": "FL-27bf28fa2315",
@@ -361,6 +361,18 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZG1oN0dZYzR0RVFiLWpUekR5eklhT2Z6Q0dRUGZDMkRrTDdyVDFaZE9wV3drbkl5dWtRVDIzbHBKR1JGMy1vYjdaR0hPUl9uaGVtUlkxeEktUGUyNENtVW9GUVNrZzVGLWhhai1IaXZLUnF0ajRwSkR0ejY5OGNNSG4wLXQyMlVmZjZ3VUdRbjdJQzA?oc=5",
       "site": "The Harvard Crimson",
       "siteUrl": "https://www.thecrimson.com"
+    },
+    {
+      "id": "FL-d9b4a9fde492",
+      "date": "2026-10-02",
+      "dateISO": "Fri, 02 Oct 2026 00:05:44 GMT",
+      "ts": 1790899544000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "李在明称地雷爆炸为“意外事故”……未要求朝鲜道歉| 东亚日报 - 동아일보",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmdUNiVmVGeFNsaDNoaXNsRHdBTm1ram44OXBNYkxtTGZTQl96Y3R6c194TmdZdGktc3AtR0Z3Y1ZSdUNsZmZDblFVZ2tteExHLTZnNndoVE5COUU3SnkyV1p4WFk0UQ?oc=5",
+      "site": "동아일보",
+      "siteUrl": "https://www.donga.com"
     }
   ]
 }
