@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T14:23:24.738Z",
+  "updated": "2026-10-02T14:40:25.943Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,28 +15,52 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-af2cce547279",
+      "id": "FL-dec5d688a150",
+      "date": "2026-09-30",
+      "dateISO": "Wed, 30 Sep 2026 11:12:00 GMT",
+      "ts": 1790766720000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "印度曼格洛尔炼油厂发生爆炸，造成1人死亡——OilPrice - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQXZ2VjVjYTNSSXBXaUU4RWJRME9HQUhIUW1VZnJlZHNCaVZuUVVUdFFsUmxnNEFkQkhxMFYzelJHTUJCek5fdldocHcxeHV3YmJOSTExTTlHZ3R4cXRGSVRKbXJOZkZKNTFuTDhHaUtISDFQLVFrTmRrMXMxNUIxcHV3OEpBYmt3QzVxU2tMTTN6ZGE0ay1qWQ?oc=5",
+      "site": "UA.NEWS",
+      "siteUrl": "https://ua.news"
+    },
+    {
+      "id": "FL-0115ee714c6a",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 04:43:19 GMT",
       "ts": 1790743399000,
       "scope": "dom",
       "type": "blast",
-      "title": "韩军促朝停止边境加固工程并就爆炸事故道歉 - 联合早报",
+      "title": "韩军促朝停止边境加固工程并就爆炸事故道歉 - zaobao.com.sg",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3ZnZEaG1GeE9YY2lxS21Uc2RUZVRjWnl1ZlowQWNrN0dfU3N3ejBURkVsaEZnQlBfN2JGV2MzWkl3N3NBUnkyVlpjTEVqazE2Ujd2dmdNbVJ4V1EyNmxrTHJtSnZFelNjNkE?oc=5",
-      "site": "联合早报",
+      "site": "zaobao.com.sg",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
-      "id": "FL-c7896ef61e56",
+      "id": "FL-6ba1fdc017bf",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 02:23:56 GMT",
       "ts": 1790735036000,
       "scope": "dom",
       "type": "blast",
-      "title": "联合国军司令部认定韩朝边境爆炸属违反停战协定事件 - 联合早报",
+      "title": "联合国军司令部认定韩朝边境爆炸属违反停战协定事件 - zaobao.com.sg",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UZ19NbFN0bUo0X05ld3RCZUVWZzFCajI1Qi0wVlBpZ29MNTFIaWVTVl9raUNBSmZENEI5T29rQlFVNENEWTVVMUFfbWRyaVlUMm1FaWZQcmxfc1NzVnpJSHl0U194ZkhqR1E?oc=5",
-      "site": "联合早报",
+      "site": "zaobao.com.sg",
       "siteUrl": "https://www.zaobao.com.sg"
+    },
+    {
+      "id": "FL-710fe48d473f",
+      "date": "2026-06-03",
+      "dateISO": "Wed, 03 Jun 2026 07:00:00 GMT",
+      "ts": 1780470000000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "特别重大瓦斯爆炸事故后 山西煤矿迎来“最严整治” - 中国能源新闻网",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tM3B2anpUNmRxVVRfUk0yOVBuN2ZDNU9uQUJXWEljSEFEX3FXVU5QUWVXZEh0b3drdU5fNXlkXzRvdURYaDZJYXRkN0hUWXJoRXBPcXVud2NpLWRLQUxpMXZTYU5DNnRYbGQ5TVlR?oc=5",
+      "site": "中国能源新闻网",
+      "siteUrl": "https://www.cpnn.com.cn"
     },
     {
       "id": "FL-0229e99d36ef",
@@ -51,30 +75,6 @@
       "siteUrl": "https://finance.eastmoney.com"
     },
     {
-      "id": "FL-27bf28fa2315",
-      "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 12:12:00 GMT",
-      "ts": 1790683920000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "“星舰”受控溅落时发生剧烈爆炸 - 财联社",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ZemMwNnJrSmpfU09scEpCMXNXRGRGaUZ6ZER1MzJyRDBubmdhWjZLTUVjcV9lZVNYdV95dGNtVTZwOEl3OFFhaw?oc=5",
-      "site": "财联社",
-      "siteUrl": "https://www.cls.cn"
-    },
-    {
-      "id": "FL-70ccb467ede8",
-      "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 09:10:00 GMT",
-      "ts": 1790673000000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "韩朝非军事区地雷爆炸致3名韩军受伤，韩方怀疑朝方埋雷，李在明要求迅速查明真相 - 上观新闻",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pZFN1QWFhQmZ6aEdRYWtWeU1rb3BKQnNKRkNYaFVlaE92OVliUTBteVZFS2NQMS10R09ka0cxRjA5c1FoSmpJWFZyeUJac0RkY2pzNk5zQy1Hdw?oc=5",
-      "site": "上观新闻",
-      "siteUrl": "https://www.jfdaily.com"
-    },
-    {
       "id": "FL-385dd58b908a",
       "date": "2026-08-11",
       "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
@@ -87,15 +87,15 @@
       "siteUrl": "https://science.caixin.com"
     },
     {
-      "id": "FL-6612abd30963",
+      "id": "FL-71366697633a",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 07:00:00 GMT",
       "ts": 1789628400000,
       "scope": "dom",
       "type": "blast",
-      "title": "宇宙大爆炸最初五分钟氦丰度获最精确测量 - 中国科技网",
+      "title": "宇宙大爆炸最初五分钟氦丰度获最精确测量 - stdaily.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MzVkcXZnR2UwelNkenFIYVFYVzBPcUxUQ1VSaUVHcV9LYVJnZzhjQWZzM09DNk8wc0xVNlo2amRqNjBueWtVeTdSbkJZT053RjRSZDhmeXJyT19wekF3UHB6WERtZkxLaFFwT2pVWTE?oc=5",
-      "site": "中国科技网",
+      "site": "stdaily.com",
       "siteUrl": "https://www.stdaily.com"
     },
     {
@@ -231,6 +231,18 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
+      "id": "FL-ba68b5019726",
+      "date": "2026-10-02",
+      "dateISO": "Fri, 02 Oct 2026 14:08:51 GMT",
+      "ts": 1790950131000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "「爆炸头」被捕｜邓炳强去信《纽约时报》斥文章歪曲事实 强调案件与新闻自由无关 - stheadline.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxNVGQxbUdiMHJLQ1FTamZwZEZEUWtBZkVHc2tudkpLcjlhQ1FMdDJCWFg1d3dlSzgyLWlpbHBHWXRMcl9nRVVCbjRxWF9DQjkxZUxhWHNaTm01dmlyWGZydVF6dl9ycXl5SUhjVVNZMUdLUmZSMWpHa3VsNklPVTY4YkhwX3lwUHhSOGdsTXBpNkpybVhuZXhfZmlaQXZsbkFaTU1SR0JXYi1UN2JpWkk4cUlqNHVYVjBXZ0NJZ211b0xpR09WWmZuWnR0WEdFZ3N5aGlvdEwzZV9uZHpXU3I3SGdTb25PMFJ0S0VGSm0xZ3k2ZUxQa1ZLUmZlQzktS3BDOGpfUHdIMzc2NGdoSzlHZS1mOEgwOVdadzk4QUxqNG9NcncxRmJ2R3FiZXZ1TlJ4ZC0yYWJlSHpXMXM1NlIwb1hkanM5T2hvX21uWDdUZU1CVHJ0YjJGd1NQVVM3OTBrT19FZ3FYQmh4cTRjdFpzVkxVVVhsM05SWFZaaTdaZEVZeVllN3NxMGpCcURsczVqNlBkZGZSa2tlMnprelgzYW5wQVc2Y2FnZnBiMXlraWQ3OHA1VWRjdGNTeXBrVWNPUzZpSUtFZEhvUTBBellvekZIang1S0ZpZGQxT3VFN3I1VFE?oc=5",
+      "site": "stheadline.com",
+      "siteUrl": "https://www.stheadline.com"
+    },
+    {
       "id": "FL-5e0a81db3ef6",
       "date": "2026-10-02",
       "dateISO": "Fri, 02 Oct 2026 13:14:00 GMT",
@@ -243,15 +255,15 @@
       "siteUrl": "https://jx.sina.com.cn"
     },
     {
-      "id": "FL-04a7f5e6198a",
+      "id": "FL-1f2723c188bd",
       "date": "2026-10-02",
       "dateISO": "Fri, 02 Oct 2026 12:40:30 GMT",
       "ts": 1790944830000,
       "scope": "dom",
       "type": "blast",
-      "title": "图集丨T3挑战赛燃爆阿拉善英雄会 - nm.cnr.cn",
+      "title": "图集丨T3挑战赛燃爆阿拉善英雄会 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwSUxldGxaM2hJR2RBVnBZTkZjdkJCQXZCc0hCbTh0NGU4X19KVTRFeFlPWkpfTjF4YmpCWW9MbmtKRDNvMEt4NXA1TFJzS1ZwVllvREk1NG4tNURCbWQ2aXhVMEVWTTdFM1E?oc=5",
-      "site": "nm.cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://nm.cnr.cn"
     },
     {
@@ -363,18 +375,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-ca2adf982074",
-      "date": "2026-10-02",
-      "dateISO": "Fri, 02 Oct 2026 02:58:53 GMT",
-      "ts": 1790909933000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "[社论]竟称地雷爆炸为“意外事故”，是无加害者的损害吗？ - cnnews.chosun.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcE5Da2M3azgxblJ2bXlLTU1PY3RjOW1PQlJmUUtqdUxjVUZTckI5dGlMdmNoWlYtbFFkUW1HYkdJcnptZ3FaYUxjc2NxenVVeEJOdEdCaXRPeWdIRm5sMW0tbUtaaUlhRU5jN2dTdVhjT01ORC1lT0VGelFiWm1SeWxRSDh2dTlRLTh5NnZjZ1Bkdw?oc=5",
-      "site": "cnnews.chosun.com",
-      "siteUrl": "https://cnnews.chosun.com"
-    },
-    {
       "id": "FL-1997dc466817",
       "date": "2026-10-02",
       "dateISO": "Fri, 02 Oct 2026 00:42:13 GMT",
@@ -397,18 +397,6 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PdEFfUUxZMk9XSGZRbF9RTC1kZ25sb2QzQVd6ZkcyUkFsbWFGUGF3NlBHb2FpcVFSN3A0aktMcE5naUJxNmw1T05nVDAxUjJ4Sm1yQy02MzFubHpkelFrT043cXJBOVNielRaT3NB?oc=5",
       "site": "生物通",
       "siteUrl": "https://www.ebiotrade.com"
-    },
-    {
-      "id": "FL-d9b4a9fde492",
-      "date": "2026-10-02",
-      "dateISO": "Fri, 02 Oct 2026 00:05:44 GMT",
-      "ts": 1790899544000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "李在明称地雷爆炸为“意外事故”……未要求朝鲜道歉| 东亚日报 - 동아일보",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmdUNiVmVGeFNsaDNoaXNsRHdBTm1ram44OXBNYkxtTGZTQl96Y3R6c194TmdZdGktc3AtR0Z3Y1ZSdUNsZmZDblFVZ2tteExHLTZnNndoVE5COUU3SnkyV1p4WFk0UQ?oc=5",
-      "site": "동아일보",
-      "siteUrl": "https://www.donga.com"
     }
   ]
 }
