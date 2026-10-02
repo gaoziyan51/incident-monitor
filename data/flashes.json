@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T10:50:02.507Z",
+  "updated": "2026-10-02T10:59:22.888Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -87,15 +87,15 @@
       "siteUrl": "https://www.jfdaily.com"
     },
     {
-      "id": "FL-52720b98ede5",
+      "id": "FL-385dd58b908a",
       "date": "2026-08-11",
       "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
       "ts": 1786431600000,
       "scope": "dom",
       "type": "blast",
-      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - science.caixin.com",
+      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - 财新",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fOUNOVy1jMjYtRHRacDFONmZLdmtlUTBvcjVNX0xwMG9rc2lwYkV4ZzRCOFVIVmdNLXdZcUo3Mkw1UnI3elZsRjNGblI4YTBsMGxPeHJCRnZSNWE0dXNTdXRxcUQ?oc=5",
-      "site": "science.caixin.com",
+      "site": "财新",
       "siteUrl": "https://science.caixin.com"
     },
     {
@@ -255,6 +255,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-0f5476d1c019",
+      "date": "2026-07-31",
+      "dateISO": "Fri, 31 Jul 2026 07:00:00 GMT",
+      "ts": 1785481200000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "巴基斯坦煤矿爆炸致34人死亡 8人被困 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ic3NaMW5yOHF1MmNnMDRPdThpWHRsY0dpOUl5X1U2aUxyMlZFTkVhN09xTVRmQ3dwcnFZaThTZjd5RXdLS1VLTVgzNGlENnl3T3hOOVBFSmYyajM0cmlxeVduX28xT2U5M1pvbmJfZE94TW00UmpNd2oyTFZFVEE?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
       "id": "FL-669c78514aec",
       "date": "2026-10-02",
       "dateISO": "Fri, 02 Oct 2026 10:33:55 GMT",
@@ -267,15 +279,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-464f8a760198",
+      "id": "FL-8206536d6b1d",
       "date": "2026-10-02",
       "dateISO": "Fri, 02 Oct 2026 10:17:23 GMT",
       "ts": 1790936243000,
       "scope": "intl",
       "type": "blast",
-      "title": "2 men behind explosion inside a Harvard Medical School building avoid jail time - wbur.org",
+      "title": "2 men behind explosion inside a Harvard Medical School building avoid jail time - WBUR",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRy1IcktiZDU4TnlhVkNNRjRpbDIyWnJBVlhWU2hDbTVMLU5aMkhDSDZvRGliRUFRT3B0QzJPaTdsR1RUT2lGcUZYb1ZvdmVRQkJRYndZTlUyV2thTlNwS3I5OWVfbG92T19Ta0JtSEhFNE9teVBDNGdUNWZDbUhoRDJEa0FOV05TUkxFWUYzekItZzdEZVE?oc=5",
-      "site": "wbur.org",
+      "site": "WBUR",
       "siteUrl": "https://www.wbur.org"
     },
     {
@@ -291,27 +303,27 @@
       "siteUrl": "https://www.nknews.org"
     },
     {
-      "id": "FL-d0b6dbceb31e",
+      "id": "FL-9d118594cc6e",
       "date": "2026-10-02",
       "dateISO": "Fri, 02 Oct 2026 09:09:00 GMT",
       "ts": 1790932140000,
       "scope": "intl",
       "type": "blast",
-      "title": "Driver on the run after crashing into Middletown home, triggering gas explosion, huge fire - FOX19 | Cincinnati",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOXdzOGp2TW9pWFg4aWp0MEl0VllGQzFENkdNQ2xIYTBWSndtM0ljcVItWWhqeVBkbG1vdWxFVEVIV0F2ZER3T24tMlBJaWt2N1FPNWRrZl82bVI3Yl9Ca3pTbjJrMlpKdWtBdzczNC1hc0lmMjQzU2V0WG9hNUF2SlF1VGxzdWQzZWFqeHhKU3BDMGhJYV8ya1dJWjVOdUJVOTdSTzd5X2thY1pUUFdKUXNRV0t1UdIBygFBVV95cUxOMjFpQjZTX3Zja3FadjFfczBOVVl5MkVHTnNCbmpfeDdxUlYtX29aSjRDVml3eEQ2NHA3TG1MQkJUdElKZENnMTBOV0JFRHk3dlRkTGtVU2cwNUdfNGZ4ZGNqM0xXRFVicnhKbkJrbnNKRExVVEhTcjBIV1ZWbUdvQ0JmekJMdmxzdHhINGNOWmlWLUZQZXNlMk5WOGFJNmRvWWRyU1c2dlFTSXZrc2JwTk5LUWx3MVdrMzBXWVM0aC1TemNmM1BlYXhn?oc=5",
-      "site": "FOX19 | Cincinnati",
+      "title": "Vehicle crashes into Middletown home, hits gas line, sparking explosion and fire - fox19.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ0U3V3R1dzFxUXgxd0NZaVZRSWF5ZXVjUW42dXRFenFfZmNUVUdONVVYMkZNajliLWVDNXh5QmQ2YkxnVkUzbmptSmxvRkU5TS13V1p5TXZPZ1dCY0ZDNUIyUktqOWhGTmVRc2tkLVNoZmh6WjU0NldwTExIUTYyM2t6OUw3bldTYklSZW05WFBnOXRkMWtGS05BZWNzYmlKSTZhQW1TVWFPMGR5?oc=5",
+      "site": "fox19.com",
       "siteUrl": "https://www.fox19.com"
     },
     {
-      "id": "FL-7e9ac4d8bbfa",
+      "id": "FL-931f2e1bb73e",
       "date": "2026-10-02",
       "dateISO": "Fri, 02 Oct 2026 09:09:00 GMT",
       "ts": 1790932140000,
       "scope": "intl",
       "type": "blast",
-      "title": "Vehicle crashes into Middletown home, hits gas line, sparking explosion and fire - FOX19 | Cincinnati",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ0U3V3R1dzFxUXgxd0NZaVZRSWF5ZXVjUW42dXRFenFfZmNUVUdONVVYMkZNajliLWVDNXh5QmQ2YkxnVkUzbmptSmxvRkU5TS13V1p5TXZPZ1dCY0ZDNUIyUktqOWhGTmVRc2tkLVNoZmh6WjU0NldwTExIUTYyM2t6OUw3bldTYklSZW05WFBnOXRkMWtGS05BZWNzYmlKSTZhQW1TVWFPMGR5?oc=5",
-      "site": "FOX19 | Cincinnati",
+      "title": "Driver on the run after crashing into Middletown home, triggering gas explosion, huge fire - fox19.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOUFMeS1xeDlQV2EwZnN6eEJJRUd4blZ6Qy1GQ0ZVOXFDUkhNQzhYdktFN2tOUnk1RzRyTjU2YUxpTEtDLTBUb2VHa3Z6bDlreWc4a0hhakFneFdwNTVxTEdNNHJQUXJZbkZOanVrVi0wS1N4aWpaRE9jM3JwaktrQWUyQjViZ3VYQ3huc3B6MmZTTlFva2JZVEpuZHJ1QWZD0gG0AUFVX3lxTE1aRFJBZm96RzBFVldzeE5fMjhreWZCUi1HYU5MOW5QNUstV2puZnI5c1hXek9zQklha2R1akxuVVBJWFVVMWVuNHdPTDdjRzhWd0pYUUZfa1BVbVc5OXNxcGxDY3pEbm1jX1JYNE9OSDFNWl81RFlaRHpBZ1VrdVZMOENOenphTnpRWWVUNjl6bVcyMTVhODJaY0treWU2dzhMSDUtdEZ4OWducWZ5LVMwZ196aw?oc=5",
+      "site": "fox19.com",
       "siteUrl": "https://www.fox19.com"
     },
     {
@@ -411,27 +423,27 @@
       "siteUrl": "https://cnnews.chosun.com"
     },
     {
-      "id": "FL-479a276926f7",
+      "id": "FL-ba19ca7a228d",
       "date": "2026-10-02",
       "dateISO": "Fri, 02 Oct 2026 00:48:27 GMT",
       "ts": 1790902107000,
       "scope": "dom",
       "type": "blast",
-      "title": "美強化低當量核爆炸偵測 聚焦中共祕密核試 - ntdtv.com",
+      "title": "美強化低當量核爆炸偵測 聚焦中共祕密核試 - 新唐人電視台",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xSmp6ODZ5bEtlbi10SHp1ZnU2Xy1oSmp6eVhHM2tBaUotYTdoZWdadl9ESlVGUWdqM0J4QVY5NnBiQktyVFQtZmV6OHdMVXBJaTd0cVIwZno0clFtc3NyaNIBZkFVX3lxTE5salFJUnBERHVIWV9NXzMzclltMUdkYTF5RnJlUmdIbFRZbVRQVk9SVklUMk9qS0JmUGtLYmR3YTZkWEhKU1JTNmJtcGs0MTVLNmZYcW9NdEJmSGdFcmFGY3h2OFhOdw?oc=5",
-      "site": "ntdtv.com",
+      "site": "新唐人電視台",
       "siteUrl": "https://www.ntdtv.com"
     },
     {
-      "id": "FL-e04fc0b9637c",
+      "id": "FL-2a2fa94e0e6f",
       "date": "2026-10-02",
       "dateISO": "Fri, 02 Oct 2026 00:34:03 GMT",
       "ts": 1790901243000,
       "scope": "dom",
       "type": "blast",
-      "title": "职业性爆炸暴露相关的脑代谢与微结构改变：基于FDG-PET与DTI的服役人员研究 - ebiotrade.com",
+      "title": "职业性爆炸暴露相关的脑代谢与微结构改变：基于FDG-PET与DTI的服役人员研究 - 生物通",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PdEFfUUxZMk9XSGZRbF9RTC1kZ25sb2QzQVd6ZkcyUkFsbWFGUGF3NlBHb2FpcVFSN3A0aktMcE5naUJxNmw1T05nVDAxUjJ4Sm1yQy02MzFubHpkelFrT043cXJBOVNielRaT3NB?oc=5",
-      "site": "ebiotrade.com",
+      "site": "生物通",
       "siteUrl": "https://www.ebiotrade.com"
     },
     {
