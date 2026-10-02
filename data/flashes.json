@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T20:37:25.254Z",
+  "updated": "2026-10-02T20:49:55.347Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -135,15 +135,15 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
-      "id": "FL-a6d7d85def3c",
+      "id": "FL-2ed9b31a453d",
       "date": "2026-10-01",
       "dateISO": "Thu, 01 Oct 2026 14:27:33 GMT",
       "ts": 1790864853000,
       "scope": "dom",
       "type": "blast",
-      "title": "埃塞首都傳爆炸聲 反政府武裝稱無人機襲擊 - epochtimes.com",
+      "title": "埃塞首都傳爆炸聲 反政府武裝稱無人機襲擊 - 大紀元新聞網",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1YzVidFkyV0lUWS1lazI0bnNYTHdlN2g3Smd6ZW1jY1FSdERrN0Z3YmpNVmQ2c3RtRlNpNktjNDBKZ1RFczRpNFFneWdWSUcxWUdFTTB4dkstTzIzMVd5adIBZkFVX3lxTFA2dWlueU9yNkdiQmY1UHozcWFiSGdmd1dEUUh6eU12UHhCbVBIMlVfejFZMDRYakN1bk9OQWMzb3RTNWVSSWpsSUxZLU81VXZpWk9YWUVja3hWNUx1X0N5SkVtelpoQQ?oc=5",
-      "site": "epochtimes.com",
+      "site": "大紀元新聞網",
       "siteUrl": "https://www.epochtimes.com"
     },
     {
@@ -265,6 +265,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-a729e1c4500e",
+      "date": "2026-10-02",
+      "dateISO": "Fri, 02 Oct 2026 20:35:00 GMT",
+      "ts": 1790973300000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Brent Industries cleanup reaches final stage weeks after deadly explosion in Toledo - WTVG",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWm00UW5xYlpyQkRQeGRkek8xOEMxT29zUGlKYURObmVNVUYxWGtfLTBkd0hBNzFXcm1kTndlTkhrMzdQblhrMF9lNXJpQzlxVGg3NEZmTjZMdUFkdVctLTJFYlRXb0I0VTllN3FoSXo1WDJTY0IwWF9JeW1mMEtJTGkweF9FazRVTUluZFpnTWZPN1VxQ0laMXhON3U5LVpGd3NYWmtqMFNtNGIxRVA2b0xKZnk?oc=5",
+      "site": "WTVG",
+      "siteUrl": "https://www.13abc.com"
     },
     {
       "id": "FL-a1625e58e48d",
