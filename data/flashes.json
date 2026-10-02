@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T02:58:00.105Z",
+  "updated": "2026-10-02T03:08:38.751Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -87,15 +87,15 @@
       "siteUrl": "https://finance.eastmoney.com"
     },
     {
-      "id": "FL-27bf28fa2315",
+      "id": "FL-f1ee346649f5",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 12:12:00 GMT",
       "ts": 1790683920000,
       "scope": "dom",
       "type": "blast",
-      "title": "“星舰”受控溅落时发生剧烈爆炸 - 财联社",
+      "title": "“星舰”受控溅落时发生剧烈爆炸 - cls.cn",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ZemMwNnJrSmpfU09scEpCMXNXRGRGaUZ6ZER1MzJyRDBubmdhWjZLTUVjcV9lZVNYdV95dGNtVTZwOEl3OFFhaw?oc=5",
-      "site": "财联社",
+      "site": "cls.cn",
       "siteUrl": "https://www.cls.cn"
     },
     {
@@ -231,15 +231,15 @@
       "siteUrl": "https://ua.news"
     },
     {
-      "id": "FL-ec99c3dc11e5",
+      "id": "FL-f7b6810bb2c4",
       "date": "2026-10-01",
       "dateISO": "Thu, 01 Oct 2026 11:50:00 GMT",
       "ts": 1790855400000,
       "scope": "intl",
       "type": "blast",
-      "title": "‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years - The Guardian",
+      "title": "‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years - theguardian.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOHotQmcyZWt5ZUpHZ1lfZ1F3M0pkQVNBOF9KTTQwUmdLOWZjQkdsRnhpYVNXdWU4S0tQSVFWY1VwYkZCcnVRVWtVRkE5NFlMLWk4QmtydHQwSlJBb0dYMWdTZ1gyenVJZXJQVVdncG5EZkxSbGlBYS1POUZlYUdYN2VWcC1nRE5FTk42VVdPWWRxSGlXZG1nY3FWNVduWnVLQXVzenBLdWs?oc=5",
-      "site": "The Guardian",
+      "site": "theguardian.com",
       "siteUrl": "https://www.theguardian.com"
     },
     {
@@ -339,6 +339,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-058fa07a4d2c",
+      "date": "2026-10-02",
+      "dateISO": "Fri, 02 Oct 2026 02:58:53 GMT",
+      "ts": 1790909933000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "[社论]竟称地雷爆炸为“意外事故”，是无加害者的损害吗？ - 朝鮮日報中文版",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcE5Da2M3azgxblJ2bXlLTU1PY3RjOW1PQlJmUUtqdUxjVUZTckI5dGlMdmNoWlYtbFFkUW1HYkdJcnptZ3FaYUxjc2NxenVVeEJOdEdCaXRPeWdIRm5sMW0tbUtaaUlhRU5jN2dTdVhjT01ORC1lT0VGelFiWm1SeWxRSDh2dTlRLTh5NnZjZ1Bkdw?oc=5",
+      "site": "朝鮮日報中文版",
+      "siteUrl": "https://cnnews.chosun.com"
+    },
+    {
       "id": "FL-bc12ccac4334",
       "date": "2026-10-02",
       "dateISO": "Fri, 02 Oct 2026 01:48:50 GMT",
@@ -375,15 +387,15 @@
       "siteUrl": "https://www.chinapress.com.my"
     },
     {
-      "id": "FL-ba19ca7a228d",
+      "id": "FL-479a276926f7",
       "date": "2026-10-02",
       "dateISO": "Fri, 02 Oct 2026 00:48:27 GMT",
       "ts": 1790902107000,
       "scope": "dom",
       "type": "blast",
-      "title": "美強化低當量核爆炸偵測 聚焦中共祕密核試 - 新唐人電視台",
+      "title": "美強化低當量核爆炸偵測 聚焦中共祕密核試 - ntdtv.com",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xSmp6ODZ5bEtlbi10SHp1ZnU2Xy1oSmp6eVhHM2tBaUotYTdoZWdadl9ESlVGUWdqM0J4QVY5NnBiQktyVFQtZmV6OHdMVXBJaTd0cVIwZno0clFtc3NyaNIBZkFVX3lxTE5salFJUnBERHVIWV9NXzMzclltMUdkYTF5RnJlUmdIbFRZbVRQVk9SVklUMk9qS0JmUGtLYmR3YTZkWEhKU1JTNmJtcGs0MTVLNmZYcW9NdEJmSGdFcmFGY3h2OFhOdw?oc=5",
-      "site": "新唐人電視台",
+      "site": "ntdtv.com",
       "siteUrl": "https://www.ntdtv.com"
     },
     {
