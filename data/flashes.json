@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T12:36:28.533Z",
+  "updated": "2026-10-02T12:54:01.907Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -13,18 +13,6 @@
       "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPTnkxTGU0cTdDbEFjc1k5aDNPWi1GakladWZfME9ValRzUVhXekYxTmVCZDZ3cGZPMDFnQzhhN1BneXMyR09EVkc3UkVfUTdTdWw0bjVxTjhmVkMyZXZTM3ZHR1ZzSHFRaS1IclB2ZktIQ004ZjNGRlR4UUZJTEtpN3BIaVpqemNvRmZtN2puVXk0RzFualV1MWJwSUFqWXJ1ckFtVE9yWk5uVllNODZNd2tpSVRkazR6V2ozbmRubkdENTlmTW9hZlBxaUE3b3VJQk96Z3FWd25xWXowREFxZno0UXNnaEp4SWpLRGpmYkpfTmRmdl8ybTRxNUpKYzNXc0pLUFVlUExvOURPOU9DMldtRWxTbjM1MzFwZkZKTllRaHBqQlNHV2YtVW5EcHF1c3NKTS1fQjZKLWtvWTJwWkgxOFlPZHB0UTh3cWxnMXduV2RCc1dyLU5taWN1Y1Z2a3NNMG9hekVpb2o3UnRUVFhSbEFBSVlDZzBjS1RLT2dqZ0VOQkVYSXlya1Q?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr"
-    },
-    {
-      "id": "FL-cadd35186718",
-      "date": "2026-09-30",
-      "dateISO": "Wed, 30 Sep 2026 11:12:00 GMT",
-      "ts": 1790766720000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "印度曼格洛尔炼油厂发生爆炸，造成1人死亡——OilPrice - ua.news",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQXZ2VjVjYTNSSXBXaUU4RWJRME9HQUhIUW1VZnJlZHNCaVZuUVVUdFFsUmxnNEFkQkhxMFYzelJHTUJCek5fdldocHcxeHV3YmJOSTExTTlHZ3R4cXRGSVRKbXJOZkZKNTFuTDhHaUtISDFQLVFrTmRrMXMxNUIxcHV3OEpBYmt3QzVxU2tMTTN6ZGE0ay1qWQ?oc=5",
-      "site": "ua.news",
-      "siteUrl": "https://ua.news"
     },
     {
       "id": "FL-af2cce547279",
@@ -123,15 +111,15 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
-      "id": "FL-84dcb719dbba",
+      "id": "FL-05d7fa3e19a1",
       "date": "2026-10-01",
       "dateISO": "Thu, 01 Oct 2026 20:21:29 GMT",
       "ts": 1790886089000,
       "scope": "intl",
       "type": "blast",
-      "title": "也门萨那传出爆炸声 - cj.sina.cn",
+      "title": "也门萨那传出爆炸声 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5tU3FCM0c1cDJHYWtQOTMxWkM0cnFsdnRzTlVfcUVpcDFkbHhiWUFmWGxWNmZRM0FqR2FwWGJGZjNiY3JXel9MdVo0Zw?oc=5",
-      "site": "cj.sina.cn",
+      "site": "新浪财经",
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
@@ -255,6 +243,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-1f2723c188bd",
+      "date": "2026-10-02",
+      "dateISO": "Fri, 02 Oct 2026 12:40:30 GMT",
+      "ts": 1790944830000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "图集丨T3挑战赛燃爆阿拉善英雄会 - 央广网",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwSUxldGxaM2hJR2RBVnBZTkZjdkJCQXZCc0hCbTh0NGU4X19KVTRFeFlPWkpfTjF4YmpCWW9MbmtKRDNvMEt4NXA1TFJzS1ZwVllvREk1NG4tNURCbWQ2aXhVMEVWTTdFM1E?oc=5",
+      "site": "央广网",
+      "siteUrl": "https://nm.cnr.cn"
+    },
+    {
       "id": "FL-cabb4243f2dc",
       "date": "2026-10-02",
       "dateISO": "Fri, 02 Oct 2026 11:31:00 GMT",
@@ -265,18 +265,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUEMtN1ZtQ0ZNcWo2QnBuaHBBWFRfY1Yzajc1WEFuUEZvU3VsUERxLU0wVURTWjhXQWNnN0thcTdGUXl5RHNtdDI1dXAteGVlaFpPZDU0a21saWxHRktia2pMUlhoNVdfUllBSmpyanMyOTRjLUQ2eUhaWDYtUGk2cWFhRC1oV1k1?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-8206536d6b1d",
-      "date": "2026-10-02",
-      "dateISO": "Fri, 02 Oct 2026 10:17:23 GMT",
-      "ts": 1790936243000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "2 men behind explosion inside a Harvard Medical School building avoid jail time - WBUR",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRy1IcktiZDU4TnlhVkNNRjRpbDIyWnJBVlhWU2hDbTVMLU5aMkhDSDZvRGliRUFRT3B0QzJPaTdsR1RUT2lGcUZYb1ZvdmVRQkJRYndZTlUyV2thTlNwS3I5OWVfbG92T19Ta0JtSEhFNE9teVBDNGdUNWZDbUhoRDJEa0FOV05TUkxFWUYzekItZzdEZVE?oc=5",
-      "site": "WBUR",
-      "siteUrl": "https://www.wbur.org"
     },
     {
       "id": "FL-7834b5907c09",
@@ -411,15 +399,15 @@
       "siteUrl": "https://cnnews.chosun.com"
     },
     {
-      "id": "FL-395538a40efa",
+      "id": "FL-1997dc466817",
       "date": "2026-10-02",
       "dateISO": "Fri, 02 Oct 2026 00:42:13 GMT",
       "ts": 1790901733000,
       "scope": "intl",
       "type": "blast",
-      "title": "胡塞武装袭击地区军事设施 也门亚丁传出爆炸声 - cj.sina.cn",
+      "title": "胡塞武装袭击地区军事设施 也门亚丁传出爆炸声 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ST1R4bmxiYkNsS0N2VDBRUkxCMm1Yckh2bmoxVGh6RUZoRXFUWGZnZU1uQk5hY0k4Nl9RbUY1Y2oxa0JXZDJiOFJLbw?oc=5",
-      "site": "cj.sina.cn",
+      "site": "新浪财经",
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
