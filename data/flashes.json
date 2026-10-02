@@ -1,42 +1,42 @@
 {
-  "updated": "2026-10-02T15:33:08.544Z",
+  "updated": "2026-10-02T15:50:25.027Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-158a192c119b",
+      "id": "FL-b6c2e6ab8291",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 17:09:26 GMT",
       "ts": 1790788166000,
       "scope": "intl",
       "type": "blast",
-      "title": "韩国要求朝鲜立即停止边界加固工事 就地雷爆炸事件道歉 - RFI",
+      "title": "韩国要求朝鲜立即停止边界加固工事 就地雷爆炸事件道歉 - rfi.fr",
       "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPTnkxTGU0cTdDbEFjc1k5aDNPWi1GakladWZfME9ValRzUVhXekYxTmVCZDZ3cGZPMDFnQzhhN1BneXMyR09EVkc3UkVfUTdTdWw0bjVxTjhmVkMyZXZTM3ZHR1ZzSHFRaS1IclB2ZktIQ004ZjNGRlR4UUZJTEtpN3BIaVpqemNvRmZtN2puVXk0RzFualV1MWJwSUFqWXJ1ckFtVE9yWk5uVllNODZNd2tpSVRkazR6V2ozbmRubkdENTlmTW9hZlBxaUE3b3VJQk96Z3FWd25xWXowREFxZno0UXNnaEp4SWpLRGpmYkpfTmRmdl8ybTRxNUpKYzNXc0pLUFVlUExvOURPOU9DMldtRWxTbjM1MzFwZkZKTllRaHBqQlNHV2YtVW5EcHF1c3NKTS1fQjZKLWtvWTJwWkgxOFlPZHB0UTh3cWxnMXduV2RCc1dyLU5taWN1Y1Z2a3NNMG9hekVpb2o3UnRUVFhSbEFBSVlDZzBjS1RLT2dqZ0VOQkVYSXlya1Q?oc=5",
-      "site": "RFI",
+      "site": "rfi.fr",
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-c4e3d68b0d5c",
+      "id": "FL-1439f98136f2",
+      "date": "2026-09-30",
+      "dateISO": "Wed, 30 Sep 2026 13:58:53 GMT",
+      "ts": 1790776733000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "网媒“爆炸头”邓浩荣落网 国安处再行动拘两人 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53ajNzUENQVGRqclFhZWl2ek43Q2R1dTRoY1BmaTlBaWU4TmF0QlAzcWZiQnhJUnZJbV9HME1OOHJOc3JNazJZZHE2NDVLaGVrOWhWQWZReVRtcXpJZW5XNWo2RFlqUXREcEFTZ21RQS0?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
+    },
+    {
+      "id": "FL-902bc8004a5f",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 13:26:30 GMT",
       "ts": 1790774790000,
       "scope": "dom",
       "type": "blast",
-      "title": "学校引爆爆炸物炸伤自身 马国12岁男童被捕 - zaobao.com.sg",
+      "title": "学校引爆爆炸物炸伤自身 马国12岁男童被捕 - 联合早报",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCZEM1cDgyc2NLcHBYLXNkWUJsZ21LMEMtRUlfTFpDSGRxQ0pKcW5wMkl3Q1V2YXdaX2E1OG1oZmxYeWk0ZlJBRnl0cmdXLUlPbWVHN0RGU2JVU1B1dURGamtmRG1aUkU?oc=5",
-      "site": "zaobao.com.sg",
+      "site": "联合早报",
       "siteUrl": "https://www.zaobao.com.sg"
-    },
-    {
-      "id": "FL-7c9f7c2536db",
-      "date": "2026-09-30",
-      "dateISO": "Wed, 30 Sep 2026 12:00:03 GMT",
-      "ts": 1790769603000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "星舰首次地轨飞行溅落时剧烈爆炸 着陆过程不平稳引发关注 - 中华网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OWkRtMVg1aEpwMEFtYTVWU1ZTblNVeG5qdmFvOThhZ0dFVjFOTktPQ3QzLUVJaGtxSHhqRkVwb0M3Zkd1ek9kMHhuM3JrUE80NWZ5RTJFZ1NzT3dZbTliSHhfcU1BN09NRVlzTFZsYnE?oc=5",
-      "site": "中华网",
-      "siteUrl": "https://news.china.com"
     },
     {
       "id": "FL-dec5d688a150",
@@ -51,15 +51,15 @@
       "siteUrl": "https://ua.news"
     },
     {
-      "id": "FL-0115ee714c6a",
+      "id": "FL-af2cce547279",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 04:43:19 GMT",
       "ts": 1790743399000,
       "scope": "dom",
       "type": "blast",
-      "title": "韩军促朝停止边境加固工程并就爆炸事故道歉 - zaobao.com.sg",
+      "title": "韩军促朝停止边境加固工程并就爆炸事故道歉 - 联合早报",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3ZnZEaG1GeE9YY2lxS21Uc2RUZVRjWnl1ZlowQWNrN0dfU3N3ejBURkVsaEZnQlBfN2JGV2MzWkl3N3NBUnkyVlpjTEVqazE2Ujd2dmdNbVJ4V1EyNmxrTHJtSnZFelNjNkE?oc=5",
-      "site": "zaobao.com.sg",
+      "site": "联合早报",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
@@ -75,27 +75,27 @@
       "siteUrl": "https://finance.eastmoney.com"
     },
     {
-      "id": "FL-52720b98ede5",
+      "id": "FL-385dd58b908a",
       "date": "2026-08-11",
       "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
       "ts": 1786431600000,
       "scope": "dom",
       "type": "blast",
-      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - science.caixin.com",
+      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - 财新",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fOUNOVy1jMjYtRHRacDFONmZLdmtlUTBvcjVNX0xwMG9rc2lwYkV4ZzRCOFVIVmdNLXdZcUo3Mkw1UnI3elZsRjNGblI4YTBsMGxPeHJCRnZSNWE0dXNTdXRxcUQ?oc=5",
-      "site": "science.caixin.com",
+      "site": "财新",
       "siteUrl": "https://science.caixin.com"
     },
     {
-      "id": "FL-71366697633a",
+      "id": "FL-6612abd30963",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 07:00:00 GMT",
       "ts": 1789628400000,
       "scope": "dom",
       "type": "blast",
-      "title": "宇宙大爆炸最初五分钟氦丰度获最精确测量 - stdaily.com",
+      "title": "宇宙大爆炸最初五分钟氦丰度获最精确测量 - 中国科技网",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MzVkcXZnR2UwelNkenFIYVFYVzBPcUxUQ1VSaUVHcV9LYVJnZzhjQWZzM09DNk8wc0xVNlo2amRqNjBueWtVeTdSbkJZT053RjRSZDhmeXJyT19wekF3UHB6WERtZkxLaFFwT2pVWTE?oc=5",
-      "site": "stdaily.com",
+      "site": "中国科技网",
       "siteUrl": "https://www.stdaily.com"
     },
     {
@@ -111,15 +111,15 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
-      "id": "FL-2ed9b31a453d",
+      "id": "FL-a6d7d85def3c",
       "date": "2026-10-01",
       "dateISO": "Thu, 01 Oct 2026 14:27:33 GMT",
       "ts": 1790864853000,
       "scope": "dom",
       "type": "blast",
-      "title": "埃塞首都傳爆炸聲 反政府武裝稱無人機襲擊 - 大紀元新聞網",
+      "title": "埃塞首都傳爆炸聲 反政府武裝稱無人機襲擊 - epochtimes.com",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1YzVidFkyV0lUWS1lazI0bnNYTHdlN2g3Smd6ZW1jY1FSdERrN0Z3YmpNVmQ2c3RtRlNpNktjNDBKZ1RFczRpNFFneWdWSUcxWUdFTTB4dkstTzIzMVd5adIBZkFVX3lxTFA2dWlueU9yNkdiQmY1UHozcWFiSGdmd1dEUUh6eU12UHhCbVBIMlVfejFZMDRYakN1bk9OQWMzb3RTNWVSSWpsSUxZLU81VXZpWk9YWUVja3hWNUx1X0N5SkVtelpoQQ?oc=5",
-      "site": "大紀元新聞網",
+      "site": "epochtimes.com",
       "siteUrl": "https://www.epochtimes.com"
     },
     {
@@ -195,15 +195,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-14d5d846c7ad",
+      "id": "FL-37ae5c7b2505",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 13:34:10 GMT",
       "ts": 1789824850000,
       "scope": "dom",
       "type": "blast",
-      "title": "叙利亚东部爆炸致过渡政府国防部11人死亡 - app.xinhuanet.com",
+      "title": "叙利亚东部爆炸致过渡政府国防部11人死亡 - 新华网客户端",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa21SSnpRaWdxQy1GYVBmWi1LQ3VzQ0xwZUwzTE9rSVRuLXhac2xTZl9wYlB5c2RoQkRYY1pfbDRZWmF3RFdFZXg4M3NSZ0s0alQ2XzRtUFI0SjR2R2FidlRXZ3pOckwtM20zaFNtR0h4bjFBdTdsZW9yeEpoampleUFNajd4NDVaUElBYTgxUG5vQzRoWjFIcGhn?oc=5",
-      "site": "app.xinhuanet.com",
+      "site": "新华网客户端",
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
@@ -243,27 +243,27 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-ba68b5019726",
+      "id": "FL-5cf64a8ad3ca",
       "date": "2026-10-02",
       "dateISO": "Fri, 02 Oct 2026 14:08:51 GMT",
       "ts": 1790950131000,
       "scope": "intl",
       "type": "blast",
-      "title": "「爆炸头」被捕｜邓炳强去信《纽约时报》斥文章歪曲事实 强调案件与新闻自由无关 - stheadline.com",
+      "title": "「爆炸头」被捕｜邓炳强去信《纽约时报》斥文章歪曲事实 强调案件与新闻自由无关 - 星島頭條",
       "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxNVGQxbUdiMHJLQ1FTamZwZEZEUWtBZkVHc2tudkpLcjlhQ1FMdDJCWFg1d3dlSzgyLWlpbHBHWXRMcl9nRVVCbjRxWF9DQjkxZUxhWHNaTm01dmlyWGZydVF6dl9ycXl5SUhjVVNZMUdLUmZSMWpHa3VsNklPVTY4YkhwX3lwUHhSOGdsTXBpNkpybVhuZXhfZmlaQXZsbkFaTU1SR0JXYi1UN2JpWkk4cUlqNHVYVjBXZ0NJZ211b0xpR09WWmZuWnR0WEdFZ3N5aGlvdEwzZV9uZHpXU3I3SGdTb25PMFJ0S0VGSm0xZ3k2ZUxQa1ZLUmZlQzktS3BDOGpfUHdIMzc2NGdoSzlHZS1mOEgwOVdadzk4QUxqNG9NcncxRmJ2R3FiZXZ1TlJ4ZC0yYWJlSHpXMXM1NlIwb1hkanM5T2hvX21uWDdUZU1CVHJ0YjJGd1NQVVM3OTBrT19FZ3FYQmh4cTRjdFpzVkxVVVhsM05SWFZaaTdaZEVZeVllN3NxMGpCcURsczVqNlBkZGZSa2tlMnprelgzYW5wQVc2Y2FnZnBiMXlraWQ3OHA1VWRjdGNTeXBrVWNPUzZpSUtFZEhvUTBBellvekZIang1S0ZpZGQxT3VFN3I1VFE?oc=5",
-      "site": "stheadline.com",
+      "site": "星島頭條",
       "siteUrl": "https://www.stheadline.com"
     },
     {
-      "id": "FL-5e0a81db3ef6",
+      "id": "FL-a78b8575d245",
       "date": "2026-10-02",
       "dateISO": "Fri, 02 Oct 2026 13:14:00 GMT",
       "ts": 1790946840000,
       "scope": "dom",
       "type": "blast",
-      "title": "国庆首日鹰潭文旅火热，多彩活动燃爆假日 - 手机新浪网",
+      "title": "国庆首日鹰潭文旅火热，多彩活动燃爆假日 - jx.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOHJ0WUtmTTZCbnBoRDNXU2poMGpwdENVbkhIa0xtSWl5MDdweFdsaUYzQ21oSmMwbXBpNWJrWnZnQkgyLVUwaTJvXzVFbkllUGtTQml2VXgzV2lDMUVmLTlPM1RyQ3N1M2JjUmJXbl9vbFlIaDF2LV9VX3Z0ZUQ2ck44dEpFZ243Q09yR2FmUldkMTN5VlUtWGY1Y0RMNDVOYk8wYUtRZVlfTUxfUjBWMjdYb1prQmZUQ3FPdDVXNkpiaktVN3ZORzItOVNWZw?oc=5",
-      "site": "手机新浪网",
+      "site": "jx.sina.com.cn",
       "siteUrl": "https://jx.sina.com.cn"
     },
     {
@@ -315,15 +315,15 @@
       "siteUrl": "https://www.fox19.com"
     },
     {
-      "id": "FL-e7a8b45be337",
+      "id": "FL-e9e493efca9b",
       "date": "2026-10-02",
       "dateISO": "Fri, 02 Oct 2026 08:10:47 GMT",
       "ts": 1790928647000,
       "scope": "dom",
       "type": "blast",
-      "title": "涉煽动罪被捕 网媒创办人「爆炸头」等人于国庆日后获准保释 - RFI",
+      "title": "涉煽动罪被捕 网媒创办人「爆炸头」等人于国庆日后获准保释 - rfi.fr",
       "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNbjdpRzRtaWtCUzZVN0U3UW1EY2t5T2tNNmcyeFh2Ym5KeGZGb1ZCcVlUdVM1Smw3cjh2MEtNd095R0huVngzR1lDTHp1cFZHUVhkaVc2aENvczBqbWFCUWtYV29JNk1Nb1ROTEJqcUEyLVZCc1RXUUZveVdLSE1YdTh1SE00U28wMV9sR2NONE1WenFnbjBSRlNzb1hGNDFHaVRPQmRJT0VSMU1yT21EeUVlZVdNLXg4S1pSOG9oYzhQRVlJQmN4YlNFcXQxUzFaTWtwUjhTMnVCU1ZFTks2aFNvb3B1LUFHcFVTNDNHOHdXZFJtZkh4QlNFS1o2aWdPS1YzbEIwa1hGbTRORkdjbjJNSEdDMVRGM3Q4UlhIOHVHblFuaU1sUkNvSkNqSFFYeGxnRHFSVTNDS0dBUkFtdzRFTU5EeUpNaHJkUGw2RmJzUWJRMmQzY2NOYkQyNl8yMGVnYVpTV050NUprM21MTmJ3djY5N19HTTFBeHdKYnJCempTczdCUlQyT3dsZDQ?oc=5",
-      "site": "RFI",
+      "site": "rfi.fr",
       "siteUrl": "https://www.rfi.fr"
     },
     {
@@ -399,14 +399,26 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-912793a079d4",
+      "id": "FL-967134de21c8",
       "date": "2026-10-02",
       "dateISO": "Fri, 02 Oct 2026 03:44:00 GMT",
       "ts": 1790912640000,
       "scope": "dom",
       "type": "blast",
-      "title": "燃爆康城！“暖城三件套”点亮夜空 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQVRFMjJsS011Z2lLeXVpMDFDZ21hcG5GeVZNRkEtVzRKLUtuRHM5a01xREVEVHZqclpFNU9XOWN4UHd2Qmx1Q3hkTk40S3RnUkt5Y0MzVTJDLUw3VzFQNEtQM2lLcXExdHpaUDBjTnEyRzBRR0pmTGFOdTBJVDhmY09sUWs1Smtk?oc=5",
+      "title": "燃爆康城！“暖城三件套”点亮夜空 - 央广网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6czFnVU9ycldLbkN0Q1NEdS1mQ0MzTHNpZ2Z0SEFCMWd6bnZnTXA4ck00YUs5bTZMWUNRYXZ6Z2VjWG03bkdQdWZUb3gyX2t4VU9zVE1yV0tXSlFTRHBod09POGxmVjlB?oc=5",
+      "site": "央广网",
+      "siteUrl": "https://nm.cnr.cn"
+    },
+    {
+      "id": "FL-2e21ea1e5fa3",
+      "date": "2026-10-02",
+      "dateISO": "Fri, 02 Oct 2026 03:19:00 GMT",
+      "ts": 1790911140000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "莫斯科近郊军工化工厂发生爆炸起火，有七人遇难 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNjBGOGFuSjVjS3Blc0QyZkIzRkxySEMyY3FUaGlUMXpaM3RqamxsUm1KTThYWjZrU2JOV2dhTUkxM203UjBCT0RWRnVlR3pTeE5ZcC1TcmpIdUxYdVRVdE9qNlFzaURmUzRkOS1kVUI0bEFESEpWQVozb1BzZUR3V0ctOUVYQzJf?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
     },
