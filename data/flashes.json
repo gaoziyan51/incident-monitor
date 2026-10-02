@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T01:36:51.867Z",
+  "updated": "2026-10-02T01:48:47.712Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -171,18 +171,6 @@
       "siteUrl": "https://abc7news.com"
     },
     {
-      "id": "FL-7511d3974e69",
-      "date": "2026-10-01",
-      "dateISO": "Thu, 01 Oct 2026 22:05:52 GMT",
-      "ts": 1790892352000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Explosion causes damage at battery recycling plant in Lancaster - WSYX",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOYVNHWXMwZzhyWG56R0JlOGxIOV9nUEJBQ24zazdYYTh2ZENXMTJiZGJYcnEwSl9CWlFxckVfMkVwSmp0OW16TEIyYS1fZTVhNHd5RzB4WGdyYVgzV08xZjUyYk1lUXg2bFFJak9xMVRraVNPM1RZRklZSFUybzZxZ2xyTUxuUjF5eS1BMTVrbEQ0c2F1US1OYWE3SVB2Q05wTS1TTXZxbUVXeDl1SUJBcXJUbkt3cnBpN0IzdFpYLWRnSGxCZ01PXzltaHpzUUwxei1HTkd6SUs5bzIwa2JlQkhXaUZUYWF1cmxlMm5FQzYwdG8?oc=5",
-      "site": "WSYX",
-      "siteUrl": "https://abc6onyourside.com"
-    },
-    {
       "id": "FL-1906995a78ad",
       "date": "2026-10-01",
       "dateISO": "Thu, 01 Oct 2026 21:14:00 GMT",
@@ -255,15 +243,15 @@
       "siteUrl": "https://ua.news"
     },
     {
-      "id": "FL-f7b6810bb2c4",
+      "id": "FL-ec99c3dc11e5",
       "date": "2026-10-01",
       "dateISO": "Thu, 01 Oct 2026 11:50:00 GMT",
       "ts": 1790855400000,
       "scope": "intl",
       "type": "blast",
-      "title": "‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years - theguardian.com",
+      "title": "‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOHotQmcyZWt5ZUpHZ1lfZ1F3M0pkQVNBOF9KTTQwUmdLOWZjQkdsRnhpYVNXdWU4S0tQSVFWY1VwYkZCcnVRVWtVRkE5NFlMLWk4QmtydHQwSlJBb0dYMWdTZ1gyenVJZXJQVVdncG5EZkxSbGlBYS1POUZlYUdYN2VWcC1nRE5FTk42VVdPWWRxSGlXZG1nY3FWNVduWnVLQXVzenBLdWs?oc=5",
-      "site": "theguardian.com",
+      "site": "The Guardian",
       "siteUrl": "https://www.theguardian.com"
     },
     {
@@ -361,6 +349,30 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-7511d3974e69",
+      "date": "2026-10-02",
+      "dateISO": "Fri, 02 Oct 2026 01:36:45 GMT",
+      "ts": 1790905005000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Explosion causes damage at battery recycling plant in Lancaster - WSYX",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOYVNHWXMwZzhyWG56R0JlOGxIOV9nUEJBQ24zazdYYTh2ZENXMTJiZGJYcnEwSl9CWlFxckVfMkVwSmp0OW16TEIyYS1fZTVhNHd5RzB4WGdyYVgzV08xZjUyYk1lUXg2bFFJak9xMVRraVNPM1RZRklZSFUybzZxZ2xyTUxuUjF5eS1BMTVrbEQ0c2F1US1OYWE3SVB2Q05wTS1TTXZxbUVXeDl1SUJBcXJUbkt3cnBpN0IzdFpYLWRnSGxCZ01PXzltaHpzUUwxei1HTkd6SUs5bzIwa2JlQkhXaUZUYWF1cmxlMm5FQzYwdG8?oc=5",
+      "site": "WSYX",
+      "siteUrl": "https://abc6onyourside.com"
+    },
+    {
+      "id": "FL-545523f6d579",
+      "date": "2026-10-02",
+      "dateISO": "Fri, 02 Oct 2026 01:32:24 GMT",
+      "ts": 1790904744000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "地下化学爆炸试验成功 美国强化核爆侦测能力 - chinapress.com.my",
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNVDRMNXFBb1o2UmQyMkRlbXIzVGl0QTdfdG5UMkwtdVVobnBrRnJkaWpuS1BfdlB5YWVrMVFGOGcxRTZLTTgtV0RkYUVEUEhIZzU3VHJxMmtaVW1RZW42X3o4cTZLZmZ1bi1oMUJOWHFtWUpFNDNYanZRUWpzcmNVRkdLcXZlMUFlT0VFQWphVm41ckU3VmpLMThWRi10d2hfRlExRlYzZV9nb1ZyU3NiUW5JZWRnc1VLM0Y4TGM5WFRlYkJDcWpKYkVvNVl2ZWJFQm9odVZNaWN2ekpEcUQzeVJERHN1dHRDNVNRR19DdGM0WTk4TVl5NE43YW1YWU9ld2hzdXdVRFU0U1YwTzFkYkFuazZ4ZTZuMHNqaVJTT18wYTdNRFNCdVFHZDBEZ2lfbjMxamVMcWVJRG1BQXlNTDNkSQ?oc=5",
+      "site": "chinapress.com.my",
+      "siteUrl": "https://www.chinapress.com.my"
     },
     {
       "id": "FL-ba19ca7a228d",
