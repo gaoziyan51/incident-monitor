@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T00:06:26.439Z",
+  "updated": "2026-10-02T00:30:07.647Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -87,15 +87,27 @@
       "siteUrl": "https://finance.eastmoney.com"
     },
     {
-      "id": "FL-f1ee346649f5",
+      "id": "FL-dd473ccfbdfe",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 12:35:00 GMT",
+      "ts": 1790685300000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "SpaceX星舰地球轨道飞行提前结束 溅落时剧烈爆炸火光冲天 - 驱动之家",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93RGdDV2Z4Tm1pYUY3RmFSRWFOUW1rVHNfWXVWNkVLMFpDbTRoOUJVdVVBbWxuOTNRVjkzQlpqQWNlTGd3eW43WXNKOG1hOW1pMGJ6TUJIWG0?oc=5",
+      "site": "驱动之家",
+      "siteUrl": "https://news.mydrivers.com"
+    },
+    {
+      "id": "FL-27bf28fa2315",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 12:12:00 GMT",
       "ts": 1790683920000,
       "scope": "dom",
       "type": "blast",
-      "title": "“星舰”受控溅落时发生剧烈爆炸 - cls.cn",
+      "title": "“星舰”受控溅落时发生剧烈爆炸 - 财联社",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ZemMwNnJrSmpfU09scEpCMXNXRGRGaUZ6ZER1MzJyRDBubmdhWjZLTUVjcV9lZVNYdV95dGNtVTZwOEl3OFFhaw?oc=5",
-      "site": "cls.cn",
+      "site": "财联社",
       "siteUrl": "https://www.cls.cn"
     },
     {
@@ -133,18 +145,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fOUNOVy1jMjYtRHRacDFONmZLdmtlUTBvcjVNX0xwMG9rc2lwYkV4ZzRCOFVIVmdNLXdZcUo3Mkw1UnI3elZsRjNGblI4YTBsMGxPeHJCRnZSNWE0dXNTdXRxcUQ?oc=5",
       "site": "财新",
       "siteUrl": "https://science.caixin.com"
-    },
-    {
-      "id": "FL-1a389d0eda83",
-      "date": "2026-10-01",
-      "dateISO": "Thu, 01 Oct 2026 23:16:07 GMT",
-      "ts": 1790896567000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "2 men behind explosion inside a Harvard Medical School building avoid jail time - Boston Herald",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VeUNUeTUwRC1VQzVVQ0NzaXBRaEgyaW5kcldjNC1zRWJoQk1wUHVJQmVYaTdNWm1wZ3R3cGNLelNqbWdwTzlyTXVlcDB3QjJpcnl2a3JnWk42WjdaX2xyU0sycU9sVkhwSzlNZV9fbXpqNmVzR1JXTzhza3Z5Zw?oc=5",
-      "site": "Boston Herald",
-      "siteUrl": "https://www.bostonherald.com"
     },
     {
       "id": "FL-7511d3974e69",
@@ -207,15 +207,15 @@
       "siteUrl": "https://www.ktiv.com"
     },
     {
-      "id": "FL-2ed9b31a453d",
+      "id": "FL-a6d7d85def3c",
       "date": "2026-10-01",
       "dateISO": "Thu, 01 Oct 2026 14:27:33 GMT",
       "ts": 1790864853000,
       "scope": "dom",
       "type": "blast",
-      "title": "埃塞首都傳爆炸聲 反政府武裝稱無人機襲擊 - 大紀元新聞網",
+      "title": "埃塞首都傳爆炸聲 反政府武裝稱無人機襲擊 - epochtimes.com",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1YzVidFkyV0lUWS1lazI0bnNYTHdlN2g3Smd6ZW1jY1FSdERrN0Z3YmpNVmQ2c3RtRlNpNktjNDBKZ1RFczRpNFFneWdWSUcxWUdFTTB4dkstTzIzMVd5adIBZkFVX3lxTFA2dWlueU9yNkdiQmY1UHozcWFiSGdmd1dEUUh6eU12UHhCbVBIMlVfejFZMDRYakN1bk9OQWMzb3RTNWVSSWpsSUxZLU81VXZpWk9YWUVja3hWNUx1X0N5SkVtelpoQQ?oc=5",
-      "site": "大紀元新聞網",
+      "site": "epochtimes.com",
       "siteUrl": "https://www.epochtimes.com"
     },
     {
@@ -231,27 +231,27 @@
       "siteUrl": "https://ua.news"
     },
     {
-      "id": "FL-ec99c3dc11e5",
+      "id": "FL-f7b6810bb2c4",
       "date": "2026-10-01",
       "dateISO": "Thu, 01 Oct 2026 11:50:00 GMT",
       "ts": 1790855400000,
       "scope": "intl",
       "type": "blast",
-      "title": "‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years - The Guardian",
+      "title": "‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years - theguardian.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOHotQmcyZWt5ZUpHZ1lfZ1F3M0pkQVNBOF9KTTQwUmdLOWZjQkdsRnhpYVNXdWU4S0tQSVFWY1VwYkZCcnVRVWtVRkE5NFlMLWk4QmtydHQwSlJBb0dYMWdTZ1gyenVJZXJQVVdncG5EZkxSbGlBYS1POUZlYUdYN2VWcC1nRE5FTk42VVdPWWRxSGlXZG1nY3FWNVduWnVLQXVzenBLdWs?oc=5",
-      "site": "The Guardian",
+      "site": "theguardian.com",
       "siteUrl": "https://www.theguardian.com"
     },
     {
-      "id": "FL-f608bb5b0e0f",
+      "id": "FL-d851b7fe4205",
       "date": "2026-10-01",
       "dateISO": "Thu, 01 Oct 2026 09:15:05 GMT",
       "ts": 1790846105000,
       "scope": "dom",
       "type": "blast",
-      "title": "非军事区爆炸事件后 南韩总统敦促平壤展开对话 - swissinfo.ch",
+      "title": "非军事区爆炸事件后 南韩总统敦促平壤展开对话 - SWI swissinfo.ch",
       "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOczZla3ItZXBJLXJLa3p4UE41ZmNQdHJlMnJ0U3phNGFSUWtWdW43Zi1qelc0MGs4QmIzSkFUU1pQbVc4UUlKeXVGTlpPZWM4eXhvNGUtbFZqQnJmRjl1cV84VWtFanFOYl9RdW04Y09XOU9uNGZva0FGdUFkdlp3TzVXbG9XVlUzOGE5azZXak1tNEVYWWhVMGc3OVFBMG1MdHJIOV9rS1pRRDJ3UEU0b0dqdzEwVEcyMWphN3piMWJJLVRONzZ6UzJXWXNLbnBoZC12Y0JMRGVfcU90WGIyMTUzVzIyWjFCckMtWHNsaHk0RTBBeHZoQlY1c0lEQnlKTkZKeEw1X1I0Znl6N1ZvSk1HMUM2eFF4cEs1MGpUV2RUYWRCaHZZNXhHcVM1VXhhaGVNZXFtdkltSDBxai05bVZlNXo2NTh1WHdIWg?oc=5",
-      "site": "swissinfo.ch",
+      "site": "SWI swissinfo.ch",
       "siteUrl": "https://www.swissinfo.ch"
     },
     {
@@ -349,6 +349,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-b6c5474265f3",
+      "date": "2026-10-02",
+      "dateISO": "Fri, 02 Oct 2026 00:09:19 GMT",
+      "ts": 1790899759000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Men Charged in November HMS Explosion Sentenced to Three Years Probation, Avoiding Jail Time - The Harvard Crimson",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZG1oN0dZYzR0RVFiLWpUekR5eklhT2Z6Q0dRUGZDMkRrTDdyVDFaZE9wV3drbkl5dWtRVDIzbHBKR1JGMy1vYjdaR0hPUl9uaGVtUlkxeEktUGUyNENtVW9GUVNrZzVGLWhhai1IaXZLUnF0ajRwSkR0ejY5OGNNSG4wLXQyMlVmZjZ3VUdRbjdJQzA?oc=5",
+      "site": "The Harvard Crimson",
+      "siteUrl": "https://www.thecrimson.com"
     }
   ]
 }
