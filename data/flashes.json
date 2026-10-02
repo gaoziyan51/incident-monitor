@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T17:11:00.570Z",
+  "updated": "2026-10-02T17:30:07.813Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,15 +15,15 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-f6073b82da9c",
+      "id": "FL-1439f98136f2",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 13:58:53 GMT",
       "ts": 1790776733000,
       "scope": "dom",
       "type": "blast",
-      "title": "网媒“爆炸头”邓浩荣落网 国安处再行动拘两人 - news.china.com",
+      "title": "网媒“爆炸头”邓浩荣落网 国安处再行动拘两人 - 中华网",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53ajNzUENQVGRqclFhZWl2ek43Q2R1dTRoY1BmaTlBaWU4TmF0QlAzcWZiQnhJUnZJbV9HME1OOHJOc3JNazJZZHE2NDVLaGVrOWhWQWZReVRtcXpJZW5XNWo2RFlqUXREcEFTZ21RQS0?oc=5",
-      "site": "news.china.com",
+      "site": "中华网",
       "siteUrl": "https://news.china.com"
     },
     {
@@ -37,6 +37,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCZEM1cDgyc2NLcHBYLXNkWUJsZ21LMEMtRUlfTFpDSGRxQ0pKcW5wMkl3Q1V2YXdaX2E1OG1oZmxYeWk0ZlJBRnl0cmdXLUlPbWVHN0RGU2JVU1B1dURGamtmRG1aUkU?oc=5",
       "site": "联合早报",
       "siteUrl": "https://www.zaobao.com.sg"
+    },
+    {
+      "id": "FL-7c9f7c2536db",
+      "date": "2026-09-30",
+      "dateISO": "Wed, 30 Sep 2026 12:00:03 GMT",
+      "ts": 1790769603000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "星舰首次地轨飞行溅落时剧烈爆炸 着陆过程不平稳引发关注 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OWkRtMVg1aEpwMEFtYTVWU1ZTblNVeG5qdmFvOThhZ0dFVjFOTktPQ3QzLUVJaGtxSHhqRkVwb0M3Zkd1ek9kMHhuM3JrUE80NWZ5RTJFZ1NzT3dZbTliSHhfcU1BN09NRVlzTFZsYnE?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
     },
     {
       "id": "FL-dec5d688a150",
@@ -97,6 +109,18 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MzVkcXZnR2UwelNkenFIYVFYVzBPcUxUQ1VSaUVHcV9LYVJnZzhjQWZzM09DNk8wc0xVNlo2amRqNjBueWtVeTdSbkJZT053RjRSZDhmeXJyT19wekF3UHB6WERtZkxLaFFwT2pVWTE?oc=5",
       "site": "中国科技网",
       "siteUrl": "https://www.stdaily.com"
+    },
+    {
+      "id": "FL-b98b22a2a0b8",
+      "date": "2026-10-01",
+      "dateISO": "Thu, 01 Oct 2026 20:57:33 GMT",
+      "ts": 1790888253000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "追光的你｜肆季南河燃爆了！万人大合唱《我爱你中国》-中国吉林网 - news.cnjiwang.com",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BcFNYSUN0dG4yb3E1czFWV0lCeXJ3dFJWZHJNQ0NsTUhpQUlrUnRTaG9SZE05ZlVHWW9iRzI5YktkbDc4NVZUVDNGeERvcWZsS3Q1TV80ZWQzSmw3TUJn?oc=5",
+      "site": "news.cnjiwang.com",
+      "siteUrl": "https://news.cnjiwang.com"
     },
     {
       "id": "FL-05d7fa3e19a1",
@@ -195,15 +219,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-37ae5c7b2505",
+      "id": "FL-14d5d846c7ad",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 13:34:10 GMT",
       "ts": 1789824850000,
       "scope": "dom",
       "type": "blast",
-      "title": "叙利亚东部爆炸致过渡政府国防部11人死亡 - 新华网客户端",
+      "title": "叙利亚东部爆炸致过渡政府国防部11人死亡 - app.xinhuanet.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa21SSnpRaWdxQy1GYVBmWi1LQ3VzQ0xwZUwzTE9rSVRuLXhac2xTZl9wYlB5c2RoQkRYY1pfbDRZWmF3RFdFZXg4M3NSZ0s0alQ2XzRtUFI0SjR2R2FidlRXZ3pOckwtM20zaFNtR0h4bjFBdTdsZW9yeEpoampleUFNajd4NDVaUElBYTgxUG5vQzRoWjFIcGhn?oc=5",
-      "site": "新华网客户端",
+      "site": "app.xinhuanet.com",
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
@@ -241,18 +265,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPczYyem5udDFmVFlKYXVGZnBMbEMtMVVVTGxnbmlnVjZ0STBpUi1PbWFLWWFaOWZPdEJ3VkxrNUlKV0MySzdodUprV3hXck1xeEhIQVU4VDBXYS14Y2xJZmlyM1FUTFkzdndZaTdSWnhXZEdUZkIzazJXb1NyREFSQmdsQzhfQU5u?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-0f7905aea962",
-      "date": "2026-10-02",
-      "dateISO": "Fri, 02 Oct 2026 15:29:00 GMT",
-      "ts": 1790954940000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Dollar Tree issues nationwide recall for 360K+ party supplies after fires, explosion: Return ASAP - MassLive.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZnFScF9RdW1yajIwOTZHTUhMV2pYLVRwM0xld2RSRGgxX2FVS09lMEl5Unoya2Zlald0MkdsZjhMVWtFUWhSLVhReFhtcGwxVmFUTEp6MGRIZkhQQm9mc1pVU2dxVEJXTzZScnZieHQ2RjFlVlpybTR4QTgwN2hSWlNpYzJtSE4zZHFsQjhCR01yelVqRmF5eWNKTlBuS2wzWTFYS0ZVVUI0QnBMdlQzRnlFbmlIeEljMkk2NXdXZkZzOWNPa2tsV1Z5TUx0bzlVWXR30gHnAUFVX3lxTE9ZOFNjSmVtdXJVRE52cGxYaFRpTzQ3ZnJtMlNjZ05GMTZiY0Z3OUdOVllGOFJoVEJPZTJISU9sVHlHUm5HdUxoZm1NeU5PUjNZeFJrelh4aUp2elg0T3RtR2hJaFRZREJfTFlPTjhVYUlhNTV2bTFYQ0JvLUtwRlhHSWtFUjFmMmk0YV9YdXR0VkJfUmZXSDEwUE1kLUN5R1gyUk9aaXZFRGQxWEpiQ0NnVXdHTE1hcVZMZkpyX2RqQ3QzRHJ0X3BLUS12R0wxWHNKX3dyNUZfc1VTZnZvY1pUR2dZdDF5MA?oc=5",
-      "site": "MassLive.com",
-      "siteUrl": "https://www.masslive.com"
     },
     {
       "id": "FL-1ad474394fa3",
@@ -327,18 +339,6 @@
       "siteUrl": "https://www.chinapress.com.my"
     },
     {
-      "id": "FL-9e597adc617e",
-      "date": "2026-10-02",
-      "dateISO": "Fri, 02 Oct 2026 09:09:00 GMT",
-      "ts": 1790932140000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Driver under arrest after fleeing crash into Middletown home, triggering gas explosion, huge fire - FOX19 | Cincinnati",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONm91NHY3UThGeTNlU281SmtEdFhYcllheTg1OW5RSVQyaEQ1REhlNGxHdFFHY1R1UnlveXlmS2dpS21MOTFHTHozeUZoYUs4ZUJTa0pMM2V2OTlTQUxWd0FxV1hOSDRDX2dGN21LcHRxdXNEXzhzUnpycEJQcVYycVdHWjdzTWZRQ0g3dmFvM3ZXbmN5OFQ4dVZzTGFZME5fd0FiQXVDOG1GYjBLcnAxeXBEbUFxVW5mS1RVZWRLdjFPYU96eXZlMtIB3AFBVV95cUxPUlV3M1FDSTJYVS14RWJ1X3J1czAxZ0ZVeThlVFlhSG9Md01KU0J4LVpTemZqLXZFSlhpSXMtZDBzVVRZTW1Xck1CYVBvbEdJZ3VfaHVKdHVrWTlPbmVoVTNMTG5LLUdEVzZFNmdhZmp5UzVmX0dITEV0UHNEZ1ROMHZ1X0ZPWVFWLTZ5NWZ2bUdFTV8wOWlFYWxMTlY1TjRBcWNKUWxLLUV6ZzkydVdma0ZHSzlhWVJ2Z2t0Z2FhRUd5MHFSYVlWVElaSnFfeUxJdlYyLWpiVjFyQ2xM?oc=5",
-      "site": "FOX19 | Cincinnati",
-      "siteUrl": "https://www.fox19.com"
-    },
-    {
       "id": "FL-e7a8b45be337",
       "date": "2026-10-02",
       "dateISO": "Fri, 02 Oct 2026 08:10:47 GMT",
@@ -351,15 +351,15 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-9fe532809d24",
+      "id": "FL-cb63c6bac410",
       "date": "2026-10-02",
       "dateISO": "Fri, 02 Oct 2026 06:40:59 GMT",
       "ts": 1790923259000,
       "scope": "dom",
       "type": "blast",
-      "title": "【鸭绿江畔 丹东真好】唢呐一响，燃爆全场！ - 新浪财经",
+      "title": "【鸭绿江畔 丹东真好】唢呐一响，燃爆全场！ - finance.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxOSzJvNFIzUVVUbVd1eVNhelhGMVl6UXpUOHFpYTdoMWtjOWNrQmVaOTBBc1A2NW5DODBXRm9Yc1FMR05wcy1ZM3FmWjVydVM0TU1mQ2lGRFBUUE9HMDFEQUotendkNU5IVjZNOEVKRjRRMzFJMWx6by01UWlBZEJlTFNIZmFBT09xMnAyUlJSSGZGcl9vQWp5cXUzSy1FSXVIZERCOW1XMzFqNzZKVktVeXN5bE9iMF9Ya21IQ094cFV6T0pEZ05ULWhXam45QmhTSUFXSTZZN0I3Zk5xZHhndXRRcDBuSDdhUjh3aEFhU0N1QkduVjE4REN6N2lFcDdua20tdGYxSEZTOUtJSUpEc1RlZEZJTGVXdXd4RE1ORzdMWG5Sc0ZKdzBCSDVrZFRmU2JxdUoxMUdoem5oaHRxSktjUU5vZTBsSFBLV0dCU1pzTmdQaUxGeHI1UUNoRDhuZkpjRlZfNktkWjdZTk9LMnJWSS1aSmpPMlZQMkdGS2ZaRi1jcnZPcHB3LTR1dUdjQWdHbENmdUd0ZnRTY3lqWE91OTBEQU90RW1aR2lUS3NFT0VkNkpFaHl1VmNCMU9kRlR1YURGaFJSRGhTX0l4UW1zbmtEQzV1eDJLdXBiMGVVQQ?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.cn",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -399,18 +399,6 @@
       "siteUrl": "https://atvnewsonline.com"
     },
     {
-      "id": "FL-41d335ab845f",
-      "date": "2026-10-02",
-      "dateISO": "Fri, 02 Oct 2026 04:56:12 GMT",
-      "ts": 1790916972000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "追光的你｜肆季南河燃爆了！万人大合唱《我爱你中国》 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTjBSWnFEbW9rUFpRX1hmaGVyOHIycXRSOHE4S1NpcWtFVHMxWGQtcnFIcDZqdEhhSTVZZmhLblJtUUhaODZaRDBpSVNwQ2VuV1pFTm5NVEJTUkFCc0twZkhCU19uVHZPM2Vad0dLVzQzWlc1RjU2WU1pNWJkb2szeU9FQjBfdFN0UElUbA?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-c616bf27116b",
       "date": "2026-10-02",
       "dateISO": "Fri, 02 Oct 2026 04:00:00 GMT",
@@ -423,16 +411,16 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-912793a079d4",
+      "id": "FL-967134de21c8",
       "date": "2026-10-02",
       "dateISO": "Fri, 02 Oct 2026 03:44:00 GMT",
       "ts": 1790912640000,
       "scope": "dom",
       "type": "blast",
-      "title": "燃爆康城！“暖城三件套”点亮夜空 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQVRFMjJsS011Z2lLeXVpMDFDZ21hcG5GeVZNRkEtVzRKLUtuRHM5a01xREVEVHZqclpFNU9XOWN4UHd2Qmx1Q3hkTk40S3RnUkt5Y0MzVTJDLUw3VzFQNEtQM2lLcXExdHpaUDBjTnEyRzBRR0pmTGFOdTBJVDhmY09sUWs1Smtk?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
+      "title": "燃爆康城！“暖城三件套”点亮夜空 - 央广网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6czFnVU9ycldLbkN0Q1NEdS1mQ0MzTHNpZ2Z0SEFCMWd6bnZnTXA4ck00YUs5bTZMWUNRYXZ6Z2VjWG03bkdQdWZUb3gyX2t4VU9zVE1yV0tXSlFTRHBod09POGxmVjlB?oc=5",
+      "site": "央广网",
+      "siteUrl": "https://nm.cnr.cn"
     },
     {
       "id": "FL-2e21ea1e5fa3",
