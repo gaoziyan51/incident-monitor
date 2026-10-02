@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T01:00:30.937Z",
+  "updated": "2026-10-02T01:20:41.940Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -171,18 +171,6 @@
       "siteUrl": "https://abc7news.com"
     },
     {
-      "id": "FL-1a389d0eda83",
-      "date": "2026-10-01",
-      "dateISO": "Thu, 01 Oct 2026 23:16:07 GMT",
-      "ts": 1790896567000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "2 men behind explosion inside a Harvard Medical School building avoid jail time - Boston Herald",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VeUNUeTUwRC1VQzVVQ0NzaXBRaEgyaW5kcldjNC1zRWJoQk1wUHVJQmVYaTdNWm1wZ3R3cGNLelNqbWdwTzlyTXVlcDB3QjJpcnl2a3JnWk42WjdaX2xyU0sycU9sVkhwSzlNZV9fbXpqNmVzR1JXTzhza3Z5Zw?oc=5",
-      "site": "Boston Herald",
-      "siteUrl": "https://www.bostonherald.com"
-    },
-    {
       "id": "FL-7511d3974e69",
       "date": "2026-10-01",
       "dateISO": "Thu, 01 Oct 2026 22:05:52 GMT",
@@ -243,15 +231,15 @@
       "siteUrl": "https://www.ktiv.com"
     },
     {
-      "id": "FL-2ed9b31a453d",
+      "id": "FL-a6d7d85def3c",
       "date": "2026-10-01",
       "dateISO": "Thu, 01 Oct 2026 14:27:33 GMT",
       "ts": 1790864853000,
       "scope": "dom",
       "type": "blast",
-      "title": "埃塞首都傳爆炸聲 反政府武裝稱無人機襲擊 - 大紀元新聞網",
+      "title": "埃塞首都傳爆炸聲 反政府武裝稱無人機襲擊 - epochtimes.com",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1YzVidFkyV0lUWS1lazI0bnNYTHdlN2g3Smd6ZW1jY1FSdERrN0Z3YmpNVmQ2c3RtRlNpNktjNDBKZ1RFczRpNFFneWdWSUcxWUdFTTB4dkstTzIzMVd5adIBZkFVX3lxTFA2dWlueU9yNkdiQmY1UHozcWFiSGdmd1dEUUh6eU12UHhCbVBIMlVfejFZMDRYakN1bk9OQWMzb3RTNWVSSWpsSUxZLU81VXZpWk9YWUVja3hWNUx1X0N5SkVtelpoQQ?oc=5",
-      "site": "大紀元新聞網",
+      "site": "epochtimes.com",
       "siteUrl": "https://www.epochtimes.com"
     },
     {
@@ -322,9 +310,9 @@
       "scope": "intl",
       "type": "blast",
       "title": "雅典老城区爆炸事故致6死3伤 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xTGZlLXJTZlVuMEx6c1BjOFNNcWxlQ25OUW5JdFh5TTh0S0tMZHVGa09ZT3AxZnZ6cGFPT0dRdUZlTHFfaC1IVTRHckdIR2ZvTXNpdlFJUnFZc29PdFBJMGZjMXJjUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PalBtWlYtLVkyQmRpWkxjQ1lOLS1VOEVsbUk2NGs2MV93ZUh0NnJodTBpS0Y3dnNEVExwWEE3Q0UxWjR1V3hUV2ZsSTZLOHVCSHllY0cydlQxbjVZcUNVVg?oc=5",
       "site": "东方财富",
-      "siteUrl": "https://finance.eastmoney.com"
+      "siteUrl": "https://wap.eastmoney.com"
     },
     {
       "id": "FL-53093e91fe3a",
@@ -351,15 +339,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-14d5d846c7ad",
+      "id": "FL-37ae5c7b2505",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 13:34:10 GMT",
       "ts": 1789824850000,
       "scope": "dom",
       "type": "blast",
-      "title": "叙利亚东部爆炸致过渡政府国防部11人死亡 - app.xinhuanet.com",
+      "title": "叙利亚东部爆炸致过渡政府国防部11人死亡 - 新华网客户端",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa21SSnpRaWdxQy1GYVBmWi1LQ3VzQ0xwZUwzTE9rSVRuLXhac2xTZl9wYlB5c2RoQkRYY1pfbDRZWmF3RFdFZXg4M3NSZ0s0alQ2XzRtUFI0SjR2R2FidlRXZ3pOckwtM20zaFNtR0h4bjFBdTdsZW9yeEpoampleUFNajd4NDVaUElBYTgxUG5vQzRoWjFIcGhn?oc=5",
-      "site": "app.xinhuanet.com",
+      "site": "新华网客户端",
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
@@ -397,6 +385,18 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xSmp6ODZ5bEtlbi10SHp1ZnU2Xy1oSmp6eVhHM2tBaUotYTdoZWdadl9ESlVGUWdqM0J4QVY5NnBiQktyVFQtZmV6OHdMVXBJaTd0cVIwZno0clFtc3NyaNIBZkFVX3lxTE5salFJUnBERHVIWV9NXzMzclltMUdkYTF5RnJlUmdIbFRZbVRQVk9SVklUMk9qS0JmUGtLYmR3YTZkWEhKU1JTNmJtcGs0MTVLNmZYcW9NdEJmSGdFcmFGY3h2OFhOdw?oc=5",
       "site": "新唐人電視台",
       "siteUrl": "https://www.ntdtv.com"
+    },
+    {
+      "id": "FL-574082d3c073",
+      "date": "2026-10-02",
+      "dateISO": "Fri, 02 Oct 2026 00:35:41 GMT",
+      "ts": 1790901341000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "2 men behind explosion inside a Harvard Medical School building avoid jail time - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWFVGbUhGdjNPaXUwVG5pZUJZRnA3MjZoNUNEc2c3VEQyN3Z0M0Joekt3WmswY3ZFV25vQnFXRmVUS0M0c05UdV9laGZzcXpDTFdYelFIUGxTMzFHaUJkWVM2RGM4R1JFTjJBZG5zLU1WUU1MRHYyNFd6UEQyWHZDNVlKRnFMU1g4YjFTOXB2bldCczVUZzVKQ1NvSGNiQdIBowFBVV95cUxOMDIzc0d2a0haeUh3R3dIMGpVSDBENEJPdTFVMG5OWGR5R1hKSzFEZlFwa2ctRGhueHVvSzZzWUVqUWJSTWpXRmR2MTcya2ZpME5Od0xaRHp6dzJKR1NFU1pDczY0bU84VEhwNTNrVFlOYnRGRlQxb3AxVjBHczZzc1lMREpmekhQbW02dHRCOWRlVHB1bDAyd2N1QlFGTl9pMWpB?oc=5",
+      "site": "ABC News - Breaking News, Latest News and Videos",
+      "siteUrl": "https://abcnews.com"
     },
     {
       "id": "FL-2a2fa94e0e6f",
