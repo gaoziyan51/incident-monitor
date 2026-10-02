@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T23:27:31.916Z",
+  "updated": "2026-10-02T23:37:36.365Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -75,18 +75,6 @@
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
-      "id": "FL-0229e99d36ef",
-      "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 21:56:19 GMT",
-      "ts": 1790718979000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "“星舰”溅落时引发剧烈爆炸 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aMnVnT0dfZzFDcG9hX2NQYm9BS3ZIQk1nUF9VWGpsRmdKZnMtZjdKVnhhbUItWnozdlZDX3psaUtTYmQxR1A0NmVoeVFSQk1mQ2dNeUdSZl8zTTdYa2h2aWVxdFQ4QQ?oc=5",
-      "site": "东方财富",
-      "siteUrl": "https://finance.eastmoney.com"
-    },
-    {
       "id": "FL-dd473ccfbdfe",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 12:35:00 GMT",
@@ -123,15 +111,15 @@
       "siteUrl": "https://science.caixin.com"
     },
     {
-      "id": "FL-6612abd30963",
+      "id": "FL-71366697633a",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 07:00:00 GMT",
       "ts": 1789628400000,
       "scope": "dom",
       "type": "blast",
-      "title": "宇宙大爆炸最初五分钟氦丰度获最精确测量 - 中国科技网",
+      "title": "宇宙大爆炸最初五分钟氦丰度获最精确测量 - stdaily.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MzVkcXZnR2UwelNkenFIYVFYVzBPcUxUQ1VSaUVHcV9LYVJnZzhjQWZzM09DNk8wc0xVNlo2amRqNjBueWtVeTdSbkJZT053RjRSZDhmeXJyT19wekF3UHB6WERtZkxLaFFwT2pVWTE?oc=5",
-      "site": "中国科技网",
+      "site": "stdaily.com",
       "siteUrl": "https://www.stdaily.com"
     },
     {
@@ -171,15 +159,15 @@
       "siteUrl": "https://www.epochtimes.com"
     },
     {
-      "id": "FL-d2803d2cff60",
+      "id": "FL-f1c86563e0e4",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 17:10:36 GMT",
       "ts": 1790529036000,
       "scope": "intl",
       "type": "blast",
-      "title": "英国疏散美军所用基地附近居民 多人涉爆炸物被捕 - news.cctv.com",
+      "title": "英国疏散美军所用基地附近居民 多人涉爆炸物被捕 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91MjNOYzJjSVZaVUpOZjQ3OGwtYnBaNUZNZi1BTUg0LXlDcjhueElmdjlqWTI1cF83YkdPdjVEUmo3a1FKSXVPTVhpNkVaVF8wNk5GbkJsVG1kQjAzRUtMWEpJMmgxMzNQcTl5bmRadTc4R2xuUVJEWA?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -255,15 +243,15 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
-      "id": "FL-bc5a0b5cb5b0",
+      "id": "FL-c2b5e87a66f1",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 07:00:00 GMT",
       "ts": 1789801200000,
       "scope": "intl",
       "type": "blast",
-      "title": "巴基斯坦西北部爆炸已致21死 巴总统称将继续反恐行动 - news.cctv.com",
+      "title": "巴基斯坦西北部爆炸已致21死 巴总统称将继续反恐行动 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JdTVsYVVFWHBSX3JkaE5ocVh2cmtPd0NWVkpmT1EyOENqOGJZcHhnQllGeU9RYThKRTJmYnRVaXpEQ25RcGNGNi1LcmZJUUFnY2Q1cVVpS2dkSW8wQzJfSFI4U3FYMzdXNmJSWm1SdEpsckl2Y190Sg?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -279,15 +267,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-c39833bbfc21",
+      "id": "FL-945f72fdaf62",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 22:10:00 GMT",
       "ts": 1790374200000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 环球网",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - huanqiu.com",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5naEpaTmt5bmlhUXlZdndRR2F3XzN6Z2d5aWcwdU4zRnpJWXBJX3VpVWxzRDBzQUFVRXZ4TW1lOTJQUEhCQ3NDNDFEN2FpVTRuYTh3?oc=5",
-      "site": "环球网",
+      "site": "huanqiu.com",
       "siteUrl": "https://m.huanqiu.com"
     },
     {
@@ -327,15 +315,15 @@
       "siteUrl": "https://www.13abc.com"
     },
     {
-      "id": "FL-5fdbd83a7698",
+      "id": "FL-a1625e58e48d",
       "date": "2026-10-02",
       "dateISO": "Fri, 02 Oct 2026 18:00:08 GMT",
       "ts": 1790964008000,
-      "scope": "dom",
+      "scope": "intl",
       "type": "blast",
-      "title": "美提升核爆炸探测能力，中共秘密核试验和陈友麟案件再引关注 - voachinese.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWnRiOWpoQ21MQ0tYTkh0c3hWVTFSbV9ZQlcxWUF4SmtBanZHZmNIc296ZkJUcjBIVnZlTmZDZXY3WnlfWXJPWmU0WHYxa1F4RlFxWDlaMjlaRGtCYTdTVU9fa3JaMkVlSllKZWVObWpKS1o3ZVZlNTk3RGN6ejJGSTFCbTd2RFVYM2FfQk5heEcxWDYtc0Q3bDl4Wnp5em1ZdE9WZi11VTd6bi1TWnlycUc2VmR5eUJ6Mk15Y1ZCQlhrc2tmcWpKTVpRZlpEbjFYU1JhTWZBONIB1wFBVV95cUxNWnRiOWpoQ21MQ0tYTkh0c3hWVTFSbV9ZQlcxWUF4SmtBanZHZmNIc296ZkJUcjBIVnZlTmZDZXY3WnlfWXJPWmU0WHYxa1F4RlFxWDlaMjlaRGtCYTdTVU9fa3JaMkVlSllKZWVObWpKS1o3ZVZlNTk3RGN6ejJGSTFCbTd2RFVYM2FfQk5heEcxWDYtc0Q3bDl4Wnp5em1ZdE9WZi11VTd6bi1TWnlycUc2VmR5eUJ6Mk15Y1ZCQlhrc2tmcWpKTVpRZlpEbjFYU1JhTWZBOA?oc=5",
-      "site": "voachinese.com",
+      "title": "美提升核爆炸探测能力，中共秘密核试验和陈友麟案件再引关注 - 美国之音",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN1gtb1drX1hWS3NBMzU4MlNRVEJ1TkUzQmJCR1B0a3VFS2MxU05ZTTZ1UjlmZnJZU2JYNHgyOGVwZ1dUZjdIZ3hxaWlPNGZsQTc3VjRlRTlPd3hlR1d2b3RVVE92dUwzMTlwVVB1TmphZUN1OG5iTU5WYU5EZjJmM3BpNHctZ3ljVTgtTXJuX1YzeVM2bmVmTkEzZzBnczIzSFFRWmxHRGd2SUdVb01wNGZsSmVVOWlYcG1LZHZYWk1BQU9wcnhhb3Q2dVZXaDlUSHNqZ9IB1wFBVV95cUxNWnRiOWpoQ21MQ0tYTkh0c3hWVTFSbV9ZQlcxWUF4SmtBanZHZmNIc296ZkJUcjBIVnZlTmZDZXY3WnlfWXJPWmU0WHYxa1F4RlFxWDlaMjlaRGtCYTdTVU9fa3JaMkVlSllKZWVObWpKS1o3ZVZlNTk3RGN6ejJGSTFCbTd2RFVYM2FfQk5heEcxWDYtc0Q3bDl4Wnp5em1ZdE9WZi11VTd6bi1TWnlycUc2VmR5eUJ6Mk15Y1ZCQlhrc2tmcWpKTVpRZlpEbjFYU1JhTWZBOA?oc=5",
+      "site": "美国之音",
       "siteUrl": "https://www.voachinese.com"
     },
     {
