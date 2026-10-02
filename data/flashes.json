@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T01:58:46.635Z",
+  "updated": "2026-10-02T02:09:22.935Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -147,6 +147,18 @@
       "siteUrl": "https://science.caixin.com"
     },
     {
+      "id": "FL-6612abd30963",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 07:00:00 GMT",
+      "ts": 1789628400000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "宇宙大爆炸最初五分钟氦丰度获最精确测量 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MzVkcXZnR2UwelNkenFIYVFYVzBPcUxUQ1VSaUVHcV9LYVJnZzhjQWZzM09DNk8wc0xVNlo2amRqNjBueWtVeTdSbkJZT053RjRSZDhmeXJyT19wekF3UHB6WERtZkxLaFFwT2pVWTE?oc=5",
+      "site": "中国科技网",
+      "siteUrl": "https://www.stdaily.com"
+    },
+    {
       "id": "FL-5c33c2b4f4be",
       "date": "2026-10-01",
       "dateISO": "Thu, 01 Oct 2026 23:52:22 GMT",
@@ -181,18 +193,6 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BcFNYSUN0dG4yb3E1czFWV0lCeXJ3dFJWZHJNQ0NsTUhpQUlrUnRTaG9SZE05ZlVHWW9iRzI5YktkbDc4NVZUVDNGeERvcWZsS3Q1TV80ZWQzSmw3TUJn?oc=5",
       "site": "news.cnjiwang.com",
       "siteUrl": "https://news.cnjiwang.com"
-    },
-    {
-      "id": "FL-c3337941c157",
-      "date": "2026-10-01",
-      "dateISO": "Thu, 01 Oct 2026 17:28:28 GMT",
-      "ts": 1790875708000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "7 Reported Killed in Explosion at Ammunition Plant Near Moscow - themoscowtimes.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeWdqdF9LM3Bxc3NtX2RVZF82Nmp1ZGkyVzRzeFVTTGV2cUFvVmhmcURCaGI5cW9sQWliZVJBcGlIRUtoemxYNzRIdnEyOU5ENXNXYjF4SDVzWFE2WEo4RFRzUWJzZXdMd29ibU9ZLUNoX1I4MU5pbU91TUs5OE9mcGhDbUF1a253T2JVQVIwWjlRcG5RME11OWVCYmU4YkZyR1plTXphLTF6OTlEYVBsWg?oc=5",
-      "site": "themoscowtimes.com",
-      "siteUrl": "https://www.themoscowtimes.com"
     },
     {
       "id": "FL-4ebb0c4dfeeb",
