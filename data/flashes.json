@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T05:07:29.043Z",
+  "updated": "2026-10-03T05:28:47.818Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,15 +15,15 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-f6073b82da9c",
+      "id": "FL-1439f98136f2",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 13:58:53 GMT",
       "ts": 1790776733000,
       "scope": "dom",
       "type": "blast",
-      "title": "网媒“爆炸头”邓浩荣落网 国安处再行动拘两人 - news.china.com",
+      "title": "网媒“爆炸头”邓浩荣落网 国安处再行动拘两人 - 中华网",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53ajNzUENQVGRqclFhZWl2ek43Q2R1dTRoY1BmaTlBaWU4TmF0QlAzcWZiQnhJUnZJbV9HME1OOHJOc3JNazJZZHE2NDVLaGVrOWhWQWZReVRtcXpJZW5XNWo2RFlqUXREcEFTZ21RQS0?oc=5",
-      "site": "news.china.com",
+      "site": "中华网",
       "siteUrl": "https://news.china.com"
     },
     {
@@ -61,18 +61,6 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3ZnZEaG1GeE9YY2lxS21Uc2RUZVRjWnl1ZlowQWNrN0dfU3N3ejBURkVsaEZnQlBfN2JGV2MzWkl3N3NBUnkyVlpjTEVqazE2Ujd2dmdNbVJ4V1EyNmxrTHJtSnZFelNjNkE?oc=5",
       "site": "联合早报",
       "siteUrl": "https://www.zaobao.com.sg"
-    },
-    {
-      "id": "FL-954b90e09172",
-      "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 08:58:00 GMT",
-      "ts": 1790672280000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "韩朝非军事区地雷爆炸致3伤，韩国总统要求军方迅速查明真相 - bjnews.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1clZ0V1NBMFBPdVJRUG9DeWFCSUVha253ejg3emtXNFFOWnBNazZyOTVmWWZnOVZmay16RzBWRGZlZWlNUW5Oa0lxTGFVZEliQ01Wb0Q4cHYzQVBWRmc1QVZLMFc?oc=5",
-      "site": "bjnews.com.cn",
-      "siteUrl": "https://www.bjnews.com.cn"
     },
     {
       "id": "FL-385dd58b908a",
@@ -123,15 +111,15 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
-      "id": "FL-4f9e2502ed08",
+      "id": "FL-a6d7d85def3c",
       "date": "2026-10-01",
       "dateISO": "Thu, 01 Oct 2026 14:27:33 GMT",
       "ts": 1790864853000,
       "scope": "dom",
       "type": "blast",
-      "title": "埃塞首都傳爆炸聲 反政府武裝稱無人機襲擊 - 大紀元",
+      "title": "埃塞首都傳爆炸聲 反政府武裝稱無人機襲擊 - epochtimes.com",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1YzVidFkyV0lUWS1lazI0bnNYTHdlN2g3Smd6ZW1jY1FSdERrN0Z3YmpNVmQ2c3RtRlNpNktjNDBKZ1RFczRpNFFneWdWSUcxWUdFTTB4dkstTzIzMVd5adIBZkFVX3lxTFA2dWlueU9yNkdiQmY1UHozcWFiSGdmd1dEUUh6eU12UHhCbVBIMlVfejFZMDRYakN1bk9OQWMzb3RTNWVSSWpsSUxZLU81VXZpWk9YWUVja3hWNUx1X0N5SkVtelpoQQ?oc=5",
-      "site": "大紀元",
+      "site": "epochtimes.com",
       "siteUrl": "https://www.epochtimes.com"
     },
     {
@@ -243,6 +231,18 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
+      "id": "FL-118f308c5393",
+      "date": "2026-10-03",
+      "dateISO": "Sat, 03 Oct 2026 05:18:38 GMT",
+      "ts": 1791004718000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "陈思诚新片真实还原公交爆炸案，写实感让人头皮发麻 - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1NTlFGRDF5c0s5bFRwLTRTanFaNFdMaU44R0xfX211dWcwN1pSYlNmMjZJcmtwYUN0MXBFOWdTTGY3ZTZtZnV2bGJKZTB4MFZrbDhlMU53QVN3OUV3UVp5QmJOWUdQYjdKM2JOS0hMUmN5dVU?oc=5",
+      "site": "手机新浪网",
+      "siteUrl": "https://k.sina.com.cn"
+    },
+    {
       "id": "FL-f03628ee23a1",
       "date": "2026-10-03",
       "dateISO": "Sat, 03 Oct 2026 04:39:10 GMT",
@@ -351,15 +351,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-04a7f5e6198a",
+      "id": "FL-1f2723c188bd",
       "date": "2026-10-02",
       "dateISO": "Fri, 02 Oct 2026 12:40:30 GMT",
       "ts": 1790944830000,
       "scope": "dom",
       "type": "blast",
-      "title": "图集丨T3挑战赛燃爆阿拉善英雄会 - nm.cnr.cn",
+      "title": "图集丨T3挑战赛燃爆阿拉善英雄会 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwSUxldGxaM2hJR2RBVnBZTkZjdkJCQXZCc0hCbTh0NGU4X19KVTRFeFlPWkpfTjF4YmpCWW9MbmtKRDNvMEt4NXA1TFJzS1ZwVllvREk1NG4tNURCbWQ2aXhVMEVWTTdFM1E?oc=5",
-      "site": "nm.cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://nm.cnr.cn"
     },
     {
@@ -387,15 +387,15 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-4fcc9d51fbbd",
+      "id": "FL-d42032669516",
       "date": "2026-10-02",
       "dateISO": "Fri, 02 Oct 2026 07:36:23 GMT",
       "ts": 1790926583000,
       "scope": "dom",
       "type": "blast",
-      "title": "娘惹舞遇醉龙！中山西区这场非遗互动汇演燃爆了 - 中山网",
+      "title": "娘惹舞遇醉龙！中山西区这场非遗互动汇演燃爆了 - zsnews.cn",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PM3VJVHhwLUxzQzBPbUhsemI5VDVSVENQSENPZUV0aWtnVjNobXFybzN3TU1WR3ZmdVRaVnp6dnluOU5rVkZBcXd0VkVpbjZtQVNONXc2VkZvU1pKc0R4bWhraVBYWkhtOG1ZMmRn?oc=5",
-      "site": "中山网",
+      "site": "zsnews.cn",
       "siteUrl": "http://www.zsnews.cn"
     },
     {
@@ -435,15 +435,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-38b0560bb3f6",
+      "id": "FL-967134de21c8",
       "date": "2026-10-02",
       "dateISO": "Fri, 02 Oct 2026 03:44:00 GMT",
       "ts": 1790912640000,
       "scope": "dom",
       "type": "blast",
-      "title": "燃爆康城！“暖城三件套”点亮夜空 - nm.cnr.cn",
+      "title": "燃爆康城！“暖城三件套”点亮夜空 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6czFnVU9ycldLbkN0Q1NEdS1mQ0MzTHNpZ2Z0SEFCMWd6bnZnTXA4ck00YUs5bTZMWUNRYXZ6Z2VjWG03bkdQdWZUb3gyX2t4VU9zVE1yV0tXSlFTRHBod09POGxmVjlB?oc=5",
-      "site": "nm.cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://nm.cnr.cn"
     },
     {
