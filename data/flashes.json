@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T02:02:07.451Z",
+  "updated": "2026-10-03T02:21:50.210Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -75,6 +75,18 @@
       "siteUrl": "https://news.mydrivers.com"
     },
     {
+      "id": "FL-b243152dc25d",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 08:58:00 GMT",
+      "ts": 1790672280000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "韩朝非军事区地雷爆炸致3伤，韩国总统要求军方迅速查明真相 - 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1clZ0V1NBMFBPdVJRUG9DeWFCSUVha253ejg3emtXNFFOWnBNazZyOTVmWWZnOVZmay16RzBWRGZlZWlNUW5Oa0lxTGFVZEliQ01Wb0Q4cHYzQVBWRmc1QVZLMFc?oc=5",
+      "site": "新京报",
+      "siteUrl": "https://www.bjnews.com.cn"
+    },
+    {
       "id": "FL-385dd58b908a",
       "date": "2026-08-11",
       "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
@@ -123,15 +135,15 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
-      "id": "FL-4f9e2502ed08",
+      "id": "FL-2ed9b31a453d",
       "date": "2026-10-01",
       "dateISO": "Thu, 01 Oct 2026 14:27:33 GMT",
       "ts": 1790864853000,
       "scope": "dom",
       "type": "blast",
-      "title": "埃塞首都傳爆炸聲 反政府武裝稱無人機襲擊 - 大紀元",
+      "title": "埃塞首都傳爆炸聲 反政府武裝稱無人機襲擊 - 大紀元新聞網",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1YzVidFkyV0lUWS1lazI0bnNYTHdlN2g3Smd6ZW1jY1FSdERrN0Z3YmpNVmQ2c3RtRlNpNktjNDBKZ1RFczRpNFFneWdWSUcxWUdFTTB4dkstTzIzMVd5adIBZkFVX3lxTFA2dWlueU9yNkdiQmY1UHozcWFiSGdmd1dEUUh6eU12UHhCbVBIMlVfejFZMDRYakN1bk9OQWMzb3RTNWVSSWpsSUxZLU81VXZpWk9YWUVja3hWNUx1X0N5SkVtelpoQQ?oc=5",
-      "site": "大紀元",
+      "site": "大紀元新聞網",
       "siteUrl": "https://www.epochtimes.com"
     },
     {
@@ -193,6 +205,18 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUU9ESGJKMW5sendsVU4zOUFWYXhBSlFXdVFQUXZ5RVZqQzhlTTRFSlpsSmdWeFRXSHlJakg3ckQtVElSSGZtYkhDM3JMUXVmVTZMX09CeFRhTlVNZ3c0MFNXQXM2LWVpMURDNjU3cXZ6Y01wWHQxRTNIZDhfWEsyUVNJb21URjZKZkJVMElGZ0xueENOU2Jyd0ZNaHk1akVU?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-08d5beb77eeb",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 11:33:03 GMT",
+      "ts": 1790422383000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 新华网客户端",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaEUzM21qMG8zSnRRcy1iYjkwOUxBeWEyRnVHaVNZcmhIZ0FwS0lUYWhndmd0WHp1ZHpxVTZSYUlMLUVGVWxseUcwOEprSHA4MExzeFFxVFV3OVlacVc3dTVvMi1VUUVsVXlTb3I1bWlUS3dDUlBzcEs4allydkhIdFU3ckVMZjJPVXQ0ZWJQWkFWNEpITlhnTlR3?oc=5",
+      "site": "新华网客户端",
+      "siteUrl": "https://app.xinhuanet.com"
     },
     {
       "id": "FL-5e735aebc1c3",
@@ -327,27 +351,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-5cf64a8ad3ca",
-      "date": "2026-10-02",
-      "dateISO": "Fri, 02 Oct 2026 14:08:51 GMT",
-      "ts": 1790950131000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "「爆炸头」被捕｜邓炳强去信《纽约时报》斥文章歪曲事实 强调案件与新闻自由无关 - 星島頭條",
-      "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxNVGQxbUdiMHJLQ1FTamZwZEZEUWtBZkVHc2tudkpLcjlhQ1FMdDJCWFg1d3dlSzgyLWlpbHBHWXRMcl9nRVVCbjRxWF9DQjkxZUxhWHNaTm01dmlyWGZydVF6dl9ycXl5SUhjVVNZMUdLUmZSMWpHa3VsNklPVTY4YkhwX3lwUHhSOGdsTXBpNkpybVhuZXhfZmlaQXZsbkFaTU1SR0JXYi1UN2JpWkk4cUlqNHVYVjBXZ0NJZ211b0xpR09WWmZuWnR0WEdFZ3N5aGlvdEwzZV9uZHpXU3I3SGdTb25PMFJ0S0VGSm0xZ3k2ZUxQa1ZLUmZlQzktS3BDOGpfUHdIMzc2NGdoSzlHZS1mOEgwOVdadzk4QUxqNG9NcncxRmJ2R3FiZXZ1TlJ4ZC0yYWJlSHpXMXM1NlIwb1hkanM5T2hvX21uWDdUZU1CVHJ0YjJGd1NQVVM3OTBrT19FZ3FYQmh4cTRjdFpzVkxVVVhsM05SWFZaaTdaZEVZeVllN3NxMGpCcURsczVqNlBkZGZSa2tlMnprelgzYW5wQVc2Y2FnZnBiMXlraWQ3OHA1VWRjdGNTeXBrVWNPUzZpSUtFZEhvUTBBellvekZIang1S0ZpZGQxT3VFN3I1VFE?oc=5",
-      "site": "星島頭條",
-      "siteUrl": "https://www.stheadline.com"
-    },
-    {
-      "id": "FL-04a7f5e6198a",
+      "id": "FL-1f2723c188bd",
       "date": "2026-10-02",
       "dateISO": "Fri, 02 Oct 2026 12:40:30 GMT",
       "ts": 1790944830000,
       "scope": "dom",
       "type": "blast",
-      "title": "图集丨T3挑战赛燃爆阿拉善英雄会 - nm.cnr.cn",
+      "title": "图集丨T3挑战赛燃爆阿拉善英雄会 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwSUxldGxaM2hJR2RBVnBZTkZjdkJCQXZCc0hCbTh0NGU4X19KVTRFeFlPWkpfTjF4YmpCWW9MbmtKRDNvMEt4NXA1TFJzS1ZwVllvREk1NG4tNURCbWQ2aXhVMEVWTTdFM1E?oc=5",
-      "site": "nm.cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://nm.cnr.cn"
     },
     {
@@ -399,15 +411,15 @@
       "siteUrl": "https://www.sphericalinsights.com"
     },
     {
-      "id": "FL-60e3ae8a5cff",
+      "id": "FL-d4d25a9bf04a",
       "date": "2026-10-02",
       "dateISO": "Fri, 02 Oct 2026 05:31:50 GMT",
       "ts": 1790919110000,
       "scope": "intl",
       "type": "blast",
-      "title": "胡塞武装袭击地区军事设施 也门亚丁传出爆炸声 - 东方财富",
+      "title": "胡塞武装袭击地区军事设施 也门亚丁传出爆炸声 - finance.eastmoney.com",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoeVpvMGVWMXFuYW1fLWUwUFJYTTd5cEFjMHFpYjZPWWdRbndodF91TUtUYTBpcWZpZGtwU204WGRmQVpFclRxLXU5TUVMWVdPMDVscExURFhyaVEtNDNzMW00aWlnQQ?oc=5",
-      "site": "东方财富",
+      "site": "finance.eastmoney.com",
       "siteUrl": "https://finance.eastmoney.com"
     },
     {
@@ -423,15 +435,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-38b0560bb3f6",
+      "id": "FL-967134de21c8",
       "date": "2026-10-02",
       "dateISO": "Fri, 02 Oct 2026 03:44:00 GMT",
       "ts": 1790912640000,
       "scope": "dom",
       "type": "blast",
-      "title": "燃爆康城！“暖城三件套”点亮夜空 - nm.cnr.cn",
+      "title": "燃爆康城！“暖城三件套”点亮夜空 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6czFnVU9ycldLbkN0Q1NEdS1mQ0MzTHNpZ2Z0SEFCMWd6bnZnTXA4ck00YUs5bTZMWUNRYXZ6Z2VjWG03bkdQdWZUb3gyX2t4VU9zVE1yV0tXSlFTRHBod09POGxmVjlB?oc=5",
-      "site": "nm.cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://nm.cnr.cn"
     },
     {
@@ -459,15 +471,15 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
-      "id": "FL-2a2fa94e0e6f",
+      "id": "FL-e04fc0b9637c",
       "date": "2026-10-02",
       "dateISO": "Fri, 02 Oct 2026 00:34:03 GMT",
       "ts": 1790901243000,
       "scope": "dom",
       "type": "blast",
-      "title": "职业性爆炸暴露相关的脑代谢与微结构改变：基于FDG-PET与DTI的服役人员研究 - 生物通",
+      "title": "职业性爆炸暴露相关的脑代谢与微结构改变：基于FDG-PET与DTI的服役人员研究 - ebiotrade.com",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PdEFfUUxZMk9XSGZRbF9RTC1kZ25sb2QzQVd6ZkcyUkFsbWFGUGF3NlBHb2FpcVFSN3A0aktMcE5naUJxNmw1T05nVDAxUjJ4Sm1yQy02MzFubHpkelFrT043cXJBOVNielRaT3NB?oc=5",
-      "site": "生物通",
+      "site": "ebiotrade.com",
       "siteUrl": "https://www.ebiotrade.com"
     }
   ]
