@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T04:21:34.540Z",
+  "updated": "2026-10-03T04:37:59.322Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -27,64 +27,40 @@
       "siteUrl": "https://news.china.com"
     },
     {
-      "id": "FL-902bc8004a5f",
+      "id": "FL-c4e3d68b0d5c",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 13:26:30 GMT",
       "ts": 1790774790000,
       "scope": "dom",
       "type": "blast",
-      "title": "学校引爆爆炸物炸伤自身 马国12岁男童被捕 - 联合早报",
+      "title": "学校引爆爆炸物炸伤自身 马国12岁男童被捕 - zaobao.com.sg",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCZEM1cDgyc2NLcHBYLXNkWUJsZ21LMEMtRUlfTFpDSGRxQ0pKcW5wMkl3Q1V2YXdaX2E1OG1oZmxYeWk0ZlJBRnl0cmdXLUlPbWVHN0RGU2JVU1B1dURGamtmRG1aUkU?oc=5",
-      "site": "联合早报",
+      "site": "zaobao.com.sg",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
-      "id": "FL-dec5d688a150",
+      "id": "FL-cadd35186718",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 11:12:00 GMT",
       "ts": 1790766720000,
       "scope": "intl",
       "type": "blast",
-      "title": "印度曼格洛尔炼油厂发生爆炸，造成1人死亡——OilPrice - UA.NEWS",
+      "title": "印度曼格洛尔炼油厂发生爆炸，造成1人死亡——OilPrice - ua.news",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQXZ2VjVjYTNSSXBXaUU4RWJRME9HQUhIUW1VZnJlZHNCaVZuUVVUdFFsUmxnNEFkQkhxMFYzelJHTUJCek5fdldocHcxeHV3YmJOSTExTTlHZ3R4cXRGSVRKbXJOZkZKNTFuTDhHaUtISDFQLVFrTmRrMXMxNUIxcHV3OEpBYmt3QzVxU2tMTTN6ZGE0ay1qWQ?oc=5",
-      "site": "UA.NEWS",
+      "site": "ua.news",
       "siteUrl": "https://ua.news"
     },
     {
-      "id": "FL-af2cce547279",
+      "id": "FL-0115ee714c6a",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 04:43:19 GMT",
       "ts": 1790743399000,
       "scope": "dom",
       "type": "blast",
-      "title": "韩军促朝停止边境加固工程并就爆炸事故道歉 - 联合早报",
+      "title": "韩军促朝停止边境加固工程并就爆炸事故道歉 - zaobao.com.sg",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3ZnZEaG1GeE9YY2lxS21Uc2RUZVRjWnl1ZlowQWNrN0dfU3N3ejBURkVsaEZnQlBfN2JGV2MzWkl3N3NBUnkyVlpjTEVqazE2Ujd2dmdNbVJ4V1EyNmxrTHJtSnZFelNjNkE?oc=5",
-      "site": "联合早报",
+      "site": "zaobao.com.sg",
       "siteUrl": "https://www.zaobao.com.sg"
-    },
-    {
-      "id": "FL-cdd8ba244637",
-      "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 12:35:00 GMT",
-      "ts": 1790685300000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "SpaceX星舰地球轨道飞行提前结束 溅落时剧烈爆炸火光冲天 - news.mydrivers.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93RGdDV2Z4Tm1pYUY3RmFSRWFOUW1rVHNfWXVWNkVLMFpDbTRoOUJVdVVBbWxuOTNRVjkzQlpqQWNlTGd3eW43WXNKOG1hOW1pMGJ6TUJIWG0?oc=5",
-      "site": "news.mydrivers.com",
-      "siteUrl": "https://news.mydrivers.com"
-    },
-    {
-      "id": "FL-b243152dc25d",
-      "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 08:58:00 GMT",
-      "ts": 1790672280000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "韩朝非军事区地雷爆炸致3伤，韩国总统要求军方迅速查明真相 - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1clZ0V1NBMFBPdVJRUG9DeWFCSUVha253ejg3emtXNFFOWnBNazZyOTVmWWZnOVZmay16RzBWRGZlZWlNUW5Oa0lxTGFVZEliQ01Wb0Q4cHYzQVBWRmc1QVZLMFc?oc=5",
-      "site": "新京报",
-      "siteUrl": "https://www.bjnews.com.cn"
     },
     {
       "id": "FL-385dd58b908a",
@@ -135,27 +111,27 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
-      "id": "FL-4f9e2502ed08",
+      "id": "FL-a6d7d85def3c",
       "date": "2026-10-01",
       "dateISO": "Thu, 01 Oct 2026 14:27:33 GMT",
       "ts": 1790864853000,
       "scope": "dom",
       "type": "blast",
-      "title": "埃塞首都傳爆炸聲 反政府武裝稱無人機襲擊 - 大紀元",
+      "title": "埃塞首都傳爆炸聲 反政府武裝稱無人機襲擊 - epochtimes.com",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1YzVidFkyV0lUWS1lazI0bnNYTHdlN2g3Smd6ZW1jY1FSdERrN0Z3YmpNVmQ2c3RtRlNpNktjNDBKZ1RFczRpNFFneWdWSUcxWUdFTTB4dkstTzIzMVd5adIBZkFVX3lxTFA2dWlueU9yNkdiQmY1UHozcWFiSGdmd1dEUUh6eU12UHhCbVBIMlVfejFZMDRYakN1bk9OQWMzb3RTNWVSSWpsSUxZLU81VXZpWk9YWUVja3hWNUx1X0N5SkVtelpoQQ?oc=5",
-      "site": "大紀元",
+      "site": "epochtimes.com",
       "siteUrl": "https://www.epochtimes.com"
     },
     {
-      "id": "FL-d2803d2cff60",
+      "id": "FL-f1c86563e0e4",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 17:10:36 GMT",
       "ts": 1790529036000,
       "scope": "intl",
       "type": "blast",
-      "title": "英国疏散美军所用基地附近居民 多人涉爆炸物被捕 - news.cctv.com",
+      "title": "英国疏散美军所用基地附近居民 多人涉爆炸物被捕 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91MjNOYzJjSVZaVUpOZjQ3OGwtYnBaNUZNZi1BTUg0LXlDcjhueElmdjlqWTI1cF83YkdPdjVEUmo3a1FKSXVPTVhpNkVaVF8wNk5GbkJsVG1kQjAzRUtMWEpJMmgxMzNQcTl5bmRadTc4R2xuUVJEWA?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -219,18 +195,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-08d5beb77eeb",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 11:33:03 GMT",
-      "ts": 1790422383000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 新华网客户端",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaEUzM21qMG8zSnRRcy1iYjkwOUxBeWEyRnVHaVNZcmhIZ0FwS0lUYWhndmd0WHp1ZHpxVTZSYUlMLUVGVWxseUcwOEprSHA4MExzeFFxVFV3OVlacVc3dTVvMi1VUUVsVXlTb3I1bWlUS3dDUlBzcEs4allydkhIdFU3ckVMZjJPVXQ0ZWJQWkFWNEpITlhnTlR3?oc=5",
-      "site": "新华网客户端",
-      "siteUrl": "https://app.xinhuanet.com"
-    },
-    {
       "id": "FL-5e735aebc1c3",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 11:26:44 GMT",
@@ -255,16 +219,28 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
-      "id": "FL-bc5a0b5cb5b0",
+      "id": "FL-c2b5e87a66f1",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 07:00:00 GMT",
       "ts": 1789801200000,
       "scope": "intl",
       "type": "blast",
-      "title": "巴基斯坦西北部爆炸已致21死 巴总统称将继续反恐行动 - news.cctv.com",
+      "title": "巴基斯坦西北部爆炸已致21死 巴总统称将继续反恐行动 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JdTVsYVVFWHBSX3JkaE5ocVh2cmtPd0NWVkpmT1EyOENqOGJZcHhnQllGeU9RYThKRTJmYnRVaXpEQ25RcGNGNi1LcmZJUUFnY2Q1cVVpS2dkSW8wQzJfSFI4U3FYMzdXNmJSWm1SdEpsckl2Y190Sg?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
+    },
+    {
+      "id": "FL-0507c9708274",
+      "date": "2026-10-03",
+      "dateISO": "Sat, 03 Oct 2026 04:19:03 GMT",
+      "ts": 1791001143000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "AI引发论文大爆炸，审稿体系濒临崩塌：arXiv也开始最严限流了 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLTlnUkJmTXJ2eUJFODQ3WWpUWE4tdXQ1bng3S3U4S2g1R04yenY2WGVGc3UwbXBnYmh3aUptTHprMjhkTmFrc3pxNUtLRWhRT19MT3V2cmszM1hkaWJDSEN5ejdJRHhTY0UxQkdIMFh5YlhEd0ZfMGd1M2dyOHg1MTZGT295azZT?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-00bcf883b8c5",
@@ -315,6 +291,18 @@
       "siteUrl": "https://abc7.com"
     },
     {
+      "id": "FL-00f90ef88d1d",
+      "date": "2026-10-02",
+      "dateISO": "Fri, 02 Oct 2026 23:16:39 GMT",
+      "ts": 1790982999000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "庆祖国华诞，守九州山河！一首《CHINA 中国》燃爆了，大气磅礴，听得热血沸腾！ - 手机网易网",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5UVDlfcnZHc29LV1NCNEJrS0ZHd3dzSEZNX0hXRTVrbXhJbmJXZzZQUDJaTzNhQXowRHV4a1Y2M2RENTZQNFF1SjI0TVR3MGJaWnhNSQ?oc=5",
+      "site": "手机网易网",
+      "siteUrl": "https://www.163.com"
+    },
+    {
       "id": "FL-4cc80280a6ca",
       "date": "2026-10-02",
       "dateISO": "Fri, 02 Oct 2026 21:52:28 GMT",
@@ -339,15 +327,15 @@
       "siteUrl": "https://www.voachinese.com"
     },
     {
-      "id": "FL-8be8956a320f",
+      "id": "FL-9f1b8efd5eb3",
       "date": "2026-10-02",
       "dateISO": "Fri, 02 Oct 2026 16:00:00 GMT",
       "ts": 1790956800000,
       "scope": "intl",
       "type": "blast",
-      "title": "埃塞俄比亚军队在爆炸声中向提格雷首府推进——法国24 台 - UA.NEWS",
+      "title": "埃塞俄比亚军队在爆炸声中向提格雷首府推进——法国24 台 - ua.news",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN1NQRG5JTkNyWW9QV1JNTk1uYjloeDktNkpnS2RydnZSc1RvZVZ2WTIyem9oVDczbGNzc0hFX0R5bllZSUhsNU9EUGlVX2p4TWd0Qzg3akpLU3k3MExENm1PNkhwdVFEYXZlMExnaUVsZ3otbjV0WVRBcFFQTTk0QmlVeHFqOFBGTWxCb19KSFpjQ3U0bWdTSVF4eXR2Nnd1dkE?oc=5",
-      "site": "UA.NEWS",
+      "site": "ua.news",
       "siteUrl": "https://ua.news"
     },
     {
