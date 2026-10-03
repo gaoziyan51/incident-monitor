@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T10:35:20.796Z",
+  "updated": "2026-10-03T11:04:58.164Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -37,18 +37,6 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQXZ2VjVjYTNSSXBXaUU4RWJRME9HQUhIUW1VZnJlZHNCaVZuUVVUdFFsUmxnNEFkQkhxMFYzelJHTUJCek5fdldocHcxeHV3YmJOSTExTTlHZ3R4cXRGSVRKbXJOZkZKNTFuTDhHaUtISDFQLVFrTmRrMXMxNUIxcHV3OEpBYmt3QzVxU2tMTTN6ZGE0ay1qWQ?oc=5",
       "site": "UA.NEWS",
       "siteUrl": "https://ua.news"
-    },
-    {
-      "id": "FL-af2cce547279",
-      "date": "2026-09-30",
-      "dateISO": "Wed, 30 Sep 2026 04:43:19 GMT",
-      "ts": 1790743399000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "韩军促朝停止边境加固工程并就爆炸事故道歉 - 联合早报",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3ZnZEaG1GeE9YY2lxS21Uc2RUZVRjWnl1ZlowQWNrN0dfU3N3ejBURkVsaEZnQlBfN2JGV2MzWkl3N3NBUnkyVlpjTEVqazE2Ujd2dmdNbVJ4V1EyNmxrTHJtSnZFelNjNkE?oc=5",
-      "site": "联合早报",
-      "siteUrl": "https://www.zaobao.com.sg"
     },
     {
       "id": "FL-b243152dc25d",
@@ -147,15 +135,15 @@
       "siteUrl": "https://wap.eastmoney.com"
     },
     {
-      "id": "FL-9599d3280828",
+      "id": "FL-63d86c68f784",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 13:10:00 GMT",
       "ts": 1790428200000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 海报新闻",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - hb.dzwww.com",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ROFVYb0tiQ1U4U1lYZnNqNXVxT0dsOFlacHhVMlJ3LVB3QWVyODR6LXZuamRqTThucEJXZWJRWEJKa1laam5mN1BTY2d3WmZi?oc=5",
-      "site": "海报新闻",
+      "site": "hb.dzwww.com",
       "siteUrl": "https://hb.dzwww.com"
     },
     {
@@ -219,6 +207,30 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
+      "id": "FL-538501bee8ff",
+      "date": "2026-10-03",
+      "dateISO": "Sat, 03 Oct 2026 10:32:21 GMT",
+      "ts": 1791023541000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "也门萨那传出爆炸声，疑似再次遭到空袭 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XZDVveWMySzBpdUYwZXVwNTB6MjZUenkwTktIVzZTYjNHVlA4NmVqVnczVXoxd010c0w1a3NwTEV4VV9PNjNzVzd4dHV3Q2g0UTg0MXlHOFM0aWZFMEE?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
+      "id": "FL-fc1993416f36",
+      "date": "2026-10-03",
+      "dateISO": "Sat, 03 Oct 2026 10:22:35 GMT",
+      "ts": 1791022955000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "也门萨那传出爆炸声，疑似再次遭到空袭 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM2xQVER6aDdrQW1HTERHdWRuMXVBZTV0VVNRWEhaM21jNE8tY3pNbk5la1dwUE9mZ3VqdC1EU2FBbURSRVhjenNHYlloSmZGUmluVUVxSWRDQmVsM0UzeXJjd0g2UHJULVpmOFpId0lzNWhKb2t5OVZQZ3UtVTlLdkZ1ajFERnlCeHJERw?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-05d7fa3e19a1",
       "date": "2026-10-03",
       "dateISO": "Sat, 03 Oct 2026 10:15:08 GMT",
@@ -231,6 +243,18 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
+      "id": "FL-8de09d4e7238",
+      "date": "2026-10-03",
+      "dateISO": "Sat, 03 Oct 2026 10:15:00 GMT",
+      "ts": 1791022500000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Oklahoma marijuana grow explosion brings inspections into question - The Oklahoman",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdmZCZkVLa0k2aVBBZkZRWE1MekNzbV9zMXU1MEg0ZjNjWEhqaEZRVUdQclhuU2lXYlNvZ21xRmxGXzlsVElhTnFlMDlkOTNzQU5fb3F1Z3Bod3ZUdXA4MmpmdEh3R0NvSEFCMUxxcFpEcU40dnZNQ1dyNWNUNFJoM3g5ZmZUWElqbk9MeXh0NGxUT1ByeGI3RVJ1S0RjMjNpVUlQOVpaQTBMeUtIY2hDY2U0VHlocU1nTTVsODd2SkR1ZUpQQnNyaWs4VXVpc0kxUHBTVlpnZjhZZVJxSHR5NjBacTI?oc=5",
+      "site": "The Oklahoman",
+      "siteUrl": "https://www.oklahoman.com"
+    },
+    {
       "id": "FL-6a0eaca36f01",
       "date": "2026-10-03",
       "dateISO": "Sat, 03 Oct 2026 09:39:00 GMT",
@@ -241,6 +265,18 @@
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQa1g3a0MyU1Jhd3dQbndNeVppWm5ocFV0QXpfbEwxUW5BcGFqU2dQRzFKaDJaZjZhZ29qd25sWDJNLVdLdVBqTTRYVmkyVUY5bVdOQ3U3RmZNMEc0clFIbjM2YUhYYTBNWHVmR0pPcmRlemc3bDVtQXk5d2Z4UTJhdWZ0TDdWc1FwaWhhQTNyMmhnc0ZGbE1nYnAzdDJyOGI0RGw3NzhGRjViSDdWc3pIU0dDLVZwYlVtWGVLSTN3QnNQODREU09yRUZ2dVI2WW1xMFYweVU3ZHJHVzRFOWJJN0RxNGdMbTI4U2N4QW1UenktcDRRVEJNaVFZSTAydmc1R3F6QnB2MXhacVd4c01VbGpYQTZuZ9IBlgJBVV95cUxQdjU0NXJ5bVR5U055cWlqMXFiYUVmWVVuOU9jeHdsNHdSZzB1STdsS0xZRTBTVHBfV2JVdVJKZzZRdV9zbTE0b2psTy11Vnhic1Y0R2RsUUJCS3l5OUhhbUQyTzJfRC1WVUlROU94VkRodVZlQkwxRVVER3JMcDZSanVkU3hfTUNRV1FGRlJWNGFMOVZRTnhaVlVxb3A5RGFFUl9zYjg0LXVKdE5GQlRVYUhaSjctUFMtVklXYjlkR3d6Tl9jSWJLZWpXbmpFZUt3TmFwbkVGQUNNNlU1Skp5dXY3OFVGRDkyMC02QUluaGpBWkhrTEt5SGVtVzNLWVJsSzVHUlVsTGswV3dhRlJkbXlsOGZMdw?oc=5",
       "site": "DW.com",
       "siteUrl": "https://www.dw.com"
+    },
+    {
+      "id": "FL-6f83fc69eb32",
+      "date": "2026-10-03",
+      "dateISO": "Sat, 03 Oct 2026 09:18:12 GMT",
+      "ts": 1791019092000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "印度制药工厂锅炉爆炸 至少4死10伤 建筑屋顶坍塌多人受困 - 国际 - 即时国际 - Sin Chew Daily",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9OOXJ2ZzZfMy1PMDZnLUhTbHRhd0RUUlJFblZjNFpKV3VINWozTkM4TGY5LWt2TkIxU0p5QVp6M3ZwR3dSNTYyZFFTYlkwNzh1MXJKRE1vSlY5dE55SFVzYnZPdVZfTTZLT3g5WVBfbw?oc=5",
+      "site": "Sin Chew Daily",
+      "siteUrl": "https://www.sinchew.com.my"
     },
     {
       "id": "FL-6dcaec1b2071",
@@ -339,15 +375,15 @@
       "siteUrl": "https://www.huxiu.com"
     },
     {
-      "id": "FL-9b896353d882",
+      "id": "FL-118f308c5393",
       "date": "2026-10-03",
       "dateISO": "Sat, 03 Oct 2026 05:18:38 GMT",
       "ts": 1791004718000,
       "scope": "dom",
       "type": "blast",
-      "title": "陈思诚新片真实还原公交爆炸案，写实感让人头皮发麻 - k.sina.com.cn",
+      "title": "陈思诚新片真实还原公交爆炸案，写实感让人头皮发麻 - 手机新浪网",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1NTlFGRDF5c0s5bFRwLTRTanFaNFdMaU44R0xfX211dWcwN1pSYlNmMjZJcmtwYUN0MXBFOWdTTGY3ZTZtZnV2bGJKZTB4MFZrbDhlMU53QVN3OUV3UVp5QmJOWUdQYjdKM2JOS0hMUmN5dVU?oc=5",
-      "site": "k.sina.com.cn",
+      "site": "手机新浪网",
       "siteUrl": "https://k.sina.com.cn"
     },
     {
@@ -359,6 +395,18 @@
       "type": "blast",
       "title": "一声爆炸夺去英军精锐，年仅28岁殒命乌克兰遗言请为我骄傲，英方刻意隐瞒实情，民众看完直接炸锅！ - 搜狐网",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOajF2bDJjc2dSU0c2cUs0QWVMN0lDZEZEc05TVlZyMWxtcHdtSXVzOWI5UVFJVDVXM1ByZmVQalZ5VGZOT2NVelFRTDBZVEhMaDdmOG44OTdpdFlqX1laV2JwUld4MUhtdjM5V2cxZ1RCMVFmTzlrek9EWDFpQ1dIX1o0SWN4amsyVDU0bg?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-0507c9708274",
+      "date": "2026-10-03",
+      "dateISO": "Sat, 03 Oct 2026 04:19:03 GMT",
+      "ts": 1791001143000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "AI引发论文大爆炸，审稿体系濒临崩塌：arXiv也开始最严限流了 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLTlnUkJmTXJ2eUJFODQ3WWpUWE4tdXQ1bng3S3U4S2g1R04yenY2WGVGc3UwbXBnYmh3aUptTHprMjhkTmFrc3pxNUtLRWhRT19MT3V2cmszM1hkaWJDSEN5ejdJRHhTY0UxQkdIMFh5YlhEd0ZfMGd1M2dyOHg1MTZGT295azZT?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
     },
@@ -495,15 +543,15 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-d4d25a9bf04a",
+      "id": "FL-60e3ae8a5cff",
       "date": "2026-10-02",
       "dateISO": "Fri, 02 Oct 2026 05:31:50 GMT",
       "ts": 1790919110000,
       "scope": "intl",
       "type": "blast",
-      "title": "胡塞武装袭击地区军事设施 也门亚丁传出爆炸声 - finance.eastmoney.com",
+      "title": "胡塞武装袭击地区军事设施 也门亚丁传出爆炸声 - 东方财富",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoeVpvMGVWMXFuYW1fLWUwUFJYTTd5cEFjMHFpYjZPWWdRbndodF91TUtUYTBpcWZpZGtwU204WGRmQVpFclRxLXU5TUVMWVdPMDVscExURFhyaVEtNDNzMW00aWlnQQ?oc=5",
-      "site": "finance.eastmoney.com",
+      "site": "东方财富",
       "siteUrl": "https://finance.eastmoney.com"
     },
     {
