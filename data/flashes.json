@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T03:25:58.195Z",
+  "updated": "2026-10-03T03:43:48.812Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -13,6 +13,18 @@
       "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPTnkxTGU0cTdDbEFjc1k5aDNPWi1GakladWZfME9ValRzUVhXekYxTmVCZDZ3cGZPMDFnQzhhN1BneXMyR09EVkc3UkVfUTdTdWw0bjVxTjhmVkMyZXZTM3ZHR1ZzSHFRaS1IclB2ZktIQ004ZjNGRlR4UUZJTEtpN3BIaVpqemNvRmZtN2puVXk0RzFualV1MWJwSUFqWXJ1ckFtVE9yWk5uVllNODZNd2tpSVRkazR6V2ozbmRubkdENTlmTW9hZlBxaUE3b3VJQk96Z3FWd25xWXowREFxZno0UXNnaEp4SWpLRGpmYkpfTmRmdl8ybTRxNUpKYzNXc0pLUFVlUExvOURPOU9DMldtRWxTbjM1MzFwZkZKTllRaHBqQlNHV2YtVW5EcHF1c3NKTS1fQjZKLWtvWTJwWkgxOFlPZHB0UTh3cWxnMXduV2RCc1dyLU5taWN1Y1Z2a3NNMG9hekVpb2o3UnRUVFhSbEFBSVlDZzBjS1RLT2dqZ0VOQkVYSXlya1Q?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr"
+    },
+    {
+      "id": "FL-1439f98136f2",
+      "date": "2026-09-30",
+      "dateISO": "Wed, 30 Sep 2026 13:58:53 GMT",
+      "ts": 1790776733000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "网媒“爆炸头”邓浩荣落网 国安处再行动拘两人 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53ajNzUENQVGRqclFhZWl2ek43Q2R1dTRoY1BmaTlBaWU4TmF0QlAzcWZiQnhJUnZJbV9HME1OOHJOc3JNazJZZHE2NDVLaGVrOWhWQWZReVRtcXpJZW5XNWo2RFlqUXREcEFTZ21RQS0?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
     },
     {
       "id": "FL-902bc8004a5f",
@@ -51,28 +63,16 @@
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
-      "id": "FL-cdd8ba244637",
+      "id": "FL-dd473ccfbdfe",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 12:35:00 GMT",
       "ts": 1790685300000,
       "scope": "dom",
       "type": "blast",
-      "title": "SpaceX星舰地球轨道飞行提前结束 溅落时剧烈爆炸火光冲天 - news.mydrivers.com",
+      "title": "SpaceX星舰地球轨道飞行提前结束 溅落时剧烈爆炸火光冲天 - 驱动之家",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93RGdDV2Z4Tm1pYUY3RmFSRWFOUW1rVHNfWXVWNkVLMFpDbTRoOUJVdVVBbWxuOTNRVjkzQlpqQWNlTGd3eW43WXNKOG1hOW1pMGJ6TUJIWG0?oc=5",
-      "site": "news.mydrivers.com",
+      "site": "驱动之家",
       "siteUrl": "https://news.mydrivers.com"
-    },
-    {
-      "id": "FL-b243152dc25d",
-      "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 08:58:00 GMT",
-      "ts": 1790672280000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "韩朝非军事区地雷爆炸致3伤，韩国总统要求军方迅速查明真相 - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1clZ0V1NBMFBPdVJRUG9DeWFCSUVha253ejg3emtXNFFOWnBNazZyOTVmWWZnOVZmay16RzBWRGZlZWlNUW5Oa0lxTGFVZEliQ01Wb0Q4cHYzQVBWRmc1QVZLMFc?oc=5",
-      "site": "新京报",
-      "siteUrl": "https://www.bjnews.com.cn"
     },
     {
       "id": "FL-385dd58b908a",
@@ -123,15 +123,15 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
-      "id": "FL-4f9e2502ed08",
+      "id": "FL-a6d7d85def3c",
       "date": "2026-10-01",
       "dateISO": "Thu, 01 Oct 2026 14:27:33 GMT",
       "ts": 1790864853000,
       "scope": "dom",
       "type": "blast",
-      "title": "埃塞首都傳爆炸聲 反政府武裝稱無人機襲擊 - 大紀元",
+      "title": "埃塞首都傳爆炸聲 反政府武裝稱無人機襲擊 - epochtimes.com",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1YzVidFkyV0lUWS1lazI0bnNYTHdlN2g3Smd6ZW1jY1FSdERrN0Z3YmpNVmQ2c3RtRlNpNktjNDBKZ1RFczRpNFFneWdWSUcxWUdFTTB4dkstTzIzMVd5adIBZkFVX3lxTFA2dWlueU9yNkdiQmY1UHozcWFiSGdmd1dEUUh6eU12UHhCbVBIMlVfejFZMDRYakN1bk9OQWMzb3RTNWVSSWpsSUxZLU81VXZpWk9YWUVja3hWNUx1X0N5SkVtelpoQQ?oc=5",
-      "site": "大紀元",
+      "site": "epochtimes.com",
       "siteUrl": "https://www.epochtimes.com"
     },
     {
@@ -207,18 +207,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-08d5beb77eeb",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 11:33:03 GMT",
-      "ts": 1790422383000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 新华网客户端",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaEUzM21qMG8zSnRRcy1iYjkwOUxBeWEyRnVHaVNZcmhIZ0FwS0lUYWhndmd0WHp1ZHpxVTZSYUlMLUVGVWxseUcwOEprSHA4MExzeFFxVFV3OVlacVc3dTVvMi1VUUVsVXlTb3I1bWlUS3dDUlBzcEs4allydkhIdFU3ckVMZjJPVXQ0ZWJQWkFWNEpITlhnTlR3?oc=5",
-      "site": "新华网客户端",
-      "siteUrl": "https://app.xinhuanet.com"
-    },
-    {
       "id": "FL-5e735aebc1c3",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 11:26:44 GMT",
@@ -255,6 +243,18 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
+      "id": "FL-00bcf883b8c5",
+      "date": "2026-10-03",
+      "dateISO": "Sat, 03 Oct 2026 03:23:48 GMT",
+      "ts": 1790997828000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "英国：这名28岁英国伞兵，在乌克兰死于爆炸 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1uQjlDVUNHQnhSbWJDRXhFNjVtRVRGUHprV3EyOXZyTllRUE1Sa3JnTUtnV3R5OWg3MmRHa0Z6ellVM2RPc3FocThQOUY?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://news.ifeng.com"
+    },
+    {
       "id": "FL-dbd70843cf48",
       "date": "2026-10-03",
       "dateISO": "Sat, 03 Oct 2026 02:06:00 GMT",
@@ -265,18 +265,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeVNyWHVqVV95N2tEWFREZHk2U1k2bWo3Wm80Z1h0U0hSOWRubFdBbkVIaU12RmFseTZyM3owNzBYc1hrRlpXS3NhY3lpVDdSbzViNjRZNi1BbktvQ0FLVWp2dDdFTnBTb0dpUzRNQjZ2ZG02UmlwOGMwTFF2MzA1anN4UzN2UVUx?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-fee9ee69aa03",
-      "date": "2026-10-03",
-      "dateISO": "Sat, 03 Oct 2026 00:34:00 GMT",
-      "ts": 1790987640000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "英国：这名28岁英国伞兵，在乌克兰死于爆炸 - 观察者网",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUTVJ5aUFBbVdqenl2bWhvTVo3S1YtMFEyaE9YVk1jNDduY2t6YS10WDNqSmJkS2pPY0lFaF9SMkYzb3lMNFZTbUozSjB5MU5oS044Vi1ERDdJQWtrUXFJdDJCYjNOcjVVRWxkclJSZWg4RG8?oc=5",
-      "site": "观察者网",
-      "siteUrl": "https://www.guancha.cn"
     },
     {
       "id": "FL-c39833bbfc21",
@@ -423,15 +411,15 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-d4d25a9bf04a",
+      "id": "FL-60e3ae8a5cff",
       "date": "2026-10-02",
       "dateISO": "Fri, 02 Oct 2026 05:31:50 GMT",
       "ts": 1790919110000,
       "scope": "intl",
       "type": "blast",
-      "title": "胡塞武装袭击地区军事设施 也门亚丁传出爆炸声 - finance.eastmoney.com",
+      "title": "胡塞武装袭击地区军事设施 也门亚丁传出爆炸声 - 东方财富",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoeVpvMGVWMXFuYW1fLWUwUFJYTTd5cEFjMHFpYjZPWWdRbndodF91TUtUYTBpcWZpZGtwU204WGRmQVpFclRxLXU5TUVMWVdPMDVscExURFhyaVEtNDNzMW00aWlnQQ?oc=5",
-      "site": "finance.eastmoney.com",
+      "site": "东方财富",
       "siteUrl": "https://finance.eastmoney.com"
     },
     {
@@ -483,15 +471,15 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
-      "id": "FL-e04fc0b9637c",
+      "id": "FL-2a2fa94e0e6f",
       "date": "2026-10-02",
       "dateISO": "Fri, 02 Oct 2026 00:34:03 GMT",
       "ts": 1790901243000,
       "scope": "dom",
       "type": "blast",
-      "title": "职业性爆炸暴露相关的脑代谢与微结构改变：基于FDG-PET与DTI的服役人员研究 - ebiotrade.com",
+      "title": "职业性爆炸暴露相关的脑代谢与微结构改变：基于FDG-PET与DTI的服役人员研究 - 生物通",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PdEFfUUxZMk9XSGZRbF9RTC1kZ25sb2QzQVd6ZkcyUkFsbWFGUGF3NlBHb2FpcVFSN3A0aktMcE5naUJxNmw1T05nVDAxUjJ4Sm1yQy02MzFubHpkelFrT043cXJBOVNielRaT3NB?oc=5",
-      "site": "ebiotrade.com",
+      "site": "生物通",
       "siteUrl": "https://www.ebiotrade.com"
     }
   ]
