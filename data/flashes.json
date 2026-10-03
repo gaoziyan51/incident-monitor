@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T08:52:26.674Z",
+  "updated": "2026-10-03T09:04:14.178Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -147,6 +147,18 @@
       "siteUrl": "https://wap.eastmoney.com"
     },
     {
+      "id": "FL-9599d3280828",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 13:10:00 GMT",
+      "ts": 1790428200000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 海报新闻",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ROFVYb0tiQ1U4U1lYZnNqNXVxT0dsOFlacHhVMlJ3LVB3QWVyODR6LXZuamRqTThucEJXZWJRWEJKa1laam5mN1BTY2d3WmZi?oc=5",
+      "site": "海报新闻",
+      "siteUrl": "https://hb.dzwww.com"
+    },
+    {
       "id": "FL-53093e91fe3a",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 12:25:51 GMT",
@@ -195,6 +207,18 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
+      "id": "FL-6dcaec1b2071",
+      "date": "2026-10-03",
+      "dateISO": "Sat, 03 Oct 2026 09:03:01 GMT",
+      "ts": 1791018181000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "智能手机自燃起火冒出阵阵白烟 男子直呼:要爆炸了 - 网易新闻客户端",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tZElGTFZRbVRQWkFsaGtTRkI3MEE0WEZqOGdxUTBrLUd3U2lRVWwxS0NJajc4c2N6WElsOXBBWmxjZFVOQTlxV01KRy13ZlhacjZ3?oc=5",
+      "site": "网易新闻客户端",
+      "siteUrl": "https://c.m.163.com"
+    },
+    {
       "id": "FL-d52930d7152c",
       "date": "2026-10-03",
       "dateISO": "Sat, 03 Oct 2026 08:41:00 GMT",
@@ -205,6 +229,18 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82RUo4eUdEYXBFbXBBcW9ud09nZG5EbVJMUEZIemZ4WFNpZ0lBRlRwdWlzMWRMeXVNYXB2bng1QUJuOUEzbmE1MExLTUN1eVBJdTg4OVVzbms?oc=5",
       "site": "驱动之家",
       "siteUrl": "https://news.mydrivers.com"
+    },
+    {
+      "id": "FL-c2788531dc77",
+      "date": "2026-10-03",
+      "dateISO": "Sat, 03 Oct 2026 07:59:00 GMT",
+      "ts": 1791014340000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "【羽冠摇篮·星耀楚天】燃爆全场！1599.1万网友共同见证“巅峰之夜” - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BbEtFQWlObjBMZ2x1ZzVOc0RtNDJid3NmOEdjWDNkbVFsbHpCTGJ0MXhNSWw5bXIwVldNME9Ud2hjWXpCdW1jOFhCOWFMMGo2NUlDNjZGbUFwWEhSaC15MWYzTnVadGthOG8xUDIzc0YtYjNJN0E?oc=5",
+      "site": "手机新浪网",
+      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-f8cdd2c53c85",
@@ -279,18 +315,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-00bcf883b8c5",
-      "date": "2026-10-03",
-      "dateISO": "Sat, 03 Oct 2026 03:23:48 GMT",
-      "ts": 1790997828000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "英国：这名28岁英国伞兵，在乌克兰死于爆炸 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1uQjlDVUNHQnhSbWJDRXhFNjVtRVRGUHprV3EyOXZyTllRUE1Sa3JnTUtnV3R5OWg3MmRHa0Z6ellVM2RPc3FocThQOUY?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://news.ifeng.com"
-    },
-    {
       "id": "FL-dbd70843cf48",
       "date": "2026-10-03",
       "dateISO": "Sat, 03 Oct 2026 02:06:00 GMT",
@@ -301,6 +325,18 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeVNyWHVqVV95N2tEWFREZHk2U1k2bWo3Wm80Z1h0U0hSOWRubFdBbkVIaU12RmFseTZyM3owNzBYc1hrRlpXS3NhY3lpVDdSbzViNjRZNi1BbktvQ0FLVWp2dDdFTnBTb0dpUzRNQjZ2ZG02UmlwOGMwTFF2MzA1anN4UzN2UVUx?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-00bcf883b8c5",
+      "date": "2026-10-03",
+      "dateISO": "Sat, 03 Oct 2026 00:34:48 GMT",
+      "ts": 1790987688000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "英国：这名28岁英国伞兵，在乌克兰死于爆炸 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1uQjlDVUNHQnhSbWJDRXhFNjVtRVRGUHprV3EyOXZyTllRUE1Sa3JnTUtnV3R5OWg3MmRHa0Z6ellVM2RPc3FocThQOUY?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://news.ifeng.com"
     },
     {
       "id": "FL-945f72fdaf62",
