@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T00:07:14.520Z",
+  "updated": "2026-10-04T03:21:35.777Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -63,27 +63,75 @@
       "siteUrl": "https://news.cnjiwang.com"
     },
     {
-      "id": "FL-f1c86563e0e4",
+      "id": "FL-d2803d2cff60",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 17:10:36 GMT",
       "ts": 1790529036000,
       "scope": "intl",
       "type": "blast",
-      "title": "英国疏散美军所用基地附近居民 多人涉爆炸物被捕 - 央视网",
+      "title": "英国疏散美军所用基地附近居民 多人涉爆炸物被捕 - news.cctv.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91MjNOYzJjSVZaVUpOZjQ3OGwtYnBaNUZNZi1BTUg0LXlDcjhueElmdjlqWTI1cF83YkdPdjVEUmo3a1FKSXVPTVhpNkVaVF8wNk5GbkJsVG1kQjAzRUtMWEpJMmgxMzNQcTl5bmRadTc4R2xuUVJEWA?oc=5",
-      "site": "央视网",
+      "site": "news.cctv.com",
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-f8061d91b549",
+      "id": "FL-340d5e981918",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
       "ts": 1787468400000,
       "scope": "dom",
       "type": "blast",
-      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - news.cn",
+      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-a7fbececa0ea",
+      "date": "2026-10-04",
+      "dateISO": "Sun, 04 Oct 2026 02:31:00 GMT",
+      "ts": 1791081060000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Fire extinguished after witnesses report explosion in Ocala - WESH",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR1ljTlNUUG1nUG9lSE5oR0lkLVVZN3lDdXBFVUNGemhZWC1TZ1Y5SnRwb2pxNFE0UVRObmdVcVd2c2FNZnNLUXNxU2d4MXFldW5DaFZ5QXItSG5Tc3JjNWV6a1FQVm51RHlPYzlfQWN6X04xVVRKOTd5aU52bWhyb0hTbkZEUzloSjVhNVh6cTlmcDEzOXpIY216UUxEdw?oc=5",
+      "site": "WESH",
+      "siteUrl": "https://www.wesh.com"
+    },
+    {
+      "id": "FL-32be6f8eb305",
+      "date": "2026-10-04",
+      "dateISO": "Sun, 04 Oct 2026 02:24:33 GMT",
+      "ts": 1791080673000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "水泥地上烧烤酿爆炸一家七口险毁容｜即时新闻｜中港台｜on.cc东网 - on.cc東網",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSUhFeWNjM0NqNmF3eWxsS1B6Tnh2aTZISGV0cEYzcnQ1V3J3N2VBQjNDVk1aNTBTYU9vNFFSRE0zS2p6UXBYZUFMVXhLelFRMm9DaTRHdnB2LVhzTEQ1aTc4SVg2MUFjc05vTDlXZ3Z2T0FXYUNkZTI1WTN6SjlILTFUS1dldVRmMy1PV1FLOA?oc=5",
+      "site": "on.cc東網",
+      "siteUrl": "https://hk.on.cc"
+    },
+    {
+      "id": "FL-43174c384a0e",
+      "date": "2026-10-04",
+      "dateISO": "Sun, 04 Oct 2026 00:17:46 GMT",
+      "ts": 1791073066000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "墨西哥一油罐车起火后爆炸 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB5MFQtZkJlQ0VkbFpqcm5XUXJVLUxfUnI4RjVocHh1QXRCY3N0d0ZFel9IbmdHQzIxLTQ1Y0w1cFplZUdLVGlOWTRXaHI?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://news.ifeng.com"
+    },
+    {
+      "id": "FL-0615dd398028",
+      "date": "2026-08-02",
+      "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
+      "ts": 1785654000000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -99,15 +147,15 @@
       "siteUrl": "https://wap.eastmoney.com"
     },
     {
-      "id": "FL-63d86c68f784",
+      "id": "FL-9599d3280828",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 13:10:00 GMT",
       "ts": 1790428200000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - hb.dzwww.com",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 海报新闻",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ROFVYb0tiQ1U4U1lYZnNqNXVxT0dsOFlacHhVMlJ3LVB3QWVyODR6LXZuamRqTThucEJXZWJRWEJKa1laam5mN1BTY2d3WmZi?oc=5",
-      "site": "hb.dzwww.com",
+      "site": "海报新闻",
       "siteUrl": "https://hb.dzwww.com"
     },
     {
@@ -135,16 +183,28 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
-      "id": "FL-23997ed3202f",
+      "id": "FL-5e735aebc1c3",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 11:26:44 GMT",
       "ts": 1790422004000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - news.cn",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlemFCa3lteDlkZERLTXRLMHhpeTIzNmFqanFBczVPaFNjQjVxOHNJNm54Tkhua1FqOGtuaUhBLWdRSWxXaFRoZThQZXJqclRIV1pUaTNhcjhHU0dwRzA1WXNQc2ZOVEhXX0Z1NUVBcnBUalJRWkE3ZlE0S3NOaXM?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-37ae5c7b2505",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 13:34:10 GMT",
+      "ts": 1789824850000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "叙利亚东部爆炸致过渡政府国防部11人死亡 - 新华网客户端",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa21SSnpRaWdxQy1GYVBmWi1LQ3VzQ0xwZUwzTE9rSVRuLXhac2xTZl9wYlB5c2RoQkRYY1pfbDRZWmF3RFdFZXg4M3NSZ0s0alQ2XzRtUFI0SjR2R2FidlRXZ3pOckwtM20zaFNtR0h4bjFBdTdsZW9yeEpoampleUFNajd4NDVaUElBYTgxUG5vQzRoWjFIcGhn?oc=5",
+      "site": "新华网客户端",
+      "siteUrl": "https://app.xinhuanet.com"
     },
     {
       "id": "FL-54cf1f649f82",
@@ -159,18 +219,6 @@
       "siteUrl": "https://www.ntdtv.com"
     },
     {
-      "id": "FL-52ba168ff621",
-      "date": "2026-10-03",
-      "dateISO": "Sat, 03 Oct 2026 23:16:00 GMT",
-      "ts": 1791069360000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "“会爆炸，别过来！”深圳街头突发，现场火势汹汹！网约车司机蔡红旗冲进浓烟，事后全城寻人：那些递出灭火器的陌生人，你们在哪里 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcW8tYUx4S3Vnc09tdjdBbDc0Rk5ZLTYyWHBGZE16bXZJMk8teGI3bmtZcjZKM290YkNlY1NITGpJNjhXV2E2bkxDV3JkbllCNFl0UGpRcHVBQjM1anRSdlR4T3BrWW5nbjZIS0E5N01UUTY5WVA4UEgzOWRYQS1qVFJNZzdfNzJz?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-9cbd4f663c9e",
       "date": "2026-10-03",
       "dateISO": "Sat, 03 Oct 2026 22:53:00 GMT",
@@ -183,52 +231,28 @@
       "siteUrl": "https://www.wmtw.com"
     },
     {
-      "id": "FL-5d72f660510d",
+      "id": "FL-9318241f5343",
       "date": "2026-10-03",
-      "dateISO": "Sat, 03 Oct 2026 22:36:37 GMT",
-      "ts": 1791066997000,
+      "dateISO": "Sat, 03 Oct 2026 22:28:00 GMT",
+      "ts": 1791066480000,
       "scope": "intl",
       "type": "blast",
-      "title": "Mormon leader decries explosion in sports betting, prediction markets - WLWT",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVWx1S1pyMjBQcFlsREEyTG1wX3R1aXpNaG9qc0xvdUJ0Tl9tbW9WZmtYTWc0SndrcXBJc0ZNOG02a3ZkcEhES0xGNllmR1hiNUVudjd0aXdtMGNvSWlmMUI5WDNKQkpST2N6YWt2RWdwcVVjWF9MT2RIeEczV05PUkFJb1JRbkpoeHhkaFFmNDY2R24x?oc=5",
-      "site": "WLWT",
-      "siteUrl": "https://www.wlwt.com"
+      "title": "Mormon leader decries explosion in sports betting, prediction markets - WBAL-TV",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZVpEMy1iM0pSVHRCeEVIR0xVYjlUYTJqakRBUmxHb25yWG5KRUgxRXJSNUhvLTlSeXZSMjlaSjdvYXJxUnM4WHhhbEsxd0tuQkVnMDl0bnFVMGQ4c3F2cjdhQ0hDU3d2end1MzJCMC1ER01jMzlRb0NnNDI0ckE4YjVFV0tFejlnTWpZUl94Z01JT2xzeTNz?oc=5",
+      "site": "WBAL-TV",
+      "siteUrl": "https://www.wbaltv.com"
     },
     {
-      "id": "FL-6dd87c6bd46c",
-      "date": "2026-10-03",
-      "dateISO": "Sat, 03 Oct 2026 20:59:37 GMT",
-      "ts": 1791061177000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "水泥地烧烤突爆炸 广西一家七口险毁容消防警告：如引爆地雷 有片 - VanPeople",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hYXlCSHBkbGp6dWZGdGtraW5kTTVKQnZ3R3RDY3N0N3gzYm5uUGY3VW9XdUk5MFBIbDlwRnVobVBSTVVKTzkzOVhSQnRDRUE2?oc=5",
-      "site": "VanPeople",
-      "siteUrl": "https://info.vanpeople.com"
-    },
-    {
-      "id": "FL-29e951a70bc7",
+      "id": "FL-66bf52e6ee04",
       "date": "2026-10-03",
       "dateISO": "Sat, 03 Oct 2026 15:33:05 GMT",
       "ts": 1791041585000,
       "scope": "dom",
       "type": "blast",
-      "title": "水泥地烧烤突然爆炸无人伤亡 - finance.sina.cn",
+      "title": "水泥地烧烤突然爆炸无人伤亡 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWGZPRkwtcW9tcllXSFRtRjZMSUFZTjFEUFhNU2p6RHp4M2loNUFEckZ1bnpNellFVEhKWVpYQUpTczVwYVpsNzFyc25JNWRPcTZyS1ZKc2J4MDhwY2xLOVhJQ283dnFBdndXdXZkTHMyczFOWGtzaUNMb1FPM0JVajRVTlVlZ3hFQVFUQTFkYTFzX3pJTzNuOQ?oc=5",
-      "site": "finance.sina.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
-    },
-    {
-      "id": "FL-c48ae8b5d7a3",
-      "date": "2026-10-03",
-      "dateISO": "Sat, 03 Oct 2026 14:45:00 GMT",
-      "ts": 1791038700000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "水泥地烧烤突爆炸｜广西一家七口险毁容 消防警告：如引爆地雷｜有片 - 星島頭條",
-      "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxPTTN6aVU0YnV0YlN1SUZCWDZpQktkSERqN0dxRVVubkstQUdQTUphdnQzN2o4Ynk4dFJKdE54ZXdJNzZWcmM2cjdWRk81ZzF0ZEVrTmZvMkZSQXVObzRxWXdlU1ZuakZsSlNVNWtNVmViNnFYYVI4Vmwtd1BNaUg2X3FDUEFZV2wtNnVWOW1fZHhCZlZWU1pYdDZnbzlPVEVfdEZnQWhCamNvVExnUFYyQWRvZG94VFpSSVo1cThiWEhpMG1CY3UzMjEtOVR0U2tDOWF2Yy01eFpIREZGUGZlSUJYZXpObzVhdWZkVEN4R3dCRHE1ZGFsUEZ2TVo5b09ZUUlpMUxLSjFja0VwTGpmOWl4RG5LTFJRNHVhTUJ4NjNreEp4V3FOMzdJWGMyWUttaURaTmJzR3Y5RVcteDdzdDJuLVNDVnI4MHJYcVV4OVU3MDNsWFNHb2hpTi00Tm9lQVJIYW51QkJjajZ4RmJWOG45VWxZNk4zVUFRYjJ3czVheHJYdi1JS0p3MUg0dktiVDF2Q2F1RXM2TW1vdFROZjl4cGVzWlNXU3pVSWtYYzdRZTU0Q283d1h4bw?oc=5",
-      "site": "星島頭條",
-      "siteUrl": "https://www.stheadline.com"
     },
     {
       "id": "FL-25a34339f3db",
@@ -255,51 +279,51 @@
       "siteUrl": "https://wap.eastmoney.com"
     },
     {
-      "id": "FL-1fe2071aa6d8",
+      "id": "FL-1cfd13837842",
       "date": "2026-10-03",
       "dateISO": "Sat, 03 Oct 2026 11:51:00 GMT",
       "ts": 1791028260000,
       "scope": "dom",
       "type": "blast",
-      "title": "AI宗师和OA两家集体疾呼：RSI带来智能爆炸，导致AI彻底失控！ - finance.sina.cn",
+      "title": "AI宗师和OA两家集体疾呼：RSI带来智能爆炸，导致AI彻底失控！ - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZEIySWpaZmdDRUk3NWRjN3FfZGctMVN4cnQ4a1NndlZwYXBQejVyMEpOd25PNGROTW9DWlkxcDRtb1o0R2RYeEhDVS00b0JGZ1FVNEFUemRKdlE1NzNLalQwc0k2enJiNFVJRDZXVDJ3RzNkVUtUb2Z3NmM3Z29uODVlMmZVanc1NHFrbDhLNzFIdm45WHhMVDh0OVFOTVoxeGJXdFVudw?oc=5",
-      "site": "finance.sina.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-ff22ac4fb26e",
+      "id": "FL-30187c768d1f",
       "date": "2026-10-03",
       "dateISO": "Sat, 03 Oct 2026 11:32:26 GMT",
       "ts": 1791027146000,
       "scope": "dom",
       "type": "blast",
-      "title": "水泥地面上烧烤引爆炸火花四溅 细思极恐的烧烤隐患 - news.china.com",
+      "title": "水泥地面上烧烤引爆炸火花四溅 细思极恐的烧烤隐患 - 中华网",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxNVI2dHo1ckFxamZpWV93akVqQ0ZxeVhmd3lpVXgzQ2R4YjdSRnhESVJKaUFYMUdNM2xrQTZxMUc5ZGZmRUpGbnlWLVpScmdDdlg3bnY0dTAybzQ5cUFjRnBGZTdJYWNZSWIxMkQtSHo?oc=5",
-      "site": "news.china.com",
+      "site": "中华网",
       "siteUrl": "https://news.china.com"
     },
     {
-      "id": "FL-9c5865d6b65f",
+      "id": "FL-eceb546fdc3f",
       "date": "2026-10-03",
       "dateISO": "Sat, 03 Oct 2026 11:18:24 GMT",
       "ts": 1791026304000,
       "scope": "dom",
       "type": "blast",
-      "title": "AI引发论文大爆炸，审稿体系濒临崩塌：arXiv也开始最严限流了 - finance.sina.cn",
+      "title": "AI引发论文大爆炸，审稿体系濒临崩塌：arXiv也开始最严限流了 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa1NpWGJsb2dIOWx5YzFfUjVVcDM0WmVqeU5qVElXbXR3QU5ETmRKTndLY1Z3UGpRZGQxVGZFQzdSdEJBb0UtYUFtQ05Ga2lCZWJrcmFSTk9Fakx6LUZ0YWhnbmYzSlQwX29hSms2QUFCZXhlbzZPTXlkTVYycmNGSVUxM0otSzZ6WkV4U3BsY0VzM3BXaWFKUkRoclNjN25IbUdUZFNNN1lyd2xfUzJ0UV93?oc=5",
-      "site": "finance.sina.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-04b134ebc277",
+      "id": "FL-800b39250f15",
       "date": "2026-10-03",
       "dateISO": "Sat, 03 Oct 2026 11:07:15 GMT",
       "ts": 1791025635000,
       "scope": "dom",
       "type": "blast",
-      "title": "张颜齐一开嗓就燃爆全场张颜齐舞台爆发力 - 手机新浪网",
+      "title": "张颜齐一开嗓就燃爆全场张颜齐舞台爆发力 - k.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YNFVMVk1qUlluSG5uLW5LemI4blNPS04xXzVZNHVndWJtMXh5bFVCYlNySHZDVzRzdjFJUEVWT0hfeDFvY1VNWGE4RThWcVFiSnFsOVdBSWhOOC1BdjMwV1o2TGVJQmNNYlVOOGpmTEg?oc=5",
-      "site": "手机新浪网",
+      "site": "k.sina.com.cn",
       "siteUrl": "http://k.sina.com.cn"
     },
     {
@@ -339,18 +363,6 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
-      "id": "FL-53f97b9dcb9c",
-      "date": "2026-10-03",
-      "dateISO": "Sat, 03 Oct 2026 10:02:00 GMT",
-      "ts": 1791021720000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "清远街头一汽车起火爆炸，外卖小哥舍身扑救被灼伤，“脸手腿受伤，但帮到人很开心” - 新快网",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qaHpZLTQ4czhoa0Z2WFhIRGxPLWJISG5Qa0k0WlZuT3RDSG1RdVE1VDh1MTB3NUk5S245bHVaUFpkWjJEbzB5WVB4TERuUnFDMXV2dXZn?oc=5",
-      "site": "新快网",
-      "siteUrl": "https://www.xkb.com.cn"
-    },
-    {
       "id": "FL-6a0eaca36f01",
       "date": "2026-10-03",
       "dateISO": "Sat, 03 Oct 2026 09:44:09 GMT",
@@ -387,6 +399,18 @@
       "siteUrl": "https://news.mydrivers.com"
     },
     {
+      "id": "FL-2867ea7099c5",
+      "date": "2026-10-03",
+      "dateISO": "Sat, 03 Oct 2026 07:59:00 GMT",
+      "ts": 1791014340000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "【羽冠摇篮·星耀楚天】燃爆全场！1599.1万网友共同见证“巅峰之夜” - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BbEtFQWlObjBMZ2x1ZzVOc0RtNDJid3NmOEdjWDNkbVFsbHpCTGJ0MXhNSWw5bXIwVldNME9Ud2hjWXpCdW1jOFhCOWFMMGo2NUlDNjZGbUFwWEhSaC15MWYzTnVadGthOG8xUDIzc0YtYjNJN0E?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
+    },
+    {
       "id": "FL-f2b1f66c47a3",
       "date": "2026-10-03",
       "dateISO": "Sat, 03 Oct 2026 06:08:16 GMT",
@@ -399,15 +423,15 @@
       "siteUrl": "https://www.huxiu.com"
     },
     {
-      "id": "FL-118f308c5393",
+      "id": "FL-9b896353d882",
       "date": "2026-10-03",
       "dateISO": "Sat, 03 Oct 2026 05:18:38 GMT",
       "ts": 1791004718000,
       "scope": "dom",
       "type": "blast",
-      "title": "陈思诚新片真实还原公交爆炸案，写实感让人头皮发麻 - 手机新浪网",
+      "title": "陈思诚新片真实还原公交爆炸案，写实感让人头皮发麻 - k.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1NTlFGRDF5c0s5bFRwLTRTanFaNFdMaU44R0xfX211dWcwN1pSYlNmMjZJcmtwYUN0MXBFOWdTTGY3ZTZtZnV2bGJKZTB4MFZrbDhlMU53QVN3OUV3UVp5QmJOWUdQYjdKM2JOS0hMUmN5dVU?oc=5",
-      "site": "手机新浪网",
+      "site": "k.sina.com.cn",
       "siteUrl": "https://k.sina.com.cn"
     },
     {
@@ -445,6 +469,18 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5naEpaTmt5bmlhUXlZdndRR2F3XzN6Z2d5aWcwdU4zRnpJWXBJX3VpVWxzRDBzQUFVRXZ4TW1lOTJQUEhCQ3NDNDFEN2FpVTRuYTh3?oc=5",
       "site": "环球网",
       "siteUrl": "https://m.huanqiu.com"
+    },
+    {
+      "id": "FL-f2587589e114",
+      "date": "2026-09-18",
+      "dateISO": "Fri, 18 Sep 2026 07:00:00 GMT",
+      "ts": 1789714800000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "巴基斯坦西北部爆炸已致21死 巴总统称将继续反恐行动 - 封面新闻",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sRnF2YUdaQ2dDbXVnVXlMVTVmRXV3ZmN6Zm9NZE9Pcml2ZTFsV285Vy1obks0YlhlVWJGUWFWWVpFREtzenloa3pXQmJJbFRuYnBJdWd4Y3VsVkVCV3ZOZnR5Nm5VZnlTMU5VTlVxQUJ0SlFURmYw?oc=5",
+      "site": "封面新闻",
+      "siteUrl": "https://m.thecover.cn"
     },
     {
       "id": "FL-4cc80280a6ca",
@@ -495,15 +531,15 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-d42032669516",
+      "id": "FL-4fcc9d51fbbd",
       "date": "2026-10-02",
       "dateISO": "Fri, 02 Oct 2026 07:10:48 GMT",
       "ts": 1790925048000,
       "scope": "dom",
       "type": "blast",
-      "title": "娘惹舞遇醉龙！中山西区这场非遗互动汇演燃爆了 - zsnews.cn",
+      "title": "娘惹舞遇醉龙！中山西区这场非遗互动汇演燃爆了 - 中山网",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTGUzLXBQRVhLeFNBWmtiMW93Uy16a25LaVdHLXE2TFVVRTRrV1RJZ2R6Y0VVSngwOGVNU2tQM002LVpqZGY0Wm1hbXhDal96XzZmSGU3N0EzbHRkaXFzWlNUUFdlRVo4RTVaYlBWRUZEVklONGZ2ZElTQmFXdVFUbUFiNA?oc=5",
-      "site": "zsnews.cn",
+      "site": "中山网",
       "siteUrl": "http://www.zsnews.cn"
     },
     {
