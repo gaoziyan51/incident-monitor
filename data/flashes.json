@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T22:46:26.650Z",
+  "updated": "2026-10-05T22:55:40.660Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -75,15 +75,15 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-340d5e981918",
+      "id": "FL-f8061d91b549",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
       "ts": 1787468400000,
       "scope": "dom",
       "type": "blast",
-      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
+      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -113,12 +113,12 @@
     {
       "id": "FL-e648045c98c0",
       "date": "2026-10-04",
-      "dateISO": "Sun, 04 Oct 2026 13:43:52 GMT",
-      "ts": 1791121432000,
+      "dateISO": "Sun, 04 Oct 2026 14:08:52 GMT",
+      "ts": 1791122932000,
       "scope": "intl",
       "type": "blast",
       "title": "伊拉克西部“伊斯兰国”遗留炸弹爆炸致2人死亡 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xeXJpbHVuR05xeUN2YTV1ZFNMd19NWi1IUEc5Q0VRWk9NTFZTNkcxdF9qUTJDdUt0UXNZcWE0NGY1SVBuOENqLWhhbjIyWnZBZjZ0a0w4amdCNTN3RjJDSg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RR0lWZEszX0NBTVNObmhhbExLWjFGUEx4UmkyYkhQcnFfdDYwcGNCbmlmWWdrY0g1MFoyV1hzbUNtbUVuaV9FMVpCdDJ6bDNKU1JEendDb2F4aldvT1AtWQ?oc=5",
       "site": "东方财富",
       "siteUrl": "https://wap.eastmoney.com"
     },
@@ -135,15 +135,27 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-0615dd398028",
+      "id": "FL-1137187d6c33",
+      "date": "2026-10-04",
+      "dateISO": "Sun, 04 Oct 2026 06:10:00 GMT",
+      "ts": 1791094200000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "AI引发论文大爆炸，审稿体系濒临崩塌：arXiv也开始最严限流了 - 智源社区",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8zR1JwVWEzT293T3lLZ0N0TmFOX19ka05EZktXWWtUbzNPMWFFWkswR2ZJaXpWSUFvNUZoRV9TNHhBQW5yZVU2NA?oc=5",
+      "site": "智源社区",
+      "siteUrl": "https://hub.baai.ac.cn"
+    },
+    {
+      "id": "FL-f38e3c0cb20f",
       "date": "2026-08-02",
       "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
       "ts": 1785654000000,
       "scope": "intl",
       "type": "blast",
-      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - 新华网",
+      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -171,16 +183,28 @@
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
-      "id": "FL-5e735aebc1c3",
+      "id": "FL-23997ed3202f",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
       "ts": 1790406000000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 新华网",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlemFCa3lteDlkZERLTXRLMHhpeTIzNmFqanFBczVPaFNjQjVxOHNJNm54Tkhua1FqOGtuaUhBLWdRSWxXaFRoZThQZXJqclRIV1pUaTNhcjhHU0dwRzA1WXNQc2ZOVEhXX0Z1NUVBcnBUalJRWkE3ZlE0S3NOaXM?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-c2b5e87a66f1",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 07:00:00 GMT",
+      "ts": 1789801200000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "巴基斯坦西北部爆炸已致21死 巴总统称将继续反恐行动 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JdTVsYVVFWHBSX3JkaE5ocVh2cmtPd0NWVkpmT1EyOENqOGJZcHhnQllGeU9RYThKRTJmYnRVaXpEQ25RcGNGNi1LcmZJUUFnY2Q1cVVpS2dkSW8wQzJfSFI4U3FYMzdXNmJSWm1SdEpsckl2Y190Sg?oc=5",
+      "site": "央视网",
+      "siteUrl": "https://news.cctv.com"
     },
     {
       "id": "FL-5b5cbdf89f91",
@@ -207,15 +231,15 @@
       "siteUrl": "https://wap.eastmoney.com"
     },
     {
-      "id": "FL-6a0eaca36f01",
+      "id": "FL-c9cc98fcf112",
       "date": "2026-10-03",
       "dateISO": "Sat, 03 Oct 2026 09:44:09 GMT",
       "ts": 1791020649000,
       "scope": "intl",
       "type": "blast",
-      "title": "拒绝就地雷爆炸道歉 朝鲜再射弹道导弹 - DW.com",
+      "title": "拒绝就地雷爆炸道歉 朝鲜再射弹道导弹 - dw.com",
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQdjU0NXJ5bVR5U055cWlqMXFiYUVmWVVuOU9jeHdsNHdSZzB1STdsS0xZRTBTVHBfV2JVdVJKZzZRdV9zbTE0b2psTy11Vnhic1Y0R2RsUUJCS3l5OUhhbUQyTzJfRC1WVUlROU94VkRodVZlQkwxRVVER3JMcDZSanVkU3hfTUNRV1FGRlJWNGFMOVZRTnhaVlVxb3A5RGFFUl9zYjg0LXVKdE5GQlRVYUhaSjctUFMtVklXYjlkR3d6Tl9jSWJLZWpXbmpFZUt3TmFwbkVGQUNNNlU1Skp5dXY3OFVGRDkyMC02QUluaGpBWkhrTEt5SGVtVzNLWVJsSzVHUlVsTGswV3dhRlJkbXlsOGZMd9IBlgJBVV95cUxQdjU0NXJ5bVR5U055cWlqMXFiYUVmWVVuOU9jeHdsNHdSZzB1STdsS0xZRTBTVHBfV2JVdVJKZzZRdV9zbTE0b2psTy11Vnhic1Y0R2RsUUJCS3l5OUhhbUQyTzJfRC1WVUlROU94VkRodVZlQkwxRVVER3JMcDZSanVkU3hfTUNRV1FGRlJWNGFMOVZRTnhaVlVxb3A5RGFFUl9zYjg0LXVKdE5GQlRVYUhaSjctUFMtVklXYjlkR3d6Tl9jSWJLZWpXbmpFZUt3TmFwbkVGQUNNNlU1Skp5dXY3OFVGRDkyMC02QUluaGpBWkhrTEt5SGVtVzNLWVJsSzVHUlVsTGswV3dhRlJkbXlsOGZMdw?oc=5",
-      "site": "DW.com",
+      "site": "dw.com",
       "siteUrl": "https://amp.dw.com"
     },
     {
@@ -435,15 +459,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-9bdff15034d5",
+      "id": "FL-13c4117598b5",
       "date": "2026-10-05",
       "dateISO": "Mon, 05 Oct 2026 10:35:02 GMT",
       "ts": 1791196502000,
       "scope": "intl",
       "type": "blast",
-      "title": "韩国公布非军事区地雷爆炸事件最终调查结果 - 新华网",
+      "title": "韩国公布非军事区地雷爆炸事件最终调查结果 - xinhuanet.com",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTcWFQWlFMSjhJVXRBaXlXMWZBMEtDUmdRWlExbThsdkd6NVdVelA0cGJfX0ZROUotSWx6dm1idVVhZmI0ZHZPTGR1M0FNSDdHNGtnZFh6OVRZejMwRy1FQUFfOUN0RENSNmx3aGZpUW5FbVJhOGZlT1hoQUM4Zw?oc=5",
-      "site": "新华网",
+      "site": "xinhuanet.com",
       "siteUrl": "http://www.xinhuanet.com"
     },
     {
@@ -555,15 +579,15 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-a1625e58e48d",
+      "id": "FL-5fdbd83a7698",
       "date": "2026-10-02",
       "dateISO": "Fri, 02 Oct 2026 18:00:08 GMT",
       "ts": 1790964008000,
-      "scope": "intl",
+      "scope": "dom",
       "type": "blast",
-      "title": "美提升核爆炸探测能力，中共秘密核试验和陈友麟案件再引关注 - 美国之音",
+      "title": "美提升核爆炸探测能力，中共秘密核试验和陈友麟案件再引关注 - voachinese.com",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN1gtb1drX1hWS3NBMzU4MlNRVEJ1TkUzQmJCR1B0a3VFS2MxU05ZTTZ1UjlmZnJZU2JYNHgyOGVwZ1dUZjdIZ3hxaWlPNGZsQTc3VjRlRTlPd3hlR1d2b3RVVE92dUwzMTlwVVB1TmphZUN1OG5iTU5WYU5EZjJmM3BpNHctZ3ljVTgtTXJuX1YzeVM2bmVmTkEzZzBnczIzSFFRWmxHRGd2SUdVb01wNGZsSmVVOWlYcG1LZHZYWk1BQU9wcnhhb3Q2dVZXaDlUSHNqZ9IB1wFBVV95cUxNWnRiOWpoQ21MQ0tYTkh0c3hWVTFSbV9ZQlcxWUF4SmtBanZHZmNIc296ZkJUcjBIVnZlTmZDZXY3WnlfWXJPWmU0WHYxa1F4RlFxWDlaMjlaRGtCYTdTVU9fa3JaMkVlSllKZWVObWpKS1o3ZVZlNTk3RGN6ejJGSTFCbTd2RFVYM2FfQk5heEcxWDYtc0Q3bDl4Wnp5em1ZdE9WZi11VTd6bi1TWnlycUc2VmR5eUJ6Mk15Y1ZCQlhrc2tmcWpKTVpRZlpEbjFYU1JhTWZBOA?oc=5",
-      "site": "美国之音",
+      "site": "voachinese.com",
       "siteUrl": "https://www.voachinese.com"
     },
     {
