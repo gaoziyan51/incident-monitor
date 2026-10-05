@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T22:03:15.328Z",
+  "updated": "2026-10-05T22:20:23.790Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -123,18 +123,6 @@
       "siteUrl": "https://wap.eastmoney.com"
     },
     {
-      "id": "FL-71f3d69a3036",
-      "date": "2026-10-04",
-      "dateISO": "Sun, 04 Oct 2026 13:00:00 GMT",
-      "ts": 1791118800000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "After a deadly paper mill explosion, a community in Washington state looks to a key House race - theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ2ExanpkYVBXN0NRTzFxMHBGckhmcE4zNlp2VTV1WXZ2dVpwblFPVlE2dDRLT2g4MHFtVmtSQ1hxR2tzWUM4cXY2czE3X0YtZHFPc3M5VEhvdXdITVFsQjhWSnlYaG9vM3hvR2dlYjA2ZDlaRF92QXQzb1dGaDh1MzVfSlcyN3dIN2RGdWl3YnBUSGE1OUVzRTNMV2lPRzl6VDdKdWpPWHdndw?oc=5",
-      "site": "theguardian.com",
-      "siteUrl": "https://www.theguardian.com"
-    },
-    {
       "id": "FL-65a837ede06b",
       "date": "2026-10-04",
       "dateISO": "Sun, 04 Oct 2026 08:42:58 GMT",
@@ -169,6 +157,18 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PalBtWlYtLVkyQmRpWkxjQ1lOLS1VOEVsbUk2NGs2MV93ZUh0NnJodTBpS0Y3dnNEVExwWEE3Q0UxWjR1V3hUV2ZsSTZLOHVCSHllY0cydlQxbjVZcUNVVg?oc=5",
       "site": "东方财富",
       "siteUrl": "https://wap.eastmoney.com"
+    },
+    {
+      "id": "FL-a21d9d5a87ad",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 15:50:14 GMT",
+      "ts": 1790437814000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - jpchinapress.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVEJFR0pjczI1RWcwMmdKMGVMbnVHUzNLeGJXWlcxeDMyZzFybFJrb2dOTG9mUmJjQU1kM2hNRGx1Z0drQkhjRExydURDejZYczVvQlNVR0VHOGpJOEsxU0pESWlxWHpRc2RJMXdRT0g0TUdfY2F4VG5tcVphUnpuLUlqYW1WVGNUWFE?oc=5",
+      "site": "jpchinapress.com",
+      "siteUrl": "https://www.jpchinapress.com"
     },
     {
       "id": "FL-008d86b164a4",
@@ -243,15 +243,15 @@
       "siteUrl": "https://news.mydrivers.com"
     },
     {
-      "id": "FL-85440e6fc5c2",
+      "id": "FL-fee9ee69aa03",
       "date": "2026-10-03",
       "dateISO": "Sat, 03 Oct 2026 00:34:00 GMT",
       "ts": 1790987640000,
       "scope": "intl",
       "type": "blast",
-      "title": "英国：这名28岁英国伞兵，在乌克兰死于爆炸 - guancha.cn",
+      "title": "英国：这名28岁英国伞兵，在乌克兰死于爆炸 - 观察者网",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUTVJ5aUFBbVdqenl2bWhvTVo3S1YtMFEyaE9YVk1jNDduY2t6YS10WDNqSmJkS2pPY0lFaF9SMkYzb3lMNFZTbUozSjB5MU5oS044Vi1ERDdJQWtrUXFJdDJCYjNOcjVVRWxkclJSZWg4RG8?oc=5",
-      "site": "guancha.cn",
+      "site": "观察者网",
       "siteUrl": "https://www.guancha.cn"
     },
     {
@@ -265,6 +265,18 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1Uk5BcXZUVmpITWZHMWx6N1ZINVpUWVM5a2VBa3N2MVZBSE5ZSTlNcDRVc2E1M0NpQldzZlZnRzdIZ1dWQVVqMmVhMzlIOUhhd1dnandlY0hreG84M2paVGFR?oc=5",
       "site": "新京报",
       "siteUrl": "https://m.bjnews.com.cn"
+    },
+    {
+      "id": "FL-36b9e9766e27",
+      "date": "2026-10-05",
+      "dateISO": "Mon, 05 Oct 2026 22:15:00 GMT",
+      "ts": 1791238500000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "沙特首都利雅得传出爆炸声|沙特阿拉伯 - 新浪新闻_手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RbWFZX3JxVFhpc2xHMEw1SWNkQ20zaFM1TmNCTG1CVzdWckJ6TnVQVF9nTDBncGJXbjNERHNKU3VKRE8yMmRjaHVMaGd0SFMyUXRnWndCSnFMaW83blZ2dlAwLXBuQUo0R0lfdTdodFI?oc=5",
+      "site": "新浪新闻_手机新浪网",
+      "siteUrl": "https://news.sina.com.cn"
     },
     {
       "id": "FL-3db69a3d1297",
@@ -303,15 +315,15 @@
       "siteUrl": "https://chejiahao.autohome.com.cn"
     },
     {
-      "id": "FL-f3b60c92a454",
+      "id": "FL-932d7f5c908c",
       "date": "2026-10-05",
       "dateISO": "Mon, 05 Oct 2026 20:55:21 GMT",
       "ts": 1791233721000,
       "scope": "dom",
       "type": "blast",
-      "title": "Hinton联合20多位AI大牛警告:“智能爆炸”或已不远 - 文学城",
+      "title": "Hinton联合20多位AI大牛警告:“智能爆炸”或已不远 - wenxuecity.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSVBQSHpNTF9DNDNKcFNxQVRNNnZvVHdwYS0wZUFXa283SDBKQlN6MmU4UGdtaEJGV3MybjhsLVBBTGU5am9WbWpYRE1WTy1ZSGZ3ZGJaU2M5XzgzWnd4TFBzVE1LSFNQQTNWVGdqeUhuYmktNFBGS293dzc3Nk1xMg?oc=5",
-      "site": "文学城",
+      "site": "wenxuecity.com",
       "siteUrl": "https://www.wenxuecity.com"
     },
     {
