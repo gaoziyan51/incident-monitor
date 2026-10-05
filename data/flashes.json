@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T17:07:47.335Z",
+  "updated": "2026-10-05T17:22:46.341Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,15 +15,15 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-8c4b8fbf34a9",
+      "id": "FL-f2b0d890fac1",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 16:00:00 GMT",
       "ts": 1790697600000,
       "scope": "dom",
       "type": "blast",
-      "title": "香港：创办“爆炸头”的独立记者邓浩荣被捕，无国界记者对此表示谴责 - RSF",
+      "title": "香港：创办“爆炸头”的独立记者邓浩荣被捕，无国界记者对此表示谴责 - rsf.org",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMlRKMUY5SGZlT3h5ekRqeGFkd2xRQVJkQ3Jlb05WX3Rqa2hiNU5RdUVZaDV5TGR1YV9jdUFuQlI4ekhPSDlnQlJLbmlIOVJhenhlYVBwN0NoakJkMUt2ckdYN2tSSW9nN3RXWU9iTkFWbEI5THZxOHFiSVdKLUVOOGJVUmVoTm1zajk2Q1JKUm5OSW1hQXlwcUx5TjJscVBrXzNmRWplR2hKNXM?oc=5",
-      "site": "RSF",
+      "site": "rsf.org",
       "siteUrl": "https://rsf.org"
     },
     {
@@ -37,18 +37,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fOUNOVy1jMjYtRHRacDFONmZLdmtlUTBvcjVNX0xwMG9rc2lwYkV4ZzRCOFVIVmdNLXdZcUo3Mkw1UnI3elZsRjNGblI4YTBsMGxPeHJCRnZSNWE0dXNTdXRxcUQ?oc=5",
       "site": "财新",
       "siteUrl": "https://science.caixin.com"
-    },
-    {
-      "id": "FL-6612abd30963",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 07:00:00 GMT",
-      "ts": 1789628400000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "宇宙大爆炸最初五分钟氦丰度获最精确测量 - 中国科技网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MzVkcXZnR2UwelNkenFIYVFYVzBPcUxUQ1VSaUVHcV9LYVJnZzhjQWZzM09DNk8wc0xVNlo2amRqNjBueWtVeTdSbkJZT053RjRSZDhmeXJyT19wekF3UHB6WERtZkxLaFFwT2pVWTE?oc=5",
-      "site": "中国科技网",
-      "siteUrl": "https://www.stdaily.com"
     },
     {
       "id": "FL-340d5e981918",
@@ -147,16 +135,16 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-65a837ede06b",
+      "id": "FL-3903f717310e",
       "date": "2026-10-04",
-      "dateISO": "Sun, 04 Oct 2026 08:42:58 GMT",
-      "ts": 1791103378000,
+      "dateISO": "Sun, 04 Oct 2026 08:57:38 GMT",
+      "ts": 1791104258000,
       "scope": "intl",
       "type": "blast",
-      "title": "乌首都基辅响起强烈爆炸声 一桥梁再次遭袭 - 央视网",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50ajJWMmw0dWRvT2JnSW01VnhEZDZ3WUVydFZlSjBabUVPMW16aHRaeTRiUDgwZzg4blo3bWVtOHJQaVNqYkxtb1hCdEtyQkJXOTFqeTJNWWtHbU1oZlZtdHFwZFVlRjM3clAyWFpralZNWkNIT3VyOQ?oc=5",
-      "site": "央视网",
-      "siteUrl": "https://news.cctv.com"
+      "title": "乌首都基辅响起强烈爆炸声，一桥梁再次遭袭 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9pZktOdGhENzMxZ3pMM05vSkVXUGEyUTVGcExGM3NWS002QW96SVBHRzNRZlp3Mi0zVE50NWt1aThZaTZmRjk2MTNaNA?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://mil.ifeng.com"
     },
     {
       "id": "FL-0615dd398028",
@@ -255,16 +243,16 @@
       "siteUrl": "https://news.mydrivers.com"
     },
     {
-      "id": "FL-00bcf883b8c5",
+      "id": "FL-fee9ee69aa03",
       "date": "2026-10-03",
-      "dateISO": "Sat, 03 Oct 2026 00:34:48 GMT",
-      "ts": 1790987688000,
+      "dateISO": "Sat, 03 Oct 2026 00:34:00 GMT",
+      "ts": 1790987640000,
       "scope": "intl",
       "type": "blast",
-      "title": "英国：这名28岁英国伞兵，在乌克兰死于爆炸 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1uQjlDVUNHQnhSbWJDRXhFNjVtRVRGUHprV3EyOXZyTllRUE1Sa3JnTUtnV3R5OWg3MmRHa0Z6ellVM2RPc3FocThQOUY?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://news.ifeng.com"
+      "title": "英国：这名28岁英国伞兵，在乌克兰死于爆炸 - 观察者网",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUTVJ5aUFBbVdqenl2bWhvTVo3S1YtMFEyaE9YVk1jNDduY2t6YS10WDNqSmJkS2pPY0lFaF9SMkYzb3lMNFZTbUozSjB5MU5oS044Vi1ERDdJQWtrUXFJdDJCYjNOcjVVRWxkclJSZWg4RG8?oc=5",
+      "site": "观察者网",
+      "siteUrl": "https://www.guancha.cn"
     },
     {
       "id": "FL-160d55aeb47e",
@@ -289,6 +277,18 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CQ3VOS1NjUVJOS2Rna3JCWlRZRzR3aERFWlNsOVVGRTBpZjdnY05tak9FT2VnSzg0RDJha21telhSazh5YjBuVFZ5aWhLbE1xcWNwdEtkRTNHOHpWV1RsNNIBZkFVX3lxTE9jdVJ6QUV1Ry1QZDNZTVV3MkxfaTI1cGFTbDM4YVVtTU9ISUtrYjlsTDA3QkFOcDdjWld2YkhDZEV5LUZ1WHA2bFdvQWZwNGVEbWtGaGV3eDlHdEZUUW96NjFuTy1vQQ?oc=5",
       "site": "大紀元",
       "siteUrl": "https://www.epochtimes.com"
+    },
+    {
+      "id": "FL-fe0fd8565e44",
+      "date": "2026-10-05",
+      "dateISO": "Mon, 05 Oct 2026 13:13:14 GMT",
+      "ts": 1791205994000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Food truck explosion sends 2 people to hospital - WHIO TV",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZDNlLVFVRzBJLVQzM2NDUS1wU1VpQmxxeE5xYzZndjZpZmQ0Y1RxOHVNU0VqN3ZIY2hEX1ZlajIwNl9sWktTTFRiRkl6b1pWc0Zjbm9xa1lFalR4M0twUk9hT21UR0NFMjU1OXdXWDJaNkJ4dHM5LWVVZ1NWd2REVE84OGNCWWR2YTlaT0gyblllVG9uNVRlcjgtZ0NjZVJjQjk0a1p4MNIBuwFBVV95cUxQSXE0N0J3R0gwcnRCWTAtMkhHdnFzNXc0d2p2aGVBNU5RQXhsOGxBMVl5OVhxT2xQSjNJZlcxa2ZVbGwxcGFvQ3Y0R0ZCOW8yenZHa25QMjd6cjRJamxQWkJpaTZFb3NYSkZXeHNneHBjZXo2SzZ4UFM1ZXdLQzlPbVlteHRuYXFyZkQ0bE1zTUdvZE9SSDhUWlZCY2xob2VBUkhBUDNBSVoybjdfOGVTNVozcmdVMFQwS0lJ?oc=5",
+      "site": "WHIO TV",
+      "siteUrl": "https://www.whio.com"
     },
     {
       "id": "FL-53830f478f11",
@@ -375,15 +375,15 @@
       "siteUrl": "http://www.xinhuanet.com"
     },
     {
-      "id": "FL-c3efca085b31",
+      "id": "FL-7a913308baa8",
       "date": "2026-10-05",
       "dateISO": "Mon, 05 Oct 2026 09:05:52 GMT",
       "ts": 1791191152000,
       "scope": "dom",
       "type": "blast",
-      "title": "【视频】新款荣放亏爆炸都卖不出去是什么原因？ - 汽车之家",
+      "title": "【视频】新款荣放亏爆炸都卖不出去是什么原因？ - chejiahao.autohome.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDQnEzRWdZREhaVExNR0VaY3NfUm9lazJ5MHJoZlQ5c2xWUWl3blBxLUVqWHZTbGFubXBQYndReUZuZFVhRTNLYURDZkZQZERzVVp4aTJqWmRGRVE?oc=5",
-      "site": "汽车之家",
+      "site": "chejiahao.autohome.com.cn",
       "siteUrl": "https://chejiahao.autohome.com.cn"
     },
     {
@@ -459,15 +459,15 @@
       "siteUrl": "https://k.sina.com.cn"
     },
     {
-      "id": "FL-e3eaa7d3da44",
+      "id": "FL-fd62a6188e66",
       "date": "2026-10-05",
       "dateISO": "Mon, 05 Oct 2026 02:06:20 GMT",
       "ts": 1791165980000,
       "scope": "dom",
       "type": "blast",
-      "title": "红色旋风燃爆主场 - 苏州新闻",
+      "title": "红色旋风燃爆主场 - news.2500sz.com",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4ZDNJRUZCTEhUSjBSQmZUbHIyX0ZieXJBS0VGd3lxaVd0MngyN0gxdFNnNW9EXzdyNUhWLWxNODQtNVVmX01PcUw4YnFObkdBOUJMUDJmOWJEU3FxaFllMExR?oc=5",
-      "site": "苏州新闻",
+      "site": "news.2500sz.com",
       "siteUrl": "https://news.2500sz.com"
     },
     {
@@ -531,6 +531,18 @@
       "siteUrl": "https://m.huanqiu.com"
     },
     {
+      "id": "FL-84a9598aa100",
+      "date": "2026-06-12",
+      "dateISO": "Fri, 12 Jun 2026 07:00:00 GMT",
+      "ts": 1781247600000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "泰国当局判处两维吾尔人死刑　BBC记者回忆当年的曼谷四面佛爆炸案 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92WW1HV0ttYlE2bUkxb2ZWUDVCSUNuTmRaQnNSWnpDTElPRUFUOXk3U3FoX2VKTm1FQ29TaDBocTUwMTZlMU1Za2hRUkxEMG9taGphNkZvSjI4UF9wUzVyU0E4amUyQdIBa0FVX3lxTE5YVGx2WWxZY1lKNjNHQ1huNHZQWWFqTW1MR0p6RnBwaVdSSXlKT1FEQmx6dzI3dVBIVm5jTVdpRHR6b05UeHRKdUVrZEFMbzcwOUJLcHhGWVBaN2tnU2c5QzFKTEdyZml6ZDg0?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
+    },
+    {
       "id": "FL-4cc80280a6ca",
       "date": "2026-10-02",
       "dateISO": "Fri, 02 Oct 2026 21:52:28 GMT",
@@ -565,18 +577,6 @@
       "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNbjdpRzRtaWtCUzZVN0U3UW1EY2t5T2tNNmcyeFh2Ym5KeGZGb1ZCcVlUdVM1Smw3cjh2MEtNd095R0huVngzR1lDTHp1cFZHUVhkaVc2aENvczBqbWFCUWtYV29JNk1Nb1ROTEJqcUEyLVZCc1RXUUZveVdLSE1YdTh1SE00U28wMV9sR2NONE1WenFnbjBSRlNzb1hGNDFHaVRPQmRJT0VSMU1yT21EeUVlZVdNLXg4S1pSOG9oYzhQRVlJQmN4YlNFcXQxUzFaTWtwUjhTMnVCU1ZFTks2aFNvb3B1LUFHcFVTNDNHOHdXZFJtZkh4QlNFS1o2aWdPS1YzbEIwa1hGbTRORkdjbjJNSEdDMVRGM3Q4UlhIOHVHblFuaU1sUkNvSkNqSFFYeGxnRHFSVTNDS0dBUkFtdzRFTU5EeUpNaHJkUGw2RmJzUWJRMmQzY2NOYkQyNl8yMGVnYVpTV050NUprM21MTmJ3djY5N19HTTFBeHdKYnJCempTczdCUlQyT3dsZDQ?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr"
-    },
-    {
-      "id": "FL-60e3ae8a5cff",
-      "date": "2026-10-02",
-      "dateISO": "Fri, 02 Oct 2026 05:31:50 GMT",
-      "ts": 1790919110000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "胡塞武装袭击地区军事设施 也门亚丁传出爆炸声 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50UkVmXzR5UTNvVEVpY2JfNlpPWDd5LWtKNTF0cGNsUlgxNW1LQ3FlZXQ1UkhWRnFmTGNMNTItcVJIRzNpVjFuQWVvTkk2V3EyUngwR2hqMDlIN3JocWxZVDd4OUI?oc=5",
-      "site": "东方财富",
-      "siteUrl": "http://finance.eastmoney.com"
     }
   ]
 }
