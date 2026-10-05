@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T08:24:19.240Z",
+  "updated": "2026-10-05T08:42:05.366Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -353,14 +353,14 @@
     {
       "id": "FL-33443b2c477e",
       "date": "2026-10-03",
-      "dateISO": "Sat, 03 Oct 2026 13:44:21 GMT",
-      "ts": 1791035061000,
+      "dateISO": "Sat, 03 Oct 2026 22:49:38 GMT",
+      "ts": 1791067778000,
       "scope": "intl",
       "type": "blast",
       "title": "伊朗格什姆岛附近海域听到爆炸声 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50eFV5dTdiQmNfZ1dGZ3pDRUxmMk1PLXFjZkJrT1A1cGtscmxiWnYxWDlQV3MwQy10aHN2VnZPZHFSY0E2YkpaczJiaGhNdFRqdHhaYWRlcEpnWmtZS2VmRw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SQVFLUWg2bTlCbFFObFBHWmM1dkhtclVJS0ZRSXR2OXlybDc2LVJnVlh2U18ySWFISFRSTHpzYl9xOGFub3QydHN1Vko2c0Z4TmlFM1o4ZmtHQm9aSFRyd0FYdw?oc=5",
       "site": "东方财富",
-      "siteUrl": "https://wap.eastmoney.com"
+      "siteUrl": "https://emwap.eastmoney.com"
     },
     {
       "id": "FL-538501bee8ff",
@@ -399,15 +399,15 @@
       "siteUrl": "http://www.hb.chinanews.com.cn"
     },
     {
-      "id": "FL-d38180d6c47d",
+      "id": "FL-d52930d7152c",
       "date": "2026-10-03",
       "dateISO": "Sat, 03 Oct 2026 08:41:00 GMT",
       "ts": 1791016860000,
       "scope": "dom",
       "type": "blast",
-      "title": "7人水泥地上烧烤突发爆炸火花四溅 消防科普：不良导热体风险很高 - news.mydrivers.com",
+      "title": "7人水泥地上烧烤突发爆炸火花四溅 消防科普：不良导热体风险很高 - 驱动之家",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82RUo4eUdEYXBFbXBBcW9ud09nZG5EbVJMUEZIemZ4WFNpZ0lBRlRwdWlzMWRMeXVNYXB2bng1QUJuOUEzbmE1MExLTUN1eVBJdTg4OVVzbms?oc=5",
-      "site": "news.mydrivers.com",
+      "site": "驱动之家",
       "siteUrl": "https://news.mydrivers.com"
     },
     {
@@ -433,6 +433,18 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mR2pTX0YxWjBwQ2lLNC1XZjFhd3IwVEYtWkZFR3ZBU3B5RTFHR1BldmQ3OEkxN2NaWTMzYUkwWENDeEliY3dVNEloOExFS1B6SlZQTENHdWVmTWpUM042M2hRcmo4QS1qdl85cXlhZHJ3R3JGTEU4?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-18ba8b2b082c",
+      "date": "2026-10-05",
+      "dateISO": "Mon, 05 Oct 2026 08:22:17 GMT",
+      "ts": 1791188537000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "韩军最终认定非军事区爆炸系朝鲜地雷引发 - 韩联社",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CdFlXOFNta1gtTHE0MW94dzEwOWNqa3lzTWg5MUNiRTRKd3NBOHFzUlR0c2tMQVo1THlKZy1DeGVDVFZoeE1jTzNQVjhxaTJUd09kZzgwWnlvMWJZ?oc=5",
+      "site": "韩联社",
+      "siteUrl": "https://m-cn.yna.co.kr"
     },
     {
       "id": "FL-417cb0b7551d",
