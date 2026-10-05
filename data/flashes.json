@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T11:22:10.292Z",
+  "updated": "2026-10-05T11:40:51.246Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -27,15 +27,15 @@
       "siteUrl": "https://rsf.org"
     },
     {
-      "id": "FL-52720b98ede5",
+      "id": "FL-385dd58b908a",
       "date": "2026-08-11",
       "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
       "ts": 1786431600000,
       "scope": "dom",
       "type": "blast",
-      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - science.caixin.com",
+      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - 财新",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fOUNOVy1jMjYtRHRacDFONmZLdmtlUTBvcjVNX0xwMG9rc2lwYkV4ZzRCOFVIVmdNLXdZcUo3Mkw1UnI3elZsRjNGblI4YTBsMGxPeHJCRnZSNWE0dXNTdXRxcUQ?oc=5",
-      "site": "science.caixin.com",
+      "site": "财新",
       "siteUrl": "https://science.caixin.com"
     },
     {
@@ -49,6 +49,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-b4014400b57c",
+      "date": "2026-10-04",
+      "dateISO": "Sun, 04 Oct 2026 23:23:00 GMT",
+      "ts": 1791156180000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Boy, 15, arrested after being caught on video blasting fire in woman’s face during France’s student riots - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNlZfNHFQRmRXcTQ0Y2VDSkh6VkpnRUdEblYwRGlSTTVvTS1Sbmd0eVdBWEZsOGxWeWpWWTcxeTlXMzhPRUxmZDQwN1QzV3M2SVpUX2xzRUtjdkszeTcxQTEtajB1TDNzUjNlaWhOS3FkUlJITXh2TFRFbVZjN2NScnBsNFJ5Y2xIWkhMak5Ocnk5UXJHa09jWFpqSFhIbnpEZnBKUGl3SzdoWDJXZVF6RDgtZTZvY3ppekpV?oc=5",
+      "site": "New York Post",
+      "siteUrl": "https://nypost.com"
     },
     {
       "id": "FL-53512de66abc",
@@ -183,18 +195,6 @@
       "siteUrl": "https://mil.ifeng.com"
     },
     {
-      "id": "FL-699e0aa8835b",
-      "date": "2026-10-04",
-      "dateISO": "Sun, 04 Oct 2026 07:47:30 GMT",
-      "ts": 1791100050000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "华晨宇献唱《齐天》，气势如虹，燃爆全场 - 手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SN0hkbXlBZ3RBMHI0NXlUWDNuTm1pVDk3ZWxQOE5tVXpKOTdLX0FiQ2lNUERhMm0teDg5Vi1RdTJsVmJOQktjU01MeWVKd3ZoTWE5bTluby1BUy1xNEw2OTd5QnhQVGo0d0g4ME9TNzNodw?oc=5",
-      "site": "手机新浪网",
-      "siteUrl": "http://k.sina.com.cn"
-    },
-    {
       "id": "FL-b210d3bc444f",
       "date": "2026-10-04",
       "dateISO": "Sun, 04 Oct 2026 07:19:00 GMT",
@@ -303,15 +303,15 @@
       "siteUrl": "https://wap.eastmoney.com"
     },
     {
-      "id": "FL-538501bee8ff",
+      "id": "FL-08b10b7ec061",
       "date": "2026-10-03",
       "dateISO": "Sat, 03 Oct 2026 10:49:55 GMT",
       "ts": 1791024595000,
       "scope": "intl",
       "type": "blast",
-      "title": "也门萨那传出爆炸声，疑似再次遭到空袭 - 京报网",
+      "title": "也门萨那传出爆炸声，疑似再次遭到空袭 - xinwen.bjd.com.cn",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE16cm4yd0t6cG5QejBOamotVFd2V0F5U0EwV1VCZE5ucjhmMWVEdkNsRE9CMDBMSkpvYlBKc3I4aFUwMWpYLUtvaHIwOWMzY25lQjJzMWg2Uzl6Q1NFQndkcTNEV3daTmdHUW1GYUtla0ZTUQ?oc=5",
-      "site": "京报网",
+      "site": "xinwen.bjd.com.cn",
       "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
@@ -327,15 +327,15 @@
       "siteUrl": "https://amp.dw.com"
     },
     {
-      "id": "FL-d52930d7152c",
+      "id": "FL-d38180d6c47d",
       "date": "2026-10-03",
       "dateISO": "Sat, 03 Oct 2026 08:41:00 GMT",
       "ts": 1791016860000,
       "scope": "dom",
       "type": "blast",
-      "title": "7人水泥地上烧烤突发爆炸火花四溅 消防科普：不良导热体风险很高 - 驱动之家",
+      "title": "7人水泥地上烧烤突发爆炸火花四溅 消防科普：不良导热体风险很高 - news.mydrivers.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82RUo4eUdEYXBFbXBBcW9ud09nZG5EbVJMUEZIemZ4WFNpZ0lBRlRwdWlzMWRMeXVNYXB2bng1QUJuOUEzbmE1MExLTUN1eVBJdTg4OVVzbms?oc=5",
-      "site": "驱动之家",
+      "site": "news.mydrivers.com",
       "siteUrl": "https://news.mydrivers.com"
     },
     {
@@ -363,16 +363,16 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-dd8bd7e2f66f",
+      "id": "FL-67af431bab58",
       "date": "2026-10-05",
-      "dateISO": "Mon, 05 Oct 2026 10:41:36 GMT",
-      "ts": 1791196896000,
+      "dateISO": "Mon, 05 Oct 2026 11:19:52 GMT",
+      "ts": 1791199192000,
       "scope": "intl",
       "type": "blast",
-      "title": "韩国公布非军事区地雷爆炸事件最终调查结果- 世相 - 新湖南",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FTGFFQTFSeldJWU9WLVRkdjdadkdJRTFPbVR1WDZyT05qWm1fdm5hbHlISGRlV3N5TmJUbWhKQktmdDR4RDhZWFBMT0w5bjNuTS1YNkVaUWo0WkdUdUpPM3dFN05YZw?oc=5",
-      "site": "新湖南",
-      "siteUrl": "https://www.hunantoday.cn"
+      "title": "韩国公布非军事区地雷爆炸事件最终调查结果：爆炸由朝鲜在军事分界线南侧埋设的反步兵地雷导致，要求朝方作出道歉并立即清除相关地雷 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT1Nsa3NCeVh0SUxCT1YwcnBwZHJOTTI1YXFfUDhfMURfQWdPYXVVUUNEYnFqMzEtSjQ1NDdrbk1Vb3lZMUZZTS1FdS1LMlAyM0s4Qk5pc2VjX2FURXdLUG51WEZlLU93ekVRMTZtRWItaC1Qb2JZM1pZVG5paV9jWDhIMGdfY0w5RGRWQQ?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-c3efca085b31",
@@ -387,15 +387,15 @@
       "siteUrl": "https://chejiahao.autohome.com.cn"
     },
     {
-      "id": "FL-ef0306539de3",
+      "id": "FL-18ba8b2b082c",
       "date": "2026-10-05",
       "dateISO": "Mon, 05 Oct 2026 08:22:17 GMT",
       "ts": 1791188537000,
       "scope": "intl",
       "type": "blast",
-      "title": "韩军最终认定非军事区爆炸系朝鲜地雷引发 - m-cn.yna.co.kr",
+      "title": "韩军最终认定非军事区爆炸系朝鲜地雷引发 - 韩联社",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CdFlXOFNta1gtTHE0MW94dzEwOWNqa3lzTWg5MUNiRTRKd3NBOHFzUlR0c2tMQVo1THlKZy1DeGVDVFZoeE1jTzNQVjhxaTJUd09kZzgwWnlvMWJZ?oc=5",
-      "site": "m-cn.yna.co.kr",
+      "site": "韩联社",
       "siteUrl": "https://m-cn.yna.co.kr"
     },
     {
