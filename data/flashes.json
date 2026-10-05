@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T11:57:52.089Z",
+  "updated": "2026-10-05T12:10:18.179Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -121,18 +121,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zdmMtUEdsTjk1LXNpUXd0ZDlaSjRiY0hIczE0Q0NkaWtpNjdvbWp4TU1tS090Y0RtYW8wc3lJMzNqSFFIQU1lRFBBLUZmOGVYR1VZMjMwVFk3cW9yVE12STZXYjltTkQ0OGxWS25JcHE?oc=5",
       "site": "新浪新闻_手机新浪网",
       "siteUrl": "https://news.sina.com.cn"
-    },
-    {
-      "id": "FL-1065228a7034",
-      "date": "2026-10-04",
-      "dateISO": "Sun, 04 Oct 2026 10:50:00 GMT",
-      "ts": 1791111000000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "基辅响起强烈爆炸声，一桥梁遭喷气式无人机袭击，桥上正有车辆通行，乌克兰国家紧急情况局工作人员赶往现场 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWGlHNHVDeVE5R2M5QkNjZU5TY25pSUNxeU54SGdrYXIxQXBUWHFxS29RcXF3LUZBQUduZG9lZTR4RUZ5WDRCQ25ubzVsejhrV1ljazhzYXZtRy03a05VZ1JhWFNvMkpnX0J0N0FMRVFnOGFaSzNmQWxyRE0yaG1rQWhITTJ2aWdXWi1Bdg?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-d11f37b624ae",
@@ -303,15 +291,15 @@
       "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
-      "id": "FL-c9cc98fcf112",
+      "id": "FL-6a0eaca36f01",
       "date": "2026-10-03",
       "dateISO": "Sat, 03 Oct 2026 09:44:09 GMT",
       "ts": 1791020649000,
       "scope": "intl",
       "type": "blast",
-      "title": "拒绝就地雷爆炸道歉 朝鲜再射弹道导弹 - dw.com",
+      "title": "拒绝就地雷爆炸道歉 朝鲜再射弹道导弹 - DW.com",
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQdjU0NXJ5bVR5U055cWlqMXFiYUVmWVVuOU9jeHdsNHdSZzB1STdsS0xZRTBTVHBfV2JVdVJKZzZRdV9zbTE0b2psTy11Vnhic1Y0R2RsUUJCS3l5OUhhbUQyTzJfRC1WVUlROU94VkRodVZlQkwxRVVER3JMcDZSanVkU3hfTUNRV1FGRlJWNGFMOVZRTnhaVlVxb3A5RGFFUl9zYjg0LXVKdE5GQlRVYUhaSjctUFMtVklXYjlkR3d6Tl9jSWJLZWpXbmpFZUt3TmFwbkVGQUNNNlU1Skp5dXY3OFVGRDkyMC02QUluaGpBWkhrTEt5SGVtVzNLWVJsSzVHUlVsTGswV3dhRlJkbXlsOGZMd9IBlgJBVV95cUxQdjU0NXJ5bVR5U055cWlqMXFiYUVmWVVuOU9jeHdsNHdSZzB1STdsS0xZRTBTVHBfV2JVdVJKZzZRdV9zbTE0b2psTy11Vnhic1Y0R2RsUUJCS3l5OUhhbUQyTzJfRC1WVUlROU94VkRodVZlQkwxRVVER3JMcDZSanVkU3hfTUNRV1FGRlJWNGFMOVZRTnhaVlVxb3A5RGFFUl9zYjg0LXVKdE5GQlRVYUhaSjctUFMtVklXYjlkR3d6Tl9jSWJLZWpXbmpFZUt3TmFwbkVGQUNNNlU1Skp5dXY3OFVGRDkyMC02QUluaGpBWkhrTEt5SGVtVzNLWVJsSzVHUlVsTGswV3dhRlJkbXlsOGZMdw?oc=5",
-      "site": "dw.com",
+      "site": "DW.com",
       "siteUrl": "https://amp.dw.com"
     },
     {
@@ -351,16 +339,40 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-95fefc6040f1",
+      "date": "2026-10-05",
+      "dateISO": "Mon, 05 Oct 2026 12:03:01 GMT",
+      "ts": 1791201781000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "韩军方对DMZ爆炸作出最终调查结论：北韩埋设地雷所致，要求\"道歉并立即清除\" - chinese.joins.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wQS1oUzVYLVR2NmQ0Q3BsbDRaMlpvcUl5cW1EdnZkZHNiWjc5d0JBbmhYczBha3dBZEdMMkJSVkRWaFdFR0RqSDI5YlhScHRUZHlXb2ZIZ0tKZGd4Z1lRU3pPR3V1N3BBVXNzRA?oc=5",
+      "site": "chinese.joins.com",
+      "siteUrl": "https://chinese.joins.com"
+    },
+    {
+      "id": "FL-92356d2bde7f",
+      "date": "2026-10-05",
+      "dateISO": "Mon, 05 Oct 2026 11:50:31 GMT",
+      "ts": 1791201031000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "韩国公布非军事区地雷爆炸事件最终调查结果 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM3htSEp3N29SMXpCZF9iOXdjNHJFNV9PMjlYdFBZcGx1UWdWcU5mQ1BUejh0b0J4ZWZIaHNPdzhmTHFmVWgxLWpybHZqci14c1hZSGZCMllFTmNKZVZqS05hZm1fOUR5SmNxRXQ5TzQxemQ1NmR5RWhyekFSV3lQemh4ZjNaOXZL?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-67af431bab58",
       "date": "2026-10-05",
-      "dateISO": "Mon, 05 Oct 2026 11:19:52 GMT",
-      "ts": 1791199192000,
+      "dateISO": "Mon, 05 Oct 2026 11:46:56 GMT",
+      "ts": 1791200816000,
       "scope": "intl",
       "type": "blast",
       "title": "韩国公布非军事区地雷爆炸事件最终调查结果：爆炸由朝鲜在军事分界线南侧埋设的反步兵地雷导致，要求朝方作出道歉并立即清除相关地雷 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT1Nsa3NCeVh0SUxCT1YwcnBwZHJOTTI1YXFfUDhfMURfQWdPYXVVUUNEYnFqMzEtSjQ1NDdrbk1Vb3lZMUZZTS1FdS1LMlAyM0s4Qk5pc2VjX2FURXdLUG51WEZlLU93ekVRMTZtRWItaC1Qb2JZM1pZVG5paV9jWDhIMGdfY0w5RGRWQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPajJaNk45dldwbWQ0MkxuNm0yQS0xZXRhcGVNNUdJZ1RVdlVmQ2VxQ25BMWlLUzIwSU9qOWZuTzVOMmVyYS0zcmlMb2RWeXZISWZINWZ0R0pxOE13WU10UjFUcVpHSm5uRnRqSEVUZDVCMWRXSlZtTFVHXy1QZ3dTYmd0ckgyb3ZGZ3gw?oc=5",
       "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
+      "siteUrl": "https://www.sohu.com"
     },
     {
       "id": "FL-c3efca085b31",
@@ -387,15 +399,15 @@
       "siteUrl": "https://m-cn.yna.co.kr"
     },
     {
-      "id": "FL-417cb0b7551d",
+      "id": "FL-385c206b6319",
       "date": "2026-10-05",
       "dateISO": "Mon, 05 Oct 2026 07:34:15 GMT",
       "ts": 1791185655000,
       "scope": "intl",
       "type": "blast",
-      "title": "德总理会见泽连斯基 现场响起爆炸声 基辅再遭空袭警报 - 中华军事",
+      "title": "德总理会见泽连斯基 现场响起爆炸声 基辅再遭空袭警报 - military.china.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XbXVrSm56OWFta0FsQ19tRTV2MGdRanlFU3V1d3dRLV9VdU53X082WXZtQ3l6V2ZNNG1SYmZ0dGZCb2RCZmFtdG5ZNms4NTJINGszSEVXMkM4cTBWWmhvX3NQMzh1LWZLTGJ1ZE5WTWY?oc=5",
-      "site": "中华军事",
+      "site": "military.china.com",
       "siteUrl": "https://military.china.com"
     },
     {
@@ -483,15 +495,15 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-d575bf6801d7",
+      "id": "FL-f69cfca90fda",
       "date": "2026-10-05",
       "dateISO": "Mon, 05 Oct 2026 00:15:47 GMT",
       "ts": 1791159347000,
       "scope": "intl",
       "type": "blast",
-      "title": "德总理会见乌总统警报爆炸声不断 基辅再遭袭击 - 中华军事",
+      "title": "德总理会见乌总统警报爆炸声不断 基辅再遭袭击 - military.china.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80Z1BQZ0Z1MjBydzNpWV9HajhxR1luM3g5VlFJZ196WGRVOTNNVmhLYkg0ckxDTmxoS21BLUxtTTJ0eUdKY2hZNlVqSVQzUGtpdmtINjJCVDZXYWlqRGFBaDlhV1Y1Y2VaUV9uV1NkMVE?oc=5",
-      "site": "中华军事",
+      "site": "military.china.com",
       "siteUrl": "https://military.china.com"
     },
     {
