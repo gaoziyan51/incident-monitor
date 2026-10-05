@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T09:12:48.745Z",
+  "updated": "2026-10-05T09:35:01.400Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,28 +15,16 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-f2b0d890fac1",
+      "id": "FL-8c4b8fbf34a9",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 16:00:00 GMT",
       "ts": 1790697600000,
       "scope": "dom",
       "type": "blast",
-      "title": "香港：创办“爆炸头”的独立记者邓浩荣被捕，无国界记者对此表示谴责 - rsf.org",
+      "title": "香港：创办“爆炸头”的独立记者邓浩荣被捕，无国界记者对此表示谴责 - RSF",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMlRKMUY5SGZlT3h5ekRqeGFkd2xRQVJkQ3Jlb05WX3Rqa2hiNU5RdUVZaDV5TGR1YV9jdUFuQlI4ekhPSDlnQlJLbmlIOVJhenhlYVBwN0NoakJkMUt2ckdYN2tSSW9nN3RXWU9iTkFWbEI5THZxOHFiSVdKLUVOOGJVUmVoTm1zajk2Q1JKUm5OSW1hQXlwcUx5TjJscVBrXzNmRWplR2hKNXM?oc=5",
-      "site": "rsf.org",
+      "site": "RSF",
       "siteUrl": "https://rsf.org"
-    },
-    {
-      "id": "FL-b243152dc25d",
-      "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 08:58:00 GMT",
-      "ts": 1790672280000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "韩朝非军事区地雷爆炸致3伤，韩国总统要求军方迅速查明真相 - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1clZ0V1NBMFBPdVJRUG9DeWFCSUVha253ejg3emtXNFFOWnBNazZyOTVmWWZnOVZmay16RzBWRGZlZWlNUW5Oa0lxTGFVZEliQ01Wb0Q4cHYzQVBWRmc1QVZLMFc?oc=5",
-      "site": "新京报",
-      "siteUrl": "https://www.bjnews.com.cn"
     },
     {
       "id": "FL-385dd58b908a",
@@ -85,18 +73,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVUYtMTdiUVFTamVGQUg2ak9jSl8zcHMxY1g0OTEtTmxhR2FPdTN6VjBhcm9qcGY4cnluSW9ERFU1aXZTM0pfSmFQNXRBd1RwYzM4dkF2MFRGMExqTXRHaUZ4RU1SblZOUUtkM3NnVk5sUWtZb1VkRWlKUmZ2WEVJQzZuWGxnYlhkNUpv?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
-    },
-    {
-      "id": "FL-7c607ca2ea5c",
-      "date": "2026-10-04",
-      "dateISO": "Sun, 04 Oct 2026 20:42:00 GMT",
-      "ts": 1791146520000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Food truck explosion sends two people to hospital - wtol.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNW1rYmw0N1pOalZsODhpeWdYbHBUSVdCUFpoZG1zdzdaV2YxY3IybTZnSUExSFI1NU1VWW5KT0otQzdnbWM4VGRIOGhINThtMHBHVEZUcWI4Smp6alFvMUhCSXhyWVJyRHkxRUthS1ZZcnY0VWtUeHREVzN2bklvWWtlMFZCRnktZGl6YTVQT1dqS2E4dkg5Z0NOVlpBRFBNblhsZGQ0ZlBBb0pUQmE1RG5ZTEhZbWU1UnlDUUVZb0x1UFV0d2VxNmI1TQ?oc=5",
-      "site": "wtol.com",
-      "siteUrl": "https://www.wtol.com"
     },
     {
       "id": "FL-650f937ae0b8",
@@ -159,15 +135,15 @@
       "siteUrl": "https://news.sina.com.cn"
     },
     {
-      "id": "FL-4dc7b9ac94af",
+      "id": "FL-73303672996c",
       "date": "2026-10-04",
       "dateISO": "Sun, 04 Oct 2026 11:41:14 GMT",
       "ts": 1791114074000,
       "scope": "intl",
       "type": "blast",
-      "title": "乌克兰首都基辅响起强烈爆炸声 北桥遭无人机袭击 - news.china.com",
+      "title": "乌克兰首都基辅响起强烈爆炸声 北桥遭无人机袭击 - 中华网",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEXzRhUWZQQUZvZlJyemtleXdDMVJ6NmJHcTl1TUV5d2w4VlIzLU1ITG5scFZCcHFDU3lnNVFtaHFzT2VSRExhOElkb3RKWDEySzNoUVVQU0h1QWtaSk5SYm1qV0kzdU9XaFMwS1VJazY?oc=5",
-      "site": "news.china.com",
+      "site": "中华网",
       "siteUrl": "https://news.china.com"
     },
     {
@@ -387,18 +363,6 @@
       "siteUrl": "https://amp.dw.com"
     },
     {
-      "id": "FL-c56cc0eea1ed",
-      "date": "2026-10-03",
-      "dateISO": "Sat, 03 Oct 2026 09:33:00 GMT",
-      "ts": 1791019980000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "燃爆全场！1599.1万网友共同见证“巅峰之夜” - hb.chinanews.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEejkxWV9rSkd4TGc3Z2tIVTBrU3dRdGhzelNGam5BSlc4ajJQbzJSY1pHRzBaMnRDQWFMdWROck5rV1Q3TFh4NmtQblRCMUJySFZuaDlPOTBXWkpPMk5YSUdTdW5KWGRv?oc=5",
-      "site": "hb.chinanews.com.cn",
-      "siteUrl": "http://www.hb.chinanews.com.cn"
-    },
-    {
       "id": "FL-d52930d7152c",
       "date": "2026-10-03",
       "dateISO": "Sat, 03 Oct 2026 08:41:00 GMT",
@@ -553,18 +517,6 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNU2JqbElZTFBEVW9fTVo5ay1MMFlubFk4dmJ6ZklxSEMyZGZEUHctenNyX19wWVhlNkg0dHgxdTFGa3l2cExkRk9kcEw3MnpxbHZBeGg5N29QdjlvY0hDaFFHM0F4ZE4xYzJpdTVtWnh5UGhFM3dqWDRZMEJxay10NUZn?oc=5",
       "site": "CBS News",
       "siteUrl": "https://www.cbsnews.com"
-    },
-    {
-      "id": "FL-1f26e79050ec",
-      "date": "2026-10-05",
-      "dateISO": "Mon, 05 Oct 2026 00:44:33 GMT",
-      "ts": 1791161073000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "伊拉克西部“伊斯兰国”遗留炸弹爆炸致2人死亡 - Malaysia-China Insight",
-      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNbGZGR0I1NGE4Rmt4MzNIRk1RV3k2Y0JSVjhtTDNQZF9Bc0lxVXMwZzEzeWRySmF5VXFkTFdWMDVWWXNCZWtnUndBU3dtYjJSdER2S3FNVjAwN0pEUWZsMUJVX2xRMlNaaUdSTzVmWVUxRmFVYVdkalJnd3B2Mm56RzFZcHEtOGY3RzFTSXZWRjVPWjAxUVFKS0pzTE8wTHktR2hBcTdfYzNFUjN3Mk01SUFUajFzSnFQT3pURjVYblRyalJFY1VaQ2k2bXF6Y1ljZ1c3b0s0M29hNTl4bzRIM0pRam54OThyc1dCZzFSYVRNNWpidlN3V3kxNzg1WUlhU1NzTEtHcUtDUVhJcXdzMmU4Ml9DZXEzSHltUVRXemFSOHJKOVpEc1l0aE1XN0hDVDJINXdQSEJyaTg?oc=5",
-      "site": "Malaysia-China Insight",
-      "siteUrl": "https://mcigroup.my"
     },
     {
       "id": "FL-2c0706671459",
