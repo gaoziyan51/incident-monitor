@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T16:41:15.814Z",
+  "updated": "2026-10-05T16:58:02.533Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -37,6 +37,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fOUNOVy1jMjYtRHRacDFONmZLdmtlUTBvcjVNX0xwMG9rc2lwYkV4ZzRCOFVIVmdNLXdZcUo3Mkw1UnI3elZsRjNGblI4YTBsMGxPeHJCRnZSNWE0dXNTdXRxcUQ?oc=5",
       "site": "财新",
       "siteUrl": "https://science.caixin.com"
+    },
+    {
+      "id": "FL-6612abd30963",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 07:00:00 GMT",
+      "ts": 1789628400000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "宇宙大爆炸最初五分钟氦丰度获最精确测量 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MzVkcXZnR2UwelNkenFIYVFYVzBPcUxUQ1VSaUVHcV9LYVJnZzhjQWZzM09DNk8wc0xVNlo2amRqNjBueWtVeTdSbkJZT053RjRSZDhmeXJyT19wekF3UHB6WERtZkxLaFFwT2pVWTE?oc=5",
+      "site": "中国科技网",
+      "siteUrl": "https://www.stdaily.com"
     },
     {
       "id": "FL-340d5e981918",
@@ -111,30 +123,6 @@
       "siteUrl": "https://news.sina.com.cn"
     },
     {
-      "id": "FL-267eddddb16f",
-      "date": "2026-10-04",
-      "dateISO": "Sun, 04 Oct 2026 10:06:46 GMT",
-      "ts": 1791108406000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "乌克兰首都基辅响起强烈爆炸声 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YTl96ZGpxQ1JLalNNdmhWOC1JOFVSRGFKQUI3SWpQdXJTTmJQSV9hMUNSZGc5VGJleDhEalR0NGJzYm1uMXBOTmlObVByMU1lbUtvTWRfS3lRbnhsZHc?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://news.bjd.com.cn"
-    },
-    {
-      "id": "FL-d11f37b624ae",
-      "date": "2026-10-04",
-      "dateISO": "Sun, 04 Oct 2026 09:27:15 GMT",
-      "ts": 1791106035000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "乌克兰首都基辅响起强烈爆炸声 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWElRdXlOamVYMTQ2WEszWGZ6dV9OYndfX3JwXzFpZjJuYjVhX0syTUtfMDV5Y0JUUzI1UU9ZS3phQkpKQ2NIaWRaOXd5dndndmxSOFJpUjMtNFpjWXVBS1N2VlphMVlMZGc0UU5mX25UdWsybjlXUzBRNW42VFB3RktmTUZwYVVF?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-2bda52f37045",
       "date": "2026-10-04",
       "dateISO": "Sun, 04 Oct 2026 09:23:00 GMT",
@@ -159,28 +147,16 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-3903f717310e",
+      "id": "FL-65a837ede06b",
       "date": "2026-10-04",
-      "dateISO": "Sun, 04 Oct 2026 08:57:38 GMT",
-      "ts": 1791104258000,
+      "dateISO": "Sun, 04 Oct 2026 08:42:58 GMT",
+      "ts": 1791103378000,
       "scope": "intl",
       "type": "blast",
-      "title": "乌首都基辅响起强烈爆炸声，一桥梁再次遭袭 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9pZktOdGhENzMxZ3pMM05vSkVXUGEyUTVGcExGM3NWS002QW96SVBHRzNRZlp3Mi0zVE50NWt1aThZaTZmRjk2MTNaNA?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://mil.ifeng.com"
-    },
-    {
-      "id": "FL-b210d3bc444f",
-      "date": "2026-10-04",
-      "dateISO": "Sun, 04 Oct 2026 07:19:00 GMT",
-      "ts": 1791098340000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "14次爆炸后，马斯克这次终于把星舰送进了轨道，但事情没那么简单 - 手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IY2tGZG93amp5MkRfVEdsX25NVUpWcURiakdiZWdYc3dmODhJQWM2S2s0dUxXb0I1ZE1WVTVEcGlGb0E2b1FVcU1QajRHb1NlR0xxVDlBVkQ0TlliVC10ZmxEanp4d1ZrQjhuSmctY1F4Zw?oc=5",
-      "site": "手机新浪网",
-      "siteUrl": "https://k.sina.com.cn"
+      "title": "乌首都基辅响起强烈爆炸声 一桥梁再次遭袭 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50ajJWMmw0dWRvT2JnSW01VnhEZDZ3WUVydFZlSjBabUVPMW16aHRaeTRiUDgwZzg4blo3bWVtOHJQaVNqYkxtb1hCdEtyQkJXOTFqeTJNWWtHbU1oZlZtdHFwZFVlRjM3clAyWFpralZNWkNIT3VyOQ?oc=5",
+      "site": "央视网",
+      "siteUrl": "https://news.cctv.com"
     },
     {
       "id": "FL-0615dd398028",
@@ -303,18 +279,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-eec760dd1177",
-      "date": "2026-10-05",
-      "dateISO": "Mon, 05 Oct 2026 14:00:23 GMT",
-      "ts": 1791208823000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Electric balloon pumps sold at Dollar Tree recalled after explosion report - FOX 8 News",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSkE1aTREUnBqTTQwbm1DYU9wNllBbHd5UkRELTdLU210WEd4aXpGR3p2Y1hJb05WWHp4VkI1YlRCYmpQaW14TEJRTGF1SFJxVlg0UjBTX05tVFZMWThteTRPS2RBNzF4UVZvV1pHYUQwNEYtM1hpS2ZaYlFHRE5DcGp6ZVBzbHJ6SUZUek9DMjhleTIyRnFiYjdsS1RXbnNPbmZ0TERKX3NRRDREQjV6ckFlcUVSRU10TVJ1OdIBwgFBVV95cUxPTEF5VTY4Q0UxRE14ejdkbXV4dDhJcWtLbVhiWVJXVXF0MzJOQTJIRWlCSnFmT2dRNmQ1Y2pxMkwxa0R5bGN0czNTSGNUUExqeU5WOUs4Z3pxWVBXaDN0ZnB3eXZVNDA2MkRpUmxScjY0aFk0c3k0S3BMd0pwQzkxUmlVZVhibG4zN2loUldORkNQcXRwVzhjMGc2QkhKTFgwS0FhM2YxbkdhcWlCSVktMWhMN04taUpGWGEtOGJuTld5UQ?oc=5",
-      "site": "FOX 8 News",
-      "siteUrl": "https://fox8.com"
-    },
-    {
       "id": "FL-53830f478f11",
       "date": "2026-10-05",
       "dateISO": "Mon, 05 Oct 2026 13:02:00 GMT",
@@ -361,6 +325,18 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZEdadWZzYzdxZTlrUGxzQjdMay1QS2RkUllvS2IycUtlWnRnS3JpeFZLNV8tRUlDTkZ1WmxnMUhPYVJXbW9ZMy1IcmJDSEdpQ0E5LVZOVkhnRjh4WmdSaTRlTU5CUlVsaGMwOGhHZldXbXVLR0RSS0VwUVhxQjVxUnZ0dHQzZmliYjJn?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://www.sohu.com"
+    },
+    {
+      "id": "FL-d11f37b624ae",
+      "date": "2026-10-05",
+      "dateISO": "Mon, 05 Oct 2026 10:38:52 GMT",
+      "ts": 1791196732000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "乌克兰首都基辅响起强烈爆炸声 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ2psb2JWeXNObmhoSGtqQzdoNGRycV9OeU9ua19zS2wtV28wZXJpRDJ1QVBTdE9wVWRlczRnalBobExuV3RWRFlqZXloejF4akdqaThWcUc1YW02WDlOYXhaVWpBTGdvZUsxOV83ZTNqaEpnNlFOVEFzeWkwMWRWYi1lN19YcjdVb21ZdA?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-f5bb7d141a05",
@@ -577,18 +553,6 @@
       "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNbjdpRzRtaWtCUzZVN0U3UW1EY2t5T2tNNmcyeFh2Ym5KeGZGb1ZCcVlUdVM1Smw3cjh2MEtNd095R0huVngzR1lDTHp1cFZHUVhkaVc2aENvczBqbWFCUWtYV29JNk1Nb1ROTEJqcUEyLVZCc1RXUUZveVdLSE1YdTh1SE00U28wMV9sR2NONE1WenFnbjBSRlNzb1hGNDFHaVRPQmRJT0VSMU1yT21EeUVlZVdNLXg4S1pSOG9oYzhQRVlJQmN4YlNFcXQxUzFaTWtwUjhTMnVCU1ZFTks2aFNvb3B1LUFHcFVTNDNHOHdXZFJtZkh4QlNFS1o2aWdPS1YzbEIwa1hGbTRORkdjbjJNSEdDMVRGM3Q4UlhIOHVHblFuaU1sUkNvSkNqSFFYeGxnRHFSVTNDS0dBUkFtdzRFTU5EeUpNaHJkUGw2RmJzUWJRMmQzY2NOYkQyNl8yMGVnYVpTV050NUprM21MTmJ3djY5N19HTTFBeHdKYnJCempTczdCUlQyT3dsZDQ?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr"
-    },
-    {
-      "id": "FL-60e3ae8a5cff",
-      "date": "2026-10-02",
-      "dateISO": "Fri, 02 Oct 2026 05:31:50 GMT",
-      "ts": 1790919110000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "胡塞武装袭击地区军事设施 也门亚丁传出爆炸声 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50UkVmXzR5UTNvVEVpY2JfNlpPWDd5LWtKNTF0cGNsUlgxNW1LQ3FlZXQ1UkhWRnFmTGNMNTItcVJIRzNpVjFuQWVvTkk2V3EyUngwR2hqMDlIN3JocWxZVDd4OUI?oc=5",
-      "site": "东方财富",
-      "siteUrl": "http://finance.eastmoney.com"
     }
   ]
 }
