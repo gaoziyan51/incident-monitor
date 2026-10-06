@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T16:04:06.950Z",
+  "updated": "2026-10-06T16:24:12.360Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -39,6 +39,30 @@
       "siteUrl": "https://science.caixin.com"
     },
     {
+      "id": "FL-01c223ed45c2",
+      "date": "2026-10-06",
+      "dateISO": "Tue, 06 Oct 2026 16:07:00 GMT",
+      "ts": 1791302820000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Possible explosion reported in southwest Louisville - The Courier-Journal",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQTBpQUduNnJITlFzZmRKWHdPMnBMSllaX0ZiYlpqbXVPV3hIdVdMYVhPSVE5emRnei1iR2tycHA0WE9kdFp5SUNRZG1FcXFKdGY4ZGsySWdUX29BVnRWWWdxY2NJZWxBZmdYVVpjbHJieTgzQ1FfcXdad2hQbk1TcGJWQWJOX3N3OHpyeHRDOTNYdFVJY0Z5eFRDQ1ZweThkbHFocXIxaXc0OXpmcTB0Z3M3dkc0RmdVNi1fbmtzZ201UV9ORWdXWHRqN3F0a1Ay?oc=5",
+      "site": "The Courier-Journal",
+      "siteUrl": "https://www.courier-journal.com"
+    },
+    {
+      "id": "FL-324621ab3c92",
+      "date": "2026-10-06",
+      "dateISO": "Tue, 06 Oct 2026 16:02:21 GMT",
+      "ts": 1791302541000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "What's behind an 'explosion of buying' Tuesday, including the rally in GE Vernova - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVjk0d1lNc0RrcXQ1SGlNYmpsZUJpVkRROUlaQjlpZi1CQzBuZTlPVHJBUjdaWmF2QkkyZk1NWG5CWW9YbVFUdng4cTVHLXFHbElCZUwzcFVzOS1WVG8zekRicEJPd2o0bDl5WnNYVVo3MmdKVGliYVlFbWdOdFRtSVBqSl8zN245NS1JR2ZOeFRsbmRpdXB2eGdFUDBvZWdJRnZtNjBXQ29IX1V3bXZOd3pkT3Q3RjRlbmpIZzJsNDVwSDhhT3hn?oc=5",
+      "site": "CNBC",
+      "siteUrl": "https://www.cnbc.com"
+    },
+    {
       "id": "FL-c6c44d4e6935",
       "date": "2026-10-06",
       "dateISO": "Tue, 06 Oct 2026 15:53:00 GMT",
@@ -51,27 +75,15 @@
       "siteUrl": "https://www.wlky.com"
     },
     {
-      "id": "FL-d5db4f4fd037",
+      "id": "FL-149c72644eb7",
       "date": "2026-10-06",
       "dateISO": "Tue, 06 Oct 2026 14:31:00 GMT",
       "ts": 1791297060000,
       "scope": "intl",
       "type": "blast",
-      "title": "Photos, video show downtown Tallahassee explosion, fire damage - tallahassee.com",
+      "title": "Photos, video show downtown Tallahassee explosion, fire damage - Tallahassee Democrat",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNDRGSGtpVkVTMGo5eE14YkI1a0laVER5UEg5NUJMMy1iMm1TRVoxclZ2WC00M25HMVpFZVhjcDlFNTlEdnhpT0lzdlFuemxRWFp4ZldRLUw2VjdHellpdFcxRm9yc3ZpVXdsZGE4LUN3SmZYYVNaalRZU09MdGZkNnB2Z0Jha2FxOVRMLWRsRmJRZ3FBbTlxVnJLbTN3NXJfUF9SLW5zSQ?oc=5",
-      "site": "tallahassee.com",
-      "siteUrl": "https://www.tallahassee.com"
-    },
-    {
-      "id": "FL-dc618b11862c",
-      "date": "2026-10-06",
-      "dateISO": "Tue, 06 Oct 2026 14:13:00 GMT",
-      "ts": 1791295980000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "See the scene after underground fire rocks downtown, blasts roads - tallahassee.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQzZyUFd4bThtVE8yTFpJMXhpQXM1aGhjSWhpT3R4Q3diV0lGUHJDdUczM1ZGdzRrcmstWXQxdWFNdFNQU1lmY2c1aXhEcmJrZjZZY1pEbEdlX050NWhYNUhyb1NmSlVFdHRpTHRBYklvVGlRQ3lxeDBudHJfRGN5SHh5VTZ0RjgxZ2FoMGFsbnZMUUEwVEtDN193WlhlYVlxR0ZzWTRCc0U?oc=5",
-      "site": "tallahassee.com",
+      "site": "Tallahassee Democrat",
       "siteUrl": "https://www.tallahassee.com"
     },
     {
@@ -99,15 +111,15 @@
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
-      "id": "FL-99e17ec192b0",
+      "id": "FL-f03147d8f8ac",
       "date": "2026-10-06",
       "dateISO": "Tue, 06 Oct 2026 11:41:06 GMT",
       "ts": 1791286866000,
       "scope": "intl",
       "type": "blast",
-      "title": "沙特首都利雅得再次传出爆炸声 - 搜狐网",
+      "title": "沙特首都利雅得再次传出爆炸声 - 手机搜狐网",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYzQ0QkxOeE9YOGhxSlhMUllsUFk3QjloVVd1cGVZTy0zLVBuOEFTOGExaWxuUGtBMXVVcHNXc0syeWd4bURmYW9rSW11a0dDNzNaUlZzUENaNlNIRF8wemVHRVNYeFFiZklsb2NEN2xSZHNpeDRGOXQ3Nk1oX2hGOGVyYkJKMUUz?oc=5",
-      "site": "搜狐网",
+      "site": "手机搜狐网",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -231,15 +243,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-8497727bdbdb",
+      "id": "FL-008d86b164a4",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 15:30:00 GMT",
       "ts": 1790436600000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典发生爆炸，1名女游客遇难，5人失踪，事发卫城脚下，靠近奥林匹亚宙斯神庙 - cbgc.scol.com.cn",
+      "title": "雅典发生爆炸，1名女游客遇难，5人失踪，事发卫城脚下，靠近奥林匹亚宙斯神庙 - 川观新闻",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wT2VkbnNVQzB1dlFrSUpwQU5VbElha1Fyc3h0LVI1WFBMSldqQkRfMWkyeV94b1pPS0w5eFQtT1NxQjdRSkRkbm5yUE5iZw?oc=5",
-      "site": "cbgc.scol.com.cn",
+      "site": "川观新闻",
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
@@ -279,15 +291,15 @@
       "siteUrl": "https://wap.eastmoney.com"
     },
     {
-      "id": "FL-c9cc98fcf112",
+      "id": "FL-6a0eaca36f01",
       "date": "2026-10-03",
       "dateISO": "Sat, 03 Oct 2026 09:39:34 GMT",
       "ts": 1791020374000,
       "scope": "intl",
       "type": "blast",
-      "title": "拒绝就地雷爆炸道歉 朝鲜再射弹道导弹 - dw.com",
+      "title": "拒绝就地雷爆炸道歉 朝鲜再射弹道导弹 - DW.com",
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQa1g3a0MyU1Jhd3dQbndNeVppWm5ocFV0QXpfbEwxUW5BcGFqU2dQRzFKaDJaZjZhZ29qd25sWDJNLVdLdVBqTTRYVmkyVUY5bVdOQ3U3RmZNMEc0clFIbjM2YUhYYTBNWHVmR0pPcmRlemc3bDVtQXk5d2Z4UTJhdWZ0TDdWc1FwaWhhQTNyMmhnc0ZGbE1nYnAzdDJyOGI0RGw3NzhGRjViSDdWc3pIU0dDLVZwYlVtWGVLSTN3QnNQODREU09yRUZ2dVI2WW1xMFYweVU3ZHJHVzRFOWJJN0RxNGdMbTI4U2N4QW1UenktcDRRVEJNaVFZSTAydmc1R3F6QnB2MXhacVd4c01VbGpYQTZuZ9IBlgJBVV95cUxQdjU0NXJ5bVR5U055cWlqMXFiYUVmWVVuOU9jeHdsNHdSZzB1STdsS0xZRTBTVHBfV2JVdVJKZzZRdV9zbTE0b2psTy11Vnhic1Y0R2RsUUJCS3l5OUhhbUQyTzJfRC1WVUlROU94VkRodVZlQkwxRVVER3JMcDZSanVkU3hfTUNRV1FGRlJWNGFMOVZRTnhaVlVxb3A5RGFFUl9zYjg0LXVKdE5GQlRVYUhaSjctUFMtVklXYjlkR3d6Tl9jSWJLZWpXbmpFZUt3TmFwbkVGQUNNNlU1Skp5dXY3OFVGRDkyMC02QUluaGpBWkhrTEt5SGVtVzNLWVJsSzVHUlVsTGswV3dhRlJkbXlsOGZMdw?oc=5",
-      "site": "dw.com",
+      "site": "DW.com",
       "siteUrl": "https://www.dw.com"
     },
     {
@@ -315,15 +327,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-f6600832f6d2",
+      "id": "FL-d4e5d863dc58",
       "date": "2026-10-05",
       "dateISO": "Mon, 05 Oct 2026 23:41:37 GMT",
       "ts": 1791243697000,
       "scope": "intl",
       "type": "blast",
-      "title": "沙特首都利雅得接连传出爆炸声 - finance.sina.com.cn",
+      "title": "沙特首都利雅得接连传出爆炸声 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1maW1fck1mTTVrZ2FvWlJpbzhwOWNjUlpXSUNaWXozTE9DM3Y2V2VRMkFpcTdvSDJVZnFLMFo4VWZPRXEyb0RqcG42VFhnQ3UxTkhLVC1vb256RllQd0NSWGE2Smd1QlBGS2x0NTg0dTlSTDF6WEhKTw?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -339,15 +351,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-bc4e178cdc07",
+      "id": "FL-fbd1911bd481",
       "date": "2026-10-05",
       "dateISO": "Mon, 05 Oct 2026 22:26:47 GMT",
       "ts": 1791239207000,
       "scope": "intl",
       "type": "blast",
-      "title": "沙特首都利雅得接连传出爆炸声_7x24快讯_新浪财经 - finance.sina.com.cn",
+      "title": "沙特首都利雅得接连传出爆炸声_7x24快讯_新浪财经 - 手机新浪网",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4wV1NqVl9yZEJRLWxONENoYjlvaTFWR3VrOG05M1J2WjRBbVM0NUVqeVVlWHJXamdFSlRKNno3MzBVMmRlVk9QUXJraw?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "手机新浪网",
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
@@ -375,15 +387,15 @@
       "siteUrl": "https://www.wenxuecity.com"
     },
     {
-      "id": "FL-1f8a84b0ce61",
+      "id": "FL-bd6f5adf7d93",
       "date": "2026-10-05",
       "dateISO": "Mon, 05 Oct 2026 19:51:07 GMT",
       "ts": 1791229867000,
       "scope": "intl",
       "type": "blast",
-      "title": "土耳其一客机发现爆炸物威胁纸条143人安全撤离_7x24快讯_新浪财经 - finance.sina.com.cn",
+      "title": "土耳其一客机发现爆炸物威胁纸条143人安全撤离_7x24快讯_新浪财经 - 手机新浪网",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ad1FPenhjRkZPVDB1Wi0yTTh1N3VXUzFCY2RycUR3RWY1UmRwX2Z0czJOQlN6WFh4bWRSV3QwM0R0N3JjNlFOYXF2dw?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "手机新浪网",
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
@@ -435,15 +447,15 @@
       "siteUrl": "https://news.2500sz.com"
     },
     {
-      "id": "FL-76443506b24f",
+      "id": "FL-2c0706671459",
       "date": "2026-10-05",
       "dateISO": "Mon, 05 Oct 2026 00:39:55 GMT",
       "ts": 1791160795000,
       "scope": "dom",
       "type": "blast",
-      "title": "重磅盛会今日在上海开启！人气爆款“爆炸头”回归，还有全明星犬选美赛哦~ - finance.sina.com.cn",
+      "title": "重磅盛会今日在上海开启！人气爆款“爆炸头”回归，还有全明星犬选美赛哦~ - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01WEF5ZkFxVWdUN21OLWdHTDlSN2c0dFhndVFycXNRTzk5bTFGUC0xWWhXaDFXVm1WMW5icWxrYmdnMjNmYnBMRXRkS0tnMWcxQUtMMjFvdUVkbWxKRGJPWmJrNWVNVjRuRXNMU2xCYllrQ0VfNTBVdg?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -495,15 +507,15 @@
       "siteUrl": "https://www.voachinese.com"
     },
     {
-      "id": "FL-f4a62561bcba",
+      "id": "FL-bbb24b250463",
       "date": "2026-10-02",
       "dateISO": "Fri, 02 Oct 2026 16:03:00 GMT",
       "ts": 1790956980000,
       "scope": "dom",
       "type": "blast",
-      "title": "AI引发论文大爆炸，审稿体系濒临崩塌：arXiv也开始最严限流了 - 36 Kr",
+      "title": "AI引发论文大爆炸，审稿体系濒临崩塌：arXiv也开始最严限流了 - 36Kr",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1NZVUtWlM4ekZ1bnM4a2hPR3ZadnRZOS04T3JnRUswXzU1dW9iMzVycWt2WVdVaVZSZzU3SVBPcUFWbHdoQVZkaUxmcDZKZw?oc=5",
-      "site": "36 Kr",
+      "site": "36Kr",
       "siteUrl": "https://m.36kr.com"
     },
     {
