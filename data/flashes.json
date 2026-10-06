@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T21:55:38.911Z",
+  "updated": "2026-10-06T22:02:12.562Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -399,6 +399,18 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
+      "id": "FL-7c7995a53083",
+      "date": "2026-10-05",
+      "dateISO": "Mon, 05 Oct 2026 23:38:17 GMT",
+      "ts": 1791243497000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "土耳其一客机发现爆炸物威胁纸条 - 手机搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSDFEenhwZ09sZFo1QmRMX2R2eG5UUFFVS1lONF9GQ2xzbWxKRExfbjMyUEhicnlIR1hlcWU0RUdvWjAtNUFsM1pWR2d4UVZHOHM4T284bmE1NDBWQmlzUjhuX1ZXNThZUDVzNEpMM1o4aGFxeEMyb3haOGlnTlhKal9DZWxpUVZk?oc=5",
+      "site": "手机搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-2f053de04fd5",
       "date": "2026-10-05",
       "dateISO": "Mon, 05 Oct 2026 23:12:25 GMT",
@@ -433,18 +445,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZNW1uYXZYM2hGaEdJaTZUNDRhanlNa1FBU01wMXVrcDNBWjVUSFdqTU92bnFNU0dHVFZRejJtUUlIdll1QU04ZjFBX3RSZUs4QVpzME83OXIzOGo2WFU0QTJydXliNEYy?oc=5",
       "site": "文学城",
       "siteUrl": "https://www.wenxuecity.com"
-    },
-    {
-      "id": "FL-ce0584e0b98f",
-      "date": "2026-10-05",
-      "dateISO": "Mon, 05 Oct 2026 19:33:00 GMT",
-      "ts": 1791228780000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "土耳其一客机发现爆炸物威胁纸条 143人安全撤离 - QQ News",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92MFlJZjhjSWZJMHBQUHg1NmRINTJVQTIxWkNXLTBuV3B6UHNiTUN3UTlKZGFabk84QmhpSVVJZFotamNoRG1ER3lpMHEtYlFsZzUtUXREY2tmMUE5V0MwY1h0TDdlYkZCd2JXYTlB?oc=5",
-      "site": "QQ News",
-      "siteUrl": "https://news.qq.com"
     },
     {
       "id": "FL-9bdff15034d5",
