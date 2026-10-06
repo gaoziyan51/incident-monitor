@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T20:24:03.020Z",
+  "updated": "2026-10-06T20:39:28.071Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -25,18 +25,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fOUNOVy1jMjYtRHRacDFONmZLdmtlUTBvcjVNX0xwMG9rc2lwYkV4ZzRCOFVIVmdNLXdZcUo3Mkw1UnI3elZsRjNGblI4YTBsMGxPeHJCRnZSNWE0dXNTdXRxcUQ?oc=5",
       "site": "财新",
       "siteUrl": "https://science.caixin.com"
-    },
-    {
-      "id": "FL-a8b8e5c46fb2",
-      "date": "2026-10-06",
-      "dateISO": "Tue, 06 Oct 2026 19:10:11 GMT",
-      "ts": 1791313811000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Final report on polymer plant explosion focuses on process control systems - Safety+Health Magazine",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMkc3YzViTFVUajgtbVFrZFB5ekMzSUhud3ZjNF96Q2tOX1pZWVptcHdka3dYTllTNlhiS1hyeFNWdXIwajNOMmk2SEhIYldCa2xXb0xzY0k3cUVjYWZIN1MwcFN0bVF4OUl2NERCR3VJVW9hLUs2azEyODY0bHBuSGgyX0pwTFRWMUlHVXl2eVpGcGxuT0QyRGFlTWFpVjU2TExoRUpWSXVFdktJV0puUElwVlR0dw?oc=5",
-      "site": "Safety+Health Magazine",
-      "siteUrl": "https://www.safetyandhealthmagazine.com"
     },
     {
       "id": "FL-92cac8cbd28a",
@@ -133,6 +121,18 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVjk0d1lNc0RrcXQ1SGlNYmpsZUJpVkRROUlaQjlpZi1CQzBuZTlPVHJBUjdaWmF2QkkyZk1NWG5CWW9YbVFUdng4cTVHLXFHbElCZUwzcFVzOS1WVG8zekRicEJPd2o0bDl5WnNYVVo3MmdKVGliYVlFbWdOdFRtSVBqSl8zN245NS1JR2ZOeFRsbmRpdXB2eGdFUDBvZWdJRnZtNjBXQ29IX1V3bXZOd3pkT3Q3RjRlbmpIZzJsNDVwSDhhT3hn?oc=5",
       "site": "CNBC",
       "siteUrl": "https://www.cnbc.com"
+    },
+    {
+      "id": "FL-149c72644eb7",
+      "date": "2026-10-06",
+      "dateISO": "Tue, 06 Oct 2026 14:58:00 GMT",
+      "ts": 1791298680000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Photos, video show downtown Tallahassee explosion, fire damage - Tallahassee Democrat",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNDRGSGtpVkVTMGo5eE14YkI1a0laVER5UEg5NUJMMy1iMm1TRVoxclZ2WC00M25HMVpFZVhjcDlFNTlEdnhpT0lzdlFuemxRWFp4ZldRLUw2VjdHellpdFcxRm9yc3ZpVXdsZGE4LUN3SmZYYVNaalRZU09MdGZkNnB2Z0Jha2FxOVRMLWRsRmJRZ3FBbTlxVnJLbTN3NXJfUF9SLW5zSQ?oc=5",
+      "site": "Tallahassee Democrat",
+      "siteUrl": "https://www.tallahassee.com"
     },
     {
       "id": "FL-69890156a5b2",
@@ -469,6 +469,18 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4ZDNJRUZCTEhUSjBSQmZUbHIyX0ZieXJBS0VGd3lxaVd0MngyN0gxdFNnNW9EXzdyNUhWLWxNODQtNVVmX01PcUw4YnFObkdBOUJMUDJmOWJEU3FxaFllMExR?oc=5",
       "site": "苏州新闻",
       "siteUrl": "https://news.2500sz.com"
+    },
+    {
+      "id": "FL-2c0706671459",
+      "date": "2026-10-05",
+      "dateISO": "Mon, 05 Oct 2026 00:39:55 GMT",
+      "ts": 1791160795000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "重磅盛会今日在上海开启！人气爆款“爆炸头”回归，还有全明星犬选美赛哦~ - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01WEF5ZkFxVWdUN21OLWdHTDlSN2c0dFhndVFycXNRTzk5bTFGUC0xWWhXaDFXVm1WMW5icWxrYmdnMjNmYnBMRXRkS0tnMWcxQUtMMjFvdUVkbWxKRGJPWmJrNWVNVjRuRXNMU2xCYllrQ0VfNTBVdg?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-b042a088a326",
