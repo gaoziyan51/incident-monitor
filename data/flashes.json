@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T13:32:36.291Z",
+  "updated": "2026-10-06T13:50:48.118Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -39,6 +39,18 @@
       "siteUrl": "https://science.caixin.com"
     },
     {
+      "id": "FL-69890156a5b2",
+      "date": "2026-10-06",
+      "dateISO": "Tue, 06 Oct 2026 13:33:30 GMT",
+      "ts": 1791293610000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "朝鲜外务省：地雷爆炸事件是韩方重大挑衅 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBaWU91cURCRmNrSFh2UGo0LU04TlIzamZHcEY4bUpFdjhpVWlEUWI3VlB0QzNwWllDU0RTTm1sdzVxRkNQZ19tWWFrSkI?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://news.ifeng.com"
+    },
+    {
       "id": "FL-b93fbed57843",
       "date": "2026-10-06",
       "dateISO": "Tue, 06 Oct 2026 13:16:00 GMT",
@@ -75,15 +87,15 @@
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
-      "id": "FL-99e17ec192b0",
+      "id": "FL-bdbd608b4f72",
       "date": "2026-10-06",
       "dateISO": "Tue, 06 Oct 2026 11:41:06 GMT",
       "ts": 1791286866000,
       "scope": "intl",
       "type": "blast",
-      "title": "沙特首都利雅得再次传出爆炸声 - 搜狐网",
+      "title": "沙特首都利雅得再次传出爆炸声 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYzQ0QkxOeE9YOGhxSlhMUllsUFk3QjloVVd1cGVZTy0zLVBuOEFTOGExaWxuUGtBMXVVcHNXc0syeWd4bURmYW9rSW11a0dDNzNaUlZzUENaNlNIRF8wemVHRVNYeFFiZklsb2NEN2xSZHNpeDRGOXQ3Nk1oX2hGOGVyYkJKMUUz?oc=5",
-      "site": "搜狐网",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -157,6 +169,30 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rUmRmdW41SUFuSk1LNXkxLTR2eTltbzdiNnFzbFhDTXg5QlYwYW51YkdfemM2dnFhMHdUQTlpR2F3U2xIeUdxdlFobl96RFZoN0lkamxmSTRKcXRHMTkxMNIBZkFVX3lxTE5wOHBXTlpEU3RSal9tbkhFckQzbFRWTEpSN0Q0eURNQjkybGxGUnhLbjVPckpoYUJUN2dEQUZoeHcwZzdBQ0FpT2dLdmlMZXF0ekE2c0NsR000V1VfNDVZT0Vubl9DUQ?oc=5",
       "site": "新唐人電視台",
       "siteUrl": "https://www.ntdtv.com"
+    },
+    {
+      "id": "FL-64f67f4c608d",
+      "date": "2026-10-06",
+      "dateISO": "Tue, 06 Oct 2026 02:03:03 GMT",
+      "ts": 1791252183000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "韩国要求朝方就非军事区地雷爆炸事件道歉并立即清除相关地雷 - sohu.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZTg4YXZNY01OcW1VT2RVS2ItMjdNMnlwQWw3RVF1ZnVMU0tfTGdWelk2eWwyM2hUZi1BbG8zZ2VLSS1VN0lQLUJxQ0RhRVdoT1JGRTEtUkZIcUkzVWNSa0M0bWVLUk5YeFN0WXFMWnlPclFZc2llZ1VqZDY2Z1NlMktQT25kR0FIN0paNg?oc=5",
+      "site": "sohu.com",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-6612abd30963",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 07:00:00 GMT",
+      "ts": 1789628400000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "宇宙大爆炸最初五分钟氦丰度获最精确测量 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MzVkcXZnR2UwelNkenFIYVFYVzBPcUxUQ1VSaUVHcV9LYVJnZzhjQWZzM09DNk8wc0xVNlo2amRqNjBueWtVeTdSbkJZT053RjRSZDhmeXJyT19wekF3UHB6WERtZkxLaFFwT2pVWTE?oc=5",
+      "site": "中国科技网",
+      "siteUrl": "https://www.stdaily.com"
     },
     {
       "id": "FL-340d5e981918",
@@ -291,27 +327,27 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-bf2f2765f4d5",
+      "id": "FL-d4e5d863dc58",
       "date": "2026-10-05",
       "dateISO": "Mon, 05 Oct 2026 23:41:37 GMT",
       "ts": 1791243697000,
       "scope": "intl",
       "type": "blast",
-      "title": "沙特首都利雅得接连传出爆炸声 - finance.sina.cn",
+      "title": "沙特首都利雅得接连传出爆炸声 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1maW1fck1mTTVrZ2FvWlJpbzhwOWNjUlpXSUNaWXozTE9DM3Y2V2VRMkFpcTdvSDJVZnFLMFo4VWZPRXEyb0RqcG42VFhnQ3UxTkhLVC1vb256RllQd0NSWGE2Smd1QlBGS2x0NTg0dTlSTDF6WEhKTw?oc=5",
-      "site": "finance.sina.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-28e86769c30b",
+      "id": "FL-c44f487e3378",
       "date": "2026-10-05",
       "dateISO": "Mon, 05 Oct 2026 23:12:25 GMT",
       "ts": 1791241945000,
       "scope": "intl",
       "type": "blast",
-      "title": "沙特首都接连传出爆炸声 - 搜狐网",
+      "title": "沙特首都接连传出爆炸声 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa096X2g2d2RmUEFoU2NQQlA3RTRZZGEtTlFVRWlxTWdSV29GMjIycVY4ZjMyb01vaFdHX25Ic2J4ZmVHNWZqRWl4WlRza0l5TkpLNzBVd0lCYnFnQkQ5bC1JT2VFWVAwZERQMS1pSDNIMzJoNVZNUlhOa2NoNmZMaFlILUpCOVpo?oc=5",
-      "site": "搜狐网",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -375,27 +411,15 @@
       "siteUrl": "https://news.qq.com"
     },
     {
-      "id": "FL-0f3d62a84c1b",
-      "date": "2026-10-05",
-      "dateISO": "Mon, 05 Oct 2026 17:35:15 GMT",
-      "ts": 1791221715000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "Boombl4：过去三周没打过任何比赛，Magnojez心态爆炸很正常 - 5EPlay",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92TVQ3N2dvcmh5TTF3cy1oRnBZQ3VXZmVUV0FjYjBKYXh3YklSVThEUG11cjZsbEVYN2NJWDFNd2NyamVpc2lZTzRIbDJ5cFIyZ0puazZrZFBfWFA1bDZ6Z1pPYkVhdw?oc=5",
-      "site": "5EPlay",
-      "siteUrl": "https://csgo.5eplay.com"
-    },
-    {
-      "id": "FL-92356d2bde7f",
+      "id": "FL-9c2d0ce805bd",
       "date": "2026-10-05",
       "dateISO": "Mon, 05 Oct 2026 11:50:31 GMT",
       "ts": 1791201031000,
       "scope": "intl",
       "type": "blast",
-      "title": "韩国公布非军事区地雷爆炸事件最终调查结果 - 搜狐网",
+      "title": "韩国公布非军事区地雷爆炸事件最终调查结果 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZEdadWZzYzdxZTlrUGxzQjdMay1QS2RkUllvS2IycUtlWnRnS3JpeFZLNV8tRUlDTkZ1WmxnMUhPYVJXbW9ZMy1IcmJDSEdpQ0E5LVZOVkhnRjh4WmdSaTRlTU5CUlVsaGMwOGhHZldXbXVLR0RSS0VwUVhxQjVxUnZ0dHQzZmliYjJn?oc=5",
-      "site": "搜狐网",
+      "site": "sohu.com",
       "siteUrl": "https://www.sohu.com"
     },
     {
@@ -411,18 +435,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-1fffb872df7c",
-      "date": "2026-10-05",
-      "dateISO": "Mon, 05 Oct 2026 10:33:16 GMT",
-      "ts": 1791196396000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "韩国认定“地雷爆炸事件”由朝鲜引发，要求朝方道歉 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9wa3BXSTJ0aVQzWnVCS1IwcjY2WGwya2lnZGFnUjdjallLT1A3T2hlcXlnQTBoVFBhY21wSGx5TzdFcWhCNFNOSjRBMnI?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://news.ifeng.com"
-    },
-    {
       "id": "FL-e3eaa7d3da44",
       "date": "2026-10-05",
       "dateISO": "Mon, 05 Oct 2026 02:06:20 GMT",
@@ -435,15 +447,15 @@
       "siteUrl": "https://news.2500sz.com"
     },
     {
-      "id": "FL-91c3c77dc827",
+      "id": "FL-2c0706671459",
       "date": "2026-10-05",
       "dateISO": "Mon, 05 Oct 2026 00:39:55 GMT",
       "ts": 1791160795000,
       "scope": "dom",
       "type": "blast",
-      "title": "重磅盛会今日在上海开启！人气爆款“爆炸头”回归，还有全明星犬选美赛哦~ - finance.sina.cn",
+      "title": "重磅盛会今日在上海开启！人气爆款“爆炸头”回归，还有全明星犬选美赛哦~ - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01WEF5ZkFxVWdUN21OLWdHTDlSN2c0dFhndVFycXNRTzk5bTFGUC0xWWhXaDFXVm1WMW5icWxrYmdnMjNmYnBMRXRkS0tnMWcxQUtMMjFvdUVkbWxKRGJPWmJrNWVNVjRuRXNMU2xCYllrQ0VfNTBVdg?oc=5",
-      "site": "finance.sina.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
