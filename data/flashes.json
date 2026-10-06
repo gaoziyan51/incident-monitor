@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T15:52:11.751Z",
+  "updated": "2026-10-06T16:04:06.950Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -39,27 +39,39 @@
       "siteUrl": "https://science.caixin.com"
     },
     {
-      "id": "FL-149c72644eb7",
+      "id": "FL-c6c44d4e6935",
+      "date": "2026-10-06",
+      "dateISO": "Tue, 06 Oct 2026 15:53:00 GMT",
+      "ts": 1791301980000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Explosion reported at southwest Louisville chemical plant; 2 injured - WLKY",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNEU5Y3pnMlpRSE1Kc2ZUWWo2UnRkWEh3bG10V3FESGlkN3lRcmxsbG5JZjJhaGNrRzZ0NkxFRVNGeHF6V0VkVWtJa05uYm83TFZmcnVYMGJCRTdJNEJxZUliMWVPT2cxTEtBcTlJX3lTSkVGQUx0WV9IMnlnY2NzTGphUzZyMGszQ0d2V25fX3Nac25kbmc?oc=5",
+      "site": "WLKY",
+      "siteUrl": "https://www.wlky.com"
+    },
+    {
+      "id": "FL-d5db4f4fd037",
       "date": "2026-10-06",
       "dateISO": "Tue, 06 Oct 2026 14:31:00 GMT",
       "ts": 1791297060000,
       "scope": "intl",
       "type": "blast",
-      "title": "Photos, video show downtown Tallahassee explosion, fire damage - Tallahassee Democrat",
+      "title": "Photos, video show downtown Tallahassee explosion, fire damage - tallahassee.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNDRGSGtpVkVTMGo5eE14YkI1a0laVER5UEg5NUJMMy1iMm1TRVoxclZ2WC00M25HMVpFZVhjcDlFNTlEdnhpT0lzdlFuemxRWFp4ZldRLUw2VjdHellpdFcxRm9yc3ZpVXdsZGE4LUN3SmZYYVNaalRZU09MdGZkNnB2Z0Jha2FxOVRMLWRsRmJRZ3FBbTlxVnJLbTN3NXJfUF9SLW5zSQ?oc=5",
-      "site": "Tallahassee Democrat",
+      "site": "tallahassee.com",
       "siteUrl": "https://www.tallahassee.com"
     },
     {
-      "id": "FL-9b732f20c01d",
+      "id": "FL-dc618b11862c",
       "date": "2026-10-06",
       "dateISO": "Tue, 06 Oct 2026 14:13:00 GMT",
       "ts": 1791295980000,
       "scope": "intl",
       "type": "blast",
-      "title": "See the scene after underground fire rocks downtown, blasts roads - Tallahassee Democrat",
+      "title": "See the scene after underground fire rocks downtown, blasts roads - tallahassee.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQzZyUFd4bThtVE8yTFpJMXhpQXM1aGhjSWhpT3R4Q3diV0lGUHJDdUczM1ZGdzRrcmstWXQxdWFNdFNQU1lmY2c1aXhEcmJrZjZZY1pEbEdlX050NWhYNUhyb1NmSlVFdHRpTHRBYklvVGlRQ3lxeDBudHJfRGN5SHh5VTZ0RjgxZ2FoMGFsbnZMUUEwVEtDN193WlhlYVlxR0ZzWTRCc0U?oc=5",
-      "site": "Tallahassee Democrat",
+      "site": "tallahassee.com",
       "siteUrl": "https://www.tallahassee.com"
     },
     {
@@ -73,18 +85,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBaWU91cURCRmNrSFh2UGo0LU04TlIzamZHcEY4bUpFdjhpVWlEUWI3VlB0QzNwWllDU0RTTm1sdzVxRkNQZ19tWWFrSkI?oc=5",
       "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com"
-    },
-    {
-      "id": "FL-746f65fb68ab",
-      "date": "2026-10-06",
-      "dateISO": "Tue, 06 Oct 2026 12:40:30 GMT",
-      "ts": 1791290430000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Workers repair street damage from Tallahassee explosion - Tallahassee Democrat",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOalI4QXFYNjA5TWNaX0lFZUtVd3g2MUNlQWZYSXA1dmh5TUJoSHlxX1RyNEpxSXBoVnNUdGkxSkctN1NaX1JpT3VMRWd3WlNRbjlvaXRsWElSMkhxSHlxUzJvYTZ1T2hraUQzVG5UTWotSVVSNEpMRjREUEFpbHVSTTRkSEx6TV9rdW92VlVOOXJUNVV0RDZ4LTdNbTlTMmtOcTNFN0VIUjF1a0FoeWFHd09Ib2ZiTjRJR3NXYXBnNXEtWWtw?oc=5",
-      "site": "Tallahassee Democrat",
-      "siteUrl": "https://www.tallahassee.com"
     },
     {
       "id": "FL-d2085fd4bd0c",
@@ -231,27 +231,27 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-008d86b164a4",
+      "id": "FL-8497727bdbdb",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 15:30:00 GMT",
       "ts": 1790436600000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典发生爆炸，1名女游客遇难，5人失踪，事发卫城脚下，靠近奥林匹亚宙斯神庙 - 川观新闻",
+      "title": "雅典发生爆炸，1名女游客遇难，5人失踪，事发卫城脚下，靠近奥林匹亚宙斯神庙 - cbgc.scol.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wT2VkbnNVQzB1dlFrSUpwQU5VbElha1Fyc3h0LVI1WFBMSldqQkRfMWkyeV94b1pPS0w5eFQtT1NxQjdRSkRkbm5yUE5iZw?oc=5",
-      "site": "川观新闻",
+      "site": "cbgc.scol.com.cn",
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
-      "id": "FL-9627574f08b2",
+      "id": "FL-08d5beb77eeb",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
       "ts": 1790406000000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - app.xinhuanet.com",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 新华网客户端",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaEUzM21qMG8zSnRRcy1iYjkwOUxBeWEyRnVHaVNZcmhIZ0FwS0lUYWhndmd0WHp1ZHpxVTZSYUlMLUVGVWxseUcwOEprSHA4MExzeFFxVFV3OVlacVc3dTVvMi1VUUVsVXlTb3I1bWlUS3dDUlBzcEs4allydkhIdFU3ckVMZjJPVXQ0ZWJQWkFWNEpITlhnTlR3?oc=5",
-      "site": "app.xinhuanet.com",
+      "site": "新华网客户端",
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
@@ -387,15 +387,15 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
-      "id": "FL-a8d6c549ad0f",
+      "id": "FL-ce0584e0b98f",
       "date": "2026-10-05",
       "dateISO": "Mon, 05 Oct 2026 19:33:00 GMT",
       "ts": 1791228780000,
       "scope": "intl",
       "type": "blast",
-      "title": "土耳其一客机发现爆炸物威胁纸条 143人安全撤离 - qq.com",
+      "title": "土耳其一客机发现爆炸物威胁纸条 143人安全撤离 - QQ News",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92MFlJZjhjSWZJMHBQUHg1NmRINTJVQTIxWkNXLTBuV3B6UHNiTUN3UTlKZGFabk84QmhpSVVJZFotamNoRG1ER3lpMHEtYlFsZzUtUXREY2tmMUE5V0MwY1h0TDdlYkZCd2JXYTlB?oc=5",
-      "site": "qq.com",
+      "site": "QQ News",
       "siteUrl": "https://news.qq.com"
     },
     {
@@ -495,15 +495,15 @@
       "siteUrl": "https://www.voachinese.com"
     },
     {
-      "id": "FL-bbb24b250463",
+      "id": "FL-f4a62561bcba",
       "date": "2026-10-02",
       "dateISO": "Fri, 02 Oct 2026 16:03:00 GMT",
       "ts": 1790956980000,
       "scope": "dom",
       "type": "blast",
-      "title": "AI引发论文大爆炸，审稿体系濒临崩塌：arXiv也开始最严限流了 - 36Kr",
+      "title": "AI引发论文大爆炸，审稿体系濒临崩塌：arXiv也开始最严限流了 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1NZVUtWlM4ekZ1bnM4a2hPR3ZadnRZOS04T3JnRUswXzU1dW9iMzVycWt2WVdVaVZSZzU3SVBPcUFWbHdoQVZkaUxmcDZKZw?oc=5",
-      "site": "36Kr",
+      "site": "36 Kr",
       "siteUrl": "https://m.36kr.com"
     },
     {
