@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T08:04:19.626Z",
+  "updated": "2026-10-06T08:23:12.412Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -49,6 +49,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fOUNOVy1jMjYtRHRacDFONmZLdmtlUTBvcjVNX0xwMG9rc2lwYkV4ZzRCOFVIVmdNLXdZcUo3Mkw1UnI3elZsRjNGblI4YTBsMGxPeHJCRnZSNWE0dXNTdXRxcUQ?oc=5",
       "site": "财新",
       "siteUrl": "https://science.caixin.com"
+    },
+    {
+      "id": "FL-2a4443392278",
+      "date": "2026-10-06",
+      "dateISO": "Tue, 06 Oct 2026 08:09:42 GMT",
+      "ts": 1791274182000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "非军事区地雷爆炸事件 韩国拟采取措施迫使朝鲜道歉 - 诗华日报",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1DS2ZkOS1oNUhxbVZ0SUU4OUl6Nk1wVTBSU3RHVExFQklSOXFINHJzaDg4VllMT0xGSUpTQVRVR2xwTmYzUTVBdEFGeUZjdw?oc=5",
+      "site": "诗华日报",
+      "siteUrl": "https://news.seehua.com"
     },
     {
       "id": "FL-71659d649032",
@@ -135,27 +147,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-0b2cb9eb1e48",
-      "date": "2026-10-06",
-      "dateISO": "Tue, 06 Oct 2026 00:54:02 GMT",
-      "ts": 1791248042000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "默茨紧急会见泽连斯基，突发爆炸现场惊心动魄 - 手机网易网",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YQ2FRSW9iWkdTQzc0OU44RkJjd2pQa3lqOEZ3elpVZHZRVGZIUURlTGVpdFQtaC1YbmJlV0lmTnhCTXljSHNrb3B4VUFsaWhheExEWQ?oc=5",
-      "site": "手机网易网",
-      "siteUrl": "https://www.163.com"
-    },
-    {
-      "id": "FL-6612abd30963",
+      "id": "FL-71366697633a",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 07:00:00 GMT",
       "ts": 1789628400000,
       "scope": "dom",
       "type": "blast",
-      "title": "宇宙大爆炸最初五分钟氦丰度获最精确测量 - 中国科技网",
+      "title": "宇宙大爆炸最初五分钟氦丰度获最精确测量 - stdaily.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MzVkcXZnR2UwelNkenFIYVFYVzBPcUxUQ1VSaUVHcV9LYVJnZzhjQWZzM09DNk8wc0xVNlo2amRqNjBueWtVeTdSbkJZT053RjRSZDhmeXJyT19wekF3UHB6WERtZkxLaFFwT2pVWTE?oc=5",
-      "site": "中国科技网",
+      "site": "stdaily.com",
       "siteUrl": "https://www.stdaily.com"
     },
     {
@@ -171,15 +171,15 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-340d5e981918",
+      "id": "FL-f8061d91b549",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
       "ts": 1787468400000,
       "scope": "dom",
       "type": "blast",
-      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
+      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -195,15 +195,15 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-0615dd398028",
+      "id": "FL-f38e3c0cb20f",
       "date": "2026-08-02",
       "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
       "ts": 1785654000000,
       "scope": "intl",
       "type": "blast",
-      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - 新华网",
+      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -219,15 +219,15 @@
       "siteUrl": "https://wap.eastmoney.com"
     },
     {
-      "id": "FL-008d86b164a4",
+      "id": "FL-8497727bdbdb",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 15:30:00 GMT",
       "ts": 1790436600000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典发生爆炸，1名女游客遇难，5人失踪，事发卫城脚下，靠近奥林匹亚宙斯神庙 - 川观新闻",
+      "title": "雅典发生爆炸，1名女游客遇难，5人失踪，事发卫城脚下，靠近奥林匹亚宙斯神庙 - cbgc.scol.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wT2VkbnNVQzB1dlFrSUpwQU5VbElha1Fyc3h0LVI1WFBMSldqQkRfMWkyeV94b1pPS0w5eFQtT1NxQjdRSkRkbm5yUE5iZw?oc=5",
-      "site": "川观新闻",
+      "site": "cbgc.scol.com.cn",
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
@@ -243,16 +243,28 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
-      "id": "FL-5e735aebc1c3",
+      "id": "FL-23997ed3202f",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
       "ts": 1790406000000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 新华网",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlemFCa3lteDlkZERLTXRLMHhpeTIzNmFqanFBczVPaFNjQjVxOHNJNm54Tkhua1FqOGtuaUhBLWdRSWxXaFRoZThQZXJqclRIV1pUaTNhcjhHU0dwRzA1WXNQc2ZOVEhXX0Z1NUVBcnBUalJRWkE3ZlE0S3NOaXM?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-c2b5e87a66f1",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 07:00:00 GMT",
+      "ts": 1789801200000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "巴基斯坦西北部爆炸已致21死 巴总统称将继续反恐行动 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JdTVsYVVFWHBSX3JkaE5ocVh2cmtPd0NWVkpmT1EyOENqOGJZcHhnQllGeU9RYThKRTJmYnRVaXpEQ25RcGNGNi1LcmZJUUFnY2Q1cVVpS2dkSW8wQzJfSFI4U3FYMzdXNmJSWm1SdEpsckl2Y190Sg?oc=5",
+      "site": "央视网",
+      "siteUrl": "https://news.cctv.com"
     },
     {
       "id": "FL-6a903d166eeb",
@@ -341,14 +353,14 @@
     {
       "id": "FL-11b1a4224e08",
       "date": "2026-10-05",
-      "dateISO": "Mon, 05 Oct 2026 21:12:06 GMT",
-      "ts": 1791234726000,
+      "dateISO": "Mon, 05 Oct 2026 21:14:16 GMT",
+      "ts": 1791234856000,
       "scope": "intl",
       "type": "blast",
       "title": "沙特阿拉伯首都利雅得5日晚传出爆炸声 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNSFppY1pBRTdNTU5ocUxiTkZ4THBrTUxBYUwtZ2hDQTFtMzhCajJjd21ZWXB5eVB1S25xUHpRbHd3T1ZWNUFpbjFEenVQbGhUZzRaUEk5cFJpZExnTm1ibU5oWmpDdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE43UmVfQ1NidlNkMVYtaGo1VkRqa2VabE1TZTMtVDVCUl9od0wyTEFCaFVhZ3I0LVM3RUhack1HS2hkc1pRd3pLZVNUX1hzRmN6REJ4ZGUyb3RXRHZyNzF2ajllRQ?oc=5",
       "site": "东方财富",
-      "siteUrl": "https://finance.eastmoney.com"
+      "siteUrl": "https://emwap.eastmoney.com"
     },
     {
       "id": "FL-7c9465e0ebc4",
@@ -423,18 +435,6 @@
       "siteUrl": "https://gbcode.rthk.hk"
     },
     {
-      "id": "FL-95fefc6040f1",
-      "date": "2026-10-05",
-      "dateISO": "Mon, 05 Oct 2026 12:03:01 GMT",
-      "ts": 1791201781000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "韩军方对DMZ爆炸作出最终调查结论：北韩埋设地雷所致，要求\"道歉并立即清除\" - chinese.joins.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wQS1oUzVYLVR2NmQ0Q3BsbDRaMlpvcUl5cW1EdnZkZHNiWjc5d0JBbmhYczBha3dBZEdMMkJSVkRWaFdFR0RqSDI5YlhScHRUZHlXb2ZIZ0tKZGd4Z1lRU3pPR3V1N3BBVXNzRA?oc=5",
-      "site": "chinese.joins.com",
-      "siteUrl": "https://chinese.joins.com"
-    },
-    {
       "id": "FL-92356d2bde7f",
       "date": "2026-10-05",
       "dateISO": "Mon, 05 Oct 2026 11:50:31 GMT",
@@ -459,15 +459,15 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
-      "id": "FL-9bdff15034d5",
+      "id": "FL-946161a43d33",
       "date": "2026-10-05",
       "dateISO": "Mon, 05 Oct 2026 10:35:03 GMT",
       "ts": 1791196503000,
       "scope": "intl",
       "type": "blast",
-      "title": "韩国公布非军事区地雷爆炸事件最终调查结果 - 新华网",
+      "title": "韩国公布非军事区地雷爆炸事件最终调查结果 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83YV9GeVR4blJQMDhnUG1PRVNtMjBYbzBXdUZ5Ry1RdXJuVDBSaWItSTE4SUt4Vi1QcXRwM2tFUEo4aHd1Um1rT0JHRHUyNkh6ZlNuX0NhMjE0OE5aRmFnMDcyRmR1cTV4WWQtaGxrRC1vVzJFazJFYXpVeG1vMVk?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -505,6 +505,18 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4ZDNJRUZCTEhUSjBSQmZUbHIyX0ZieXJBS0VGd3lxaVd0MngyN0gxdFNnNW9EXzdyNUhWLWxNODQtNVVmX01PcUw4YnFObkdBOUJMUDJmOWJEU3FxaFllMExR?oc=5",
       "site": "苏州新闻",
       "siteUrl": "https://news.2500sz.com"
+    },
+    {
+      "id": "FL-2c0706671459",
+      "date": "2026-10-05",
+      "dateISO": "Mon, 05 Oct 2026 00:39:55 GMT",
+      "ts": 1791160795000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "重磅盛会今日在上海开启！人气爆款“爆炸头”回归，还有全明星犬选美赛哦~ - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01WEF5ZkFxVWdUN21OLWdHTDlSN2c0dFhndVFycXNRTzk5bTFGUC0xWWhXaDFXVm1WMW5icWxrYmdnMjNmYnBMRXRkS0tnMWcxQUtMMjFvdUVkbWxKRGJPWmJrNWVNVjRuRXNMU2xCYllrQ0VfNTBVdg?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-c39833bbfc21",
