@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T17:03:51.867Z",
+  "updated": "2026-10-06T17:19:46.694Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -13,18 +13,6 @@
       "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPTnkxTGU0cTdDbEFjc1k5aDNPWi1GakladWZfME9ValRzUVhXekYxTmVCZDZ3cGZPMDFnQzhhN1BneXMyR09EVkc3UkVfUTdTdWw0bjVxTjhmVkMyZXZTM3ZHR1ZzSHFRaS1IclB2ZktIQ004ZjNGRlR4UUZJTEtpN3BIaVpqemNvRmZtN2puVXk0RzFualV1MWJwSUFqWXJ1ckFtVE9yWk5uVllNODZNd2tpSVRkazR6V2ozbmRubkdENTlmTW9hZlBxaUE3b3VJQk96Z3FWd25xWXowREFxZno0UXNnaEp4SWpLRGpmYkpfTmRmdl8ybTRxNUpKYzNXc0pLUFVlUExvOURPOU9DMldtRWxTbjM1MzFwZkZKTllRaHBqQlNHV2YtVW5EcHF1c3NKTS1fQjZKLWtvWTJwWkgxOFlPZHB0UTh3cWxnMXduV2RCc1dyLU5taWN1Y1Z2a3NNMG9hekVpb2o3UnRUVFhSbEFBSVlDZzBjS1RLT2dqZ0VOQkVYSXlya1Q?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr"
-    },
-    {
-      "id": "FL-af2cce547279",
-      "date": "2026-09-30",
-      "dateISO": "Wed, 30 Sep 2026 04:43:19 GMT",
-      "ts": 1790743399000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "韩军促朝停止边境加固工程并就爆炸事故道歉 - 联合早报",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3ZnZEaG1GeE9YY2lxS21Uc2RUZVRjWnl1ZlowQWNrN0dfU3N3ejBURkVsaEZnQlBfN2JGV2MzWkl3N3NBUnkyVlpjTEVqazE2Ujd2dmdNbVJ4V1EyNmxrTHJtSnZFelNjNkE?oc=5",
-      "site": "联合早报",
-      "siteUrl": "https://www.zaobao.com.sg"
     },
     {
       "id": "FL-385dd58b908a",
@@ -111,6 +99,18 @@
       "siteUrl": "https://www.courier-journal.com"
     },
     {
+      "id": "FL-e8ed2f30f82d",
+      "date": "2026-10-06",
+      "dateISO": "Tue, 06 Oct 2026 16:07:00 GMT",
+      "ts": 1791302820000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Possible explosion reported in southwest Louisville - Lexington Herald Leader",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAya2FVSXJiYTVXeFZkdUZyNjg5dVVWd3lpdGFaYUo5dFNkc3RZcUw1MG9RNk9mN3lDWHlTSk5lbEpTZDNMdEt5VlBqbFlvdW44WHVpT3hISnVkTFljS2FTWmpIVnpGeU1zdjRST3NpYndhUEU0?oc=5",
+      "site": "Lexington Herald Leader",
+      "siteUrl": "https://www.kentucky.com"
+    },
+    {
       "id": "FL-324621ab3c92",
       "date": "2026-10-06",
       "dateISO": "Tue, 06 Oct 2026 16:02:21 GMT",
@@ -181,6 +181,18 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYzQ0QkxOeE9YOGhxSlhMUllsUFk3QjloVVd1cGVZTy0zLVBuOEFTOGExaWxuUGtBMXVVcHNXc0syeWd4bURmYW9rSW11a0dDNzNaUlZzUENaNlNIRF8wemVHRVNYeFFiZklsb2NEN2xSZHNpeDRGOXQ3Nk1oX2hGOGVyYkJKMUUz?oc=5",
       "site": "手机搜狐网",
       "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-d6fd3ff5f410",
+      "date": "2026-10-06",
+      "dateISO": "Tue, 06 Oct 2026 11:11:37 GMT",
+      "ts": 1791285097000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "大满贯公园第二现场氛围感拉满 乒乓盛宴燃爆国庆 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xY1dkeVVSaGJqR3RsejFtcG9MU3MxUTdOanR3QWk1ZXNMTFJ6S1JrdUZsb0JOY0YwTGxxVm1UbEMzR2NScjFsbTMxR1ZkelJzd2twTnItdHZrNWRJSG9wU3dHTHg4OHB6TWQxT2l3MEk?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
     },
     {
       "id": "FL-30ed97a67420",
@@ -255,18 +267,6 @@
       "siteUrl": "https://chejiahao.autohome.com.cn"
     },
     {
-      "id": "FL-92cceee49da3",
-      "date": "2026-10-06",
-      "dateISO": "Tue, 06 Oct 2026 02:46:55 GMT",
-      "ts": 1791254815000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "中東衝突升溫 沙特首都、煉油廠傳爆炸聲 - 新唐人電視台",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rUmRmdW41SUFuSk1LNXkxLTR2eTltbzdiNnFzbFhDTXg5QlYwYW51YkdfemM2dnFhMHdUQTlpR2F3U2xIeUdxdlFobl96RFZoN0lkamxmSTRKcXRHMTkxMNIBZkFVX3lxTE5wOHBXTlpEU3RSal9tbkhFckQzbFRWTEpSN0Q0eURNQjkybGxGUnhLbjVPckpoYUJUN2dEQUZoeHcwZzdBQ0FpT2dLdmlMZXF0ekE2c0NsR000V1VfNDVZT0Vubl9DUQ?oc=5",
-      "site": "新唐人電視台",
-      "siteUrl": "https://www.ntdtv.com"
-    },
-    {
       "id": "FL-6612abd30963",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 07:00:00 GMT",
@@ -313,6 +313,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-435013707dbb",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 21:06:34 GMT",
+      "ts": 1790456794000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典老城区爆炸事故致6死3伤 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PalBtWlYtLVkyQmRpWkxjQ1lOLS1VOEVsbUk2NGs2MV93ZUh0NnJodTBpS0Y3dnNEVExwWEE3Q0UxWjR1V3hUV2ZsSTZLOHVCSHllY0cydlQxbjVZcUNVVg?oc=5",
+      "site": "东方财富",
+      "siteUrl": "https://wap.eastmoney.com"
     },
     {
       "id": "FL-008d86b164a4",
