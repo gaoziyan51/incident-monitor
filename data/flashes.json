@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T22:02:12.562Z",
+  "updated": "2026-10-06T22:21:12.737Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -13,6 +13,18 @@
       "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPTnkxTGU0cTdDbEFjc1k5aDNPWi1GakladWZfME9ValRzUVhXekYxTmVCZDZ3cGZPMDFnQzhhN1BneXMyR09EVkc3UkVfUTdTdWw0bjVxTjhmVkMyZXZTM3ZHR1ZzSHFRaS1IclB2ZktIQ004ZjNGRlR4UUZJTEtpN3BIaVpqemNvRmZtN2puVXk0RzFualV1MWJwSUFqWXJ1ckFtVE9yWk5uVllNODZNd2tpSVRkazR6V2ozbmRubkdENTlmTW9hZlBxaUE3b3VJQk96Z3FWd25xWXowREFxZno0UXNnaEp4SWpLRGpmYkpfTmRmdl8ybTRxNUpKYzNXc0pLUFVlUExvOURPOU9DMldtRWxTbjM1MzFwZkZKTllRaHBqQlNHV2YtVW5EcHF1c3NKTS1fQjZKLWtvWTJwWkgxOFlPZHB0UTh3cWxnMXduV2RCc1dyLU5taWN1Y1Z2a3NNMG9hekVpb2o3UnRUVFhSbEFBSVlDZzBjS1RLT2dqZ0VOQkVYSXlya1Q?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr"
+    },
+    {
+      "id": "FL-af2cce547279",
+      "date": "2026-09-30",
+      "dateISO": "Wed, 30 Sep 2026 04:43:19 GMT",
+      "ts": 1790743399000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "韩军促朝停止边境加固工程并就爆炸事故道歉 - 联合早报",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3ZnZEaG1GeE9YY2lxS21Uc2RUZVRjWnl1ZlowQWNrN0dfU3N3ejBURkVsaEZnQlBfN2JGV2MzWkl3N3NBUnkyVlpjTEVqazE2Ujd2dmdNbVJ4V1EyNmxrTHJtSnZFelNjNkE?oc=5",
+      "site": "联合早报",
+      "siteUrl": "https://www.zaobao.com.sg"
     },
     {
       "id": "FL-385dd58b908a",
@@ -29,14 +41,14 @@
     {
       "id": "FL-783d69359b46",
       "date": "2026-10-06",
-      "dateISO": "Tue, 06 Oct 2026 21:24:26 GMT",
-      "ts": 1791321866000,
+      "dateISO": "Tue, 06 Oct 2026 21:25:00 GMT",
+      "ts": 1791321900000,
       "scope": "intl",
       "type": "blast",
       "title": "也门首都萨那传出爆炸声 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96NE1xOXFTbkZsQlVqS0ZpNzZwS2U4ckRIdURwUjZjLXNyQ0RocmdjeGFxak5pejBFRGRaUThjeVlFQ1ZDenM5TVBsMVZfZ2lFQ2NCNVk4TTJIM0VoNjBwUURnWQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zdFRUUXhXTEVWbVZpSzYwdjh1UC1fUnJhSHBjWjhzWUVJbEFkc21xOWFmSWdTUmdTS2FjWThsQlFEc3BnUDNibXlRME9yOWNhQko4S285Mnlla2d2YW55dExQbzJjUQ?oc=5",
       "site": "东方财富",
-      "siteUrl": "https://emwap.eastmoney.com"
+      "siteUrl": "https://finance.eastmoney.com"
     },
     {
       "id": "FL-586150226505",
@@ -255,18 +267,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-435013707dbb",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 21:06:34 GMT",
-      "ts": 1790456794000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "雅典老城区爆炸事故致6死3伤 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PalBtWlYtLVkyQmRpWkxjQ1lOLS1VOEVsbUk2NGs2MV93ZUh0NnJodTBpS0Y3dnNEVExwWEE3Q0UxWjR1V3hUV2ZsSTZLOHVCSHllY0cydlQxbjVZcUNVVg?oc=5",
-      "site": "东方财富",
-      "siteUrl": "https://wap.eastmoney.com"
-    },
-    {
       "id": "FL-e1c81d311eae",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 15:50:14 GMT",
@@ -339,18 +339,6 @@
       "siteUrl": "https://www.dw.com"
     },
     {
-      "id": "FL-d52930d7152c",
-      "date": "2026-10-03",
-      "dateISO": "Sat, 03 Oct 2026 08:41:00 GMT",
-      "ts": 1791016860000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "7人水泥地上烧烤突发爆炸火花四溅 消防科普：不良导热体风险很高 - 驱动之家",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82RUo4eUdEYXBFbXBBcW9ud09nZG5EbVJMUEZIemZ4WFNpZ0lBRlRwdWlzMWRMeXVNYXB2bng1QUJuOUEzbmE1MExLTUN1eVBJdTg4OVVzbms?oc=5",
-      "site": "驱动之家",
-      "siteUrl": "https://news.mydrivers.com"
-    },
-    {
       "id": "FL-fee9ee69aa03",
       "date": "2026-10-03",
       "dateISO": "Sat, 03 Oct 2026 00:34:00 GMT",
@@ -399,18 +387,6 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-7c7995a53083",
-      "date": "2026-10-05",
-      "dateISO": "Mon, 05 Oct 2026 23:38:17 GMT",
-      "ts": 1791243497000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "土耳其一客机发现爆炸物威胁纸条 - 手机搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSDFEenhwZ09sZFo1QmRMX2R2eG5UUFFVS1lONF9GQ2xzbWxKRExfbjMyUEhicnlIR1hlcWU0RUdvWjAtNUFsM1pWR2d4UVZHOHM4T284bmE1NDBWQmlzUjhuX1ZXNThZUDVzNEpMM1o4aGFxeEMyb3haOGlnTlhKal9DZWxpUVZk?oc=5",
-      "site": "手机搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-2f053de04fd5",
       "date": "2026-10-05",
       "dateISO": "Mon, 05 Oct 2026 23:12:25 GMT",
@@ -445,6 +421,18 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZNW1uYXZYM2hGaEdJaTZUNDRhanlNa1FBU01wMXVrcDNBWjVUSFdqTU92bnFNU0dHVFZRejJtUUlIdll1QU04ZjFBX3RSZUs4QVpzME83OXIzOGo2WFU0QTJydXliNEYy?oc=5",
       "site": "文学城",
       "siteUrl": "https://www.wenxuecity.com"
+    },
+    {
+      "id": "FL-ce0584e0b98f",
+      "date": "2026-10-05",
+      "dateISO": "Mon, 05 Oct 2026 19:33:00 GMT",
+      "ts": 1791228780000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "土耳其一客机发现爆炸物威胁纸条 143人安全撤离 - QQ News",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92MFlJZjhjSWZJMHBQUHg1NmRINTJVQTIxWkNXLTBuV3B6UHNiTUN3UTlKZGFabk84QmhpSVVJZFotamNoRG1ER3lpMHEtYlFsZzUtUXREY2tmMUE5V0MwY1h0TDdlYkZCd2JXYTlB?oc=5",
+      "site": "QQ News",
+      "siteUrl": "https://news.qq.com"
     },
     {
       "id": "FL-9bdff15034d5",
