@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T16:54:19.088Z",
+  "updated": "2026-10-06T17:03:51.867Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -37,6 +37,54 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fOUNOVy1jMjYtRHRacDFONmZLdmtlUTBvcjVNX0xwMG9rc2lwYkV4ZzRCOFVIVmdNLXdZcUo3Mkw1UnI3elZsRjNGblI4YTBsMGxPeHJCRnZSNWE0dXNTdXRxcUQ?oc=5",
       "site": "财新",
       "siteUrl": "https://science.caixin.com"
+    },
+    {
+      "id": "FL-beb26f10755d",
+      "date": "2026-10-06",
+      "dateISO": "Tue, 06 Oct 2026 16:51:00 GMT",
+      "ts": 1791305460000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Explosion reportedly caused fire that destroyed Jefferson Co. home - WWNY",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWURySkVLMVpieWkxQlhOVFBCZnJTZU44Z0h2OEJ0Yi14YUtranFCMEEzVGlISXVXR0RxdnJkX2hLRDJub2RVY1RfdkNPWjFETTQ5bzFoLWs0aHlscmMyVTEyLXJtRTl6VUt3Z0RQcmdwcE05YmJxUGVYdXJaZEdmVFNDTm5rcHdHTXJnMXc2T3BlT19SMkJFR0JnbEpBTmt6b3c?oc=5",
+      "site": "WWNY",
+      "siteUrl": "https://www.wwnytv.com"
+    },
+    {
+      "id": "FL-3f296393e850",
+      "date": "2026-10-06",
+      "dateISO": "Tue, 06 Oct 2026 16:47:00 GMT",
+      "ts": 1791305220000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Explosions reported as house fire injures Sabine County resident - KLTV.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMW9EWXlOcUdaWjNEOU9aOVJRUjZDdGhpSGVad3dpVFk4bzVwR3pGTk00c2p6ckJjTWlKMmF2dXZZdnBHMFk3eHJUanQ5RDlIaWw1dGx3NEFhaW9CQVNGcjduV0JyaUQweC1ZSDY3a3dGdjRjdGVZYTd1VWdLVHBiVDA0ZUFyQVpJWFFsQ3Bqd2p6dzNKXzNwVWlR0gGuAUFVX3lxTE0xM0Q1Nl8xLVp4UzI4Mk1fYUFKVU5nTXNzTExLNktmVUlrMjZtTEUwZjE5RjZCSlVWNXFNdS1MZ1VqcmJnVzJJdE9nV3kxcTRDbnhCNnpiWUIwalkzdndEbHI4Q1ROWUEyTUY0dHdZQUpLSVZYMUZUN2xRU2dTTXNrZkFOOV9JZDk4M05PdU1Xc0VQZTVZTVY5M2ZIcUVMTm1CQm9GWFdYckdJSXo1dw?oc=5",
+      "site": "KLTV.com",
+      "siteUrl": "https://www.kltv.com"
+    },
+    {
+      "id": "FL-f893d3cff5ea",
+      "date": "2026-10-06",
+      "dateISO": "Tue, 06 Oct 2026 16:46:00 GMT",
+      "ts": 1791305160000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "2 injured after reported explosion at Louisville chemical factory - WHAS11",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTFk4Tl9kWEdmUWZKclhKV1hxTzY0UEZIcGNOcTliMUZiS0ZMcXhvRFJIR0dpVFFiZVVnNk1aTGNTS0JCRFVkRFJRMlJHS09tWEpLaGNMUHFQbjlaN0RGRzMtZm1IZmtzMWF1VGlmN19yRDBiUng5cXVpSkNHY2JCZlppcE5kT0RpNndWUldTV0VSbW9GdDkwUGJ5QktvemdGaVo5SEZaMGRSUG8xUmJYdVNmSDNpRGpQWS1kdEVKS3hHU2FTVGNneTJIcU81LWFNU19qYmtCMzhHXzAxcjhxd0p3?oc=5",
+      "site": "WHAS11",
+      "siteUrl": "https://www.whas11.com"
+    },
+    {
+      "id": "FL-1391fcb8a1f7",
+      "date": "2026-10-06",
+      "dateISO": "Tue, 06 Oct 2026 16:46:00 GMT",
+      "ts": 1791305160000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Explosions reported as house fire injures Sabine County resident - Video credit: Eddie Hudson - KLTV.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdVp1My1ZQVlwcmJGMlVNZjA1cmFuR0RaZjc4VU1RWm9pbDRxdHJzTEtzb190bUZpU1VXWjVUVExENHg3Z0E3ZUI5X3UxUk12VFRRRzlWWGFpM19aNkRoMjJ5TnlPdzRJak9IU2VrbVpIcE84YjVmQUdZeGQxaWozUVhuSU1CcWhoSDdMZ0pGNlgwdmpGb0VQbHVpVVVwT0VLblV2d2Vpby10V1BzWUp0UXZzVTZoRi00ZFBmOUt3dWdYamRh?oc=5",
+      "site": "KLTV.com",
+      "siteUrl": "https://www.kltv.com"
     },
     {
       "id": "FL-2ccc20b2c8bc",
@@ -361,6 +409,18 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mR2pTX0YxWjBwQ2lLNC1XZjFhd3IwVEYtWkZFR3ZBU3B5RTFHR1BldmQ3OEkxN2NaWTMzYUkwWENDeEliY3dVNEloOExFS1B6SlZQTENHdWVmTWpUM042M2hRcmo4QS1qdl85cXlhZHJ3R3JGTEU4?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-97d49aefb021",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 07:00:00 GMT",
+      "ts": 1789974000000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "韩朝非军事区疑发生地雷爆炸，韩军3人受伤 - 观察者网",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42MkZYMS15SmtDSk1JNGN3N2dwZjRuTkVON2dKc3VGbzMxYTZmTWMwM2Y4dWYwZkxJZzN3QTNWQXNwc20zb0NZbEUyRnBYRUNabEhTd1lkTlU1QzJuSGx1enBuVEpTS0ZvSFJVWWJiZElLclk?oc=5",
+      "site": "观察者网",
+      "siteUrl": "https://www.guancha.cn"
     },
     {
       "id": "FL-d4e5d863dc58",
