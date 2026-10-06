@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T20:51:23.349Z",
+  "updated": "2026-10-06T21:01:41.887Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,18 +15,6 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-af2cce547279",
-      "date": "2026-09-30",
-      "dateISO": "Wed, 30 Sep 2026 04:43:19 GMT",
-      "ts": 1790743399000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "韩军促朝停止边境加固工程并就爆炸事故道歉 - 联合早报",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3ZnZEaG1GeE9YY2lxS21Uc2RUZVRjWnl1ZlowQWNrN0dfU3N3ejBURkVsaEZnQlBfN2JGV2MzWkl3N3NBUnkyVlpjTEVqazE2Ujd2dmdNbVJ4V1EyNmxrTHJtSnZFelNjNkE?oc=5",
-      "site": "联合早报",
-      "siteUrl": "https://www.zaobao.com.sg"
-    },
-    {
       "id": "FL-385dd58b908a",
       "date": "2026-08-11",
       "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
@@ -37,6 +25,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fOUNOVy1jMjYtRHRacDFONmZLdmtlUTBvcjVNX0xwMG9rc2lwYkV4ZzRCOFVIVmdNLXdZcUo3Mkw1UnI3elZsRjNGblI4YTBsMGxPeHJCRnZSNWE0dXNTdXRxcUQ?oc=5",
       "site": "财新",
       "siteUrl": "https://science.caixin.com"
+    },
+    {
+      "id": "FL-b681c6f0f8de",
+      "date": "2026-10-06",
+      "dateISO": "Tue, 06 Oct 2026 20:50:36 GMT",
+      "ts": 1791319836000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "也门首都萨那传出爆炸声_7x24快讯_新浪财经 - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE54RXNOSV9CNUdkQXlXRU5DOC1kQlppYVg2Mjh6YlJkVFhSbkdjWTEzRXUxVTJrNm9TM21lLWpBVWxWanhNeVFRa2MtSQ?oc=5",
+      "site": "手机新浪网",
+      "siteUrl": "https://wap.cj.sina.cn"
     },
     {
       "id": "FL-92cac8cbd28a",
@@ -267,6 +267,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-435013707dbb",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 21:06:34 GMT",
+      "ts": 1790456794000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典老城区爆炸事故致6死3伤 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PalBtWlYtLVkyQmRpWkxjQ1lOLS1VOEVsbUk2NGs2MV93ZUh0NnJodTBpS0Y3dnNEVExwWEE3Q0UxWjR1V3hUV2ZsSTZLOHVCSHllY0cydlQxbjVZcUNVVg?oc=5",
+      "site": "东方财富",
+      "siteUrl": "https://wap.eastmoney.com"
+    },
+    {
       "id": "FL-e1c81d311eae",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 15:50:14 GMT",
@@ -373,6 +385,18 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mR2pTX0YxWjBwQ2lLNC1XZjFhd3IwVEYtWkZFR3ZBU3B5RTFHR1BldmQ3OEkxN2NaWTMzYUkwWENDeEliY3dVNEloOExFS1B6SlZQTENHdWVmTWpUM042M2hRcmo4QS1qdl85cXlhZHJ3R3JGTEU4?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-e48266c0f12b",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 07:00:00 GMT",
+      "ts": 1789974000000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "国际｜实拍：叙利亚一弹药库发生连续爆炸，多枚火箭弹飞向村庄 - 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1Uk5BcXZUVmpITWZHMWx6N1ZINVpUWVM5a2VBa3N2MVZBSE5ZSTlNcDRVc2E1M0NpQldzZlZnRzdIZ1dWQVVqMmVhMzlIOUhhd1dnandlY0hreG84M2paVGFR?oc=5",
+      "site": "新京报",
+      "siteUrl": "https://m.bjnews.com.cn"
     },
     {
       "id": "FL-97d49aefb021",
