@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T19:08:07.460Z",
+  "updated": "2026-10-06T19:22:07.680Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,18 +15,6 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-af2cce547279",
-      "date": "2026-09-30",
-      "dateISO": "Wed, 30 Sep 2026 04:43:19 GMT",
-      "ts": 1790743399000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "韩军促朝停止边境加固工程并就爆炸事故道歉 - 联合早报",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3ZnZEaG1GeE9YY2lxS21Uc2RUZVRjWnl1ZlowQWNrN0dfU3N3ejBURkVsaEZnQlBfN2JGV2MzWkl3N3NBUnkyVlpjTEVqazE2Ujd2dmdNbVJ4V1EyNmxrTHJtSnZFelNjNkE?oc=5",
-      "site": "联合早报",
-      "siteUrl": "https://www.zaobao.com.sg"
-    },
-    {
       "id": "FL-385dd58b908a",
       "date": "2026-08-11",
       "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
@@ -37,6 +25,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fOUNOVy1jMjYtRHRacDFONmZLdmtlUTBvcjVNX0xwMG9rc2lwYkV4ZzRCOFVIVmdNLXdZcUo3Mkw1UnI3elZsRjNGblI4YTBsMGxPeHJCRnZSNWE0dXNTdXRxcUQ?oc=5",
       "site": "财新",
       "siteUrl": "https://science.caixin.com"
+    },
+    {
+      "id": "FL-a8b8e5c46fb2",
+      "date": "2026-10-06",
+      "dateISO": "Tue, 06 Oct 2026 19:10:11 GMT",
+      "ts": 1791313811000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Final report on polymer plant explosion focuses on process control systems - Safety+Health Magazine",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMkc3YzViTFVUajgtbVFrZFB5ekMzSUhud3ZjNF96Q2tOX1pZWVptcHdka3dYTllTNlhiS1hyeFNWdXIwajNOMmk2SEhIYldCa2xXb0xzY0k3cUVjYWZIN1MwcFN0bVF4OUl2NERCR3VJVW9hLUs2azEyODY0bHBuSGgyX0pwTFRWMUlHVXl2eVpGcGxuT0QyRGFlTWFpVjU2TExoRUpWSXVFdktJV0puUElwVlR0dw?oc=5",
+      "site": "Safety+Health Magazine",
+      "siteUrl": "https://www.safetyandhealthmagazine.com"
     },
     {
       "id": "FL-92cac8cbd28a",
@@ -169,18 +169,6 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVjk0d1lNc0RrcXQ1SGlNYmpsZUJpVkRROUlaQjlpZi1CQzBuZTlPVHJBUjdaWmF2QkkyZk1NWG5CWW9YbVFUdng4cTVHLXFHbElCZUwzcFVzOS1WVG8zekRicEJPd2o0bDl5WnNYVVo3MmdKVGliYVlFbWdOdFRtSVBqSl8zN245NS1JR2ZOeFRsbmRpdXB2eGdFUDBvZWdJRnZtNjBXQ29IX1V3bXZOd3pkT3Q3RjRlbmpIZzJsNDVwSDhhT3hn?oc=5",
       "site": "CNBC",
       "siteUrl": "https://www.cnbc.com"
-    },
-    {
-      "id": "FL-c6c44d4e6935",
-      "date": "2026-10-06",
-      "dateISO": "Tue, 06 Oct 2026 15:53:00 GMT",
-      "ts": 1791301980000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Explosion reported at southwest Louisville chemical plant; 2 injured - WLKY",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNEU5Y3pnMlpRSE1Kc2ZUWWo2UnRkWEh3bG10V3FESGlkN3lRcmxsbG5JZjJhaGNrRzZ0NkxFRVNGeHF6V0VkVWtJa05uYm83TFZmcnVYMGJCRTdJNEJxZUliMWVPT2cxTEtBcTlJX3lTSkVGQUx0WV9IMnlnY2NzTGphUzZyMGszQ0d2V25fX3Nac25kbmc?oc=5",
-      "site": "WLKY",
-      "siteUrl": "https://www.wlky.com"
     },
     {
       "id": "FL-69890156a5b2",
