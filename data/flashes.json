@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T09:39:15.201Z",
+  "updated": "2026-10-06T09:52:53.977Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -63,15 +63,15 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
-      "id": "FL-71659d649032",
+      "id": "FL-5d2895b8544a",
       "date": "2026-10-06",
       "dateISO": "Tue, 06 Oct 2026 09:08:14 GMT",
       "ts": 1791277694000,
       "scope": "intl",
       "type": "blast",
-      "title": "Two injured in vehicle explosion in Jerusalem's Armon HaNatziv - The Jerusalem Post",
+      "title": "Two injured in vehicle explosion in Jerusalem's Armon HaNatziv - jpost.com",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wN01vYjVzRzh5VlBfVkYzM3Y1MHUyT2FaMVpHRkF4NkItWWF0T3lVb2VWUnNlLUt6VHhiN0ZOOENnVWhNLWtTMW5Xdmp6eGxqUjIwV1A3bExfX0hK?oc=5",
-      "site": "The Jerusalem Post",
+      "site": "jpost.com",
       "siteUrl": "https://www.jpost.com"
     },
     {
@@ -87,15 +87,15 @@
       "siteUrl": "https://www.swissinfo.ch"
     },
     {
-      "id": "FL-4a6262c97db5",
+      "id": "FL-11b1a4224e08",
       "date": "2026-10-06",
       "dateISO": "Tue, 06 Oct 2026 06:14:44 GMT",
       "ts": 1791267284000,
       "scope": "intl",
       "type": "blast",
-      "title": "沙特阿拉伯首都利雅得5日晚传出爆炸声 - emwap.eastmoney.com",
+      "title": "沙特阿拉伯首都利雅得5日晚传出爆炸声 - 东方财富",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE43UmVfQ1NidlNkMVYtaGo1VkRqa2VabE1TZTMtVDVCUl9od0wyTEFCaFVhZ3I0LVM3RUhack1HS2hkc1pRd3pLZVNUX1hzRmN6REJ4ZGUyb3RXRHZyNzF2ajllRQ?oc=5",
-      "site": "emwap.eastmoney.com",
+      "site": "东方财富",
       "siteUrl": "https://emwap.eastmoney.com"
     },
     {
@@ -147,6 +147,18 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
+      "id": "FL-6612abd30963",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 07:00:00 GMT",
+      "ts": 1789628400000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "宇宙大爆炸最初五分钟氦丰度获最精确测量 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MzVkcXZnR2UwelNkenFIYVFYVzBPcUxUQ1VSaUVHcV9LYVJnZzhjQWZzM09DNk8wc0xVNlo2amRqNjBueWtVeTdSbkJZT053RjRSZDhmeXJyT19wekF3UHB6WERtZkxLaFFwT2pVWTE?oc=5",
+      "site": "中国科技网",
+      "siteUrl": "https://www.stdaily.com"
+    },
+    {
       "id": "FL-340d5e981918",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
@@ -159,15 +171,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-4301f7947db7",
+      "id": "FL-65a837ede06b",
       "date": "2026-10-04",
       "dateISO": "Sun, 04 Oct 2026 08:42:58 GMT",
       "ts": 1791103378000,
       "scope": "intl",
       "type": "blast",
-      "title": "乌首都基辅响起强烈爆炸声 一桥梁再次遭袭 - news.cctv.com",
+      "title": "乌首都基辅响起强烈爆炸声 一桥梁再次遭袭 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50ajJWMmw0dWRvT2JnSW01VnhEZDZ3WUVydFZlSjBabUVPMW16aHRaeTRiUDgwZzg4blo3bWVtOHJQaVNqYkxtb1hCdEtyQkJXOTFqeTJNWWtHbU1oZlZtdHFwZFVlRjM3clAyWFpralZNWkNIT3VyOQ?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -219,15 +231,15 @@
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
-      "id": "FL-08d5beb77eeb",
+      "id": "FL-9627574f08b2",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
       "ts": 1790406000000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 新华网客户端",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - app.xinhuanet.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaEUzM21qMG8zSnRRcy1iYjkwOUxBeWEyRnVHaVNZcmhIZ0FwS0lUYWhndmd0WHp1ZHpxVTZSYUlMLUVGVWxseUcwOEprSHA4MExzeFFxVFV3OVlacVc3dTVvMi1VUUVsVXlTb3I1bWlUS3dDUlBzcEs4allydkhIdFU3ckVMZjJPVXQ0ZWJQWkFWNEpITlhnTlR3?oc=5",
-      "site": "新华网客户端",
+      "site": "app.xinhuanet.com",
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
@@ -339,18 +351,6 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
-      "id": "FL-11b1a4224e08",
-      "date": "2026-10-05",
-      "dateISO": "Mon, 05 Oct 2026 21:12:06 GMT",
-      "ts": 1791234726000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "沙特阿拉伯首都利雅得5日晚传出爆炸声 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNSFppY1pBRTdNTU5ocUxiTkZ4THBrTUxBYUwtZ2hDQTFtMzhCajJjd21ZWXB5eVB1S25xUHpRbHd3T1ZWNUFpbjFEenVQbGhUZzRaUEk5cFJpZExnTm1ibU5oWmpDdw?oc=5",
-      "site": "东方财富",
-      "siteUrl": "https://finance.eastmoney.com"
-    },
-    {
       "id": "FL-084046f4ae88",
       "date": "2026-10-05",
       "dateISO": "Mon, 05 Oct 2026 20:57:47 GMT",
@@ -387,40 +387,16 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
-      "id": "FL-78124f1d25b7",
+      "id": "FL-a8d6c549ad0f",
       "date": "2026-10-05",
       "dateISO": "Mon, 05 Oct 2026 19:33:00 GMT",
       "ts": 1791228780000,
       "scope": "intl",
       "type": "blast",
-      "title": "土耳其一客机发现爆炸物威胁纸条 143人安全撤离 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPXzcyVWk4SFloS0FVS3VzNHlQYWw5ektwbDMtV2pRWVJBN2FUSFgwcHlDMXR6aVN1WHV6M1BKd3FrMEctTjJza3FLR1ZJWlo1RFBkN1RCbDNmMHZmNno3cUhBTjdUVmdYWXNuVHZRZmQ5WjI0ZVkwelRXTUJtNE9KYnROUlYxZ2FoQmhXNExzQQ?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
-    },
-    {
-      "id": "FL-0f3d62a84c1b",
-      "date": "2026-10-05",
-      "dateISO": "Mon, 05 Oct 2026 17:35:15 GMT",
-      "ts": 1791221715000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "Boombl4：过去三周没打过任何比赛，Magnojez心态爆炸很正常 - 5EPlay",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92TVQ3N2dvcmh5TTF3cy1oRnBZQ3VXZmVUV0FjYjBKYXh3YklSVThEUG11cjZsbEVYN2NJWDFNd2NyamVpc2lZTzRIbDJ5cFIyZ0puazZrZFBfWFA1bDZ6Z1pPYkVhdw?oc=5",
-      "site": "5EPlay",
-      "siteUrl": "https://csgo.5eplay.com"
-    },
-    {
-      "id": "FL-53830f478f11",
-      "date": "2026-10-05",
-      "dateISO": "Mon, 05 Oct 2026 13:02:00 GMT",
-      "ts": 1791205320000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "韩国指非军事区爆炸地雷由朝鲜埋设 要求道歉及清除相关地雷 - gbcode.rthk.hk",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU25lbzFFLU9CR0N0T1FnVUhKY29HSHNzRG03TXFjemZZZGNpX1lpcktnRkNVS2lfV2tYTldtSVg1al9fZW1CNF9XLUtDbVB2WEtxLTVMWFVyQjc4LXE1eEVIbnhJQWFoWEVxMFFHRmRvbGxmQUNWSklvU2xsNXlEY3Rzc2p4Tno3THBKYUpXYnJEYjlFNGNaRHVWWW56M0xhTjFj?oc=5",
-      "site": "gbcode.rthk.hk",
-      "siteUrl": "https://gbcode.rthk.hk"
+      "title": "土耳其一客机发现爆炸物威胁纸条 143人安全撤离 - qq.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92MFlJZjhjSWZJMHBQUHg1NmRINTJVQTIxWkNXLTBuV3B6UHNiTUN3UTlKZGFabk84QmhpSVVJZFotamNoRG1ER3lpMHEtYlFsZzUtUXREY2tmMUE5V0MwY1h0TDdlYkZCd2JXYTlB?oc=5",
+      "site": "qq.com",
+      "siteUrl": "https://news.qq.com"
     },
     {
       "id": "FL-92356d2bde7f",
@@ -447,15 +423,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-fd62a6188e66",
+      "id": "FL-e3eaa7d3da44",
       "date": "2026-10-05",
       "dateISO": "Mon, 05 Oct 2026 02:06:20 GMT",
       "ts": 1791165980000,
       "scope": "dom",
       "type": "blast",
-      "title": "红色旋风燃爆主场 - news.2500sz.com",
+      "title": "红色旋风燃爆主场 - 苏州新闻",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4ZDNJRUZCTEhUSjBSQmZUbHIyX0ZieXJBS0VGd3lxaVd0MngyN0gxdFNnNW9EXzdyNUhWLWxNODQtNVVmX01PcUw4YnFObkdBOUJMUDJmOWJEU3FxaFllMExR?oc=5",
-      "site": "news.2500sz.com",
+      "site": "苏州新闻",
       "siteUrl": "https://news.2500sz.com"
     },
     {
@@ -517,6 +493,18 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN1gtb1drX1hWS3NBMzU4MlNRVEJ1TkUzQmJCR1B0a3VFS2MxU05ZTTZ1UjlmZnJZU2JYNHgyOGVwZ1dUZjdIZ3hxaWlPNGZsQTc3VjRlRTlPd3hlR1d2b3RVVE92dUwzMTlwVVB1TmphZUN1OG5iTU5WYU5EZjJmM3BpNHctZ3ljVTgtTXJuX1YzeVM2bmVmTkEzZzBnczIzSFFRWmxHRGd2SUdVb01wNGZsSmVVOWlYcG1LZHZYWk1BQU9wcnhhb3Q2dVZXaDlUSHNqZ9IB1wFBVV95cUxNWnRiOWpoQ21MQ0tYTkh0c3hWVTFSbV9ZQlcxWUF4SmtBanZHZmNIc296ZkJUcjBIVnZlTmZDZXY3WnlfWXJPWmU0WHYxa1F4RlFxWDlaMjlaRGtCYTdTVU9fa3JaMkVlSllKZWVObWpKS1o3ZVZlNTk3RGN6ejJGSTFCbTd2RFVYM2FfQk5heEcxWDYtc0Q3bDl4Wnp5em1ZdE9WZi11VTd6bi1TWnlycUc2VmR5eUJ6Mk15Y1ZCQlhrc2tmcWpKTVpRZlpEbjFYU1JhTWZBOA?oc=5",
       "site": "美国之音",
       "siteUrl": "https://www.voachinese.com"
+    },
+    {
+      "id": "FL-bbb24b250463",
+      "date": "2026-10-02",
+      "dateISO": "Fri, 02 Oct 2026 16:03:00 GMT",
+      "ts": 1790956980000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "AI引发论文大爆炸，审稿体系濒临崩塌：arXiv也开始最严限流了 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1NZVUtWlM4ekZ1bnM4a2hPR3ZadnRZOS04T3JnRUswXzU1dW9iMzVycWt2WVdVaVZSZzU3SVBPcUFWbHdoQVZkaUxmcDZKZw?oc=5",
+      "site": "36Kr",
+      "siteUrl": "https://m.36kr.com"
     },
     {
       "id": "FL-e7a8b45be337",
