@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T16:40:23.306Z",
+  "updated": "2026-10-06T16:54:19.088Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,16 +15,16 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-8c4b8fbf34a9",
-      "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 16:00:00 GMT",
-      "ts": 1790697600000,
+      "id": "FL-af2cce547279",
+      "date": "2026-09-30",
+      "dateISO": "Wed, 30 Sep 2026 04:43:19 GMT",
+      "ts": 1790743399000,
       "scope": "dom",
       "type": "blast",
-      "title": "香港：创办“爆炸头”的独立记者邓浩荣被捕，无国界记者对此表示谴责 - RSF",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMlRKMUY5SGZlT3h5ekRqeGFkd2xRQVJkQ3Jlb05WX3Rqa2hiNU5RdUVZaDV5TGR1YV9jdUFuQlI4ekhPSDlnQlJLbmlIOVJhenhlYVBwN0NoakJkMUt2ckdYN2tSSW9nN3RXWU9iTkFWbEI5THZxOHFiSVdKLUVOOGJVUmVoTm1zajk2Q1JKUm5OSW1hQXlwcUx5TjJscVBrXzNmRWplR2hKNXM?oc=5",
-      "site": "RSF",
-      "siteUrl": "https://rsf.org"
+      "title": "韩军促朝停止边境加固工程并就爆炸事故道歉 - 联合早报",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3ZnZEaG1GeE9YY2lxS21Uc2RUZVRjWnl1ZlowQWNrN0dfU3N3ejBURkVsaEZnQlBfN2JGV2MzWkl3N3NBUnkyVlpjTEVqazE2Ujd2dmdNbVJ4V1EyNmxrTHJtSnZFelNjNkE?oc=5",
+      "site": "联合早报",
+      "siteUrl": "https://www.zaobao.com.sg"
     },
     {
       "id": "FL-385dd58b908a",
@@ -123,18 +123,6 @@
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
-      "id": "FL-70f24ad49f2f",
-      "date": "2026-10-06",
-      "dateISO": "Tue, 06 Oct 2026 11:55:00 GMT",
-      "ts": 1791287700000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "沙特首都利雅得再次传出爆炸声 - 网易新闻客户端",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IQ1lvOHVrd2RmaDhIS09yTklBdE1nODluV3pyTlhmZ181RUZ0Q09yNGtFUVRrRFJ1dzBYWTJzcHdFYkJFWTVaeUlwQkpfT3p2VVlURGJyZ0lEaWdQ?oc=5",
-      "site": "网易新闻客户端",
-      "siteUrl": "https://c.m.163.com"
-    },
-    {
       "id": "FL-f03147d8f8ac",
       "date": "2026-10-06",
       "dateISO": "Tue, 06 Oct 2026 11:41:06 GMT",
@@ -157,6 +145,18 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkRzNHMkgzN0RPbEtWVHlmSTBGWS15cHBQX3lYR1hSU2U2eHhMMDhTaHdCWFc5SmFfUjVMS2luTThEX2dFcWI4WnBmeEJqSG5FWnFpMy0xS1ItLVZD?oc=5",
       "site": "韩联社",
       "siteUrl": "https://m-cn.yna.co.kr"
+    },
+    {
+      "id": "FL-d7d069de196f",
+      "date": "2026-10-06",
+      "dateISO": "Tue, 06 Oct 2026 10:06:06 GMT",
+      "ts": 1791281166000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "沙特首都利雅得再次传出爆炸声 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KSjEyblZWeDBvZDU5b2xrNXJIZUlpeGZObFl2REl4Y0dYSzBkTndubG9EcHlhbXE5eng1T0RIUUwtT1hfM0hEYzdoVGdZOUVUMDc0d3A0UUp4dEpnVmZ4OWxVNG8?oc=5",
+      "site": "东方财富",
+      "siteUrl": "http://finance.eastmoney.com"
     },
     {
       "id": "FL-4e6669da8b0a",
@@ -231,18 +231,6 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
-      "id": "FL-f1c86563e0e4",
-      "date": "2026-09-27",
-      "dateISO": "Sun, 27 Sep 2026 17:10:36 GMT",
-      "ts": 1790529036000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "英国疏散美军所用基地附近居民 多人涉爆炸物被捕 - 央视网",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91MjNOYzJjSVZaVUpOZjQ3OGwtYnBaNUZNZi1BTUg0LXlDcjhueElmdjlqWTI1cF83YkdPdjVEUmo3a1FKSXVPTVhpNkVaVF8wNk5GbkJsVG1kQjAzRUtMWEpJMmgxMzNQcTl5bmRadTc4R2xuUVJEWA?oc=5",
-      "site": "央视网",
-      "siteUrl": "https://news.cctv.com"
-    },
-    {
       "id": "FL-340d5e981918",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
@@ -277,18 +265,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-435013707dbb",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 21:06:34 GMT",
-      "ts": 1790456794000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "雅典老城区爆炸事故致6死3伤 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PalBtWlYtLVkyQmRpWkxjQ1lOLS1VOEVsbUk2NGs2MV93ZUh0NnJodTBpS0Y3dnNEVExwWEE3Q0UxWjR1V3hUV2ZsSTZLOHVCSHllY0cydlQxbjVZcUNVVg?oc=5",
-      "site": "东方财富",
-      "siteUrl": "https://wap.eastmoney.com"
     },
     {
       "id": "FL-008d86b164a4",
@@ -327,18 +303,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-c2b5e87a66f1",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 07:00:00 GMT",
-      "ts": 1789801200000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "巴基斯坦西北部爆炸已致21死 巴总统称将继续反恐行动 - 央视网",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JdTVsYVVFWHBSX3JkaE5ocVh2cmtPd0NWVkpmT1EyOENqOGJZcHhnQllGeU9RYThKRTJmYnRVaXpEQ25RcGNGNi1LcmZJUUFnY2Q1cVVpS2dkSW8wQzJfSFI4U3FYMzdXNmJSWm1SdEpsckl2Y190Sg?oc=5",
-      "site": "央视网",
-      "siteUrl": "https://news.cctv.com"
-    },
-    {
       "id": "FL-33443b2c477e",
       "date": "2026-10-03",
       "dateISO": "Sat, 03 Oct 2026 13:44:21 GMT",
@@ -347,18 +311,6 @@
       "type": "blast",
       "title": "伊朗格什姆岛附近海域听到爆炸声 - 东方财富",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50eFV5dTdiQmNfZ1dGZ3pDRUxmMk1PLXFjZkJrT1A1cGtscmxiWnYxWDlQV3MwQy10aHN2VnZPZHFSY0E2YkpaczJiaGhNdFRqdHhaYWRlcEpnWmtZS2VmRw?oc=5",
-      "site": "东方财富",
-      "siteUrl": "https://wap.eastmoney.com"
-    },
-    {
-      "id": "FL-3ce2636483ca",
-      "date": "2026-10-03",
-      "dateISO": "Sat, 03 Oct 2026 10:39:12 GMT",
-      "ts": 1791023952000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "也门萨那传出爆炸声 疑似再次遭到空袭 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55MXdnN0RRSlZPYWVQR1BtUXMxaFJHa1lWU3FSSS1qRHN0X1lCRldraWNCRlhmZ3Zha1JfaVFvU2Z2T3lua2JkbnB6SWNFeGljRDNaZExfMGt1QlYzOHhNNQ?oc=5",
       "site": "东方财富",
       "siteUrl": "https://wap.eastmoney.com"
     },
@@ -397,6 +349,18 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUTVJ5aUFBbVdqenl2bWhvTVo3S1YtMFEyaE9YVk1jNDduY2t6YS10WDNqSmJkS2pPY0lFaF9SMkYzb3lMNFZTbUozSjB5MU5oS044Vi1ERDdJQWtrUXFJdDJCYjNOcjVVRWxkclJSZWg4RG8?oc=5",
       "site": "观察者网",
       "siteUrl": "https://www.guancha.cn"
+    },
+    {
+      "id": "FL-160d55aeb47e",
+      "date": "2026-06-22",
+      "dateISO": "Mon, 22 Jun 2026 07:00:00 GMT",
+      "ts": 1782111600000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "卡塔尔工厂爆炸已致13人死亡 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mR2pTX0YxWjBwQ2lLNC1XZjFhd3IwVEYtWkZFR3ZBU3B5RTFHR1BldmQ3OEkxN2NaWTMzYUkwWENDeEliY3dVNEloOExFS1B6SlZQTENHdWVmTWpUM042M2hRcmo4QS1qdl85cXlhZHJ3R3JGTEU4?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-d4e5d863dc58",
@@ -529,6 +493,18 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01WEF5ZkFxVWdUN21OLWdHTDlSN2c0dFhndVFycXNRTzk5bTFGUC0xWWhXaDFXVm1WMW5icWxrYmdnMjNmYnBMRXRkS0tnMWcxQUtMMjFvdUVkbWxKRGJPWmJrNWVNVjRuRXNMU2xCYllrQ0VfNTBVdg?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
+    },
+    {
+      "id": "FL-b042a088a326",
+      "date": "2026-08-03",
+      "dateISO": "Mon, 03 Aug 2026 07:00:00 GMT",
+      "ts": 1785740400000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "巴基斯坦西北部发生爆炸致14人死亡 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-c39833bbfc21",
