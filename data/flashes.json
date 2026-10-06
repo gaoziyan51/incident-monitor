@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T01:20:56.180Z",
+  "updated": "2026-10-06T01:36:36.229Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -113,12 +113,12 @@
     {
       "id": "FL-e648045c98c0",
       "date": "2026-10-04",
-      "dateISO": "Sun, 04 Oct 2026 14:08:52 GMT",
-      "ts": 1791122932000,
+      "dateISO": "Sun, 04 Oct 2026 13:43:52 GMT",
+      "ts": 1791121432000,
       "scope": "intl",
       "type": "blast",
       "title": "伊拉克西部“伊斯兰国”遗留炸弹爆炸致2人死亡 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RR0lWZEszX0NBTVNObmhhbExLWjFGUEx4UmkyYkhQcnFfdDYwcGNCbmlmWWdrY0g1MFoyV1hzbUNtbUVuaV9FMVpCdDJ6bDNKU1JEendDb2F4aldvT1AtWQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xeXJpbHVuR05xeUN2YTV1ZFNMd19NWi1IUEc5Q0VRWk9NTFZTNkcxdF9qUTJDdUt0UXNZcWE0NGY1SVBuOENqLWhhbjIyWnZBZjZ0a0w4amdCNTN3RjJDSg?oc=5",
       "site": "东方财富",
       "siteUrl": "https://wap.eastmoney.com"
     },
@@ -157,18 +157,6 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50ajJWMmw0dWRvT2JnSW01VnhEZDZ3WUVydFZlSjBabUVPMW16aHRaeTRiUDgwZzg4blo3bWVtOHJQaVNqYkxtb1hCdEtyQkJXOTFqeTJNWWtHbU1oZlZtdHFwZFVlRjM3clAyWFpralZNWkNIT3VyOQ?oc=5",
       "site": "央视网",
       "siteUrl": "https://news.cctv.com"
-    },
-    {
-      "id": "FL-1137187d6c33",
-      "date": "2026-10-04",
-      "dateISO": "Sun, 04 Oct 2026 06:10:00 GMT",
-      "ts": 1791094200000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "AI引发论文大爆炸，审稿体系濒临崩塌：arXiv也开始最严限流了 - 智源社区",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8zR1JwVWEzT293T3lLZ0N0TmFOX19ka05EZktXWWtUbzNPMWFFWkswR2ZJaXpWSUFvNUZoRV9TNHhBQW5yZVU2NA?oc=5",
-      "site": "智源社区",
-      "siteUrl": "https://hub.baai.ac.cn"
     },
     {
       "id": "FL-0615dd398028",
@@ -267,6 +255,18 @@
       "siteUrl": "https://amp.dw.com"
     },
     {
+      "id": "FL-d52930d7152c",
+      "date": "2026-10-03",
+      "dateISO": "Sat, 03 Oct 2026 08:41:00 GMT",
+      "ts": 1791016860000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "7人水泥地上烧烤突发爆炸火花四溅 消防科普：不良导热体风险很高 - 驱动之家",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82RUo4eUdEYXBFbXBBcW9ud09nZG5EbVJMUEZIemZ4WFNpZ0lBRlRwdWlzMWRMeXVNYXB2bng1QUJuOUEzbmE1MExLTUN1eVBJdTg4OVVzbms?oc=5",
+      "site": "驱动之家",
+      "siteUrl": "https://news.mydrivers.com"
+    },
+    {
       "id": "FL-fee9ee69aa03",
       "date": "2026-10-03",
       "dateISO": "Sat, 03 Oct 2026 00:34:00 GMT",
@@ -289,18 +289,6 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1maW1fck1mTTVrZ2FvWlJpbzhwOWNjUlpXSUNaWXozTE9DM3Y2V2VRMkFpcTdvSDJVZnFLMFo4VWZPRXEyb0RqcG42VFhnQ3UxTkhLVC1vb256RllQd0NSWGE2Smd1QlBGS2x0NTg0dTlSTDF6WEhKTw?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
-    },
-    {
-      "id": "FL-ce33533c2b3f",
-      "date": "2026-10-05",
-      "dateISO": "Mon, 05 Oct 2026 23:38:17 GMT",
-      "ts": 1791243497000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "土耳其一客机发现爆炸物威胁纸条 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSDFEenhwZ09sZFo1QmRMX2R2eG5UUFFVS1lONF9GQ2xzbWxKRExfbjMyUEhicnlIR1hlcWU0RUdvWjAtNUFsM1pWR2d4UVZHOHM4T284bmE1NDBWQmlzUjhuX1ZXNThZUDVzNEpMM1o4aGFxeEMyb3haOGlnTlhKal9DZWxpUVZk?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-28e86769c30b",
@@ -397,6 +385,18 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSVBQSHpNTF9DNDNKcFNxQVRNNnZvVHdwYS0wZUFXa283SDBKQlN6MmU4UGdtaEJGV3MybjhsLVBBTGU5am9WbWpYRE1WTy1ZSGZ3ZGJaU2M5XzgzWnd4TFBzVE1LSFNQQTNWVGdqeUhuYmktNFBGS293dzc3Nk1xMg?oc=5",
       "site": "wenxuecity.com",
       "siteUrl": "https://www.wenxuecity.com"
+    },
+    {
+      "id": "FL-78124f1d25b7",
+      "date": "2026-10-05",
+      "dateISO": "Mon, 05 Oct 2026 19:33:00 GMT",
+      "ts": 1791228780000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "土耳其一客机发现爆炸物威胁纸条 143人安全撤离 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWW96VmstRW5MUlh0a1E1a25iTzFMR3JQRWVFd2JsTkhBVWlib2dFaVpCV1llS1YwUHNtdENZWmNKYnFIRjRQVExiZkxVRHlPVzNHZkVITndITjNQTFNFTU9PUm1GM0l0S2xrOGM3MWhqUUw2Z1ZlTjVFWU9HNVU5bUlyZzA2djNyVFE1TDFKWXFlZVRjRk9GRllEOWZzOW54N1dCZlZUa2RvN2I1NGdkSGhaNmNnQk8ydEdhWGM0WDFOZ3Y5UnhhT3hyY3k5Ulk?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-0f3d62a84c1b",
