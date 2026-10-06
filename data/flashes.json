@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T06:47:08.378Z",
+  "updated": "2026-10-06T07:01:26.751Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -13,18 +13,6 @@
       "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPTnkxTGU0cTdDbEFjc1k5aDNPWi1GakladWZfME9ValRzUVhXekYxTmVCZDZ3cGZPMDFnQzhhN1BneXMyR09EVkc3UkVfUTdTdWw0bjVxTjhmVkMyZXZTM3ZHR1ZzSHFRaS1IclB2ZktIQ004ZjNGRlR4UUZJTEtpN3BIaVpqemNvRmZtN2puVXk0RzFualV1MWJwSUFqWXJ1ckFtVE9yWk5uVllNODZNd2tpSVRkazR6V2ozbmRubkdENTlmTW9hZlBxaUE3b3VJQk96Z3FWd25xWXowREFxZno0UXNnaEp4SWpLRGpmYkpfTmRmdl8ybTRxNUpKYzNXc0pLUFVlUExvOURPOU9DMldtRWxTbjM1MzFwZkZKTllRaHBqQlNHV2YtVW5EcHF1c3NKTS1fQjZKLWtvWTJwWkgxOFlPZHB0UTh3cWxnMXduV2RCc1dyLU5taWN1Y1Z2a3NNMG9hekVpb2o3UnRUVFhSbEFBSVlDZzBjS1RLT2dqZ0VOQkVYSXlya1Q?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr"
-    },
-    {
-      "id": "FL-af2cce547279",
-      "date": "2026-09-30",
-      "dateISO": "Wed, 30 Sep 2026 04:43:19 GMT",
-      "ts": 1790743399000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "韩军促朝停止边境加固工程并就爆炸事故道歉 - 联合早报",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3ZnZEaG1GeE9YY2lxS21Uc2RUZVRjWnl1ZlowQWNrN0dfU3N3ejBURkVsaEZnQlBfN2JGV2MzWkl3N3NBUnkyVlpjTEVqazE2Ujd2dmdNbVJ4V1EyNmxrTHJtSnZFelNjNkE?oc=5",
-      "site": "联合早报",
-      "siteUrl": "https://www.zaobao.com.sg"
     },
     {
       "id": "FL-8c4b8fbf34a9",
@@ -159,6 +147,18 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
+      "id": "FL-f39d5397a97c",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 07:00:00 GMT",
+      "ts": 1789628400000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "乌克兰首都基辅传出两轮强烈爆炸声 - 新华网客户端",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWWpuSUR1MjZraEN0ZGdYTmpXVXgwbmNEeG5veVZiWF9BeDFMS1hwV1lHeXlfOVpaTTdBT1oySGQ3VG5vdWxxTTYtTjExRlFUcHozZEJmSTZaNkJyUVZCV1dZbDlwcVhSQk0yM2lkYVMyOUpoT2dsTm5pYTBVcW5ZTXpEU0ljRWdiVjlMQlJkd3lrZERDcEVzcXF3?oc=5",
+      "site": "新华网客户端",
+      "siteUrl": "https://app.xinhuanet.com"
+    },
+    {
       "id": "FL-f1c86563e0e4",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 17:10:36 GMT",
@@ -191,18 +191,6 @@
       "type": "blast",
       "title": "一油轮在也门西南部海域航行时附近发生多次爆炸 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVUYtMTdiUVFTamVGQUg2ak9jSl8zcHMxY1g0OTEtTmxhR2FPdTN6VjBhcm9qcGY4cnluSW9ERFU1aXZTM0pfSmFQNXRBd1RwYzM4dkF2MFRGMExqTXRHaUZ4RU1SblZOUUtkM3NnVk5sUWtZb1VkRWlKUmZ2WEVJQzZuWGxnYlhkNUpv?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.cn"
-    },
-    {
-      "id": "FL-69f2a5dc6fd9",
-      "date": "2026-10-04",
-      "dateISO": "Sun, 04 Oct 2026 09:09:24 GMT",
-      "ts": 1791104964000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "乌克兰首都基辅响起强烈爆炸声 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WNWR2VUU5TGFiSEN6M0p6cFN6eVM5cksyU0tYZE5MYlE0MkcwVTctc1JJTVJmTzZRTEptUWprcVRHOHg3WHA1Y3BINFNod2NlcnRzUXRIOUJvX0RUTDdianA4ZFJ6ZGNZSF9pUkJxWWwzUWJfMkplQw?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
@@ -243,15 +231,15 @@
       "siteUrl": "https://wap.eastmoney.com"
     },
     {
-      "id": "FL-8497727bdbdb",
+      "id": "FL-008d86b164a4",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 15:30:00 GMT",
       "ts": 1790436600000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典发生爆炸，1名女游客遇难，5人失踪，事发卫城脚下，靠近奥林匹亚宙斯神庙 - cbgc.scol.com.cn",
+      "title": "雅典发生爆炸，1名女游客遇难，5人失踪，事发卫城脚下，靠近奥林匹亚宙斯神庙 - 川观新闻",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wT2VkbnNVQzB1dlFrSUpwQU5VbElha1Fyc3h0LVI1WFBMSldqQkRfMWkyeV94b1pPS0w5eFQtT1NxQjdRSkRkbm5yUE5iZw?oc=5",
-      "site": "cbgc.scol.com.cn",
+      "site": "川观新闻",
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
@@ -303,15 +291,15 @@
       "siteUrl": "https://wap.eastmoney.com"
     },
     {
-      "id": "FL-6a0eaca36f01",
+      "id": "FL-c9cc98fcf112",
       "date": "2026-10-03",
       "dateISO": "Sat, 03 Oct 2026 09:44:09 GMT",
       "ts": 1791020649000,
       "scope": "intl",
       "type": "blast",
-      "title": "拒绝就地雷爆炸道歉 朝鲜再射弹道导弹 - DW.com",
+      "title": "拒绝就地雷爆炸道歉 朝鲜再射弹道导弹 - dw.com",
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQdjU0NXJ5bVR5U055cWlqMXFiYUVmWVVuOU9jeHdsNHdSZzB1STdsS0xZRTBTVHBfV2JVdVJKZzZRdV9zbTE0b2psTy11Vnhic1Y0R2RsUUJCS3l5OUhhbUQyTzJfRC1WVUlROU94VkRodVZlQkwxRVVER3JMcDZSanVkU3hfTUNRV1FGRlJWNGFMOVZRTnhaVlVxb3A5RGFFUl9zYjg0LXVKdE5GQlRVYUhaSjctUFMtVklXYjlkR3d6Tl9jSWJLZWpXbmpFZUt3TmFwbkVGQUNNNlU1Skp5dXY3OFVGRDkyMC02QUluaGpBWkhrTEt5SGVtVzNLWVJsSzVHUlVsTGswV3dhRlJkbXlsOGZMd9IBlgJBVV95cUxQdjU0NXJ5bVR5U055cWlqMXFiYUVmWVVuOU9jeHdsNHdSZzB1STdsS0xZRTBTVHBfV2JVdVJKZzZRdV9zbTE0b2psTy11Vnhic1Y0R2RsUUJCS3l5OUhhbUQyTzJfRC1WVUlROU94VkRodVZlQkwxRVVER3JMcDZSanVkU3hfTUNRV1FGRlJWNGFMOVZRTnhaVlVxb3A5RGFFUl9zYjg0LXVKdE5GQlRVYUhaSjctUFMtVklXYjlkR3d6Tl9jSWJLZWpXbmpFZUt3TmFwbkVGQUNNNlU1Skp5dXY3OFVGRDkyMC02QUluaGpBWkhrTEt5SGVtVzNLWVJsSzVHUlVsTGswV3dhRlJkbXlsOGZMdw?oc=5",
-      "site": "DW.com",
+      "site": "dw.com",
       "siteUrl": "https://amp.dw.com"
     },
     {
@@ -375,16 +363,16 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
-      "id": "FL-11b1a4224e08",
+      "id": "FL-4a6262c97db5",
       "date": "2026-10-05",
-      "dateISO": "Mon, 05 Oct 2026 21:12:06 GMT",
-      "ts": 1791234726000,
+      "dateISO": "Mon, 05 Oct 2026 21:14:16 GMT",
+      "ts": 1791234856000,
       "scope": "intl",
       "type": "blast",
-      "title": "沙特阿拉伯首都利雅得5日晚传出爆炸声 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNSFppY1pBRTdNTU5ocUxiTkZ4THBrTUxBYUwtZ2hDQTFtMzhCajJjd21ZWXB5eVB1S25xUHpRbHd3T1ZWNUFpbjFEenVQbGhUZzRaUEk5cFJpZExnTm1ibU5oWmpDdw?oc=5",
-      "site": "东方财富",
-      "siteUrl": "https://finance.eastmoney.com"
+      "title": "沙特阿拉伯首都利雅得5日晚传出爆炸声 - emwap.eastmoney.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE43UmVfQ1NidlNkMVYtaGo1VkRqa2VabE1TZTMtVDVCUl9od0wyTEFCaFVhZ3I0LVM3RUhack1HS2hkc1pRd3pLZVNUX1hzRmN6REJ4ZGUyb3RXRHZyNzF2ajllRQ?oc=5",
+      "site": "emwap.eastmoney.com",
+      "siteUrl": "https://emwap.eastmoney.com"
     },
     {
       "id": "FL-084046f4ae88",
@@ -529,18 +517,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4ZDNJRUZCTEhUSjBSQmZUbHIyX0ZieXJBS0VGd3lxaVd0MngyN0gxdFNnNW9EXzdyNUhWLWxNODQtNVVmX01PcUw4YnFObkdBOUJMUDJmOWJEU3FxaFllMExR?oc=5",
       "site": "苏州新闻",
       "siteUrl": "https://news.2500sz.com"
-    },
-    {
-      "id": "FL-d575bf6801d7",
-      "date": "2026-10-05",
-      "dateISO": "Mon, 05 Oct 2026 00:15:47 GMT",
-      "ts": 1791159347000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "德总理会见乌总统警报爆炸声不断 基辅再遭袭击 - 中华军事",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80Z1BQZ0Z1MjBydzNpWV9HajhxR1luM3g5VlFJZ196WGRVOTNNVmhLYkg0ckxDTmxoS21BLUxtTTJ0eUdKY2hZNlVqSVQzUGtpdmtINjJCVDZXYWlqRGFBaDlhV1Y1Y2VaUV9uV1NkMVE?oc=5",
-      "site": "中华军事",
-      "siteUrl": "https://military.china.com"
     },
     {
       "id": "FL-c39833bbfc21",
