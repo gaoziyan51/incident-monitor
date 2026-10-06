@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T04:39:16.423Z",
+  "updated": "2026-10-06T04:52:02.169Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -399,18 +399,6 @@
       "siteUrl": "https://csgo.5eplay.com"
     },
     {
-      "id": "FL-53830f478f11",
-      "date": "2026-10-05",
-      "dateISO": "Mon, 05 Oct 2026 13:02:00 GMT",
-      "ts": 1791205320000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "韩国指非军事区爆炸地雷由朝鲜埋设 要求道歉及清除相关地雷 - gbcode.rthk.hk",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU25lbzFFLU9CR0N0T1FnVUhKY29HSHNzRG03TXFjemZZZGNpX1lpcktnRkNVS2lfV2tYTldtSVg1al9fZW1CNF9XLUtDbVB2WEtxLTVMWFVyQjc4LXE1eEVIbnhJQWFoWEVxMFFHRmRvbGxmQUNWSklvU2xsNXlEY3Rzc2p4Tno3THBKYUpXYnJEYjlFNGNaRHVWWW56M0xhTjFj?oc=5",
-      "site": "gbcode.rthk.hk",
-      "siteUrl": "https://gbcode.rthk.hk"
-    },
-    {
       "id": "FL-befe95f44955",
       "date": "2026-10-05",
       "dateISO": "Mon, 05 Oct 2026 12:10:25 GMT",
@@ -531,18 +519,6 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-d575bf6801d7",
-      "date": "2026-10-05",
-      "dateISO": "Mon, 05 Oct 2026 00:15:47 GMT",
-      "ts": 1791159347000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "德总理会见乌总统警报爆炸声不断 基辅再遭袭击 - 中华军事",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80Z1BQZ0Z1MjBydzNpWV9HajhxR1luM3g5VlFJZ196WGRVOTNNVmhLYkg0ckxDTmxoS21BLUxtTTJ0eUdKY2hZNlVqSVQzUGtpdmtINjJCVDZXYWlqRGFBaDlhV1Y1Y2VaUV9uV1NkMVE?oc=5",
-      "site": "中华军事",
-      "siteUrl": "https://military.china.com"
-    },
-    {
       "id": "FL-c39833bbfc21",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 22:10:00 GMT",
@@ -567,15 +543,15 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-5fdbd83a7698",
+      "id": "FL-a1625e58e48d",
       "date": "2026-10-02",
       "dateISO": "Fri, 02 Oct 2026 18:00:08 GMT",
       "ts": 1790964008000,
-      "scope": "dom",
+      "scope": "intl",
       "type": "blast",
-      "title": "美提升核爆炸探测能力，中共秘密核试验和陈友麟案件再引关注 - voachinese.com",
+      "title": "美提升核爆炸探测能力，中共秘密核试验和陈友麟案件再引关注 - 美国之音",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN1gtb1drX1hWS3NBMzU4MlNRVEJ1TkUzQmJCR1B0a3VFS2MxU05ZTTZ1UjlmZnJZU2JYNHgyOGVwZ1dUZjdIZ3hxaWlPNGZsQTc3VjRlRTlPd3hlR1d2b3RVVE92dUwzMTlwVVB1TmphZUN1OG5iTU5WYU5EZjJmM3BpNHctZ3ljVTgtTXJuX1YzeVM2bmVmTkEzZzBnczIzSFFRWmxHRGd2SUdVb01wNGZsSmVVOWlYcG1LZHZYWk1BQU9wcnhhb3Q2dVZXaDlUSHNqZ9IB1wFBVV95cUxNWnRiOWpoQ21MQ0tYTkh0c3hWVTFSbV9ZQlcxWUF4SmtBanZHZmNIc296ZkJUcjBIVnZlTmZDZXY3WnlfWXJPWmU0WHYxa1F4RlFxWDlaMjlaRGtCYTdTVU9fa3JaMkVlSllKZWVObWpKS1o3ZVZlNTk3RGN6ejJGSTFCbTd2RFVYM2FfQk5heEcxWDYtc0Q3bDl4Wnp5em1ZdE9WZi11VTd6bi1TWnlycUc2VmR5eUJ6Mk15Y1ZCQlhrc2tmcWpKTVpRZlpEbjFYU1JhTWZBOA?oc=5",
-      "site": "voachinese.com",
+      "site": "美国之音",
       "siteUrl": "https://www.voachinese.com"
     },
     {
