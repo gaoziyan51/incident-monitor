@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T23:32:16.582Z",
+  "updated": "2026-10-06T23:46:51.509Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -39,6 +39,18 @@
       "siteUrl": "https://science.caixin.com"
     },
     {
+      "id": "FL-783d69359b46",
+      "date": "2026-10-06",
+      "dateISO": "Tue, 06 Oct 2026 23:32:56 GMT",
+      "ts": 1791329576000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "也门首都萨那传出爆炸声 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ia01FbU1qeE16dXlLWHFLRnB3Um5yN3ctU0VtTHg4RVFoTU9Nclk3bzNPSlc1bWdaTkNZTnZrdHdrV1lHVkt3ZUxXU1lxbVd0LVgwSE9OTGxnVm85RUczWQ?oc=5",
+      "site": "东方财富",
+      "siteUrl": "https://wap.eastmoney.com"
+    },
+    {
       "id": "FL-3278c20197b5",
       "date": "2026-10-06",
       "dateISO": "Tue, 06 Oct 2026 22:45:56 GMT",
@@ -73,18 +85,6 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSnBXellEajhEbE41YzVwamdGQWxieHBRYThGdkVpeHJzeVYteDhEZmZUT0dINUdLT0VraUU1M1MwcmIzSGd2aUdJenVmV0NISDFKS1BZMjB6V1VnLURCdHp5c3hTX1Z3VU1vR3k1SGVKT3lxdi1OY2tqUzJhOXBBejdYS2w3aGlvUGRET2I5YXA?oc=5",
       "site": "KOAT",
       "siteUrl": "https://www.koat.com"
-    },
-    {
-      "id": "FL-783d69359b46",
-      "date": "2026-10-06",
-      "dateISO": "Tue, 06 Oct 2026 21:24:26 GMT",
-      "ts": 1791321866000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "也门首都萨那传出爆炸声 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96NE1xOXFTbkZsQlVqS0ZpNzZwS2U4ckRIdURwUjZjLXNyQ0RocmdjeGFxak5pejBFRGRaUThjeVlFQ1ZDenM5TVBsMVZfZ2lFQ2NCNVk4TTJIM0VoNjBwUURnWQ?oc=5",
-      "site": "东方财富",
-      "siteUrl": "https://emwap.eastmoney.com"
     },
     {
       "id": "FL-586150226505",
@@ -241,6 +241,30 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4ySW5wX2lXUTFDRFFyRkNIeEZrbzNwRFkxU0k5Z0E3YkNQRFZzSGJkZkZlNU85LXJMZmRkVVU1S2NFSWlVV2NfbGFSUQ?oc=5",
       "site": "手机新浪网",
       "siteUrl": "https://wap.cj.sina.cn"
+    },
+    {
+      "id": "FL-e7a56aff2279",
+      "date": "2026-10-06",
+      "dateISO": "Tue, 06 Oct 2026 09:10:07 GMT",
+      "ts": 1791277807000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "韩国公布非军事区地雷爆炸事件最终调查结果 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUlRpNGxLcWpISFdtN0MzRmRXWGJ6ZzMxQVBxTi02Q2xGeU5VT2RCRTJDQVVpOFpwcHV3N3VCR1owbF91eWs4SjJ1blBza1c3LUVhU2g5QWwtWFktUC1LcG8zWF9pNzZvT1VrLTdZMWNTYVQxRkE0NkJMeC1tbGcyMS1hZ25oWkNI?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-1cca0bcbf9a0",
+      "date": "2026-10-06",
+      "dateISO": "Tue, 06 Oct 2026 07:46:11 GMT",
+      "ts": 1791272771000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "沙特首都接连传出爆炸声 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LTVNDWW1DTkhFRHdDRWFIUUxqN3cwM2x3N3pCY2h4SnF5QngyLWFqaHZXU2xtbHB0WHFScEpkZjVWWGJvX2UzTXdLNDRzQ1F0cFF4LTJwS2dhaG81ZUE?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn"
     },
     {
       "id": "FL-11b1a4224e08",
@@ -459,28 +483,16 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-7c7995a53083",
+      "id": "FL-8ce2adcac093",
       "date": "2026-10-05",
-      "dateISO": "Mon, 05 Oct 2026 23:38:17 GMT",
-      "ts": 1791243497000,
+      "dateISO": "Mon, 05 Oct 2026 23:30:03 GMT",
+      "ts": 1791243003000,
       "scope": "intl",
       "type": "blast",
-      "title": "土耳其一客机发现爆炸物威胁纸条 - 手机搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSDFEenhwZ09sZFo1QmRMX2R2eG5UUFFVS1lONF9GQ2xzbWxKRExfbjMyUEhicnlIR1hlcWU0RUdvWjAtNUFsM1pWR2d4UVZHOHM4T284bmE1NDBWQmlzUjhuX1ZXNThZUDVzNEpMM1o4aGFxeEMyb3haOGlnTlhKal9DZWxpUVZk?oc=5",
-      "site": "手机搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-2f053de04fd5",
-      "date": "2026-10-05",
-      "dateISO": "Mon, 05 Oct 2026 23:12:25 GMT",
-      "ts": 1791241945000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "沙特首都接连传出爆炸声 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa096X2g2d2RmUEFoU2NQQlA3RTRZZGEtTlFVRWlxTWdSV29GMjIycVY4ZjMyb01vaFdHX25Ic2J4ZmVHNWZqRWl4WlRza0l5TkpLNzBVd0lCYnFnQkQ5bC1JT2VFWVAwZERQMS1pSDNIMzJoNVZNUlhOa2NoNmZMaFlILUpCOVpo?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
+      "title": "土耳其一客机发现爆炸物威胁纸条 143人安全撤离 - 央广网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1LNHRDbmRKb0l6MnFrTTk5WlV2RHNJWEhZTWFRU0g4dWFEbzFpZEMwQ1BUZS1iZlFTZzhGdDA0azNoOXZzSlcySG5KV3hTbEl1V1RMLXAySWxPaGpVR0xCZ0hnMk5NR3ll?oc=5",
+      "site": "央广网",
+      "siteUrl": "https://news.cnr.cn"
     },
     {
       "id": "FL-f3b60c92a454",
@@ -495,16 +507,16 @@
       "siteUrl": "https://www.wenxuecity.com"
     },
     {
-      "id": "FL-9bdff15034d5",
+      "id": "FL-a6656341c573",
       "date": "2026-10-05",
-      "dateISO": "Mon, 05 Oct 2026 10:35:03 GMT",
-      "ts": 1791196503000,
+      "dateISO": "Mon, 05 Oct 2026 17:07:00 GMT",
+      "ts": 1791220020000,
       "scope": "intl",
       "type": "blast",
-      "title": "韩国公布非军事区地雷爆炸事件最终调查结果 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83YV9GeVR4blJQMDhnUG1PRVNtMjBYbzBXdUZ5Ry1RdXJuVDBSaWItSTE4SUt4Vi1QcXRwM2tFUEo4aHd1Um1rT0JHRHUyNkh6ZlNuX0NhMjE0OE5aRmFnMDcyRmR1cTV4WWQtaGxrRC1vVzJFazJFYXpVeG1vMVk?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
+      "title": "韩国公布非军事区地雷爆炸事件最终调查结果 - 中国网新闻中心",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4WWg4Mk9tQ3pZelFNVXZhTGRlTGpoX19OSmQ5a2NhTkFaYnVFeU9GbkYyN0NHdWwzb3FiT1pZckpnajBTLVpwWVoxbFllWDdHZC1rb2ZVWG80NWR0cXJQMVpDZFBYREowM3pF?oc=5",
+      "site": "中国网新闻中心",
+      "siteUrl": "http://news.china.com.cn"
     },
     {
       "id": "FL-e3eaa7d3da44",
@@ -517,18 +529,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4ZDNJRUZCTEhUSjBSQmZUbHIyX0ZieXJBS0VGd3lxaVd0MngyN0gxdFNnNW9EXzdyNUhWLWxNODQtNVVmX01PcUw4YnFObkdBOUJMUDJmOWJEU3FxaFllMExR?oc=5",
       "site": "苏州新闻",
       "siteUrl": "https://news.2500sz.com"
-    },
-    {
-      "id": "FL-2c0706671459",
-      "date": "2026-10-05",
-      "dateISO": "Mon, 05 Oct 2026 00:39:55 GMT",
-      "ts": 1791160795000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "重磅盛会今日在上海开启！人气爆款“爆炸头”回归，还有全明星犬选美赛哦~ - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01WEF5ZkFxVWdUN21OLWdHTDlSN2c0dFhndVFycXNRTzk5bTFGUC0xWWhXaDFXVm1WMW5icWxrYmdnMjNmYnBMRXRkS0tnMWcxQUtMMjFvdUVkbWxKRGJPWmJrNWVNVjRuRXNMU2xCYllrQ0VfNTBVdg?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-b042a088a326",
