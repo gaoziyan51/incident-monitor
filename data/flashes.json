@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T04:22:22.990Z",
+  "updated": "2026-10-06T04:39:16.423Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,15 +15,27 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-f2b0d890fac1",
+      "id": "FL-af2cce547279",
+      "date": "2026-09-30",
+      "dateISO": "Wed, 30 Sep 2026 04:43:19 GMT",
+      "ts": 1790743399000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "韩军促朝停止边境加固工程并就爆炸事故道歉 - 联合早报",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3ZnZEaG1GeE9YY2lxS21Uc2RUZVRjWnl1ZlowQWNrN0dfU3N3ejBURkVsaEZnQlBfN2JGV2MzWkl3N3NBUnkyVlpjTEVqazE2Ujd2dmdNbVJ4V1EyNmxrTHJtSnZFelNjNkE?oc=5",
+      "site": "联合早报",
+      "siteUrl": "https://www.zaobao.com.sg"
+    },
+    {
+      "id": "FL-8c4b8fbf34a9",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 16:00:00 GMT",
       "ts": 1790697600000,
       "scope": "dom",
       "type": "blast",
-      "title": "香港：创办“爆炸头”的独立记者邓浩荣被捕，无国界记者对此表示谴责 - rsf.org",
+      "title": "香港：创办“爆炸头”的独立记者邓浩荣被捕，无国界记者对此表示谴责 - RSF",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMlRKMUY5SGZlT3h5ekRqeGFkd2xRQVJkQ3Jlb05WX3Rqa2hiNU5RdUVZaDV5TGR1YV9jdUFuQlI4ekhPSDlnQlJLbmlIOVJhenhlYVBwN0NoakJkMUt2ckdYN2tSSW9nN3RXWU9iTkFWbEI5THZxOHFiSVdKLUVOOGJVUmVoTm1zajk2Q1JKUm5OSW1hQXlwcUx5TjJscVBrXzNmRWplR2hKNXM?oc=5",
-      "site": "rsf.org",
+      "site": "RSF",
       "siteUrl": "https://rsf.org"
     },
     {
@@ -63,15 +75,15 @@
       "siteUrl": "https://cn.yna.co.kr"
     },
     {
-      "id": "FL-6612abd30963",
+      "id": "FL-71366697633a",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 07:00:00 GMT",
       "ts": 1789628400000,
       "scope": "dom",
       "type": "blast",
-      "title": "宇宙大爆炸最初五分钟氦丰度获最精确测量 - 中国科技网",
+      "title": "宇宙大爆炸最初五分钟氦丰度获最精确测量 - stdaily.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MzVkcXZnR2UwelNkenFIYVFYVzBPcUxUQ1VSaUVHcV9LYVJnZzhjQWZzM09DNk8wc0xVNlo2amRqNjBueWtVeTdSbkJZT053RjRSZDhmeXJyT19wekF3UHB6WERtZkxLaFFwT2pVWTE?oc=5",
-      "site": "中国科技网",
+      "site": "stdaily.com",
       "siteUrl": "https://www.stdaily.com"
     },
     {
@@ -111,27 +123,27 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-943e1751b27b",
+      "id": "FL-53512de66abc",
       "date": "2026-10-04",
       "dateISO": "Sun, 04 Oct 2026 22:02:34 GMT",
       "ts": 1791151354000,
       "scope": "intl",
       "type": "blast",
-      "title": "一油轮在也门西南部海域航行时附近发生多次爆炸 - finance.sina.cn",
+      "title": "一油轮在也门西南部海域航行时附近发生多次爆炸 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVUYtMTdiUVFTamVGQUg2ak9jSl8zcHMxY1g0OTEtTmxhR2FPdTN6VjBhcm9qcGY4cnluSW9ERFU1aXZTM0pfSmFQNXRBd1RwYzM4dkF2MFRGMExqTXRHaUZ4RU1SblZOUUtkM3NnVk5sUWtZb1VkRWlKUmZ2WEVJQzZuWGxnYlhkNUpv?oc=5",
-      "site": "finance.sina.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-d1577639e1ee",
+      "id": "FL-69f2a5dc6fd9",
       "date": "2026-10-04",
       "dateISO": "Sun, 04 Oct 2026 09:09:24 GMT",
       "ts": 1791104964000,
       "scope": "intl",
       "type": "blast",
-      "title": "乌克兰首都基辅响起强烈爆炸声 - finance.sina.cn",
+      "title": "乌克兰首都基辅响起强烈爆炸声 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WNWR2VUU5TGFiSEN6M0p6cFN6eVM5cksyU0tYZE5MYlE0MkcwVTctc1JJTVJmTzZRTEptUWprcVRHOHg3WHA1Y3BINFNod2NlcnRzUXRIOUJvX0RUTDdianA4ZFJ6ZGNZSF9pUkJxWWwzUWJfMkplQw?oc=5",
-      "site": "finance.sina.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -231,27 +243,39 @@
       "siteUrl": "https://amp.dw.com"
     },
     {
-      "id": "FL-85440e6fc5c2",
+      "id": "FL-fee9ee69aa03",
       "date": "2026-10-03",
       "dateISO": "Sat, 03 Oct 2026 00:34:00 GMT",
       "ts": 1790987640000,
       "scope": "intl",
       "type": "blast",
-      "title": "英国：这名28岁英国伞兵，在乌克兰死于爆炸 - guancha.cn",
+      "title": "英国：这名28岁英国伞兵，在乌克兰死于爆炸 - 观察者网",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUTVJ5aUFBbVdqenl2bWhvTVo3S1YtMFEyaE9YVk1jNDduY2t6YS10WDNqSmJkS2pPY0lFaF9SMkYzb3lMNFZTbUozSjB5MU5oS044Vi1ERDdJQWtrUXFJdDJCYjNOcjVVRWxkclJSZWg4RG8?oc=5",
-      "site": "guancha.cn",
+      "site": "观察者网",
       "siteUrl": "https://www.guancha.cn"
     },
     {
-      "id": "FL-bf2f2765f4d5",
+      "id": "FL-97d49aefb021",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 07:00:00 GMT",
+      "ts": 1789974000000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "韩朝非军事区疑发生地雷爆炸，韩军3人受伤 - 观察者网",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42MkZYMS15SmtDSk1JNGN3N2dwZjRuTkVON2dKc3VGbzMxYTZmTWMwM2Y4dWYwZkxJZzN3QTNWQXNwc20zb0NZbEUyRnBYRUNabEhTd1lkTlU1QzJuSGx1enBuVEpTS0ZvSFJVWWJiZElLclk?oc=5",
+      "site": "观察者网",
+      "siteUrl": "https://www.guancha.cn"
+    },
+    {
+      "id": "FL-d4e5d863dc58",
       "date": "2026-10-05",
       "dateISO": "Mon, 05 Oct 2026 23:41:37 GMT",
       "ts": 1791243697000,
       "scope": "intl",
       "type": "blast",
-      "title": "沙特首都利雅得接连传出爆炸声 - finance.sina.cn",
+      "title": "沙特首都利雅得接连传出爆炸声 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1maW1fck1mTTVrZ2FvWlJpbzhwOWNjUlpXSUNaWXozTE9DM3Y2V2VRMkFpcTdvSDJVZnFLMFo4VWZPRXEyb0RqcG42VFhnQ3UxTkhLVC1vb256RllQd0NSWGE2Smd1QlBGS2x0NTg0dTlSTDF6WEhKTw?oc=5",
-      "site": "finance.sina.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -315,39 +339,39 @@
       "siteUrl": "https://news.sina.com.cn"
     },
     {
-      "id": "FL-11b1a4224e08",
+      "id": "FL-4a6262c97db5",
       "date": "2026-10-05",
       "dateISO": "Mon, 05 Oct 2026 21:14:16 GMT",
       "ts": 1791234856000,
       "scope": "intl",
       "type": "blast",
-      "title": "沙特阿拉伯首都利雅得5日晚传出爆炸声 - 东方财富",
+      "title": "沙特阿拉伯首都利雅得5日晚传出爆炸声 - emwap.eastmoney.com",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE43UmVfQ1NidlNkMVYtaGo1VkRqa2VabE1TZTMtVDVCUl9od0wyTEFCaFVhZ3I0LVM3RUhack1HS2hkc1pRd3pLZVNUX1hzRmN6REJ4ZGUyb3RXRHZyNzF2ajllRQ?oc=5",
-      "site": "东方财富",
+      "site": "emwap.eastmoney.com",
       "siteUrl": "https://emwap.eastmoney.com"
     },
     {
-      "id": "FL-73795d5c0ab7",
+      "id": "FL-084046f4ae88",
       "date": "2026-10-05",
-      "dateISO": "Mon, 05 Oct 2026 20:57:45 GMT",
-      "ts": 1791233865000,
+      "dateISO": "Mon, 05 Oct 2026 20:57:47 GMT",
+      "ts": 1791233867000,
       "scope": "dom",
       "type": "blast",
-      "title": "【视频】迈巴赫GLS480也跌爆炸了 - chejiahao.autohome.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44NkY2SXpBZTZ5Y3RPRkFwMmpnZ2E1QTRmS3FPZ3lRRExTTU12QTJOcFJHREdhNV84bE1wSi1pby0xRDdydVVDczVOandPUGF0aUY5dThVeGRtczQ2QmlabHdab3ZzUTRpUU9F?oc=5",
-      "site": "chejiahao.autohome.com.cn",
+      "title": "【视频】迈巴赫GLS480也跌爆炸了 - 汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IMzdLLXdsYlFRRUQxVUZ1SmE5UkRQWm9yZVBBMjBEc1NKSmJ2QmVIM2RSVHFHWDA4cXRyLUsyUjVwQkUxQlA4U0tFaVJSaXBRcFRNc01fLWtXdDQ?oc=5",
+      "site": "汽车之家",
       "siteUrl": "https://chejiahao.autohome.com.cn"
     },
     {
-      "id": "FL-932d7f5c908c",
+      "id": "FL-f3b60c92a454",
       "date": "2026-10-05",
       "dateISO": "Mon, 05 Oct 2026 20:55:21 GMT",
       "ts": 1791233721000,
       "scope": "dom",
       "type": "blast",
-      "title": "Hinton联合20多位AI大牛警告:“智能爆炸”或已不远 - wenxuecity.com",
+      "title": "Hinton联合20多位AI大牛警告:“智能爆炸”或已不远 - 文学城",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZNW1uYXZYM2hGaEdJaTZUNDRhanlNa1FBU01wMXVrcDNBWjVUSFdqTU92bnFNU0dHVFZRejJtUUlIdll1QU04ZjFBX3RSZUs4QVpzME83OXIzOGo2WFU0QTJydXliNEYy?oc=5",
-      "site": "wenxuecity.com",
+      "site": "文学城",
       "siteUrl": "https://www.wenxuecity.com"
     },
     {
@@ -471,15 +495,15 @@
       "siteUrl": "https://k.sina.com.cn"
     },
     {
-      "id": "FL-fd62a6188e66",
+      "id": "FL-e3eaa7d3da44",
       "date": "2026-10-05",
       "dateISO": "Mon, 05 Oct 2026 02:06:20 GMT",
       "ts": 1791165980000,
       "scope": "dom",
       "type": "blast",
-      "title": "红色旋风燃爆主场 - news.2500sz.com",
+      "title": "红色旋风燃爆主场 - 苏州新闻",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4ZDNJRUZCTEhUSjBSQmZUbHIyX0ZieXJBS0VGd3lxaVd0MngyN0gxdFNnNW9EXzdyNUhWLWxNODQtNVVmX01PcUw4YnFObkdBOUJMUDJmOWJEU3FxaFllMExR?oc=5",
-      "site": "news.2500sz.com",
+      "site": "苏州新闻",
       "siteUrl": "https://news.2500sz.com"
     },
     {
@@ -495,15 +519,15 @@
       "siteUrl": "https://news.sina.com.cn"
     },
     {
-      "id": "FL-91c3c77dc827",
+      "id": "FL-2c0706671459",
       "date": "2026-10-05",
       "dateISO": "Mon, 05 Oct 2026 00:39:55 GMT",
       "ts": 1791160795000,
       "scope": "dom",
       "type": "blast",
-      "title": "重磅盛会今日在上海开启！人气爆款“爆炸头”回归，还有全明星犬选美赛哦~ - finance.sina.cn",
+      "title": "重磅盛会今日在上海开启！人气爆款“爆炸头”回归，还有全明星犬选美赛哦~ - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01WEF5ZkFxVWdUN21OLWdHTDlSN2c0dFhndVFycXNRTzk5bTFGUC0xWWhXaDFXVm1WMW5icWxrYmdnMjNmYnBMRXRkS0tnMWcxQUtMMjFvdUVkbWxKRGJPWmJrNWVNVjRuRXNMU2xCYllrQ0VfNTBVdg?oc=5",
-      "site": "finance.sina.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -543,15 +567,15 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-a1625e58e48d",
+      "id": "FL-5fdbd83a7698",
       "date": "2026-10-02",
       "dateISO": "Fri, 02 Oct 2026 18:00:08 GMT",
       "ts": 1790964008000,
-      "scope": "intl",
+      "scope": "dom",
       "type": "blast",
-      "title": "美提升核爆炸探测能力，中共秘密核试验和陈友麟案件再引关注 - 美国之音",
+      "title": "美提升核爆炸探测能力，中共秘密核试验和陈友麟案件再引关注 - voachinese.com",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN1gtb1drX1hWS3NBMzU4MlNRVEJ1TkUzQmJCR1B0a3VFS2MxU05ZTTZ1UjlmZnJZU2JYNHgyOGVwZ1dUZjdIZ3hxaWlPNGZsQTc3VjRlRTlPd3hlR1d2b3RVVE92dUwzMTlwVVB1TmphZUN1OG5iTU5WYU5EZjJmM3BpNHctZ3ljVTgtTXJuX1YzeVM2bmVmTkEzZzBnczIzSFFRWmxHRGd2SUdVb01wNGZsSmVVOWlYcG1LZHZYWk1BQU9wcnhhb3Q2dVZXaDlUSHNqZ9IB1wFBVV95cUxNWnRiOWpoQ21MQ0tYTkh0c3hWVTFSbV9ZQlcxWUF4SmtBanZHZmNIc296ZkJUcjBIVnZlTmZDZXY3WnlfWXJPWmU0WHYxa1F4RlFxWDlaMjlaRGtCYTdTVU9fa3JaMkVlSllKZWVObWpKS1o3ZVZlNTk3RGN6ejJGSTFCbTd2RFVYM2FfQk5heEcxWDYtc0Q3bDl4Wnp5em1ZdE9WZi11VTd6bi1TWnlycUc2VmR5eUJ6Mk15Y1ZCQlhrc2tmcWpKTVpRZlpEbjFYU1JhTWZBOA?oc=5",
-      "site": "美国之音",
+      "site": "voachinese.com",
       "siteUrl": "https://www.voachinese.com"
     },
     {
