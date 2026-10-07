@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T02:04:03.530Z",
+  "updated": "2026-10-07T02:21:02.799Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -13,6 +13,18 @@
       "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPTnkxTGU0cTdDbEFjc1k5aDNPWi1GakladWZfME9ValRzUVhXekYxTmVCZDZ3cGZPMDFnQzhhN1BneXMyR09EVkc3UkVfUTdTdWw0bjVxTjhmVkMyZXZTM3ZHR1ZzSHFRaS1IclB2ZktIQ004ZjNGRlR4UUZJTEtpN3BIaVpqemNvRmZtN2puVXk0RzFualV1MWJwSUFqWXJ1ckFtVE9yWk5uVllNODZNd2tpSVRkazR6V2ozbmRubkdENTlmTW9hZlBxaUE3b3VJQk96Z3FWd25xWXowREFxZno0UXNnaEp4SWpLRGpmYkpfTmRmdl8ybTRxNUpKYzNXc0pLUFVlUExvOURPOU9DMldtRWxTbjM1MzFwZkZKTllRaHBqQlNHV2YtVW5EcHF1c3NKTS1fQjZKLWtvWTJwWkgxOFlPZHB0UTh3cWxnMXduV2RCc1dyLU5taWN1Y1Z2a3NNMG9hekVpb2o3UnRUVFhSbEFBSVlDZzBjS1RLT2dqZ0VOQkVYSXlya1Q?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr"
+    },
+    {
+      "id": "FL-b72bffebe851",
+      "date": "2026-10-07",
+      "dateISO": "Wed, 07 Oct 2026 02:00:00 GMT",
+      "ts": 1791338400000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "Hinton 联合20多位AI 大牛警告：“智能爆炸”时代要来了 - CSDN博客",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42RVkxV3pzVGFxOTF0MzVmaXlKY2FKbmZwakVmREltT1VFSHlkMTJYN3B3ejhnV3pTcFFzNDJjdFNad2N0Ql9yemgxa214QWdGWDlpeVQ3WkZYYTdMLXhSMWV2NHpsZTNQaXZpQ2JR?oc=5",
+      "site": "CSDN博客",
+      "siteUrl": "https://blog.csdn.net"
     },
     {
       "id": "FL-b0ebb74149bf",
@@ -255,6 +267,18 @@
       "siteUrl": "https://www.zaochenbao.com"
     },
     {
+      "id": "FL-b50ca2b58258",
+      "date": "2026-10-06",
+      "dateISO": "Tue, 06 Oct 2026 11:05:00 GMT",
+      "ts": 1791284700000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "数学大爆炸，OpenAI 一夜攻克722个数学难题，准黎曼猜想已被证明 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80cjdsbWgxNjM3V2NSSE5TLW1VS184TTJlMnV5SHBUTERZazJ0dDVjOHJIVzdsclRwbDlZS0dwaWxpaldGRVp3cXAyY1I2dw?oc=5",
+      "site": "36Kr",
+      "siteUrl": "https://m.36kr.com"
+    },
+    {
       "id": "FL-d7d069de196f",
       "date": "2026-10-06",
       "dateISO": "Tue, 06 Oct 2026 10:06:06 GMT",
@@ -327,18 +351,6 @@
       "siteUrl": "https://emwap.eastmoney.com"
     },
     {
-      "id": "FL-6612abd30963",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 07:00:00 GMT",
-      "ts": 1789628400000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "宇宙大爆炸最初五分钟氦丰度获最精确测量 - 中国科技网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MzVkcXZnR2UwelNkenFIYVFYVzBPcUxUQ1VSaUVHcV9LYVJnZzhjQWZzM09DNk8wc0xVNlo2amRqNjBueWtVeTdSbkJZT053RjRSZDhmeXJyT19wekF3UHB6WERtZkxLaFFwT2pVWTE?oc=5",
-      "site": "中国科技网",
-      "siteUrl": "https://www.stdaily.com"
-    },
-    {
       "id": "FL-340d5e981918",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
@@ -373,6 +385,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-435013707dbb",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 21:06:34 GMT",
+      "ts": 1790456794000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典老城区爆炸事故致6死3伤 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PalBtWlYtLVkyQmRpWkxjQ1lOLS1VOEVsbUk2NGs2MV93ZUh0NnJodTBpS0Y3dnNEVExwWEE3Q0UxWjR1V3hUV2ZsSTZLOHVCSHllY0cydlQxbjVZcUNVVg?oc=5",
+      "site": "东方财富",
+      "siteUrl": "https://wap.eastmoney.com"
     },
     {
       "id": "FL-008d86b164a4",
@@ -435,6 +459,18 @@
       "siteUrl": "https://www.dw.com"
     },
     {
+      "id": "FL-d52930d7152c",
+      "date": "2026-10-03",
+      "dateISO": "Sat, 03 Oct 2026 08:41:00 GMT",
+      "ts": 1791016860000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "7人水泥地上烧烤突发爆炸火花四溅 消防科普：不良导热体风险很高 - 驱动之家",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82RUo4eUdEYXBFbXBBcW9ud09nZG5EbVJMUEZIemZ4WFNpZ0lBRlRwdWlzMWRMeXVNYXB2bng1QUJuOUEzbmE1MExLTUN1eVBJdTg4OVVzbms?oc=5",
+      "site": "驱动之家",
+      "siteUrl": "https://news.mydrivers.com"
+    },
+    {
       "id": "FL-fee9ee69aa03",
       "date": "2026-10-03",
       "dateISO": "Sat, 03 Oct 2026 00:34:00 GMT",
@@ -457,6 +493,18 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mR2pTX0YxWjBwQ2lLNC1XZjFhd3IwVEYtWkZFR3ZBU3B5RTFHR1BldmQ3OEkxN2NaWTMzYUkwWENDeEliY3dVNEloOExFS1B6SlZQTENHdWVmTWpUM042M2hRcmo4QS1qdl85cXlhZHJ3R3JGTEU4?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-e48266c0f12b",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 07:00:00 GMT",
+      "ts": 1789974000000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "国际｜实拍：叙利亚一弹药库发生连续爆炸，多枚火箭弹飞向村庄 - 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1Uk5BcXZUVmpITWZHMWx6N1ZINVpUWVM5a2VBa3N2MVZBSE5ZSTlNcDRVc2E1M0NpQldzZlZnRzdIZ1dWQVVqMmVhMzlIOUhhd1dnandlY0hreG84M2paVGFR?oc=5",
+      "site": "新京报",
+      "siteUrl": "https://m.bjnews.com.cn"
     },
     {
       "id": "FL-97d49aefb021",
