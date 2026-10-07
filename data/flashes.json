@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T13:25:24.255Z",
+  "updated": "2026-10-07T13:40:13.601Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -171,18 +171,6 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
-      "id": "FL-11b1a4224e08",
-      "date": "2026-10-06",
-      "dateISO": "Tue, 06 Oct 2026 19:57:10 GMT",
-      "ts": 1791316630000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "沙特阿拉伯首都利雅得5日晚传出爆炸声 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SZURBZjRfRnpRY2QwN1RnbVpsZzZ6WWtnLVBXY1I4aWN5alhMQ0R3UDBEM2RPYTJsQ1VYVUt4YVpvSjJZTkIzV3lxQTMzdWVHSnF2SUlfY2gybzBIc0R0Rg?oc=5",
-      "site": "东方财富",
-      "siteUrl": "https://wap.eastmoney.com"
-    },
-    {
       "id": "FL-2ccc20b2c8bc",
       "date": "2026-10-06",
       "dateISO": "Tue, 06 Oct 2026 16:11:00 GMT",
@@ -219,18 +207,6 @@
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
-      "id": "FL-b50ca2b58258",
-      "date": "2026-10-06",
-      "dateISO": "Tue, 06 Oct 2026 11:05:00 GMT",
-      "ts": 1791284700000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "数学大爆炸，OpenAI 一夜攻克722个数学难题，准黎曼猜想已被证明 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80cjdsbWgxNjM3V2NSSE5TLW1VS184TTJlMnV5SHBUTERZazJ0dDVjOHJIVzdsclRwbDlZS0dwaWxpaldGRVp3cXAyY1I2dw?oc=5",
-      "site": "36Kr",
-      "siteUrl": "https://m.36kr.com"
-    },
-    {
       "id": "FL-d7d069de196f",
       "date": "2026-10-06",
       "dateISO": "Tue, 06 Oct 2026 10:06:06 GMT",
@@ -265,6 +241,18 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LTVNDWW1DTkhFRHdDRWFIUUxqN3cwM2x3N3pCY2h4SnF5QngyLWFqaHZXU2xtbHB0WHFScEpkZjVWWGJvX2UzTXdLNDRzQ1F0cFF4LTJwS2dhaG81ZUE?oc=5",
       "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
+      "id": "FL-11b1a4224e08",
+      "date": "2026-10-06",
+      "dateISO": "Tue, 06 Oct 2026 03:41:47 GMT",
+      "ts": 1791258107000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "沙特阿拉伯首都利雅得5日晚传出爆炸声 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SZURBZjRfRnpRY2QwN1RnbVpsZzZ6WWtnLVBXY1I4aWN5alhMQ0R3UDBEM2RPYTJsQ1VYVUt4YVpvSjJZTkIzV3lxQTMzdWVHSnF2SUlfY2gybzBIc0R0Rg?oc=5",
+      "site": "东方财富",
+      "siteUrl": "https://wap.eastmoney.com"
     },
     {
       "id": "FL-6612abd30963",
@@ -517,6 +505,18 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN1gtb1drX1hWS3NBMzU4MlNRVEJ1TkUzQmJCR1B0a3VFS2MxU05ZTTZ1UjlmZnJZU2JYNHgyOGVwZ1dUZjdIZ3hxaWlPNGZsQTc3VjRlRTlPd3hlR1d2b3RVVE92dUwzMTlwVVB1TmphZUN1OG5iTU5WYU5EZjJmM3BpNHctZ3ljVTgtTXJuX1YzeVM2bmVmTkEzZzBnczIzSFFRWmxHRGd2SUdVb01wNGZsSmVVOWlYcG1LZHZYWk1BQU9wcnhhb3Q2dVZXaDlUSHNqZ9IB1wFBVV95cUxNWnRiOWpoQ21MQ0tYTkh0c3hWVTFSbV9ZQlcxWUF4SmtBanZHZmNIc296ZkJUcjBIVnZlTmZDZXY3WnlfWXJPWmU0WHYxa1F4RlFxWDlaMjlaRGtCYTdTVU9fa3JaMkVlSllKZWVObWpKS1o3ZVZlNTk3RGN6ejJGSTFCbTd2RFVYM2FfQk5heEcxWDYtc0Q3bDl4Wnp5em1ZdE9WZi11VTd6bi1TWnlycUc2VmR5eUJ6Mk15Y1ZCQlhrc2tmcWpKTVpRZlpEbjFYU1JhTWZBOA?oc=5",
       "site": "美国之音",
       "siteUrl": "https://www.voachinese.com"
+    },
+    {
+      "id": "FL-e7a8b45be337",
+      "date": "2026-10-02",
+      "dateISO": "Fri, 02 Oct 2026 08:10:47 GMT",
+      "ts": 1790928647000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "涉煽动罪被捕 网媒创办人「爆炸头」等人于国庆日后获准保释 - RFI",
+      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNbjdpRzRtaWtCUzZVN0U3UW1EY2t5T2tNNmcyeFh2Ym5KeGZGb1ZCcVlUdVM1Smw3cjh2MEtNd095R0huVngzR1lDTHp1cFZHUVhkaVc2aENvczBqbWFCUWtYV29JNk1Nb1ROTEJqcUEyLVZCc1RXUUZveVdLSE1YdTh1SE00U28wMV9sR2NONE1WenFnbjBSRlNzb1hGNDFHaVRPQmRJT0VSMU1yT21EeUVlZVdNLXg4S1pSOG9oYzhQRVlJQmN4YlNFcXQxUzFaTWtwUjhTMnVCU1ZFTks2aFNvb3B1LUFHcFVTNDNHOHdXZFJtZkh4QlNFS1o2aWdPS1YzbEIwa1hGbTRORkdjbjJNSEdDMVRGM3Q4UlhIOHVHblFuaU1sUkNvSkNqSFFYeGxnRHFSVTNDS0dBUkFtdzRFTU5EeUpNaHJkUGw2RmJzUWJRMmQzY2NOYkQyNl8yMGVnYVpTV050NUprM21MTmJ3djY5N19HTTFBeHdKYnJCempTczdCUlQyT3dsZDQ?oc=5",
+      "site": "RFI",
+      "siteUrl": "https://www.rfi.fr"
     },
     {
       "id": "FL-60e3ae8a5cff",
