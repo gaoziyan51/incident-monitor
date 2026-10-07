@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T12:50:19.609Z",
+  "updated": "2026-10-07T13:06:32.664Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -75,18 +75,6 @@
       "siteUrl": "https://www.163.com"
     },
     {
-      "id": "FL-ea4e71074df6",
-      "date": "2026-10-07",
-      "dateISO": "Wed, 07 Oct 2026 02:24:36 GMT",
-      "ts": 1791339876000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "数学大爆炸！OpenAI 一夜攻克722个数学难题，准黎曼猜想已被证明 - 华尔街见闻",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qd1BNckF1XzVMZXBkQU8tVDN6R29vRFprNkZSdHo0WjMtZEF6R1E0NGZabUhXbHUtWldabHY1MzE1QXNIRGE2NkZseko5UUxIR1Jz?oc=5",
-      "site": "华尔街见闻",
-      "siteUrl": "https://wallstreetcn.com"
-    },
-    {
       "id": "FL-b72bffebe851",
       "date": "2026-10-07",
       "dateISO": "Wed, 07 Oct 2026 02:00:00 GMT",
@@ -133,6 +121,18 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WQ0FuTEVtaW9RSVZ0OW5qdlRPMk90emEwVHc2N0ttSzNNSUh1WFNKeGs1MVJlc1NjalFsQXFySjhEclYtZ0NOQm9Malo0aE81MVE1RFJKd1NGN1lxVlE?oc=5",
       "site": "韩民族日报",
       "siteUrl": "https://china.hani.co.kr"
+    },
+    {
+      "id": "FL-0175009e4d01",
+      "date": "2026-10-07",
+      "dateISO": "Wed, 07 Oct 2026 01:15:00 GMT",
+      "ts": 1791335700000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "数学大爆炸！OpenAI 一夜攻克722个数学难题，准黎曼猜想已被证明 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MM0tfNlRfd2wtSHhsVjVDcG5yRWF4WEdBMVgtR3p1N2FxMy1YeGNMTl9wOEJvNUZ1bUVIbW9Rdk1ZQmVXT1pkUmpyMjZGVm9ENjd2eEh2SzFrdjZleU8yTXY0TzdZdUVmclI3NXJ3bUE2RHpsZEE?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-d0a7f0b8f48b",
@@ -265,6 +265,18 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tdktHYXlxODRjQmFUaFlzZ0hZZDZrOVg0NVR5Q1pzalg2RWRUVnB5a2xGUzZncC10V09OUHM2c1QtZFpicXlMekxUQklvcWY0azlnbUdrRmo0dEdxTVBGR3dhTDZPU1ZYTmc?oc=5",
       "site": "联合早报",
       "siteUrl": "https://www.zaobao.com.sg"
+    },
+    {
+      "id": "FL-b50ca2b58258",
+      "date": "2026-10-06",
+      "dateISO": "Tue, 06 Oct 2026 11:05:00 GMT",
+      "ts": 1791284700000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "数学大爆炸，OpenAI 一夜攻克722个数学难题，准黎曼猜想已被证明 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80cjdsbWgxNjM3V2NSSE5TLW1VS184TTJlMnV5SHBUTERZazJ0dDVjOHJIVzdsclRwbDlZS0dwaWxpaldGRVp3cXAyY1I2dw?oc=5",
+      "site": "36Kr",
+      "siteUrl": "https://m.36kr.com"
     },
     {
       "id": "FL-d7d069de196f",
