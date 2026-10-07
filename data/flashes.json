@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T06:26:11.533Z",
+  "updated": "2026-10-07T06:45:41.780Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,18 +15,6 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-49c60e793836",
-      "date": "2026-10-07",
-      "dateISO": "Wed, 07 Oct 2026 05:12:04 GMT",
-      "ts": 1791349924000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "朝鲜就边境地雷爆炸伤人事件进行了回复 - 手机网易网",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzV2lyVWRJLUFJTmpqZmI0M0N1dHJObEpPODBlbVJaeXJ0dDB5Zy1LaDJDdDBjcXp2YmZPMU1BLVlvTnJjV0E4UUZFMEdnS19Ra3dyQg?oc=5",
-      "site": "手机网易网",
-      "siteUrl": "https://www.163.com"
-    },
-    {
       "id": "FL-bbd1d97585b6",
       "date": "2026-10-07",
       "dateISO": "Wed, 07 Oct 2026 04:48:37 GMT",
@@ -37,18 +25,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVkZxUnRmd2VMc3RsRS1WdkIxMmhKalRra19BYnQwRHd3WEJUdXU5WG9pTUtIV0s1dzVzazFDdnB4dS1ObWg2UGVCVGplOEZpN0hCVEZmQks2R2Q5T21YemF3S3ZsYkFGaTlxbEF0T1hsdC04S3dDYVYxczVBSk9scmlYRGN6cVNXVTk0R0lB?oc=5",
       "site": "Vietnam.vn",
       "siteUrl": "https://www.vietnam.vn"
-    },
-    {
-      "id": "FL-c669ab27b8e8",
-      "date": "2026-10-07",
-      "dateISO": "Wed, 07 Oct 2026 03:05:38 GMT",
-      "ts": 1791342338000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "中国男泳接力燃爆亚洲！破纪录绝杀日本，米封神时刻！ - 手机网易网",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hTUlpRkwta2N2cmk4MTNrY0VObFF6R1pNTXhzU3BRZzIxZXBHUlVXeV9LdXptd21iMFdrUl9Qa0VjanRZRmNIaVBLVGZoTDdqVFVGOA?oc=5",
-      "site": "手机网易网",
-      "siteUrl": "https://www.163.com"
     },
     {
       "id": "FL-ea4e71074df6",
@@ -279,18 +255,6 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
-      "id": "FL-f1c86563e0e4",
-      "date": "2026-09-27",
-      "dateISO": "Sun, 27 Sep 2026 17:10:36 GMT",
-      "ts": 1790529036000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "英国疏散美军所用基地附近居民 多人涉爆炸物被捕 - 央视网",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91MjNOYzJjSVZaVUpOZjQ3OGwtYnBaNUZNZi1BTUg0LXlDcjhueElmdjlqWTI1cF83YkdPdjVEUmo3a1FKSXVPTVhpNkVaVF8wNk5GbkJsVG1kQjAzRUtMWEpJMmgxMzNQcTl5bmRadTc4R2xuUVJEWA?oc=5",
-      "site": "央视网",
-      "siteUrl": "https://news.cctv.com"
-    },
-    {
       "id": "FL-340d5e981918",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
@@ -325,6 +289,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-435013707dbb",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 21:06:34 GMT",
+      "ts": 1790456794000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典老城区爆炸事故致6死3伤 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PalBtWlYtLVkyQmRpWkxjQ1lOLS1VOEVsbUk2NGs2MV93ZUh0NnJodTBpS0Y3dnNEVExwWEE3Q0UxWjR1V3hUV2ZsSTZLOHVCSHllY0cydlQxbjVZcUNVVg?oc=5",
+      "site": "东方财富",
+      "siteUrl": "https://wap.eastmoney.com"
     },
     {
       "id": "FL-008d86b164a4",
@@ -421,6 +397,18 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mR2pTX0YxWjBwQ2lLNC1XZjFhd3IwVEYtWkZFR3ZBU3B5RTFHR1BldmQ3OEkxN2NaWTMzYUkwWENDeEliY3dVNEloOExFS1B6SlZQTENHdWVmTWpUM042M2hRcmo4QS1qdl85cXlhZHJ3R3JGTEU4?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-e48266c0f12b",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 07:00:00 GMT",
+      "ts": 1789974000000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "国际｜实拍：叙利亚一弹药库发生连续爆炸，多枚火箭弹飞向村庄 - 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1Uk5BcXZUVmpITWZHMWx6N1ZINVpUWVM5a2VBa3N2MVZBSE5ZSTlNcDRVc2E1M0NpQldzZlZnRzdIZ1dWQVVqMmVhMzlIOUhhd1dnandlY0hreG84M2paVGFR?oc=5",
+      "site": "新京报",
+      "siteUrl": "https://m.bjnews.com.cn"
     },
     {
       "id": "FL-97d49aefb021",
