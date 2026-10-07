@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T09:58:50.898Z",
+  "updated": "2026-10-07T10:11:08.672Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -423,6 +423,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-e48266c0f12b",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 07:00:00 GMT",
+      "ts": 1789974000000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "国际｜实拍：叙利亚一弹药库发生连续爆炸，多枚火箭弹飞向村庄 - 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1Uk5BcXZUVmpITWZHMWx6N1ZINVpUWVM5a2VBa3N2MVZBSE5ZSTlNcDRVc2E1M0NpQldzZlZnRzdIZ1dWQVVqMmVhMzlIOUhhd1dnandlY0hreG84M2paVGFR?oc=5",
+      "site": "新京报",
+      "siteUrl": "https://m.bjnews.com.cn"
+    },
+    {
       "id": "FL-97d49aefb021",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 07:00:00 GMT",
@@ -479,18 +491,6 @@
       "type": "blast",
       "title": "巴基斯坦西北部发生爆炸致14人死亡 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-0f5476d1c019",
-      "date": "2026-07-31",
-      "dateISO": "Fri, 31 Jul 2026 07:00:00 GMT",
-      "ts": 1785481200000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "巴基斯坦煤矿爆炸致34人死亡 8人被困 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ic3NaMW5yOHF1MmNnMDRPdThpWHRsY0dpOUl5X1U2aUxyMlZFTkVhN09xTVRmQ3dwcnFZaThTZjd5RXdLS1VLTVgzNGlENnl3T3hOOVBFSmYyajM0cmlxeVduX28xT2U5M1pvbmJfZE94TW00UmpNd2oyTFZFVEE?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
