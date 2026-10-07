@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T17:25:50.375Z",
+  "updated": "2026-10-07T17:40:32.029Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -37,18 +37,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OX2lPeWVHS1NCWnc3bXlkUjE4WWM3ZUJ1aUJ5ZDVNZzFId1NqZjdNYTFyTlY3eDR3amw2MDNwVXQ5RnhDMXdhS1dFV2xnRmFiaER6eEdrcE5FR2sz?oc=5",
       "site": "韩联社",
       "siteUrl": "https://m-cn.yna.co.kr"
-    },
-    {
-      "id": "FL-8815e5332cae",
-      "date": "2026-10-07",
-      "dateISO": "Wed, 07 Oct 2026 08:09:23 GMT",
-      "ts": 1791360563000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "男子查看充电中的手机，手机突然爆炸起火 - 手机网易网",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XT05qczdxeUEtVHdfNldBWXlPckh3VW1hR29FVVRlMHZqbElOTlQ2QjhNM0JFdGtfTGR6Um5sSjlXalhwVXJPOGllSnJVQzZ3Nm9kcw?oc=5",
-      "site": "手机网易网",
-      "siteUrl": "https://www.163.com"
     },
     {
       "id": "FL-b72bffebe851",
@@ -505,6 +493,18 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5naEpaTmt5bmlhUXlZdndRR2F3XzN6Z2d5aWcwdU4zRnpJWXBJX3VpVWxzRDBzQUFVRXZ4TW1lOTJQUEhCQ3NDNDFEN2FpVTRuYTh3?oc=5",
       "site": "环球网",
       "siteUrl": "https://m.huanqiu.com"
+    },
+    {
+      "id": "FL-84a9598aa100",
+      "date": "2026-06-12",
+      "dateISO": "Fri, 12 Jun 2026 07:00:00 GMT",
+      "ts": 1781247600000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "泰国当局判处两维吾尔人死刑　BBC记者回忆当年的曼谷四面佛爆炸案 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92WW1HV0ttYlE2bUkxb2ZWUDVCSUNuTmRaQnNSWnpDTElPRUFUOXk3U3FoX2VKTm1FQ29TaDBocTUwMTZlMU1Za2hRUkxEMG9taGphNkZvSjI4UF9wUzVyU0E4amUyQdIBa0FVX3lxTE5YVGx2WWxZY1lKNjNHQ1huNHZQWWFqTW1MR0p6RnBwaVdSSXlKT1FEQmx6dzI3dVBIVm5jTVdpRHR6b05UeHRKdUVrZEFMbzcwOUJLcHhGWVBaN2tnU2c5QzFKTEdyZml6ZDg0?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
     },
     {
       "id": "FL-4cc80280a6ca",
