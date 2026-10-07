@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T23:29:13.459Z",
+  "updated": "2026-10-07T23:41:04.292Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -13,18 +13,6 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5YYmR2RWpWX2hrTHduMnE0T3hBeEN6OURLSm1SZTBGLUxVS0lMRnZ6bzBGUUZqejJGR2FLX3pNRWoyRzJPcVVwUDVCLWE4ZGcxVWY0VGZENG1LMTF3NVBHMk5tLVdFaUwybEYzekFPV2R3c18teER6dHVXTdIBjwFBVV95cUxOY1o2MGF5bTFHdHdXZnVWMzkyV1ppU1NwakJHRmNHSHlPVHgyNWM1M3d4SmRnNmpkSGZFUTNyV3l3ZDVYZlFkT25QenFYQnNDbUFRVzM0UjJGNXNlSkUwMnFZQ1pxLUkxeGhGbDNfb0VJY1NvRnFZbnBuNThDQm9zai02d1lITlYxeDZ2X2N1aw?oc=5",
       "site": "KCBD",
       "siteUrl": "https://www.kcbd.com"
-    },
-    {
-      "id": "FL-8d4f2b6ac38f",
-      "date": "2026-10-07",
-      "dateISO": "Wed, 07 Oct 2026 21:04:31 GMT",
-      "ts": 1791407071000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "数学大爆炸！OpenAI一夜攻克722个数学难题，准黎曼猜想已被证明 - 手机网易网",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11dGk1NUkzV3QxbmhjYlJrVzNoemthY2lURFlIUW5KZExLSEprTW5Gd0tiTGt2c09vYjhMLVByM1JsUk51M2dEUFN4cHNWa2NMek9MVA?oc=5",
-      "site": "手机网易网",
-      "siteUrl": "https://www.163.com"
     },
     {
       "id": "FL-81c0c8d83e99",
@@ -217,6 +205,18 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tdktHYXlxODRjQmFUaFlzZ0hZZDZrOVg0NVR5Q1pzalg2RWRUVnB5a2xGUzZncC10V09OUHM2c1QtZFpicXlMekxUQklvcWY0azlnbUdrRmo0dEdxTVBGR3dhTDZPU1ZYTmc?oc=5",
       "site": "联合早报",
       "siteUrl": "https://www.zaobao.com.sg"
+    },
+    {
+      "id": "FL-b50ca2b58258",
+      "date": "2026-10-06",
+      "dateISO": "Tue, 06 Oct 2026 11:05:00 GMT",
+      "ts": 1791284700000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "数学大爆炸，OpenAI 一夜攻克722个数学难题，准黎曼猜想已被证明 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80cjdsbWgxNjM3V2NSSE5TLW1VS184TTJlMnV5SHBUTERZazJ0dDVjOHJIVzdsclRwbDlZS0dwaWxpaldGRVp3cXAyY1I2dw?oc=5",
+      "site": "36Kr",
+      "siteUrl": "https://m.36kr.com"
     },
     {
       "id": "FL-d7d069de196f",
@@ -493,6 +493,18 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5naEpaTmt5bmlhUXlZdndRR2F3XzN6Z2d5aWcwdU4zRnpJWXBJX3VpVWxzRDBzQUFVRXZ4TW1lOTJQUEhCQ3NDNDFEN2FpVTRuYTh3?oc=5",
       "site": "环球网",
       "siteUrl": "https://m.huanqiu.com"
+    },
+    {
+      "id": "FL-84a9598aa100",
+      "date": "2026-06-12",
+      "dateISO": "Fri, 12 Jun 2026 07:00:00 GMT",
+      "ts": 1781247600000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "泰国当局判处两维吾尔人死刑　BBC记者回忆当年的曼谷四面佛爆炸案 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92WW1HV0ttYlE2bUkxb2ZWUDVCSUNuTmRaQnNSWnpDTElPRUFUOXk3U3FoX2VKTm1FQ29TaDBocTUwMTZlMU1Za2hRUkxEMG9taGphNkZvSjI4UF9wUzVyU0E4amUyQdIBa0FVX3lxTE5YVGx2WWxZY1lKNjNHQ1huNHZQWWFqTW1MR0p6RnBwaVdSSXlKT1FEQmx6dzI3dVBIVm5jTVdpRHR6b05UeHRKdUVrZEFMbzcwOUJLcHhGWVBaN2tnU2c5QzFKTEdyZml6ZDg0?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
     },
     {
       "id": "FL-4cc80280a6ca",
