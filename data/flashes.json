@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T02:21:02.799Z",
+  "updated": "2026-10-07T02:39:08.153Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -171,18 +171,6 @@
       "siteUrl": "https://wap.eastmoney.com"
     },
     {
-      "id": "FL-3278c20197b5",
-      "date": "2026-10-06",
-      "dateISO": "Tue, 06 Oct 2026 22:45:56 GMT",
-      "ts": 1791326756000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "胡塞武装袭击利雅得，机场附近传出巨大爆炸声 - 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YdVBNczllZHVYbzNvaHdLU08yWGRzb2FvN2FOREU2d0RqSWYyQ2VkamVXNzVwU0RCbVpaMUgxRHZqbUg4U1U1dlgyNkNJSXk3TzlWX2w3eFp3S2xyWENyNU0ya0xUdjhZaURpdG83VFgwVXc?oc=5",
-      "site": "新浪网",
-      "siteUrl": "https://k.sina.com.cn"
-    },
-    {
       "id": "FL-5547a18df0c3",
       "date": "2026-10-06",
       "dateISO": "Tue, 06 Oct 2026 22:14:05 GMT",
@@ -351,6 +339,18 @@
       "siteUrl": "https://emwap.eastmoney.com"
     },
     {
+      "id": "FL-6612abd30963",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 07:00:00 GMT",
+      "ts": 1789628400000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "宇宙大爆炸最初五分钟氦丰度获最精确测量 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MzVkcXZnR2UwelNkenFIYVFYVzBPcUxUQ1VSaUVHcV9LYVJnZzhjQWZzM09DNk8wc0xVNlo2amRqNjBueWtVeTdSbkJZT053RjRSZDhmeXJyT19wekF3UHB6WERtZkxLaFFwT2pVWTE?oc=5",
+      "site": "中国科技网",
+      "siteUrl": "https://www.stdaily.com"
+    },
+    {
       "id": "FL-340d5e981918",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
@@ -385,18 +385,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-435013707dbb",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 21:06:34 GMT",
-      "ts": 1790456794000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "雅典老城区爆炸事故致6死3伤 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PalBtWlYtLVkyQmRpWkxjQ1lOLS1VOEVsbUk2NGs2MV93ZUh0NnJodTBpS0Y3dnNEVExwWEE3Q0UxWjR1V3hUV2ZsSTZLOHVCSHllY0cydlQxbjVZcUNVVg?oc=5",
-      "site": "东方财富",
-      "siteUrl": "https://wap.eastmoney.com"
     },
     {
       "id": "FL-008d86b164a4",
