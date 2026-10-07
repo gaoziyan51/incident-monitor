@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T15:05:59.143Z",
+  "updated": "2026-10-07T15:33:26.689Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -121,18 +121,6 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvaXdPczRXQkhqY3Vwbk9WRkcyQ3gtUFY3bEN1T2thNDNJTVQ3b1dPbFM4R1hqcmlUbDRsamRyQlpucGh5LVVjWDBXOA?oc=5",
       "site": "手机新浪网",
       "siteUrl": "https://wap.cj.sina.cn"
-    },
-    {
-      "id": "FL-8c4b8fbf34a9",
-      "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 16:00:00 GMT",
-      "ts": 1790697600000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "香港：创办“爆炸头”的独立记者邓浩荣被捕，无国界记者对此表示谴责 - RSF",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMlRKMUY5SGZlT3h5ekRqeGFkd2xRQVJkQ3Jlb05WX3Rqa2hiNU5RdUVZaDV5TGR1YV9jdUFuQlI4ekhPSDlnQlJLbmlIOVJhenhlYVBwN0NoakJkMUt2ckdYN2tSSW9nN3RXWU9iTkFWbEI5THZxOHFiSVdKLUVOOGJVUmVoTm1zajk2Q1JKUm5OSW1hQXlwcUx5TjJscVBrXzNmRWplR2hKNXM?oc=5",
-      "site": "RSF",
-      "siteUrl": "https://rsf.org"
     },
     {
       "id": "FL-385dd58b908a",
@@ -265,18 +253,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MzVkcXZnR2UwelNkenFIYVFYVzBPcUxUQ1VSaUVHcV9LYVJnZzhjQWZzM09DNk8wc0xVNlo2amRqNjBueWtVeTdSbkJZT053RjRSZDhmeXJyT19wekF3UHB6WERtZkxLaFFwT2pVWTE?oc=5",
       "site": "中国科技网",
       "siteUrl": "https://www.stdaily.com"
-    },
-    {
-      "id": "FL-f1c86563e0e4",
-      "date": "2026-09-27",
-      "dateISO": "Sun, 27 Sep 2026 17:10:36 GMT",
-      "ts": 1790529036000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "英国疏散美军所用基地附近居民 多人涉爆炸物被捕 - 央视网",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91MjNOYzJjSVZaVUpOZjQ3OGwtYnBaNUZNZi1BTUg0LXlDcjhueElmdjlqWTI1cF83YkdPdjVEUmo3a1FKSXVPTVhpNkVaVF8wNk5GbkJsVG1kQjAzRUtMWEpJMmgxMzNQcTl5bmRadTc4R2xuUVJEWA?oc=5",
-      "site": "央视网",
-      "siteUrl": "https://news.cctv.com"
     },
     {
       "id": "FL-340d5e981918",
@@ -447,6 +423,18 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
+      "id": "FL-ce0584e0b98f",
+      "date": "2026-10-05",
+      "dateISO": "Mon, 05 Oct 2026 19:33:00 GMT",
+      "ts": 1791228780000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "土耳其一客机发现爆炸物威胁纸条 143人安全撤离 - QQ News",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WZjdlVTBjTVBBOTZWWlYzM3VKR2ZIQXZPSG1lRE05aGthSXA2ZmxSbkNzQlpCdWlGaDNYT1RNRTFpRXo1TkEtX1lYVlJkTFY0MGg5VHdn?oc=5",
+      "site": "QQ News",
+      "siteUrl": "https://news.qq.com"
+    },
+    {
       "id": "FL-9bdff15034d5",
       "date": "2026-10-05",
       "dateISO": "Mon, 05 Oct 2026 10:35:03 GMT",
@@ -493,18 +481,6 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5naEpaTmt5bmlhUXlZdndRR2F3XzN6Z2d5aWcwdU4zRnpJWXBJX3VpVWxzRDBzQUFVRXZ4TW1lOTJQUEhCQ3NDNDFEN2FpVTRuYTh3?oc=5",
       "site": "环球网",
       "siteUrl": "https://m.huanqiu.com"
-    },
-    {
-      "id": "FL-84a9598aa100",
-      "date": "2026-06-12",
-      "dateISO": "Fri, 12 Jun 2026 07:00:00 GMT",
-      "ts": 1781247600000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "泰国当局判处两维吾尔人死刑　BBC记者回忆当年的曼谷四面佛爆炸案 - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92WW1HV0ttYlE2bUkxb2ZWUDVCSUNuTmRaQnNSWnpDTElPRUFUOXk3U3FoX2VKTm1FQ29TaDBocTUwMTZlMU1Za2hRUkxEMG9taGphNkZvSjI4UF9wUzVyU0E4amUyQdIBa0FVX3lxTE5YVGx2WWxZY1lKNjNHQ1huNHZQWWFqTW1MR0p6RnBwaVdSSXlKT1FEQmx6dzI3dVBIVm5jTVdpRHR6b05UeHRKdUVrZEFMbzcwOUJLcHhGWVBaN2tnU2c5QzFKTEdyZml6ZDg0?oc=5",
-      "site": "BBC",
-      "siteUrl": "https://www.bbc.com"
     },
     {
       "id": "FL-4cc80280a6ca",
