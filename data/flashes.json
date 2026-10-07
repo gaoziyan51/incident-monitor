@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T03:03:31.550Z",
+  "updated": "2026-10-07T03:22:19.077Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -63,18 +63,6 @@
       "siteUrl": "https://m-cn.yna.co.kr"
     },
     {
-      "id": "FL-130a4efefd06",
-      "date": "2026-10-07",
-      "dateISO": "Wed, 07 Oct 2026 01:40:14 GMT",
-      "ts": 1791337214000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "数学大爆炸！OpenAI 一夜攻克722个数学难题，准黎曼猜想已被证明 - 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUGg3T01qRDNsZzZEMDZhMjBENjNTN2k0UUt3Q0VwcklWcy05YTJtaEtIQ1pKQS0tZF83SFVCSmF6NFVLbEdKNWhMRmtpTGdrU2FFNXgzemhUTjBzX3VUSWtjVHZGcFNRX2Nhd0RMU3IxS2YyUzZvMmsxdEZaYzBhbExSYw?oc=5",
-      "site": "新浪网",
-      "siteUrl": "https://k.sina.com.cn"
-    },
-    {
       "id": "FL-1ce77edc39fb",
       "date": "2026-10-07",
       "dateISO": "Wed, 07 Oct 2026 01:28:00 GMT",
@@ -97,6 +85,18 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdjAzX2puNklKZlNTcGYtcXBBaDVxaXJzRWhhOGxzM1pDaUpCRWE3REo5eXBrYzAtYVFSWkI3T0dmOTNoSmwtLTViZjd2ZnhsTmRobXJlUm02WXJuS0dXSzVOR3pZQ1NhdTJjNlRWV1ZlenltYVlpNDlTeDgzMEZiakI5c212WEF6eTlZREhoT1hBVW9PWnRKa0FQU1VfTE5TUVlvRDMyRUI2cFNtWmlQSA?oc=5",
       "site": "Colby College",
       "siteUrl": "https://colbyathletics.com"
+    },
+    {
+      "id": "FL-0175009e4d01",
+      "date": "2026-10-07",
+      "dateISO": "Wed, 07 Oct 2026 01:15:00 GMT",
+      "ts": 1791335700000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "数学大爆炸！OpenAI 一夜攻克722个数学难题，准黎曼猜想已被证明 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MM0tfNlRfd2wtSHhsVjVDcG5yRWF4WEdBMVgtR3p1N2FxMy1YeGNMTl9wOEJvNUZ1bUVIbW9Rdk1ZQmVXT1pkUmpyMjZGVm9ENjd2eEh2SzFrdjZleU8yTXY0TzdZdUVmclI3NXJ3bUE2RHpsZEE?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-d0a7f0b8f48b",
@@ -205,18 +205,6 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcGNlMWs1RWhWblhMenpFYl9vRC1DUkFpb05WUVNhNWRhSnl5S3hMOEhvek1ybzh2dnZwYXp0RHVHc0VwanhqMzB1eDl3NHFqandLdnNzLThMTEtadTYyc3VuTHR0UG4tOFAtc2pHUTZrNHVsN0Rxa0IzZFlhak5GOXBndmo?oc=5",
       "site": "手机新浪网",
       "siteUrl": "https://sports.sina.cn"
-    },
-    {
-      "id": "FL-1aca31f9d746",
-      "date": "2026-10-06",
-      "dateISO": "Tue, 06 Oct 2026 17:25:00 GMT",
-      "ts": 1791307500000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Responders swarm downtown underground electrical fire that blasted roads - Tallahassee Democrat",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaDhGb015RjA0Z0trN2M2ZDAxZlBvaFhxOEFxT2RMTGpqS28xeFBHSkh4NzFwVjlRQ1VXU1NheHc2VS1fUko4T28yOVFud1FmbXlrbkcxVXdhaDBWbkxPbzh0eE16YnotTk1TRTdnVjJmNGFMUEJ4ZEdNZ2lNSGFDdmYwUnhlZlZXemVwdUZ1TGlCd2k0b1ExRVBjLXJyd3F0WDJuQzFscDAwckRVandEMHFWQllOd0k?oc=5",
-      "site": "Tallahassee Democrat",
-      "siteUrl": "https://www.tallahassee.com"
     },
     {
       "id": "FL-a8cab305e7b7",
