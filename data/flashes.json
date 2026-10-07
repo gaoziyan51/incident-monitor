@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T03:22:19.077Z",
+  "updated": "2026-10-07T03:40:10.341Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -75,18 +75,6 @@
       "siteUrl": "https://china.hani.co.kr"
     },
     {
-      "id": "FL-748b694afd7a",
-      "date": "2026-10-07",
-      "dateISO": "Wed, 07 Oct 2026 01:22:48 GMT",
-      "ts": 1791336168000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Five-Goal Explosion Powers Women's Soccer Past Maine Maritime 5-0 - Colby College",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdjAzX2puNklKZlNTcGYtcXBBaDVxaXJzRWhhOGxzM1pDaUpCRWE3REo5eXBrYzAtYVFSWkI3T0dmOTNoSmwtLTViZjd2ZnhsTmRobXJlUm02WXJuS0dXSzVOR3pZQ1NhdTJjNlRWV1ZlenltYVlpNDlTeDgzMEZiakI5c212WEF6eTlZREhoT1hBVW9PWnRKa0FQU1VfTE5TUVlvRDMyRUI2cFNtWmlQSA?oc=5",
-      "site": "Colby College",
-      "siteUrl": "https://colbyathletics.com"
-    },
-    {
       "id": "FL-0175009e4d01",
       "date": "2026-10-07",
       "dateISO": "Wed, 07 Oct 2026 01:15:00 GMT",
@@ -137,8 +125,8 @@
     {
       "id": "FL-eb3af2806817",
       "date": "2026-10-07",
-      "dateISO": "Wed, 07 Oct 2026 00:34:48 GMT",
-      "ts": 1791333288000,
+      "dateISO": "Wed, 07 Oct 2026 00:37:58 GMT",
+      "ts": 1791333478000,
       "scope": "intl",
       "type": "blast",
       "title": "基辅传出多次爆炸声_7x24快讯_新浪财经 - 手机新浪网",
@@ -301,18 +289,6 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4ySW5wX2lXUTFDRFFyRkNIeEZrbzNwRFkxU0k5Z0E3YkNQRFZzSGJkZkZlNU85LXJMZmRkVVU1S2NFSWlVV2NfbGFSUQ?oc=5",
       "site": "手机新浪网",
       "siteUrl": "https://wap.cj.sina.cn"
-    },
-    {
-      "id": "FL-e7a56aff2279",
-      "date": "2026-10-06",
-      "dateISO": "Tue, 06 Oct 2026 09:10:07 GMT",
-      "ts": 1791277807000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "韩国公布非军事区地雷爆炸事件最终调查结果 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUlRpNGxLcWpISFdtN0MzRmRXWGJ6ZzMxQVBxTi02Q2xGeU5VT2RCRTJDQVVpOFpwcHV3N3VCR1owbF91eWs4SjJ1blBza1c3LUVhU2g5QWwtWFktUC1LcG8zWF9pNzZvT1VrLTdZMWNTYVQxRkE0NkJMeC1tbGcyMS1hZ25oWkNI?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-1cca0bcbf9a0",
@@ -531,16 +507,16 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-a6656341c573",
+      "id": "FL-9bdff15034d5",
       "date": "2026-10-05",
-      "dateISO": "Mon, 05 Oct 2026 17:07:00 GMT",
-      "ts": 1791220020000,
+      "dateISO": "Mon, 05 Oct 2026 10:35:03 GMT",
+      "ts": 1791196503000,
       "scope": "intl",
       "type": "blast",
-      "title": "韩国公布非军事区地雷爆炸事件最终调查结果 - 中国网新闻中心",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4WWg4Mk9tQ3pZelFNVXZhTGRlTGpoX19OSmQ5a2NhTkFaYnVFeU9GbkYyN0NHdWwzb3FiT1pZckpnajBTLVpwWVoxbFllWDdHZC1rb2ZVWG80NWR0cXJQMVpDZFBYREowM3pF?oc=5",
-      "site": "中国网新闻中心",
-      "siteUrl": "http://news.china.com.cn"
+      "title": "韩国公布非军事区地雷爆炸事件最终调查结果 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83YV9GeVR4blJQMDhnUG1PRVNtMjBYbzBXdUZ5Ry1RdXJuVDBSaWItSTE4SUt4Vi1QcXRwM2tFUEo4aHd1Um1rT0JHRHUyNkh6ZlNuX0NhMjE0OE5aRmFnMDcyRmR1cTV4WWQtaGxrRC1vVzJFazJFYXpVeG1vMVk?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-e3eaa7d3da44",
