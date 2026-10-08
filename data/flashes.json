@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T04:40:31.950Z",
+  "updated": "2026-10-08T04:58:00.858Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -99,6 +99,18 @@
       "siteUrl": "https://rsf.org"
     },
     {
+      "id": "FL-385dd58b908a",
+      "date": "2026-08-11",
+      "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
+      "ts": 1786431600000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - 财新",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQcmdXTjEtaEEwQXAyc0dzZ29xdEtVZ3VnTzNSdEdIODhUbTkwVE1WYUJKZGlFN0N1TkdlQTNEZDA1SkNEejNqVS15STYwTURwckdUM0REQUMyTHdNQk5oSjlR?oc=5",
+      "site": "财新",
+      "siteUrl": "https://science.caixin.com"
+    },
+    {
       "id": "FL-783d69359b46",
       "date": "2026-10-06",
       "dateISO": "Tue, 06 Oct 2026 23:32:56 GMT",
@@ -157,6 +169,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KSjEyblZWeDBvZDU5b2xrNXJIZUlpeGZObFl2REl4Y0dYSzBkTndubG9EcHlhbXE5eng1T0RIUUwtT1hfM0hEYzdoVGdZOUVUMDc0d3A0UUp4dEpnVmZ4OWxVNG8?oc=5",
       "site": "东方财富",
       "siteUrl": "http://finance.eastmoney.com"
+    },
+    {
+      "id": "FL-4e6669da8b0a",
+      "date": "2026-10-06",
+      "dateISO": "Tue, 06 Oct 2026 09:33:22 GMT",
+      "ts": 1791279202000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "沙特首都又传爆炸声 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBraTlDS3Y0QXZ0VVRhU2NJNWR2R1p0aVBDNHZmRUNMXzJjOGtuNTFsWnRHX2RvcWMyaVBxYkh5azFUTV9aREtqdG1WcTl4Sm5zaWFZTF9RT0IzQkUzSVE?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn"
     },
     {
       "id": "FL-1cca0bcbf9a0",
@@ -433,18 +457,6 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5naEpaTmt5bmlhUXlZdndRR2F3XzN6Z2d5aWcwdU4zRnpJWXBJX3VpVWxzRDBzQUFVRXZ4TW1lOTJQUEhCQ3NDNDFEN2FpVTRuYTh3?oc=5",
       "site": "环球网",
       "siteUrl": "https://m.huanqiu.com"
-    },
-    {
-      "id": "FL-84a9598aa100",
-      "date": "2026-06-12",
-      "dateISO": "Fri, 12 Jun 2026 07:00:00 GMT",
-      "ts": 1781247600000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "泰国当局判处两维吾尔人死刑　BBC记者回忆当年的曼谷四面佛爆炸案 - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92WW1HV0ttYlE2bUkxb2ZWUDVCSUNuTmRaQnNSWnpDTElPRUFUOXk3U3FoX2VKTm1FQ29TaDBocTUwMTZlMU1Za2hRUkxEMG9taGphNkZvSjI4UF9wUzVyU0E4amUyQdIBa0FVX3lxTE5YVGx2WWxZY1lKNjNHQ1huNHZQWWFqTW1MR0p6RnBwaVdSSXlKT1FEQmx6dzI3dVBIVm5jTVdpRHR6b05UeHRKdUVrZEFMbzcwOUJLcHhGWVBaN2tnU2c5QzFKTEdyZml6ZDg0?oc=5",
-      "site": "BBC",
-      "siteUrl": "https://www.bbc.com"
     },
     {
       "id": "FL-4cc80280a6ca",
