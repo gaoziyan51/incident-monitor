@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T21:39:40.948Z",
+  "updated": "2026-10-08T21:53:32.995Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -13,6 +13,18 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMlRKMUY5SGZlT3h5ekRqeGFkd2xRQVJkQ3Jlb05WX3Rqa2hiNU5RdUVZaDV5TGR1YV9jdUFuQlI4ekhPSDlnQlJLbmlIOVJhenhlYVBwN0NoakJkMUt2ckdYN2tSSW9nN3RXWU9iTkFWbEI5THZxOHFiSVdKLUVOOGJVUmVoTm1zajk2Q1JKUm5OSW1hQXlwcUx5TjJscVBrXzNmRWplR2hKNXM?oc=5",
       "site": "RSF",
       "siteUrl": "https://rsf.org"
+    },
+    {
+      "id": "FL-ea4e71074df6",
+      "date": "2026-10-07",
+      "dateISO": "Wed, 07 Oct 2026 02:24:36 GMT",
+      "ts": 1791339876000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "数学大爆炸！OpenAI 一夜攻克722个数学难题，准黎曼猜想已被证明 - 华尔街见闻",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qd1BNckF1XzVMZXBkQU8tVDN6R29vRFprNkZSdHo0WjMtZEF6R1E0NGZabUhXbHUtWldabHY1MzE1QXNIRGE2NkZseko5UUxIR1Jz?oc=5",
+      "site": "华尔街见闻",
+      "siteUrl": "https://wallstreetcn.com"
     },
     {
       "id": "FL-d0a7f0b8f48b",
@@ -73,18 +85,6 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oZjJxSWZyMU11MFhMSG9XeDY4N1lOWWRpeGJHOUotbUg4aEhNb1NhYXlPSVhCdWJmckpydldFSkNNajV2dXlud1NSQmx6YjFicnRBRUpma2VOMkt2TXd4Z0t5M0VlMGlnU21wOVI5aUd2b09zc25SNU5iU3lOQQ?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-b50ca2b58258",
-      "date": "2026-10-06",
-      "dateISO": "Tue, 06 Oct 2026 11:05:00 GMT",
-      "ts": 1791284700000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "数学大爆炸，OpenAI 一夜攻克722个数学难题，准黎曼猜想已被证明 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80cjdsbWgxNjM3V2NSSE5TLW1VS184TTJlMnV5SHBUTERZazJ0dDVjOHJIVzdsclRwbDlZS0dwaWxpaldGRVp3cXAyY1I2dw?oc=5",
-      "site": "36Kr",
-      "siteUrl": "https://m.36kr.com"
     },
     {
       "id": "FL-6612abd30963",
@@ -183,18 +183,6 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-50dc02d93e18",
-      "date": "2026-10-08",
-      "dateISO": "Thu, 08 Oct 2026 08:32:11 GMT",
-      "ts": 1791448331000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "国庆假期襄阳燃爆了，“人从众”模式开启，热度直逼春运 - 极目新闻",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wSUZxUjlXckFabzJ3TDkzcE16YXNVekVvSW95bWVUTEp2R1Z4aVpjMndwTUgtN1ZUVTk3ck5iRjNvSGhpT2lxTC03bWxmRHp5b0VjNW51Y0RzUDQ?oc=5",
-      "site": "极目新闻",
-      "siteUrl": "https://www.ctdsb.net"
-    },
-    {
       "id": "FL-d8274db78bd2",
       "date": "2026-10-08",
       "dateISO": "Thu, 08 Oct 2026 07:47:12 GMT",
@@ -253,18 +241,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-e1c81d311eae",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 15:50:14 GMT",
-      "ts": 1790437814000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 旅日侨网",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVEJFR0pjczI1RWcwMmdKMGVMbnVHUzNLeGJXWlcxeDMyZzFybFJrb2dOTG9mUmJjQU1kM2hNRGx1Z0drQkhjRExydURDejZYczVvQlNVR0VHOGpJOEsxU0pESWlxWHpRc2RJMXdRT0g0TUdfY2F4VG5tcVphUnpuLUlqYW1WVGNUWFE?oc=5",
-      "site": "旅日侨网",
-      "siteUrl": "https://www.jpchinapress.com"
     },
     {
       "id": "FL-008d86b164a4",
@@ -327,18 +303,6 @@
       "siteUrl": "https://www.dw.com"
     },
     {
-      "id": "FL-d52930d7152c",
-      "date": "2026-10-03",
-      "dateISO": "Sat, 03 Oct 2026 08:41:00 GMT",
-      "ts": 1791016860000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "7人水泥地上烧烤突发爆炸火花四溅 消防科普：不良导热体风险很高 - 驱动之家",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82RUo4eUdEYXBFbXBBcW9ud09nZG5EbVJMUEZIemZ4WFNpZ0lBRlRwdWlzMWRMeXVNYXB2bng1QUJuOUEzbmE1MExLTUN1eVBJdTg4OVVzbms?oc=5",
-      "site": "驱动之家",
-      "siteUrl": "https://news.mydrivers.com"
-    },
-    {
       "id": "FL-fee9ee69aa03",
       "date": "2026-10-03",
       "dateISO": "Sat, 03 Oct 2026 00:34:00 GMT",
@@ -349,6 +313,18 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUTVJ5aUFBbVdqenl2bWhvTVo3S1YtMFEyaE9YVk1jNDduY2t6YS10WDNqSmJkS2pPY0lFaF9SMkYzb3lMNFZTbUozSjB5MU5oS044Vi1ERDdJQWtrUXFJdDJCYjNOcjVVRWxkclJSZWg4RG8?oc=5",
       "site": "观察者网",
       "siteUrl": "https://www.guancha.cn"
+    },
+    {
+      "id": "FL-06f734ba9667",
+      "date": "2026-08-24",
+      "dateISO": "Mon, 24 Aug 2026 07:00:00 GMT",
+      "ts": 1787554800000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "山东临沂一社区发生爆炸，官方最新通报：已致1人死亡，2人失联 - 山东新闻",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12UjJWUzFCd2VqX0FoU2VneDM5T2E5eGFOZmg0Nk92VEp6U1ktWF9xUUtkV3BkYlNsZ0JsRWlZMW1qa3ExTXRVdWdiNzhNQ1JxRlN2bXhoX0pCWlFURExYd3lENlhFQQ?oc=5",
+      "site": "山东新闻",
+      "siteUrl": "https://www.sd.chinanews.com.cn"
     },
     {
       "id": "FL-160d55aeb47e",
@@ -445,6 +421,18 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5naEpaTmt5bmlhUXlZdndRR2F3XzN6Z2d5aWcwdU4zRnpJWXBJX3VpVWxzRDBzQUFVRXZ4TW1lOTJQUEhCQ3NDNDFEN2FpVTRuYTh3?oc=5",
       "site": "环球网",
       "siteUrl": "https://m.huanqiu.com"
+    },
+    {
+      "id": "FL-84a9598aa100",
+      "date": "2026-06-12",
+      "dateISO": "Fri, 12 Jun 2026 07:00:00 GMT",
+      "ts": 1781247600000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "泰国当局判处两维吾尔人死刑　BBC记者回忆当年的曼谷四面佛爆炸案 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92WW1HV0ttYlE2bUkxb2ZWUDVCSUNuTmRaQnNSWnpDTElPRUFUOXk3U3FoX2VKTm1FQ29TaDBocTUwMTZlMU1Za2hRUkxEMG9taGphNkZvSjI4UF9wUzVyU0E4amUyQdIBa0FVX3lxTE5YVGx2WWxZY1lKNjNHQ1huNHZQWWFqTW1MR0p6RnBwaVdSSXlKT1FEQmx6dzI3dVBIVm5jTVdpRHR6b05UeHRKdUVrZEFMbzcwOUJLcHhGWVBaN2tnU2c5QzFKTEdyZml6ZDg0?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
     },
     {
       "id": "FL-4cc80280a6ca",
