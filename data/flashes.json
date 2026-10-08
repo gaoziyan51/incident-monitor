@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-08T21:25:43.225Z",
+  "updated": "2026-10-08T21:39:40.948Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-8c4b8fbf34a9",
+      "date": "2026-09-30",
+      "dateISO": "Wed, 30 Sep 2026 07:00:00 GMT",
+      "ts": 1790751600000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "香港：创办“爆炸头”的独立记者邓浩荣被捕，无国界记者对此表示谴责 - RSF",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMlRKMUY5SGZlT3h5ekRqeGFkd2xRQVJkQ3Jlb05WX3Rqa2hiNU5RdUVZaDV5TGR1YV9jdUFuQlI4ekhPSDlnQlJLbmlIOVJhenhlYVBwN0NoakJkMUt2ckdYN2tSSW9nN3RXWU9iTkFWbEI5THZxOHFiSVdKLUVOOGJVUmVoTm1zajk2Q1JKUm5OSW1hQXlwcUx5TjJscVBrXzNmRWplR2hKNXM?oc=5",
+      "site": "RSF",
+      "siteUrl": "https://rsf.org"
+    },
     {
       "id": "FL-d0a7f0b8f48b",
       "date": "2026-10-07",
@@ -37,18 +49,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQcmdXTjEtaEEwQXAyc0dzZ29xdEtVZ3VnTzNSdEdIODhUbTkwVE1WYUJKZGlFN0N1TkdlQTNEZDA1SkNEejNqVS15STYwTURwckdUM0REQUMyTHdNQk5oSjlR?oc=5",
       "site": "财新",
       "siteUrl": "https://science.caixin.com"
-    },
-    {
-      "id": "FL-783d69359b46",
-      "date": "2026-10-06",
-      "dateISO": "Tue, 06 Oct 2026 23:32:56 GMT",
-      "ts": 1791329576000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "也门首都萨那传出爆炸声 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ia01FbU1qeE16dXlLWHFLRnB3Um5yN3ctU0VtTHg4RVFoTU9Nclk3bzNPSlc1bWdaTkNZTnZrdHdrV1lHVkt3ZUxXU1lxbVd0LVgwSE9OTGxnVm85RUczWQ?oc=5",
-      "site": "东方财富",
-      "siteUrl": "https://wap.eastmoney.com"
     },
     {
       "id": "FL-11b1a4224e08",
@@ -399,16 +399,16 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-9bdff15034d5",
+      "id": "FL-0d37be8e3bed",
       "date": "2026-10-05",
-      "dateISO": "Mon, 05 Oct 2026 10:35:03 GMT",
-      "ts": 1791196503000,
+      "dateISO": "Mon, 05 Oct 2026 08:45:00 GMT",
+      "ts": 1791189900000,
       "scope": "intl",
       "type": "blast",
-      "title": "韩国公布非军事区地雷爆炸事件最终调查结果 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83YV9GeVR4blJQMDhnUG1PRVNtMjBYbzBXdUZ5Ry1RdXJuVDBSaWItSTE4SUt4Vi1QcXRwM2tFUEo4aHd1Um1rT0JHRHUyNkh6ZlNuX0NhMjE0OE5aRmFnMDcyRmR1cTV4WWQtaGxrRC1vVzJFazJFYXpVeG1vMVk?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
+      "title": "韩国公布非军事区地雷爆炸事件最终调查结果 - 封面新闻",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mOW90LUsxZ0prZmZVUFNmTkZ0QjQ1NzdDY195Z25fWFVDaXM3ZkloeTNkY3c3RnpVSVd3ZlFJY3c4YWlIalBYMDJWaGE0SUpZTm8zS2VZbUZmc2hoS2cwbFRPSTFHWGxOUVRYWkU2clJNdDg4Zk9PVm9n?oc=5",
+      "site": "封面新闻",
+      "siteUrl": "https://m.thecover.cn"
     },
     {
       "id": "FL-b042a088a326",
@@ -445,18 +445,6 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5naEpaTmt5bmlhUXlZdndRR2F3XzN6Z2d5aWcwdU4zRnpJWXBJX3VpVWxzRDBzQUFVRXZ4TW1lOTJQUEhCQ3NDNDFEN2FpVTRuYTh3?oc=5",
       "site": "环球网",
       "siteUrl": "https://m.huanqiu.com"
-    },
-    {
-      "id": "FL-84a9598aa100",
-      "date": "2026-06-12",
-      "dateISO": "Fri, 12 Jun 2026 07:00:00 GMT",
-      "ts": 1781247600000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "泰国当局判处两维吾尔人死刑　BBC记者回忆当年的曼谷四面佛爆炸案 - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92WW1HV0ttYlE2bUkxb2ZWUDVCSUNuTmRaQnNSWnpDTElPRUFUOXk3U3FoX2VKTm1FQ29TaDBocTUwMTZlMU1Za2hRUkxEMG9taGphNkZvSjI4UF9wUzVyU0E4amUyQdIBa0FVX3lxTE5YVGx2WWxZY1lKNjNHQ1huNHZQWWFqTW1MR0p6RnBwaVdSSXlKT1FEQmx6dzI3dVBIVm5jTVdpRHR6b05UeHRKdUVrZEFMbzcwOUJLcHhGWVBaN2tnU2c5QzFKTEdyZml6ZDg0?oc=5",
-      "site": "BBC",
-      "siteUrl": "https://www.bbc.com"
     },
     {
       "id": "FL-4cc80280a6ca",
