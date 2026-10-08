@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T07:40:59.966Z",
+  "updated": "2026-10-08T07:58:45.628Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -87,18 +87,6 @@
       "siteUrl": "https://wap.eastmoney.com"
     },
     {
-      "id": "FL-b681c6f0f8de",
-      "date": "2026-10-06",
-      "dateISO": "Tue, 06 Oct 2026 22:14:05 GMT",
-      "ts": 1791324845000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "也门首都萨那传出爆炸声_7x24快讯_新浪财经 - 手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE54RXNOSV9CNUdkQXlXRU5DOC1kQlppYVg2Mjh6YlJkVFhSbkdjWTEzRXUxVTJrNm9TM21lLWpBVWxWanhNeVFRa2MtSQ?oc=5",
-      "site": "手机新浪网",
-      "siteUrl": "https://wap.cj.sina.cn"
-    },
-    {
       "id": "FL-11b1a4224e08",
       "date": "2026-10-06",
       "dateISO": "Tue, 06 Oct 2026 19:57:10 GMT",
@@ -157,6 +145,18 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MzVkcXZnR2UwelNkenFIYVFYVzBPcUxUQ1VSaUVHcV9LYVJnZzhjQWZzM09DNk8wc0xVNlo2amRqNjBueWtVeTdSbkJZT053RjRSZDhmeXJyT19wekF3UHB6WERtZkxLaFFwT2pVWTE?oc=5",
       "site": "中国科技网",
       "siteUrl": "https://www.stdaily.com"
+    },
+    {
+      "id": "FL-08dec8e30a37",
+      "date": "2026-10-08",
+      "dateISO": "Thu, 08 Oct 2026 07:46:36 GMT",
+      "ts": 1791445596000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "沙特首都利雅得多次传出爆炸声 - 大河财立方",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LcTkzc2xtRlhFNUdQYmpud2ZXQmFFa1VCVmJSM2NjMTF1OEdLd3d2TExIbWdhd2V3SXVCcVNxckpTOXl2aTNuWVZtYVNUeld2TzFIMDhpZmtLbmZVVnNib1p4MjVPWUNLMkE?oc=5",
+      "site": "大河财立方",
+      "siteUrl": "https://app.dahecube.com"
     },
     {
       "id": "FL-cb0148a411e3",
@@ -301,18 +301,6 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUTVJ5aUFBbVdqenl2bWhvTVo3S1YtMFEyaE9YVk1jNDduY2t6YS10WDNqSmJkS2pPY0lFaF9SMkYzb3lMNFZTbUozSjB5MU5oS044Vi1ERDdJQWtrUXFJdDJCYjNOcjVVRWxkclJSZWg4RG8?oc=5",
       "site": "观察者网",
       "siteUrl": "https://www.guancha.cn"
-    },
-    {
-      "id": "FL-06f734ba9667",
-      "date": "2026-08-24",
-      "dateISO": "Mon, 24 Aug 2026 07:00:00 GMT",
-      "ts": 1787554800000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "山东临沂一社区发生爆炸，官方最新通报：已致1人死亡，2人失联 - 山东新闻",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12UjJWUzFCd2VqX0FoU2VneDM5T2E5eGFOZmg0Nk92VEp6U1ktWF9xUUtkV3BkYlNsZ0JsRWlZMW1qa3ExTXRVdWdiNzhNQ1JxRlN2bXhoX0pCWlFURExYd3lENlhFQQ?oc=5",
-      "site": "山东新闻",
-      "siteUrl": "https://www.sd.chinanews.com.cn"
     },
     {
       "id": "FL-160d55aeb47e",
