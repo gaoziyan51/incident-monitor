@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T19:00:59.602Z",
+  "updated": "2026-10-08T19:21:57.677Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -109,18 +109,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MzVkcXZnR2UwelNkenFIYVFYVzBPcUxUQ1VSaUVHcV9LYVJnZzhjQWZzM09DNk8wc0xVNlo2amRqNjBueWtVeTdSbkJZT053RjRSZDhmeXJyT19wekF3UHB6WERtZkxLaFFwT2pVWTE?oc=5",
       "site": "中国科技网",
       "siteUrl": "https://www.stdaily.com"
-    },
-    {
-      "id": "FL-a64bbd7383d1",
-      "date": "2026-10-08",
-      "dateISO": "Thu, 08 Oct 2026 15:45:00 GMT",
-      "ts": 1791474300000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Several homes evacuated after chemical explosion near Danville - WAND",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMFdUU0Z6aEd3UzgzMXhXOEYzNU1SdzFPcWxTemdleFVmajhrOG45LWVFbWJlMUE2T2FoRGRFZUwxRU9GOEtINnFUZ1RROVhuSDVoVUxJcWtVc2dwUWgwX1dyRXhDc2tNbkhWLUZNREl0X1VnTmU2VzItMFZUYTFXNFBoLXYxRVIxbVQ00gGfAUFVX3lxTE1HV3lXbTZIS2Q5Q3RSeDFRWUFDNXdDZTUxRG5Hazl6UUloTGRndkNnZFJLVVg1MERNdEY3N3prRDBiM0VhMHYzaERKZTNvbXdkd0hRUk5maldXNzItbVNSSnh1TVhzM3Z1UnNxY3JwWmtKenV2U09KS2x3R3A5aEpYTFVTT0JjZE1XNGc5TEZvbnVDdGxwd0lFd1BzSjYyNA?oc=5",
-      "site": "WAND",
-      "siteUrl": "https://www.wandtv.com"
     },
     {
       "id": "FL-fadcd5f8e9bc",
@@ -315,18 +303,6 @@
       "siteUrl": "https://www.dw.com"
     },
     {
-      "id": "FL-d52930d7152c",
-      "date": "2026-10-03",
-      "dateISO": "Sat, 03 Oct 2026 08:41:00 GMT",
-      "ts": 1791016860000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "7人水泥地上烧烤突发爆炸火花四溅 消防科普：不良导热体风险很高 - 驱动之家",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82RUo4eUdEYXBFbXBBcW9ud09nZG5EbVJMUEZIemZ4WFNpZ0lBRlRwdWlzMWRMeXVNYXB2bng1QUJuOUEzbmE1MExLTUN1eVBJdTg4OVVzbms?oc=5",
-      "site": "驱动之家",
-      "siteUrl": "https://news.mydrivers.com"
-    },
-    {
       "id": "FL-fee9ee69aa03",
       "date": "2026-10-03",
       "dateISO": "Sat, 03 Oct 2026 00:34:00 GMT",
@@ -337,6 +313,18 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUTVJ5aUFBbVdqenl2bWhvTVo3S1YtMFEyaE9YVk1jNDduY2t6YS10WDNqSmJkS2pPY0lFaF9SMkYzb3lMNFZTbUozSjB5MU5oS044Vi1ERDdJQWtrUXFJdDJCYjNOcjVVRWxkclJSZWg4RG8?oc=5",
       "site": "观察者网",
       "siteUrl": "https://www.guancha.cn"
+    },
+    {
+      "id": "FL-06f734ba9667",
+      "date": "2026-08-24",
+      "dateISO": "Mon, 24 Aug 2026 07:00:00 GMT",
+      "ts": 1787554800000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "山东临沂一社区发生爆炸，官方最新通报：已致1人死亡，2人失联 - 山东新闻",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12UjJWUzFCd2VqX0FoU2VneDM5T2E5eGFOZmg0Nk92VEp6U1ktWF9xUUtkV3BkYlNsZ0JsRWlZMW1qa3ExTXRVdWdiNzhNQ1JxRlN2bXhoX0pCWlFURExYd3lENlhFQQ?oc=5",
+      "site": "山东新闻",
+      "siteUrl": "https://www.sd.chinanews.com.cn"
     },
     {
       "id": "FL-160d55aeb47e",
@@ -433,6 +421,18 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5naEpaTmt5bmlhUXlZdndRR2F3XzN6Z2d5aWcwdU4zRnpJWXBJX3VpVWxzRDBzQUFVRXZ4TW1lOTJQUEhCQ3NDNDFEN2FpVTRuYTh3?oc=5",
       "site": "环球网",
       "siteUrl": "https://m.huanqiu.com"
+    },
+    {
+      "id": "FL-84a9598aa100",
+      "date": "2026-06-12",
+      "dateISO": "Fri, 12 Jun 2026 07:00:00 GMT",
+      "ts": 1781247600000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "泰国当局判处两维吾尔人死刑　BBC记者回忆当年的曼谷四面佛爆炸案 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92WW1HV0ttYlE2bUkxb2ZWUDVCSUNuTmRaQnNSWnpDTElPRUFUOXk3U3FoX2VKTm1FQ29TaDBocTUwMTZlMU1Za2hRUkxEMG9taGphNkZvSjI4UF9wUzVyU0E4amUyQdIBa0FVX3lxTE5YVGx2WWxZY1lKNjNHQ1huNHZQWWFqTW1MR0p6RnBwaVdSSXlKT1FEQmx6dzI3dVBIVm5jTVdpRHR6b05UeHRKdUVrZEFMbzcwOUJLcHhGWVBaN2tnU2c5QzFKTEdyZml6ZDg0?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
     },
     {
       "id": "FL-4cc80280a6ca",
