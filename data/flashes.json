@@ -1,19 +1,7 @@
 {
-  "updated": "2026-10-08T01:39:39.221Z",
+  "updated": "2026-10-08T01:53:42.125Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-979f18018a71",
-      "date": "2026-08-26",
-      "dateISO": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "ts": 1787727600000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "俄远东一化工综合体爆炸致7人死亡 9名中国公民失联 - 财新",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Fb1BoNklob203eHlMTUh3YXBiS1FHR3d2VG14WEJNMEZPWURGb2tzRG02bWxNZkJpaGFoTTdCSkJCNDlQaFI5LTZUUUxxQmU0N016TWk5SjRkR0JYVzQySmR5OHNxS0x0cHc?oc=5",
-      "site": "财新",
-      "siteUrl": "https://international.caixin.com"
-    },
     {
       "id": "FL-f6fbece71549",
       "date": "2026-10-07",
@@ -243,18 +231,6 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-f8766e775240",
-      "date": "2026-10-06",
-      "dateISO": "Tue, 06 Oct 2026 09:30:45 GMT",
-      "ts": 1791279045000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "沙特首都又传爆炸声 - 手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4ySW5wX2lXUTFDRFFyRkNIeEZrbzNwRFkxU0k5Z0E3YkNQRFZzSGJkZkZlNU85LXJMZmRkVVU1S2NFSWlVV2NfbGFSUQ?oc=5",
-      "site": "手机新浪网",
-      "siteUrl": "https://wap.cj.sina.cn"
-    },
-    {
       "id": "FL-1cca0bcbf9a0",
       "date": "2026-10-06",
       "dateISO": "Tue, 06 Oct 2026 07:46:11 GMT",
@@ -411,18 +387,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-97d49aefb021",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 07:00:00 GMT",
-      "ts": 1789974000000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "韩朝非军事区疑发生地雷爆炸，韩军3人受伤 - 观察者网",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42MkZYMS15SmtDSk1JNGN3N2dwZjRuTkVON2dKc3VGbzMxYTZmTWMwM2Y4dWYwZkxJZzN3QTNWQXNwc20zb0NZbEUyRnBYRUNabEhTd1lkTlU1QzJuSGx1enBuVEpTS0ZvSFJVWWJiZElLclk?oc=5",
-      "site": "观察者网",
-      "siteUrl": "https://www.guancha.cn"
-    },
-    {
       "id": "FL-e48266c0f12b",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 07:00:00 GMT",
@@ -433,6 +397,18 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1Uk5BcXZUVmpITWZHMWx6N1ZINVpUWVM5a2VBa3N2MVZBSE5ZSTlNcDRVc2E1M0NpQldzZlZnRzdIZ1dWQVVqMmVhMzlIOUhhd1dnandlY0hreG84M2paVGFR?oc=5",
       "site": "新京报",
       "siteUrl": "https://m.bjnews.com.cn"
+    },
+    {
+      "id": "FL-97d49aefb021",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 07:00:00 GMT",
+      "ts": 1789974000000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "韩朝非军事区疑发生地雷爆炸，韩军3人受伤 - 观察者网",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42MkZYMS15SmtDSk1JNGN3N2dwZjRuTkVON2dKc3VGbzMxYTZmTWMwM2Y4dWYwZkxJZzN3QTNWQXNwc20zb0NZbEUyRnBYRUNabEhTd1lkTlU1QzJuSGx1enBuVEpTS0ZvSFJVWWJiZElLclk?oc=5",
+      "site": "观察者网",
+      "siteUrl": "https://www.guancha.cn"
     },
     {
       "id": "FL-d4e5d863dc58",
