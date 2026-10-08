@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-08T01:25:55.559Z",
+  "updated": "2026-10-08T01:39:39.221Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-979f18018a71",
+      "date": "2026-08-26",
+      "dateISO": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "ts": 1787727600000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "俄远东一化工综合体爆炸致7人死亡 9名中国公民失联 - 财新",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Fb1BoNklob203eHlMTUh3YXBiS1FHR3d2VG14WEJNMEZPWURGb2tzRG02bWxNZkJpaGFoTTdCSkJCNDlQaFI5LTZUUUxxQmU0N016TWk5SjRkR0JYVzQySmR5OHNxS0x0cHc?oc=5",
+      "site": "财新",
+      "siteUrl": "https://international.caixin.com"
+    },
     {
       "id": "FL-f6fbece71549",
       "date": "2026-10-07",
@@ -25,18 +37,6 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5YYmR2RWpWX2hrTHduMnE0T3hBeEN6OURLSm1SZTBGLUxVS0lMRnZ6bzBGUUZqejJGR2FLX3pNRWoyRzJPcVVwUDVCLWE4ZGcxVWY0VGZENG1LMTF3NVBHMk5tLVdFaUwybEYzekFPV2R3c18teER6dHVXTdIBjwFBVV95cUxOY1o2MGF5bTFHdHdXZnVWMzkyV1ppU1NwakJHRmNHSHlPVHgyNWM1M3d4SmRnNmpkSGZFUTNyV3l3ZDVYZlFkT25QenFYQnNDbUFRVzM0UjJGNXNlSkUwMnFZQ1pxLUkxeGhGbDNfb0VJY1NvRnFZbnBuNThDQm9zai02d1lITlYxeDZ2X2N1aw?oc=5",
       "site": "KCBD",
       "siteUrl": "https://www.kcbd.com"
-    },
-    {
-      "id": "FL-8d4f2b6ac38f",
-      "date": "2026-10-07",
-      "dateISO": "Wed, 07 Oct 2026 21:04:31 GMT",
-      "ts": 1791407071000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "数学大爆炸！OpenAI一夜攻克722个数学难题，准黎曼猜想已被证明 - 手机网易网",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11dGk1NUkzV3QxbmhjYlJrVzNoemthY2lURFlIUW5KZExLSEprTW5Gd0tiTGt2c09vYjhMLVByM1JsUk51M2dEUFN4cHNWa2NMek9MVA?oc=5",
-      "site": "手机网易网",
-      "siteUrl": "https://www.163.com"
     },
     {
       "id": "FL-81c0c8d83e99",
@@ -121,6 +121,18 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvaXdPczRXQkhqY3Vwbk9WRkcyQ3gtUFY3bEN1T2thNDNJTVQ3b1dPbFM4R1hqcmlUbDRsamRyQlpucGh5LVVjWDBXOA?oc=5",
       "site": "手机新浪网",
       "siteUrl": "https://wap.cj.sina.cn"
+    },
+    {
+      "id": "FL-710fe48d473f",
+      "date": "2026-06-03",
+      "dateISO": "Wed, 03 Jun 2026 07:00:00 GMT",
+      "ts": 1780470000000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "特别重大瓦斯爆炸事故后 山西煤矿迎来“最严整治” - 中国能源新闻网",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tM3B2anpUNmRxVVRfUk0yOVBuN2ZDNU9uQUJXWEljSEFEX3FXVU5QUWVXZEh0b3drdU5fNXlkXzRvdURYaDZJYXRkN0hUWXJoRXBPcXVud2NpLWRLQUxpMXZTYU5DNnRYbGQ5TVlR?oc=5",
+      "site": "中国能源新闻网",
+      "siteUrl": "https://www.cpnn.com.cn"
     },
     {
       "id": "FL-8c4b8fbf34a9",
@@ -399,18 +411,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-e48266c0f12b",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 07:00:00 GMT",
-      "ts": 1789974000000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "国际｜实拍：叙利亚一弹药库发生连续爆炸，多枚火箭弹飞向村庄 - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1Uk5BcXZUVmpITWZHMWx6N1ZINVpUWVM5a2VBa3N2MVZBSE5ZSTlNcDRVc2E1M0NpQldzZlZnRzdIZ1dWQVVqMmVhMzlIOUhhd1dnandlY0hreG84M2paVGFR?oc=5",
-      "site": "新京报",
-      "siteUrl": "https://m.bjnews.com.cn"
-    },
-    {
       "id": "FL-97d49aefb021",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 07:00:00 GMT",
@@ -421,6 +421,18 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42MkZYMS15SmtDSk1JNGN3N2dwZjRuTkVON2dKc3VGbzMxYTZmTWMwM2Y4dWYwZkxJZzN3QTNWQXNwc20zb0NZbEUyRnBYRUNabEhTd1lkTlU1QzJuSGx1enBuVEpTS0ZvSFJVWWJiZElLclk?oc=5",
       "site": "观察者网",
       "siteUrl": "https://www.guancha.cn"
+    },
+    {
+      "id": "FL-e48266c0f12b",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 07:00:00 GMT",
+      "ts": 1789974000000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "国际｜实拍：叙利亚一弹药库发生连续爆炸，多枚火箭弹飞向村庄 - 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1Uk5BcXZUVmpITWZHMWx6N1ZINVpUWVM5a2VBa3N2MVZBSE5ZSTlNcDRVc2E1M0NpQldzZlZnRzdIZ1dWQVVqMmVhMzlIOUhhd1dnandlY0hreG84M2paVGFR?oc=5",
+      "site": "新京报",
+      "siteUrl": "https://m.bjnews.com.cn"
     },
     {
       "id": "FL-d4e5d863dc58",
