@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T02:59:48.817Z",
+  "updated": "2026-10-08T03:11:57.584Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -111,6 +111,18 @@
       "siteUrl": "https://rsf.org"
     },
     {
+      "id": "FL-385dd58b908a",
+      "date": "2026-08-11",
+      "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
+      "ts": 1786431600000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - 财新",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fOUNOVy1jMjYtRHRacDFONmZLdmtlUTBvcjVNX0xwMG9rc2lwYkV4ZzRCOFVIVmdNLXdZcUo3Mkw1UnI3elZsRjNGblI4YTBsMGxPeHJCRnZSNWE0dXNTdXRxcUQ?oc=5",
+      "site": "财新",
+      "siteUrl": "https://science.caixin.com"
+    },
+    {
       "id": "FL-783d69359b46",
       "date": "2026-10-06",
       "dateISO": "Tue, 06 Oct 2026 23:32:56 GMT",
@@ -205,6 +217,18 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MzVkcXZnR2UwelNkenFIYVFYVzBPcUxUQ1VSaUVHcV9LYVJnZzhjQWZzM09DNk8wc0xVNlo2amRqNjBueWtVeTdSbkJZT053RjRSZDhmeXJyT19wekF3UHB6WERtZkxLaFFwT2pVWTE?oc=5",
       "site": "中国科技网",
       "siteUrl": "https://www.stdaily.com"
+    },
+    {
+      "id": "FL-87523c967f64",
+      "date": "2026-10-08",
+      "dateISO": "Thu, 08 Oct 2026 03:05:02 GMT",
+      "ts": 1791428702000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "Amber Hills一餐厅发生煤气爆炸 3人轻伤送医 - 诗华日报",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyOHRnOFR5WjBHZUZ3TFhsRmNfRTRwdXBtbkgxdTBtSHJPbHdxVmJmdjMzUkRKbEhwUFJxMzBuWWFad2hmX2p6RFFWbDUxdw?oc=5",
+      "site": "诗华日报",
+      "siteUrl": "https://news.seehua.com"
     },
     {
       "id": "FL-8f1f78e639fc",
