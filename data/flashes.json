@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T03:11:57.584Z",
+  "updated": "2026-10-08T03:31:51.333Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -118,7 +118,7 @@
       "scope": "dom",
       "type": "blast",
       "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - 财新",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fOUNOVy1jMjYtRHRacDFONmZLdmtlUTBvcjVNX0xwMG9rc2lwYkV4ZzRCOFVIVmdNLXdZcUo3Mkw1UnI3elZsRjNGblI4YTBsMGxPeHJCRnZSNWE0dXNTdXRxcUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQcmdXTjEtaEEwQXAyc0dzZ29xdEtVZ3VnTzNSdEdIODhUbTkwVE1WYUJKZGlFN0N1TkdlQTNEZDA1SkNEejNqVS15STYwTURwckdUM0REQUMyTHdNQk5oSjlR?oc=5",
       "site": "财新",
       "siteUrl": "https://science.caixin.com"
     },
@@ -217,18 +217,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MzVkcXZnR2UwelNkenFIYVFYVzBPcUxUQ1VSaUVHcV9LYVJnZzhjQWZzM09DNk8wc0xVNlo2amRqNjBueWtVeTdSbkJZT053RjRSZDhmeXJyT19wekF3UHB6WERtZkxLaFFwT2pVWTE?oc=5",
       "site": "中国科技网",
       "siteUrl": "https://www.stdaily.com"
-    },
-    {
-      "id": "FL-87523c967f64",
-      "date": "2026-10-08",
-      "dateISO": "Thu, 08 Oct 2026 03:05:02 GMT",
-      "ts": 1791428702000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "Amber Hills一餐厅发生煤气爆炸 3人轻伤送医 - 诗华日报",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyOHRnOFR5WjBHZUZ3TFhsRmNfRTRwdXBtbkgxdTBtSHJPbHdxVmJmdjMzUkRKbEhwUFJxMzBuWWFad2hmX2p6RFFWbDUxdw?oc=5",
-      "site": "诗华日报",
-      "siteUrl": "https://news.seehua.com"
     },
     {
       "id": "FL-8f1f78e639fc",
@@ -363,6 +351,18 @@
       "siteUrl": "https://www.guancha.cn"
     },
     {
+      "id": "FL-06f734ba9667",
+      "date": "2026-08-24",
+      "dateISO": "Mon, 24 Aug 2026 07:00:00 GMT",
+      "ts": 1787554800000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "山东临沂一社区发生爆炸，官方最新通报：已致1人死亡，2人失联 - 山东新闻",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12UjJWUzFCd2VqX0FoU2VneDM5T2E5eGFOZmg0Nk92VEp6U1ktWF9xUUtkV3BkYlNsZ0JsRWlZMW1qa3ExTXRVdWdiNzhNQ1JxRlN2bXhoX0pCWlFURExYd3lENlhFQQ?oc=5",
+      "site": "山东新闻",
+      "siteUrl": "https://www.sd.chinanews.com.cn"
+    },
+    {
       "id": "FL-160d55aeb47e",
       "date": "2026-06-22",
       "dateISO": "Mon, 22 Jun 2026 07:00:00 GMT",
@@ -469,6 +469,18 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5naEpaTmt5bmlhUXlZdndRR2F3XzN6Z2d5aWcwdU4zRnpJWXBJX3VpVWxzRDBzQUFVRXZ4TW1lOTJQUEhCQ3NDNDFEN2FpVTRuYTh3?oc=5",
       "site": "环球网",
       "siteUrl": "https://m.huanqiu.com"
+    },
+    {
+      "id": "FL-84a9598aa100",
+      "date": "2026-06-12",
+      "dateISO": "Fri, 12 Jun 2026 07:00:00 GMT",
+      "ts": 1781247600000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "泰国当局判处两维吾尔人死刑　BBC记者回忆当年的曼谷四面佛爆炸案 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92WW1HV0ttYlE2bUkxb2ZWUDVCSUNuTmRaQnNSWnpDTElPRUFUOXk3U3FoX2VKTm1FQ29TaDBocTUwMTZlMU1Za2hRUkxEMG9taGphNkZvSjI4UF9wUzVyU0E4amUyQdIBa0FVX3lxTE5YVGx2WWxZY1lKNjNHQ1huNHZQWWFqTW1MR0p6RnBwaVdSSXlKT1FEQmx6dzI3dVBIVm5jTVdpRHR6b05UeHRKdUVrZEFMbzcwOUJLcHhGWVBaN2tnU2c5QzFKTEdyZml6ZDg0?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
     },
     {
       "id": "FL-4cc80280a6ca",
