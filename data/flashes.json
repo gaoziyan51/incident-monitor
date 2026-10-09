@@ -1,7 +1,31 @@
 {
-  "updated": "2026-10-09T19:20:02.017Z",
+  "updated": "2026-10-09T19:35:16.968Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-ea4e71074df6",
+      "date": "2026-10-07",
+      "dateISO": "Wed, 07 Oct 2026 02:24:36 GMT",
+      "ts": 1791339876000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "数学大爆炸！OpenAI 一夜攻克722个数学难题，准黎曼猜想已被证明 - 华尔街见闻",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qd1BNckF1XzVMZXBkQU8tVDN6R29vRFprNkZSdHo0WjMtZEF6R1E0NGZabUhXbHUtWldabHY1MzE1QXNIRGE2NkZseko5UUxIR1Jz?oc=5",
+      "site": "华尔街见闻",
+      "siteUrl": "https://wallstreetcn.com"
+    },
+    {
+      "id": "FL-d0a7f0b8f48b",
+      "date": "2026-10-07",
+      "dateISO": "Wed, 07 Oct 2026 01:07:37 GMT",
+      "ts": 1791335257000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "基辅传出多次爆炸声 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BRUJEVDZXVmgwRGFqQzVuc0dQMUFZNkRxTV9aN2Q1WW9RbmVSMDBwMG9KcFhlaWItbEpwWl9WbFB6VjhQOHpBbFhnWmp1VmVvNmthRldhdk16UmNXT0p0Mw?oc=5",
+      "site": "东方财富",
+      "siteUrl": "https://wap.eastmoney.com"
+    },
     {
       "id": "FL-385dd58b908a",
       "date": "2026-08-11",
@@ -121,18 +145,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oU1V0TXdQTUM3R0J3RHA4ZUV1Y0xrRXBhQVlielY4UUNFYWJxYWxUTGFNUDNfZml5bHRsemhRMFEyNlh3LWlTdURHLWZSWmxmRjl6a0J2OGJWcEZIOEE?oc=5",
       "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
-    },
-    {
-      "id": "FL-50e8a3f3c430",
-      "date": "2026-10-08",
-      "dateISO": "Thu, 08 Oct 2026 04:10:00 GMT",
-      "ts": 1791432600000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "数学大爆炸！OpenAI 一夜攻克722个数学难题，准黎曼猜想已被证明 - 智源社区",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RdHhSQjlIX2UxSHZTMXlMM204RDhvd0VjdDBlX09RVUhmWXpJOVlwOEhtT0s5TTBRNDBXUnRHQ1R4Y1pOR3R6Yg?oc=5",
-      "site": "智源社区",
-      "siteUrl": "https://hub.baai.ac.cn"
     },
     {
       "id": "FL-340d5e981918",
