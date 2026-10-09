@@ -1,19 +1,7 @@
 {
-  "updated": "2026-10-09T02:04:43.600Z",
+  "updated": "2026-10-09T02:20:33.204Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-158a192c119b",
-      "date": "2026-09-30",
-      "dateISO": "Wed, 30 Sep 2026 07:00:00 GMT",
-      "ts": 1790751600000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "韩国要求朝鲜立即停止边界加固工事 就地雷爆炸事件道歉 - RFI",
-      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPTnkxTGU0cTdDbEFjc1k5aDNPWi1GakladWZfME9ValRzUVhXekYxTmVCZDZ3cGZPMDFnQzhhN1BneXMyR09EVkc3UkVfUTdTdWw0bjVxTjhmVkMyZXZTM3ZHR1ZzSHFRaS1IclB2ZktIQ004ZjNGRlR4UUZJTEtpN3BIaVpqemNvRmZtN2puVXk0RzFualV1MWJwSUFqWXJ1ckFtVE9yWk5uVllNODZNd2tpSVRkazR6V2ozbmRubkdENTlmTW9hZlBxaUE3b3VJQk96Z3FWd25xWXowREFxZno0UXNnaEp4SWpLRGpmYkpfTmRmdl8ybTRxNUpKYzNXc0pLUFVlUExvOURPOU9DMldtRWxTbjM1MzFwZkZKTllRaHBqQlNHV2YtVW5EcHF1c3NKTS1fQjZKLWtvWTJwWkgxOFlPZHB0UTh3cWxnMXduV2RCc1dyLU5taWN1Y1Z2a3NNMG9hekVpb2o3UnRUVFhSbEFBSVlDZzBjS1RLT2dqZ0VOQkVYSXlya1Q?oc=5",
-      "site": "RFI",
-      "siteUrl": "https://www.rfi.fr"
-    },
     {
       "id": "FL-d0a7f0b8f48b",
       "date": "2026-10-07",
@@ -339,6 +327,18 @@
       "siteUrl": "https://m.bjnews.com.cn"
     },
     {
+      "id": "FL-97d49aefb021",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 07:00:00 GMT",
+      "ts": 1789974000000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "韩朝非军事区疑发生地雷爆炸，韩军3人受伤 - 观察者网",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42MkZYMS15SmtDSk1JNGN3N2dwZjRuTkVON2dKc3VGbzMxYTZmTWMwM2Y4dWYwZkxJZzN3QTNWQXNwc20zb0NZbEUyRnBYRUNabEhTd1lkTlU1QzJuSGx1enBuVEpTS0ZvSFJVWWJiZElLclk?oc=5",
+      "site": "观察者网",
+      "siteUrl": "https://www.guancha.cn"
+    },
+    {
       "id": "FL-0d37be8e3bed",
       "date": "2026-10-05",
       "dateISO": "Mon, 05 Oct 2026 08:45:00 GMT",
@@ -359,18 +359,6 @@
       "type": "blast",
       "title": "巴基斯坦西北部发生爆炸致14人死亡 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-0f5476d1c019",
-      "date": "2026-07-31",
-      "dateISO": "Fri, 31 Jul 2026 07:00:00 GMT",
-      "ts": 1785481200000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "巴基斯坦煤矿爆炸致34人死亡 8人被困 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ic3NaMW5yOHF1MmNnMDRPdThpWHRsY0dpOUl5X1U2aUxyMlZFTkVhN09xTVRmQ3dwcnFZaThTZjd5RXdLS1VLTVgzNGlENnl3T3hOOVBFSmYyajM0cmlxeVduX28xT2U5M1pvbmJfZE94TW00UmpNd2oyTFZFVEE?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
@@ -397,6 +385,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92WW1HV0ttYlE2bUkxb2ZWUDVCSUNuTmRaQnNSWnpDTElPRUFUOXk3U3FoX2VKTm1FQ29TaDBocTUwMTZlMU1Za2hRUkxEMG9taGphNkZvSjI4UF9wUzVyU0E4amUyQdIBa0FVX3lxTE5YVGx2WWxZY1lKNjNHQ1huNHZQWWFqTW1MR0p6RnBwaVdSSXlKT1FEQmx6dzI3dVBIVm5jTVdpRHR6b05UeHRKdUVrZEFMbzcwOUJLcHhGWVBaN2tnU2c5QzFKTEdyZml6ZDg0?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-ba3d5ce33a21",
+      "date": "2026-10-09",
+      "dateISO": "Fri, 09 Oct 2026 02:06:25 GMT",
+      "ts": 1791511585000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "韩朝在联大围绕非军事区地雷爆炸事件针锋相对 - 韩联社",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zR1JBOEdBVDcybzNJR0hJc0FVZkVBOGRHSk1qNV9jdGhjbWRaWWp2NDlYX3RfTnBnMDdRbTN4NUhOQy1XTG82dkF5ZVlEd01Bc0x1ajEycWlQenhv?oc=5",
+      "site": "韩联社",
+      "siteUrl": "https://m-cn.yna.co.kr"
     },
     {
       "id": "FL-2eb9ec5359ca",
@@ -433,18 +433,6 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN1gtb1drX1hWS3NBMzU4MlNRVEJ1TkUzQmJCR1B0a3VFS2MxU05ZTTZ1UjlmZnJZU2JYNHgyOGVwZ1dUZjdIZ3hxaWlPNGZsQTc3VjRlRTlPd3hlR1d2b3RVVE92dUwzMTlwVVB1TmphZUN1OG5iTU5WYU5EZjJmM3BpNHctZ3ljVTgtTXJuX1YzeVM2bmVmTkEzZzBnczIzSFFRWmxHRGd2SUdVb01wNGZsSmVVOWlYcG1LZHZYWk1BQU9wcnhhb3Q2dVZXaDlUSHNqZ9IB1wFBVV95cUxNWnRiOWpoQ21MQ0tYTkh0c3hWVTFSbV9ZQlcxWUF4SmtBanZHZmNIc296ZkJUcjBIVnZlTmZDZXY3WnlfWXJPWmU0WHYxa1F4RlFxWDlaMjlaRGtCYTdTVU9fa3JaMkVlSllKZWVObWpKS1o3ZVZlNTk3RGN6ejJGSTFCbTd2RFVYM2FfQk5heEcxWDYtc0Q3bDl4Wnp5em1ZdE9WZi11VTd6bi1TWnlycUc2VmR5eUJ6Mk15Y1ZCQlhrc2tmcWpKTVpRZlpEbjFYU1JhTWZBOA?oc=5",
       "site": "美国之音",
       "siteUrl": "https://www.voachinese.com"
-    },
-    {
-      "id": "FL-60e3ae8a5cff",
-      "date": "2026-10-02",
-      "dateISO": "Fri, 02 Oct 2026 05:31:50 GMT",
-      "ts": 1790919110000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "胡塞武装袭击地区军事设施 也门亚丁传出爆炸声 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50UkVmXzR5UTNvVEVpY2JfNlpPWDd5LWtKNTF0cGNsUlgxNW1LQ3FlZXQ1UkhWRnFmTGNMNTItcVJIRzNpVjFuQWVvTkk2V3EyUngwR2hqMDlIN3JocWxZVDd4OUI?oc=5",
-      "site": "东方财富",
-      "siteUrl": "http://finance.eastmoney.com"
     }
   ]
 }
