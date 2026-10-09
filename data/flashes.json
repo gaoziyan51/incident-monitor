@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T18:33:45.510Z",
+  "updated": "2026-10-09T18:53:42.660Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -291,18 +291,6 @@
       "siteUrl": "https://m.huanqiu.com"
     },
     {
-      "id": "FL-71d6e0614732",
-      "date": "2026-10-09",
-      "dateISO": "Fri, 09 Oct 2026 15:42:00 GMT",
-      "ts": 1791560520000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "穿越100亿年，宇宙大爆炸30亿年后就存在的星系信号抵达地球，那时还没太阳和地球 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LZDNDdVF2b2xWbjdyYmNOaGwzYlJOYmhENHh1cUE3XzZMdmNmSkw3X2xtSEd4TVJwajFoZWYtRngtckxtQ2lnd2gtbHlCZXRqYVE4Mmpob1psWkpmQ0t6V2NvLXNrZTZ1djRfQUd5S3FWdEJpblE?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
-    },
-    {
       "id": "FL-2bacde66bc0c",
       "date": "2026-10-09",
       "dateISO": "Fri, 09 Oct 2026 15:07:00 GMT",
@@ -327,18 +315,6 @@
       "siteUrl": "https://hk.on.cc"
     },
     {
-      "id": "FL-4970fba1d354",
-      "date": "2026-10-09",
-      "dateISO": "Fri, 09 Oct 2026 12:52:31 GMT",
-      "ts": 1791550351000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "市场消息：伊拉克埃尔比勒传出爆炸声。 - 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMHh3NS04UmFyelFTaGJEU0FOM3VVYkRuSTF4WEtST1lPaWgtSHRvOHpac1RhVnBVTlgxNE50WnQxMUJuZjJ1c1FVd3BaVmtNbjA2ZDBwX28zMzgxaDg5enptRTZBd2JLZlFGSTBlOHd2UFpyVXY4Ynk3RUpGNTZxZ2tqV09TeGxpWkM3cDVKZw?oc=5",
-      "site": "富途牛牛",
-      "siteUrl": "https://news.futunn.com"
-    },
-    {
       "id": "FL-76f14d0e6707",
       "date": "2026-10-09",
       "dateISO": "Fri, 09 Oct 2026 12:33:45 GMT",
@@ -349,6 +325,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhZy1tcV9rT3FiVkllMWxmLUp5cjV3ZWRXMTRtcHRWQXU0cGtYMXVLc3NYajhLWFh5R2w0eDVTRU80UVlPYjhScHlXdTlJOUlsQ3pGR0xpRXU5RXpZanBNd09tTU0?oc=5",
       "site": "南京广播电视台",
       "siteUrl": "https://www.nbs.cn"
+    },
+    {
+      "id": "FL-0dbd7dcb76c8",
+      "date": "2026-10-09",
+      "dateISO": "Fri, 09 Oct 2026 10:18:00 GMT",
+      "ts": 1791541080000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "穿越100亿年，宇宙大爆炸30亿年后就存在的星系信号抵达地球！那时还没太阳和地球 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUDI1aXZPSk9qOUxPT1NQTlRRa3kxR3RFcmxjWFdkdXNnVEVLY0FJZ2RTX1NQZ2lHZ3J4aExNaWRWSTFDNXhobjJsNThxVWpYUjVNLTYzY2VlVVkwdUJSMXQ2UEdBZkFQaW53UFZhTGZQQXNhakNWcUJOOXNZZS1QbFZxemkyLU1oZ3NGNw?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-69333574b5dd",
