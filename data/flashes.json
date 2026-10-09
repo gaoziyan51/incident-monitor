@@ -1,19 +1,7 @@
 {
-  "updated": "2026-10-09T19:03:56.861Z",
+  "updated": "2026-10-09T19:20:02.017Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-ea4e71074df6",
-      "date": "2026-10-07",
-      "dateISO": "Wed, 07 Oct 2026 02:24:36 GMT",
-      "ts": 1791339876000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "数学大爆炸！OpenAI 一夜攻克722个数学难题，准黎曼猜想已被证明 - 华尔街见闻",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qd1BNckF1XzVMZXBkQU8tVDN6R29vRFprNkZSdHo0WjMtZEF6R1E0NGZabUhXbHUtWldabHY1MzE1QXNIRGE2NkZseko5UUxIR1Jz?oc=5",
-      "site": "华尔街见闻",
-      "siteUrl": "https://wallstreetcn.com"
-    },
     {
       "id": "FL-385dd58b908a",
       "date": "2026-08-11",
@@ -133,6 +121,18 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oU1V0TXdQTUM3R0J3RHA4ZUV1Y0xrRXBhQVlielY4UUNFYWJxYWxUTGFNUDNfZml5bHRsemhRMFEyNlh3LWlTdURHLWZSWmxmRjl6a0J2OGJWcEZIOEE?oc=5",
       "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
+      "id": "FL-50e8a3f3c430",
+      "date": "2026-10-08",
+      "dateISO": "Thu, 08 Oct 2026 04:10:00 GMT",
+      "ts": 1791432600000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "数学大爆炸！OpenAI 一夜攻克722个数学难题，准黎曼猜想已被证明 - 智源社区",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RdHhSQjlIX2UxSHZTMXlMM204RDhvd0VjdDBlX09RVUhmWXpJOVlwOEhtT0s5TTBRNDBXUnRHQ1R4Y1pOR3R6Yg?oc=5",
+      "site": "智源社区",
+      "siteUrl": "https://hub.baai.ac.cn"
     },
     {
       "id": "FL-340d5e981918",
@@ -277,6 +277,18 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5naEpaTmt5bmlhUXlZdndRR2F3XzN6Z2d5aWcwdU4zRnpJWXBJX3VpVWxzRDBzQUFVRXZ4TW1lOTJQUEhCQ3NDNDFEN2FpVTRuYTh3?oc=5",
       "site": "环球网",
       "siteUrl": "https://m.huanqiu.com"
+    },
+    {
+      "id": "FL-a6d2082cef2d",
+      "date": "2026-10-09",
+      "dateISO": "Fri, 09 Oct 2026 19:17:43 GMT",
+      "ts": 1791573463000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "We blasted mobile homes with hurricane‑force winds to test how they fail – and found clues for making affordable housing safer - Florida International University",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVFlkeFZQeldxbzVpcnZ1aGRzZGx0WWFPd2FLSllCdkNlakcxMzdrbERPRXZmVFBSTE9HOTVkdnM0V0VnRi0xMEtDdy00SS13SnBibWI4eUVmajh0a0xFYmY3SEYzMF8zbTg5QUdIZVpab1gzeU1pbDhfR3RTN25pZWM0TVRFMXZSN2VXdERoLTlxdFRfeXpoRDJRR3lyQmVwT3EwM2FQUUx4b3FzbExKMTBXUC1SR1p2OHlSVkt6bUM3UnhXYTJpd3ZUSjYzRTdlUXFwRTF5UzEwYm9yY2cyeXpn?oc=5",
+      "site": "Florida International University",
+      "siteUrl": "https://news.fiu.edu"
     },
     {
       "id": "FL-2bacde66bc0c",
