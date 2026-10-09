@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-09T09:58:50.601Z",
+  "updated": "2026-10-09T10:11:16.127Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-ea4e71074df6",
+      "date": "2026-10-07",
+      "dateISO": "Wed, 07 Oct 2026 02:24:36 GMT",
+      "ts": 1791339876000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "数学大爆炸！OpenAI 一夜攻克722个数学难题，准黎曼猜想已被证明 - 华尔街见闻",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qd1BNckF1XzVMZXBkQU8tVDN6R29vRFprNkZSdHo0WjMtZEF6R1E0NGZabUhXbHUtWldabHY1MzE1QXNIRGE2NkZseko5UUxIR1Jz?oc=5",
+      "site": "华尔街见闻",
+      "siteUrl": "https://wallstreetcn.com"
+    },
     {
       "id": "FL-385dd58b908a",
       "date": "2026-08-11",
@@ -37,18 +49,6 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oZjJxSWZyMU11MFhMSG9XeDY4N1lOWWRpeGJHOUotbUg4aEhNb1NhYXlPSVhCdWJmckpydldFSkNNajV2dXlud1NSQmx6YjFicnRBRUpma2VOMkt2TXd4Z0t5M0VlMGlnU21wOVI5aUd2b09zc25SNU5iU3lOQQ?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-b50ca2b58258",
-      "date": "2026-10-06",
-      "dateISO": "Tue, 06 Oct 2026 11:05:00 GMT",
-      "ts": 1791284700000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "数学大爆炸，OpenAI 一夜攻克722个数学难题，准黎曼猜想已被证明 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80cjdsbWgxNjM3V2NSSE5TLW1VS184TTJlMnV5SHBUTERZazJ0dDVjOHJIVzdsclRwbDlZS0dwaWxpaldGRVp3cXAyY1I2dw?oc=5",
-      "site": "36Kr",
-      "siteUrl": "https://m.36kr.com"
     },
     {
       "id": "FL-3ee060d46b63",
@@ -159,30 +159,6 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-41fd770cfc2f",
-      "date": "2026-10-08",
-      "dateISO": "Thu, 08 Oct 2026 01:40:28 GMT",
-      "ts": 1791423628000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "泰州姜堰：唱响古风新韵，燃爆假日经济 - 新华报业网",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56RDM0Qy1oMDVLUks0SWctZ2FKY1ZqM0R6UHVyemhHZXB4akowX2xTdl9lMjF6WlBCNjlSYThsNWZULVRWQUpITjJhMFpZN2REVmtZaC1uTld3ZDRsX1dMZjFrMmx2WlFxbGdn?oc=5",
-      "site": "新华报业网",
-      "siteUrl": "https://www.xhby.net"
-    },
-    {
-      "id": "FL-53d69e52e677",
-      "date": "2026-10-08",
-      "dateISO": "Thu, 08 Oct 2026 01:40:28 GMT",
-      "ts": 1791423628000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "泰州姜堰：唱响古风新韵，燃爆假日经济 - 中国江苏网",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUTNFSzhBekNPblJxbkU3Rmx5UFhrNWgycENEN05nclJFZ0lwOENhdF93UnpwcDJ5ZWJSU2xpS1JWYjdyc3VhLWgxSFlldF8xSFNFY1lQU2x3VGU1czNaNDBHblZpT29OelNiUDVfTDRQOFVERFUtZVE0dWthanFSYlNvZDhPZw?oc=5",
-      "site": "中国江苏网",
-      "siteUrl": "https://news.jschina.com.cn"
-    },
-    {
       "id": "FL-340d5e981918",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
@@ -193,6 +169,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-65a837ede06b",
+      "date": "2026-10-04",
+      "dateISO": "Sun, 04 Oct 2026 08:42:58 GMT",
+      "ts": 1791103378000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "乌首都基辅响起强烈爆炸声 一桥梁再次遭袭 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50ajJWMmw0dWRvT2JnSW01VnhEZDZ3WUVydFZlSjBabUVPMW16aHRaeTRiUDgwZzg4blo3bWVtOHJQaVNqYkxtb1hCdEtyQkJXOTFqeTJNWWtHbU1oZlZtdHFwZFVlRjM3clAyWFpralZNWkNIT3VyOQ?oc=5",
+      "site": "央视网",
+      "siteUrl": "https://news.cctv.com"
     },
     {
       "id": "FL-0615dd398028",
@@ -385,6 +373,18 @@
       "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQb1NTblVTdlFFeHBGZ2ZhRUFaNlFjRTBhRVFTMHlnc0lWdjBGbjA0ZnRrYXFpMEhfcXRGczFqNVB6R1NZS0dITWNPd0ZEVkN3N2pDdmhxYTVZOFRQakVTS254QjZ5TWxWY1FVaE40blNDT2h6Z2lGSE5WNEFSNmNUcFRFRTRSNkx0b2tpUmlqaTJMbktvR19Qck5zalhsTHZKTVQyZ0JNWUw4aFZqbTVBNlVtUzlEc3QzLUx5MkRsZVdPNVR3WjA0a0NFd09vQVpra2U3SExSQ3Z3VmlmQTdQbDhBMDlzOXFuYXpVeWR1N2F5dUdOTkJiYlZwTzh5QlpnMHg5b2FYeWVSeng1d0RIdFNrcDM0UmRYdktXV25PdkZud0FoZDVvejVicnVHVDNmUkthV1FpVTlxV252Y3pjV1E2VWh1REN1dTNLMXZrdkUyTEF3Vk5zY1hwUWwybnhBZkE?oc=5",
       "site": "华尔街日报中文版",
       "siteUrl": "https://cn.wsj.com"
+    },
+    {
+      "id": "FL-4cc80280a6ca",
+      "date": "2026-10-02",
+      "dateISO": "Fri, 02 Oct 2026 21:52:28 GMT",
+      "ts": 1790977948000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "朝鲜半岛非军事区发生爆炸，首尔要求平壤道歉，平壤回：“可悲” - RFI",
+      "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxQRnNVX2VvdGt3WmFDSzJianVqQ2VEYlRUMDlMM3R1cUVjZ1lwYV9hWXV2Q3NFMktVclB2YmJJU3ZsNVRUV3c4ZzZDeW5GS0plUVNudUFuWHhraHJxeUt2ZFZFZTdYdDRYWmhHVXhlMUlaRGdLZzhGdktBNDNRTTFRS3V5UGhETVllaUo2NVByTHpQel9kTGF5bExkdEZUTGZqNDNOUWQzQTNRa3JMaVl1SmdLOUY1RXpqM3pMQmJVLVk3eG1KbkQzOG1IM05LT1JlejBXc1pON0VEekF2MzNqaXRhcVZyS1BJbjJrbmxWaTV5Yl9jTS1Tdk8zWXhTNGlWVWJ0NnBzYnljSmEtRjBaZmdFcmRYdllJTkd2NWRfZ2NrdklXVFN2dkh6SHpUdC1wZDE2UmJBVjVpRWllQThEV0prUE5La0lRUmdjZDM5eGNqclA2VTFsMUNSRHk2bUZKZ0R5ZGhXdnVHMUsxNmlTaXh2SDVtZWlfMjZ5M3ZiRTl1a2djRHhjclF6U3RvRWpoVjgza3c4SGplX3h5bmRxWFd2ZWE?oc=5",
+      "site": "RFI",
+      "siteUrl": "https://www.rfi.fr"
     },
     {
       "id": "FL-a1625e58e48d",
