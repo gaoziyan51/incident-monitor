@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T15:40:32.699Z",
+  "updated": "2026-10-09T15:59:21.724Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -195,6 +195,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-008d86b164a4",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 15:30:00 GMT",
+      "ts": 1790436600000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典发生爆炸，1名女游客遇难，5人失踪，事发卫城脚下，靠近奥林匹亚宙斯神庙 - 川观新闻",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wT2VkbnNVQzB1dlFrSUpwQU5VbElha1Fyc3h0LVI1WFBMSldqQkRfMWkyeV94b1pPS0w5eFQtT1NxQjdRSkRkbm5yUE5iZw?oc=5",
+      "site": "川观新闻",
+      "siteUrl": "https://cbgc.scol.com.cn"
+    },
+    {
       "id": "FL-08d5beb77eeb",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
@@ -301,6 +313,18 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5naEpaTmt5bmlhUXlZdndRR2F3XzN6Z2d5aWcwdU4zRnpJWXBJX3VpVWxzRDBzQUFVRXZ4TW1lOTJQUEhCQ3NDNDFEN2FpVTRuYTh3?oc=5",
       "site": "环球网",
       "siteUrl": "https://m.huanqiu.com"
+    },
+    {
+      "id": "FL-2bacde66bc0c",
+      "date": "2026-10-09",
+      "dateISO": "Fri, 09 Oct 2026 15:07:00 GMT",
+      "ts": 1791558420000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "太阳一直在核聚变，为什么不会爆炸？| No.533 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN2Z2RnNQTm5DM3hjMDhxWnA4YlpfUE02cFl2Q25lQ3hxZ2NaR0s3WjRnOVZUUFZxdjBURzM3Mkp0U1BBWEdUX1lmRWttclJrQmRuNEloLXFoUWpmaDNPYXVRT0pxMnFzT3NHZTFNUEFpbU5EeGlpNzBrdndSMnVwa0doa3ZqTTFfNzhZdQ?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-2ab817f95c27",
