@@ -1,7 +1,31 @@
 {
-  "updated": "2026-10-09T05:53:43.148Z",
+  "updated": "2026-10-09T06:04:56.437Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-d0a7f0b8f48b",
+      "date": "2026-10-07",
+      "dateISO": "Wed, 07 Oct 2026 01:07:37 GMT",
+      "ts": 1791335257000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "基辅传出多次爆炸声 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BRUJEVDZXVmgwRGFqQzVuc0dQMUFZNkRxTV9aN2Q1WW9RbmVSMDBwMG9KcFhlaWItbEpwWl9WbFB6VjhQOHpBbFhnWmp1VmVvNmthRldhdk16UmNXT0p0Mw?oc=5",
+      "site": "东方财富",
+      "siteUrl": "https://wap.eastmoney.com"
+    },
+    {
+      "id": "FL-710fe48d473f",
+      "date": "2026-06-03",
+      "dateISO": "Wed, 03 Jun 2026 07:00:00 GMT",
+      "ts": 1780470000000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "特别重大瓦斯爆炸事故后 山西煤矿迎来“最严整治” - 中国能源新闻网",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tM3B2anpUNmRxVVRfUk0yOVBuN2ZDNU9uQUJXWEljSEFEX3FXVU5QUWVXZEh0b3drdU5fNXlkXzRvdURYaDZJYXRkN0hUWXJoRXBPcXVud2NpLWRLQUxpMXZTYU5DNnRYbGQ5TVlR?oc=5",
+      "site": "中国能源新闻网",
+      "siteUrl": "https://www.cpnn.com.cn"
+    },
     {
       "id": "FL-385dd58b908a",
       "date": "2026-08-11",
@@ -51,6 +75,18 @@
       "siteUrl": "https://m.36kr.com"
     },
     {
+      "id": "FL-6612abd30963",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 07:00:00 GMT",
+      "ts": 1789628400000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "宇宙大爆炸最初五分钟氦丰度获最精确测量 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MzVkcXZnR2UwelNkenFIYVFYVzBPcUxUQ1VSaUVHcV9LYVJnZzhjQWZzM09DNk8wc0xVNlo2amRqNjBueWtVeTdSbkJZT053RjRSZDhmeXJyT19wekF3UHB6WERtZkxLaFFwT2pVWTE?oc=5",
+      "site": "中国科技网",
+      "siteUrl": "https://www.stdaily.com"
+    },
+    {
       "id": "FL-d885328d7c4b",
       "date": "2026-10-08",
       "dateISO": "Thu, 08 Oct 2026 23:51:00 GMT",
@@ -77,8 +113,8 @@
     {
       "id": "FL-eadcd2f862d9",
       "date": "2026-10-08",
-      "dateISO": "Thu, 08 Oct 2026 20:54:20 GMT",
-      "ts": 1791492860000,
+      "dateISO": "Thu, 08 Oct 2026 20:51:58 GMT",
+      "ts": 1791492718000,
       "scope": "dom",
       "type": "blast",
       "title": "霍尔木兹海峡南部航线发生数起猛烈爆炸_7x24快讯_新浪财经 - 手机新浪网",
@@ -243,18 +279,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-e48266c0f12b",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 07:00:00 GMT",
-      "ts": 1789974000000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "国际｜实拍：叙利亚一弹药库发生连续爆炸，多枚火箭弹飞向村庄 - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1Uk5BcXZUVmpITWZHMWx6N1ZINVpUWVM5a2VBa3N2MVZBSE5ZSTlNcDRVc2E1M0NpQldzZlZnRzdIZ1dWQVVqMmVhMzlIOUhhd1dnandlY0hreG84M2paVGFR?oc=5",
-      "site": "新京报",
-      "siteUrl": "https://m.bjnews.com.cn"
-    },
-    {
       "id": "FL-0d37be8e3bed",
       "date": "2026-10-05",
       "dateISO": "Mon, 05 Oct 2026 08:45:00 GMT",
@@ -289,18 +313,6 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5naEpaTmt5bmlhUXlZdndRR2F3XzN6Z2d5aWcwdU4zRnpJWXBJX3VpVWxzRDBzQUFVRXZ4TW1lOTJQUEhCQ3NDNDFEN2FpVTRuYTh3?oc=5",
       "site": "环球网",
       "siteUrl": "https://m.huanqiu.com"
-    },
-    {
-      "id": "FL-84a9598aa100",
-      "date": "2026-06-12",
-      "dateISO": "Fri, 12 Jun 2026 07:00:00 GMT",
-      "ts": 1781247600000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "泰国当局判处两维吾尔人死刑　BBC记者回忆当年的曼谷四面佛爆炸案 - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92WW1HV0ttYlE2bUkxb2ZWUDVCSUNuTmRaQnNSWnpDTElPRUFUOXk3U3FoX2VKTm1FQ29TaDBocTUwMTZlMU1Za2hRUkxEMG9taGphNkZvSjI4UF9wUzVyU0E4amUyQdIBa0FVX3lxTE5YVGx2WWxZY1lKNjNHQ1huNHZQWWFqTW1MR0p6RnBwaVdSSXlKT1FEQmx6dzI3dVBIVm5jTVdpRHR6b05UeHRKdUVrZEFMbzcwOUJLcHhGWVBaN2tnU2c5QzFKTEdyZml6ZDg0?oc=5",
-      "site": "BBC",
-      "siteUrl": "https://www.bbc.com"
     },
     {
       "id": "FL-48494aa3b017",
@@ -361,18 +373,6 @@
       "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQb1NTblVTdlFFeHBGZ2ZhRUFaNlFjRTBhRVFTMHlnc0lWdjBGbjA0ZnRrYXFpMEhfcXRGczFqNVB6R1NZS0dITWNPd0ZEVkN3N2pDdmhxYTVZOFRQakVTS254QjZ5TWxWY1FVaE40blNDT2h6Z2lGSE5WNEFSNmNUcFRFRTRSNkx0b2tpUmlqaTJMbktvR19Qck5zalhsTHZKTVQyZ0JNWUw4aFZqbTVBNlVtUzlEc3QzLUx5MkRsZVdPNVR3WjA0a0NFd09vQVpra2U3SExSQ3Z3VmlmQTdQbDhBMDlzOXFuYXpVeWR1N2F5dUdOTkJiYlZwTzh5QlpnMHg5b2FYeWVSeng1d0RIdFNrcDM0UmRYdktXV25PdkZud0FoZDVvejVicnVHVDNmUkthV1FpVTlxV252Y3pjV1E2VWh1REN1dTNLMXZrdkUyTEF3Vk5zY1hwUWwybnhBZkE?oc=5",
       "site": "华尔街日报中文版",
       "siteUrl": "https://cn.wsj.com"
-    },
-    {
-      "id": "FL-4cc80280a6ca",
-      "date": "2026-10-02",
-      "dateISO": "Fri, 02 Oct 2026 21:52:28 GMT",
-      "ts": 1790977948000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "朝鲜半岛非军事区发生爆炸，首尔要求平壤道歉，平壤回：“可悲” - RFI",
-      "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxQRnNVX2VvdGt3WmFDSzJianVqQ2VEYlRUMDlMM3R1cUVjZ1lwYV9hWXV2Q3NFMktVclB2YmJJU3ZsNVRUV3c4ZzZDeW5GS0plUVNudUFuWHhraHJxeUt2ZFZFZTdYdDRYWmhHVXhlMUlaRGdLZzhGdktBNDNRTTFRS3V5UGhETVllaUo2NVByTHpQel9kTGF5bExkdEZUTGZqNDNOUWQzQTNRa3JMaVl1SmdLOUY1RXpqM3pMQmJVLVk3eG1KbkQzOG1IM05LT1JlejBXc1pON0VEekF2MzNqaXRhcVZyS1BJbjJrbmxWaTV5Yl9jTS1Tdk8zWXhTNGlWVWJ0NnBzYnljSmEtRjBaZmdFcmRYdllJTkd2NWRfZ2NrdklXVFN2dkh6SHpUdC1wZDE2UmJBVjVpRWllQThEV0prUE5La0lRUmdjZDM5eGNqclA2VTFsMUNSRHk2bUZKZ0R5ZGhXdnVHMUsxNmlTaXh2SDVtZWlfMjZ5M3ZiRTl1a2djRHhjclF6U3RvRWpoVjgza3c4SGplX3h5bmRxWFd2ZWE?oc=5",
-      "site": "RFI",
-      "siteUrl": "https://www.rfi.fr"
     },
     {
       "id": "FL-a1625e58e48d",
