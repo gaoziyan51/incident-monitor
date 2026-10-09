@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T10:11:16.127Z",
+  "updated": "2026-10-09T10:33:11.484Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -121,6 +121,18 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBSVUs0Z2xPNlA3SW41U2xsSldseFE5ajl0aWVHN19semdHVEpORGpEZWM3Vi1PRWszaXpqYWswM2poYmNHbVRWd21VUQ?oc=5",
       "site": "手机新浪网",
       "siteUrl": "https://wap.cj.sina.cn"
+    },
+    {
+      "id": "FL-d04e2ee18358",
+      "date": "2026-10-08",
+      "dateISO": "Thu, 08 Oct 2026 15:01:25 GMT",
+      "ts": 1791471685000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "湖南临澧“6·16”较大爆炸事故调查报告公布 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUS1XY0c1eUpzdWVIX3ZMdFY3OG9YeExoVFh6blNxdGgtaDhhQ1VMQTlOaWhocGxWMVdpdXJXWnRXaE85Nm01aFhkbXlPa0YteGpWTlhKQThaWFpGRXg5QUd6R2g0blM0cnNUb3hROVpTUzRtLTlPRmR0ZEdwSUp1Nk9IU2FpRTlvZ2tDVw?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-af7aebf75667",
@@ -303,6 +315,18 @@
       "siteUrl": "https://m.huanqiu.com"
     },
     {
+      "id": "FL-94527af402d0",
+      "date": "2026-10-09",
+      "dateISO": "Fri, 09 Oct 2026 10:18:40 GMT",
+      "ts": 1791541120000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "穿越100亿年，宇宙大爆炸30亿年后就存在的星系信号抵达地球！那时还没太阳和地球 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMFpPdHJOM0xTZ1RwR05ZYUoyQXRhLVFRSWxlUVYxa2dtS2hYTzVaMmdBS1I1RU9iQnpGSXFSVVdGQmVqV2hzaXFhUTh5dUYyYXhpSTZmbU9rZHFvVXhhbVBoQ05DZ2wzRmtpbjZMel96Xy1Vcy16VWVCRDdoUGVXOUt6QVIzZ0Y0?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-6a6960fa295c",
       "date": "2026-10-09",
       "dateISO": "Fri, 09 Oct 2026 09:02:00 GMT",
@@ -373,18 +397,6 @@
       "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQb1NTblVTdlFFeHBGZ2ZhRUFaNlFjRTBhRVFTMHlnc0lWdjBGbjA0ZnRrYXFpMEhfcXRGczFqNVB6R1NZS0dITWNPd0ZEVkN3N2pDdmhxYTVZOFRQakVTS254QjZ5TWxWY1FVaE40blNDT2h6Z2lGSE5WNEFSNmNUcFRFRTRSNkx0b2tpUmlqaTJMbktvR19Qck5zalhsTHZKTVQyZ0JNWUw4aFZqbTVBNlVtUzlEc3QzLUx5MkRsZVdPNVR3WjA0a0NFd09vQVpra2U3SExSQ3Z3VmlmQTdQbDhBMDlzOXFuYXpVeWR1N2F5dUdOTkJiYlZwTzh5QlpnMHg5b2FYeWVSeng1d0RIdFNrcDM0UmRYdktXV25PdkZud0FoZDVvejVicnVHVDNmUkthV1FpVTlxV252Y3pjV1E2VWh1REN1dTNLMXZrdkUyTEF3Vk5zY1hwUWwybnhBZkE?oc=5",
       "site": "华尔街日报中文版",
       "siteUrl": "https://cn.wsj.com"
-    },
-    {
-      "id": "FL-4cc80280a6ca",
-      "date": "2026-10-02",
-      "dateISO": "Fri, 02 Oct 2026 21:52:28 GMT",
-      "ts": 1790977948000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "朝鲜半岛非军事区发生爆炸，首尔要求平壤道歉，平壤回：“可悲” - RFI",
-      "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxQRnNVX2VvdGt3WmFDSzJianVqQ2VEYlRUMDlMM3R1cUVjZ1lwYV9hWXV2Q3NFMktVclB2YmJJU3ZsNVRUV3c4ZzZDeW5GS0plUVNudUFuWHhraHJxeUt2ZFZFZTdYdDRYWmhHVXhlMUlaRGdLZzhGdktBNDNRTTFRS3V5UGhETVllaUo2NVByTHpQel9kTGF5bExkdEZUTGZqNDNOUWQzQTNRa3JMaVl1SmdLOUY1RXpqM3pMQmJVLVk3eG1KbkQzOG1IM05LT1JlejBXc1pON0VEekF2MzNqaXRhcVZyS1BJbjJrbmxWaTV5Yl9jTS1Tdk8zWXhTNGlWVWJ0NnBzYnljSmEtRjBaZmdFcmRYdllJTkd2NWRfZ2NrdklXVFN2dkh6SHpUdC1wZDE2UmJBVjVpRWllQThEV0prUE5La0lRUmdjZDM5eGNqclA2VTFsMUNSRHk2bUZKZ0R5ZGhXdnVHMUsxNmlTaXh2SDVtZWlfMjZ5M3ZiRTl1a2djRHhjclF6U3RvRWpoVjgza3c4SGplX3h5bmRxWFd2ZWE?oc=5",
-      "site": "RFI",
-      "siteUrl": "https://www.rfi.fr"
     },
     {
       "id": "FL-a1625e58e48d",
