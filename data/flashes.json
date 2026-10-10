@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T13:30:00.693Z",
+  "updated": "2026-10-10T13:42:47.573Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -111,16 +111,16 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-2bac7514e492",
+      "id": "FL-be69eae36f0d",
       "date": "2026-10-10",
-      "dateISO": "Sat, 10 Oct 2026 13:20:57 GMT",
-      "ts": 1791638457000,
+      "dateISO": "Sat, 10 Oct 2026 13:19:31 GMT",
+      "ts": 1791638371000,
       "scope": "intl",
       "type": "blast",
-      "title": "沙特首都国际机场传出爆炸声 - 华龙网",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1nTkVFN0hGTC1jdmVxNkJvX3ktTXdCZFZ1VnJuWlpRSDBjN051WlBHdkU5UHV0bHV6NGp6Q1cyNGxDczgyYVNRWFQtQ3pwQm85R1RNNjdHQ1lWdHlscENYZkxHX00tcGpKR1lN?oc=5",
-      "site": "华龙网",
-      "siteUrl": "https://www.cqnews.net"
+      "title": "沙特首都国际机场传出爆炸声 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xRHktNUhfYW9QcUpETnhWNnBwYjgwMk0tc1BqalBmbWJWQnh2MER4M1RfbkxKYU9TRTNDUHcyUUo3N3RuNHIwa1M1MFZnTGc2MmlQc3JTUUY0MVJmVGc?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn"
     },
     {
       "id": "FL-ea213db8a15f",
@@ -133,6 +133,18 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDMWRzS050SngxYlFJUnNZajQ2aDVRaHBTWENVS1ZHSU9LOWtWZFF5emZPenpYUE5aTmZOVFFTU01lTXBWSmVndnh1Rlo0Vk5JTk9nZ2Y2cHBhM09FRUc3WjdzckRWZnlR?oc=5",
       "site": "中国新闻网",
       "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
+      "id": "FL-489d17f29cdd",
+      "date": "2026-10-10",
+      "dateISO": "Sat, 10 Oct 2026 13:17:06 GMT",
+      "ts": 1791638226000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "沙特首都国际机场传出爆炸声 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE40emI4TUZ5a2lGaWxEU1ZuMHJieDNsR1h6T2MzUWhTZFlNS3VfTTVqM1pYaW5paTNTZklsWEFiMlo4ZnR0X1p6M2lIUkQ?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://news.ifeng.com"
     },
     {
       "id": "FL-b95bf77916fd",
