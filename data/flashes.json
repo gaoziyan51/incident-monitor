@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T03:30:59.222Z",
+  "updated": "2026-10-10T03:50:13.261Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -195,6 +195,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-e48266c0f12b",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 07:00:00 GMT",
+      "ts": 1789974000000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "国际｜实拍：叙利亚一弹药库发生连续爆炸，多枚火箭弹飞向村庄 - 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1Uk5BcXZUVmpITWZHMWx6N1ZINVpUWVM5a2VBa3N2MVZBSE5ZSTlNcDRVc2E1M0NpQldzZlZnRzdIZ1dWQVVqMmVhMzlIOUhhd1dnandlY0hreG84M2paVGFR?oc=5",
+      "site": "新京报",
+      "siteUrl": "https://m.bjnews.com.cn"
+    },
+    {
       "id": "FL-0d37be8e3bed",
       "date": "2026-10-05",
       "dateISO": "Mon, 05 Oct 2026 08:45:00 GMT",
@@ -217,18 +229,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-c39833bbfc21",
-      "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 22:10:00 GMT",
-      "ts": 1790374200000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 环球网",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5naEpaTmt5bmlhUXlZdndRR2F3XzN6Z2d5aWcwdU4zRnpJWXBJX3VpVWxzRDBzQUFVRXZ4TW1lOTJQUEhCQ3NDNDFEN2FpVTRuYTh3?oc=5",
-      "site": "环球网",
-      "siteUrl": "https://m.huanqiu.com"
     },
     {
       "id": "FL-a4885b13e86c",
