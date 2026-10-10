@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T19:21:08.672Z",
+  "updated": "2026-10-10T19:36:04.852Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -183,6 +183,18 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
+      "id": "FL-fa135486e83a",
+      "date": "2026-10-10",
+      "dateISO": "Sat, 10 Oct 2026 14:54:00 GMT",
+      "ts": 1791644040000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "沙特首都国际机场传出爆炸声，我大使馆紧急提醒 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qNEExZnMwT2xLbHUwNGMwTE9oM2p0c0hhbGg5Z194b0dpYnh4X2ZSWUdpRldDNm81Ri1ta3lDUDBmdWI3TlVaYkhzSTV4Zld2UENwdkNHdW5mcjBTM2NiSkRjaE02VzBJWUFJdlRqYjZvajdJTnc?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
+    },
+    {
       "id": "FL-199d6f72d205",
       "date": "2026-10-10",
       "dateISO": "Sat, 10 Oct 2026 14:50:14 GMT",
@@ -195,15 +207,15 @@
       "siteUrl": "https://www.163.com"
     },
     {
-      "id": "FL-66b32d292620",
+      "id": "FL-1429085dd47c",
       "date": "2026-10-10",
       "dateISO": "Sat, 10 Oct 2026 14:29:00 GMT",
       "ts": 1791642540000,
       "scope": "intl",
       "type": "blast",
-      "title": "据报沙特利雅得国际机场传出爆炸声 机场疏散 - 香港電台網站",
+      "title": "据报沙特利雅得国际机场传出爆炸声 机场疏散 - RTHK",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOODUxb05tNGJkQm1IZGNKeWIzMzh4ZS0wTWEwR216VzFFT3oxSHpRWk5lck1uRWdRaERCQ3lqaHM0X2pKaW1yX013TXhJYVI5MDhkLTNJdUtpcHpFcXg0WnFpbFlVeU9WY3R1NE9QbmJMc3VXYXZtMnVjeHZxQmVVMTRTREJXOHJwTnFYRnNnek1hVk5GNzZPVXNtYnExRkNia3ZF?oc=5",
-      "site": "香港電台網站",
+      "site": "RTHK",
       "siteUrl": "https://gbcode.rthk.hk"
     },
     {
@@ -267,18 +279,6 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-1835e9af8a05",
-      "date": "2026-10-10",
-      "dateISO": "Sat, 10 Oct 2026 13:18:00 GMT",
-      "ts": 1791638280000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "沙特首都国际机场传出爆炸声 已无航班起降 - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0dU0tNmt3c0tGdklLb092WU5fd1BnQkk5eE5TSVl5b3liU2pEQmprWEhkVFBZcGp1THpDdmg1SzJqZ0dJcXNUdHdleGFuZjNmcEszTTF2akJWQmx1YU9tNWJLRno?oc=5",
-      "site": "新京报",
-      "siteUrl": "https://www.bjnews.com.cn"
-    },
-    {
       "id": "FL-bbc1b42e1891",
       "date": "2026-10-10",
       "dateISO": "Sat, 10 Oct 2026 12:39:17 GMT",
@@ -329,8 +329,8 @@
     {
       "id": "FL-e51dc99fc707",
       "date": "2026-10-10",
-      "dateISO": "Sat, 10 Oct 2026 07:39:45 GMT",
-      "ts": 1791617985000,
+      "dateISO": "Sat, 10 Oct 2026 07:35:01 GMT",
+      "ts": 1791617701000,
       "scope": "dom",
       "type": "blast",
       "title": "【视频】电池安全做到“不起火、不爆炸”还不够？ - 汽车之家",
