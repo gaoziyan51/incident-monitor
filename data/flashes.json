@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T01:31:34.899Z",
+  "updated": "2026-10-10T01:49:31.878Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -63,6 +63,18 @@
       "siteUrl": "https://www.idnfinancials.com"
     },
     {
+      "id": "FL-f882b9471861",
+      "date": "2026-10-08",
+      "dateISO": "Thu, 08 Oct 2026 22:12:30 GMT",
+      "ts": 1791497550000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "湖南临澧“6·16” 较大爆炸事故调查报告公布 - 天津日报",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQTZVbVNmTmg2enJ4Ui1BeUdocTRMeEQxSF9xbGMtc0lNVzNHQnZRTTN1eU56OGhjZHAxZk5HVnh3dzdPU1E1UXJVel9EcEdzd1d6NV8zM3cyQm5OaldTenZabk02UXVnSEc2MklIOUlCbkRqclNGZFZFVTF0b1l3SjB3?oc=5",
+      "site": "天津日报",
+      "siteUrl": "https://epaper.tianjinwe.com"
+    },
+    {
       "id": "FL-eadcd2f862d9",
       "date": "2026-10-08",
       "dateISO": "Thu, 08 Oct 2026 20:51:58 GMT",
@@ -85,18 +97,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13T2FWNzByOGJxOS1GSmF3bHBTNzlxTHpsOUNGRldQV2xaUDVpOWc3Y0JfTHZCTThWYXlNcEE1UGtnOWRFUVB2Nkcwb3VJVEdRUWVjS21hT216YnlGcm5QUQ?oc=5",
       "site": "东方财富",
       "siteUrl": "https://wap.eastmoney.com"
-    },
-    {
-      "id": "FL-d04e2ee18358",
-      "date": "2026-10-08",
-      "dateISO": "Thu, 08 Oct 2026 15:01:25 GMT",
-      "ts": 1791471685000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "湖南临澧“6·16”较大爆炸事故调查报告公布 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUS1XY0c1eUpzdWVIX3ZMdFY3OG9YeExoVFh6blNxdGgtaDhhQ1VMQTlOaWhocGxWMVdpdXJXWnRXaE85Nm01aFhkbXlPa0YteGpWTlhKQThaWFpGRXg5QUd6R2g0blM0cnNUb3hROVpTUzRtLTlPRmR0ZEdwSUp1Nk9IU2FpRTlvZ2tDVw?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-a0c6c0d6f94c",
@@ -207,6 +207,18 @@
       "siteUrl": "https://www.dw.com"
     },
     {
+      "id": "FL-fee9ee69aa03",
+      "date": "2026-10-03",
+      "dateISO": "Sat, 03 Oct 2026 00:34:00 GMT",
+      "ts": 1790987640000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "英国：这名28岁英国伞兵，在乌克兰死于爆炸 - 观察者网",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUTVJ5aUFBbVdqenl2bWhvTVo3S1YtMFEyaE9YVk1jNDduY2t6YS10WDNqSmJkS2pPY0lFaF9SMkYzb3lMNFZTbUozSjB5MU5oS044Vi1ERDdJQWtrUXFJdDJCYjNOcjVVRWxkclJSZWg4RG8?oc=5",
+      "site": "观察者网",
+      "siteUrl": "https://www.guancha.cn"
+    },
+    {
       "id": "FL-160d55aeb47e",
       "date": "2026-06-22",
       "dateISO": "Mon, 22 Jun 2026 07:00:00 GMT",
@@ -313,18 +325,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zaEZTdjhZbmxQMlRyOEJSbEoxTlRQQ3RwdkF0UnV6VG1WN296LWtfLUwwYTROaElWaGZua3dKZHJUYnpzeFZmRTZhdkVzMUlKUEVObDgxMzVTU3JjVnRyS2lmSzZ1NlZ6ODNyeHNodGcyMGE4VkZQYmxQY3RYV28?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
-    },
-    {
-      "id": "FL-69333574b5dd",
-      "date": "2026-10-09",
-      "dateISO": "Fri, 09 Oct 2026 08:21:25 GMT",
-      "ts": 1791534085000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "黄某云用三轮车运送亮珠翻车引发爆炸，9人死亡、26人受伤，32名公职人员被追责问责 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLUtwNmwwWWRmWW1oSXk0S2xTQzhWbTR2RXZfUGVkc0lJTm9EWEFUSHp4Q20tRllqZENkcS1KS0hGVTJqRGZyY0pZR2pLaUptaFNWaC1vd0tiVVc5Q1pXR0w2Q3c3UThpUHc5eGwzWVF6WkVneFdyZnFCOXU0REhRMEVocjJaNUdQ?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-65f38a33b67a",
