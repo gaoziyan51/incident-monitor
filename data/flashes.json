@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T19:07:57.216Z",
+  "updated": "2026-10-10T19:21:08.672Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -171,18 +171,6 @@
       "siteUrl": "https://www.163.com"
     },
     {
-      "id": "FL-2a1318cb2148",
-      "date": "2026-10-10",
-      "dateISO": "Sat, 10 Oct 2026 15:26:00 GMT",
-      "ts": 1791645960000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "沙特首都国际机场传出爆炸声 已无航班起降 - 网易新闻客户端",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxb1pqVDByRGdOQXFrN0YwXzJlUS1IeU04aThMVHhwSU12dm40dTBheUhqV0p3Sk1ZRUVCMWFhT01uQllJb1gyYmNVM2FTUTlPa0YyaXl5em1mR2Y5?oc=5",
-      "site": "网易新闻客户端",
-      "siteUrl": "https://c.m.163.com"
-    },
-    {
       "id": "FL-dcbcc550c14e",
       "date": "2026-10-10",
       "dateISO": "Sat, 10 Oct 2026 15:18:14 GMT",
@@ -339,6 +327,18 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
+      "id": "FL-e51dc99fc707",
+      "date": "2026-10-10",
+      "dateISO": "Sat, 10 Oct 2026 07:39:45 GMT",
+      "ts": 1791617985000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "【视频】电池安全做到“不起火、不爆炸”还不够？ - 汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZdkZUZHpaUEJkTHJjdThpQkhPQTdVcWs3bXByVE9wemozRkJpenE1U2RSNUJvNUZtWmFGR2RRZFVrZVVhdFVXa0lOYS1Fb0dvM2Z4dzRMamdBUGs?oc=5",
+      "site": "汽车之家",
+      "siteUrl": "https://chejiahao.autohome.com.cn"
+    },
+    {
       "id": "FL-d20d43ac20c3",
       "date": "2026-10-10",
       "dateISO": "Sat, 10 Oct 2026 04:09:10 GMT",
@@ -373,18 +373,6 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWHVxN213dk96SEZYNV9lU2d2RVFocHNXRjlpWXVVYnBUdVk1TGxWUWZlektzQ3ZYUGcydk13MnBpY1lKdjJuOWxHS3VMdHNSaFV1RWpfbDhQbXJ4eHdSbkpCV0d1c1lTenlMeWw5N250cnIzNGo3NHZOdDk4MkxmektidlBlZUlCcVNsTW1wNlQ1WlczRVhmeUhuQXBoLVdXSUlLQ25hb0QtM0V1bHR6VGt3?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
-    },
-    {
-      "id": "FL-fee9ee69aa03",
-      "date": "2026-10-03",
-      "dateISO": "Sat, 03 Oct 2026 00:34:00 GMT",
-      "ts": 1790987640000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "英国：这名28岁英国伞兵，在乌克兰死于爆炸 - 观察者网",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUTVJ5aUFBbVdqenl2bWhvTVo3S1YtMFEyaE9YVk1jNDduY2t6YS10WDNqSmJkS2pPY0lFaF9SMkYzb3lMNFZTbUozSjB5MU5oS044Vi1ERDdJQWtrUXFJdDJCYjNOcjVVRWxkclJSZWg4RG8?oc=5",
-      "site": "观察者网",
-      "siteUrl": "https://www.guancha.cn"
     },
     {
       "id": "FL-160d55aeb47e",
