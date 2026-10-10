@@ -1,19 +1,7 @@
 {
-  "updated": "2026-10-10T04:31:05.731Z",
+  "updated": "2026-10-10T04:51:13.143Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-ea4e71074df6",
-      "date": "2026-10-07",
-      "dateISO": "Wed, 07 Oct 2026 02:24:36 GMT",
-      "ts": 1791339876000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "数学大爆炸！OpenAI 一夜攻克722个数学难题，准黎曼猜想已被证明 - 华尔街见闻",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qd1BNckF1XzVMZXBkQU8tVDN6R29vRFprNkZSdHo0WjMtZEF6R1E0NGZabUhXbHUtWldabHY1MzE1QXNIRGE2NkZseko5UUxIR1Jz?oc=5",
-      "site": "华尔街见闻",
-      "siteUrl": "https://wallstreetcn.com"
-    },
     {
       "id": "FL-385dd58b908a",
       "date": "2026-08-11",
@@ -219,6 +207,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-e48266c0f12b",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 07:00:00 GMT",
+      "ts": 1789974000000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "国际｜实拍：叙利亚一弹药库发生连续爆炸，多枚火箭弹飞向村庄 - 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1Uk5BcXZUVmpITWZHMWx6N1ZINVpUWVM5a2VBa3N2MVZBSE5ZSTlNcDRVc2E1M0NpQldzZlZnRzdIZ1dWQVVqMmVhMzlIOUhhd1dnandlY0hreG84M2paVGFR?oc=5",
+      "site": "新京报",
+      "siteUrl": "https://m.bjnews.com.cn"
+    },
+    {
       "id": "FL-0d37be8e3bed",
       "date": "2026-10-05",
       "dateISO": "Mon, 05 Oct 2026 08:45:00 GMT",
@@ -279,30 +279,6 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-2bacde66bc0c",
-      "date": "2026-10-09",
-      "dateISO": "Fri, 09 Oct 2026 15:07:00 GMT",
-      "ts": 1791558420000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "太阳一直在核聚变，为什么不会爆炸？| No.533 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN2Z2RnNQTm5DM3hjMDhxWnA4YlpfUE02cFl2Q25lQ3hxZ2NaR0s3WjRnOVZUUFZxdjBURzM3Mkp0U1BBWEdUX1lmRWttclJrQmRuNEloLXFoUWpmaDNPYXVRT0pxMnFzT3NHZTFNUEFpbU5EeGlpNzBrdndSMnVwa0doa3ZqTTFfNzhZdQ?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-76f14d0e6707",
-      "date": "2026-10-09",
-      "dateISO": "Fri, 09 Oct 2026 12:33:45 GMT",
-      "ts": 1791549225000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "泰州姜堰：唱响古风新韵，燃爆假日经济 - 南京广播电视台",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhZy1tcV9rT3FiVkllMWxmLUp5cjV3ZWRXMTRtcHRWQXU0cGtYMXVLc3NYajhLWFh5R2w0eDVTRU80UVlPYjhScHlXdTlJOUlsQ3pGR0xpRXU5RXpZanBNd09tTU0?oc=5",
-      "site": "南京广播电视台",
-      "siteUrl": "https://www.nbs.cn"
-    },
-    {
       "id": "FL-bf207b8b7ae5",
       "date": "2026-10-09",
       "dateISO": "Fri, 09 Oct 2026 10:18:00 GMT",
@@ -325,18 +301,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhTTlJSlRTc0hyZTktaEE3OWtheTFoWkxPa3JISm5OSDRDaWQ3MkhnLWhjYWNrdmcxTGF1TmJUei1odzRDMEo2MnJyWU5mMWJLREtzUWp2cG1McU8zOTF1S2FR?oc=5",
       "site": "观点网",
       "siteUrl": "https://www.guandian.cn"
-    },
-    {
-      "id": "FL-65f38a33b67a",
-      "date": "2026-10-09",
-      "dateISO": "Fri, 09 Oct 2026 03:33:00 GMT",
-      "ts": 1791516780000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "日本多地原子弹爆炸受害者团体举行集会 - 中国新闻网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2R19kdjJ1M1BGaThJREtOSUtLNFpTQWtVVENPclpOdmQzd2R4emdwWUtSSnl3cVRETnN3T1FNb0JVajJ0cEpZeHFQR0VZUTBBSTlOcEctXy1NcGw5T1dtNlJJM2R1MzZhbW1MaVVPUlpGTFVqMWc?oc=5",
-      "site": "中国新闻网",
-      "siteUrl": "https://www.chinanews.com.cn"
     },
     {
       "id": "FL-d885328d7c4b",
