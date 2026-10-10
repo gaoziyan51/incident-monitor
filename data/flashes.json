@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T19:36:04.852Z",
+  "updated": "2026-10-10T19:47:06.694Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -171,6 +171,18 @@
       "siteUrl": "https://www.163.com"
     },
     {
+      "id": "FL-2a1318cb2148",
+      "date": "2026-10-10",
+      "dateISO": "Sat, 10 Oct 2026 15:26:00 GMT",
+      "ts": 1791645960000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "沙特首都国际机场传出爆炸声 已无航班起降 - 网易新闻客户端",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxb1pqVDByRGdOQXFrN0YwXzJlUS1IeU04aThMVHhwSU12dm40dTBheUhqV0p3Sk1ZRUVCMWFhT01uQllJb1gyYmNVM2FTUTlPa0YyaXl5em1mR2Y5?oc=5",
+      "site": "网易新闻客户端",
+      "siteUrl": "https://c.m.163.com"
+    },
+    {
       "id": "FL-dcbcc550c14e",
       "date": "2026-10-10",
       "dateISO": "Sat, 10 Oct 2026 15:18:14 GMT",
@@ -231,15 +243,15 @@
       "siteUrl": "https://www.chinapress.com.my"
     },
     {
-      "id": "FL-bb95b34a8062",
+      "id": "FL-0d0d46acecbe",
       "date": "2026-10-10",
-      "dateISO": "Sat, 10 Oct 2026 13:43:53 GMT",
-      "ts": 1791639833000,
+      "dateISO": "Sat, 10 Oct 2026 13:44:01 GMT",
+      "ts": 1791639841000,
       "scope": "intl",
       "type": "blast",
-      "title": "沙特首都国际机场传出爆炸声 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ2lGTFBfUDNFcFJIZWZEVEJKRzFhaldhMmEtMEtRV3Z5TUZHMC11UXFPUExGbjdJYkpaS210UHp3OFZjcXZrUHdIQTVkS3VKZnhBYlF6dHFoNGpGT1czZ0owVEkzZkhreGZndDdOc1ptSERDRzgxSUNJNjZwQ3NGVlpyRXprNk5Z?oc=5",
-      "site": "搜狐网",
+      "title": "沙特首都国际机场传出爆炸声 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdUtkcll2R3NNdVoweUdORzdlbjZDS1hyLTR1LVBZRXJ0RWN0SnRUYTl1RWY5VXhVakF4TWFFdU9Ec1FIQy1QOEg0MG9WSW9GbU8wRjdVbzdSRVVDSkg4Nlh1YTlRczA3ZUgtazFGa1dta2EwWmlWMTFYeHNVSmFNOGw3dTdVaUFE?oc=5",
+      "site": "搜狐",
       "siteUrl": "https://m.sohu.com"
     },
     {
