@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T07:38:15.785Z",
+  "updated": "2026-10-10T07:50:06.898Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -243,16 +243,16 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-97d49aefb021",
+      "id": "FL-e48266c0f12b",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 07:00:00 GMT",
       "ts": 1789974000000,
-      "scope": "dom",
+      "scope": "intl",
       "type": "blast",
-      "title": "韩朝非军事区疑发生地雷爆炸，韩军3人受伤 - 观察者网",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42MkZYMS15SmtDSk1JNGN3N2dwZjRuTkVON2dKc3VGbzMxYTZmTWMwM2Y4dWYwZkxJZzN3QTNWQXNwc20zb0NZbEUyRnBYRUNabEhTd1lkTlU1QzJuSGx1enBuVEpTS0ZvSFJVWWJiZElLclk?oc=5",
-      "site": "观察者网",
-      "siteUrl": "https://www.guancha.cn"
+      "title": "国际｜实拍：叙利亚一弹药库发生连续爆炸，多枚火箭弹飞向村庄 - 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1Uk5BcXZUVmpITWZHMWx6N1ZINVpUWVM5a2VBa3N2MVZBSE5ZSTlNcDRVc2E1M0NpQldzZlZnRzdIZ1dWQVVqMmVhMzlIOUhhd1dnandlY0hreG84M2paVGFR?oc=5",
+      "site": "新京报",
+      "siteUrl": "https://m.bjnews.com.cn"
     },
     {
       "id": "FL-0d37be8e3bed",
