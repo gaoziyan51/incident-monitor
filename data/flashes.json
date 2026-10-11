@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T17:03:04.873Z",
+  "updated": "2026-10-11T17:19:33.169Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -27,6 +27,18 @@
       "siteUrl": "https://wap.eastmoney.com"
     },
     {
+      "id": "FL-f882b9471861",
+      "date": "2026-10-08",
+      "dateISO": "Thu, 08 Oct 2026 22:12:30 GMT",
+      "ts": 1791497550000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "湖南临澧“6·16” 较大爆炸事故调查报告公布 - 天津日报",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQTZVbVNmTmg2enJ4Ui1BeUdocTRMeEQxSF9xbGMtc0lNVzNHQnZRTTN1eU56OGhjZHAxZk5HVnh3dzdPU1E1UXJVel9EcEdzd1d6NV8zM3cyQm5OaldTenZabk02UXVnSEc2MklIOUlCbkRqclNGZFZFVTF0b1l3SjB3?oc=5",
+      "site": "天津日报",
+      "siteUrl": "https://epaper.tianjinwe.com"
+    },
+    {
       "id": "FL-084d23f0ce35",
       "date": "2026-10-08",
       "dateISO": "Thu, 08 Oct 2026 13:44:00 GMT",
@@ -49,6 +61,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-3457799800c9",
+      "date": "2026-10-11",
+      "dateISO": "Sun, 11 Oct 2026 17:08:00 GMT",
+      "ts": 1791738480000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "沙特首都国际机场再传爆炸声 中使馆紧急提醒！ - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5PR2VaQkxra09ZSS1YSDlGdkNoWW1QY3NfT2lhT0xqUHZJODNRVkRyQjJ6WUM3cTQ3a1p1MEFfaWdHd2R0YWgwX1Z5WDA3TXV1WlFWS29wemhCRktJM0M0QWljQmhqTEszcmtGWnhFdDF3dEE?oc=5",
+      "site": "新浪网",
+      "siteUrl": "https://k.sina.com.cn"
     },
     {
       "id": "FL-b83fc8499dce",
