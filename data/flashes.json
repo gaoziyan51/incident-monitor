@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T14:50:58.034Z",
+  "updated": "2026-10-11T15:02:21.028Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -25,18 +25,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SZURBZjRfRnpRY2QwN1RnbVpsZzZ6WWtnLVBXY1I4aWN5alhMQ0R3UDBEM2RPYTJsQ1VYVUt4YVpvSjJZTkIzV3lxQTMzdWVHSnF2SUlfY2gybzBIc0R0Rg?oc=5",
       "site": "东方财富",
       "siteUrl": "https://wap.eastmoney.com"
-    },
-    {
-      "id": "FL-f882b9471861",
-      "date": "2026-10-08",
-      "dateISO": "Thu, 08 Oct 2026 22:12:30 GMT",
-      "ts": 1791497550000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "湖南临澧“6·16” 较大爆炸事故调查报告公布 - 天津日报",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQTZVbVNmTmg2enJ4Ui1BeUdocTRMeEQxSF9xbGMtc0lNVzNHQnZRTTN1eU56OGhjZHAxZk5HVnh3dzdPU1E1UXJVel9EcEdzd1d6NV8zM3cyQm5OaldTenZabk02UXVnSEc2MklIOUlCbkRqclNGZFZFVTF0b1l3SjB3?oc=5",
-      "site": "天津日报",
-      "siteUrl": "https://epaper.tianjinwe.com"
     },
     {
       "id": "FL-084d23f0ce35",
@@ -73,18 +61,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HS0xhZHZQQzBGWUhkaTJNNElUNVhuM2JfSTJUWExqR1pCLW16WHJnZVRLRmNzeHQ2dXhGRWVXZXJaem9jMVpUbnRLUjctZw?oc=5",
       "site": "川观新闻",
       "siteUrl": "https://cbgc.scol.com.cn"
-    },
-    {
-      "id": "FL-0b5e87cedb5f",
-      "date": "2026-10-11",
-      "dateISO": "Sun, 11 Oct 2026 11:00:00 GMT",
-      "ts": 1791716400000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "15岁少年遭棕熊扑咬 裤袋手机突爆炸吓退猛兽 - 亚洲电视新闻",
-      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNV2N5aVpZUU1VM1RTWVVLejY4blNLTzBJMnN5N0g1T3RONGN3MnBvWmtvQ3Vmbmw1TF81cVdqS1RGVVdCZlhBNUFTU0YwSUIzcVZWbTVHclZCaXZidnlkaXNmdENybUMyZ2MtU09qM0tmQ3RDOFBTQl84dU0tczViUUpIS0MtXzczSU1jV3k1X3N4M0FKRlBUaDk3WG5tancxZnVucW8tRFd6LWZlUnlTSTVHeDIzcHVxOG14TWV4SnIxNGUta3dRY1BSREMwSXJNaWx0engzRnF5eW51V29uRnRSWERJUTRSVVpZZ281bkhteHBBRE1FcXE4Ykp5ZWVOQWdmRjlpaVJTRngxMmtCOF82UzM1cHJtdldxYXVFTGtCSmZldDFycHROdFZxRmYx?oc=5",
-      "site": "亚洲电视新闻",
-      "siteUrl": "https://atvnewsonline.com"
     },
     {
       "id": "FL-746831c4f78a",
@@ -147,6 +123,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-5e735aebc1c3",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
+      "ts": 1790406000000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ndWtWYUg5dm1rTVZLa1VjaElCSHJJX3dadkJRMm5JbWVLbnpHS2ZzM09EMjVubnVBeUZMU3ByMEZla2plUlRUYnlvaEdSZ0xnWXF2R2FSbk0tVHZFdTZWRUlDQUwydUhVQ2tGMEhUQklFX0lDelBn?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
       "id": "FL-08d5beb77eeb",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
@@ -157,18 +145,6 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaEUzM21qMG8zSnRRcy1iYjkwOUxBeWEyRnVHaVNZcmhIZ0FwS0lUYWhndmd0WHp1ZHpxVTZSYUlMLUVGVWxseUcwOEprSHA4MExzeFFxVFV3OVlacVc3dTVvMi1VUUVsVXlTb3I1bWlUS3dDUlBzcEs4allydkhIdFU3ckVMZjJPVXQ0ZWJQWkFWNEpITlhnTlR3?oc=5",
       "site": "新华网客户端",
       "siteUrl": "https://app.xinhuanet.com"
-    },
-    {
-      "id": "FL-5e735aebc1c3",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
-      "ts": 1790406000000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlemFCa3lteDlkZERLTXRLMHhpeTIzNmFqanFBczVPaFNjQjVxOHNJNm54Tkhua1FqOGtuaUhBLWdRSWxXaFRoZThQZXJqclRIV1pUaTNhcjhHU0dwRzA1WXNQc2ZOVEhXX0Z1NUVBcnBUalJRWkE3ZlE0S3NOaXM?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-f4bd6137730f",
@@ -421,18 +397,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-c39833bbfc21",
-      "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 22:10:00 GMT",
-      "ts": 1790374200000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 环球网",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5naEpaTmt5bmlhUXlZdndRR2F3XzN6Z2d5aWcwdU4zRnpJWXBJX3VpVWxzRDBzQUFVRXZ4TW1lOTJQUEhCQ3NDNDFEN2FpVTRuYTh3?oc=5",
-      "site": "环球网",
-      "siteUrl": "https://m.huanqiu.com"
     },
     {
       "id": "FL-d885328d7c4b",
