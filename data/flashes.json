@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T15:02:21.028Z",
+  "updated": "2026-10-11T15:19:30.923Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -49,6 +49,30 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-b83fc8499dce",
+      "date": "2026-10-11",
+      "dateISO": "Sun, 11 Oct 2026 15:08:00 GMT",
+      "ts": 1791731280000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "沙特首都国际机场传出爆炸声，我大使馆紧急提醒 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8teGctOEJoend4Ny1mU2hyX2NSYkZHbmNHcUJTcG5ybDZtSDNKeDd1WDhPa1FULUZQWmdEZkZFcjhyTXU0VVZieG1zTWdlMzY1d2NGeFFwWDBnZGpDZ01YWFBoN3lKUk5wRDlHSGRra08?oc=5",
+      "site": "新浪网",
+      "siteUrl": "https://k.sina.com.cn"
+    },
+    {
+      "id": "FL-09ab43e8e6c2",
+      "date": "2026-10-11",
+      "dateISO": "Sun, 11 Oct 2026 15:02:57 GMT",
+      "ts": 1791730977000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "沙特首都利雅得再传两声爆炸 防空系统拦截导弹 - 联合早报",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xWk9ja3p1MzZUNlRYa2ZiVFVvSEFOZDJ3d2YteDRWOXd4U3R2bmdPREtxV282UTVlZHc0MjBIV2dURGhKQVNjUTZpbXRrR0k0UnkzVEpZODBnY2o2bjlwZGFtMEY2R0FpeXc?oc=5",
+      "site": "联合早报",
+      "siteUrl": "https://www.zaobao.com.sg"
     },
     {
       "id": "FL-d0777ae38923",
@@ -123,18 +147,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-5e735aebc1c3",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
-      "ts": 1790406000000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ndWtWYUg5dm1rTVZLa1VjaElCSHJJX3dadkJRMm5JbWVLbnpHS2ZzM09EMjVubnVBeUZMU3ByMEZla2plUlRUYnlvaEdSZ0xnWXF2R2FSbk0tVHZFdTZWRUlDQUwydUhVQ2tGMEhUQklFX0lDelBn?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
       "id": "FL-08d5beb77eeb",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
@@ -145,6 +157,18 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaEUzM21qMG8zSnRRcy1iYjkwOUxBeWEyRnVHaVNZcmhIZ0FwS0lUYWhndmd0WHp1ZHpxVTZSYUlMLUVGVWxseUcwOEprSHA4MExzeFFxVFV3OVlacVc3dTVvMi1VUUVsVXlTb3I1bWlUS3dDUlBzcEs4allydkhIdFU3ckVMZjJPVXQ0ZWJQWkFWNEpITlhnTlR3?oc=5",
       "site": "新华网客户端",
       "siteUrl": "https://app.xinhuanet.com"
+    },
+    {
+      "id": "FL-5e735aebc1c3",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
+      "ts": 1790406000000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlemFCa3lteDlkZERLTXRLMHhpeTIzNmFqanFBczVPaFNjQjVxOHNJNm54Tkhua1FqOGtuaUhBLWdRSWxXaFRoZThQZXJqclRIV1pUaTNhcjhHU0dwRzA1WXNQc2ZOVEhXX0Z1NUVBcnBUalJRWkE3ZlE0S3NOaXM?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-f4bd6137730f",
