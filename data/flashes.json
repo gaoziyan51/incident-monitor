@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T18:22:57.068Z",
+  "updated": "2026-10-11T18:42:47.954Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -99,6 +99,18 @@
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
+      "id": "FL-7d46991e2901",
+      "date": "2026-10-11",
+      "dateISO": "Sun, 11 Oct 2026 14:11:00 GMT",
+      "ts": 1791727860000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "转机途中遇袭，中国旅客自述利雅得机场惊魂一刻：浓烟四起，人群哭喊，“爆炸点距我不到五百米” - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWm1ZcU9falZJNU81VVRGTnJaNThrV3VVa1VLdWloQTVOZkxUbFlobHQzbGhqc0NmRUFKMmRHbE9GM2FkTjk5SzRycEY3bEM5QXpicG9kdFZSX3JEcVNlSzZVdHI4YjRBRU85VWhjWE41RndmMzE3SHNidFVWTnlmZWpDSEFiS2Jtc2tYXzRndw?oc=5",
+      "site": "21财经",
+      "siteUrl": "https://www.21jingji.com"
+    },
+    {
       "id": "FL-d0777ae38923",
       "date": "2026-10-11",
       "dateISO": "Sun, 11 Oct 2026 13:40:00 GMT",
@@ -111,16 +123,16 @@
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
-      "id": "FL-746831c4f78a",
+      "id": "FL-f517a02bbede",
       "date": "2026-10-11",
-      "dateISO": "Sun, 11 Oct 2026 10:54:00 GMT",
-      "ts": 1791716040000,
-      "scope": "intl",
+      "dateISO": "Sun, 11 Oct 2026 12:23:23 GMT",
+      "ts": 1791721403000,
+      "scope": "dom",
       "type": "blast",
-      "title": "中国旅客亲历利雅得机场航站楼遇袭：“爆炸点距我不到五百米” 使馆：尚无中国公民伤亡报告 - 川观新闻",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90dzV6VjUxc3V5Rk92VVhWdUFIbTlxM1RlX0pTQmowMEZXa3RtMUdzaWdibk5VUndsM2F2RUJHYVdIQmRQZDA2OFZ4YUNSZw?oc=5",
-      "site": "川观新闻",
-      "siteUrl": "https://cbgc.scol.com.cn"
+      "title": "【大美广东·中英双语】 琶洲踏浪燃爆黄金周 - 國際日報",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TQjAyS3NqTjZHODEwc0VOM1BGdnhrNEUyU2dwbHp3VkNZbjBwcWlSSGtlbElvdjlFMnB3MEdzRG5mUFQwU3o2aUVqb3BVWmVCV1BN?oc=5",
+      "site": "國際日報",
+      "siteUrl": "http://www.chinesetoday.com"
     },
     {
       "id": "FL-406d135df257",
