@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T00:02:31.548Z",
+  "updated": "2026-10-11T00:30:43.163Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -49,18 +49,6 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQTZVbVNmTmg2enJ4Ui1BeUdocTRMeEQxSF9xbGMtc0lNVzNHQnZRTTN1eU56OGhjZHAxZk5HVnh3dzdPU1E1UXJVel9EcEdzd1d6NV8zM3cyQm5OaldTenZabk02UXVnSEc2MklIOUlCbkRqclNGZFZFVTF0b1l3SjB3?oc=5",
       "site": "天津日报",
       "siteUrl": "https://epaper.tianjinwe.com"
-    },
-    {
-      "id": "FL-7650f02763b1",
-      "date": "2026-10-08",
-      "dateISO": "Thu, 08 Oct 2026 20:31:46 GMT",
-      "ts": 1791491506000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "霍尔木兹海峡南部航线传出猛烈爆炸 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13T2FWNzByOGJxOS1GSmF3bHBTNzlxTHpsOUNGRldQV2xaUDVpOWc3Y0JfTHZCTThWYXlNcEE1UGtnOWRFUVB2Nkcwb3VJVEdRUWVjS21hT216YnlGcm5QUQ?oc=5",
-      "site": "东方财富",
-      "siteUrl": "https://wap.eastmoney.com"
     },
     {
       "id": "FL-084d23f0ce35",
@@ -135,6 +123,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-155602ae9d8e",
+      "date": "2026-10-10",
+      "dateISO": "Sat, 10 Oct 2026 23:58:23 GMT",
+      "ts": 1791676703000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "基于共聚焦拉曼光谱的纺织品中爆炸前残留物无损多参数检测及其在简易爆炸装置防御中的应用 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qM1QtSVcwaWhTUFRMMkE2SXRYT2lvLW9VYi1YZXpXT2stZTBhVFZfSHFsc1k0eEtUeDZZNllMYlFzLUwtWDVxWTNlLVhxVGpoUDh5ek1WcVJuNzNsUkJaWDVYeC04TjBvNi1Qbkt3?oc=5",
+      "site": "生物通",
+      "siteUrl": "https://www.ebiotrade.com"
+    },
+    {
       "id": "FL-01e3ccb1a71c",
       "date": "2026-10-10",
       "dateISO": "Sat, 10 Oct 2026 23:25:00 GMT",
@@ -147,6 +147,18 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
+      "id": "FL-5c6bd9de23af",
+      "date": "2026-10-10",
+      "dateISO": "Sat, 10 Oct 2026 21:34:09 GMT",
+      "ts": 1791668049000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "沙特首都利雅得机场传爆炸声 10多辆救护车疾驰 - 文学城",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLUFpDSnQyTThfUXIxc1Mwa2REQXpOYzNNZktPVVZrRjBnZF9waG9YWXViRmlVODI1MElkLXpIVlhmeFdrUmhNOEVIUzBabElQZVJFSk85NW5pcmE4WC1OckcyN0dwT2da?oc=5",
+      "site": "文学城",
+      "siteUrl": "https://www.wenxuecity.com"
+    },
+    {
       "id": "FL-65f6ed2a1678",
       "date": "2026-10-10",
       "dateISO": "Sat, 10 Oct 2026 17:37:18 GMT",
@@ -157,18 +169,6 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pRVdwR1ZNWjVWV2tlVnRHbUxzeVJHU3BMNjBnS3dMQi0zSzhydEY0dDdaMWRwZXJuNXF4QU0xLVF0eVpqT2ZBbWliRVZ3eF9ZSlYzYW85U01sOUFuU0VqRFRRQVgyOTVQUTdYRVkzNjNJZkh0VHpN?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-7fefe7fd9d41",
-      "date": "2026-10-10",
-      "dateISO": "Sat, 10 Oct 2026 17:24:00 GMT",
-      "ts": 1791653040000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "现场直击｜沙特首都国际机场传出爆炸声 已无航班起降 - 网易新闻客户端",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYW1fWGpmSHlIVXQ3bEZlWWlHdjJCcGZFQVhaV2FZRk94UnBjRE9HTjRSR3A3N0xSYVdGX2NFNEctdjJia2FMU3lNSm9OdmtYVnMwTGo0THJlWkJqNzhYc0lmdjhBX1BoWWxDX3JQVVMyVlBRbEh1RkRNNXRlMElkNWV3?oc=5",
-      "site": "网易新闻客户端",
-      "siteUrl": "https://c.m.163.com"
     },
     {
       "id": "FL-a422da1823c2",
@@ -205,18 +205,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR2NPRU1kYzlwWDY1bnJqX0xTTEV2ckhOTVdHZGV4UGRhUUNSUS0xQUxmSVczc0RRWHBkc2g1WTZIM2oteXhZNndUSXJUeDlBdktQUjF2UEt5WDBYaW1MLXVITHktWFFncHdKc1ExNjRJR3IzODZTbVU0WU5jVG5QUU81N0VMMC1Z?oc=5",
       "site": "搜狐",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-fa135486e83a",
-      "date": "2026-10-10",
-      "dateISO": "Sat, 10 Oct 2026 14:54:00 GMT",
-      "ts": 1791644040000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "沙特首都国际机场传出爆炸声，我大使馆紧急提醒 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qNEExZnMwT2xLbHUwNGMwTE9oM2p0c0hhbGg5Z194b0dpYnh4X2ZSWUdpRldDNm81Ri1ta3lDUDBmdWI3TlVaYkhzSTV4Zld2UENwdkNHdW5mcjBTM2NiSkRjaE02VzBJWUFJdlRqYjZvajdJTnc?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-199d6f72d205",
@@ -313,6 +301,18 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE40emI4TUZ5a2lGaWxEU1ZuMHJieDNsR1h6T2MzUWhTZFlNS3VfTTVqM1pYaW5paTNTZklsWEFiMlo4ZnR0X1p6M2lIUkQ?oc=5",
       "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com"
+    },
+    {
+      "id": "FL-2b3f6897d6eb",
+      "date": "2026-10-10",
+      "dateISO": "Sat, 10 Oct 2026 12:10:57 GMT",
+      "ts": 1791634257000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "【视频】轮胎充气突发爆炸修车师傅反应有多快？ - 汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rM1RyMEctLUd5NzQtcGRyaDhVV2drQ0pBdG9zMklWR0JjSE1EYVRGVWVGaEdtcUNzYjhTVWhyeHFuUHJBT1FITm15ZlMxYktTWE5OLTNFR2tvRzA?oc=5",
+      "site": "汽车之家",
+      "siteUrl": "https://chejiahao.autohome.com.cn"
     },
     {
       "id": "FL-5a8386a1b65a",
