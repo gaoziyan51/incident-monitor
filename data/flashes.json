@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T08:07:04.269Z",
+  "updated": "2026-10-12T08:28:16.548Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -267,6 +267,18 @@
       "siteUrl": "https://k.sina.com.cn"
     },
     {
+      "id": "FL-5df6ad3a4d27",
+      "date": "2026-10-12",
+      "dateISO": "Mon, 12 Oct 2026 05:16:00 GMT",
+      "ts": 1791782160000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "超级油轮在霍峡爆炸 伊朗军方：触雷起火 - 马来西亚东方日报",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kMzM2LV9ZRk9paEdnclhrNWg1ZW1FdFJQVFR4Y3F3WkNEdGZwWkxxR0s2RjFHbi14RGVEZWFVT0UtZWhmVWdSdEl5YnVxdzUyRkt1eDktdkEtUGpYWW9INjdxSm4wZ09KM3JDbEh2S1VsS3YtLTR5Ng?oc=5",
+      "site": "马来西亚东方日报",
+      "siteUrl": "https://www.orientaldaily.com.my"
+    },
+    {
       "id": "FL-a09871ede6e7",
       "date": "2026-10-12",
       "dateISO": "Mon, 12 Oct 2026 05:11:00 GMT",
@@ -313,6 +325,18 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kYURGX1VTVk5xTW5NZWJROEY1ZE00bVVBeHNkZnBxUzFJbTdBYW9JWmlYT1NXa085cmtPRTZnNlBZY1ZJdlZvdDlFT1pkSXh3RUlfRWFxR0w5V2lmdElvcVpFWUZiNGRwM2c?oc=5",
       "site": "联合早报",
       "siteUrl": "https://www.zaobao.com.sg"
+    },
+    {
+      "id": "FL-4d9f6a081cb9",
+      "date": "2026-10-12",
+      "dateISO": "Mon, 12 Oct 2026 03:14:00 GMT",
+      "ts": 1791774840000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "黎巴嫩称以色列拦截导弹在希亚姆上空爆炸—— 阿纳多卢通讯社 - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc25OVWZSSHZqek5wM1VjNDhFQXM5VW5DY0oyMkotT2tlM1NENjFnLWhMQXB5cGYzQy02RjFFZUVTS1Ria3J6Qkt3N09ocU9mN1pfZkRGc0Z2MVZNRWZBc2YwemRoaTlkaURKbWowWUZnQWZ1QmdBVnM4VGZUZDB1dHp1NHM4UTRkUFVGYlBDQ3VmMmFMbW1adnkzdmd0S0N2cG1IVk9SSE9vUWxEeXpKdnZydTlDNl9UNTlxWQ?oc=5",
+      "site": "UA.NEWS",
+      "siteUrl": "https://ua.news"
     },
     {
       "id": "FL-773f5efd49fb",
