@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T10:42:33.541Z",
+  "updated": "2026-10-12T11:03:08.149Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -63,18 +63,6 @@
       "siteUrl": "https://k.sina.com.cn"
     },
     {
-      "id": "FL-09ab43e8e6c2",
-      "date": "2026-10-11",
-      "dateISO": "Sun, 11 Oct 2026 15:02:57 GMT",
-      "ts": 1791730977000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "沙特首都利雅得再传两声爆炸 防空系统拦截导弹 - 联合早报",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xWk9ja3p1MzZUNlRYa2ZiVFVvSEFOZDJ3d2YteDRWOXd4U3R2bmdPREtxV282UTVlZHc0MjBIV2dURGhKQVNjUTZpbXRrR0k0UnkzVEpZODBnY2o2bjlwZGFtMEY2R0FpeXc?oc=5",
-      "site": "联合早报",
-      "siteUrl": "https://www.zaobao.com.sg"
-    },
-    {
       "id": "FL-d0777ae38923",
       "date": "2026-10-11",
       "dateISO": "Sun, 11 Oct 2026 13:40:00 GMT",
@@ -97,6 +85,18 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90dzV6VjUxc3V5Rk92VVhWdUFIbTlxM1RlX0pTQmowMEZXa3RtMUdzaWdibk5VUndsM2F2RUJHYVdIQmRQZDA2OFZ4YUNSZw?oc=5",
       "site": "川观新闻",
       "siteUrl": "https://cbgc.scol.com.cn"
+    },
+    {
+      "id": "FL-406d135df257",
+      "date": "2026-10-11",
+      "dateISO": "Sun, 11 Oct 2026 08:36:38 GMT",
+      "ts": 1791707798000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "美军一个多月来首次打击商业货轮，伊朗称油轮触雷爆炸，霍尔木兹海峡局势再度升级 - 华尔街见闻",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWd2U0OUFUc3k0SkQ1UEJEY1pDRkNkTVJ2VGNhZHVkdDI0eTVPTVJBOGE5QzYzOHhKZ1lWUFh3RzlXZDkyM1RjbUZ0R0w2Y1FHZ1lV?oc=5",
+      "site": "华尔街见闻",
+      "siteUrl": "https://wallstreetcn.com"
     },
     {
       "id": "FL-10dac3acb935",
@@ -253,6 +253,18 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqZG5FODZWQS1YYXJOQ3ZJR3lPYWk3cmZzZFl2cnEzanNILVJFOWgxT3dZeVoxeFR6MGhpaVNncUhsdTlTcHlHNTc4UVJIUDZ2d3lhX0tsTVRSUFE?oc=5",
       "site": "亚洲日报",
       "siteUrl": "https://www.ajudaily.com"
+    },
+    {
+      "id": "FL-aa04c15f7754",
+      "date": "2026-10-12",
+      "dateISO": "Mon, 12 Oct 2026 06:29:16 GMT",
+      "ts": 1791786556000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "电池未起火爆炸新能源车坠下百米悬崖车主生还！领克回应_热点推荐 - 证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00c3pVNkp0TXdHWExHbEVIMlB1TG5nN1p0MHpaSzJQcTFKU1VibkttalJNV2FYbHZGRlpmUllKNkUxRjVDYnhNRnphYVRVM1doYmNqdUVmdVVVTk94ZDlxRw?oc=5",
+      "site": "证券之星",
+      "siteUrl": "https://auto.stockstar.com"
     },
     {
       "id": "FL-2153a8be1a5b",
