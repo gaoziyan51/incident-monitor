@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T17:09:24.458Z",
+  "updated": "2026-10-12T17:27:00.266Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -183,18 +183,6 @@
       "siteUrl": "https://www.voachinese.com"
     },
     {
-      "id": "FL-6cb32ef80107",
-      "date": "2026-10-12",
-      "dateISO": "Mon, 12 Oct 2026 16:19:00 GMT",
-      "ts": 1791821940000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "One teenager killed, others wounded after explosion on Israeli school trip near Lebanon border - WJCL",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORHZ3MTA0UzVJV2tSS0lQbE9MRVYwb0pISEk2MjBMVU9lRUZ5dVU3end0UjhPSVlqTC1jOVdpeVN2UHM0VE03SjRhcXRZU2dlZzJJV2l0Tk8zYjdlV0M3Nk9ZWnFTOFBZWjMtcEtMOG1LMFF3NzEza3RVQjJSbFpMSjRjbFV5ajRwdVJsUXFR?oc=5",
-      "site": "WJCL",
-      "siteUrl": "https://www.wjcl.com"
-    },
-    {
       "id": "FL-ee798c907534",
       "date": "2026-10-12",
       "dateISO": "Mon, 12 Oct 2026 16:10:26 GMT",
@@ -217,6 +205,18 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44YUQ2Tng2bFRaR3pBRllpS05WUXVkZG1uX2dLdkhVMER2Sk51d05meC04RzU2X3VKc2FyZTVRcHE4WlZnX0hpQVQ2b2pYSFNCV3pfeFVYZTFyQzZuTFNrY2M3SU5lck1IOGNkLURiRGVnYm5MbzRn?oc=5",
       "site": "Shangbao Indonesia",
       "siteUrl": "https://www.shangbaoindonesia.com"
+    },
+    {
+      "id": "FL-18727edac19a",
+      "date": "2026-10-12",
+      "dateISO": "Mon, 12 Oct 2026 15:09:50 GMT",
+      "ts": 1791817790000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "One teen killed, others wounded, after explosion on Israeli school trip near Lebanon border - CNN",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNamVsVF9EY1JVeDlLNGgwbi1jQWZWTlY4b3U4RGV6VENnZkNXYnRlU1VaTW5Tc0RtREhkOEJQcGo0bkE1N1ZNSmxwR2tZV3R6S1A4RzF6b0FKcC0waHZmOTN6c0RLMkwxMHA5YWdNdFNveGdGZDZOVEZQRnBpUER4Yi1zUUI?oc=5",
+      "site": "CNN",
+      "siteUrl": "https://www.cnn.com"
     },
     {
       "id": "FL-c7da095ea4c0",
@@ -397,18 +397,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwTTY0eW9oMjY0UFBLanBGSElTaUkyMjJ3TmlDZjY2RWMwUTk5VDFydkJ1S1JZb2FpVDZKX1hKeFJtSVdpTVVMaVZkRHZNc1M0TTk5NV9RWjRhZTNuQjM0MHFRbE9ud1dWRlVVWUxQcW4?oc=5",
       "site": "新浪网",
       "siteUrl": "https://k.sina.com.cn"
-    },
-    {
-      "id": "FL-4d9f6a081cb9",
-      "date": "2026-10-12",
-      "dateISO": "Mon, 12 Oct 2026 03:14:00 GMT",
-      "ts": 1791774840000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "黎巴嫩称以色列拦截导弹在希亚姆上空爆炸—— 阿纳多卢通讯社 - UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc25OVWZSSHZqek5wM1VjNDhFQXM5VW5DY0oyMkotT2tlM1NENjFnLWhMQXB5cGYzQy02RjFFZUVTS1Ria3J6Qkt3N09ocU9mN1pfZkRGc0Z2MVZNRWZBc2YwemRoaTlkaURKbWowWUZnQWZ1QmdBVnM4VGZUZDB1dHp1NHM4UTRkUFVGYlBDQ3VmMmFMbW1adnkzdmd0S0N2cG1IVk9SSE9vUWxEeXpKdnZydTlDNl9UNTlxWQ?oc=5",
-      "site": "UA.NEWS",
-      "siteUrl": "https://ua.news"
     },
     {
       "id": "FL-6ffd5cacbd47",
