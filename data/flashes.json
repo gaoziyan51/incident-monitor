@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T23:38:54.437Z",
+  "updated": "2026-10-12T23:51:55.996Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -49,18 +49,6 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5PR2VaQkxra09ZSS1YSDlGdkNoWW1QY3NfT2lhT0xqUHZJODNRVkRyQjJ6WUM3cTQ3a1p1MEFfaWdHd2R0YWgwX1Z5WDA3TXV1WlFWS29wemhCRktJM0M0QWljQmhqTEszcmtGWnhFdDF3dEE?oc=5",
       "site": "新浪网",
       "siteUrl": "https://k.sina.com.cn"
-    },
-    {
-      "id": "FL-d0777ae38923",
-      "date": "2026-10-11",
-      "dateISO": "Sun, 11 Oct 2026 13:40:00 GMT",
-      "ts": 1791726000000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "零时差 | 机场爆炸声背后，沙土巴防务联盟首迎大考 - 川观新闻",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HS0xhZHZQQzBGWUhkaTJNNElUNVhuM2JfSTJUWExqR1pCLW16WHJnZVRLRmNzeHQ2dXhGRWVXZXJaem9jMVpUbnRLUjctZw?oc=5",
-      "site": "川观新闻",
-      "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
       "id": "FL-746831c4f78a",
@@ -207,6 +195,30 @@
       "siteUrl": "https://www.news8000.com"
     },
     {
+      "id": "FL-c54b75ec16cc",
+      "date": "2026-10-12",
+      "dateISO": "Mon, 12 Oct 2026 20:58:32 GMT",
+      "ts": 1791838712000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "美国烟酒枪炮及爆炸物管理局不再要求消音器和短管步枪登记审批 全国适用 - 茉莉花新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1aTkMyaThHMjBxZmV6bHRaY2hORGZXM1phUWJkOGFUampoMVBGdnNqUnBzQUZIZGE2eEJjYXktWEJRR1dldGc?oc=5",
+      "site": "茉莉花新闻网",
+      "siteUrl": "https://molihua.org"
+    },
+    {
+      "id": "FL-92bb14de27d2",
+      "date": "2026-10-12",
+      "dateISO": "Mon, 12 Oct 2026 20:55:00 GMT",
+      "ts": 1791838500000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Fatal explosion spreads fire to nearby woods in Jackson County - WQOW",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNS05uSmpERUhDNHZhRHlrR05tR1FOd0FoZjdsSVFtMjNZNURMRWdzTDNua3luZ0w2blA3X2huZFJYRUE0aUxlM1FKSVpsaHNGRGhYajd4bmdKMjI2YkZoaHlEb2dHai1LR1hGcEdDYmd0RkVNblpVQzZJS0lpVjJmSDdkZUxKc2ZmSXozT1U5X2lEcDRuQ3BmSEhTOTdUTUw3dkx6UmhlUTJfQU5GeGRnbFdjc1lXa1ltTTVIczVEbGZTWnFVZ3R2Ulk4LTY5aE9tWl9oaWJZNE96NzlGMWJmYmFUZGZsOTFXSkE?oc=5",
+      "site": "WQOW",
+      "siteUrl": "https://www.wqow.com"
+    },
+    {
       "id": "FL-fabdb4a9346e",
       "date": "2026-10-12",
       "dateISO": "Mon, 12 Oct 2026 20:45:42 GMT",
@@ -351,18 +363,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-6e78f03af785",
-      "date": "2026-10-12",
-      "dateISO": "Mon, 12 Oct 2026 14:15:31 GMT",
-      "ts": 1791814531000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "突发！外媒：以色列北部边境地区发生爆炸事件已致约20人受伤，内塔尼亚胡正了解情况 - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ2huV2tPSG5lQV9NOTlCWXo0VjAwbTNyZ1laaFo0anB3S2o0X3pxVXNwaUtBb3l4MDR5dnc2b1V2dU1femhrcm9FOXZmSDNNLS04ZDd4QnhfMFlid0x1alZQYnJWM3c1cG1CZVpJdk1hNFVWdlBOZ3o2ZHpPZjVFWUpaTktlM19P?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-d0ed14f59dae",
       "date": "2026-10-12",
       "dateISO": "Mon, 12 Oct 2026 14:09:38 GMT",
@@ -383,6 +383,18 @@
       "type": "blast",
       "title": "以色列北部爆炸已致1死19伤，大部分为正在远足的以色列师生；初步调查显示，爆炸由遗留在该地区的“未爆弹药”引起 - 搜狐",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSjR2ODRJdG5odThZZW9KN2twcDc5ZHJlVnFTWHlaQnpsRkhvZU5qR2RhenFOdVVGc2pKRG9YeWZkTElPaG84a3d5ZHR1TjhpNzJYVzQ1RXptNVRuUEtSOWZZam9nbzcxcWN0UXFrTHluaG5hTVFqZi1UdXNEeC1RbzMtV3Q5M0pZdklSSw?oc=5",
+      "site": "搜狐",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-6e78f03af785",
+      "date": "2026-10-12",
+      "dateISO": "Mon, 12 Oct 2026 13:15:41 GMT",
+      "ts": 1791810941000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "突发！外媒：以色列北部边境地区发生爆炸事件已致约20人受伤，内塔尼亚胡正了解情况 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeUppOW51MnV3UEFvbWZ3MjRBbzN5S1RZLVEzWEVTejAtZ0hjSzJTamVvSG44a0VQOURRTWR6c0JEMlJiZ1N3Q3d1a1lEb1cxTW85S0FkamVHWW1ma0doNTRvaXkzVGFWVmtKNjJQVEtIbEJLM1l3Q2hlQU9xTDgtbzJXYk1ic3hu?oc=5",
       "site": "搜狐",
       "siteUrl": "https://m.sohu.com"
     },
@@ -421,6 +433,18 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tTlNZdTVBV2ZGaVhsbkEzRERnM29VYmpDQ3ZvalRXYm94R2R4NU5wQ2hFYVFIajk1QlVlS1V0TUpveWVLNF94WFZXeXFicFBKdEVJakoxUnRYeElWcWJrb2tOYVlEQW1STUFlQ1ZrOVM?oc=5",
       "site": "中华网",
       "siteUrl": "https://news.china.com"
+    },
+    {
+      "id": "FL-63bc689b7a31",
+      "date": "2026-10-12",
+      "dateISO": "Mon, 12 Oct 2026 07:40:00 GMT",
+      "ts": 1791790800000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "广告天才李在石推出批评地雷爆炸政治争议的公益广告 - 亚洲日报",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqZG5FODZWQS1YYXJOQ3ZJR3lPYWk3cmZzZFl2cnEzanNILVJFOWgxT3dZeVoxeFR6MGhpaVNncUhsdTlTcHlHNTc4UVJIUDZ2d3lhX0tsTVRSUFE?oc=5",
+      "site": "亚洲日报",
+      "siteUrl": "https://www.ajudaily.com"
     },
     {
       "id": "FL-2153a8be1a5b",
