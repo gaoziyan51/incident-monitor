@@ -1,18 +1,30 @@
 {
-  "updated": "2026-10-12T15:10:05.324Z",
+  "updated": "2026-10-12T15:27:48.703Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-11b1a4224e08",
-      "date": "2026-10-06",
-      "dateISO": "Tue, 06 Oct 2026 19:57:10 GMT",
-      "ts": 1791316630000,
-      "scope": "intl",
+      "id": "FL-385dd58b908a",
+      "date": "2026-08-11",
+      "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
+      "ts": 1786431600000,
+      "scope": "dom",
       "type": "blast",
-      "title": "沙特阿拉伯首都利雅得5日晚传出爆炸声 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SZURBZjRfRnpRY2QwN1RnbVpsZzZ6WWtnLVBXY1I4aWN5alhMQ0R3UDBEM2RPYTJsQ1VYVUt4YVpvSjJZTkIzV3lxQTMzdWVHSnF2SUlfY2gybzBIc0R0Rg?oc=5",
-      "site": "东方财富",
-      "siteUrl": "https://wap.eastmoney.com"
+      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - 财新",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQcmdXTjEtaEEwQXAyc0dzZ29xdEtVZ3VnTzNSdEdIODhUbTkwVE1WYUJKZGlFN0N1TkdlQTNEZDA1SkNEejNqVS15STYwTURwckdUM0REQUMyTHdNQk5oSjlR?oc=5",
+      "site": "财新",
+      "siteUrl": "https://science.caixin.com"
+    },
+    {
+      "id": "FL-340d5e981918",
+      "date": "2026-08-23",
+      "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
+      "ts": 1787468400000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-7a584890458a",
@@ -75,18 +87,6 @@
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
-      "id": "FL-406d135df257",
-      "date": "2026-10-11",
-      "dateISO": "Sun, 11 Oct 2026 08:36:38 GMT",
-      "ts": 1791707798000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "美军一个多月来首次打击商业货轮，伊朗称油轮触雷爆炸，霍尔木兹海峡局势再度升级 - 华尔街见闻",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWd2U0OUFUc3k0SkQ1UEJEY1pDRkNkTVJ2VGNhZHVkdDI0eTVPTVJBOGE5QzYzOHhKZ1lWUFh3RzlXZDkyM1RjbUZ0R0w2Y1FHZ1lV?oc=5",
-      "site": "华尔街见闻",
-      "siteUrl": "https://wallstreetcn.com"
-    },
-    {
       "id": "FL-10dac3acb935",
       "date": "2026-10-11",
       "dateISO": "Sun, 11 Oct 2026 03:41:53 GMT",
@@ -97,6 +97,18 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbHd1cU05Wm92YWp2d0ZqM0FkcEItWEd5UmhpeW5VZXZKY09Hc3NnRlpPclB0STk4dVVyMmpiTFZxdndEX0Q3UHRBcjZKdXRHZWhWTGV5alF3ZEpBQmpmNk45aHNBTExOWDI2ekpiVjhvQ2JoSzBLdU9xYmd1aUZQRm13UklpcjJHYWU0dQ?oc=5",
       "site": "搜狐",
       "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-0615dd398028",
+      "date": "2026-08-02",
+      "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
+      "ts": 1785654000000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-5e735aebc1c3",
@@ -207,18 +219,6 @@
       "siteUrl": "https://www.aljazeera.com"
     },
     {
-      "id": "FL-62b4e95e98e7",
-      "date": "2026-10-12",
-      "dateISO": "Mon, 12 Oct 2026 13:40:27 GMT",
-      "ts": 1791812427000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "One killed, several wounded in explosion of unknown ordnance near Lebanon border - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90a2N4czVHSDlrUGo4OGdHQ1AtQmlvMzM4cVpwNTFKWUF5c0RoOEVBTXNyWUdwSld3RTJJaU5IdVFVN05VVWtDalBrTTJjQjZCaTc3YmtacDBvTjQ5VGh2Y3RxUTRvbmVNcUpneTNn?oc=5",
-      "site": "The Jerusalem Post",
-      "siteUrl": "https://www.jpost.com"
-    },
-    {
       "id": "FL-a6df3bb11140",
       "date": "2026-10-12",
       "dateISO": "Mon, 12 Oct 2026 13:30:00 GMT",
@@ -253,6 +253,18 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd3h5TUY4clZIeUkyMVhyNkdlN21LNXA0cXQyZnpHLVY2RktRQVpGNDJfbDRmeTVJX2lrX1FnMC1KdUFNUUNWSF9KVUdRUjdXMFJtZGl6dV9oRDBrNzlVTTRfamJ3QklGYjJndC1PdGFWV0xUNlNoSEdsaUEzUEY0QjBhNnNaMjFUUi1vaEcwYlQzZEp1anhLZG9mRXhqS09rcWM5QTlNOE1GeHU4dURVeEwyN1pYZ1BFdFRqYkVNTVVGckE?oc=5",
       "site": "The Times of Israel",
       "siteUrl": "https://www.timesofisrael.com"
+    },
+    {
+      "id": "FL-81e6d69e18e7",
+      "date": "2026-10-12",
+      "dateISO": "Mon, 12 Oct 2026 12:12:37 GMT",
+      "ts": 1791807157000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "One killed, 24 wounded in explosion of Hezbollah ordnance near Lebanon border - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90a2N4czVHSDlrUGo4OGdHQ1AtQmlvMzM4cVpwNTFKWUF5c0RoOEVBTXNyWUdwSld3RTJJaU5IdVFVN05VVWtDalBrTTJjQjZCaTc3YmtacDBvTjQ5VGh2Y3RxUTRvbmVNcUpneTNn?oc=5",
+      "site": "The Jerusalem Post",
+      "siteUrl": "https://www.jpost.com"
     },
     {
       "id": "FL-aade4149543c",
@@ -351,18 +363,6 @@
       "siteUrl": "https://k.sina.com.cn"
     },
     {
-      "id": "FL-990f94bdf390",
-      "date": "2026-10-12",
-      "dateISO": "Mon, 12 Oct 2026 03:33:00 GMT",
-      "ts": 1791775980000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "一艘超级油轮在霍尔木兹海峡爆炸 伊朗：触雷起火 - 联合早报",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kYURGX1VTVk5xTW5NZWJROEY1ZE00bVVBeHNkZnBxUzFJbTdBYW9JWmlYT1NXa085cmtPRTZnNlBZY1ZJdlZvdDlFT1pkSXh3RUlfRWFxR0w5V2lmdElvcVpFWUZiNGRwM2c?oc=5",
-      "site": "联合早报",
-      "siteUrl": "https://www.zaobao.com.sg"
-    },
-    {
       "id": "FL-4d9f6a081cb9",
       "date": "2026-10-12",
       "dateISO": "Mon, 12 Oct 2026 03:14:00 GMT",
@@ -397,6 +397,18 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mOW90LUsxZ0prZmZVUFNmTkZ0QjQ1NzdDY195Z25fWFVDaXM3ZkloeTNkY3c3RnpVSVd3ZlFJY3c4YWlIalBYMDJWaGE0SUpZTm8zS2VZbUZmc2hoS2cwbFRPSTFHWGxOUVRYWkU2clJNdDg4Zk9PVm9n?oc=5",
       "site": "封面新闻",
       "siteUrl": "https://m.thecover.cn"
+    },
+    {
+      "id": "FL-b042a088a326",
+      "date": "2026-08-03",
+      "dateISO": "Mon, 03 Aug 2026 07:00:00 GMT",
+      "ts": 1785740400000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "巴基斯坦西北部发生爆炸致14人死亡 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-c39833bbfc21",
