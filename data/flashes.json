@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T05:22:51.644Z",
+  "updated": "2026-10-12T05:41:45.558Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -95,18 +95,6 @@
       "type": "blast",
       "title": "零时差 | 机场爆炸声背后，沙土巴防务联盟首迎大考 - 川观新闻",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HS0xhZHZQQzBGWUhkaTJNNElUNVhuM2JfSTJUWExqR1pCLW16WHJnZVRLRmNzeHQ2dXhGRWVXZXJaem9jMVpUbnRLUjctZw?oc=5",
-      "site": "川观新闻",
-      "siteUrl": "https://cbgc.scol.com.cn"
-    },
-    {
-      "id": "FL-746831c4f78a",
-      "date": "2026-10-11",
-      "dateISO": "Sun, 11 Oct 2026 10:54:00 GMT",
-      "ts": 1791716040000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "中国旅客亲历利雅得机场航站楼遇袭：“爆炸点距我不到五百米” 使馆：尚无中国公民伤亡报告 - 川观新闻",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90dzV6VjUxc3V5Rk92VVhWdUFIbTlxM1RlX0pTQmowMEZXa3RtMUdzaWdibk5VUndsM2F2RUJHYVdIQmRQZDA2OFZ4YUNSZw?oc=5",
       "site": "川观新闻",
       "siteUrl": "https://cbgc.scol.com.cn"
     },
@@ -327,6 +315,30 @@
       "siteUrl": "https://www.voachinese.com"
     },
     {
+      "id": "FL-c341999c68bd",
+      "date": "2026-10-12",
+      "dateISO": "Mon, 12 Oct 2026 05:28:00 GMT",
+      "ts": 1791782880000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "中国旅客亲历利雅得机场航站楼遇袭：“爆炸点距我不到五百米” 使馆：尚无中国公民伤亡报告 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwTTY0eW9oMjY0UFBLanBGSElTaUkyMjJ3TmlDZjY2RWMwUTk5VDFydkJ1S1JZb2FpVDZKX1hKeFJtSVdpTVVMaVZkRHZNc1M0TTk5NV9RWjRhZTNuQjM0MHFRbE9ud1dWRlVVWUxQcW4?oc=5",
+      "site": "新浪网",
+      "siteUrl": "https://k.sina.com.cn"
+    },
+    {
+      "id": "FL-a09871ede6e7",
+      "date": "2026-10-12",
+      "dateISO": "Mon, 12 Oct 2026 05:11:00 GMT",
+      "ts": 1791781860000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "爆炸扬起浓烟与碎片！乌克兰男子死里逃生 - 联合早报",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wWGRhVHNvaDkwZE1rdTg0WHBqaTBoVmRSaHBVQV9rYlNGVE5FcmtrdUk1VFZ6Ulo4bi1fUUROY2E1bmdoaUg2dFVVQXZFVjRLR0htM2FXRzNEWERYU1F2WFgwMDk?oc=5",
+      "site": "联合早报",
+      "siteUrl": "https://www.zaobao.com.sg"
+    },
+    {
       "id": "FL-030cbf159816",
       "date": "2026-10-12",
       "dateISO": "Mon, 12 Oct 2026 04:36:00 GMT",
@@ -353,8 +365,8 @@
     {
       "id": "FL-990f94bdf390",
       "date": "2026-10-12",
-      "dateISO": "Mon, 12 Oct 2026 03:33:00 GMT",
-      "ts": 1791775980000,
+      "dateISO": "Mon, 12 Oct 2026 03:33:51 GMT",
+      "ts": 1791776031000,
       "scope": "intl",
       "type": "blast",
       "title": "一艘超级油轮在霍尔木兹海峡爆炸 伊朗：触雷起火 - 联合早报",
