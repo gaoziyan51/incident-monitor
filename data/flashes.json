@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T02:11:29.943Z",
+  "updated": "2026-10-12T02:32:34.683Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -39,18 +39,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-7a584890458a",
-      "date": "2026-10-11",
-      "dateISO": "Sun, 11 Oct 2026 23:51:01 GMT",
-      "ts": 1791762661000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "视频丨伊朗军方公布一油轮在霍尔木兹海峡触雷爆炸画面 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SS1BQV0NrVkJ6cFl3LVV3SFk4MFBqS1lFNzFZaWM1S1dIMzdOeXZLNUtfbHJfX3llOG1zdkhHbUZQdDVVUDE5RG9fNTZTTTlaTUhUdnlnQTJ5NTFtR3Ywa1VvZjh5em9l?oc=5",
-      "site": "央广网",
-      "siteUrl": "https://news.cnr.cn"
-    },
-    {
       "id": "FL-2b9b01e5edce",
       "date": "2026-10-11",
       "dateISO": "Sun, 11 Oct 2026 22:36:00 GMT",
@@ -61,6 +49,18 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zQ21rd3NTay12a1B2ekZOVE00bTBhZzZVWTNMY05hdDE5cGp2eXFlcXktRVFkZ2U2MTFBOEVsMVBjUHk5UlI3RlAxNVZxWTFkbVJnTjNCRVZpblZaTUFOc1RwLVpMYzl2V3dWUlpTVWI?oc=5",
       "site": "新浪网",
       "siteUrl": "https://k.sina.com.cn"
+    },
+    {
+      "id": "FL-948b3528a307",
+      "date": "2026-10-11",
+      "dateISO": "Sun, 11 Oct 2026 22:03:00 GMT",
+      "ts": 1791756180000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "视频丨伊朗军方公布一油轮在霍尔木兹海峡触雷爆炸画面 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYTZqVU9GZUZzeWxuaDVkcW9tQWpvWXFLc3Bac1FoMXZGRE1CRlBtZHR1bXBrdTI4NW5oakphNzlueHp2amZXUktaQUYyS1hUbmtRdnhveWpuX2xVUVdlOGJuVjE5TmQ3M0xUazBtZ0Q3VHMtbGUtUm1Qc1huT2dxR2dSaFJpSEpvVk1Z?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-3457799800c9",
@@ -181,18 +181,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-e1c81d311eae",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 15:50:14 GMT",
-      "ts": 1790437814000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 旅日侨网",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVEJFR0pjczI1RWcwMmdKMGVMbnVHUzNLeGJXWlcxeDMyZzFybFJrb2dOTG9mUmJjQU1kM2hNRGx1Z0drQkhjRExydURDejZYczVvQlNVR0VHOGpJOEsxU0pESWlxWHpRc2RJMXdRT0g0TUdfY2F4VG5tcVphUnpuLUlqYW1WVGNUWFE?oc=5",
-      "site": "旅日侨网",
-      "siteUrl": "https://www.jpchinapress.com"
     },
     {
       "id": "FL-5e735aebc1c3",
