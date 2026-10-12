@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T04:01:25.933Z",
+  "updated": "2026-10-12T04:23:34.673Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -243,18 +243,6 @@
       "siteUrl": "https://gbcode.rthk.hk"
     },
     {
-      "id": "FL-4f917a01b6d6",
-      "date": "2026-10-10",
-      "dateISO": "Sat, 10 Oct 2026 14:24:00 GMT",
-      "ts": 1791642240000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "河北衡水一化工厂疑似发生爆炸 消防：火已扑灭，具体情况调查中 - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb0hFZGxyMFBYbkh4RXNyTEhTQ3BuYzdaYjRMSnFLQTVLNEs2OGdReTBnVnEzZGpmVUlMdWJQM1UyemN6VzJjNEJkcVFzUkFudzk0eUNPa3NXakx1UHpmTFRBVlJ0YTFiTFQ5Rm1qcVd4WV9CdDRkRS12MGUyUWhZaVhpVkxvei15Qm11UQ?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-0d0d46acecbe",
       "date": "2026-10-10",
       "dateISO": "Sat, 10 Oct 2026 13:43:53 GMT",
@@ -361,30 +349,6 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kYURGX1VTVk5xTW5NZWJROEY1ZE00bVVBeHNkZnBxUzFJbTdBYW9JWmlYT1NXa085cmtPRTZnNlBZY1ZJdlZvdDlFT1pkSXh3RUlfRWFxR0w5V2lmdElvcVpFWUZiNGRwM2c?oc=5",
       "site": "联合早报",
       "siteUrl": "https://www.zaobao.com.sg"
-    },
-    {
-      "id": "FL-9d9b716e2ba6",
-      "date": "2026-10-12",
-      "dateISO": "Mon, 12 Oct 2026 03:19:51 GMT",
-      "ts": 1791775191000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "视频丨一油轮在霍尔木兹海峡触雷爆炸！画面公布 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONW5UQ0NpNHBwMHdIU3h4MjJXaUR5VFItelJhcjdXTDZTbVNGb2NacXFXSGlybUc2dmZmZm5URXUybUJhVUkyX3NvS0JZRTBQUUYtWGZYWWRVZGFmMkRFdzJhQXdBdXpoazBySFRoQ0p0Mk5TREs4YU51ZnpVLVNlNGoyVQ?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.cn"
-    },
-    {
-      "id": "FL-78910da5c71f",
-      "date": "2026-10-12",
-      "dateISO": "Mon, 12 Oct 2026 03:01:00 GMT",
-      "ts": 1791774060000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "伊朗军方公布爆炸瞬间 - 新浪军事",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aUGtmZ2xQMi1kXzlyckNOUFhNRlVpa3p4eVVPelFXTGR1RUJka0gzMlZNX3pVa3FLaGNKMlU3RGN2amxFX0s1Mlc3LWh6d2JqNl9NNFQ2UVVUV2dNZXBxZlJnMTZDMExob29GSVM0WkpKd0U?oc=5",
-      "site": "新浪军事",
-      "siteUrl": "https://mil.news.sina.com.cn"
     },
     {
       "id": "FL-773f5efd49fb",
