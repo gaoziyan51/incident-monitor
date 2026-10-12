@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T14:07:03.525Z",
+  "updated": "2026-10-12T14:28:59.010Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -171,6 +171,42 @@
       "siteUrl": "https://www.voachinese.com"
     },
     {
+      "id": "FL-6e78f03af785",
+      "date": "2026-10-12",
+      "dateISO": "Mon, 12 Oct 2026 14:15:31 GMT",
+      "ts": 1791814531000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "突发！外媒：以色列北部边境地区发生爆炸事件已致约20人受伤，内塔尼亚胡正了解情况 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ2huV2tPSG5lQV9NOTlCWXo0VjAwbTNyZ1laaFo0anB3S2o0X3pxVXNwaUtBb3l4MDR5dnc2b1V2dU1femhrcm9FOXZmSDNNLS04ZDd4QnhfMFlid0x1alZQYnJWM3c1cG1CZVpJdk1hNFVWdlBOZ3o2ZHpPZjVFWUpaTktlM19P?oc=5",
+      "site": "搜狐",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-d0ed14f59dae",
+      "date": "2026-10-12",
+      "dateISO": "Mon, 12 Oct 2026 14:09:38 GMT",
+      "ts": 1791814178000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "以黎边境遗留弹药爆炸已致1死19伤 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FSWhBSTRfR2MzV2hmT255WEcwblRxY0lhRDRnSVhBQ0JWOV9GSnRCX2tOY25GbVFOc0p5WmRmcFZiZ21TcndIa0s4SEZDVkNQelpYbGxjTDdySzFfYVE?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
+      "id": "FL-08a2af6eb53d",
+      "date": "2026-10-12",
+      "dateISO": "Mon, 12 Oct 2026 13:48:43 GMT",
+      "ts": 1791812923000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "At least 20 injured in northern Israel explosion - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU1Vjc2NOSGxYRUtYOEZCSTNxMDJIUVRtYWFfbENweDZWX3ZXR200ZWVOakZOYnFmOFFfYXlGdXJZdXdIam9NdVN5SFdRcEZwSVg4aF9aQ3d6V0E1eC15WUp2SHZTa2V1M2tEYnp4Szl5b1hIRS1kN1RNcWhkOXh1N3N0cHFDdWNUUzl2MVF4d1BvbmY4WVJsVWJodm0zVTVicVHSAacBQVVfeXFMT09PakttQkx0SGQwMFMyTE0tLUZ5eVRnZDE2dlZJelFPWlk4UHhicW8wQ29Ubk9nWWVjbjl0WndQb1FkXzk2UlV4cmxTN0xjN0llcnphYWtUSFBULUtQb2FjUE51eG9xdWlBVXJsWV9SRnp4M3dZZ3pmOTRUN1pnMDFDdzNMSjBVcXNzaWljUGFzUElLaHpSUDNueVRvZXJoWktmeXc5OTA?oc=5",
+      "site": "Al Jazeera",
+      "siteUrl": "https://www.aljazeera.com"
+    },
+    {
       "id": "FL-62b4e95e98e7",
       "date": "2026-10-12",
       "dateISO": "Mon, 12 Oct 2026 13:40:27 GMT",
@@ -193,18 +229,6 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQckE1VkNZQmtzVVRqXzM5NEhzT3JaZGJWazgyYjA0TzJjbVh4c0ctRzBvdEdHbXc2OVJIek5NYU05M2tzRFBZaWxxMHF0U1BHeXR4VGd4LTZZUi1xQzFEaHdyMlJyRUtwdDRfZWhSb3pvc0lPeklhOWRjQk1UOEhwYkJOUzNTU0hoNjBpa1YtSWNoOXk2c1FtbExPR0lOLWNmVzFRT3RJNVNKcWhFd1N5N2xTcw?oc=5",
       "site": "Action News 5",
       "siteUrl": "https://www.actionnews5.com"
-    },
-    {
-      "id": "FL-08a2af6eb53d",
-      "date": "2026-10-12",
-      "dateISO": "Mon, 12 Oct 2026 13:28:39 GMT",
-      "ts": 1791811719000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "At least 20 injured in northern Israel explosion - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU1Vjc2NOSGxYRUtYOEZCSTNxMDJIUVRtYWFfbENweDZWX3ZXR200ZWVOakZOYnFmOFFfYXlGdXJZdXdIam9NdVN5SFdRcEZwSVg4aF9aQ3d6V0E1eC15WUp2SHZTa2V1M2tEYnp4Szl5b1hIRS1kN1RNcWhkOXh1N3N0cHFDdWNUUzl2MVF4d1BvbmY4WVJsVWJodm0zVTVicVE?oc=5",
-      "site": "Al Jazeera",
-      "siteUrl": "https://www.aljazeera.com"
     },
     {
       "id": "FL-6b85dc5f7d96",
@@ -241,6 +265,18 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mWVRZc1dLbWxQRXhvek03aElPZ3dOLTd3UWFJYnBMRWFzaDUyT1d3ZG5OZGpzZUkxQzVoRUpZeC1SNlpTdlRRdHBiaHNHSFF5SE5xdHpjbE1EakY1RTdubjc2YlJvY0llSG51TEVRaHJzZw?oc=5",
       "site": "新浪网",
       "siteUrl": "https://k.sina.com.cn"
+    },
+    {
+      "id": "FL-6b37996adecc",
+      "date": "2026-10-12",
+      "dateISO": "Mon, 12 Oct 2026 09:14:00 GMT",
+      "ts": 1791796440000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "以色列北部爆炸致约20名学生和工作人员受伤——《黎明报》 - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcjJvSk5GdnFXNDZ1MmRfcHdxMUtsNHllaGlqVzVMcm1KalFBX0xvSlZJN24tRXlXOW5GTDlzYUZKQjdVU1VJaHRxLWJlOEQ1YXBNSXdvUS15ZWthVEc1X244ZUQyQWUyTFQteV91ZkhuQ0RSd0ZtYWRyUGJId1NQLTd0aWplOWF0SWRUOTJBVHJFWmVEWEFmVGNzOXUtSi1jdW5mag?oc=5",
+      "site": "UA.NEWS",
+      "siteUrl": "https://ua.news"
     },
     {
       "id": "FL-fdde679cb79f",
