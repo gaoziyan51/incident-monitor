@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T05:00:54.134Z",
+  "updated": "2026-10-12T05:22:51.644Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -219,6 +219,18 @@
       "siteUrl": "https://gbcode.rthk.hk"
     },
     {
+      "id": "FL-a5fc159f6f5f",
+      "date": "2026-10-10",
+      "dateISO": "Sat, 10 Oct 2026 14:11:51 GMT",
+      "ts": 1791641511000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "沙特首都国际机场传出爆炸声 - 中国日报网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wRVFwWWhIQnJBMUVLamdvRGdsanVKVmdlRjB2LVNXeGNycFc2ZVdwenNxZF9lR0t1QUpRS2Zwc1V6Q0s1M3NfUEJXUzB5U2NhR3JkMUtXNE45akRHUEFuTmxySWFDZWx2N25fSjJRYXVycUp4dWhsSk00WGU?oc=5",
+      "site": "中国日报网",
+      "siteUrl": "https://cn.chinadaily.com.cn"
+    },
+    {
       "id": "FL-0d0d46acecbe",
       "date": "2026-10-10",
       "dateISO": "Sat, 10 Oct 2026 13:43:53 GMT",
@@ -279,18 +291,6 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-489d17f29cdd",
-      "date": "2026-10-10",
-      "dateISO": "Sat, 10 Oct 2026 13:17:06 GMT",
-      "ts": 1791638226000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "沙特首都国际机场传出爆炸声 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE40emI4TUZ5a2lGaWxEU1ZuMHJieDNsR1h6T2MzUWhTZFlNS3VfTTVqM1pYaW5paTNTZklsWEFiMlo4ZnR0X1p6M2lIUkQ?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://news.ifeng.com"
-    },
-    {
       "id": "FL-d20d43ac20c3",
       "date": "2026-10-10",
       "dateISO": "Sat, 10 Oct 2026 04:09:10 GMT",
@@ -325,6 +325,18 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN1gtb1drX1hWS3NBMzU4MlNRVEJ1TkUzQmJCR1B0a3VFS2MxU05ZTTZ1UjlmZnJZU2JYNHgyOGVwZ1dUZjdIZ3hxaWlPNGZsQTc3VjRlRTlPd3hlR1d2b3RVVE92dUwzMTlwVVB1TmphZUN1OG5iTU5WYU5EZjJmM3BpNHctZ3ljVTgtTXJuX1YzeVM2bmVmTkEzZzBnczIzSFFRWmxHRGd2SUdVb01wNGZsSmVVOWlYcG1LZHZYWk1BQU9wcnhhb3Q2dVZXaDlUSHNqZ9IB1wFBVV95cUxNWnRiOWpoQ21MQ0tYTkh0c3hWVTFSbV9ZQlcxWUF4SmtBanZHZmNIc296ZkJUcjBIVnZlTmZDZXY3WnlfWXJPWmU0WHYxa1F4RlFxWDlaMjlaRGtCYTdTVU9fa3JaMkVlSllKZWVObWpKS1o3ZVZlNTk3RGN6ejJGSTFCbTd2RFVYM2FfQk5heEcxWDYtc0Q3bDl4Wnp5em1ZdE9WZi11VTd6bi1TWnlycUc2VmR5eUJ6Mk15Y1ZCQlhrc2tmcWpKTVpRZlpEbjFYU1JhTWZBOA?oc=5",
       "site": "美国之音",
       "siteUrl": "https://www.voachinese.com"
+    },
+    {
+      "id": "FL-030cbf159816",
+      "date": "2026-10-12",
+      "dateISO": "Mon, 12 Oct 2026 04:36:00 GMT",
+      "ts": 1791779760000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "伊朗革命卫队称霍尔木兹海峡油轮遭水雷撞击引发爆炸和火灾 - 亚洲日报",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PT1p4UDR6Rm91d0l4VWdFQjg5cWxCd2pJSTNMMFpMNm9GY18wYjlnM0VNbWpoaVNkYWc2U1JnVG9TaHhkeEpEbjNfaDNwd215VjVtVlJuUzB1YWs?oc=5",
+      "site": "亚洲日报",
+      "siteUrl": "https://www.ajudaily.com"
     },
     {
       "id": "FL-c6860b0dc585",
