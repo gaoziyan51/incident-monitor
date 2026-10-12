@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T08:48:15.907Z",
+  "updated": "2026-10-12T09:03:23.972Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -147,18 +147,6 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-1429085dd47c",
-      "date": "2026-10-10",
-      "dateISO": "Sat, 10 Oct 2026 14:29:00 GMT",
-      "ts": 1791642540000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "据报沙特利雅得国际机场传出爆炸声 机场疏散 - RTHK",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOODUxb05tNGJkQm1IZGNKeWIzMzh4ZS0wTWEwR216VzFFT3oxSHpRWk5lck1uRWdRaERCQ3lqaHM0X2pKaW1yX013TXhJYVI5MDhkLTNJdUtpcHpFcXg0WnFpbFlVeU9WY3R1NE9QbmJMc3VXYXZtMnVjeHZxQmVVMTRTREJXOHJwTnFYRnNnek1hVk5GNzZPVXNtYnExRkNia3ZF?oc=5",
-      "site": "RTHK",
-      "siteUrl": "https://gbcode.rthk.hk"
-    },
-    {
       "id": "FL-a5fc159f6f5f",
       "date": "2026-10-10",
       "dateISO": "Sat, 10 Oct 2026 14:11:51 GMT",
@@ -217,6 +205,18 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN1gtb1drX1hWS3NBMzU4MlNRVEJ1TkUzQmJCR1B0a3VFS2MxU05ZTTZ1UjlmZnJZU2JYNHgyOGVwZ1dUZjdIZ3hxaWlPNGZsQTc3VjRlRTlPd3hlR1d2b3RVVE92dUwzMTlwVVB1TmphZUN1OG5iTU5WYU5EZjJmM3BpNHctZ3ljVTgtTXJuX1YzeVM2bmVmTkEzZzBnczIzSFFRWmxHRGd2SUdVb01wNGZsSmVVOWlYcG1LZHZYWk1BQU9wcnhhb3Q2dVZXaDlUSHNqZ9IB1wFBVV95cUxNWnRiOWpoQ21MQ0tYTkh0c3hWVTFSbV9ZQlcxWUF4SmtBanZHZmNIc296ZkJUcjBIVnZlTmZDZXY3WnlfWXJPWmU0WHYxa1F4RlFxWDlaMjlaRGtCYTdTVU9fa3JaMkVlSllKZWVObWpKS1o3ZVZlNTk3RGN6ejJGSTFCbTd2RFVYM2FfQk5heEcxWDYtc0Q3bDl4Wnp5em1ZdE9WZi11VTd6bi1TWnlycUc2VmR5eUJ6Mk15Y1ZCQlhrc2tmcWpKTVpRZlpEbjFYU1JhTWZBOA?oc=5",
       "site": "美国之音",
       "siteUrl": "https://www.voachinese.com"
+    },
+    {
+      "id": "FL-fdde679cb79f",
+      "date": "2026-10-12",
+      "dateISO": "Mon, 12 Oct 2026 08:36:10 GMT",
+      "ts": 1791794170000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "人工智能机器人助力地雷清除与爆炸物处理，首个国防AX基地在板桥落成 - 亚洲日报",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ab29YQmk1eV9VM0JDUlJncEVCVDJ2ZDNHR1dwazU2UW5CX1NXVEMzdGRLMmVHX0RXRUk4OFVISkVuX0x6di01SjNvYUdDRnJ1bFZsM0hfcE51Wlk?oc=5",
+      "site": "亚洲日报",
+      "siteUrl": "https://www.ajudaily.com"
     },
     {
       "id": "FL-7fc10fccdf53",
@@ -289,18 +289,6 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PT1p4UDR6Rm91d0l4VWdFQjg5cWxCd2pJSTNMMFpMNm9GY18wYjlnM0VNbWpoaVNkYWc2U1JnVG9TaHhkeEpEbjNfaDNwd215VjVtVlJuUzB1YWs?oc=5",
       "site": "亚洲日报",
       "siteUrl": "https://www.ajudaily.com"
-    },
-    {
-      "id": "FL-c6860b0dc585",
-      "date": "2026-10-12",
-      "dateISO": "Mon, 12 Oct 2026 04:33:00 GMT",
-      "ts": 1791779580000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "新型“直探炸药”地雷探测器完成测试可绕过金属外壳直接锁定爆炸物- 硬件 - cnBeta.COM",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LVl8yUDMwRnNTejhTd19KZXVzNlNJTlVPTFBtSnRSSURSU0tRQ291ZExaX2dMYUN2UTFHOGtLcE1VUTZtYTV1UUdVY2cwcUExM0RrT2JRRlJPTTJHbEdWQ0VuYWI?oc=5",
-      "site": "cnBeta.COM",
-      "siteUrl": "https://www.cnbeta.com.tw"
     },
     {
       "id": "FL-990f94bdf390",
