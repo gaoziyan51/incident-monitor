@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T22:06:22.719Z",
+  "updated": "2026-10-12T22:22:09.515Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -207,18 +207,6 @@
       "siteUrl": "https://www.weau.com"
     },
     {
-      "id": "FL-b6298f5c1bed",
-      "date": "2026-10-12",
-      "dateISO": "Mon, 12 Oct 2026 19:56:00 GMT",
-      "ts": 1791834960000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Man dead in Jackson County explosion and fire - news8000.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbTJjMm5wWGtaREwwRE54a1IwNTF6bXQ3Qmo3bjd3b1F2SnRMa1Ffa051cjhGNjJkeWRkZnRVWDVlSnl5ekFmcEoxblJ1Y1hBLXYtcVJFZEZMWE5RVEVTLU9WdkR0YWp5NElLWVo3NlVBMWEwUk1nWTNrU0EwcElvOFJqRmVkTm1VS3hxeE5XV19DUTM3aGg4V1FwaXVpMHpxNjVHSkdXdzlJNHZqYTV2WnUtcDQ0amdpWWoyc0pjYU1qeWNDU013VDh5NnFMVDBJQVE?oc=5",
-      "site": "news8000.com",
-      "siteUrl": "https://www.news8000.com"
-    },
-    {
       "id": "FL-b3cb306f0244",
       "date": "2026-10-12",
       "dateISO": "Mon, 12 Oct 2026 18:26:13 GMT",
@@ -323,6 +311,18 @@
       "type": "blast",
       "title": "以色列北部发生爆炸，约20人受伤 - 搜狐",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcVNOS0EtdUhMVWdfakNLS3lVM1h3bEJSZjJOVGNXMGtuNWl5STZGRm1BSVVodGgxVU1meU5Wd3RoYklOd2MzcDZjU1NzM1ZTeE5yWUhpdmZiUVEzdDQ3MS1DOUNkSnFJWXhvTnZBY0kwM2ZfVWU4SU9UbnZIQTdqdDFJSFVPLWRpcWRnUg?oc=5",
+      "site": "搜狐",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-f297c7056719",
+      "date": "2026-10-12",
+      "dateISO": "Mon, 12 Oct 2026 14:18:00 GMT",
+      "ts": 1791814680000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "以黎边境遗留弹药爆炸已致1死19伤 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVC1TSVVlVXozNW01YTdIcnJWQzVneXI1RzNQQ283bW9wSVI0a0xEU2p6bklsRFg1TmZFN2pJYkNVdHdzblFPaENNTlQwdnFuMWNpNDV5b0ZuSjdVZUEwWXdMVUpmZFNhNnhiYzEybEhDWlB4SVdsVmF5QjAxeVpTQ2hteTQ5RFBH?oc=5",
       "site": "搜狐",
       "siteUrl": "https://m.sohu.com"
     },
