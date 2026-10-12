@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T18:28:40.479Z",
+  "updated": "2026-10-12T18:49:13.419Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -183,6 +183,18 @@
       "siteUrl": "https://www.voachinese.com"
     },
     {
+      "id": "FL-b3cb306f0244",
+      "date": "2026-10-12",
+      "dateISO": "Mon, 12 Oct 2026 18:26:13 GMT",
+      "ts": 1791829573000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "以色列北部弹药爆炸已致1死24伤 - 央广网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43X1RqOWRFSDh6YlROb1hFUHpYQUpfVzJZTHJoU2MwMEFvZmNFWkd1eGpkbzN1alAzQ01oODRheU9qQ3laSWs3VTNmWWRvLWxHcHJMajFvZ2pTQVEtRGJJQ09sUVhhVThw?oc=5",
+      "site": "央广网",
+      "siteUrl": "https://news.cnr.cn"
+    },
+    {
       "id": "FL-6cb32ef80107",
       "date": "2026-10-12",
       "dateISO": "Mon, 12 Oct 2026 16:19:00 GMT",
@@ -217,6 +229,18 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44YUQ2Tng2bFRaR3pBRllpS05WUXVkZG1uX2dLdkhVMER2Sk51d05meC04RzU2X3VKc2FyZTVRcHE4WlZnX0hpQVQ2b2pYSFNCV3pfeFVYZTFyQzZuTFNrY2M3SU5lck1IOGNkLURiRGVnYm5MbzRn?oc=5",
       "site": "Shangbao Indonesia",
       "siteUrl": "https://www.shangbaoindonesia.com"
+    },
+    {
+      "id": "FL-683039e2ea89",
+      "date": "2026-10-12",
+      "dateISO": "Mon, 12 Oct 2026 15:24:51 GMT",
+      "ts": 1791818691000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "以色列北部发生疑似未爆弹药爆炸致1死19伤 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTHgwRFNZZGJXb1NyY0dwZG12ZkF4MFR6REVJZG1Kcnp6bFZyTGlxTFlqckZFbHNqVjVzeDB3UHd3Ql9VX3V1SXV2bkF0OVk4N0lUY3JnRHoxUWJJVnJtTWgzSmNCTFNxS2hjVjAtbTZ4V2poVEltWjlybERGb2hQRWY5YlR3UQ?oc=5",
+      "site": "新华网",
+      "siteUrl": "http://www.xinhuanet.com"
     },
     {
       "id": "FL-18727edac19a",
@@ -339,16 +363,16 @@
       "siteUrl": "https://k.sina.com.cn"
     },
     {
-      "id": "FL-6b37996adecc",
+      "id": "FL-28d295438b6b",
       "date": "2026-10-12",
-      "dateISO": "Mon, 12 Oct 2026 09:14:00 GMT",
-      "ts": 1791796440000,
-      "scope": "intl",
+      "dateISO": "Mon, 12 Oct 2026 09:58:00 GMT",
+      "ts": 1791799080000,
+      "scope": "dom",
       "type": "blast",
-      "title": "以色列北部爆炸致约20名学生和工作人员受伤——《黎明报》 - UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcjJvSk5GdnFXNDZ1MmRfcHdxMUtsNHllaGlqVzVMcm1KalFBX0xvSlZJN24tRXlXOW5GTDlzYUZKQjdVU1VJaHRxLWJlOEQ1YXBNSXdvUS15ZWthVEc1X244ZUQyQWUyTFQteV91ZkhuQ0RSd0ZtYWRyUGJId1NQLTd0aWplOWF0SWRUOTJBVHJFWmVEWEFmVGNzOXUtSi1jdW5mag?oc=5",
-      "site": "UA.NEWS",
-      "siteUrl": "https://ua.news"
+      "title": "电池未起火爆炸 新能源车坠下百米悬崖车主生还！领克回应 - 电子工程专辑",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zdExwVmtlOTFQM0k5bTdtWTg5aDRmR1NISUhCV3NRdFNLWFBVVHNvUzVLUjVPWGlJSzNZMFJXMlhucDBiTkx2MHBLQnpDZzlzSTNR?oc=5",
+      "site": "电子工程专辑",
+      "siteUrl": "https://www.eet-china.com"
     },
     {
       "id": "FL-fdde679cb79f",
@@ -385,18 +409,6 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqZG5FODZWQS1YYXJOQ3ZJR3lPYWk3cmZzZFl2cnEzanNILVJFOWgxT3dZeVoxeFR6MGhpaVNncUhsdTlTcHlHNTc4UVJIUDZ2d3lhX0tsTVRSUFE?oc=5",
       "site": "亚洲日报",
       "siteUrl": "https://www.ajudaily.com"
-    },
-    {
-      "id": "FL-efb4e4225963",
-      "date": "2026-10-12",
-      "dateISO": "Mon, 12 Oct 2026 06:29:00 GMT",
-      "ts": 1791786540000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "电池未起火爆炸 新能源车坠下百米悬崖车主生还！领克回应 - 驱动之家",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xOHdBdGlYb251NzNTTWZRWF9ndHRBbkh2eXpOZmpCVTJ2cW0wcm1hamVfVUN5M2hmdnh1TFlPb1pQT0ZhTkU4dktuckxZR05sbzRsaWUtUDc?oc=5",
-      "site": "驱动之家",
-      "siteUrl": "https://news.mydrivers.com"
     },
     {
       "id": "FL-2153a8be1a5b",
