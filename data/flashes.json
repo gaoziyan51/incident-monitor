@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T01:01:48.201Z",
+  "updated": "2026-10-12T01:23:42.618Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -111,18 +111,6 @@
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
-      "id": "FL-f517a02bbede",
-      "date": "2026-10-11",
-      "dateISO": "Sun, 11 Oct 2026 12:23:23 GMT",
-      "ts": 1791721403000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "【大美广东·中英双语】 琶洲踏浪燃爆黄金周 - 國際日報",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TQjAyS3NqTjZHODEwc0VOM1BGdnhrNEUyU2dwbHp3VkNZbjBwcWlSSGtlbElvdjlFMnB3MEdzRG5mUFQwU3o2aUVqb3BVWmVCV1BN?oc=5",
-      "site": "國際日報",
-      "siteUrl": "http://www.chinesetoday.com"
-    },
-    {
       "id": "FL-746831c4f78a",
       "date": "2026-10-11",
       "dateISO": "Sun, 11 Oct 2026 10:54:00 GMT",
@@ -181,18 +169,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-e1c81d311eae",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 15:50:14 GMT",
-      "ts": 1790437814000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 旅日侨网",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVEJFR0pjczI1RWcwMmdKMGVMbnVHUzNLeGJXWlcxeDMyZzFybFJrb2dOTG9mUmJjQU1kM2hNRGx1Z0drQkhjRExydURDejZYczVvQlNVR0VHOGpJOEsxU0pESWlxWHpRc2RJMXdRT0g0TUdfY2F4VG5tcVphUnpuLUlqYW1WVGNUWFE?oc=5",
-      "site": "旅日侨网",
-      "siteUrl": "https://www.jpchinapress.com"
     },
     {
       "id": "FL-5e735aebc1c3",
@@ -387,16 +363,28 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-9ee3beb65b73",
+      "id": "FL-ee84e704d790",
       "date": "2026-10-12",
-      "dateISO": "Mon, 12 Oct 2026 00:52:57 GMT",
-      "ts": 1791766377000,
-      "scope": "dom",
+      "dateISO": "Mon, 12 Oct 2026 01:18:54 GMT",
+      "ts": 1791767934000,
+      "scope": "intl",
       "type": "blast",
-      "title": "王源宇宙超级无敌大大狂欢燃爆全场 - 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSHhKWW83Z2FJcmh3NDEya21HeFRQQXFXemd6RHF5ZDVBZFU3TU9HZWlLcXdCWnZJVGhZWmxMQUItdlNqWE80b3ZQNTdyblkxTFhLN1FMZEpXdHVaR21SQlNmLUg4alExZGlSdlVDdE0yQ01hbUxBR1VfLU1hby1pZ2sxTFJnaWM2cTZMR056aEw0VDIwa2lpRWFoRHk1ZzJ6RU1uanB4MzhOYmhULWc1ZFZlU0U5S3M4QjZqcE94RndsRkNFRzRuUUh4TnRyUVJKdmFTbkdERXJwZw?oc=5",
-      "site": "新浪网",
-      "siteUrl": "https://k.sina.com.cn"
+      "title": "Offensive explosion leads Cowgirls to 42-7 victory over Langston - Oklahoma State University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVmFDSGkxNWhMbUhNQTRtZ3FfRy14cVR1R3RZTENiNHJ2eU9xdUhjMG1PcjVJMDNtdUZtd0lOWHdUaDQwdkdmRmQyZFJ3TkpkOHZxVF9aRGU3R3hMWk5uME5BdFlrTDQwckpGdHJsV2pVcEZRWVd6enlhWDlfN05jdmRuQkFGc0M3LUdnY2NLaUowTHFnS0RkN25wOXdLYWlxdkF6Wk5Ed0tGcVgtU09UUVh5WWFtSjhP?oc=5",
+      "site": "Oklahoma State University Athletics",
+      "siteUrl": "https://okstate.com"
+    },
+    {
+      "id": "FL-18fd529f11b2",
+      "date": "2026-10-12",
+      "dateISO": "Mon, 12 Oct 2026 00:51:41 GMT",
+      "ts": 1791766301000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "伊朗军方公布一油轮在霍尔木兹海峡触雷爆炸画面-新闻中心 - 中国宁波网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KUGNjNkx1MEg1WUhwZ1B3dHd2d1ZCbF92ZjQxbUF1T0RUbnlhekRPY1RSckQ0TTNTMWdDLUhhM3JOZnpNbm1xcGI0eHVNMjNIei1meDRybHBZaHlPTGtWb1BoY04temd5?oc=5",
+      "site": "中国宁波网",
+      "siteUrl": "http://news.cnnb.com.cn"
     },
     {
       "id": "FL-0d37be8e3bed",
