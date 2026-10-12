@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T21:11:56.424Z",
+  "updated": "2026-10-12T21:30:10.582Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -73,18 +73,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90dzV6VjUxc3V5Rk92VVhWdUFIbTlxM1RlX0pTQmowMEZXa3RtMUdzaWdibk5VUndsM2F2RUJHYVdIQmRQZDA2OFZ4YUNSZw?oc=5",
       "site": "川观新闻",
       "siteUrl": "https://cbgc.scol.com.cn"
-    },
-    {
-      "id": "FL-406d135df257",
-      "date": "2026-10-11",
-      "dateISO": "Sun, 11 Oct 2026 08:36:38 GMT",
-      "ts": 1791707798000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "美军一个多月来首次打击商业货轮，伊朗称油轮触雷爆炸，霍尔木兹海峡局势再度升级 - 华尔街见闻",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWd2U0OUFUc3k0SkQ1UEJEY1pDRkNkTVJ2VGNhZHVkdDI0eTVPTVJBOGE5QzYzOHhKZ1lWUFh3RzlXZDkyM1RjbUZ0R0w2Y1FHZ1lV?oc=5",
-      "site": "华尔街见闻",
-      "siteUrl": "https://wallstreetcn.com"
     },
     {
       "id": "FL-10dac3acb935",
@@ -231,6 +219,18 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
+      "id": "FL-e132fefd3cad",
+      "date": "2026-10-12",
+      "dateISO": "Mon, 12 Oct 2026 18:07:46 GMT",
+      "ts": 1791828466000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "沙特利雅得传出剧烈爆炸声_7x24快讯_新浪财经 - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9aZENVZDRKajZoeDEwNF9sd2VQT3QyXzg3MmQxb2wzbkhSNGMxSWpXd0RyRzJJNzdtWW9yQ19TUnlTamhWaTNramF3cw?oc=5",
+      "site": "手机新浪网",
+      "siteUrl": "https://wap.cj.sina.cn"
+    },
+    {
       "id": "FL-ee798c907534",
       "date": "2026-10-12",
       "dateISO": "Mon, 12 Oct 2026 16:10:26 GMT",
@@ -277,6 +277,18 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNamVsVF9EY1JVeDlLNGgwbi1jQWZWTlY4b3U4RGV6VENnZkNXYnRlU1VaTW5Tc0RtREhkOEJQcGo0bkE1N1ZNSmxwR2tZV3R6S1A4RzF6b0FKcC0waHZmOTN6c0RLMkwxMHA5YWdNdFNveGdGZDZOVEZQRnBpUER4Yi1zUUI?oc=5",
       "site": "CNN",
       "siteUrl": "https://www.cnn.com"
+    },
+    {
+      "id": "FL-3fde1b55bbe3",
+      "date": "2026-10-12",
+      "dateISO": "Mon, 12 Oct 2026 15:04:00 GMT",
+      "ts": 1791817440000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "电池未起火爆炸 新能源车坠下百米悬崖车主生还！领克回应 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWEVINjg0dHdoMzZIN2JTNWVNVmh0WUx3N2RTUmdJT0ZkWXJRLTZiOExfV01BandiS0tzcXVTY2tDNXBZd2lLZWlWdDl6Y2NBSGdFOGNsUFJOZEt6Tkg3Z2V0d2lyWlRQcmloa3FBYWlMMnNoaURCSUhsQ3FKNnBUR0pyeWpvekJF?oc=5",
+      "site": "搜狐",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-c7da095ea4c0",
@@ -387,18 +399,6 @@
       "siteUrl": "https://k.sina.com.cn"
     },
     {
-      "id": "FL-28d295438b6b",
-      "date": "2026-10-12",
-      "dateISO": "Mon, 12 Oct 2026 09:58:00 GMT",
-      "ts": 1791799080000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "电池未起火爆炸 新能源车坠下百米悬崖车主生还！领克回应 - 电子工程专辑",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zdExwVmtlOTFQM0k5bTdtWTg5aDRmR1NISUhCV3NRdFNLWFBVVHNvUzVLUjVPWGlJSzNZMFJXMlhucDBiTkx2MHBLQnpDZzlzSTNR?oc=5",
-      "site": "电子工程专辑",
-      "siteUrl": "https://www.eet-china.com"
-    },
-    {
       "id": "FL-fdde679cb79f",
       "date": "2026-10-12",
       "dateISO": "Mon, 12 Oct 2026 08:36:10 GMT",
@@ -423,18 +423,6 @@
       "siteUrl": "https://news.china.com"
     },
     {
-      "id": "FL-63bc689b7a31",
-      "date": "2026-10-12",
-      "dateISO": "Mon, 12 Oct 2026 07:40:00 GMT",
-      "ts": 1791790800000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "广告天才李在石推出批评地雷爆炸政治争议的公益广告 - 亚洲日报",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqZG5FODZWQS1YYXJOQ3ZJR3lPYWk3cmZzZFl2cnEzanNILVJFOWgxT3dZeVoxeFR6MGhpaVNncUhsdTlTcHlHNTc4UVJIUDZ2d3lhX0tsTVRSUFE?oc=5",
-      "site": "亚洲日报",
-      "siteUrl": "https://www.ajudaily.com"
-    },
-    {
       "id": "FL-2153a8be1a5b",
       "date": "2026-10-12",
       "dateISO": "Mon, 12 Oct 2026 05:48:35 GMT",
@@ -457,18 +445,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tT2w5M3VhSHN5N1d3MXc0SjUyYWxienpDLWZyQjVDbFYyMEx1NzZIWldCUjZvWUZqenJ3Z0g5ai1zeWdvTEJMQVBBMFJ3QXFab3RoV1NuOHd1ZnZHNGdialI3SG92QWpzX2hxbGdGX24?oc=5",
       "site": "中华网",
       "siteUrl": "https://news.china.com"
-    },
-    {
-      "id": "FL-0d37be8e3bed",
-      "date": "2026-10-05",
-      "dateISO": "Mon, 05 Oct 2026 08:45:00 GMT",
-      "ts": 1791189900000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "韩国公布非军事区地雷爆炸事件最终调查结果 - 封面新闻",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mOW90LUsxZ0prZmZVUFNmTkZ0QjQ1NzdDY195Z25fWFVDaXM3ZkloeTNkY3c3RnpVSVd3ZlFJY3c4YWlIalBYMDJWaGE0SUpZTm8zS2VZbUZmc2hoS2cwbFRPSTFHWGxOUVRYWkU2clJNdDg4Zk9PVm9n?oc=5",
-      "site": "封面新闻",
-      "siteUrl": "https://m.thecover.cn"
     },
     {
       "id": "FL-c39833bbfc21",
