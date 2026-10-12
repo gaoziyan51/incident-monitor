@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T20:23:01.849Z",
+  "updated": "2026-10-12T20:41:57.081Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -37,18 +37,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SS1BQV0NrVkJ6cFl3LVV3SFk4MFBqS1lFNzFZaWM1S1dIMzdOeXZLNUtfbHJfX3llOG1zdkhHbUZQdDVVUDE5RG9fNTZTTTlaTUhUdnlnQTJ5NTFtR3Ywa1VvZjh5em9l?oc=5",
       "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
-    },
-    {
-      "id": "FL-47c868ab4cf4",
-      "date": "2026-10-11",
-      "dateISO": "Sun, 11 Oct 2026 23:17:00 GMT",
-      "ts": 1791760620000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Prescott Valley woman dies a day before her birthday after fire pit explosion - AZ Family",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQa2ttUVAwOXpfbmZXQ0RrMzZPVFN2eHNuTHE2TFg0MWR0aDlPSE5aNERMZDRiSXB1TEFndC1yY2FKbWhfc014eWQ2WjFVX2lzdVl0eVFBMzdVckxzVVlEakdfVDJJcTFCQ0VhajFsZ3NlNDM2N2lVVjNyMW5DMlV5N1FvSVZRczhlWXphalRFdW44UdIBpgFBVV95cUxPZ0RkX3ZBS2xJcnpKLUt3blA4ZWVmU1RwZVM4UWZLSUhLXzUxc1RPVVBhV2pMQWhKX0xXbkVSZUV0Q3NxUTNuR3JBTDJ6MVU4Z3l4N3hNSEp1cXBzMWRFUTF2cFdVR1hCdjlYQ3B4ZF83QXI4dGpGLXNCbW9LeUJpN3FMUkczaUhTVm54TDI4SWE1OTFqVmY4am1leW0zSC0wUnJLRjVn?oc=5",
-      "site": "AZ Family",
-      "siteUrl": "https://www.azfamily.com"
     },
     {
       "id": "FL-3457799800c9",
@@ -169,6 +157,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0dU0tNmt3c0tGdklLb092WU5fd1BnQkk5eE5TSVl5b3liU2pEQmprWEhkVFBZcGp1THpDdmg1SzJqZ0dJcXNUdHdleGFuZjNmcEszTTF2akJWQmx1YU9tNWJLRno?oc=5",
       "site": "新京报",
       "siteUrl": "https://www.bjnews.com.cn"
+    },
+    {
+      "id": "FL-7f90a0819517",
+      "date": "2026-10-12",
+      "dateISO": "Mon, 12 Oct 2026 20:30:00 GMT",
+      "ts": 1791837000000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "以色列北部发生爆炸1死24伤 军方称或由真主党未爆弹药所致 - 香港電台",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTmNTT0FLak1xWWQ5NWRLZGEtMkJxT0JvOFR5Z0V4RmtJUWhMU3A3VE5xdVl2SGN3bEFTTlZqOHhSTWV2NVlCak5zV1BSMWJaTHNubjl0VEJDS2xud20ycUJUMnFwUzFQc3A1UlQwZDItT1pKTnFZa1hsMXlZQk9SNUFQdUl5SDdPTUV2YWdJcnoyVlpIQTFYMzdIbmNzQ2dNZ0Rr?oc=5",
+      "site": "香港電台",
+      "siteUrl": "https://gbcode.rthk.hk"
     },
     {
       "id": "FL-9ef663ef06fd",
@@ -351,6 +351,18 @@
       "siteUrl": "https://www.aljazeera.com"
     },
     {
+      "id": "FL-28d295438b6b",
+      "date": "2026-10-12",
+      "dateISO": "Mon, 12 Oct 2026 12:57:13 GMT",
+      "ts": 1791809833000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "电池未起火爆炸 新能源车坠下百米悬崖车主生还！领克回应 - 电子工程专辑",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zdTVITWZJRDlPUHJZeGNDS2wzTXFwUFhHbVYzb1JEc05JMDVLTXNKcnNEM0JjdmNtcE4yWDRSMFdpQ1BLOEcxNnBja1NCT0dzMzY0?oc=5",
+      "site": "电子工程专辑",
+      "siteUrl": "https://www.eet-china.com"
+    },
+    {
       "id": "FL-db5524cc8ec3",
       "date": "2026-10-12",
       "dateISO": "Mon, 12 Oct 2026 12:12:37 GMT",
@@ -373,30 +385,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mWVRZc1dLbWxQRXhvek03aElPZ3dOLTd3UWFJYnBMRWFzaDUyT1d3ZG5OZGpzZUkxQzVoRUpZeC1SNlpTdlRRdHBiaHNHSFF5SE5xdHpjbE1EakY1RTdubjc2YlJvY0llSG51TEVRaHJzZw?oc=5",
       "site": "新浪网",
       "siteUrl": "https://k.sina.com.cn"
-    },
-    {
-      "id": "FL-57eefe3254a8",
-      "date": "2026-10-12",
-      "dateISO": "Mon, 12 Oct 2026 10:13:00 GMT",
-      "ts": 1791799980000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "俄罗斯15岁少年遭棕熊袭击，随身手机被咬爆炸而得以幸存 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RYjR1OWpTNjZrVktmcmVtaVN4cWdxdjl0MXY3Qm9GOVUyLUl3WTJnWTBKbnY3aUtQT1VnaHh5XzNXcnRWcld4TDdwcVA3Q3BxSnVxZDRDMTJkQzZpbjREakVHN25QV3E4TWRkLWpna2pZOE5KalltSWY0Y3RaOVE?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
-    },
-    {
-      "id": "FL-28d295438b6b",
-      "date": "2026-10-12",
-      "dateISO": "Mon, 12 Oct 2026 09:58:00 GMT",
-      "ts": 1791799080000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "电池未起火爆炸 新能源车坠下百米悬崖车主生还！领克回应 - 电子工程专辑",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zdExwVmtlOTFQM0k5bTdtWTg5aDRmR1NISUhCV3NRdFNLWFBVVHNvUzVLUjVPWGlJSzNZMFJXMlhucDBiTkx2MHBLQnpDZzlzSTNR?oc=5",
-      "site": "电子工程专辑",
-      "siteUrl": "https://www.eet-china.com"
     },
     {
       "id": "FL-fdde679cb79f",
