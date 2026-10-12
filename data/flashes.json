@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T19:39:49.392Z",
+  "updated": "2026-10-12T19:53:44.837Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -267,6 +267,30 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
+      "id": "FL-b1b0b9a1bc08",
+      "date": "2026-10-12",
+      "dateISO": "Mon, 12 Oct 2026 13:41:35 GMT",
+      "ts": 1791812495000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "以色列北部爆炸已致1死19伤，大部分为正在远足的以色列师生；初步调查显示，爆炸由遗留在该地区的“未爆弹药”引起 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSjR2ODRJdG5odThZZW9KN2twcDc5ZHJlVnFTWHlaQnpsRkhvZU5qR2RhenFOdVVGc2pKRG9YeWZkTElPaG84a3d5ZHR1TjhpNzJYVzQ1RXptNVRuUEtSOWZZam9nbzcxcWN0UXFrTHluaG5hTVFqZi1UdXNEeC1RbzMtV3Q5M0pZdklSSw?oc=5",
+      "site": "搜狐",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-1d14b9837a56",
+      "date": "2026-10-12",
+      "dateISO": "Mon, 12 Oct 2026 13:38:00 GMT",
+      "ts": 1791812280000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "以色列北部发生爆炸，约20人受伤 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSl8ycEtkay10d2Z0VjJ5ay1QVVZVTXdKN0pOTVJsTlNWMXUzdVJYMWdPV3RoZGVYZ1hBNmdqZFpWOUtDc1dJeUhEMnVfSG5EdXA3SWxreGlNSnpSWi1jeFJrSHRTUnZ5alFoM2RFY0t1YXk4U1g4NUtlSEV0aWhIMkJsMC1ZcUkw?oc=5",
+      "site": "搜狐",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-507d1578e4cf",
       "date": "2026-10-12",
       "dateISO": "Mon, 12 Oct 2026 13:16:05 GMT",
@@ -289,18 +313,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeUppOW51MnV3UEFvbWZ3MjRBbzN5S1RZLVEzWEVTejAtZ0hjSzJTamVvSG44a0VQOURRTWR6c0JEMlJiZ1N3Q3d1a1lEb1cxTW85S0FkamVHWW1ma0doNTRvaXkzVGFWVmtKNjJQVEtIbEJLM1l3Q2hlQU9xTDgtbzJXYk1ic3hu?oc=5",
       "site": "搜狐",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-6b85dc5f7d96",
-      "date": "2026-10-12",
-      "dateISO": "Mon, 12 Oct 2026 13:09:26 GMT",
-      "ts": 1791810566000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "以色列北部发生爆炸，约20人受伤 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FbmhOQlJkVnZwdDdXQjdudVloMjJIeEg0d2Iya0I2eldxYzkwRWYzN3pwTFNQZS02NDAzWXRaQXdSR3pIclVORHBady1XSHNSMHJ3Wl9Bd3c0Z3RmVDlSa2dNSjVNeG5FcTN2aXNHNkRfZw?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
       "id": "FL-db5524cc8ec3",
@@ -421,18 +433,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tT2w5M3VhSHN5N1d3MXc0SjUyYWxienpDLWZyQjVDbFYyMEx1NzZIWldCUjZvWUZqenJ3Z0g5ai1zeWdvTEJMQVBBMFJ3QXFab3RoV1NuOHd1ZnZHNGdialI3SG92QWpzX2hxbGdGX24?oc=5",
       "site": "中华网",
       "siteUrl": "https://news.china.com"
-    },
-    {
-      "id": "FL-0d37be8e3bed",
-      "date": "2026-10-05",
-      "dateISO": "Mon, 05 Oct 2026 08:45:00 GMT",
-      "ts": 1791189900000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "韩国公布非军事区地雷爆炸事件最终调查结果 - 封面新闻",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mOW90LUsxZ0prZmZVUFNmTkZ0QjQ1NzdDY195Z25fWFVDaXM3ZkloeTNkY3c3RnpVSVd3ZlFJY3c4YWlIalBYMDJWaGE0SUpZTm8zS2VZbUZmc2hoS2cwbFRPSTFHWGxOUVRYWkU2clJNdDg4Zk9PVm9n?oc=5",
-      "site": "封面新闻",
-      "siteUrl": "https://m.thecover.cn"
     },
     {
       "id": "FL-c39833bbfc21",
