@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T02:52:09.799Z",
+  "updated": "2026-10-12T03:05:08.801Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -339,6 +339,18 @@
       "siteUrl": "https://news.iqilu.com"
     },
     {
+      "id": "FL-0234da05571d",
+      "date": "2026-10-10",
+      "dateISO": "Sat, 10 Oct 2026 00:21:59 GMT",
+      "ts": 1791591719000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "俄导弹击中基辅大桥猛烈爆炸画面 城市伤疤与和平希望 - 中华军事",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sR1FIZWFXSGl0S0JKdWl4MXhfbFlBOUJEZmxsNDA3X05HdXVVTzBYNzJ4UzlYbHRtU2Z0S2lYM2g4UzJOdGlSS25GSmNERnA3X0RmVy1rWGlvZEhzUDJvOGhTWThzT2RVUURNYXRqTG0?oc=5",
+      "site": "中华军事",
+      "siteUrl": "https://military.china.com"
+    },
+    {
       "id": "FL-a1625e58e48d",
       "date": "2026-10-03",
       "dateISO": "Sat, 03 Oct 2026 07:00:00 GMT",
@@ -351,6 +363,18 @@
       "siteUrl": "https://www.voachinese.com"
     },
     {
+      "id": "FL-78910da5c71f",
+      "date": "2026-10-12",
+      "dateISO": "Mon, 12 Oct 2026 03:01:00 GMT",
+      "ts": 1791774060000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "伊朗军方公布爆炸瞬间 - 新浪军事",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aUGtmZ2xQMi1kXzlyckNOUFhNRlVpa3p4eVVPelFXTGR1RUJka0gzMlZNX3pVa3FLaGNKMlU3RGN2amxFX0s1Mlc3LWh6d2JqNl9NNFQ2UVVUV2dNZXBxZlJnMTZDMExob29GSVM0WkpKd0U?oc=5",
+      "site": "新浪军事",
+      "siteUrl": "https://mil.news.sina.com.cn"
+    },
+    {
       "id": "FL-9d9b716e2ba6",
       "date": "2026-10-12",
       "dateISO": "Mon, 12 Oct 2026 02:33:55 GMT",
@@ -361,6 +385,18 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV3NQeHVRX19aSFc4aU9FVnBIdm5nb2JPTE9ZQlV4X2l6TXBySGstSDV3RW5BMzlhRUVVOVFDODA2cTBKRnMzM056dDktcVlvRU5yTVk4NnA0ZVVrSlBjTldmai1qUm5CMzFXaXFhblhyTjJSRFZwekUxMi1XVFZCQ3d2SkUyNUVWWVJZ?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
+    },
+    {
+      "id": "FL-773f5efd49fb",
+      "date": "2026-10-12",
+      "dateISO": "Mon, 12 Oct 2026 02:21:17 GMT",
+      "ts": 1791771677000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "喷壶突然爆炸击中男子头部，当事人：这壶别压太多次，网友：飞上去没笑，但掉脑袋上我笑了 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQREJVb296T1UxZ0RWMk81b1NKaDk4NXF5MU5UdVhxQTJzUG90SW5waV8zRTZGaDBZeWg5Z1RXVmppeTB4Z210bGNNbFJqblVZejA5MzliYkdJMlE0bWQ3eWtuWUV1MHd1Ui1sU2VPYzJPWFo1T2tiWmp4NzlQM1F3aFJrc1NEYmhC?oc=5",
+      "site": "搜狐",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-9ee3beb65b73",
@@ -385,30 +421,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tT2w5M3VhSHN5N1d3MXc0SjUyYWxienpDLWZyQjVDbFYyMEx1NzZIWldCUjZvWUZqenJ3Z0g5ai1zeWdvTEJMQVBBMFJ3QXFab3RoV1NuOHd1ZnZHNGdialI3SG92QWpzX2hxbGdGX24?oc=5",
       "site": "中华网",
       "siteUrl": "https://news.china.com"
-    },
-    {
-      "id": "FL-8dd1e804e655",
-      "date": "2026-10-12",
-      "dateISO": "Mon, 12 Oct 2026 01:26:39 GMT",
-      "ts": 1791768399000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "檀健次绝对唱跳实力燃爆现场 - 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFV3BWOU5tUnBoMTJMcVF4c2Jvd0VldklNTXBORHhJT1lFMEhRdGgyd3Z1UC1wYy00ZGdwcXN0TVpGSTlpYW9LRkI0VllvUy1aVDNhTkV6ODk2N0ZqRjh3cURnU2JCZ1BweVhJamtfeW0?oc=5",
-      "site": "新浪网",
-      "siteUrl": "http://k.sina.com.cn"
-    },
-    {
-      "id": "FL-18fd529f11b2",
-      "date": "2026-10-12",
-      "dateISO": "Mon, 12 Oct 2026 00:51:41 GMT",
-      "ts": 1791766301000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "伊朗军方公布一油轮在霍尔木兹海峡触雷爆炸画面-新闻中心 - 中国宁波网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KUGNjNkx1MEg1WUhwZ1B3dHd2d1ZCbF92ZjQxbUF1T0RUbnlhekRPY1RSckQ0TTNTMWdDLUhhM3JOZnpNbm1xcGI0eHVNMjNIei1meDRybHBZaHlPTGtWb1BoY04temd5?oc=5",
-      "site": "中国宁波网",
-      "siteUrl": "http://news.cnnb.com.cn"
     },
     {
       "id": "FL-0d37be8e3bed",
