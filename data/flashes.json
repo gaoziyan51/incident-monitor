@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T07:09:51.180Z",
+  "updated": "2026-10-12T07:31:03.121Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -135,18 +135,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-5dbe74fe0724",
-      "date": "2026-10-10",
-      "dateISO": "Sat, 10 Oct 2026 17:18:51 GMT",
-      "ts": 1791652731000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "现场直击｜沙特首都国际机场传出爆炸声 已无航班起降 - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcDFsU2lEb1cxam5FUGpDVS1mdFc2NXhDZ0xIcEVwcFVFWlVlcDlfU0JrRWR0b0NKRnplR1ExRlVoVlFxVndLNE03WWhLT2k5QW16Zmk1cldCSkhHVnI4YUVUWUJIUTdVbmVuVlM2SHlRUHRaN3Z1U3NTbldCbk0xTGtfbHdscmFT?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-fa135486e83a",
       "date": "2026-10-10",
       "dateISO": "Sat, 10 Oct 2026 14:54:00 GMT",
@@ -243,16 +231,16 @@
       "siteUrl": "https://www.voachinese.com"
     },
     {
-      "id": "FL-84b42e1cba17",
+      "id": "FL-efb4e4225963",
       "date": "2026-10-12",
-      "dateISO": "Mon, 12 Oct 2026 06:37:35 GMT",
-      "ts": 1791787055000,
-      "scope": "intl",
+      "dateISO": "Mon, 12 Oct 2026 06:29:00 GMT",
+      "ts": 1791786540000,
+      "scope": "dom",
       "type": "blast",
-      "title": "超级油轮在霍峡爆炸 伊朗军方：触雷起火 - 诗华日报",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jc0cyU21OaENYVUwxeURFSWtyWTBJZmRHcXZEaUhHbVgxSXpWNUdGUTctb1ZZck5JTEUzMFpiRFd2cUl3bERpMm05V09rdw?oc=5",
-      "site": "诗华日报",
-      "siteUrl": "https://news.seehua.com"
+      "title": "电池未起火爆炸 新能源车坠下百米悬崖车主生还！领克回应 - 驱动之家",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xOHdBdGlYb251NzNTTWZRWF9ndHRBbkh2eXpOZmpCVTJ2cW0wcm1hamVfVUN5M2hmdnh1TFlPb1pQT0ZhTkU4dktuckxZR05sbzRsaWUtUDc?oc=5",
+      "site": "驱动之家",
+      "siteUrl": "https://news.mydrivers.com"
     },
     {
       "id": "FL-2153a8be1a5b",
