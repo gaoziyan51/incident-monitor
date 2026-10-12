@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T04:43:17.571Z",
+  "updated": "2026-10-12T05:00:54.134Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -161,14 +161,26 @@
     {
       "id": "FL-65f6ed2a1678",
       "date": "2026-10-10",
-      "dateISO": "Sat, 10 Oct 2026 17:37:23 GMT",
-      "ts": 1791653843000,
+      "dateISO": "Sat, 10 Oct 2026 17:37:18 GMT",
+      "ts": 1791653838000,
       "scope": "intl",
       "type": "blast",
       "title": "现场直击｜沙特首都国际机场传出爆炸声 已无航班起降 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pX2JNUkVZcXF5OGNaZjFmQnFtV1d4bDRQMThuLUw2S1dZdUdNRW8xSldSQ2lfZmkxa0VXODM0Rnh1MUh2Y3hQaElyVVRJOHJLVHExNDZ5dTRYRThMU0RBR1RtUUc3VmdZOERQUkRJSXZlQkRRRk5sYUNiVEpEcU0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pRVdwR1ZNWjVWV2tlVnRHbUxzeVJHU3BMNjBnS3dMQi0zSzhydEY0dDdaMWRwZXJuNXF4QU0xLVF0eVpqT2ZBbWliRVZ3eF9ZSlYzYW85U01sOUFuU0VqRFRRQVgyOTVQUTdYRVkzNjNJZkh0VHpN?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-5dbe74fe0724",
+      "date": "2026-10-10",
+      "dateISO": "Sat, 10 Oct 2026 17:18:51 GMT",
+      "ts": 1791652731000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "现场直击｜沙特首都国际机场传出爆炸声 已无航班起降 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcDFsU2lEb1cxam5FUGpDVS1mdFc2NXhDZ0xIcEVwcFVFWlVlcDlfU0JrRWR0b0NKRnplR1ExRlVoVlFxVndLNE03WWhLT2k5QW16Zmk1cldCSkhHVnI4YUVUWUJIUTdVbmVuVlM2SHlRUHRaN3Z1U3NTbldCbk0xTGtfbHdscmFT?oc=5",
+      "site": "搜狐",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-b92f6345da6c",
@@ -313,6 +325,18 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN1gtb1drX1hWS3NBMzU4MlNRVEJ1TkUzQmJCR1B0a3VFS2MxU05ZTTZ1UjlmZnJZU2JYNHgyOGVwZ1dUZjdIZ3hxaWlPNGZsQTc3VjRlRTlPd3hlR1d2b3RVVE92dUwzMTlwVVB1TmphZUN1OG5iTU5WYU5EZjJmM3BpNHctZ3ljVTgtTXJuX1YzeVM2bmVmTkEzZzBnczIzSFFRWmxHRGd2SUdVb01wNGZsSmVVOWlYcG1LZHZYWk1BQU9wcnhhb3Q2dVZXaDlUSHNqZ9IB1wFBVV95cUxNWnRiOWpoQ21MQ0tYTkh0c3hWVTFSbV9ZQlcxWUF4SmtBanZHZmNIc296ZkJUcjBIVnZlTmZDZXY3WnlfWXJPWmU0WHYxa1F4RlFxWDlaMjlaRGtCYTdTVU9fa3JaMkVlSllKZWVObWpKS1o3ZVZlNTk3RGN6ejJGSTFCbTd2RFVYM2FfQk5heEcxWDYtc0Q3bDl4Wnp5em1ZdE9WZi11VTd6bi1TWnlycUc2VmR5eUJ6Mk15Y1ZCQlhrc2tmcWpKTVpRZlpEbjFYU1JhTWZBOA?oc=5",
       "site": "美国之音",
       "siteUrl": "https://www.voachinese.com"
+    },
+    {
+      "id": "FL-c6860b0dc585",
+      "date": "2026-10-12",
+      "dateISO": "Mon, 12 Oct 2026 04:33:00 GMT",
+      "ts": 1791779580000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "新型“直探炸药”地雷探测器完成测试可绕过金属外壳直接锁定爆炸物- 硬件 - cnBeta.COM",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LVl8yUDMwRnNTejhTd19KZXVzNlNJTlVPTFBtSnRSSURSU0tRQ291ZExaX2dMYUN2UTFHOGtLcE1VUTZtYTV1UUdVY2cwcUExM0RrT2JRRlJPTTJHbEdWQ0VuYWI?oc=5",
+      "site": "cnBeta.COM",
+      "siteUrl": "https://www.cnbeta.com.tw"
     },
     {
       "id": "FL-990f94bdf390",
