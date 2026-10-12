@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T01:23:42.618Z",
+  "updated": "2026-10-12T01:41:59.893Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -351,16 +351,28 @@
       "siteUrl": "https://www.voachinese.com"
     },
     {
-      "id": "FL-160d55aeb47e",
-      "date": "2026-06-22",
-      "dateISO": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "ts": 1782111600000,
+      "id": "FL-6ffd5cacbd47",
+      "date": "2026-10-12",
+      "dateISO": "Mon, 12 Oct 2026 01:38:06 GMT",
+      "ts": 1791769086000,
       "scope": "intl",
       "type": "blast",
-      "title": "卡塔尔工厂爆炸已致13人死亡 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mR2pTX0YxWjBwQ2lLNC1XZjFhd3IwVEYtWkZFR3ZBU3B5RTFHR1BldmQ3OEkxN2NaWTMzYUkwWENDeEliY3dVNEloOExFS1B6SlZQTENHdWVmTWpUM042M2hRcmo4QS1qdl85cXlhZHJ3R3JGTEU4?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
+      "title": "利雅得机场中国人亲历惊魂袭击 爆炸点仅五百米外 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tT2w5M3VhSHN5N1d3MXc0SjUyYWxienpDLWZyQjVDbFYyMEx1NzZIWldCUjZvWUZqenJ3Z0g5ai1zeWdvTEJMQVBBMFJ3QXFab3RoV1NuOHd1ZnZHNGdialI3SG92QWpzX2hxbGdGX24?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
+    },
+    {
+      "id": "FL-8dd1e804e655",
+      "date": "2026-10-12",
+      "dateISO": "Mon, 12 Oct 2026 01:26:39 GMT",
+      "ts": 1791768399000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "檀健次绝对唱跳实力燃爆现场 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFV3BWOU5tUnBoMTJMcVF4c2Jvd0VldklNTXBORHhJT1lFMEhRdGgyd3Z1UC1wYy00ZGdwcXN0TVpGSTlpYW9LRkI0VllvUy1aVDNhTkV6ODk2N0ZqRjh3cURnU2JCZ1BweVhJamtfeW0?oc=5",
+      "site": "新浪网",
+      "siteUrl": "http://k.sina.com.cn"
     },
     {
       "id": "FL-ee84e704d790",
