@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T09:25:27.347Z",
+  "updated": "2026-10-12T09:45:14.355Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -99,16 +99,16 @@
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
-      "id": "FL-155602ae9d8e",
+      "id": "FL-406d135df257",
       "date": "2026-10-11",
-      "dateISO": "Sun, 11 Oct 2026 04:53:26 GMT",
-      "ts": 1791694406000,
-      "scope": "dom",
+      "dateISO": "Sun, 11 Oct 2026 08:36:38 GMT",
+      "ts": 1791707798000,
+      "scope": "intl",
       "type": "blast",
-      "title": "基于共聚焦拉曼光谱的纺织品中爆炸前残留物无损多参数检测及其在简易爆炸装置防御中的应用 - 生物通",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qM1QtSVcwaWhTUFRMMkE2SXRYT2lvLW9VYi1YZXpXT2stZTBhVFZfSHFsc1k0eEtUeDZZNllMYlFzLUwtWDVxWTNlLVhxVGpoUDh5ek1WcVJuNzNsUkJaWDVYeC04TjBvNi1Qbkt3?oc=5",
-      "site": "生物通",
-      "siteUrl": "https://www.ebiotrade.com"
+      "title": "美军一个多月来首次打击商业货轮，伊朗称油轮触雷爆炸，霍尔木兹海峡局势再度升级 - 华尔街见闻",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWd2U0OUFUc3k0SkQ1UEJEY1pDRkNkTVJ2VGNhZHVkdDI0eTVPTVJBOGE5QzYzOHhKZ1lWUFh3RzlXZDkyM1RjbUZ0R0w2Y1FHZ1lV?oc=5",
+      "site": "华尔街见闻",
+      "siteUrl": "https://wallstreetcn.com"
     },
     {
       "id": "FL-10dac3acb935",
@@ -219,6 +219,18 @@
       "siteUrl": "https://www.voachinese.com"
     },
     {
+      "id": "FL-57a9be1f28c9",
+      "date": "2026-10-12",
+      "dateISO": "Mon, 12 Oct 2026 09:20:00 GMT",
+      "ts": 1791796800000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Grandmother burned in fire pit explosion dies a day before her 59th birthday - WSMV",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa01KOHNHWlpCXzBXTlFjQzRwc1VDWVA4VjFXem0tY3VoSGp6Y0hJM1dUVHl5dUVkSEFMbFZuZmJSNUZUZm5Db0lxdk9YS2ppRWl0bTJObHZ3TjA5RUg1SUgyYlIwM0lZVDBDNzB4cVZnRlZWZC1RMWdidDJwbjh5NUJnZWNDaFdRWmhhZGJBNDRLdy1NSWZTckc5WWlpWW1DcnVTdXBqUdIBuwFBVV95cUxOU3pWZnRpRjdxa2h1d1lUNWQyY0ZjdXYzbFJEcVEyVmVmSXQ4SEZYT1JFY3lZb09YZGNlS05uMmFRZzFkTHFpMG1tUnV6aEljb29nZUZ5b01CTkoyYjlSU0hRVUJDQ0F3ME9TVlNGalQyVVphSFV0N1JROUhXVlZsR2MxTEloQmZtdnVUeWwybTVaa3kzU0hGUFRrRDhmemxSb0tQX3ZSU0ZwMUV5RlN5dW1pajJEb2IxT05v?oc=5",
+      "site": "WSMV",
+      "siteUrl": "https://www.wsmv.com"
+    },
+    {
       "id": "FL-d0e51e5ce507",
       "date": "2026-10-12",
       "dateISO": "Mon, 12 Oct 2026 09:09:12 GMT",
@@ -315,6 +327,18 @@
       "siteUrl": "https://www.ajudaily.com"
     },
     {
+      "id": "FL-2b772c5ddc6b",
+      "date": "2026-10-12",
+      "dateISO": "Mon, 12 Oct 2026 04:09:00 GMT",
+      "ts": 1791778140000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "伊朗军方公布爆炸瞬间 - 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4TldCY0dhcHZGWnpWcTNuWTUxWUtfcjBqRU03eERJT3p6N3NaTk9LVm1PUlNncFVBTjhiQzlzMnd4X0Y2bGNVVg?oc=5",
+      "site": "财联社",
+      "siteUrl": "https://www.cls.cn"
+    },
+    {
       "id": "FL-990f94bdf390",
       "date": "2026-10-12",
       "dateISO": "Mon, 12 Oct 2026 03:33:00 GMT",
@@ -361,18 +385,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQREJVb296T1UxZ0RWMk81b1NKaDk4NXF5MU5UdVhxQTJzUG90SW5waV8zRTZGaDBZeWg5Z1RXVmppeTB4Z210bGNNbFJqblVZejA5MzliYkdJMlE0bWQ3eWtuWUV1MHd1Ui1sU2VPYzJPWFo1T2tiWmp4NzlQM1F3aFJrc1NEYmhC?oc=5",
       "site": "搜狐",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-2b772c5ddc6b",
-      "date": "2026-10-12",
-      "dateISO": "Mon, 12 Oct 2026 01:56:00 GMT",
-      "ts": 1791770160000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "伊朗军方公布爆炸瞬间 - 财联社",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4TldCY0dhcHZGWnpWcTNuWTUxWUtfcjBqRU03eERJT3p6N3NaTk9LVm1PUlNncFVBTjhiQzlzMnd4X0Y2bGNVVg?oc=5",
-      "site": "财联社",
-      "siteUrl": "https://www.cls.cn"
     },
     {
       "id": "FL-6ffd5cacbd47",
