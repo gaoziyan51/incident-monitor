@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T15:03:58.300Z",
+  "updated": "2026-10-13T15:24:22.248Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,16 +15,16 @@
       "siteUrl": "https://news.china.com"
     },
     {
-      "id": "FL-7cb91e3662ad",
+      "id": "FL-70243ac318da",
       "date": "2026-10-13",
-      "dateISO": "Tue, 13 Oct 2026 08:42:54 GMT",
-      "ts": 1791880974000,
+      "dateISO": "Tue, 13 Oct 2026 08:56:11 GMT",
+      "ts": 1791881771000,
       "scope": "dom",
       "type": "blast",
-      "title": "【视频】BP机爆炸，关特斯拉和苹果什么事儿？ - 汽车之家",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lQmdUcGEzeENsR05aNTctV3pnZHBxUzNqc2wtZTZITTFrVGpGSmQxUkxSZW4xclZoc01KVkpLU2R3eEtQaUVwa1dnR2g1WVFheVJKSlpvUVNrOFU?oc=5",
-      "site": "汽车之家",
-      "siteUrl": "https://chejiahao.autohome.com.cn"
+      "title": "燃爆浙BA现场，浙江移动5G-A超级上行推动海量流量上传！ - 地方频道",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LUjl2cWVIWV8yS2xfTU1ZdnNRMEFtODVTdHBxMjFzdEdsV2p6Z05Oa3dfbkhMQXJOQ0F3dVVUbmRIY2tDaDJKVXRvaDBwTENZVkowY1RzSExjLThrNi1Bc0JOUVVILXZ3c1E?oc=5",
+      "site": "地方频道",
+      "siteUrl": "https://cs.zjol.com.cn"
     },
     {
       "id": "FL-8689ac29a0f0",
@@ -193,18 +193,6 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5naEpaTmt5bmlhUXlZdndRR2F3XzN6Z2d5aWcwdU4zRnpJWXBJX3VpVWxzRDBzQUFVRXZ4TW1lOTJQUEhCQ3NDNDFEN2FpVTRuYTh3?oc=5",
       "site": "环球网",
       "siteUrl": "https://m.huanqiu.com"
-    },
-    {
-      "id": "FL-4ed1ffe514b4",
-      "date": "2026-08-21",
-      "dateISO": "Fri, 21 Aug 2026 07:00:00 GMT",
-      "ts": 1787295600000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "山东临沂发生爆炸致1人死亡2人失联 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5dmp2dW40R0VaSl93N25sLVZHeGFRNGZYdXF5cHJNeVcxWDVadGl6a094ZGxNcVBiMkN2cXhtdG1IQkxYSlk4SEVWc1FlX0Rsc1B4RXhKdHhvV0tfSHpzNDhTQUVRdlBSMjh6c3ZqZ01leGQ0dVVZ?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
     }
   ]
 }
