@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T03:05:07.263Z",
+  "updated": "2026-10-13T03:22:26.090Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -87,6 +87,18 @@
       "siteUrl": "https://science.caixin.com"
     },
     {
+      "id": "FL-340d5e981918",
+      "date": "2026-08-23",
+      "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
+      "ts": 1787468400000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
       "id": "FL-7a584890458a",
       "date": "2026-10-11",
       "dateISO": "Sun, 11 Oct 2026 23:51:01 GMT",
@@ -135,18 +147,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-08d5beb77eeb",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
-      "ts": 1790406000000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 新华网客户端",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaEUzM21qMG8zSnRRcy1iYjkwOUxBeWEyRnVHaVNZcmhIZ0FwS0lUYWhndmd0WHp1ZHpxVTZSYUlMLUVGVWxseUcwOEprSHA4MExzeFFxVFV3OVlacVc3dTVvMi1VUUVsVXlTb3I1bWlUS3dDUlBzcEs4allydkhIdFU3ckVMZjJPVXQ0ZWJQWkFWNEpITlhnTlR3?oc=5",
-      "site": "新华网客户端",
-      "siteUrl": "https://app.xinhuanet.com"
-    },
-    {
       "id": "FL-5e735aebc1c3",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
@@ -159,18 +159,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-5fe607353490",
-      "date": "2026-10-10",
-      "dateISO": "Sat, 10 Oct 2026 19:54:00 GMT",
-      "ts": 1791662040000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "中国旅客亲历利雅得机场航站楼遇袭：“爆炸点距我不到五百米” 使馆：尚无中国公民伤亡报告 - 封面新闻",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5oVkNkdnB5OGRJVVlaWjlLWk5lOUZCd2JXZWtzOTBfcG01OTA5M2M2UmVjYkJEQmQzNnR1NEdXd1B0bEVvRDJvVHZrT2NJUVhReVFXRWtlWHBRM3VGVTMxMjJNYm9rbWtHbXRkZ2ZiSUlhNTZIejk0TjFB?oc=5",
-      "site": "封面新闻",
-      "siteUrl": "https://m.thecover.cn"
-    },
-    {
       "id": "FL-65f6ed2a1678",
       "date": "2026-10-10",
       "dateISO": "Sat, 10 Oct 2026 17:37:18 GMT",
@@ -181,18 +169,6 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pRVdwR1ZNWjVWV2tlVnRHbUxzeVJHU3BMNjBnS3dMQi0zSzhydEY0dDdaMWRwZXJuNXF4QU0xLVF0eVpqT2ZBbWliRVZ3eF9ZSlYzYW85U01sOUFuU0VqRFRRQVgyOTVQUTdYRVkzNjNJZkh0VHpN?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-1835e9af8a05",
-      "date": "2026-10-10",
-      "dateISO": "Sat, 10 Oct 2026 13:18:00 GMT",
-      "ts": 1791638280000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "沙特首都国际机场传出爆炸声 已无航班起降 - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0dU0tNmt3c0tGdklLb092WU5fd1BnQkk5eE5TSVl5b3liU2pEQmprWEhkVFBZcGp1THpDdmg1SzJqZ0dJcXNUdHdleGFuZjNmcEszTTF2akJWQmx1YU9tNWJLRno?oc=5",
-      "site": "新京报",
-      "siteUrl": "https://www.bjnews.com.cn"
     },
     {
       "id": "FL-a1625e58e48d",
@@ -241,18 +217,6 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQejdUYUYyZ1hKLTVqMXdlT3Y1RmljZHZMdWl4QnpYZm9VbE5GTElwZjRJQlBBblJhaDNMMEZZWXV2ZVpSQ3BhdmEtMFlhNUhmV3ZRa3d2S1YzNDE3emZWd1Vuekk2MkhRWWlQM003TkZaSzJEaXN5Q0k4UUNLOFYzdnc4QkR1a0ZSbEt2VnFCbw?oc=5",
       "site": "香港電台",
       "siteUrl": "https://gbcode.rthk.hk"
-    },
-    {
-      "id": "FL-db5524cc8ec3",
-      "date": "2026-10-12",
-      "dateISO": "Mon, 12 Oct 2026 18:27:28 GMT",
-      "ts": 1791829648000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "One killed, 24 injured in explosion of Hezbollah ordnance near Lebanon border - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90a2N4czVHSDlrUGo4OGdHQ1AtQmlvMzM4cVpwNTFKWUF5c0RoOEVBTXNyWUdwSld3RTJJaU5IdVFVN05VVWtDalBrTTJjQjZCaTc3YmtacDBvTjQ5VGh2Y3RxUTRvbmVNcUpneTNn?oc=5",
-      "site": "The Jerusalem Post",
-      "siteUrl": "https://www.jpost.com"
     },
     {
       "id": "FL-b3cb306f0244",
