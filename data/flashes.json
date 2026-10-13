@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T07:09:02.440Z",
+  "updated": "2026-10-13T07:31:04.298Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -13,18 +13,6 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zeTFkTm03M0dDaTd6bzkxallIOHpfX1cyVjhNYWJnSmhEbFRtbTlUZW1XX0ZpV3dVZHUxRFNrdGxKcVRjYWs3Y0hWNWFxMGNDY0JrdHlUMDFSeFE?oc=5",
       "site": "亚洲日报",
       "siteUrl": "https://www.ajudaily.com"
-    },
-    {
-      "id": "FL-2b25a0873849",
-      "date": "2026-10-13",
-      "dateISO": "Tue, 13 Oct 2026 04:48:42 GMT",
-      "ts": 1791866922000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "美国情报断供后，基辅遭遇突袭发生强烈爆炸 - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeWZ6a2s3czdjajdKcjFTQ2tVczNoaTZpaHk1OE5kRlcyLURiTmJZUUpTNjVUS1lybVl0aXRCMkRxVF80OGtTTG1kaTNQY29YZWpOcWZzU09ObGlCOTZvaktObDZFVzRDa01sQThLMThvZXQxNnVGS3Y3ZHhNcmpHOTQ1c1QyV0VM?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-d599c1dbe4fc",
@@ -147,18 +135,6 @@
       "siteUrl": "https://www.qie.tv"
     },
     {
-      "id": "FL-7f90a0819517",
-      "date": "2026-10-12",
-      "dateISO": "Mon, 12 Oct 2026 20:30:00 GMT",
-      "ts": 1791837000000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "以色列北部发生爆炸1死24伤 军方称或由真主党未爆弹药所致 - 香港電台",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQejdUYUYyZ1hKLTVqMXdlT3Y1RmljZHZMdWl4QnpYZm9VbE5GTElwZjRJQlBBblJhaDNMMEZZWXV2ZVpSQ3BhdmEtMFlhNUhmV3ZRa3d2S1YzNDE3emZWd1Vuekk2MkhRWWlQM003TkZaSzJEaXN5Q0k4UUNLOFYzdnc4QkR1a0ZSbEt2VnFCbw?oc=5",
-      "site": "香港電台",
-      "siteUrl": "https://gbcode.rthk.hk"
-    },
-    {
       "id": "FL-b3cb306f0244",
       "date": "2026-10-12",
       "dateISO": "Mon, 12 Oct 2026 18:26:13 GMT",
@@ -207,18 +183,6 @@
       "siteUrl": "https://www.cnr.cn"
     },
     {
-      "id": "FL-d0ed14f59dae",
-      "date": "2026-10-12",
-      "dateISO": "Mon, 12 Oct 2026 14:09:38 GMT",
-      "ts": 1791814178000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "以黎边境遗留弹药爆炸已致1死19伤 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FSWhBSTRfR2MzV2hmT255WEcwblRxY0lhRDRnSVhBQ0JWOV9GSnRCX2tOY25GbVFOc0p5WmRmcFZiZ21TcndIa0s4SEZDVkNQelpYbGxjTDdySzFfYVE?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://news.bjd.com.cn"
-    },
-    {
       "id": "FL-28d295438b6b",
       "date": "2026-10-12",
       "dateISO": "Mon, 12 Oct 2026 12:57:13 GMT",
@@ -241,6 +205,18 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaUhfRjZrMFdtV3poVUphN1gtTXIyMjFYWXdGN21Vd1otWWQ0YlUwMmFhWVJSVmlpa3VzbzdIQi1uZGdjX01KYzVNckg3aEliSXpIU1JENnNzajB3SzB4ZnI2R19Cbms1TFJuZWNLMUVYb1NKMDJrUUg5ZXVvU1FZc1dINVFXTF9EMk94eA?oc=5",
       "site": "搜狐",
       "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-0d37be8e3bed",
+      "date": "2026-10-05",
+      "dateISO": "Mon, 05 Oct 2026 08:45:00 GMT",
+      "ts": 1791189900000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "韩国公布非军事区地雷爆炸事件最终调查结果 - 封面新闻",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mOW90LUsxZ0prZmZVUFNmTkZ0QjQ1NzdDY195Z25fWFVDaXM3ZkloeTNkY3c3RnpVSVd3ZlFJY3c4YWlIalBYMDJWaGE0SUpZTm8zS2VZbUZmc2hoS2cwbFRPSTFHWGxOUVRYWkU2clJNdDg4Zk9PVm9n?oc=5",
+      "site": "封面新闻",
+      "siteUrl": "https://m.thecover.cn"
     },
     {
       "id": "FL-c39833bbfc21",
