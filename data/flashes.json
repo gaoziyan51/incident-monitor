@@ -1,19 +1,7 @@
 {
-  "updated": "2026-10-13T23:28:29.516Z",
+  "updated": "2026-10-13T23:50:06.619Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-d646025b1946",
-      "date": "2026-10-07",
-      "dateISO": "Wed, 07 Oct 2026 22:38:00 GMT",
-      "ts": 1791412680000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "湖南临澧“6·16”烟花爆炸事故调查报告公布 - 封面新闻",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91enlpNldsRnhkeFAxV3pqa24ta2lidWptTFhfQjFsM0ZRR0F2Z1NOUXdsR2pkSHpqOHMxVGphZGpUbnhVYXNyajlMazNlanNGUmpkQW1XOXlNazk1bVdVeV9sZi1nZjZhd01jamkzNTI2dWdrTzI1TElR?oc=5",
-      "site": "封面新闻",
-      "siteUrl": "https://m.thecover.cn"
-    },
     {
       "id": "FL-622b0601ec92",
       "date": "2026-10-13",
@@ -75,16 +63,16 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
-      "id": "FL-70243ac318da",
+      "id": "FL-fd862cfce24d",
       "date": "2026-10-13",
-      "dateISO": "Tue, 13 Oct 2026 08:56:11 GMT",
-      "ts": 1791881771000,
+      "dateISO": "Tue, 13 Oct 2026 10:22:15 GMT",
+      "ts": 1791886935000,
       "scope": "dom",
       "type": "blast",
-      "title": "燃爆浙BA现场，浙江移动5G-A超级上行推动海量流量上传！ - 地方频道",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LUjl2cWVIWV8yS2xfTU1ZdnNRMEFtODVTdHBxMjFzdEdsV2p6Z05Oa3dfbkhMQXJOQ0F3dVVUbmRIY2tDaDJKVXRvaDBwTENZVkowY1RzSExjLThrNi1Bc0JOUVVILXZ3c1E?oc=5",
-      "site": "地方频道",
-      "siteUrl": "https://cs.zjol.com.cn"
+      "title": "李连杰说四个女儿关系非常好 李连杰谈信息爆炸对人的影响 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PbVlzRWx3RkZTdjBpU0hna3BKQXVJMGRrcTBHa2tKM3FFNmpvZG9sX2lJZmZsOU9CbF9DbTY1VTd4bTB1c3FVcDhJMkxjbVl3cHNjZWZaclVXNTA2am51MkZOUjZUcURSY1V1SWFqZEQ?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
     },
     {
       "id": "FL-8689ac29a0f0",
@@ -207,6 +195,18 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
+      "id": "FL-3ebd1fca1fd7",
+      "date": "2026-10-12",
+      "dateISO": "Mon, 12 Oct 2026 16:14:23 GMT",
+      "ts": 1791821663000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "以黎边境遗留弹药爆炸已致1死19伤 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZUG1NNGpKanlkSGMwYUx4aWdiZ0VzZEpjUGoySXdxU2p3Xy1FRzd2SkpUa1lBUXd3dnJtZXY1a3BpUnZBZVhxeHBobi1GaXhCSTNsamFRR3B0TEoyTk5janJKcG9yVkMtMHJDZkVHTWEzdS1lWC0yMg?oc=5",
+      "site": "央视网",
+      "siteUrl": "https://news.cctv.com"
+    },
+    {
       "id": "FL-683039e2ea89",
       "date": "2026-10-12",
       "dateISO": "Mon, 12 Oct 2026 15:24:51 GMT",
@@ -226,9 +226,9 @@
       "scope": "dom",
       "type": "blast",
       "title": "以黎边境遗留弹药爆炸已致1死19伤 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5USW90QmlHMmtpd2lON2VYRFRub1NOLUlCYkJIWlZMUF9iR2lNMXFlMjRWTDhDbS14QVhxd2s3Q21iMDhPb2s0Y2RicGpXUnBRX1pQQVpXTmlnZGpjRU52UDRVWHlMdXV1N3U5cFNiX0wyM0dfSnc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5MTFpVC1keFhjZU1od0ZxUEhteE1qT3BfTk91X1ZsQWthV3VHVWQ3RFgzMW41aWtiaVFMN0g0TUh4cEdyUG8wRldETjJYUUdzSXUzVEtJdXRoRzdFbEJza0JKTU04MVZM?oc=5",
       "site": "央广网",
-      "siteUrl": "https://www.cnr.cn"
+      "siteUrl": "https://news.cnr.cn"
     },
     {
       "id": "FL-d0ed14f59dae",
@@ -253,6 +253,18 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaUhfRjZrMFdtV3poVUphN1gtTXIyMjFYWXdGN21Vd1otWWQ0YlUwMmFhWVJSVmlpa3VzbzdIQi1uZGdjX01KYzVNckg3aEliSXpIU1JENnNzajB3SzB4ZnI2R19Cbms1TFJuZWNLMUVYb1NKMDJrUUg5ZXVvU1FZc1dINVFXTF9EMk94eA?oc=5",
       "site": "搜狐",
       "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-c39833bbfc21",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 22:10:00 GMT",
+      "ts": 1790374200000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 环球网",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5naEpaTmt5bmlhUXlZdndRR2F3XzN6Z2d5aWcwdU4zRnpJWXBJX3VpVWxzRDBzQUFVRXZ4TW1lOTJQUEhCQ3NDNDFEN2FpVTRuYTh3?oc=5",
+      "site": "环球网",
+      "siteUrl": "https://m.huanqiu.com"
     }
   ]
 }
