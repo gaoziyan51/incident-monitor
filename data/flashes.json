@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T04:00:27.549Z",
+  "updated": "2026-10-13T04:23:55.451Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -37,6 +37,18 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSDlYdzh3QjRpUndCUmFkRXZJWDdhS1VPT2EtLXJFX1RHcVh2LTNKWS1uQVhfVkx6TkcteFRCbmR3VmctRkpBdTRqZ3NtelNNVzl5SzJGc3M2b0lPVjJpbUhid09fZGdtR24zdnlFSGRJWWRqSTJOUUw0R1g1dksta3BiZWZPZllSSExaXw?oc=5",
       "site": "搜狐",
       "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-87e817fb2ea8",
+      "date": "2026-10-13",
+      "dateISO": "Tue, 13 Oct 2026 00:49:34 GMT",
+      "ts": 1791852574000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "以色列北部爆炸 酿1死24人伤 - China Press",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaWdoYmtVeU0tTUN5dW5XMzVqRVRzZXhTSHQ0aDBabkQtd2xhSUdfVWRUTnpzbVlzMXpUaGswSFIwUU5URFJ3MU5oa3JqMUtKR0pXTF9vTFNpSWtGTlBweHBkLXUxMzNvOUpyc2N6QzJaYTRMd09hQktiTUUzbDFIX21NQlplMmkwX3pfZlMxc3d2bUg3MWEwS1BJQlI1V1I0cTlqSS1SNWJISFV5TzZfTk1pdjhTN3hsd1lkbHR6R1p5WmRBSVNrQmtmdDR3MGxmcmJRRVNqLWZQcjA?oc=5",
+      "site": "China Press",
+      "siteUrl": "https://www.chinapress.com.my"
     },
     {
       "id": "FL-0d104af589a0",
@@ -135,18 +147,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-5fe607353490",
-      "date": "2026-10-10",
-      "dateISO": "Sat, 10 Oct 2026 19:54:00 GMT",
-      "ts": 1791662040000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "中国旅客亲历利雅得机场航站楼遇袭：“爆炸点距我不到五百米” 使馆：尚无中国公民伤亡报告 - 封面新闻",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5oVkNkdnB5OGRJVVlaWjlLWk5lOUZCd2JXZWtzOTBfcG01OTA5M2M2UmVjYkJEQmQzNnR1NEdXd1B0bEVvRDJvVHZrT2NJUVhReVFXRWtlWHBRM3VGVTMxMjJNYm9rbWtHbXRkZ2ZiSUlhNTZIejk0TjFB?oc=5",
-      "site": "封面新闻",
-      "siteUrl": "https://m.thecover.cn"
-    },
-    {
       "id": "FL-65f6ed2a1678",
       "date": "2026-10-10",
       "dateISO": "Sat, 10 Oct 2026 17:37:18 GMT",
@@ -169,6 +169,18 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN1gtb1drX1hWS3NBMzU4MlNRVEJ1TkUzQmJCR1B0a3VFS2MxU05ZTTZ1UjlmZnJZU2JYNHgyOGVwZ1dUZjdIZ3hxaWlPNGZsQTc3VjRlRTlPd3hlR1d2b3RVVE92dUwzMTlwVVB1TmphZUN1OG5iTU5WYU5EZjJmM3BpNHctZ3ljVTgtTXJuX1YzeVM2bmVmTkEzZzBnczIzSFFRWmxHRGd2SUdVb01wNGZsSmVVOWlYcG1LZHZYWk1BQU9wcnhhb3Q2dVZXaDlUSHNqZ9IB1wFBVV95cUxNWnRiOWpoQ21MQ0tYTkh0c3hWVTFSbV9ZQlcxWUF4SmtBanZHZmNIc296ZkJUcjBIVnZlTmZDZXY3WnlfWXJPWmU0WHYxa1F4RlFxWDlaMjlaRGtCYTdTVU9fa3JaMkVlSllKZWVObWpKS1o3ZVZlNTk3RGN6ejJGSTFCbTd2RFVYM2FfQk5heEcxWDYtc0Q3bDl4Wnp5em1ZdE9WZi11VTd6bi1TWnlycUc2VmR5eUJ6Mk15Y1ZCQlhrc2tmcWpKTVpRZlpEbjFYU1JhTWZBOA?oc=5",
       "site": "美国之音",
       "siteUrl": "https://www.voachinese.com"
+    },
+    {
+      "id": "FL-160d55aeb47e",
+      "date": "2026-06-22",
+      "dateISO": "Mon, 22 Jun 2026 07:00:00 GMT",
+      "ts": 1782111600000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "卡塔尔工厂爆炸已致13人死亡 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mR2pTX0YxWjBwQ2lLNC1XZjFhd3IwVEYtWkZFR3ZBU3B5RTFHR1BldmQ3OEkxN2NaWTMzYUkwWENDeEliY3dVNEloOExFS1B6SlZQTENHdWVmTWpUM042M2hRcmo4QS1qdl85cXlhZHJ3R3JGTEU4?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-507d1578e4cf",
@@ -241,18 +253,6 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9udHZSdnN0Sy01QmxIMDA0WTFmS3RyVXFmR2tfZnZlc2dGXzVJU0hYMUJ0UjRFdDZKaGFMMktTYlhHd3hPMl9uQWVDYw?oc=5",
       "site": "手机新浪网",
       "siteUrl": "https://wap.cj.sina.cn"
-    },
-    {
-      "id": "FL-ee798c907534",
-      "date": "2026-10-12",
-      "dateISO": "Mon, 12 Oct 2026 16:10:26 GMT",
-      "ts": 1791821426000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "以色列北部发生疑似未爆弹药爆炸致1死19伤 - 中国新闻网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WZ1VGMmFaRkZQWDc3UXQzMlFlQWtOdFphemNfUjlsNFRfZnNGb2pnUWtFMWFVVGRKTFBYbUFEaEdWQ0p5aEJyU3RmSUpfMFZZeXA0dE01Y3R4RjRwME9Pclp5ZkZubFlL?oc=5",
-      "site": "中国新闻网",
-      "siteUrl": "https://www.chinanews.com.cn"
     },
     {
       "id": "FL-683039e2ea89",
@@ -337,18 +337,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwTTY0eW9oMjY0UFBLanBGSElTaUkyMjJ3TmlDZjY2RWMwUTk5VDFydkJ1S1JZb2FpVDZKX1hKeFJtSVdpTVVMaVZkRHZNc1M0TTk5NV9RWjRhZTNuQjM0MHFRbE9ud1dWRlVVWUxQcW4?oc=5",
       "site": "新浪网",
       "siteUrl": "https://k.sina.com.cn"
-    },
-    {
-      "id": "FL-c63340283d65",
-      "date": "2026-10-12",
-      "dateISO": "Mon, 12 Oct 2026 03:36:32 GMT",
-      "ts": 1791776192000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "2天内第3艘！伊朗公布油轮触雷爆炸画面 - 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96ektUb3NGVGlWZDFWT2k2VlhqZkRMdFdUMU9wNXRDLUp0UV9lZjNVSWZTejROZHFYdDYzWW9DZzB5emtqcy1zN0E3QnZXOVVwcTFEMXVzRHE4cjFvTzdLeC1uLUpOM3hOWmh3WXNndnc?oc=5",
-      "site": "新浪网",
-      "siteUrl": "http://k.sina.com.cn"
     },
     {
       "id": "FL-6ffd5cacbd47",
