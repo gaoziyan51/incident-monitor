@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-13T05:23:17.616Z",
+  "updated": "2026-10-13T05:42:00.348Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-8b41bf0dac22",
+      "date": "2026-10-13",
+      "dateISO": "Tue, 13 Oct 2026 05:04:00 GMT",
+      "ts": 1791867840000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "军方：强化岛以北爆炸声系朝鲜海岸警戒设施加固所致 - 亚洲日报",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zeTFkTm03M0dDaTd6bzkxallIOHpfX1cyVjhNYWJnSmhEbFRtbTlUZW1XX0ZpV3dVZHUxRFNrdGxKcVRjYWs3Y0hWNWFxMGNDY0JrdHlUMDFSeFE?oc=5",
+      "site": "亚洲日报",
+      "siteUrl": "https://www.ajudaily.com"
+    },
     {
       "id": "FL-2b25a0873849",
       "date": "2026-10-13",
@@ -121,18 +133,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlemFCa3lteDlkZERLTXRLMHhpeTIzNmFqanFBczVPaFNjQjVxOHNJNm54Tkhua1FqOGtuaUhBLWdRSWxXaFRoZThQZXJqclRIV1pUaTNhcjhHU0dwRzA1WXNQc2ZOVEhXX0Z1NUVBcnBUalJRWkE3ZlE0S3NOaXM?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-5fe607353490",
-      "date": "2026-10-10",
-      "dateISO": "Sat, 10 Oct 2026 19:54:00 GMT",
-      "ts": 1791662040000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "中国旅客亲历利雅得机场航站楼遇袭：“爆炸点距我不到五百米” 使馆：尚无中国公民伤亡报告 - 封面新闻",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5oVkNkdnB5OGRJVVlaWjlLWk5lOUZCd2JXZWtzOTBfcG01OTA5M2M2UmVjYkJEQmQzNnR1NEdXd1B0bEVvRDJvVHZrT2NJUVhReVFXRWtlWHBRM3VGVTMxMjJNYm9rbWtHbXRkZ2ZiSUlhNTZIejk0TjFB?oc=5",
-      "site": "封面新闻",
-      "siteUrl": "https://m.thecover.cn"
     },
     {
       "id": "FL-65f6ed2a1678",
