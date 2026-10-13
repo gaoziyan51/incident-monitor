@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T12:19:00.001Z",
+  "updated": "2026-10-13T12:48:10.185Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -75,6 +75,18 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
+      "id": "FL-db6cd310f0c3",
+      "date": "2026-10-13",
+      "dateISO": "Tue, 13 Oct 2026 00:21:48 GMT",
+      "ts": 1791850908000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "以色列靠近黎巴嫩边境地区发生爆炸，一名学生死亡多人受伤 - 旅日侨网",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQWJWMFQtbHd4OEpQWUlWcnRlTjA3RkdrUFcxbDVwcjNNcmZuNTRLZXhmeFd0OHVWVGhkbGhQUExlZnBQUTk4TVZLRzE5LVpQZFRlVTRGakZYQTViUzc2SmZ2NS01dEJEOWdScVIxUnlIc2RMMGlBMTRaSlhtRXE2N1VOX0JQM0FyT2c?oc=5",
+      "site": "旅日侨网",
+      "siteUrl": "https://www.jpchinapress.com"
+    },
+    {
       "id": "FL-5e735aebc1c3",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
@@ -133,18 +145,6 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tNV9QbjhobWhhVjg2bmxYaGUzRTcydDhmUFp4THJPazVhemFJd25oVGFvN3NjUVlZZ1NpZWJOSmkxLW81VUd4YmtWOWZHb0RMM2hvOF9QODFVTHFsaWNhMFEzcnJMLWxJZGRnNGl4WmlqZnJWQ0piaWlCeXdFZw?oc=5",
       "site": "新华网",
       "siteUrl": "http://www.news.cn"
-    },
-    {
-      "id": "FL-18727edac19a",
-      "date": "2026-10-12",
-      "dateISO": "Mon, 12 Oct 2026 15:09:50 GMT",
-      "ts": 1791817790000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "One teen killed, others wounded, after explosion on Israeli school trip near Lebanon border - CNN",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNamVsVF9EY1JVeDlLNGgwbi1jQWZWTlY4b3U4RGV6VENnZkNXYnRlU1VaTW5Tc0RtREhkOEJQcGo0bkE1N1ZNSmxwR2tZV3R6S1A4RzF6b0FKcC0waHZmOTN6c0RLMkwxMHA5YWdNdFNveGdGZDZOVEZQRnBpUER4Yi1zUUI?oc=5",
-      "site": "CNN",
-      "siteUrl": "https://www.cnn.com"
     },
     {
       "id": "FL-c7da095ea4c0",
