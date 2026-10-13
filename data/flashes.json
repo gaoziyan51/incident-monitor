@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-13T01:01:19.063Z",
+  "updated": "2026-10-13T01:23:44.431Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-87e817fb2ea8",
+      "date": "2026-10-13",
+      "dateISO": "Tue, 13 Oct 2026 00:49:34 GMT",
+      "ts": 1791852574000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "以色列北部爆炸 酿1死24人伤 - China Press",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaWdoYmtVeU0tTUN5dW5XMzVqRVRzZXhTSHQ0aDBabkQtd2xhSUdfVWRUTnpzbVlzMXpUaGswSFIwUU5URFJ3MU5oa3JqMUtKR0pXTF9vTFNpSWtGTlBweHBkLXUxMzNvOUpyc2N6QzJaYTRMd09hQktiTUUzbDFIX21NQlplMmkwX3pfZlMxc3d2bUg3MWEwS1BJQlI1V1I0cTlqSS1SNWJISFV5TzZfTk1pdjhTN3hsd1lkbHR6R1p5WmRBSVNrQmtmdDR3MGxmcmJRRVNqLWZQcjA?oc=5",
+      "site": "China Press",
+      "siteUrl": "https://www.chinapress.com.my"
+    },
     {
       "id": "FL-0d104af589a0",
       "date": "2026-10-13",
@@ -183,16 +195,16 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-a5fc159f6f5f",
+      "id": "FL-82c92f3ca4a6",
       "date": "2026-10-10",
-      "dateISO": "Sat, 10 Oct 2026 14:11:51 GMT",
-      "ts": 1791641511000,
+      "dateISO": "Sat, 10 Oct 2026 13:42:00 GMT",
+      "ts": 1791639720000,
       "scope": "intl",
       "type": "blast",
-      "title": "沙特首都国际机场传出爆炸声 - 中国日报网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wRVFwWWhIQnJBMUVLamdvRGdsanVKVmdlRjB2LVNXeGNycFc2ZVdwenNxZF9lR0t1QUpRS2Zwc1V6Q0s1M3NfUEJXUzB5U2NhR3JkMUtXNE45akRHUEFuTmxySWFDZWx2N25fSjJRYXVycUp4dWhsSk00WGU?oc=5",
-      "site": "中国日报网",
-      "siteUrl": "https://cn.chinadaily.com.cn"
+      "title": "沙特首都国际机场传出爆炸声 - 上观新闻",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VeEhyOWlzb2E5RmdOdFI0RUd2VURYWTlRelRNUlhwRVdwbVBFdVRNbHdMMy1mU0xOSVBzUnp5RlpCY2tGWVNXZmlhay1jQk5mWktVbXBHWTctQQ?oc=5",
+      "site": "上观新闻",
+      "siteUrl": "https://www.jfdaily.com"
     },
     {
       "id": "FL-a1625e58e48d",
@@ -205,18 +217,6 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN1gtb1drX1hWS3NBMzU4MlNRVEJ1TkUzQmJCR1B0a3VFS2MxU05ZTTZ1UjlmZnJZU2JYNHgyOGVwZ1dUZjdIZ3hxaWlPNGZsQTc3VjRlRTlPd3hlR1d2b3RVVE92dUwzMTlwVVB1TmphZUN1OG5iTU5WYU5EZjJmM3BpNHctZ3ljVTgtTXJuX1YzeVM2bmVmTkEzZzBnczIzSFFRWmxHRGd2SUdVb01wNGZsSmVVOWlYcG1LZHZYWk1BQU9wcnhhb3Q2dVZXaDlUSHNqZ9IB1wFBVV95cUxNWnRiOWpoQ21MQ0tYTkh0c3hWVTFSbV9ZQlcxWUF4SmtBanZHZmNIc296ZkJUcjBIVnZlTmZDZXY3WnlfWXJPWmU0WHYxa1F4RlFxWDlaMjlaRGtCYTdTVU9fa3JaMkVlSllKZWVObWpKS1o3ZVZlNTk3RGN6ejJGSTFCbTd2RFVYM2FfQk5heEcxWDYtc0Q3bDl4Wnp5em1ZdE9WZi11VTd6bi1TWnlycUc2VmR5eUJ6Mk15Y1ZCQlhrc2tmcWpKTVpRZlpEbjFYU1JhTWZBOA?oc=5",
       "site": "美国之音",
       "siteUrl": "https://www.voachinese.com"
-    },
-    {
-      "id": "FL-160d55aeb47e",
-      "date": "2026-06-22",
-      "dateISO": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "ts": 1782111600000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "卡塔尔工厂爆炸已致13人死亡 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mR2pTX0YxWjBwQ2lLNC1XZjFhd3IwVEYtWkZFR3ZBU3B5RTFHR1BldmQ3OEkxN2NaWTMzYUkwWENDeEliY3dVNEloOExFS1B6SlZQTENHdWVmTWpUM042M2hRcmo4QS1qdl85cXlhZHJ3R3JGTEU4?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-426a4f8819b8",
@@ -243,18 +243,6 @@
       "siteUrl": "https://www.aljazeera.com"
     },
     {
-      "id": "FL-d243ce265610",
-      "date": "2026-10-12",
-      "dateISO": "Mon, 12 Oct 2026 22:10:00 GMT",
-      "ts": 1791843000000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Man Dead in Jackson County Explosion and Fire - news8000.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN3BTeUo0VC1ZR25fdUk4SEZwWjFrOEJla3pieTNPMUxzMVJXX3M2WnRwS2FMZXdValZ0VnlIRXZXWjItS3ZsU0xyNkZHSnB2NkNmWTQybVNZSzU2TlpIaVRWaU9IQ3RObTcxSEUtdlFwOXBFZFFkYnJsSjlOaXY0Y3U5MjhnRzFIVDc4ZEVteGxySmo4OU4xdmNUZjNoTXpTV3c2Vl82UFZfRlBXaWc4TWlPbXdGVHQ4UWppZ0NubnQ?oc=5",
-      "site": "news8000.com",
-      "siteUrl": "https://www.news8000.com"
-    },
-    {
       "id": "FL-fabdb4a9346e",
       "date": "2026-10-12",
       "dateISO": "Mon, 12 Oct 2026 20:45:42 GMT",
@@ -277,30 +265,6 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQejdUYUYyZ1hKLTVqMXdlT3Y1RmljZHZMdWl4QnpYZm9VbE5GTElwZjRJQlBBblJhaDNMMEZZWXV2ZVpSQ3BhdmEtMFlhNUhmV3ZRa3d2S1YzNDE3emZWd1Vuekk2MkhRWWlQM003TkZaSzJEaXN5Q0k4UUNLOFYzdnc4QkR1a0ZSbEt2VnFCbw?oc=5",
       "site": "香港電台",
       "siteUrl": "https://gbcode.rthk.hk"
-    },
-    {
-      "id": "FL-9ef663ef06fd",
-      "date": "2026-10-12",
-      "dateISO": "Mon, 12 Oct 2026 19:58:00 GMT",
-      "ts": 1791835080000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "One dead after explosion in Jackson County - WEAU",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50LVFCQWdVT0xmd0M3Xy0zYzRNTjdsNE5uT2tSeDBHdGF3UXUxSG9MRGpDdDNXS3hXTm5QMElnaTZaQkszQldGT0I3QXRmZ1lMR2otRkk3cWI2YXhsRzJZU1p5WDFfZ1R2dGRyQVpMamhIdUw5OTA0MmU1X3nSAZABQVVfeXFMTktYLXkyYXVMVmJJMTJoazdJMHUyZXVMNXZlQVExc2gzMzdxdE1YZG5jU0xnNVllUWhZeWRrOC1XRkNxWXE2SWFaZW1iZ2sxVml0eWJSQ2F6OHpkU2VrNHoxOHZ2b2tNdDJTTll5V1dBRGpGM3RFS1dpdTN6SVZUeldjTDdYaHFESGJSRnVSZXg5?oc=5",
-      "site": "WEAU",
-      "siteUrl": "https://www.weau.com"
-    },
-    {
-      "id": "FL-c820b473d0ba",
-      "date": "2026-10-12",
-      "dateISO": "Mon, 12 Oct 2026 18:40:00 GMT",
-      "ts": 1791830400000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "自俄罗斯全面入侵以来，地雷和战争遗留爆炸物已造成1,739人受害| Mezha - mezha.net",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVk9RZUFoc2tVTTB6SVp0cHlJQ29ocEJZeUZVWEZrVENHRzQwd1ZuWkhVVWdOX2s0c3h5VGswNkJSMTNlWE5FRGpNZmxPd2RvTkdGXzc3bWZDWUhYMnZka1RKQ0RxaldrRzBuRFBZdUFReGJFRTNuRzNoZUhzQjdTSW84SXowQQ?oc=5",
-      "site": "mezha.net",
-      "siteUrl": "https://mezha.net"
     },
     {
       "id": "FL-db5524cc8ec3",
