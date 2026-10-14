@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T20:17:20.022Z",
+  "updated": "2026-10-14T20:46:48.230Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -111,6 +111,18 @@
       "siteUrl": "https://www.wenxuecity.com"
     },
     {
+      "id": "FL-d0072cc7eab4",
+      "date": "2026-10-14",
+      "dateISO": "Wed, 14 Oct 2026 12:30:00 GMT",
+      "ts": 1791981000000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "涉北溪管道爆炸案 乌克兰前军官在德国受审 - 早晨报",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaYms1Qm5OYzZ3aTREMkx0RWxFT1A0RE15R2pyaTF1UnVpTDhURU0tdDExY0lEOWV2SjBLTjkyM1pHVTdFc01LMFVKY0pTd2MwdGlXRWVrbXlQYVRxcmllVXpVLUNOMlk3a0tvVw?oc=5",
+      "site": "早晨报",
+      "siteUrl": "https://www.zaochenbao.com"
+    },
+    {
       "id": "FL-dd2ca93cf82d",
       "date": "2026-10-14",
       "dateISO": "Wed, 14 Oct 2026 12:10:56 GMT",
@@ -133,30 +145,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQU2VfVjd2ZURWZkNwRzY0VXZFdGZWeF9mcWtTVU9oMGFZeUdIVDNSX25zR3kzLXR1dWpIc1E2OEhhUkRJQUVwdFdtY3Q1QWpna3F4eFN3NEtYWlA4SUpldVFB?oc=5",
       "site": "观点网",
       "siteUrl": "https://www.guandian.cn"
-    },
-    {
-      "id": "FL-08572630f64e",
-      "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 11:26:00 GMT",
-      "ts": 1791977160000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "850年前爆炸的恒星竟然仍然存活天文学家揭开“僵尸星”的更多秘密- 科学探索 - cnBeta.COM",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zM3o3cWxmZ1ZDbDJKTmF0cDR2SV9TU3V0MnBUb2o3eS1vOE9wSFlFQkJuc1VpVGczQUtraTR1aU81TFI5NngzYXRhNTI5YWdsM0N2YWpNWXdGd2NTaGZzbWlwdEU?oc=5",
-      "site": "cnBeta.COM",
-      "siteUrl": "https://www.cnbeta.com.tw"
-    },
-    {
-      "id": "FL-4a6970d8df42",
-      "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 10:10:20 GMT",
-      "ts": 1791972620000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "涉北溪管道爆炸案 乌克兰前军官在德国受审 - 联合早报",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nVF85Y2J6Q2lkT3BzMmdrNkJrQk1MWkN0MzJOSHpoVnM3dGZNc1JxdHJjaHMxX2ZTVXBJUVZBcnNPSkJDeVUxU2ZaMmlFNzJnUEYxUXRMWlNqZmh6NE9lYjZ5c0VJR1BkNmc?oc=5",
-      "site": "联合早报",
-      "siteUrl": "https://www.zaobao.com.sg"
     },
     {
       "id": "FL-18c3fa62bba8",
@@ -207,18 +195,6 @@
       "siteUrl": "https://emwap.eastmoney.com"
     },
     {
-      "id": "FL-9975fe92bf07",
-      "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 06:40:57 GMT",
-      "ts": 1791960057000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "导弹在两百米外爆炸：一名中国游客逃离沙特利雅得的三十小时 - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNemszS1pDQUZMZjhtRi1XMUM3S1E4dTVHR3R4MlRxVkl5NWJoS1ZpUzBtZmdFUGFmQjBrekJacklOaThZcXVOTl94R25XY2l3dUJ2Qm5QY19xNzd6UFFERFVWRkNaTjhiTFdpNFFnOUtVclpVd2F4MExRRE94b0RsOHhIYThndjYx?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-655651287d4f",
       "date": "2026-10-14",
       "dateISO": "Wed, 14 Oct 2026 05:47:00 GMT",
@@ -241,6 +217,18 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mUWMtWHhPRzh1YXRxUXYxLUZJbzZpUDJvdFMxS1ExVlo4bW9OUzdBQ0dBdzZqeldlb1dIcWlXdWlzQlh5TVVQSVVnLV9tMTZqMlBidEY2LWxPeFFQZzVaMQ?oc=5",
       "site": "ThePaper.cn",
       "siteUrl": "https://www.thepaper.cn"
+    },
+    {
+      "id": "FL-f00014bd0214",
+      "date": "2026-10-14",
+      "dateISO": "Wed, 14 Oct 2026 03:01:25 GMT",
+      "ts": 1791946885000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "“北溪”天然气管道爆炸案即将在德国开庭 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSXRwUEZRQzJxQjlqaVRKUXlIREVJN3JycXQwSTlpdU91c29XOTRfQWdvck50UHpLalRqdnFFSVpveFZvZFRjQ3JSdlBtN09VeEIxX3Fsd0RENDBvYm1TY1dScUFzWW9ya1JTREZqalk4T2JPTXRrOXdjVVJqSENzcVluTE9PY0NkTFJB?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://www.sohu.com"
     },
     {
       "id": "FL-f8f8fde7927e",
