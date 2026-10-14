@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T15:56:57.928Z",
+  "updated": "2026-10-14T16:22:30.706Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -34,9 +34,21 @@
       "scope": "dom",
       "type": "blast",
       "title": "丹格朗芝布达芝芒吉斯市场发生爆炸 致1人死亡8名受伤 - Shangbao Indonesia",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xN3ctaTlickFsTzVGcldXOEprckVGMmdvOVZPZzJPYzE1eHpEcmFibmdCeGxtUFNLLUEtcWxPOXlmaGtSWlk2SUdsak1hdmlGWXkxd3hjOF9RNnBoem52SkVFVjYxRTM3N0ttelpuZ0ZIUDNkVkE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2SWhHbWhxbnF5ZDlicHFGRzZSLW02VmstcWZvNEVRUzBNZjBOb21yZUxzNFBGODJyZmY2LWxEMkduMUc0eDlWN0VYQzA5VjFNQnd1eWZwUG5QNzlBQngxZmZqeVBmNU5nOHdTQTBITXJDOVBSVFNv?oc=5",
       "site": "Shangbao Indonesia",
-      "siteUrl": "http://www.shangbaoindonesia.com"
+      "siteUrl": "https://www.shangbaoindonesia.com"
+    },
+    {
+      "id": "FL-d933960c920a",
+      "date": "2026-10-14",
+      "dateISO": "Wed, 14 Oct 2026 14:07:55 GMT",
+      "ts": 1791986875000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "英特尔在以色列工厂发生爆炸致3人受伤 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RRjNMQ3NsdVI0QVdZVFc5YUJMOFdRMzJvMUVGREloTTh2QkRoOGl2UkVvSTY1SFczbnFXOGRYV0ZtMXByOHVBUk5COVQyeWZ6dlhJdHZ6eDFEVlcyZ1RHX25iT3I?oc=5",
+      "site": "东方财富",
+      "siteUrl": "http://finance.eastmoney.com"
     },
     {
       "id": "FL-17e605fe8fc0",
@@ -99,6 +111,18 @@
       "siteUrl": "https://www.wsmv.com"
     },
     {
+      "id": "FL-d0072cc7eab4",
+      "date": "2026-10-14",
+      "dateISO": "Wed, 14 Oct 2026 12:30:00 GMT",
+      "ts": 1791981000000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "涉北溪管道爆炸案 乌克兰前军官在德国受审 - 早晨报",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaYms1Qm5OYzZ3aTREMkx0RWxFT1A0RE15R2pyaTF1UnVpTDhURU0tdDExY0lEOWV2SjBLTjkyM1pHVTdFc01LMFVKY0pTd2MwdGlXRWVrbXlQYVRxcmllVXpVLUNOMlk3a0tvVw?oc=5",
+      "site": "早晨报",
+      "siteUrl": "https://www.zaochenbao.com"
+    },
+    {
       "id": "FL-dd2ca93cf82d",
       "date": "2026-10-14",
       "dateISO": "Wed, 14 Oct 2026 12:10:56 GMT",
@@ -145,18 +169,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zM3o3cWxmZ1ZDbDJKTmF0cDR2SV9TU3V0MnBUb2o3eS1vOE9wSFlFQkJuc1VpVGczQUtraTR1aU81TFI5NngzYXRhNTI5YWdsM0N2YWpNWXdGd2NTaGZzbWlwdEU?oc=5",
       "site": "cnBeta.COM",
       "siteUrl": "https://www.cnbeta.com.tw"
-    },
-    {
-      "id": "FL-4a6970d8df42",
-      "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 10:10:20 GMT",
-      "ts": 1791972620000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "涉北溪管道爆炸案 乌克兰前军官在德国受审 - 联合早报",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nVF85Y2J6Q2lkT3BzMmdrNkJrQk1MWkN0MzJOSHpoVnM3dGZNc1JxdHJjaHMxX2ZTVXBJUVZBcnNPSkJDeVUxU2ZaMmlFNzJnUEYxUXRMWlNqZmh6NE9lYjZ5c0VJR1BkNmc?oc=5",
-      "site": "联合早报",
-      "siteUrl": "https://www.zaobao.com.sg"
     },
     {
       "id": "FL-172114b85f5a",
@@ -217,18 +229,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mUWMtWHhPRzh1YXRxUXYxLUZJbzZpUDJvdFMxS1ExVlo4bW9OUzdBQ0dBdzZqeldlb1dIcWlXdWlzQlh5TVVQSVVnLV9tMTZqMlBidEY2LWxPeFFQZzVaMQ?oc=5",
       "site": "ThePaper.cn",
       "siteUrl": "https://www.thepaper.cn"
-    },
-    {
-      "id": "FL-17b15f2bcdb2",
-      "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 03:56:00 GMT",
-      "ts": 1791950160000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "油库大爆炸，乌克兰公开叫板特朗普：美军翻脸，俄军顺利报复轰炸 - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOE43RmRnMVZ3T3ZyclM3YmtvUHJLbk4yM2o1bHpZWXJIbm4xR0NjSDY3ZVBKbnphbF9WQTRKcHFYSXR2RkZuUEhGNHdEdGxtbDgyUWphUlhoY1BNNnQ4ZUtUNmYxU0RyWndOVXdiODBaVnowWkVFVVNjaHNVLXhhWk45cUpfM1Mta09rUA?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-f00014bd0214",
@@ -442,9 +442,9 @@
       "scope": "dom",
       "type": "blast",
       "title": "以黎边境遗留弹药爆炸已致1死19伤 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5USW90QmlHMmtpd2lON2VYRFRub1NOLUlCYkJIWlZMUF9iR2lNMXFlMjRWTDhDbS14QVhxd2s3Q21iMDhPb2s0Y2RicGpXUnBRX1pQQVpXTmlnZGpjRU52UDRVWHlMdXV1N3U5cFNiX0wyM0dfSnc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5MTFpVC1keFhjZU1od0ZxUEhteE1qT3BfTk91X1ZsQWthV3VHVWQ3RFgzMW41aWtiaVFMN0g0TUh4cEdyUG8wRldETjJYUUdzSXUzVEtJdXRoRzdFbEJza0JKTU04MVZM?oc=5",
       "site": "央广网",
-      "siteUrl": "https://www.cnr.cn"
+      "siteUrl": "https://news.cnr.cn"
     },
     {
       "id": "FL-0d37be8e3bed",
