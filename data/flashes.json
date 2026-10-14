@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T03:31:43.700Z",
+  "updated": "2026-10-14T04:05:16.441Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -135,18 +135,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-9cc29e6a4920",
-      "date": "2026-10-13",
-      "dateISO": "Tue, 13 Oct 2026 07:33:44 GMT",
-      "ts": 1791876824000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "中国旅客自述沙特机场惊魂一刻 爆炸点近在咫尺 - 中华网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPOHg1QWJaZWN5MUNIdFJRcXBULUFWb1dRUlc3SjhCYlpESDE1eUxXbDBrTi1HOWM1VG5uVE1UekFIODhyaXZSSW4tQ2ZQTFdSMGctNTNhdWhwU3dQUERBOWk1R0VqUjhUZTRmaWxPMDM?oc=5",
-      "site": "中华网",
-      "siteUrl": "https://news.china.com"
-    },
-    {
       "id": "FL-08b79183e0ac",
       "date": "2026-10-13",
       "dateISO": "Tue, 13 Oct 2026 03:10:00 GMT",
@@ -205,6 +193,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlemFCa3lteDlkZERLTXRLMHhpeTIzNmFqanFBczVPaFNjQjVxOHNJNm54Tkhua1FqOGtuaUhBLWdRSWxXaFRoZThQZXJqclRIV1pUaTNhcjhHU0dwRzA1WXNQc2ZOVEhXX0Z1NUVBcnBUalJRWkE3ZlE0S3NOaXM?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-5fe607353490",
+      "date": "2026-10-10",
+      "dateISO": "Sat, 10 Oct 2026 19:54:00 GMT",
+      "ts": 1791662040000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "中国旅客亲历利雅得机场航站楼遇袭：“爆炸点距我不到五百米” 使馆：尚无中国公民伤亡报告 - 封面新闻",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5oVkNkdnB5OGRJVVlaWjlLWk5lOUZCd2JXZWtzOTBfcG01OTA5M2M2UmVjYkJEQmQzNnR1NEdXd1B0bEVvRDJvVHZrT2NJUVhReVFXRWtlWHBRM3VGVTMxMjJNYm9rbWtHbXRkZ2ZiSUlhNTZIejk0TjFB?oc=5",
+      "site": "封面新闻",
+      "siteUrl": "https://m.thecover.cn"
     },
     {
       "id": "FL-fabdb4a9346e",
@@ -289,18 +289,6 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5naEpaTmt5bmlhUXlZdndRR2F3XzN6Z2d5aWcwdU4zRnpJWXBJX3VpVWxzRDBzQUFVRXZ4TW1lOTJQUEhCQ3NDNDFEN2FpVTRuYTh3?oc=5",
       "site": "环球网",
       "siteUrl": "https://m.huanqiu.com"
-    },
-    {
-      "id": "FL-4ed1ffe514b4",
-      "date": "2026-08-21",
-      "dateISO": "Fri, 21 Aug 2026 07:00:00 GMT",
-      "ts": 1787295600000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "山东临沂发生爆炸致1人死亡2人失联 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5dmp2dW40R0VaSl93N25sLVZHeGFRNGZYdXF5cHJNeVcxWDVadGl6a094ZGxNcVBiMkN2cXhtdG1IQkxYSlk4SEVWc1FlX0Rsc1B4RXhKdHhvV0tfSHpzNDhTQUVRdlBSMjh6c3ZqZ01leGQ0dVVZ?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
     }
   ]
 }
