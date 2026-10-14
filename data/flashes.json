@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-14T02:07:58.138Z",
+  "updated": "2026-10-14T02:33:57.488Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-f8f8fde7927e",
+      "date": "2026-10-14",
+      "dateISO": "Wed, 14 Oct 2026 02:26:17 GMT",
+      "ts": 1791944777000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "以色列北部边境地区发生爆炸 约20人受伤 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2WW5Cbi1XYlBCWV9ZaWx2SWhyZG1VVEVocHVXbl9xNHNGVTB0LXNCZUxSU3pncWV3RHZDV0daZXhvZkVJa1VTeERaTGhobHBRZGRFd3FRVEhTV0lrMUpmWDFDTG11bTdiYllPRTdVUjk?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
+    },
     {
       "id": "FL-e3c614ef0d28",
       "date": "2026-10-14",
@@ -37,18 +49,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX2xvWEZmQzZRVjM2TzlYVXVoM1BrYnhpdlAzZEEyNDNvQ3doQU1vUWZPRDB6dU9paVRhRE56eDhIRWFXMVdXNm0weW1ERExuSjhiekNCcFJwbHJQSVlidC1XRkFOTHJYdURrdGtpU3BWS3kzbnBNWnFrMUtTT3FsRDV6NG5jNm9y?oc=5",
       "site": "搜狐",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-f7c6b2b3fb9e",
-      "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 00:15:52 GMT",
-      "ts": 1791936952000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Second explosion in 6 years at northeast Albuquerque apartment complex - KOB 4",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQzByR1lGeDdoYkJIakRBM2R0REU3Z3pWX3VoaFZJSXQ0WWMzM3FTZnE2MVpJMmVYVnB5YkJVM0JzRFM3RTRueV81S3FWRGpYc0lBR3VJX2lnSjROSldyR052OXFHNjY5S09JX2RETWJWOUxzU0VGMTYyRU1wMFlMR3phOFJmT25lZVlYN01fR2xJVlhqbEZ2M3F2aldEUERiR21OVw?oc=5",
-      "site": "KOB 4",
-      "siteUrl": "https://www.kob.com"
     },
     {
       "id": "FL-622b0601ec92",
@@ -99,16 +99,16 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
-      "id": "FL-fd862cfce24d",
+      "id": "FL-7a1f1de427bc",
       "date": "2026-10-13",
-      "dateISO": "Tue, 13 Oct 2026 10:22:15 GMT",
-      "ts": 1791886935000,
-      "scope": "dom",
+      "dateISO": "Tue, 13 Oct 2026 08:06:09 GMT",
+      "ts": 1791878769000,
+      "scope": "intl",
       "type": "blast",
-      "title": "李连杰说四个女儿关系非常好 李连杰谈信息爆炸对人的影响 - 中华网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PbVlzRWx3RkZTdjBpU0hna3BKQXVJMGRrcTBHa2tKM3FFNmpvZG9sX2lJZmZsOU9CbF9DbTY1VTd4bTB1c3FVcDhJMkxjbVl3cHNjZWZaclVXNTA2am51MkZOUjZUcURSY1V1SWFqZEQ?oc=5",
-      "site": "中华网",
-      "siteUrl": "https://news.china.com"
+      "title": "（外代一线）以色列北部发生疑似未爆弹药爆炸致1死19伤 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeV9RbEc1VUh3RUpPQ1htYTMzTFpiOFJwQjd2NU4xTFdFSEZ1ZFIyaEdKRmt1TlpUak8wei0yOTVFZGlLTVFseENLUHhHT2dmQmtJRGtGYW82NEJCTDNSZUNBcHVYYzgxUmwwOER6bzZpQ1FwS3hZcVhDVndtNXNBa0JkYXcwUF9l?oc=5",
+      "site": "搜狐",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-8689ac29a0f0",
@@ -219,16 +219,16 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-6b85dc5f7d96",
+      "id": "FL-2368893f1e48",
       "date": "2026-10-12",
-      "dateISO": "Mon, 12 Oct 2026 13:09:26 GMT",
-      "ts": 1791810566000,
+      "dateISO": "Mon, 12 Oct 2026 13:49:00 GMT",
+      "ts": 1791812940000,
       "scope": "intl",
       "type": "blast",
-      "title": "以色列北部发生爆炸，约20人受伤 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FbmhOQlJkVnZwdDdXQjdudVloMjJIeEg0d2Iya0I2eldxYzkwRWYzN3pwTFNQZS02NDAzWXRaQXdSR3pIclVORHBady1XSHNSMHJ3Wl9Bd3c0Z3RmVDlSa2dNSjVNeG5FcTN2aXNHNkRfZw?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://xinwen.bjd.com.cn"
+      "title": "以色列北部发生爆炸 约20人受伤 - 紫牛新闻",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yTHhTUk9sUW45RHBYcUI2anFKa2o2bkNzeWFUQzVnSjBMczNjeW50TkRGSktLenVWTlFycHQ0bXlJUVk3XzQ3d19yVms2eFJfd0ZyaFJ1aE1IYV9CTWFfU3BrMWIwLWFlYmc?oc=5",
+      "site": "紫牛新闻",
+      "siteUrl": "https://www.yzwb.net"
     },
     {
       "id": "FL-28d295438b6b",
@@ -243,6 +243,18 @@
       "siteUrl": "https://www.eet-china.com"
     },
     {
+      "id": "FL-0d37be8e3bed",
+      "date": "2026-10-05",
+      "dateISO": "Mon, 05 Oct 2026 08:45:00 GMT",
+      "ts": 1791189900000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "韩国公布非军事区地雷爆炸事件最终调查结果 - 封面新闻",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mOW90LUsxZ0prZmZVUFNmTkZ0QjQ1NzdDY195Z25fWFVDaXM3ZkloeTNkY3c3RnpVSVd3ZlFJY3c4YWlIalBYMDJWaGE0SUpZTm8zS2VZbUZmc2hoS2cwbFRPSTFHWGxOUVRYWkU2clJNdDg4Zk9PVm9n?oc=5",
+      "site": "封面新闻",
+      "siteUrl": "https://m.thecover.cn"
+    },
+    {
       "id": "FL-c39833bbfc21",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 22:10:00 GMT",
@@ -253,18 +265,6 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5naEpaTmt5bmlhUXlZdndRR2F3XzN6Z2d5aWcwdU4zRnpJWXBJX3VpVWxzRDBzQUFVRXZ4TW1lOTJQUEhCQ3NDNDFEN2FpVTRuYTh3?oc=5",
       "site": "环球网",
       "siteUrl": "https://m.huanqiu.com"
-    },
-    {
-      "id": "FL-4ed1ffe514b4",
-      "date": "2026-08-21",
-      "dateISO": "Fri, 21 Aug 2026 07:00:00 GMT",
-      "ts": 1787295600000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "山东临沂发生爆炸致1人死亡2人失联 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5dmp2dW40R0VaSl93N25sLVZHeGFRNGZYdXF5cHJNeVcxWDVadGl6a094ZGxNcVBiMkN2cXhtdG1IQkxYSlk4SEVWc1FlX0Rsc1B4RXhKdHhvV0tfSHpzNDhTQUVRdlBSMjh6c3ZqZ01leGQ0dVVZ?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
     }
   ]
 }
