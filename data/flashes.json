@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T16:22:30.706Z",
+  "updated": "2026-10-14T16:58:27.557Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -39,30 +39,6 @@
       "siteUrl": "https://www.shangbaoindonesia.com"
     },
     {
-      "id": "FL-d933960c920a",
-      "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 14:07:55 GMT",
-      "ts": 1791986875000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "英特尔在以色列工厂发生爆炸致3人受伤 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RRjNMQ3NsdVI0QVdZVFc5YUJMOFdRMzJvMUVGREloTTh2QkRoOGl2UkVvSTY1SFczbnFXOGRYV0ZtMXByOHVBUk5COVQyeWZ6dlhJdHZ6eDFEVlcyZ1RHX25iT3I?oc=5",
-      "site": "东方财富",
-      "siteUrl": "http://finance.eastmoney.com"
-    },
-    {
-      "id": "FL-17e605fe8fc0",
-      "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 13:53:00 GMT",
-      "ts": 1791985980000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Explosion leads to large structure fire in Gallatin - WSMV",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaEVSaVhfN0JIbkFRZW5oeUNxaGg0UGRCaThPZjNjQUxjNHVLNkpaYzRHcDgyczhJTTVZT0NmemtKM1JJZFFwTEVUdXRCVnFXZ0tHWUttbDI4a1lKdTZwanVudjBHaTRJVDJLeFBpVVlSYWN0bDZsdGtZYlJHUElOMk5ZN2JTdWJheXcwZA?oc=5",
-      "site": "WSMV",
-      "siteUrl": "https://www.wsmv.com"
-    },
-    {
       "id": "FL-0ce3fac6873c",
       "date": "2026-10-14",
       "dateISO": "Wed, 14 Oct 2026 13:44:49 GMT",
@@ -73,18 +49,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NQTdtY2VWcFlsWFlFUzQ2dDUtdjhMajVQN2MyMXNRTE9LeFdhNlYtMmM4UW1pTGNXUzZUN2hxRXI2Q2lfQTY0U3E2MUs3S2ZiM1FqVU9qOHk?oc=5",
       "site": "Jiemian.com",
       "siteUrl": "https://www.jiemian.com"
-    },
-    {
-      "id": "FL-49bda5a400c9",
-      "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 13:43:33 GMT",
-      "ts": 1791985413000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "德外长：将把“北溪”爆炸案审判结果纳入政治考量 - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUTJkTllZMGdYMlVLaWZPeGlDR2FMa0FoaEFNMm0wazFzTXZpMW5IRFNwQlFEaDVLamNNbEx4SWRYemxMM2wyZ3cyWm1IUnVIekk5djY3c0dQeHhnMzNBX20tLWxmZEg5UmlnRVNvZS1OdHNJMUZYM1RjeVQyV2lJUjY2TVpLMDhM?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-50b4d920d5ed",
@@ -99,16 +63,16 @@
       "siteUrl": "https://www.stheadline.com"
     },
     {
-      "id": "FL-e73ad979399c",
+      "id": "FL-942a18a86e9f",
       "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 13:11:00 GMT",
-      "ts": 1791983460000,
-      "scope": "intl",
+      "dateISO": "Wed, 14 Oct 2026 13:08:30 GMT",
+      "ts": 1791983310000,
+      "scope": "dom",
       "type": "blast",
-      "title": "Explosion captured by live weather radar - WSMV",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeC00NWJOd2t2QURSLTV1T25hMGNGLWk0XzdLb0xVMEE2QmRXQVZKY3BQVHpwVmxUNHl1enl2NHhZWmZqYnBYRjItSXJtbUs5TUM3WFRGTkFFWkJ2TmxjdVRQbGJEVVBkS3NteURQT1pJZjJkekpNenZiaGNseldRYkRCekdQdw?oc=5",
-      "site": "WSMV",
-      "siteUrl": "https://www.wsmv.com"
+      "title": "德外长：将把“北溪”爆炸案审判结果纳入政治考量 - 文学城",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HVkxwUk5fQjRMT2M4c3FjLXVhX2FEeUwzWGVpTVQ4M3NSc2lHT2Q1LXFyZ2M1VG9OS0RsOUlJN0gyM3l2VVJ1bElnV09RQ3Y0YXRuNFlTSWxneXM0UjFteERRYWdrUkdN?oc=5",
+      "site": "文学城",
+      "siteUrl": "https://www.wenxuecity.com"
     },
     {
       "id": "FL-d0072cc7eab4",
@@ -219,6 +183,18 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
+      "id": "FL-655651287d4f",
+      "date": "2026-10-14",
+      "dateISO": "Wed, 14 Oct 2026 05:47:00 GMT",
+      "ts": 1791956820000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "“北溪”爆炸案即将在德国开庭 - 中国新闻网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ibWdKTm1QREVuY0F2ai1KQVh3WUt6YTFrdVRCeFFZM1JqVUFlT0IwQWdEYzFoSlhHZGlPWW1qZWdmR0FhMmZwVFNBbWVYX2JDaXRHX1drWDRyc0IyY1ZFak9ZYmlGV01HN1ZZV2FwREJkRUdxR0E?oc=5",
+      "site": "中国新闻网",
+      "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
       "id": "FL-6109940705b3",
       "date": "2026-10-14",
       "dateISO": "Wed, 14 Oct 2026 04:15:00 GMT",
@@ -229,18 +205,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mUWMtWHhPRzh1YXRxUXYxLUZJbzZpUDJvdFMxS1ExVlo4bW9OUzdBQ0dBdzZqeldlb1dIcWlXdWlzQlh5TVVQSVVnLV9tMTZqMlBidEY2LWxPeFFQZzVaMQ?oc=5",
       "site": "ThePaper.cn",
       "siteUrl": "https://www.thepaper.cn"
-    },
-    {
-      "id": "FL-f00014bd0214",
-      "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 03:01:25 GMT",
-      "ts": 1791946885000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "“北溪”天然气管道爆炸案即将在德国开庭 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSXRwUEZRQzJxQjlqaVRKUXlIREVJN3JycXQwSTlpdU91c29XOTRfQWdvck50UHpLalRqdnFFSVpveFZvZFRjQ3JSdlBtN09VeEIxX3Fsd0RENDBvYm1TY1dScUFzWW9ya1JTREZqalk4T2JPTXRrOXdjVVJqSENzcVluTE9PY0NkTFJB?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://www.sohu.com"
     },
     {
       "id": "FL-f8f8fde7927e",
