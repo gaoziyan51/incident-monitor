@@ -1,18 +1,30 @@
 {
-  "updated": "2026-10-14T19:25:44.544Z",
+  "updated": "2026-10-14T19:55:40.143Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-cda6b2c3df20",
+      "id": "FL-6089d5c9cc0e",
       "date": "2026-10-14",
       "dateISO": "Wed, 14 Oct 2026 19:19:00 GMT",
       "ts": 1792005540000,
       "scope": "intl",
       "type": "blast",
-      "title": "Explosion sound wakes Gallatin neighbors before garage fire - WSMV",
+      "title": "Explosion sound wakes Gallatin neighbors after garage catches fire - WSMV",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbEk4anhURHhJWFZzdjVyUHdYd1BqVENEWVgwV3FpUWZHQlBxeGhVLWotcFFXa2FMNWNuS2ZlLVpqc1BCUUl4R3RWSHVqY3dlbEhxemE1VXpTUjlHMjNaS1dzLUd3Y1AtbE1BeVhIUktWakFfRTVZdmpWMFo4ek5uN2NJdWtvVktoWkhjY09vNGt3cGluM2hr?oc=5",
       "site": "WSMV",
       "siteUrl": "https://www.wsmv.com"
+    },
+    {
+      "id": "FL-ae4cf366c45c",
+      "date": "2026-10-14",
+      "dateISO": "Wed, 14 Oct 2026 18:33:00 GMT",
+      "ts": 1792002780000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Worker dies after explosion at Intel’s Kiryat Gat plant - CTech",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5TERVbUZWbmFETkhSa0pjdTlLTUtlZXBRT3g3S0NkSVpEZktBZHdfdjFkMXp5QUFSc1JJNW96NG9EOFdqQ0RBbjRGQ0FrYVJDUmo1X2pKUXVVQm91Q0tkb1lOLVQ4dUE?oc=5",
+      "site": "CTech",
+      "siteUrl": "https://www.calcalistech.com"
     },
     {
       "id": "FL-75ff1f1a7837",
@@ -255,6 +267,18 @@
       "siteUrl": "https://news.china.com"
     },
     {
+      "id": "FL-39dc121f4fd7",
+      "date": "2026-10-14",
+      "dateISO": "Wed, 14 Oct 2026 00:34:13 GMT",
+      "ts": 1791938053000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "视频丨“北溪”天然气管道爆炸案即将在德国开庭 - 国际在线",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83TF9KTWZBUFJ2cERORU5nS2RjcE9FYnY4SnBuRENDVC15UU9ucENFUXNwQnl5Xy13Z2thU3pMZ0UtUkZLNTFvSkFvX1lVdW44NV95TWdxRTZfalpSRXpKeDIwQjRKMHhuMXprUTNOOVNUbEZzMGM3ZWJn?oc=5",
+      "site": "国际在线",
+      "siteUrl": "https://news.cri.cn"
+    },
+    {
       "id": "FL-d646025b1946",
       "date": "2026-10-07",
       "dateISO": "Wed, 07 Oct 2026 22:38:00 GMT",
@@ -418,9 +442,9 @@
       "scope": "dom",
       "type": "blast",
       "title": "以黎边境遗留弹药爆炸已致1死19伤 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5USW90QmlHMmtpd2lON2VYRFRub1NOLUlCYkJIWlZMUF9iR2lNMXFlMjRWTDhDbS14QVhxd2s3Q21iMDhPb2s0Y2RicGpXUnBRX1pQQVpXTmlnZGpjRU52UDRVWHlMdXV1N3U5cFNiX0wyM0dfSnc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5MTFpVC1keFhjZU1od0ZxUEhteE1qT3BfTk91X1ZsQWthV3VHVWQ3RFgzMW41aWtiaVFMN0g0TUh4cEdyUG8wRldETjJYUUdzSXUzVEtJdXRoRzdFbEJza0JKTU04MVZM?oc=5",
       "site": "央广网",
-      "siteUrl": "https://www.cnr.cn"
+      "siteUrl": "https://news.cnr.cn"
     },
     {
       "id": "FL-b042a088a326",
@@ -431,6 +455,18 @@
       "type": "blast",
       "title": "巴基斯坦西北部发生爆炸致14人死亡 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-0f5476d1c019",
+      "date": "2026-07-31",
+      "dateISO": "Fri, 31 Jul 2026 07:00:00 GMT",
+      "ts": 1785481200000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "巴基斯坦煤矿爆炸致34人死亡 8人被困 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS25tT18zS09DUGZnS0RmSGF1YXM5dDE4QlBmTlc1dVBSbi0tV0VYZ183WmhoVE1Tb1JLXzRVWkxGWWhnT3VSRWhCTWpsZG9SMDRuUHRtanRlTnZtMVdtaXVFeDEwMExsY1dZVmFGb3I0VFZuMUo1Ul9hWDZKZFZFeXhOaHIydFot?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
