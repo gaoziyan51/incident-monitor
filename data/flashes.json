@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-14T01:17:30.446Z",
+  "updated": "2026-10-14T01:43:36.024Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-e3c614ef0d28",
+      "date": "2026-10-14",
+      "dateISO": "Wed, 14 Oct 2026 01:26:00 GMT",
+      "ts": 1791941160000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "证明大爆炸，数学界变天！AI把陶哲轩逼出「数学 2.0」 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYTlubHAwOWpkSG5pNFJSNjh0YXFnSDFRMVZTLWlrUHpCVmdCcF9JVEpWT1VoSWs3RlhDVWpFQnM3RmU5cnRNbjRtamxFa1ZwbFE0LWZ1cWo0V1I0aEFjbVZCS1NRWWZTUEtsb01jRTBSZGljLXlFQjdxNV94SjZ6M3RvSQ?oc=5",
+      "site": "新浪网",
+      "siteUrl": "https://k.sina.com.cn"
+    },
     {
       "id": "FL-105532850102",
       "date": "2026-10-14",
@@ -25,18 +37,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX2xvWEZmQzZRVjM2TzlYVXVoM1BrYnhpdlAzZEEyNDNvQ3doQU1vUWZPRDB6dU9paVRhRE56eDhIRWFXMVdXNm0weW1ERExuSjhiekNCcFJwbHJQSVlidC1XRkFOTHJYdURrdGtpU3BWS3kzbnBNWnFrMUtTT3FsRDV6NG5jNm9y?oc=5",
       "site": "搜狐",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-d646025b1946",
-      "date": "2026-10-07",
-      "dateISO": "Wed, 07 Oct 2026 22:38:00 GMT",
-      "ts": 1791412680000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "湖南临澧“6·16”烟花爆炸事故调查报告公布 - 封面新闻",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91enlpNldsRnhkeFAxV3pqa24ta2lidWptTFhfQjFsM0ZRR0F2Z1NOUXdsR2pkSHpqOHMxVGphZGpUbnhVYXNyajlMazNlanNGUmpkQW1XOXlNazk1bVdVeV9sZi1nZjZhd01jamkzNTI2dWdrTzI1TElR?oc=5",
-      "site": "封面新闻",
-      "siteUrl": "https://m.thecover.cn"
     },
     {
       "id": "FL-622b0601ec92",
@@ -87,6 +87,18 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
+      "id": "FL-fd862cfce24d",
+      "date": "2026-10-13",
+      "dateISO": "Tue, 13 Oct 2026 10:22:15 GMT",
+      "ts": 1791886935000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "李连杰说四个女儿关系非常好 李连杰谈信息爆炸对人的影响 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PbVlzRWx3RkZTdjBpU0hna3BKQXVJMGRrcTBHa2tKM3FFNmpvZG9sX2lJZmZsOU9CbF9DbTY1VTd4bTB1c3FVcDhJMkxjbVl3cHNjZWZaclVXNTA2am51MkZOUjZUcURSY1V1SWFqZEQ?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
+    },
+    {
       "id": "FL-8689ac29a0f0",
       "date": "2026-10-13",
       "dateISO": "Tue, 13 Oct 2026 07:38:22 GMT",
@@ -121,42 +133,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UbUF6RWpwYXJLNjdHVEFLSXdTNzJHcWJHUEFOczZqUy01TTZNX0NnNFhzdVgwUHdxdGd6eUkwUnlyemtRQmJJY0JPckxVWm90ZHlaRmpaUWNlSXVM?oc=5",
       "site": "中国有色网",
       "siteUrl": "https://www.cnmn.com.cn"
-    },
-    {
-      "id": "FL-385dd58b908a",
-      "date": "2026-08-11",
-      "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
-      "ts": 1786431600000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - 财新",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQcmdXTjEtaEEwQXAyc0dzZ29xdEtVZ3VnTzNSdEdIODhUbTkwVE1WYUJKZGlFN0N1TkdlQTNEZDA1SkNEejNqVS15STYwTURwckdUM0REQUMyTHdNQk5oSjlR?oc=5",
-      "site": "财新",
-      "siteUrl": "https://science.caixin.com"
-    },
-    {
-      "id": "FL-340d5e981918",
-      "date": "2026-08-23",
-      "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
-      "ts": 1787468400000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-0615dd398028",
-      "date": "2026-08-02",
-      "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
-      "ts": 1785654000000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-5e735aebc1c3",
@@ -195,6 +171,18 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
+      "id": "FL-3ebd1fca1fd7",
+      "date": "2026-10-12",
+      "dateISO": "Mon, 12 Oct 2026 16:14:23 GMT",
+      "ts": 1791821663000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "以黎边境遗留弹药爆炸已致1死19伤 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZUG1NNGpKanlkSGMwYUx4aWdiZ0VzZEpjUGoySXdxU2p3Xy1FRzd2SkpUa1lBUXd3dnJtZXY1a3BpUnZBZVhxeHBobi1GaXhCSTNsamFRR3B0TEoyTk5janJKcG9yVkMtMHJDZkVHTWEzdS1lWC0yMg?oc=5",
+      "site": "央视网",
+      "siteUrl": "https://news.cctv.com"
+    },
+    {
       "id": "FL-683039e2ea89",
       "date": "2026-10-12",
       "dateISO": "Mon, 12 Oct 2026 15:24:51 GMT",
@@ -214,9 +202,9 @@
       "scope": "dom",
       "type": "blast",
       "title": "以黎边境遗留弹药爆炸已致1死19伤 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5USW90QmlHMmtpd2lON2VYRFRub1NOLUlCYkJIWlZMUF9iR2lNMXFlMjRWTDhDbS14QVhxd2s3Q21iMDhPb2s0Y2RicGpXUnBRX1pQQVpXTmlnZGpjRU52UDRVWHlMdXV1N3U5cFNiX0wyM0dfSnc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5MTFpVC1keFhjZU1od0ZxUEhteE1qT3BfTk91X1ZsQWthV3VHVWQ3RFgzMW41aWtiaVFMN0g0TUh4cEdyUG8wRldETjJYUUdzSXUzVEtJdXRoRzdFbEJza0JKTU04MVZM?oc=5",
       "site": "央广网",
-      "siteUrl": "https://www.cnr.cn"
+      "siteUrl": "https://news.cnr.cn"
     },
     {
       "id": "FL-6b85dc5f7d96",
@@ -231,16 +219,28 @@
       "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
-      "id": "FL-7561e6e2ea71",
+      "id": "FL-28d295438b6b",
       "date": "2026-10-12",
-      "dateISO": "Mon, 12 Oct 2026 07:21:00 GMT",
-      "ts": 1791789660000,
+      "dateISO": "Mon, 12 Oct 2026 09:58:00 GMT",
+      "ts": 1791799080000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "电池未起火爆炸 新能源车坠下百米悬崖车主生还！领克回应 - 电子工程专辑",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zdExwVmtlOTFQM0k5bTdtWTg5aDRmR1NISUhCV3NRdFNLWFBVVHNvUzVLUjVPWGlJSzNZMFJXMlhucDBiTkx2MHBLQnpDZzlzSTNR?oc=5",
+      "site": "电子工程专辑",
+      "siteUrl": "https://www.eet-china.com"
+    },
+    {
+      "id": "FL-0d37be8e3bed",
+      "date": "2026-10-05",
+      "dateISO": "Mon, 05 Oct 2026 08:45:00 GMT",
+      "ts": 1791189900000,
       "scope": "intl",
       "type": "blast",
-      "title": "沙特爆炸伤亡惨重！大批中国人仍留守，750家中企大布局藏不住了 - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaUhfRjZrMFdtV3poVUphN1gtTXIyMjFYWXdGN21Vd1otWWQ0YlUwMmFhWVJSVmlpa3VzbzdIQi1uZGdjX01KYzVNckg3aEliSXpIU1JENnNzajB3SzB4ZnI2R19Cbms1TFJuZWNLMUVYb1NKMDJrUUg5ZXVvU1FZc1dINVFXTF9EMk94eA?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
+      "title": "韩国公布非军事区地雷爆炸事件最终调查结果 - 封面新闻",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mOW90LUsxZ0prZmZVUFNmTkZ0QjQ1NzdDY195Z25fWFVDaXM3ZkloeTNkY3c3RnpVSVd3ZlFJY3c4YWlIalBYMDJWaGE0SUpZTm8zS2VZbUZmc2hoS2cwbFRPSTFHWGxOUVRYWkU2clJNdDg4Zk9PVm9n?oc=5",
+      "site": "封面新闻",
+      "siteUrl": "https://m.thecover.cn"
     },
     {
       "id": "FL-c39833bbfc21",
@@ -253,18 +253,6 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5naEpaTmt5bmlhUXlZdndRR2F3XzN6Z2d5aWcwdU4zRnpJWXBJX3VpVWxzRDBzQUFVRXZ4TW1lOTJQUEhCQ3NDNDFEN2FpVTRuYTh3?oc=5",
       "site": "环球网",
       "siteUrl": "https://m.huanqiu.com"
-    },
-    {
-      "id": "FL-4ed1ffe514b4",
-      "date": "2026-08-21",
-      "dateISO": "Fri, 21 Aug 2026 07:00:00 GMT",
-      "ts": 1787295600000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "山东临沂发生爆炸致1人死亡2人失联 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5dmp2dW40R0VaSl93N25sLVZHeGFRNGZYdXF5cHJNeVcxWDVadGl6a094ZGxNcVBiMkN2cXhtdG1IQkxYSlk4SEVWc1FlX0Rsc1B4RXhKdHhvV0tfSHpzNDhTQUVRdlBSMjh6c3ZqZ01leGQ0dVVZ?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
     }
   ]
 }
