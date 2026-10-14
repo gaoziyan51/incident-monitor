@@ -1,30 +1,18 @@
 {
-  "updated": "2026-10-14T11:12:00.136Z",
+  "updated": "2026-10-14T11:45:20.380Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-dd5740ad6889",
+      "id": "FL-08572630f64e",
       "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 10:45:56 GMT",
-      "ts": 1791974756000,
+      "dateISO": "Wed, 14 Oct 2026 11:26:00 GMT",
+      "ts": 1791977160000,
       "scope": "dom",
       "type": "blast",
-      "title": "200万元罚单落地！包钢股份因“1・18”爆炸事故被追责，两名工作人员相关资格遭吊销 - https://www.mrjjxw.com/",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55YzlYWmZtMm5RQm5rWmlkLUZuQmlxUWRCSmkycHl0WDNLR0U4QkNSYXg3cHdNNzgxTVNpelNCeDF3cnNfdWhvRXlnYTNlSEo0WjJtM3hpQ2tyUDlSRFUzN180ZVMyZw?oc=5",
-      "site": "https://www.mrjjxw.com/",
-      "siteUrl": "https://www.mrjjxw.com"
-    },
-    {
-      "id": "FL-4a6970d8df42",
-      "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 10:10:20 GMT",
-      "ts": 1791972620000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "涉北溪管道爆炸案 乌克兰前军官在德国受审 - 联合早报",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nVF85Y2J6Q2lkT3BzMmdrNkJrQk1MWkN0MzJOSHpoVnM3dGZNc1JxdHJjaHMxX2ZTVXBJUVZBcnNPSkJDeVUxU2ZaMmlFNzJnUEYxUXRMWlNqZmh6NE9lYjZ5c0VJR1BkNmc?oc=5",
-      "site": "联合早报",
-      "siteUrl": "https://www.zaobao.com.sg"
+      "title": "850年前爆炸的恒星竟然仍然存活天文学家揭开“僵尸星”的更多秘密- 科学探索 - cnBeta.COM",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zM3o3cWxmZ1ZDbDJKTmF0cDR2SV9TU3V0MnBUb2o3eS1vOE9wSFlFQkJuc1VpVGczQUtraTR1aU81TFI5NngzYXRhNTI5YWdsM0N2YWpNWXdGd2NTaGZzbWlwdEU?oc=5",
+      "site": "cnBeta.COM",
+      "siteUrl": "https://www.cnbeta.com.tw"
     },
     {
       "id": "FL-dcd5b58a6d84",
@@ -219,6 +207,18 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
+      "id": "FL-18c3fa62bba8",
+      "date": "2026-10-13",
+      "dateISO": "Tue, 13 Oct 2026 21:13:10 GMT",
+      "ts": 1791925990000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "200万元罚单落地！包钢股份因“1·18”爆炸事故被追责，两名工作人员相关资格遭吊销 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qSTM2RmFMZ1EwYnlFMThoS0FheThONUk1YVptTllmR2lPX3dkUlRtWXdQQjlUSl8yWmlmTG1XcVB6OGphZWhaUXBjZ3pMVzlydmNUaUpMaDdWV1JuS1NtMUNTNEFyQQ?oc=5",
+      "site": "东方财富",
+      "siteUrl": "https://finance.eastmoney.com"
+    },
+    {
       "id": "FL-ee7850066869",
       "date": "2026-10-13",
       "dateISO": "Tue, 13 Oct 2026 11:37:00 GMT",
@@ -385,6 +385,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-c39833bbfc21",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 22:10:00 GMT",
+      "ts": 1790374200000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 环球网",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5naEpaTmt5bmlhUXlZdndRR2F3XzN6Z2d5aWcwdU4zRnpJWXBJX3VpVWxzRDBzQUFVRXZ4TW1lOTJQUEhCQ3NDNDFEN2FpVTRuYTh3?oc=5",
+      "site": "环球网",
+      "siteUrl": "https://m.huanqiu.com"
     }
   ]
 }
