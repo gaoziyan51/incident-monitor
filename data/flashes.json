@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-14T08:17:25.439Z",
+  "updated": "2026-10-14T08:50:23.200Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-843d692e8c7c",
+      "date": "2026-10-14",
+      "dateISO": "Wed, 14 Oct 2026 08:20:04 GMT",
+      "ts": 1791966004000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "沙乌地首都再传巨大爆炸声响 - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQXzRlOUFpcVVQRUhGR2FGN2x1S2JSeUlyeWhsc2NiRXNaQk1LdFlIaktLbkdBTURFcmVtVDI5SkgydDZuc0VzUHhlVDNNNGNyWFVWN05JVnQ0ZWY2RGVPMWNZenhJSUhhc2NobkQtNlh0TEdoR3FSOWc1R0d4aE5xUHhXcEMtUHRKd3hwQVkzQ1lUZjNiaU9iSlN4eGZtNURZWG1PMkhmeHpHQmZtUVBmSjBDVDBKU3oxUFdYWmgtX29PdTlVX1hZOUJad01QejM3XzZpdmpGOTNnWE1ETi1qaUlkVW53cG9Zem5N?oc=5",
+      "site": "SWI swissinfo.ch",
+      "siteUrl": "https://www.swissinfo.ch"
+    },
     {
       "id": "FL-7907c7b880f4",
       "date": "2026-10-14",
@@ -339,6 +351,18 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
+      "id": "FL-3ebd1fca1fd7",
+      "date": "2026-10-12",
+      "dateISO": "Mon, 12 Oct 2026 16:14:23 GMT",
+      "ts": 1791821663000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "以黎边境遗留弹药爆炸已致1死19伤 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZUG1NNGpKanlkSGMwYUx4aWdiZ0VzZEpjUGoySXdxU2p3Xy1FRzd2SkpUa1lBUXd3dnJtZXY1a3BpUnZBZVhxeHBobi1GaXhCSTNsamFRR3B0TEoyTk5janJKcG9yVkMtMHJDZkVHTWEzdS1lWC0yMg?oc=5",
+      "site": "央视网",
+      "siteUrl": "https://news.cctv.com"
+    },
+    {
       "id": "FL-683039e2ea89",
       "date": "2026-10-12",
       "dateISO": "Mon, 12 Oct 2026 15:24:51 GMT",
@@ -385,18 +409,6 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mOW90LUsxZ0prZmZVUFNmTkZ0QjQ1NzdDY195Z25fWFVDaXM3ZkloeTNkY3c3RnpVSVd3ZlFJY3c4YWlIalBYMDJWaGE0SUpZTm8zS2VZbUZmc2hoS2cwbFRPSTFHWGxOUVRYWkU2clJNdDg4Zk9PVm9n?oc=5",
       "site": "封面新闻",
       "siteUrl": "https://m.thecover.cn"
-    },
-    {
-      "id": "FL-b042a088a326",
-      "date": "2026-08-03",
-      "dateISO": "Mon, 03 Aug 2026 07:00:00 GMT",
-      "ts": 1785740400000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "巴基斯坦西北部发生爆炸致14人死亡 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-c39833bbfc21",
