@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-14T05:03:16.894Z",
+  "updated": "2026-10-14T05:31:39.286Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-97aa08e922ea",
+      "date": "2026-10-14",
+      "dateISO": "Wed, 14 Oct 2026 04:18:28 GMT",
+      "ts": 1791951508000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "乌克兰基辅再次传出爆炸声，莫斯科市市长：近百架无人机飞往莫斯科方向，其中一些已被俄防空部队击落 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZVNaV3Bna2lMYnFBMFdUaWNRZnpfVjR0VUZiVDlycUsxWm1lV1d6UjV1bUtpQ29fVW05X21NOEtRczA0bkloUkZmUGNDbEdkSFJhQk8xcjMyTEd0RHJYeUJIb1JJRmVQMjVCc1d2Z1FHRFhKb3Z6UG5IekxnOWdzeXZncmNSdkZKZjB5cQ?oc=5",
+      "site": "搜狐",
+      "siteUrl": "https://m.sohu.com"
+    },
     {
       "id": "FL-6109940705b3",
       "date": "2026-10-14",
@@ -25,18 +37,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOE43RmRnMVZ3T3ZyclM3YmtvUHJLbk4yM2o1bHpZWXJIbm4xR0NjSDY3ZVBKbnphbF9WQTRKcHFYSXR2RkZuUEhGNHdEdGxtbDgyUWphUlhoY1BNNnQ4ZUtUNmYxU0RyWndOVXdiODBaVnowWkVFVVNjaHNVLXhhWk45cUpfM1Mta09rUA?oc=5",
       "site": "搜狐",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-f7c6b2b3fb9e",
-      "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 03:32:43 GMT",
-      "ts": 1791948763000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Second explosion in 6 years at northeast Albuquerque apartment complex - KOB 4",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQzByR1lGeDdoYkJIakRBM2R0REU3Z3pWX3VoaFZJSXQ0WWMzM3FTZnE2MVpJMmVYVnB5YkJVM0JzRFM3RTRueV81S3FWRGpYc0lBR3VJX2lnSjROSldyR052OXFHNjY5S09JX2RETWJWOUxzU0VGMTYyRU1wMFlMR3phOFJmT25lZVlYN01fR2xJVlhqbEZ2M3F2aldEUERiR21OVw?oc=5",
-      "site": "KOB 4",
-      "siteUrl": "https://www.kob.com"
     },
     {
       "id": "FL-6ab7995408a1",
@@ -253,6 +253,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlemFCa3lteDlkZERLTXRLMHhpeTIzNmFqanFBczVPaFNjQjVxOHNJNm54Tkhua1FqOGtuaUhBLWdRSWxXaFRoZThQZXJqclRIV1pUaTNhcjhHU0dwRzA1WXNQc2ZOVEhXX0Z1NUVBcnBUalJRWkE3ZlE0S3NOaXM?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-5fe607353490",
+      "date": "2026-10-10",
+      "dateISO": "Sat, 10 Oct 2026 19:54:00 GMT",
+      "ts": 1791662040000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "中国旅客亲历利雅得机场航站楼遇袭：“爆炸点距我不到五百米” 使馆：尚无中国公民伤亡报告 - 封面新闻",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5oVkNkdnB5OGRJVVlaWjlLWk5lOUZCd2JXZWtzOTBfcG01OTA5M2M2UmVjYkJEQmQzNnR1NEdXd1B0bEVvRDJvVHZrT2NJUVhReVFXRWtlWHBRM3VGVTMxMjJNYm9rbWtHbXRkZ2ZiSUlhNTZIejk0TjFB?oc=5",
+      "site": "封面新闻",
+      "siteUrl": "https://m.thecover.cn"
     },
     {
       "id": "FL-fabdb4a9346e",
