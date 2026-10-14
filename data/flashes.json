@@ -1,18 +1,30 @@
 {
-  "updated": "2026-10-14T09:17:00.840Z",
+  "updated": "2026-10-14T09:47:31.161Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-487ea0b88506",
+      "id": "FL-dcd5b58a6d84",
       "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 08:50:08 GMT",
-      "ts": 1791967808000,
+      "dateISO": "Wed, 14 Oct 2026 09:10:56 GMT",
+      "ts": 1791969056000,
       "scope": "intl",
       "type": "blast",
-      "title": "“北溪”爆炸案一嫌疑人将在德国首次出庭 - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWS1NYnBFcXdnNFI4Slo5WE5WaWZvMjRCb2xQdDZFY3VDUVFDZm1Nd3RpN2RILUpMTVRVYW40cDlMR3A2bTlZaV9ZcGhveXBwdl9wNW1XUWk1R3QtLWs1OVdDaDhCa0x4UnJya01uY1haZFBnOWhrRG9nR0JMMjlLNEhPM29NaFZ6?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
+      "title": "“北溪”爆炸案一嫌疑人将在德国首次出庭 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VMXZkemRUSmc5cW82UngzUlBBVW1aZ2w1aERuWDNtbEFHWm04OC1udzltMkpKRFBRQko5Q0hJMHFkODZEYnBEWjdXNFg0X0pxMHNtRlBWSlpmcFVKTTNsLVd4ek52UENVQzE2c1diaTFSMGhUMXRrRmRkclVJZw?oc=5",
+      "site": "新华网",
+      "siteUrl": "http://www.xinhuanet.com"
+    },
+    {
+      "id": "FL-0a202d851e8e",
+      "date": "2026-10-14",
+      "dateISO": "Wed, 14 Oct 2026 09:08:30 GMT",
+      "ts": 1791968910000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "“北溪”管道爆炸案在德国开庭，一乌克兰籍嫌疑人出庭 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBqR2k4MmVLYWZNcjNkZWs2VVRCdzB4c0JLZ3dhY2E2Z3AwTTJsUUdKbEZfZ1k3XzNjcFdxWUJjdm1ZblpycUVRU1RjRWI?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://news.ifeng.com"
     },
     {
       "id": "FL-8bfafbbe2cbb",
@@ -97,6 +109,18 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNemszS1pDQUZMZjhtRi1XMUM3S1E4dTVHR3R4MlRxVkl5NWJoS1ZpUzBtZmdFUGFmQjBrekJacklOaThZcXVOTl94R25XY2l3dUJ2Qm5QY19xNzd6UFFERFVWRkNaTjhiTFdpNFFnOUtVclpVd2F4MExRRE94b0RsOHhIYThndjYx?oc=5",
       "site": "搜狐",
       "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-f7c6b2b3fb9e",
+      "date": "2026-10-14",
+      "dateISO": "Wed, 14 Oct 2026 06:36:36 GMT",
+      "ts": 1791959796000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Second explosion in 6 years at northeast Albuquerque apartment complex - KOB 4",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQzByR1lGeDdoYkJIakRBM2R0REU3Z3pWX3VoaFZJSXQ0WWMzM3FTZnE2MVpJMmVYVnB5YkJVM0JzRFM3RTRueV81S3FWRGpYc0lBR3VJX2lnSjROSldyR052OXFHNjY5S09JX2RETWJWOUxzU0VGMTYyRU1wMFlMR3phOFJmT25lZVlYN01fR2xJVlhqbEZ2M3F2aldEUERiR21OVw?oc=5",
+      "site": "KOB 4",
+      "siteUrl": "https://www.kob.com"
     },
     {
       "id": "FL-235ace8c4c98",
@@ -195,30 +219,6 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-1ae2977a911c",
-      "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 00:58:00 GMT",
-      "ts": 1791939480000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "证明大爆炸，数学界变天！AI把陶哲轩逼出「数学 2.0」 - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX2xvWEZmQzZRVjM2TzlYVXVoM1BrYnhpdlAzZEEyNDNvQ3doQU1vUWZPRDB6dU9paVRhRE56eDhIRWFXMVdXNm0weW1ERExuSjhiekNCcFJwbHJQSVlidC1XRkFOTHJYdURrdGtpU3BWS3kzbnBNWnFrMUtTT3FsRDV6NG5jNm9y?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-d646025b1946",
-      "date": "2026-10-07",
-      "dateISO": "Wed, 07 Oct 2026 22:38:00 GMT",
-      "ts": 1791412680000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "湖南临澧“6·16”烟花爆炸事故调查报告公布 - 封面新闻",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91enlpNldsRnhkeFAxV3pqa24ta2lidWptTFhfQjFsM0ZRR0F2Z1NOUXdsR2pkSHpqOHMxVGphZGpUbnhVYXNyajlMazNlanNGUmpkQW1XOXlNazk1bVdVeV9sZi1nZjZhd01jamkzNTI2dWdrTzI1TElR?oc=5",
-      "site": "封面新闻",
-      "siteUrl": "https://m.thecover.cn"
-    },
-    {
       "id": "FL-622b0601ec92",
       "date": "2026-10-13",
       "dateISO": "Tue, 13 Oct 2026 21:15:05 GMT",
@@ -243,27 +243,15 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
-      "id": "FL-6d2167446aa1",
-      "date": "2026-10-13",
-      "dateISO": "Tue, 13 Oct 2026 14:17:56 GMT",
-      "ts": 1791901076000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "也门首都传出爆炸声 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oVmMtdXdmY3Bxd01NaHNOZUdsa3ozakNzcm9NZ2c2U1liTVFVT0o2UFpjbjBhRF9zN3JoTDZkdnN3TjV4aWtvUEpJaVF6eEZyY2doNlNzMk84aTlHekE?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://news.bjd.com.cn"
-    },
-    {
-      "id": "FL-ae9ea4300b1a",
+      "id": "FL-ee7850066869",
       "date": "2026-10-13",
       "dateISO": "Tue, 13 Oct 2026 11:37:00 GMT",
       "ts": 1791891420000,
       "scope": "dom",
       "type": "blast",
-      "title": "证明大爆炸，数学界变天，AI把陶哲轩逼出「数学 2.0」 - 36氪",
+      "title": "证明大爆炸，数学界变天，AI把陶哲轩逼出「数学 2.0」 - 36Kr",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IeHYyZVJmSENXLUJXMVRiWWJ5YjRwOFhBTGlTMGJINTg3X2FfYlBJa3VqRmdxdWZaWGRJU3BJdkNsVi1FTjcxajdZc3Z1UQ?oc=5",
-      "site": "36氪",
+      "site": "36Kr",
       "siteUrl": "https://m.36kr.com"
     },
     {
@@ -327,6 +315,18 @@
       "siteUrl": "https://m.thecover.cn"
     },
     {
+      "id": "FL-160d55aeb47e",
+      "date": "2026-06-22",
+      "dateISO": "Mon, 22 Jun 2026 07:00:00 GMT",
+      "ts": 1782111600000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "卡塔尔工厂爆炸已致13人死亡 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mR2pTX0YxWjBwQ2lLNC1XZjFhd3IwVEYtWkZFR3ZBU3B5RTFHR1BldmQ3OEkxN2NaWTMzYUkwWENDeEliY3dVNEloOExFS1B6SlZQTENHdWVmTWpUM042M2hRcmo4QS1qdl85cXlhZHJ3R3JGTEU4?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
       "id": "FL-fabdb4a9346e",
       "date": "2026-10-12",
       "dateISO": "Mon, 12 Oct 2026 20:45:42 GMT",
@@ -351,6 +351,18 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
+      "id": "FL-3ebd1fca1fd7",
+      "date": "2026-10-12",
+      "dateISO": "Mon, 12 Oct 2026 16:14:23 GMT",
+      "ts": 1791821663000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "以黎边境遗留弹药爆炸已致1死19伤 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZUG1NNGpKanlkSGMwYUx4aWdiZ0VzZEpjUGoySXdxU2p3Xy1FRzd2SkpUa1lBUXd3dnJtZXY1a3BpUnZBZVhxeHBobi1GaXhCSTNsamFRR3B0TEoyTk5janJKcG9yVkMtMHJDZkVHTWEzdS1lWC0yMg?oc=5",
+      "site": "央视网",
+      "siteUrl": "https://news.cctv.com"
+    },
+    {
       "id": "FL-683039e2ea89",
       "date": "2026-10-12",
       "dateISO": "Mon, 12 Oct 2026 15:24:51 GMT",
@@ -373,18 +385,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5MTFpVC1keFhjZU1od0ZxUEhteE1qT3BfTk91X1ZsQWthV3VHVWQ3RFgzMW41aWtiaVFMN0g0TUh4cEdyUG8wRldETjJYUUdzSXUzVEtJdXRoRzdFbEJza0JKTU04MVZM?oc=5",
       "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
-    },
-    {
-      "id": "FL-6b85dc5f7d96",
-      "date": "2026-10-12",
-      "dateISO": "Mon, 12 Oct 2026 13:09:26 GMT",
-      "ts": 1791810566000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "以色列北部发生爆炸，约20人受伤 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FbmhOQlJkVnZwdDdXQjdudVloMjJIeEg0d2Iya0I2eldxYzkwRWYzN3pwTFNQZS02NDAzWXRaQXdSR3pIclVORHBady1XSHNSMHJ3Wl9Bd3c0Z3RmVDlSa2dNSjVNeG5FcTN2aXNHNkRfZw?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
       "id": "FL-0d37be8e3bed",
