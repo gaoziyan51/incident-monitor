@@ -1,7 +1,31 @@
 {
-  "updated": "2026-10-14T17:21:46.419Z",
+  "updated": "2026-10-14T17:55:37.052Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-75ff1f1a7837",
+      "date": "2026-10-14",
+      "dateISO": "Wed, 14 Oct 2026 17:53:08 GMT",
+      "ts": 1792000388000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "北溪天然氣管道爆炸案 烏克蘭前軍官德國受審 - 新唐人電視台",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pbkw5aGFhajFPLXRJaG05WDlJUERZREM2RWtwaW05RjdPOXhOa3pUWXVhTWpGY0pnd0xRLUNmZlJ1Y01xVVBBaGE5MEwzSDlTZ2JXZmQtSlRfWGxWcTJOMtIBZkFVX3lxTE0wTGZJOFdmbk91VGo0eWdTeVRFdmYzWjhKcFZvQm8za0JmVW1PMHR1TUhKSWJ3cENHVGN6U3AxQVQzd0p2N0J3LVZJY2JtRnNYZ2k2WTVFY29mZmozRHZWWmJVTXBzQQ?oc=5",
+      "site": "新唐人電視台",
+      "siteUrl": "https://www.ntdtv.com"
+    },
+    {
+      "id": "FL-0c8e05861d7e",
+      "date": "2026-10-14",
+      "dateISO": "Wed, 14 Oct 2026 17:00:43 GMT",
+      "ts": 1791997243000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "包钢股份因“1·18”爆炸事故被罚200万元，近1年无研报覆盖_公司新闻 - 证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zbUR5SF9idFA1cUNXS0FwS3FOYXdGZks5YWlmVk9IWFYzUTh0akJ6U2ZFN3NkOUJLY1JlVnFyanE2V3gwUElXd1NhT1hQdlgxV2JCZEYzN1hWQnBHOXl6ODNB?oc=5",
+      "site": "证券之星",
+      "siteUrl": "https://stock.stockstar.com"
+    },
     {
       "id": "FL-7de26aab30f3",
       "date": "2026-10-14",
@@ -25,18 +49,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNGFBOWIzMERXb20yT1N6UWRnNHpBY0VGRGZRZ0V2NVlyWGtvemdhaThWTGJ1VXRuT3diWTVSbklkcDMyaGJ2UDBuUjh1QldLQjcyXy1nc1FPaUdEUzJKd2ZZUmw3elFSV0VwdjFPLVpvT2tIY0VFMS1rRFNOekk0N2JoTHQ4NGlr?oc=5",
       "site": "搜狐",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-d267aeb2c504",
-      "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 14:50:00 GMT",
-      "ts": 1791989400000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "丹格朗芝布达芝芒吉斯市场发生爆炸 致1人死亡8名受伤 - Shangbao Indonesia",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2SWhHbWhxbnF5ZDlicHFGRzZSLW02VmstcWZvNEVRUzBNZjBOb21yZUxzNFBGODJyZmY2LWxEMkduMUc0eDlWN0VYQzA5VjFNQnd1eWZwUG5QNzlBQngxZmZqeVBmNU5nOHdTQTBITXJDOVBSVFNv?oc=5",
-      "site": "Shangbao Indonesia",
-      "siteUrl": "https://www.shangbaoindonesia.com"
     },
     {
       "id": "FL-d933960c920a",
@@ -63,18 +75,6 @@
       "siteUrl": "https://www.jiemian.com"
     },
     {
-      "id": "FL-50b4d920d5ed",
-      "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 13:39:09 GMT",
-      "ts": 1791985149000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "北溪爆炸案｜乌特种部队军官在德国受审 恐冲击德乌关系 - 星島頭條",
-      "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxNQUlZOXBJdnRTR0tBclRXdWJhSHlGU2p4WTRFU1U0c1NrWVV5SzQ3UHJvbmtmc3hkQk9OZ3dEbWthcTlQN1R3ZFVpMW5vVVQtb3RxV0Z6ZGNGcG9jdVV3THgxdWZZR2ViMzRTbkdtekJudmlhMDVLMTBKN1UwV1o4Zi13bTdyOVhrZVVnanpzTVd4ckhkZGdyeXpWcmhYRVJSLWw4T1NWSzNUTkh2YzVRdUFyUXBQaUM1bFdOaWpRRlJvbzhISXB4ZE5qcWlkNDRGSTRpVGQxY0s0aG1MSTljTk5oNU0xVVNnSHBYYmdLUzgyc2RCalJIZXRPX0RsSE50eTdQRjcxZDVKRGUtano0RTZvMDEwM0Zpd2t4QVZnT1pBVVp0SnZsZ1lLaDJQSUdlakdVUWVJQW9uYW80a09yQjMza28wTkdQc1lKdVBadWlSUjFKel9RUGJOS1BQXy11MHcxaElUQTJzSEJtUV83eUtEWWFDQmduYWdicF9RektQV1pXSXMtM0dpMA?oc=5",
-      "site": "星島頭條",
-      "siteUrl": "https://www.stheadline.com"
-    },
-    {
       "id": "FL-942a18a86e9f",
       "date": "2026-10-14",
       "dateISO": "Wed, 14 Oct 2026 13:08:30 GMT",
@@ -85,18 +85,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HVkxwUk5fQjRMT2M4c3FjLXVhX2FEeUwzWGVpTVQ4M3NSc2lHT2Q1LXFyZ2M1VG9OS0RsOUlJN0gyM3l2VVJ1bElnV09RQ3Y0YXRuNFlTSWxneXM0UjFteERRYWdrUkdN?oc=5",
       "site": "文学城",
       "siteUrl": "https://www.wenxuecity.com"
-    },
-    {
-      "id": "FL-d0072cc7eab4",
-      "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 12:30:00 GMT",
-      "ts": 1791981000000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "涉北溪管道爆炸案 乌克兰前军官在德国受审 - 早晨报",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaYms1Qm5OYzZ3aTREMkx0RWxFT1A0RE15R2pyaTF1UnVpTDhURU0tdDExY0lEOWV2SjBLTjkyM1pHVTdFc01LMFVKY0pTd2MwdGlXRWVrbXlQYVRxcmllVXpVLUNOMlk3a0tvVw?oc=5",
-      "site": "早晨报",
-      "siteUrl": "https://www.zaochenbao.com"
     },
     {
       "id": "FL-dd2ca93cf82d",
@@ -147,6 +135,18 @@
       "siteUrl": "https://www.cnbeta.com.tw"
     },
     {
+      "id": "FL-4a6970d8df42",
+      "date": "2026-10-14",
+      "dateISO": "Wed, 14 Oct 2026 10:10:20 GMT",
+      "ts": 1791972620000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "涉北溪管道爆炸案 乌克兰前军官在德国受审 - 联合早报",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nVF85Y2J6Q2lkT3BzMmdrNkJrQk1MWkN0MzJOSHpoVnM3dGZNc1JxdHJjaHMxX2ZTVXBJUVZBcnNPSkJDeVUxU2ZaMmlFNzJnUEYxUXRMWlNqZmh6NE9lYjZ5c0VJR1BkNmc?oc=5",
+      "site": "联合早报",
+      "siteUrl": "https://www.zaobao.com.sg"
+    },
+    {
       "id": "FL-18c3fa62bba8",
       "date": "2026-10-14",
       "dateISO": "Wed, 14 Oct 2026 09:13:13 GMT",
@@ -181,6 +181,18 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBqR2k4MmVLYWZNcjNkZWs2VVRCdzB4c0JLZ3dhY2E2Z3AwTTJsUUdKbEZfZ1k3XzNjcFdxWUJjdm1ZblpycUVRU1RjRWI?oc=5",
       "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com"
+    },
+    {
+      "id": "FL-8a384212b11d",
+      "date": "2026-10-14",
+      "dateISO": "Wed, 14 Oct 2026 08:50:54 GMT",
+      "ts": 1791967854000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "包钢股份因“1·18”重大容器爆炸事故领200万元罚单，两名工作人员被吊销特种设备从业资格 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9reHpSTFF0eVRDSTNHRzRwdFVKUnNqa3hlZVlxRnRrSTFvczlTVTh1QVUzemUwbEhDakdQaE5mUFJpZXFEQkw4bjFJWU1xMThXZFR3R2dQSUQ3QXdIdTI0OVNHMA?oc=5",
+      "site": "东方财富",
+      "siteUrl": "https://emwap.eastmoney.com"
     },
     {
       "id": "FL-9975fe92bf07",
@@ -253,18 +265,6 @@
       "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQdzk2WjhjWW9BUVdQSHN2QzlKOHVOQVlkWGpoU3ZMY3NNUW9fZnBPdmhsRGQwb0ZIQ2VVMDRkMmg3LW50NUh2VzZOZlJpX3NvV1ppMTM0bjBkQmJXMEtiVE9IZVZ4MUFzbGVfN1loUUlwdlA5UVVfQVRVX0NOeTdDZHEyZ20tbkx0NnpkQk80YWNqSFR5M1lQNHVBMjFFbkREd25JVUp1TnQxOWtVaXNON2NSTl9qdjFVLUtLZGpkQTVSaWhPS2htZUNGWG9KZU5Vb0Q0Zmg2ZGs1Y2lWSGpadE9PeTZDdmFORWFsU3Q1MkpBaUdlaWpEbVp2bXRKMVhKa0pWS1R1Y3Vsc0dVcHE0SnFhS21GaHZjMVI0eGE0dEQzX2k2SlgzVEJTd2JVdUZVMFVORXdCX2F1WG92cHBubmt0SGZmNjlDRk5uX2dWYnotRlAxTWJJNEVBV2FyOVE1WXJaeE0zSVNZV2hCT1pjRzV4VDI1cHJ4M2l5a0pRM1FYRmRzMExEX1hwTkhhU3U0LVc0WmVkV2t0QQ?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr"
-    },
-    {
-      "id": "FL-8a384212b11d",
-      "date": "2026-10-13",
-      "dateISO": "Tue, 13 Oct 2026 20:50:52 GMT",
-      "ts": 1791924652000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "包钢股份因“1·18”重大容器爆炸事故领200万元罚单，两名工作人员被吊销特种设备从业资格 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9reHpSTFF0eVRDSTNHRzRwdFVKUnNqa3hlZVlxRnRrSTFvczlTVTh1QVUzemUwbEhDakdQaE5mUFJpZXFEQkw4bjFJWU1xMThXZFR3R2dQSUQ3QXdIdTI0OVNHMA?oc=5",
-      "site": "东方财富",
-      "siteUrl": "https://emwap.eastmoney.com"
     },
     {
       "id": "FL-ee7850066869",
@@ -406,9 +406,9 @@
       "scope": "dom",
       "type": "blast",
       "title": "以黎边境遗留弹药爆炸已致1死19伤 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5USW90QmlHMmtpd2lON2VYRFRub1NOLUlCYkJIWlZMUF9iR2lNMXFlMjRWTDhDbS14QVhxd2s3Q21iMDhPb2s0Y2RicGpXUnBRX1pQQVpXTmlnZGpjRU52UDRVWHlMdXV1N3U5cFNiX0wyM0dfSnc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5MTFpVC1keFhjZU1od0ZxUEhteE1qT3BfTk91X1ZsQWthV3VHVWQ3RFgzMW41aWtiaVFMN0g0TUh4cEdyUG8wRldETjJYUUdzSXUzVEtJdXRoRzdFbEJza0JKTU04MVZM?oc=5",
       "site": "央广网",
-      "siteUrl": "https://www.cnr.cn"
+      "siteUrl": "https://news.cnr.cn"
     },
     {
       "id": "FL-b042a088a326",
