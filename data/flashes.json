@@ -1,7 +1,31 @@
 {
-  "updated": "2026-10-14T06:39:34.712Z",
+  "updated": "2026-10-14T07:19:37.008Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-9975fe92bf07",
+      "date": "2026-10-14",
+      "dateISO": "Wed, 14 Oct 2026 06:40:57 GMT",
+      "ts": 1791960057000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "导弹在两百米外爆炸：一名中国游客逃离沙特利雅得的三十小时 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNemszS1pDQUZMZjhtRi1XMUM3S1E4dTVHR3R4MlRxVkl5NWJoS1ZpUzBtZmdFUGFmQjBrekJacklOaThZcXVOTl94R25XY2l3dUJ2Qm5QY19xNzd6UFFERFVWRkNaTjhiTFdpNFFnOUtVclpVd2F4MExRRE94b0RsOHhIYThndjYx?oc=5",
+      "site": "搜狐",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-f7c6b2b3fb9e",
+      "date": "2026-10-14",
+      "dateISO": "Wed, 14 Oct 2026 06:01:40 GMT",
+      "ts": 1791957700000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Second explosion in 6 years at northeast Albuquerque apartment complex - KOB 4",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQzByR1lGeDdoYkJIakRBM2R0REU3Z3pWX3VoaFZJSXQ0WWMzM3FTZnE2MVpJMmVYVnB5YkJVM0JzRFM3RTRueV81S3FWRGpYc0lBR3VJX2lnSjROSldyR052OXFHNjY5S09JX2RETWJWOUxzU0VGMTYyRU1wMFlMR3phOFJmT25lZVlYN01fR2xJVlhqbEZ2M3F2aldEUERiR21OVw?oc=5",
+      "site": "KOB 4",
+      "siteUrl": "https://www.kob.com"
+    },
     {
       "id": "FL-235ace8c4c98",
       "date": "2026-10-14",
@@ -47,18 +71,6 @@
       "type": "blast",
       "title": "油库大爆炸，乌克兰公开叫板特朗普：美军翻脸，俄军顺利报复轰炸 - 搜狐",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOE43RmRnMVZ3T3ZyclM3YmtvUHJLbk4yM2o1bHpZWXJIbm4xR0NjSDY3ZVBKbnphbF9WQTRKcHFYSXR2RkZuUEhGNHdEdGxtbDgyUWphUlhoY1BNNnQ4ZUtUNmYxU0RyWndOVXdiODBaVnowWkVFVVNjaHNVLXhhWk45cUpfM1Mta09rUA?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-6ab7995408a1",
-      "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 02:52:00 GMT",
-      "ts": 1791946320000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "基辅响起连续爆炸声 - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeTlKRlZPaWY0cE9VcC1MVnRoZnIwbUhhSU45R0RTbnNCZ3F6RFgyLUZwVjB0UDZUYUxoNlpIXzVQdm5rSWctbG9QSmI0VlV2anpiSlo2YURYbXRNM1hHMTdMNjNJZzJzbEhpQlJGVWZud1MzUHgzZWdOTDRYZVhNVzNTZzRJMy1Zc1FPMg?oc=5",
       "site": "搜狐",
       "siteUrl": "https://m.sohu.com"
     },
@@ -195,18 +207,6 @@
       "siteUrl": "https://m.36kr.com"
     },
     {
-      "id": "FL-7a1f1de427bc",
-      "date": "2026-10-13",
-      "dateISO": "Tue, 13 Oct 2026 08:06:09 GMT",
-      "ts": 1791878769000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "（外代一线）以色列北部发生疑似未爆弹药爆炸致1死19伤 - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeV9RbEc1VUh3RUpPQ1htYTMzTFpiOFJwQjd2NU4xTFdFSEZ1ZFIyaEdKRmt1TlpUak8wei0yOTVFZGlLTVFseENLUHhHT2dmQmtJRGtGYW82NEJCTDNSZUNBcHVYYzgxUmwwOER6bzZpQ1FwS3hZcVhDVndtNXNBa0JkYXcwUF9l?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-08b79183e0ac",
       "date": "2026-10-13",
       "dateISO": "Tue, 13 Oct 2026 03:10:00 GMT",
@@ -322,9 +322,9 @@
       "scope": "dom",
       "type": "blast",
       "title": "以黎边境遗留弹药爆炸已致1死19伤 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5MTFpVC1keFhjZU1od0ZxUEhteE1qT3BfTk91X1ZsQWthV3VHVWQ3RFgzMW41aWtiaVFMN0g0TUh4cEdyUG8wRldETjJYUUdzSXUzVEtJdXRoRzdFbEJza0JKTU04MVZM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5USW90QmlHMmtpd2lON2VYRFRub1NOLUlCYkJIWlZMUF9iR2lNMXFlMjRWTDhDbS14QVhxd2s3Q21iMDhPb2s0Y2RicGpXUnBRX1pQQVpXTmlnZGpjRU52UDRVWHlMdXV1N3U5cFNiX0wyM0dfSnc?oc=5",
       "site": "央广网",
-      "siteUrl": "https://news.cnr.cn"
+      "siteUrl": "https://www.cnr.cn"
     },
     {
       "id": "FL-6b85dc5f7d96",
@@ -337,6 +337,18 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FbmhOQlJkVnZwdDdXQjdudVloMjJIeEg0d2Iya0I2eldxYzkwRWYzN3pwTFNQZS02NDAzWXRaQXdSR3pIclVORHBady1XSHNSMHJ3Wl9Bd3c0Z3RmVDlSa2dNSjVNeG5FcTN2aXNHNkRfZw?oc=5",
       "site": "京报网",
       "siteUrl": "https://xinwen.bjd.com.cn"
+    },
+    {
+      "id": "FL-0d37be8e3bed",
+      "date": "2026-10-05",
+      "dateISO": "Mon, 05 Oct 2026 08:45:00 GMT",
+      "ts": 1791189900000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "韩国公布非军事区地雷爆炸事件最终调查结果 - 封面新闻",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mOW90LUsxZ0prZmZVUFNmTkZ0QjQ1NzdDY195Z25fWFVDaXM3ZkloeTNkY3c3RnpVSVd3ZlFJY3c4YWlIalBYMDJWaGE0SUpZTm8zS2VZbUZmc2hoS2cwbFRPSTFHWGxOUVRYWkU2clJNdDg4Zk9PVm9n?oc=5",
+      "site": "封面新闻",
+      "siteUrl": "https://m.thecover.cn"
     },
     {
       "id": "FL-c39833bbfc21",
