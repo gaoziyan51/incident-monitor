@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-15T06:10:56.129Z",
+  "updated": "2026-10-15T06:56:14.170Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-b4e935e62a2f",
+      "date": "2026-10-14",
+      "dateISO": "Wed, 14 Oct 2026 23:56:51 GMT",
+      "ts": 1792022211000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "英特尔在以色列工厂发生爆炸致3人受伤 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ0t1OTRvb2QwMm1LaXJKdXpOeGNfRExvLW9ENkZNTjlsV1kzSFFsYlVhMlhrQTF5VVdJU1VxZ0xQcF9VRWNnNWhyeW1mXzVDOC1YakNaRm9RbXk5eTF0M1JmSTdxN2psVlNTZlh6c3gtc3FUNXRkc2xORlBZa3EzRmJKRHJWNm9RX05ZVA?oc=5",
+      "site": "搜狐",
+      "siteUrl": "https://m.sohu.com"
+    },
     {
       "id": "FL-0b328c0ba2d9",
       "date": "2026-10-14",
@@ -61,18 +73,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zbUR5SF9idFA1cUNXS0FwS3FOYXdGZks5YWlmVk9IWFYzUTh0akJ6U2ZFN3NkOUJLY1JlVnFyanE2V3gwUElXd1NhT1hQdlgxV2JCZEYzN1hWQnBHOXl6ODNB?oc=5",
       "site": "证券之星",
       "siteUrl": "https://stock.stockstar.com"
-    },
-    {
-      "id": "FL-b4e935e62a2f",
-      "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 15:40:01 GMT",
-      "ts": 1791992401000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "英特尔在以色列工厂发生爆炸致3人受伤 - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNGFBOWIzMERXb20yT1N6UWRnNHpBY0VGRGZRZ0V2NVlyWGtvemdhaThWTGJ1VXRuT3diWTVSbklkcDMyaGJ2UDBuUjh1QldLQjcyXy1nc1FPaUdEUzJKd2ZZUmw3elFSV0VwdjFPLVpvT2tIY0VFMS1rRFNOekk0N2JoTHQ4NGlr?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-d933960c920a",
@@ -207,6 +207,18 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
+      "id": "FL-d646025b1946",
+      "date": "2026-10-07",
+      "dateISO": "Wed, 07 Oct 2026 22:38:00 GMT",
+      "ts": 1791412680000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "湖南临澧“6·16”烟花爆炸事故调查报告公布 - 封面新闻",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91enlpNldsRnhkeFAxV3pqa24ta2lidWptTFhfQjFsM0ZRR0F2Z1NOUXdsR2pkSHpqOHMxVGphZGpUbnhVYXNyajlMazNlanNGUmpkQW1XOXlNazk1bVdVeV9sZi1nZjZhd01jamkzNTI2dWdrTzI1TElR?oc=5",
+      "site": "封面新闻",
+      "siteUrl": "https://m.thecover.cn"
+    },
+    {
       "id": "FL-622b0601ec92",
       "date": "2026-10-13",
       "dateISO": "Tue, 13 Oct 2026 21:15:05 GMT",
@@ -229,6 +241,18 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQcmdXTjEtaEEwQXAyc0dzZ29xdEtVZ3VnTzNSdEdIODhUbTkwVE1WYUJKZGlFN0N1TkdlQTNEZDA1SkNEejNqVS15STYwTURwckdUM0REQUMyTHdNQk5oSjlR?oc=5",
       "site": "财新",
       "siteUrl": "https://science.caixin.com"
+    },
+    {
+      "id": "FL-7e68cdb69eb5",
+      "date": "2026-10-15",
+      "dateISO": "Thu, 15 Oct 2026 06:23:39 GMT",
+      "ts": 1792045419000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "记者观察丨沙特多地响起爆炸声 能源大会线下活动继续 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UeGEwYjlqRjBBQUlxZHJoLTN5VFJFdUtNem9zbm0zWU9tMkRTRXR6Yy1WVWpPdWZKZm1kU0JUeEFFV2w2eWdRN2ZGcHFnaDRjM0JHdGZhcDBWY0tUUGlDa0pMcm5yWVlMWWU4VndTcXN3SXRmYWtN?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-d500725ae283",
@@ -327,18 +351,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-4c559ac3fb1d",
-      "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 03:21:30 GMT",
-      "ts": 1792034490000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "科学家捕获最远快速射电暴 源头位于大爆炸后约三十亿年星系 - 西藏自治区科学技术厅",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xU2JjTkRHLWFVMFdvT21PS2VFdFlDRVRfYnZCZnBxcXhaYWVJWjQzQnNZQXZuR1J0NjNKdWRQcDlJRVRiYWRHWUJsYTRIOGlGTW55WWtSRFJhLUY3N2RLTGN2VWlWcnlvdEZwc25qUXlNZw?oc=5",
-      "site": "西藏自治区科学技术厅",
-      "siteUrl": "https://sti.xizang.gov.cn"
-    },
-    {
       "id": "FL-64f4650f51e5",
       "date": "2026-10-15",
       "dateISO": "Thu, 15 Oct 2026 03:09:00 GMT",
@@ -435,6 +447,18 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
+      "id": "FL-e85b9b61b7c3",
+      "date": "2026-10-15",
+      "dateISO": "Thu, 15 Oct 2026 00:13:51 GMT",
+      "ts": 1792023231000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "“北溪”爆炸案开庭或影响德对乌政策 审判结果待定 - 中华军事",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42ZkdrcldpSHpnSmc2eENDeC1YU29URFRqM004cEowWjZIaDdqejd2UC1SaE5YUEpCMzZvVVZ6NlZJM3QzWlNFQ29ocWF1bTBhbkQyYTV1eVMtdTBENUxRM1dTNGtNUzFmZGhvTVFHTVY?oc=5",
+      "site": "中华军事",
+      "siteUrl": "https://military.china.com"
+    },
+    {
       "id": "FL-340d5e981918",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
@@ -507,28 +531,16 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-683039e2ea89",
-      "date": "2026-10-12",
-      "dateISO": "Mon, 12 Oct 2026 15:24:51 GMT",
-      "ts": 1791818691000,
+      "id": "FL-c39833bbfc21",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 22:10:00 GMT",
+      "ts": 1790374200000,
       "scope": "intl",
       "type": "blast",
-      "title": "以色列北部发生疑似未爆弹药爆炸致1死19伤 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tNV9QbjhobWhhVjg2bmxYaGUzRTcydDhmUFp4THJPazVhemFJd25oVGFvN3NjUVlZZ1NpZWJOSmkxLW81VUd4YmtWOWZHb0RMM2hvOF9QODFVTHFsaWNhMFEzcnJMLWxJZGRnNGl4WmlqZnJWQ0piaWlCeXdFZw?oc=5",
-      "site": "新华网",
-      "siteUrl": "http://www.news.cn"
-    },
-    {
-      "id": "FL-c7da095ea4c0",
-      "date": "2026-10-12",
-      "dateISO": "Mon, 12 Oct 2026 14:58:34 GMT",
-      "ts": 1791817114000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "以黎边境遗留弹药爆炸已致1死19伤 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5MTFpVC1keFhjZU1od0ZxUEhteE1qT3BfTk91X1ZsQWthV3VHVWQ3RFgzMW41aWtiaVFMN0g0TUh4cEdyUG8wRldETjJYUUdzSXUzVEtJdXRoRzdFbEJza0JKTU04MVZM?oc=5",
-      "site": "央广网",
-      "siteUrl": "https://news.cnr.cn"
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 环球网",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5naEpaTmt5bmlhUXlZdndRR2F3XzN6Z2d5aWcwdU4zRnpJWXBJX3VpVWxzRDBzQUFVRXZ4TW1lOTJQUEhCQ3NDNDFEN2FpVTRuYTh3?oc=5",
+      "site": "环球网",
+      "siteUrl": "https://m.huanqiu.com"
     }
   ]
 }
