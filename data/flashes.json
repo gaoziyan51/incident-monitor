@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T03:10:25.062Z",
+  "updated": "2026-10-15T03:44:35.753Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -73,18 +73,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zbUR5SF9idFA1cUNXS0FwS3FOYXdGZks5YWlmVk9IWFYzUTh0akJ6U2ZFN3NkOUJLY1JlVnFyanE2V3gwUElXd1NhT1hQdlgxV2JCZEYzN1hWQnBHOXl6ODNB?oc=5",
       "site": "证券之星",
       "siteUrl": "https://stock.stockstar.com"
-    },
-    {
-      "id": "FL-7de26aab30f3",
-      "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 15:50:45 GMT",
-      "ts": 1791993045000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "英特尔在以色列工厂发生爆炸，至少2人受伤 - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONERiUm83SnVhR0JFOWIweUZxUDRablE2clIzb1F6UzAwcGhhSktkX0xIZFc3amZLUVJwNHF5UGliUWZvcW1IUVRjSDNtTEFSc0Rscmt3NGl6TW9aVmdoZFJzRUdkdkR3R3RmRFhJY1htcjU4MzVBcExTTjdxZTFPOElGc0tYR0MtY1RzMA?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-b4e935e62a2f",
@@ -219,16 +207,16 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-f8f8fde7927e",
+      "id": "FL-6109940705b3",
       "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 02:26:17 GMT",
-      "ts": 1791944777000,
-      "scope": "intl",
+      "dateISO": "Wed, 14 Oct 2026 04:15:00 GMT",
+      "ts": 1791951300000,
+      "scope": "dom",
       "type": "blast",
-      "title": "以色列北部边境地区发生爆炸 约20人受伤 - 中华网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2WW5Cbi1XYlBCWV9ZaWx2SWhyZG1VVEVocHVXbl9xNHNGVTB0LXNCZUxSU3pncWV3RHZDV0daZXhvZkVJa1VTeERaTGhobHBRZGRFd3FRVEhTV0lrMUpmWDFDTG11bTdiYllPRTdVUjk?oc=5",
-      "site": "中华网",
-      "siteUrl": "https://news.china.com"
+      "title": "我国第一颗原子弹爆炸成功62周年，华东师大校长马余刚带来“硬核”讲座 - ThePaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE43ZUhwYTdldGZYWG1HUktUV01LU0lrbXZpTHdfWThsSHBsa1ZtQ3RjcW1zLWdtdDE0M1VkbVUxVzBzV05mMzF2dXFtWm9lLWRVUGNwNWVrcGs5NU9iR1E?oc=5",
+      "site": "ThePaper.cn",
+      "siteUrl": "https://m.thepaper.cn"
     },
     {
       "id": "FL-105532850102",
@@ -279,6 +267,66 @@
       "siteUrl": "https://science.caixin.com"
     },
     {
+      "id": "FL-2a37eb95478b",
+      "date": "2026-10-15",
+      "dateISO": "Thu, 15 Oct 2026 03:40:44 GMT",
+      "ts": 1792035644000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "#其它# 英特尔在以色列工厂发生爆炸，至少2人受伤 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zZ2U3YS1LcFpURXZ2cE1Ib0dKRE4zTmV5elhGWHctWUxodWgxZkJFVkI0SGctOWozYU9CV2xhbmoycm42cmNjWFp2RnlfN1diZXVFVmQ5cGZQdUFTdzU2VVZNaVcyQUN5R1Nn?oc=5",
+      "site": "搜狐",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-2e679c048b83",
+      "date": "2026-10-15",
+      "dateISO": "Thu, 15 Oct 2026 03:28:44 GMT",
+      "ts": 1792034924000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "一充电站凌晨起火，两辆汽车烧毁严重，目击者称听到爆炸声响被惊醒 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGQS0xVnR5Y1hkd3pHNWpwbVdqNHJvbUxQdDY0bGhwOTcyMGthTWNqWFRHRGxsTFAtVUpoWFVDNVk2Vk1EbUgxSjMzcEdmMlQ1S2tnVmJWZjhLVk1WQTBlNG1WR0w2cWh5TlduMnVlYzU?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
+    },
+    {
+      "id": "FL-73c02b54b8d5",
+      "date": "2026-10-15",
+      "dateISO": "Thu, 15 Oct 2026 03:27:10 GMT",
+      "ts": 1792034830000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "电商时代的赶大集，凭什么依然燃爆人气？ - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU0NvQU5wQXdqNVdIQ282cElaNEI4WGF3NkMwMnRjZGY5dFQ3bWVNSnlEWnRRTjBmbXRvUEZwOG81dW5SR2dZVVZoUUhIRy1oTG9odjJFYUVFdWRGM0NOQjhQYkFpQ0ZGbmtCVnh6MXhEMmVEeWc4VmlwNm9xRzJObXlnc1E5QXktWFp2Wg?oc=5",
+      "site": "搜狐",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-4c559ac3fb1d",
+      "date": "2026-10-15",
+      "dateISO": "Thu, 15 Oct 2026 03:21:30 GMT",
+      "ts": 1792034490000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "科学家捕获最远快速射电暴 源头位于大爆炸后约三十亿年星系 - 西藏自治区科学技术厅",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xU2JjTkRHLWFVMFdvT21PS2VFdFlDRVRfYnZCZnBxcXhaYWVJWjQzQnNZQXZuR1J0NjNKdWRQcDlJRVRiYWRHWUJsYTRIOGlGTW55WWtSRFJhLUY3N2RLTGN2VWlWcnlvdEZwc25qUXlNZw?oc=5",
+      "site": "西藏自治区科学技术厅",
+      "siteUrl": "https://sti.xizang.gov.cn"
+    },
+    {
+      "id": "FL-64f4650f51e5",
+      "date": "2026-10-15",
+      "dateISO": "Thu, 15 Oct 2026 03:09:00 GMT",
+      "ts": 1792033740000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "德国政界人士要求彻查“北溪”爆炸案事件真相 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdWhhaXFmc3hldG5CazRqZEZ5eDNPN2dwbjJxdGFPel9lUTQ1azRLSFQxMmtBdDhUTjlBQ1JYaWVreWRVWkx3Y2VvRFlPNUlkQk04eXZrdEFpOEpTSWs1TEg3ZkM4X2ZXQ1NMbTBieDdXQm03Mm5VWnNocW1QSi11Q3ZpY19ydjk4dGNvcA?oc=5",
+      "site": "搜狐",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-f1c436b5809a",
       "date": "2026-10-15",
       "dateISO": "Thu, 15 Oct 2026 03:03:16 GMT",
@@ -291,16 +339,16 @@
       "siteUrl": "https://mil.gmw.cn"
     },
     {
-      "id": "FL-e8fa31b1e783",
+      "id": "FL-121f1e76fcae",
       "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 02:52:41 GMT",
-      "ts": 1792032761000,
+      "dateISO": "Thu, 15 Oct 2026 02:47:12 GMT",
+      "ts": 1792032432000,
       "scope": "dom",
       "type": "blast",
-      "title": "电商时代的赶大集，凭什么依然燃爆人气？ - 鲁网",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzbEwxcE1OTDJWazRJck5CSUo3Rjk5OHNIbGJ4eURhanJub0p1d3RSSkZqLXh3YlBtaVVBVHZIZ0M5czRMQ0d6czZDa1FvRldKbGlTNzgxZFh5NUxPeGN1M2hOTzlnTHdNcTVzWg?oc=5",
-      "site": "鲁网",
-      "siteUrl": "http://binzhou.sdnews.com.cn"
+      "title": "“北溪”爆炸案首次开庭，德乌关系与国际法难题同时浮现 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAyY0dPZVZlOThST1NGWVJDTDdBejlJRGVMc1A3M0p0TEdSdnlSX1dJTkpIck9kVG5ERmVULU1POVdXMWlfcEJpeHJac2U?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://news.ifeng.com"
     },
     {
       "id": "FL-268b0ada7e86",
