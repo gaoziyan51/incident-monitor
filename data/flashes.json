@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T21:03:52.042Z",
+  "updated": "2026-10-15T21:33:17.905Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -87,18 +87,6 @@
       "siteUrl": "https://www.jiemian.com"
     },
     {
-      "id": "FL-942a18a86e9f",
-      "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 13:08:30 GMT",
-      "ts": 1791983310000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "德外长：将把“北溪”爆炸案审判结果纳入政治考量 - 文学城",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HVkxwUk5fQjRMT2M4c3FjLXVhX2FEeUwzWGVpTVQ4M3NSc2lHT2Q1LXFyZ2M1VG9OS0RsOUlJN0gyM3l2VVJ1bElnV09RQ3Y0YXRuNFlTSWxneXM0UjFteERRYWdrUkdN?oc=5",
-      "site": "文学城",
-      "siteUrl": "https://www.wenxuecity.com"
-    },
-    {
       "id": "FL-dd2ca93cf82d",
       "date": "2026-10-14",
       "dateISO": "Wed, 14 Oct 2026 12:10:56 GMT",
@@ -171,18 +159,6 @@
       "siteUrl": "http://www.xinhuanet.com"
     },
     {
-      "id": "FL-d646025b1946",
-      "date": "2026-10-07",
-      "dateISO": "Wed, 07 Oct 2026 22:38:00 GMT",
-      "ts": 1791412680000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "湖南临澧“6·16”烟花爆炸事故调查报告公布 - 封面新闻",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91enlpNldsRnhkeFAxV3pqa24ta2lidWptTFhfQjFsM0ZRR0F2Z1NOUXdsR2pkSHpqOHMxVGphZGpUbnhVYXNyajlMazNlanNGUmpkQW1XOXlNazk1bVdVeV9sZi1nZjZhd01jamkzNTI2dWdrTzI1TElR?oc=5",
-      "site": "封面新闻",
-      "siteUrl": "https://m.thecover.cn"
-    },
-    {
       "id": "FL-622b0601ec92",
       "date": "2026-10-13",
       "dateISO": "Tue, 13 Oct 2026 21:15:05 GMT",
@@ -193,6 +169,18 @@
       "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQdzk2WjhjWW9BUVdQSHN2QzlKOHVOQVlkWGpoU3ZMY3NNUW9fZnBPdmhsRGQwb0ZIQ2VVMDRkMmg3LW50NUh2VzZOZlJpX3NvV1ppMTM0bjBkQmJXMEtiVE9IZVZ4MUFzbGVfN1loUUlwdlA5UVVfQVRVX0NOeTdDZHEyZ20tbkx0NnpkQk80YWNqSFR5M1lQNHVBMjFFbkREd25JVUp1TnQxOWtVaXNON2NSTl9qdjFVLUtLZGpkQTVSaWhPS2htZUNGWG9KZU5Vb0Q0Zmg2ZGs1Y2lWSGpadE9PeTZDdmFORWFsU3Q1MkpBaUdlaWpEbVp2bXRKMVhKa0pWS1R1Y3Vsc0dVcHE0SnFhS21GaHZjMVI0eGE0dEQzX2k2SlgzVEJTd2JVdUZVMFVORXdCX2F1WG92cHBubmt0SGZmNjlDRk5uX2dWYnotRlAxTWJJNEVBV2FyOVE1WXJaeE0zSVNZV2hCT1pjRzV4VDI1cHJ4M2l5a0pRM1FYRmRzMExEX1hwTkhhU3U0LVc0WmVkV2t0QQ?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr"
+    },
+    {
+      "id": "FL-385dd58b908a",
+      "date": "2026-08-11",
+      "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
+      "ts": 1786431600000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - 财新",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQcmdXTjEtaEEwQXAyc0dzZ29xdEtVZ3VnTzNSdEdIODhUbTkwVE1WYUJKZGlFN0N1TkdlQTNEZDA1SkNEejNqVS15STYwTURwckdUM0REQUMyTHdNQk5oSjlR?oc=5",
+      "site": "财新",
+      "siteUrl": "https://science.caixin.com"
     },
     {
       "id": "FL-268f06752aaa",
@@ -267,18 +255,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-8ec146364869",
-      "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 05:14:05 GMT",
-      "ts": 1792041245000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "北溪爆炸案德国开审 被告律师称北溪管道或为“合法打击目标” - 茉莉花新闻网",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9yQkFtUl9SaUlQZzRONWtnZnNaVzc0eXZxSHk2OWU1cHQzdG4xMXNCNU5TYktLSTFpS2JDNmwtM0c4ZGVVVmc?oc=5",
-      "site": "茉莉花新闻网",
-      "siteUrl": "https://molihua.org"
-    },
-    {
       "id": "FL-6f983d6cf834",
       "date": "2026-10-15",
       "dateISO": "Thu, 15 Oct 2026 04:21:11 GMT",
@@ -301,18 +277,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQTFNdUdkQkFoQ0ZEcDBneW94VjdzVENoXzBsd25sSjV4WHY3VDJRNXNtazhUVENPeU1KSXlodHM1YW40M19IVjA4UWlXTEZmbWYxbFh6OV9Fb1lXZm1IYVBpX2huUVZ2TkZyVFlrRjl6UGlYY1lYQ0ZJTThmZkxqakNrNjZXQmV2bHc?oc=5",
       "site": "旅日侨网",
       "siteUrl": "https://www.jpchinapress.com"
-    },
-    {
-      "id": "FL-c0e007c1b3b1",
-      "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 03:41:00 GMT",
-      "ts": 1792035660000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "西大槍械爆炸物案 華女被告全部控罪撤銷 - 大紀元",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5GVkdpV1FIZGpvM3ptZVQ4TlhfSm1RMGRpNWo4UUpNX2xrQ0RPaFh0TG9nUmg2b01YX3AzeGpOVkM0WGQwcjNQenlZTXJxWURSQzBQaE4tMFlMcWtvQjR2d0Zn0gFnQVVfeXFMT0RtMlp1dTA1UlNiNDJvazJvb2tVdC1ySTFmZlFFaGQ4V3FzWkd1OUJITklLalVPZGVFWjU4cHQ3azVyVFFXRldaXy1qWDhEZ2VxTjBqandlNWctei1fSUJKSXo1b0JEbw?oc=5",
-      "site": "大紀元",
-      "siteUrl": "https://www.epochtimes.com"
     },
     {
       "id": "FL-2e679c048b83",
@@ -435,28 +399,16 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-65a837ede06b",
-      "date": "2026-10-04",
-      "dateISO": "Sun, 04 Oct 2026 07:00:00 GMT",
-      "ts": 1791097200000,
+      "id": "FL-0615dd398028",
+      "date": "2026-08-02",
+      "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
+      "ts": 1785654000000,
       "scope": "intl",
       "type": "blast",
-      "title": "乌首都基辅响起强烈爆炸声 一桥梁再次遭袭 - 央视网",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50ajJWMmw0dWRvT2JnSW01VnhEZDZ3WUVydFZlSjBabUVPMW16aHRaeTRiUDgwZzg4blo3bWVtOHJQaVNqYkxtb1hCdEtyQkJXOTFqeTJNWWtHbU1oZlZtdHFwZFVlRjM3clAyWFpralZNWkNIT3VyOQ?oc=5",
-      "site": "央视网",
-      "siteUrl": "https://news.cctv.com"
-    },
-    {
-      "id": "FL-08d5beb77eeb",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
-      "ts": 1790406000000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 新华网客户端",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaEUzM21qMG8zSnRRcy1iYjkwOUxBeWEyRnVHaVNZcmhIZ0FwS0lUYWhndmd0WHp1ZHpxVTZSYUlMLUVGVWxseUcwOEprSHA4MExzeFFxVFV3OVlacVc3dTVvMi1VUUVsVXlTb3I1bWlUS3dDUlBzcEs4allydkhIdFU3ckVMZjJPVXQ0ZWJQWkFWNEpITlhnTlR3?oc=5",
-      "site": "新华网客户端",
-      "siteUrl": "https://app.xinhuanet.com"
+      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-5e735aebc1c3",
@@ -471,16 +423,16 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-5fe607353490",
-      "date": "2026-10-10",
-      "dateISO": "Sat, 10 Oct 2026 19:54:00 GMT",
-      "ts": 1791662040000,
+      "id": "FL-160d55aeb47e",
+      "date": "2026-06-22",
+      "dateISO": "Mon, 22 Jun 2026 07:00:00 GMT",
+      "ts": 1782111600000,
       "scope": "intl",
       "type": "blast",
-      "title": "中国旅客亲历利雅得机场航站楼遇袭：“爆炸点距我不到五百米” 使馆：尚无中国公民伤亡报告 - 封面新闻",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5oVkNkdnB5OGRJVVlaWjlLWk5lOUZCd2JXZWtzOTBfcG01OTA5M2M2UmVjYkJEQmQzNnR1NEdXd1B0bEVvRDJvVHZrT2NJUVhReVFXRWtlWHBRM3VGVTMxMjJNYm9rbWtHbXRkZ2ZiSUlhNTZIejk0TjFB?oc=5",
-      "site": "封面新闻",
-      "siteUrl": "https://m.thecover.cn"
+      "title": "卡塔尔工厂爆炸已致13人死亡 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mR2pTX0YxWjBwQ2lLNC1XZjFhd3IwVEYtWkZFR3ZBU3B5RTFHR1BldmQ3OEkxN2NaWTMzYUkwWENDeEliY3dVNEloOExFS1B6SlZQTENHdWVmTWpUM042M2hRcmo4QS1qdl85cXlhZHJ3R3JGTEU4?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-3ebd1fca1fd7",
@@ -493,6 +445,18 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZUG1NNGpKanlkSGMwYUx4aWdiZ0VzZEpjUGoySXdxU2p3Xy1FRzd2SkpUa1lBUXd3dnJtZXY1a3BpUnZBZVhxeHBobi1GaXhCSTNsamFRR3B0TEoyTk5janJKcG9yVkMtMHJDZkVHTWEzdS1lWC0yMg?oc=5",
       "site": "央视网",
       "siteUrl": "https://news.cctv.com"
+    },
+    {
+      "id": "FL-b042a088a326",
+      "date": "2026-08-03",
+      "dateISO": "Mon, 03 Aug 2026 07:00:00 GMT",
+      "ts": 1785740400000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "巴基斯坦西北部发生爆炸致14人死亡 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-c39833bbfc21",
