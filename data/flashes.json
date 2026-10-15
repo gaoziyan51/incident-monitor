@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T23:06:15.056Z",
+  "updated": "2026-10-15T23:27:21.104Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -159,6 +159,18 @@
       "siteUrl": "http://www.xinhuanet.com"
     },
     {
+      "id": "FL-d646025b1946",
+      "date": "2026-10-07",
+      "dateISO": "Wed, 07 Oct 2026 22:38:00 GMT",
+      "ts": 1791412680000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "湖南临澧“6·16”烟花爆炸事故调查报告公布 - 封面新闻",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91enlpNldsRnhkeFAxV3pqa24ta2lidWptTFhfQjFsM0ZRR0F2Z1NOUXdsR2pkSHpqOHMxVGphZGpUbnhVYXNyajlMazNlanNGUmpkQW1XOXlNazk1bVdVeV9sZi1nZjZhd01jamkzNTI2dWdrTzI1TElR?oc=5",
+      "site": "封面新闻",
+      "siteUrl": "https://m.thecover.cn"
+    },
+    {
       "id": "FL-622b0601ec92",
       "date": "2026-10-13",
       "dateISO": "Tue, 13 Oct 2026 21:15:05 GMT",
@@ -183,16 +195,16 @@
       "siteUrl": "https://science.caixin.com"
     },
     {
-      "id": "FL-526ce4a76d2a",
+      "id": "FL-6c0530d0ae0e",
       "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 22:30:48 GMT",
-      "ts": 1792103448000,
+      "dateISO": "Thu, 15 Oct 2026 21:55:00 GMT",
+      "ts": 1792101300000,
       "scope": "dom",
       "type": "blast",
-      "title": "东方巨响！62年前，这条“爆炸”新闻震惊世界 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nOWZrSFFnOFZKN3p0WWZjamNvMG1IR2lVTWcyZzJZOWJxSzhhMkVlVV92XzFfMTd3RkhXakc3TXR3OEV3QTVyc3NvSmFpdVlvVGNibVNzSTFOU1FBY2c?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://news.bjd.com.cn"
+      "title": "东方巨响！62年前，这条“爆炸”新闻震惊世界 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ITkdYUzdQeGE3MVBBUktvVFFjU210ZUhZLUhyY2t0MlI4U3NRTGlEVjAtZ1JBX1N1N0cxRnFkd2hKdWJPX29GNVZ2cFI?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://news.ifeng.com"
     },
     {
       "id": "FL-268f06752aaa",
@@ -301,18 +313,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQTFNdUdkQkFoQ0ZEcDBneW94VjdzVENoXzBsd25sSjV4WHY3VDJRNXNtazhUVENPeU1KSXlodHM1YW40M19IVjA4UWlXTEZmbWYxbFh6OV9Fb1lXZm1IYVBpX2huUVZ2TkZyVFlrRjl6UGlYY1lYQ0ZJTThmZkxqakNrNjZXQmV2bHc?oc=5",
       "site": "旅日侨网",
       "siteUrl": "https://www.jpchinapress.com"
-    },
-    {
-      "id": "FL-c0e007c1b3b1",
-      "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 03:41:00 GMT",
-      "ts": 1792035660000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "西大槍械爆炸物案 華女被告全部控罪撤銷 - 大紀元",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5GVkdpV1FIZGpvM3ptZVQ4TlhfSm1RMGRpNWo4UUpNX2xrQ0RPaFh0TG9nUmg2b01YX3AzeGpOVkM0WGQwcjNQenlZTXJxWURSQzBQaE4tMFlMcWtvQjR2d0Zn0gFnQVVfeXFMT0RtMlp1dTA1UlNiNDJvazJvb2tVdC1ySTFmZlFFaGQ4V3FzWkd1OUJITklLalVPZGVFWjU4cHQ3azVyVFFXRldaXy1qWDhEZ2VxTjBqandlNWctei1fSUJKSXo1b0JEbw?oc=5",
-      "site": "大紀元",
-      "siteUrl": "https://www.epochtimes.com"
     },
     {
       "id": "FL-2e679c048b83",
