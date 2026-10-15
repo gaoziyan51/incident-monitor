@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T14:02:39.748Z",
+  "updated": "2026-10-15T14:36:11.825Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -51,28 +51,16 @@
       "siteUrl": "https://stock.stockstar.com"
     },
     {
-      "id": "FL-b4e935e62a2f",
+      "id": "FL-50a5657f21ea",
       "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 15:40:01 GMT",
-      "ts": 1791992401000,
+      "dateISO": "Wed, 14 Oct 2026 14:15:52 GMT",
+      "ts": 1791987352000,
       "scope": "intl",
       "type": "blast",
-      "title": "英特尔在以色列工厂发生爆炸致3人受伤 - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNGFBOWIzMERXb20yT1N6UWRnNHpBY0VGRGZRZ0V2NVlyWGtvemdhaThWTGJ1VXRuT3diWTVSbklkcDMyaGJ2UDBuUjh1QldLQjcyXy1nc1FPaUdEUzJKd2ZZUmw3elFSV0VwdjFPLVpvT2tIY0VFMS1rRFNOekk0N2JoTHQ4NGlr?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-d933960c920a",
-      "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 14:07:55 GMT",
-      "ts": 1791986875000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "英特尔在以色列工厂发生爆炸致3人受伤 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RRjNMQ3NsdVI0QVdZVFc5YUJMOFdRMzJvMUVGREloTTh2QkRoOGl2UkVvSTY1SFczbnFXOGRYV0ZtMXByOHVBUk5COVQyeWZ6dlhJdHZ6eDFEVlcyZ1RHX25iT3I?oc=5",
-      "site": "东方财富",
-      "siteUrl": "http://finance.eastmoney.com"
+      "title": "英特尔在以色列工厂发生爆炸致3人受伤 - 新华网客户端",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWUNhVEREb0liYWExSTM2U3VUdmZGRnVGMG1ZU09EeUFwdVIyVjhuRWdIZzVMRWlUZUJoZXpNSVpEV2w0VHdxTDhSZkFDYlZHOVY3X25yOGJ6aVJHUGtxN0hGb0NOSF80MXloaEluaGhuaFVPSC12d1lfaWt4dFNYVm1lN25nVzBjZHpGTERKRGpjSlVlZEFUanVR?oc=5",
+      "site": "新华网客户端",
+      "siteUrl": "https://app.xinhuanet.com"
     },
     {
       "id": "FL-0ce3fac6873c",
@@ -97,6 +85,18 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYdmRwNHdvTnpSZGpfUW5kUkxjRktDU1FWZGlBenVZY0lCRG1mMmtheUdCWHlKM1VWU2J2NUpuMGp0LWE4ZnJ3Qjg2UEF0ZUZVUEl1ai1NM2N5TTBmVUM4?oc=5",
       "site": "新湖南",
       "siteUrl": "https://m.voc.com.cn"
+    },
+    {
+      "id": "FL-d933960c920a",
+      "date": "2026-10-14",
+      "dateISO": "Wed, 14 Oct 2026 09:28:55 GMT",
+      "ts": 1791970135000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "英特尔在以色列工厂发生爆炸致3人受伤 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YNmF1N0JFZnpUdUlHUjhPQzdiNU5GRV9fQlF6emktTEJRaGktZEhobnYyLTZHWTAzME1PYU5HN3JtRWRtX0lqa0ZuR2xaTHZMZ0VuQ3pNSTNVcGZBRklBT19GTXJ3UQ?oc=5",
+      "site": "东方财富",
+      "siteUrl": "https://finance.eastmoney.com"
     },
     {
       "id": "FL-2200270747cc",
@@ -183,16 +183,16 @@
       "siteUrl": "https://www.wgal.com"
     },
     {
-      "id": "FL-1a3225d1f5f6",
+      "id": "FL-c31a9e4a06b0",
       "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 10:36:23 GMT",
-      "ts": 1792060583000,
+      "dateISO": "Thu, 15 Oct 2026 10:13:51 GMT",
+      "ts": 1792059231000,
       "scope": "intl",
       "type": "blast",
-      "title": "'Cambrian Explosion': Freshfields Partners Discuss Spinning Out AI Business, Market Reacts - Law.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQd0hNSXdSOFg5Nm5TWGlYN2RmVm9TbWlad2VNTFRNbTl4RzhPS0JpazYtbWFqT3lJZ2RoUGRKOURDUjIyVTVWX3dRNHhLWllpLTZwbW9VLUlHR0ZzYVl2NGs4aklMRERpMHZOdjgyTEdycG9uWl9MRDM2ZU5kTmM4STByTkpHTmEyblFmanVUak9VOG9XbFVUNERfeEtZcFZJTnJJaEhJQVJjUDhDZHh3MHRmb3M3Q1RPakx0MHlJcE84bUJ6NEJXbnVPNXIzczAyUkNQaC1udw?oc=5",
-      "site": "Law.com",
-      "siteUrl": "https://www.law.com"
+      "title": "德外长：将把“北溪”爆炸案审判结果纳入政治考量|乌克兰总统|保加利亚|德国|富尔|乌克兰 - finance.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuYlBHZy1DREZsa2E3SWVoWVdUY1RzVzBLMlJBMFR2ek5LSkVsVTRtdnRkM0VENk1IcXUyTTRkN19saWFmcEVVeUgxNS1FM1NXY1dod21GX1dhWjJiMUFVU05uRmw2TXozQWZFRUhETmJoSGxtM2lvLQ?oc=5",
+      "site": "finance.sina.com.cn",
+      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-5b6b0223b0fc",
@@ -457,6 +457,18 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5oVkNkdnB5OGRJVVlaWjlLWk5lOUZCd2JXZWtzOTBfcG01OTA5M2M2UmVjYkJEQmQzNnR1NEdXd1B0bEVvRDJvVHZrT2NJUVhReVFXRWtlWHBRM3VGVTMxMjJNYm9rbWtHbXRkZ2ZiSUlhNTZIejk0TjFB?oc=5",
       "site": "封面新闻",
       "siteUrl": "https://m.thecover.cn"
+    },
+    {
+      "id": "FL-db89ce9321bb",
+      "date": "2026-10-10",
+      "dateISO": "Sat, 10 Oct 2026 17:44:13 GMT",
+      "ts": 1791654253000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "现场直击｜沙特首都国际机场传出爆炸声 已无航班起降 - 新华网客户端",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT0NvdzFyLWpxOTZrdGFSV0RwTHlkQzFaSkRKbXN3UmZiLUdQUVIxRm02Q0pZS1dReEt4Zmp6UDRhN0phNDFvMXJmeEltNkdoNlViZ01acEFQQ1lmMEpVSGszSlJpODJYMEdwU1ZPZVIzOVpab0FhMmZsZ0RBamJFRElwbVAwaUc5bDh3VWN0TDVMNlJ5SkV5ZnpB?oc=5",
+      "site": "新华网客户端",
+      "siteUrl": "https://app.xinhuanet.com"
     },
     {
       "id": "FL-3ebd1fca1fd7",
