@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T09:36:00.561Z",
+  "updated": "2026-10-15T10:06:10.566Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -37,18 +37,6 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9reHpSTFF0eVRDSTNHRzRwdFVKUnNqa3hlZVlxRnRrSTFvczlTVTh1QVUzemUwbEhDakdQaE5mUFJpZXFEQkw4bjFJWU1xMThXZFR3R2dQSUQ3QXdIdTI0OVNHMA?oc=5",
       "site": "东方财富",
       "siteUrl": "https://emwap.eastmoney.com"
-    },
-    {
-      "id": "FL-7d8c45ca5bdc",
-      "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 17:45:00 GMT",
-      "ts": 1791999900000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "科学家捕获最远快速射电暴，源头位于大爆炸后约三十亿年星系 - 中国科技网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kSWJwQ1U0U1F1RG9jZlIyVWhrZW1RUF93VjZETkc4bVVsZEplV2U1M1JPR3FFNGNlWTZaVWJQNDItOE9sOGg4WHV4blFITWVzZnNwemxiLUVGTEQwM3JmSXpUbF92d1lxYlI2TjdxZ0E?oc=5",
-      "site": "中国科技网",
-      "siteUrl": "https://www.stdaily.com"
     },
     {
       "id": "FL-0c8e05861d7e",
@@ -111,16 +99,16 @@
       "siteUrl": "https://m.voc.com.cn"
     },
     {
-      "id": "FL-90743c9ffd22",
+      "id": "FL-2200270747cc",
       "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 11:38:50 GMT",
-      "ts": 1791977930000,
-      "scope": "dom",
+      "dateISO": "Wed, 14 Oct 2026 09:15:00 GMT",
+      "ts": 1791969300000,
+      "scope": "intl",
       "type": "blast",
-      "title": "包钢股份因\"1·18\"容器爆炸事故被罚200万元 净利润减少200万元 - 观点网",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQU2VfVjd2ZURWZkNwRzY0VXZFdGZWeF9mcWtTVU9oMGFZeUdIVDNSX25zR3kzLXR1dWpIc1E2OEhhUkRJQUVwdFdtY3Q1QWpna3F4eFN3NEtYWlA4SUpldVFB?oc=5",
-      "site": "观点网",
-      "siteUrl": "https://www.guandian.cn"
+      "title": "“北溪”管道爆炸案在德国开庭 一乌克兰籍嫌疑人出庭 - 紫牛新闻",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XRFlVU0c3UGtIODhUaVZzRW40VDFLeEszdE8zRndrbXloWmJOb0ppeXZ1RzlPUUJwRmtRdHBXbTN4bF92am1VbHBULWFrMzFiR0xHZTYtQUV1TGE0b0ZKdFA1MjJ3VXE5SXc?oc=5",
+      "site": "紫牛新闻",
+      "siteUrl": "https://www.yzwb.net"
     },
     {
       "id": "FL-18c3fa62bba8",
@@ -147,18 +135,6 @@
       "siteUrl": "http://www.xinhuanet.com"
     },
     {
-      "id": "FL-0a202d851e8e",
-      "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 09:08:30 GMT",
-      "ts": 1791968910000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "“北溪”管道爆炸案在德国开庭，一乌克兰籍嫌疑人出庭 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBqR2k4MmVLYWZNcjNkZWs2VVRCdzB4c0JLZ3dhY2E2Z3AwTTJsUUdKbEZfZ1k3XzNjcFdxWUJjdm1ZblpycUVRU1RjRWI?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://news.ifeng.com"
-    },
-    {
       "id": "FL-622b0601ec92",
       "date": "2026-10-13",
       "dateISO": "Tue, 13 Oct 2026 21:15:05 GMT",
@@ -181,6 +157,18 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQcmdXTjEtaEEwQXAyc0dzZ29xdEtVZ3VnTzNSdEdIODhUbTkwVE1WYUJKZGlFN0N1TkdlQTNEZDA1SkNEejNqVS15STYwTURwckdUM0REQUMyTHdNQk5oSjlR?oc=5",
       "site": "财新",
       "siteUrl": "https://science.caixin.com"
+    },
+    {
+      "id": "FL-5584fe501956",
+      "date": "2026-10-15",
+      "dateISO": "Thu, 15 Oct 2026 09:13:00 GMT",
+      "ts": 1792055580000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "科学家捕获最远快速射电暴源头位于大爆炸后约三十亿年星系- 科学探索 - cnBeta.COM",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TUDE3Yy1WNFlXb21ZV2RweGV6ZnY4YXo0WE5QOUNJUjRENEhXa25Hc1ZDNWNuclJSbEhMNEZBMDdUbkx4Zkdhc1Rsc1J3VXFCcHd2cktUcTlfYm1uVWMwbWVFaVE?oc=5",
+      "site": "cnBeta.COM",
+      "siteUrl": "https://www.cnbeta.com.tw"
     },
     {
       "id": "FL-9e7616c0a4c0",
@@ -327,18 +315,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-458205eeaa04",
-      "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 03:24:00 GMT",
-      "ts": 1792034640000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "北溪爆炸新爆料：中情局提前知道乌方计划并提供了支持 - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTUFLRFNIZ0h2eEg1TnNKck5QSG9GdGQ2MVpoZjJUdWxUcG1ydG42d20tTlI0MWw1TzF0Rzd6WjBVQUxXY0lJY1pWWHo0NktyN1hLT1d4eTYtcFh1UmhscWNkaTBGYV9kY05EMWh4dnBCQXpxUVRYZExVdTd6TTlfTURlbWFWVTZT?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-121f1e76fcae",
       "date": "2026-10-15",
       "dateISO": "Thu, 15 Oct 2026 02:47:12 GMT",
@@ -421,18 +397,6 @@
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5pRG9LamowamdCY0V5UENGaU01VmM2NVZpUHN1czFPNWFDNGFtbmN2Z1N6MnZSWkYwek44cjU0M05PcUgxVEFuVQ?oc=5",
       "site": "智源社区",
       "siteUrl": "https://hub.baai.ac.cn"
-    },
-    {
-      "id": "FL-0cae03ead3ea",
-      "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 01:05:00 GMT",
-      "ts": 1792026300000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "[朝闻天下]“北溪”天然气管道爆炸案开庭 德国政界人士要求彻查事件真相 - CCTV",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkQjB5YWJmR3Zfa3piZG16eUQ1cE51Smp3YWNrRFBnVENrVHpTQUloektfbnFnQU1JUVVTTVd6ZnF4S0RHRkVVYzJCQmM1VTdqT1FaLWtCVVktaFhLT2RMM2dFelFYZktsVUJLNDNYS1A3S21EbXc?oc=5",
-      "site": "CCTV",
-      "siteUrl": "https://tv.cctv.com"
     },
     {
       "id": "FL-b82797b80779",
