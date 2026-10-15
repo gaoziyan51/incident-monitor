@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T20:08:01.497Z",
+  "updated": "2026-10-15T20:33:13.548Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -87,18 +87,6 @@
       "siteUrl": "https://www.jiemian.com"
     },
     {
-      "id": "FL-942a18a86e9f",
-      "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 13:08:30 GMT",
-      "ts": 1791983310000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "德外长：将把“北溪”爆炸案审判结果纳入政治考量 - 文学城",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HVkxwUk5fQjRMT2M4c3FjLXVhX2FEeUwzWGVpTVQ4M3NSc2lHT2Q1LXFyZ2M1VG9OS0RsOUlJN0gyM3l2VVJ1bElnV09RQ3Y0YXRuNFlTSWxneXM0UjFteERRYWdrUkdN?oc=5",
-      "site": "文学城",
-      "siteUrl": "https://www.wenxuecity.com"
-    },
-    {
       "id": "FL-dd2ca93cf82d",
       "date": "2026-10-14",
       "dateISO": "Wed, 14 Oct 2026 12:10:56 GMT",
@@ -109,6 +97,18 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYdmRwNHdvTnpSZGpfUW5kUkxjRktDU1FWZGlBenVZY0lCRG1mMmtheUdCWHlKM1VWU2J2NUpuMGp0LWE4ZnJ3Qjg2UEF0ZUZVUEl1ai1NM2N5TTBmVUM4?oc=5",
       "site": "新湖南",
       "siteUrl": "https://m.voc.com.cn"
+    },
+    {
+      "id": "FL-4a6970d8df42",
+      "date": "2026-10-14",
+      "dateISO": "Wed, 14 Oct 2026 10:10:20 GMT",
+      "ts": 1791972620000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "涉北溪管道爆炸案 乌克兰前军官在德国受审 - 联合早报",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nVF85Y2J6Q2lkT3BzMmdrNkJrQk1MWkN0MzJOSHpoVnM3dGZNc1JxdHJjaHMxX2ZTVXBJUVZBcnNPSkJDeVUxU2ZaMmlFNzJnUEYxUXRMWlNqZmh6NE9lYjZ5c0VJR1BkNmc?oc=5",
+      "site": "联合早报",
+      "siteUrl": "https://www.zaobao.com.sg"
     },
     {
       "id": "FL-d933960c920a",
@@ -193,6 +193,18 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQcmdXTjEtaEEwQXAyc0dzZ29xdEtVZ3VnTzNSdEdIODhUbTkwVE1WYUJKZGlFN0N1TkdlQTNEZDA1SkNEejNqVS15STYwTURwckdUM0REQUMyTHdNQk5oSjlR?oc=5",
       "site": "财新",
       "siteUrl": "https://science.caixin.com"
+    },
+    {
+      "id": "FL-7acb18f70aac",
+      "date": "2026-10-15",
+      "dateISO": "Thu, 15 Oct 2026 20:31:16 GMT",
+      "ts": 1792096276000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "记者观察丨沙特首都再次遭袭 爆炸声一天多次响起 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yZE5ZYUZDcU44VTZJVW9kVGdhbUVyZWE5WGlqUFQzN1FBcEJ5elg1b3Vxcmc5Y1RXMVl0Qjl1ZE1pUDNqWFR4NUt3eTRSVThBNzdXY25qUWtENDNIZmxHOVRoVUQ5T2lTcDFnR3dEYkNxQQ?oc=5",
+      "site": "新浪网",
+      "siteUrl": "https://k.sina.com.cn"
     },
     {
       "id": "FL-268f06752aaa",
@@ -447,16 +459,16 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-160d55aeb47e",
-      "date": "2026-06-22",
-      "dateISO": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "ts": 1782111600000,
+      "id": "FL-5fe607353490",
+      "date": "2026-10-10",
+      "dateISO": "Sat, 10 Oct 2026 19:54:00 GMT",
+      "ts": 1791662040000,
       "scope": "intl",
       "type": "blast",
-      "title": "卡塔尔工厂爆炸已致13人死亡 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mR2pTX0YxWjBwQ2lLNC1XZjFhd3IwVEYtWkZFR3ZBU3B5RTFHR1BldmQ3OEkxN2NaWTMzYUkwWENDeEliY3dVNEloOExFS1B6SlZQTENHdWVmTWpUM042M2hRcmo4QS1qdl85cXlhZHJ3R3JGTEU4?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
+      "title": "中国旅客亲历利雅得机场航站楼遇袭：“爆炸点距我不到五百米” 使馆：尚无中国公民伤亡报告 - 封面新闻",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5oVkNkdnB5OGRJVVlaWjlLWk5lOUZCd2JXZWtzOTBfcG01OTA5M2M2UmVjYkJEQmQzNnR1NEdXd1B0bEVvRDJvVHZrT2NJUVhReVFXRWtlWHBRM3VGVTMxMjJNYm9rbWtHbXRkZ2ZiSUlhNTZIejk0TjFB?oc=5",
+      "site": "封面新闻",
+      "siteUrl": "https://m.thecover.cn"
     },
     {
       "id": "FL-3ebd1fca1fd7",
@@ -469,18 +481,6 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZUG1NNGpKanlkSGMwYUx4aWdiZ0VzZEpjUGoySXdxU2p3Xy1FRzd2SkpUa1lBUXd3dnJtZXY1a3BpUnZBZVhxeHBobi1GaXhCSTNsamFRR3B0TEoyTk5janJKcG9yVkMtMHJDZkVHTWEzdS1lWC0yMg?oc=5",
       "site": "央视网",
       "siteUrl": "https://news.cctv.com"
-    },
-    {
-      "id": "FL-b042a088a326",
-      "date": "2026-08-03",
-      "dateISO": "Mon, 03 Aug 2026 07:00:00 GMT",
-      "ts": 1785740400000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "巴基斯坦西北部发生爆炸致14人死亡 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-c39833bbfc21",
