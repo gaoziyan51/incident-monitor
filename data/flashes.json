@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T22:21:20.268Z",
+  "updated": "2026-10-15T22:50:01.441Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -87,6 +87,18 @@
       "siteUrl": "https://www.jiemian.com"
     },
     {
+      "id": "FL-942a18a86e9f",
+      "date": "2026-10-14",
+      "dateISO": "Wed, 14 Oct 2026 13:08:30 GMT",
+      "ts": 1791983310000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "德外长：将把“北溪”爆炸案审判结果纳入政治考量 - 文学城",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HVkxwUk5fQjRMT2M4c3FjLXVhX2FEeUwzWGVpTVQ4M3NSc2lHT2Q1LXFyZ2M1VG9OS0RsOUlJN0gyM3l2VVJ1bElnV09RQ3Y0YXRuNFlTSWxneXM0UjFteERRYWdrUkdN?oc=5",
+      "site": "文学城",
+      "siteUrl": "https://www.wenxuecity.com"
+    },
+    {
       "id": "FL-dd2ca93cf82d",
       "date": "2026-10-14",
       "dateISO": "Wed, 14 Oct 2026 12:10:56 GMT",
@@ -159,6 +171,18 @@
       "siteUrl": "http://www.xinhuanet.com"
     },
     {
+      "id": "FL-d646025b1946",
+      "date": "2026-10-07",
+      "dateISO": "Wed, 07 Oct 2026 22:38:00 GMT",
+      "ts": 1791412680000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "湖南临澧“6·16”烟花爆炸事故调查报告公布 - 封面新闻",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91enlpNldsRnhkeFAxV3pqa24ta2lidWptTFhfQjFsM0ZRR0F2Z1NOUXdsR2pkSHpqOHMxVGphZGpUbnhVYXNyajlMazNlanNGUmpkQW1XOXlNazk1bVdVeV9sZi1nZjZhd01jamkzNTI2dWdrTzI1TElR?oc=5",
+      "site": "封面新闻",
+      "siteUrl": "https://m.thecover.cn"
+    },
+    {
       "id": "FL-622b0601ec92",
       "date": "2026-10-13",
       "dateISO": "Tue, 13 Oct 2026 21:15:05 GMT",
@@ -181,6 +205,18 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQcmdXTjEtaEEwQXAyc0dzZ29xdEtVZ3VnTzNSdEdIODhUbTkwVE1WYUJKZGlFN0N1TkdlQTNEZDA1SkNEejNqVS15STYwTURwckdUM0REQUMyTHdNQk5oSjlR?oc=5",
       "site": "财新",
       "siteUrl": "https://science.caixin.com"
+    },
+    {
+      "id": "FL-526ce4a76d2a",
+      "date": "2026-10-15",
+      "dateISO": "Thu, 15 Oct 2026 22:30:48 GMT",
+      "ts": 1792103448000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "东方巨响！62年前，这条“爆炸”新闻震惊世界 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nOWZrSFFnOFZKN3p0WWZjamNvMG1IR2lVTWcyZzJZOWJxSzhhMkVlVV92XzFfMTd3RkhXakc3TXR3OEV3QTVyc3NvSmFpdVlvVGNibVNzSTFOU1FBY2c?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn"
     },
     {
       "id": "FL-268f06752aaa",
@@ -375,6 +411,18 @@
       "siteUrl": "https://hub.baai.ac.cn"
     },
     {
+      "id": "FL-e85b9b61b7c3",
+      "date": "2026-10-15",
+      "dateISO": "Thu, 15 Oct 2026 00:13:51 GMT",
+      "ts": 1792023231000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "“北溪”爆炸案开庭或影响德对乌政策 审判结果待定 - 中华军事",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42ZkdrcldpSHpnSmc2eENDeC1YU29URFRqM004cEowWjZIaDdqejd2UC1SaE5YUEpCMzZvVVZ6NlZJM3QzWlNFQ29ocWF1bTBhbkQyYTV1eVMtdTBENUxRM1dTNGtNUzFmZGhvTVFHTVY?oc=5",
+      "site": "中华军事",
+      "siteUrl": "https://military.china.com"
+    },
+    {
       "id": "FL-340d5e981918",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
@@ -397,18 +445,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-08d5beb77eeb",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
-      "ts": 1790406000000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 新华网客户端",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaEUzM21qMG8zSnRRcy1iYjkwOUxBeWEyRnVHaVNZcmhIZ0FwS0lUYWhndmd0WHp1ZHpxVTZSYUlMLUVGVWxseUcwOEprSHA4MExzeFFxVFV3OVlacVc3dTVvMi1VUUVsVXlTb3I1bWlUS3dDUlBzcEs4allydkhIdFU3ckVMZjJPVXQ0ZWJQWkFWNEpITlhnTlR3?oc=5",
-      "site": "新华网客户端",
-      "siteUrl": "https://app.xinhuanet.com"
     },
     {
       "id": "FL-5e735aebc1c3",
