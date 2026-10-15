@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-15T08:03:30.370Z",
+  "updated": "2026-10-15T08:35:33.797Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-b4e935e62a2f",
+      "date": "2026-10-14",
+      "dateISO": "Wed, 14 Oct 2026 23:56:51 GMT",
+      "ts": 1792022211000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "英特尔在以色列工厂发生爆炸致3人受伤 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ0t1OTRvb2QwMm1LaXJKdXpOeGNfRExvLW9ENkZNTjlsV1kzSFFsYlVhMlhrQTF5VVdJU1VxZ0xQcF9VRWNnNWhyeW1mXzVDOC1YakNaRm9RbXk5eTF0M1JmSTdxN2psVlNTZlh6c3gtc3FUNXRkc2xORlBZa3EzRmJKRHJWNm9RX05ZVA?oc=5",
+      "site": "搜狐",
+      "siteUrl": "https://m.sohu.com"
+    },
     {
       "id": "FL-0b328c0ba2d9",
       "date": "2026-10-14",
@@ -61,18 +73,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zbUR5SF9idFA1cUNXS0FwS3FOYXdGZks5YWlmVk9IWFYzUTh0akJ6U2ZFN3NkOUJLY1JlVnFyanE2V3gwUElXd1NhT1hQdlgxV2JCZEYzN1hWQnBHOXl6ODNB?oc=5",
       "site": "证券之星",
       "siteUrl": "https://stock.stockstar.com"
-    },
-    {
-      "id": "FL-b4e935e62a2f",
-      "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 15:40:01 GMT",
-      "ts": 1791992401000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "英特尔在以色列工厂发生爆炸致3人受伤 - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNGFBOWIzMERXb20yT1N6UWRnNHpBY0VGRGZRZ0V2NVlyWGtvemdhaThWTGJ1VXRuT3diWTVSbklkcDMyaGJ2UDBuUjh1QldLQjcyXy1nc1FPaUdEUzJKd2ZZUmw3elFSV0VwdjFPLVpvT2tIY0VFMS1rRFNOekk0N2JoTHQ4NGlr?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-d933960c920a",
@@ -183,18 +183,6 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-d646025b1946",
-      "date": "2026-10-07",
-      "dateISO": "Wed, 07 Oct 2026 22:38:00 GMT",
-      "ts": 1791412680000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "湖南临澧“6·16”烟花爆炸事故调查报告公布 - 封面新闻",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91enlpNldsRnhkeFAxV3pqa24ta2lidWptTFhfQjFsM0ZRR0F2Z1NOUXdsR2pkSHpqOHMxVGphZGpUbnhVYXNyajlMazNlanNGUmpkQW1XOXlNazk1bVdVeV9sZi1nZjZhd01jamkzNTI2dWdrTzI1TElR?oc=5",
-      "site": "封面新闻",
-      "siteUrl": "https://m.thecover.cn"
-    },
-    {
       "id": "FL-622b0601ec92",
       "date": "2026-10-13",
       "dateISO": "Tue, 13 Oct 2026 21:15:05 GMT",
@@ -217,6 +205,30 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQcmdXTjEtaEEwQXAyc0dzZ29xdEtVZ3VnTzNSdEdIODhUbTkwVE1WYUJKZGlFN0N1TkdlQTNEZDA1SkNEejNqVS15STYwTURwckdUM0REQUMyTHdNQk5oSjlR?oc=5",
       "site": "财新",
       "siteUrl": "https://science.caixin.com"
+    },
+    {
+      "id": "FL-84c359561f4f",
+      "date": "2026-10-15",
+      "dateISO": "Thu, 15 Oct 2026 08:15:00 GMT",
+      "ts": 1792052100000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "韩国一化工厂爆炸！ - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2NGYtdGt3X0J4VnlhTFcyNWRvSUZEb2IzSjk0endXZUhkdVk3VU54N3l2d09vNUJTS1hibl9Sbnh2RkdNT1VoelowUXdnOThialk1eFhNd3R0d18zMkNOWWtJY2VtbTFNeG9xbmN0UW1rbHd3azhOOWN3RWtJbmM?oc=5",
+      "site": "新浪网",
+      "siteUrl": "https://k.sina.com.cn"
+    },
+    {
+      "id": "FL-6ba267aed905",
+      "date": "2026-10-15",
+      "dateISO": "Thu, 15 Oct 2026 07:50:00 GMT",
+      "ts": 1792050600000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Two dead after explosion at Intel’s Kiryat Gat facility - CTech",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ucjY1eWZOdFEwTGVTeVplN2pkMnVJWWhMcUp3QnRfaUhNcU1zdXMwLWJ1NmQ4Wm82aU53emdTTXRfQkREakhDMHNyMi1ZWHhjQTdsWVc3NGlscnV4Vnp1bHRhTFA0WVE?oc=5",
+      "site": "CTech",
+      "siteUrl": "https://www.calcalistech.com"
     },
     {
       "id": "FL-7e68cdb69eb5",
@@ -423,6 +435,18 @@
       "siteUrl": "https://hub.baai.ac.cn"
     },
     {
+      "id": "FL-0cae03ead3ea",
+      "date": "2026-10-15",
+      "dateISO": "Thu, 15 Oct 2026 01:05:00 GMT",
+      "ts": 1792026300000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "[朝闻天下]“北溪”天然气管道爆炸案开庭 德国政界人士要求彻查事件真相 - CCTV",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkQjB5YWJmR3Zfa3piZG16eUQ1cE51Smp3YWNrRFBnVENrVHpTQUloektfbnFnQU1JUVVTTVd6ZnF4S0RHRkVVYzJCQmM1VTdqT1FaLWtCVVktaFhLT2RMM2dFelFYZktsVUJLNDNYS1A3S21EbXc?oc=5",
+      "site": "CCTV",
+      "siteUrl": "https://tv.cctv.com"
+    },
+    {
       "id": "FL-b82797b80779",
       "date": "2026-10-15",
       "dateISO": "Thu, 15 Oct 2026 00:53:42 GMT",
@@ -445,6 +469,18 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42ZkdrcldpSHpnSmc2eENDeC1YU29URFRqM004cEowWjZIaDdqejd2UC1SaE5YUEpCMzZvVVZ6NlZJM3QzWlNFQ29ocWF1bTBhbkQyYTV1eVMtdTBENUxRM1dTNGtNUzFmZGhvTVFHTVY?oc=5",
       "site": "中华军事",
       "siteUrl": "https://military.china.com"
+    },
+    {
+      "id": "FL-340d5e981918",
+      "date": "2026-08-23",
+      "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
+      "ts": 1787468400000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-0615dd398028",
