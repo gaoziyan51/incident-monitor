@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T15:08:10.440Z",
+  "updated": "2026-10-15T15:39:29.710Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -135,6 +135,18 @@
       "siteUrl": "http://www.xinhuanet.com"
     },
     {
+      "id": "FL-d646025b1946",
+      "date": "2026-10-07",
+      "dateISO": "Wed, 07 Oct 2026 22:38:00 GMT",
+      "ts": 1791412680000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "湖南临澧“6·16”烟花爆炸事故调查报告公布 - 封面新闻",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91enlpNldsRnhkeFAxV3pqa24ta2lidWptTFhfQjFsM0ZRR0F2Z1NOUXdsR2pkSHpqOHMxVGphZGpUbnhVYXNyajlMazNlanNGUmpkQW1XOXlNazk1bVdVeV9sZi1nZjZhd01jamkzNTI2dWdrTzI1TElR?oc=5",
+      "site": "封面新闻",
+      "siteUrl": "https://m.thecover.cn"
+    },
+    {
       "id": "FL-622b0601ec92",
       "date": "2026-10-13",
       "dateISO": "Tue, 13 Oct 2026 21:15:05 GMT",
@@ -159,6 +171,30 @@
       "siteUrl": "https://science.caixin.com"
     },
     {
+      "id": "FL-579408194356",
+      "date": "2026-10-15",
+      "dateISO": "Thu, 15 Oct 2026 15:37:26 GMT",
+      "ts": 1792078646000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "BREAKING: Lithium-ion battery sparks explosion that sets off massive scrapyard fire - KFDM",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc1FXU0hKR3Z2bE05ejItYmJWODRyXy1OYUJyNlFPSHZhRmoweFBncFl2SDFHN2NBSHFTNnlGVnlmMUhQdUlJajRsd3lGMGNkZG5RS3U0bnJsQWFVN3RyS3lycjJRM1VIek1iLTlqVTRzdThZaURfRTVrdEJYcS1sX2xmRkJGbEQ0bmp1bEJDTjdvWjd2Y002WEtVMklIZk4wVmEyRktZUQ?oc=5",
+      "site": "KFDM",
+      "siteUrl": "https://kfdm.com"
+    },
+    {
+      "id": "FL-091e3079c25c",
+      "date": "2026-10-15",
+      "dateISO": "Thu, 15 Oct 2026 15:05:29 GMT",
+      "ts": 1792076729000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "PG&E, Alameda County sued again over pipeline explosion that leveled home last year - Pleasanton Weekly",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUDY3UVNwQmJLdEg5TXVwSGZtaFFsNG9sWEpUSzEwaE0tUy1NSlZWV21TRjY2aTJKandZWUpzM01xLUw0NW5NRFF3Y2pFVnlkemE2Z191M21zV2ljaU1QS3hWUmxSRXA1dVcxMHNZMDFKTnhHd2VZaGFPRmppSW1GX2RYaHhmWTRTMWRLZUJPUzlmNUpUcnp3TkZicmZZWFY0S0ROZ211RTZraUpkdjhRTXhLenJ1cXZEdGxCZjgzYVR2WjhBZDI4UkdzeHF5QQ?oc=5",
+      "site": "Pleasanton Weekly",
+      "siteUrl": "https://www.pleasantonweekly.com"
+    },
+    {
       "id": "FL-268f06752aaa",
       "date": "2026-10-15",
       "dateISO": "Thu, 15 Oct 2026 13:16:30 GMT",
@@ -171,13 +207,13 @@
       "siteUrl": "https://www.dw.com"
     },
     {
-      "id": "FL-ca5d1e46e01b",
+      "id": "FL-70b7f7e7ccad",
       "date": "2026-10-15",
       "dateISO": "Thu, 15 Oct 2026 13:00:05 GMT",
       "ts": 1792069205000,
       "scope": "intl",
       "type": "blast",
-      "title": "WATCH: Explosions erupt as flames engulf auto carrier hauling multiple vehicles on the turnpike - WGAL",
+      "title": "WATCH: Explosions erupt as flames engulf auto carrier hauling multiple vehicles on Pennsylvania Turnpike - WGAL",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVmpDV0FmTFgzN3MxaDNXbTZvazVrbmZUTWk4OEpFMHBBSkJKTExtbURJRWczTnF3ZXJ0eEYzWGRFVmpLeGUxQlFERFEzSWoycEtFOUNpeldXQ1pOWDdvMVZ3YnJYY0tKOXBxWWV0S3ppUUVJLTNzOFhPbTdxRmVUSElsdVhadw?oc=5",
       "site": "WGAL",
       "siteUrl": "https://www.wgal.com"
