@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T20:33:13.548Z",
+  "updated": "2026-10-15T21:03:52.042Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -85,6 +85,18 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NQTdtY2VWcFlsWFlFUzQ2dDUtdjhMajVQN2MyMXNRTE9LeFdhNlYtMmM4UW1pTGNXUzZUN2hxRXI2Q2lfQTY0U3E2MUs3S2ZiM1FqVU9qOHk?oc=5",
       "site": "Jiemian.com",
       "siteUrl": "https://www.jiemian.com"
+    },
+    {
+      "id": "FL-942a18a86e9f",
+      "date": "2026-10-14",
+      "dateISO": "Wed, 14 Oct 2026 13:08:30 GMT",
+      "ts": 1791983310000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "德外长：将把“北溪”爆炸案审判结果纳入政治考量 - 文学城",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HVkxwUk5fQjRMT2M4c3FjLXVhX2FEeUwzWGVpTVQ4M3NSc2lHT2Q1LXFyZ2M1VG9OS0RsOUlJN0gyM3l2VVJ1bElnV09RQ3Y0YXRuNFlTSWxneXM0UjFteERRYWdrUkdN?oc=5",
+      "site": "文学城",
+      "siteUrl": "https://www.wenxuecity.com"
     },
     {
       "id": "FL-dd2ca93cf82d",
@@ -183,30 +195,6 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-385dd58b908a",
-      "date": "2026-08-11",
-      "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
-      "ts": 1786431600000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - 财新",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQcmdXTjEtaEEwQXAyc0dzZ29xdEtVZ3VnTzNSdEdIODhUbTkwVE1WYUJKZGlFN0N1TkdlQTNEZDA1SkNEejNqVS15STYwTURwckdUM0REQUMyTHdNQk5oSjlR?oc=5",
-      "site": "财新",
-      "siteUrl": "https://science.caixin.com"
-    },
-    {
-      "id": "FL-7acb18f70aac",
-      "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 20:31:16 GMT",
-      "ts": 1792096276000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "记者观察丨沙特首都再次遭袭 爆炸声一天多次响起 - 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yZE5ZYUZDcU44VTZJVW9kVGdhbUVyZWE5WGlqUFQzN1FBcEJ5elg1b3Vxcmc5Y1RXMVl0Qjl1ZE1pUDNqWFR4NUt3eTRSVThBNzdXY25qUWtENDNIZmxHOVRoVUQ5T2lTcDFnR3dEYkNxQQ?oc=5",
-      "site": "新浪网",
-      "siteUrl": "https://k.sina.com.cn"
-    },
-    {
       "id": "FL-268f06752aaa",
       "date": "2026-10-15",
       "dateISO": "Thu, 15 Oct 2026 13:16:30 GMT",
@@ -277,6 +265,18 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UeGEwYjlqRjBBQUlxZHJoLTN5VFJFdUtNem9zbm0zWU9tMkRTRXR6Yy1WVWpPdWZKZm1kU0JUeEFFV2w2eWdRN2ZGcHFnaDRjM0JHdGZhcDBWY0tUUGlDa0pMcm5yWVlMWWU4VndTcXN3SXRmYWtN?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-8ec146364869",
+      "date": "2026-10-15",
+      "dateISO": "Thu, 15 Oct 2026 05:14:05 GMT",
+      "ts": 1792041245000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "北溪爆炸案德国开审 被告律师称北溪管道或为“合法打击目标” - 茉莉花新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9yQkFtUl9SaUlQZzRONWtnZnNaVzc0eXZxSHk2OWU1cHQzdG4xMXNCNU5TYktLSTFpS2JDNmwtM0c4ZGVVVmc?oc=5",
+      "site": "茉莉花新闻网",
+      "siteUrl": "https://molihua.org"
     },
     {
       "id": "FL-6f983d6cf834",
@@ -435,16 +435,28 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-0615dd398028",
-      "date": "2026-08-02",
-      "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
-      "ts": 1785654000000,
+      "id": "FL-65a837ede06b",
+      "date": "2026-10-04",
+      "dateISO": "Sun, 04 Oct 2026 07:00:00 GMT",
+      "ts": 1791097200000,
       "scope": "intl",
       "type": "blast",
-      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
+      "title": "乌首都基辅响起强烈爆炸声 一桥梁再次遭袭 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50ajJWMmw0dWRvT2JnSW01VnhEZDZ3WUVydFZlSjBabUVPMW16aHRaeTRiUDgwZzg4blo3bWVtOHJQaVNqYkxtb1hCdEtyQkJXOTFqeTJNWWtHbU1oZlZtdHFwZFVlRjM3clAyWFpralZNWkNIT3VyOQ?oc=5",
+      "site": "央视网",
+      "siteUrl": "https://news.cctv.com"
+    },
+    {
+      "id": "FL-08d5beb77eeb",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
+      "ts": 1790406000000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 新华网客户端",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaEUzM21qMG8zSnRRcy1iYjkwOUxBeWEyRnVHaVNZcmhIZ0FwS0lUYWhndmd0WHp1ZHpxVTZSYUlMLUVGVWxseUcwOEprSHA4MExzeFFxVFV3OVlacVc3dTVvMi1VUUVsVXlTb3I1bWlUS3dDUlBzcEs4allydkhIdFU3ckVMZjJPVXQ0ZWJQWkFWNEpITlhnTlR3?oc=5",
+      "site": "新华网客户端",
+      "siteUrl": "https://app.xinhuanet.com"
     },
     {
       "id": "FL-5e735aebc1c3",
