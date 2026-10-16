@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T03:36:07.614Z",
+  "updated": "2026-10-16T04:06:05.588Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -147,6 +147,18 @@
       "siteUrl": "http://www.xinhuanet.com"
     },
     {
+      "id": "FL-d646025b1946",
+      "date": "2026-10-07",
+      "dateISO": "Wed, 07 Oct 2026 22:38:00 GMT",
+      "ts": 1791412680000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "湖南临澧“6·16”烟花爆炸事故调查报告公布 - 封面新闻",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91enlpNldsRnhkeFAxV3pqa24ta2lidWptTFhfQjFsM0ZRR0F2Z1NOUXdsR2pkSHpqOHMxVGphZGpUbnhVYXNyajlMazNlanNGUmpkQW1XOXlNazk1bVdVeV9sZi1nZjZhd01jamkzNTI2dWdrTzI1TElR?oc=5",
+      "site": "封面新闻",
+      "siteUrl": "https://m.thecover.cn"
+    },
+    {
       "id": "FL-622b0601ec92",
       "date": "2026-10-13",
       "dateISO": "Tue, 13 Oct 2026 21:15:05 GMT",
@@ -193,6 +205,18 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xajlnd2llNnpPYjhHMWQ2cUI5MnRlcHNNNUc0ak95WlNBWHI5YUlOTmt1UmtiWFFZcUFKZ2dWMml4M2U3TS12OG52X0txQlJNUk1EbmlSQTFZaDhGd28tbw?oc=5",
       "site": "cnBeta.COM",
       "siteUrl": "https://www.cnbeta.com.tw"
+    },
+    {
+      "id": "FL-ac0f384daaf0",
+      "date": "2026-10-15",
+      "dateISO": "Thu, 15 Oct 2026 16:47:00 GMT",
+      "ts": 1792082820000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "62年前的今天 我国第一颗原子弹爆炸成功 - 闪电新闻",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Cc0x0Q0VPVS1MbVNfd0xzeUR2ZzhBcWhzZ0xsRGYyT3pYVnFBbVd6U3YtSEh3a0NsOHlWaFBEdHF3em43SUUybzFWMEZURDA5MHVBVF83M2hMd2YtMGF0VWtB?oc=5",
+      "site": "闪电新闻",
+      "siteUrl": "https://sdxw.iqilu.com"
     },
     {
       "id": "FL-268f06752aaa",
@@ -387,18 +411,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-db89ce9321bb",
-      "date": "2026-10-10",
-      "dateISO": "Sat, 10 Oct 2026 17:44:13 GMT",
-      "ts": 1791654253000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "现场直击｜沙特首都国际机场传出爆炸声 已无航班起降 - 新华网客户端",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT0NvdzFyLWpxOTZrdGFSV0RwTHlkQzFaSkRKbXN3UmZiLUdQUVIxRm02Q0pZS1dReEt4Zmp6UDRhN0phNDFvMXJmeEltNkdoNlViZ01acEFQQ1lmMEpVSGszSlJpODJYMEdwU1ZPZVIzOVpab0FhMmZsZ0RBamJFRElwbVAwaUc5bDh3VWN0TDVMNlJ5SkV5ZnpB?oc=5",
-      "site": "新华网客户端",
-      "siteUrl": "https://app.xinhuanet.com"
-    },
-    {
       "id": "FL-3ebd1fca1fd7",
       "date": "2026-10-12",
       "dateISO": "Mon, 12 Oct 2026 16:14:23 GMT",
@@ -411,18 +423,6 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-b042a088a326",
-      "date": "2026-08-03",
-      "dateISO": "Mon, 03 Aug 2026 07:00:00 GMT",
-      "ts": 1785740400000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "巴基斯坦西北部发生爆炸致14人死亡 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
       "id": "FL-c39833bbfc21",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 22:10:00 GMT",
@@ -433,6 +433,42 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5naEpaTmt5bmlhUXlZdndRR2F3XzN6Z2d5aWcwdU4zRnpJWXBJX3VpVWxzRDBzQUFVRXZ4TW1lOTJQUEhCQ3NDNDFEN2FpVTRuYTh3?oc=5",
       "site": "环球网",
       "siteUrl": "https://m.huanqiu.com"
+    },
+    {
+      "id": "FL-ca1047764304",
+      "date": "2026-10-16",
+      "dateISO": "Fri, 16 Oct 2026 03:48:21 GMT",
+      "ts": 1792122501000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "西非小哥纽约时代广场表演燃爆全场 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5cTZtUGpQQkdPVTNyTEFYbVJRNjQwUTd3RG11ZmxCM2Zzb2RWNldncHpiSTRKTzdGdXZ0cURMRFhSU1RQeFFIeG5PeUU0LWJMdVV3VDRTb1hreTQ4SHNfbTJsN3NselpSek44Y0RzaFZLd1U?oc=5",
+      "site": "新浪网",
+      "siteUrl": "https://k.sina.com.cn"
+    },
+    {
+      "id": "FL-aab742783899",
+      "date": "2026-10-16",
+      "dateISO": "Fri, 16 Oct 2026 03:45:00 GMT",
+      "ts": 1792122300000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Scientist shares concerning results from independent testing done near Brent Industries fire and explosion site - WTOL",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQTTVMODVPRFFxQ1lHVGc3czdKaEo2Wl9IbV82X2RWYzNMRnpRQUg4d1VTVy05NW84elJBZ0JoOG8yajhoc3hUTnVBZzlid3pnMmI4ZjdLaE5yd0JqVGxzYjlvdThKVU9IUjBkclBkekdfdmpiVmR0Y0VHMzlfYnVnNUFibW1VZFBneGZlWDRWU0NHd0xodHNQcGhjQ01YTzh5cnZZRDBCNlNlZUY4cENrZk9NVkRUdjlFSEFkOUFsR3VYMEk4WjZSU3lraGVaYWMyNzBjV1ZVSmJON0lWYkZBTjBxVTNjZ1RzYzJ0YWNiNzZ4WWlzSmd4dDZvbFh2UWRtY3FjUVkwZlBOa2Nfd2o3aVFpNWRVRmxvRjQ3S0tfeTA?oc=5",
+      "site": "WTOL",
+      "siteUrl": "https://www.wtol.com"
+    },
+    {
+      "id": "FL-9b84aa16f31e",
+      "date": "2026-10-16",
+      "dateISO": "Fri, 16 Oct 2026 03:40:53 GMT",
+      "ts": 1792122053000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "燃爆周末！2026全民电竞嘉年华即将开启， 八省冠军齐聚普陀对决2026-10-16 - 上海市人民政府",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTndzVWl0bjAyeHYtLTdLTmNHOUNDNlNoeGlBcXRlU3dpNi1WYWlvMzM4Y0RoOTBOR1hobWJyYXIxV1hoREZJbERMdlRBcVpPU0k4ZURFZjVtN3NZc2hjNDZiNG5KaEVFdTdNdExfNW9aUkxvQmhEVGNPY3ZJNTAyYU1HTi0wb2NXNVE?oc=5",
+      "site": "上海市人民政府",
+      "siteUrl": "https://www.shanghai.gov.cn"
     },
     {
       "id": "FL-516d10deafd9",
@@ -493,18 +529,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUVlzcGlQMDB5MGRCRjZTUkhQY1dwSl80ZHhwdWtoaEswR0hkVi1WYkpERjhPMGF0WGNWajVhMnlWS2JTLWpaak5lbDJubEE1YzA4OXo1SHo5M2tlVDZkY055cF9ONnRkUkZEdDV6NzE2dm1zT1ZpbFNWbkZFeklPOGIxSEJzOVNybld0Xw?oc=5",
       "site": "搜狐",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-b569aa51ea96",
-      "date": "2026-10-16",
-      "dateISO": "Fri, 16 Oct 2026 00:23:14 GMT",
-      "ts": 1792110194000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Sarasota lithium battery fire: Video captures rapid explosion risk - FOX 13 Tampa Bay",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa3dueWFVUTVSMTFzbjkyQjJWU2l5R1lMTWxGeWVEc3JBSWR4aGxrTk5ULU1PNE1Vc0h5Y21pUVhWeGNCQVZ5YlNUd3RkekZ6d2ZzV3NSS0QxMkNiOExHNmFIc2RNdFYyeUJqeTItdUFaamJtTU0tU01xYnhsZzFCeFdnUzB0ejg4VkEtSENvLTBMd1EtdkxobXE0UEVwV3BhTldB?oc=5",
-      "site": "FOX 13 Tampa Bay",
-      "siteUrl": "https://www.fox13news.com"
     },
     {
       "id": "FL-e1d1b317b91e",
