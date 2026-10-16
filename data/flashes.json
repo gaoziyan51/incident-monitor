@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T00:02:05.347Z",
+  "updated": "2026-10-16T00:40:09.709Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -195,22 +195,34 @@
       "siteUrl": "https://science.caixin.com"
     },
     {
-      "id": "FL-6c0530d0ae0e",
+      "id": "FL-11b1a4224e08",
+      "date": "2026-10-06",
+      "dateISO": "Tue, 06 Oct 2026 19:57:10 GMT",
+      "ts": 1791316630000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "沙特阿拉伯首都利雅得5日晚传出爆炸声 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SZURBZjRfRnpRY2QwN1RnbVpsZzZ6WWtnLVBXY1I4aWN5alhMQ0R3UDBEM2RPYTJsQ1VYVUt4YVpvSjJZTkIzV3lxQTMzdWVHSnF2SUlfY2gybzBIc0R0Rg?oc=5",
+      "site": "东方财富",
+      "siteUrl": "https://wap.eastmoney.com"
+    },
+    {
+      "id": "FL-526ce4a76d2a",
       "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 21:55:00 GMT",
-      "ts": 1792101300000,
+      "dateISO": "Thu, 15 Oct 2026 22:41:01 GMT",
+      "ts": 1792104061000,
       "scope": "dom",
       "type": "blast",
-      "title": "东方巨响！62年前，这条“爆炸”新闻震惊世界 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ITkdYUzdQeGE3MVBBUktvVFFjU210ZUhZLUhyY2t0MlI4U3NRTGlEVjAtZ1JBX1N1N0cxRnFkd2hKdWJPX29GNVZ2cFI?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://news.ifeng.com"
+      "title": "东方巨响！62年前，这条“爆炸”新闻震惊世界 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE05XzVPejlmYlNNYjAwUjhFS0R1dVZSQU5kU1pKUnVSWnMwdTRERzFSZ2xZcFl2dWdLakplWmQzOVEzdS1sWXRYYy1ZbEtmNGZfaDlmczBsRDlkMVU3X19IOHM3QlZpWVBLeUUwMXlNMHRYQQ?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
       "id": "FL-268f06752aaa",
       "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 13:34:57 GMT",
-      "ts": 1792071297000,
+      "dateISO": "Thu, 15 Oct 2026 13:16:30 GMT",
+      "ts": 1792070190000,
       "scope": "intl",
       "type": "blast",
       "title": "北溪爆炸案德国开审 被告律师称北溪管道或为“合法打击目标” - DW.com",
@@ -281,14 +293,14 @@
     {
       "id": "FL-7e68cdb69eb5",
       "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 06:23:39 GMT",
-      "ts": 1792045419000,
+      "dateISO": "Thu, 15 Oct 2026 06:23:42 GMT",
+      "ts": 1792045422000,
       "scope": "intl",
       "type": "blast",
       "title": "记者观察丨沙特多地响起爆炸声 能源大会线下活动继续 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UeGEwYjlqRjBBQUlxZHJoLTN5VFJFdUtNem9zbm0zWU9tMkRTRXR6Yy1WVWpPdWZKZm1kU0JUeEFFV2w2eWdRN2ZGcHFnaDRjM0JHdGZhcDBWY0tUUGlDa0pMcm5yWVlMWWU4VndTcXN3SXRmYWtN?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5nUGZIWVZ3UGNxYW14T192NEp4MWxMVzg0RzI1akxLR0NpcmVCcjRNaDM4UHladUxLeTZKMktkMnk2d0U3LU95UEFxWHVnSFNFMGtJWkRPLUdKM1JING5JRl9NSzlaakVJQUplMmprVGR1LWhXeDVjQ2xVSEg2dw?oc=5",
       "site": "新华网",
-      "siteUrl": "https://www.news.cn"
+      "siteUrl": "http://www.news.cn"
     },
     {
       "id": "FL-6f983d6cf834",
@@ -315,16 +327,16 @@
       "siteUrl": "https://www.jpchinapress.com"
     },
     {
-      "id": "FL-c0e007c1b3b1",
+      "id": "FL-4bebe8cc663e",
       "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 03:41:00 GMT",
-      "ts": 1792035660000,
-      "scope": "dom",
+      "dateISO": "Thu, 15 Oct 2026 03:40:44 GMT",
+      "ts": 1792035644000,
+      "scope": "intl",
       "type": "blast",
-      "title": "西大槍械爆炸物案 華女被告全部控罪撤銷 - 大紀元",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5GVkdpV1FIZGpvM3ptZVQ4TlhfSm1RMGRpNWo4UUpNX2xrQ0RPaFh0TG9nUmg2b01YX3AzeGpOVkM0WGQwcjNQenlZTXJxWURSQzBQaE4tMFlMcWtvQjR2d0Zn0gFnQVVfeXFMT0RtMlp1dTA1UlNiNDJvazJvb2tVdC1ySTFmZlFFaGQ4V3FzWkd1OUJITklLalVPZGVFWjU4cHQ3azVyVFFXRldaXy1qWDhEZ2VxTjBqandlNWctei1fSUJKSXo1b0JEbw?oc=5",
-      "site": "大紀元",
-      "siteUrl": "https://www.epochtimes.com"
+      "title": "英特尔在以色列工厂发生爆炸，至少2人受伤 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqTTZMQjVvZVBvYkhUZmd0QjFOSWRUVDJKNVhfZGtaNHU4OHhkREFCZC03WlZLbkdkR0hkSEhFUTlKZWJxY2dIWUZqLWhVblBwVzB3WGxn?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://www.sohu.com"
     },
     {
       "id": "FL-2e679c048b83",
@@ -423,28 +435,28 @@
       "siteUrl": "https://hub.baai.ac.cn"
     },
     {
-      "id": "FL-340d5e981918",
-      "date": "2026-08-23",
-      "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
-      "ts": 1787468400000,
+      "id": "FL-e85b9b61b7c3",
+      "date": "2026-10-15",
+      "dateISO": "Thu, 15 Oct 2026 00:13:51 GMT",
+      "ts": 1792023231000,
       "scope": "dom",
       "type": "blast",
-      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
+      "title": "“北溪”爆炸案开庭或影响德对乌政策 审判结果待定 - 中华军事",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42ZkdrcldpSHpnSmc2eENDeC1YU29URFRqM004cEowWjZIaDdqejd2UC1SaE5YUEpCMzZvVVZ6NlZJM3QzWlNFQ29ocWF1bTBhbkQyYTV1eVMtdTBENUxRM1dTNGtNUzFmZGhvTVFHTVY?oc=5",
+      "site": "中华军事",
+      "siteUrl": "https://military.china.com"
     },
     {
-      "id": "FL-0615dd398028",
-      "date": "2026-08-02",
-      "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
-      "ts": 1785654000000,
+      "id": "FL-08d5beb77eeb",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
+      "ts": 1790406000000,
       "scope": "intl",
       "type": "blast",
-      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 新华网客户端",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaEUzM21qMG8zSnRRcy1iYjkwOUxBeWEyRnVHaVNZcmhIZ0FwS0lUYWhndmd0WHp1ZHpxVTZSYUlMLUVGVWxseUcwOEprSHA4MExzeFFxVFV3OVlacVc3dTVvMi1VUUVsVXlTb3I1bWlUS3dDUlBzcEs4allydkhIdFU3ckVMZjJPVXQ0ZWJQWkFWNEpITlhnTlR3?oc=5",
+      "site": "新华网客户端",
+      "siteUrl": "https://app.xinhuanet.com"
     },
     {
       "id": "FL-5e735aebc1c3",
@@ -455,18 +467,6 @@
       "type": "blast",
       "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlemFCa3lteDlkZERLTXRLMHhpeTIzNmFqanFBczVPaFNjQjVxOHNJNm54Tkhua1FqOGtuaUhBLWdRSWxXaFRoZThQZXJqclRIV1pUaTNhcjhHU0dwRzA1WXNQc2ZOVEhXX0Z1NUVBcnBUalJRWkE3ZlE0S3NOaXM?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-160d55aeb47e",
-      "date": "2026-06-22",
-      "dateISO": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "ts": 1782111600000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "卡塔尔工厂爆炸已致13人死亡 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mR2pTX0YxWjBwQ2lLNC1XZjFhd3IwVEYtWkZFR3ZBU3B5RTFHR1BldmQ3OEkxN2NaWTMzYUkwWENDeEliY3dVNEloOExFS1B6SlZQTENHdWVmTWpUM042M2hRcmo4QS1qdl85cXlhZHJ3R3JGTEU4?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
@@ -483,18 +483,6 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-b042a088a326",
-      "date": "2026-08-03",
-      "dateISO": "Mon, 03 Aug 2026 07:00:00 GMT",
-      "ts": 1785740400000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "巴基斯坦西北部发生爆炸致14人死亡 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
       "id": "FL-c39833bbfc21",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 22:10:00 GMT",
@@ -505,6 +493,42 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5naEpaTmt5bmlhUXlZdndRR2F3XzN6Z2d5aWcwdU4zRnpJWXBJX3VpVWxzRDBzQUFVRXZ4TW1lOTJQUEhCQ3NDNDFEN2FpVTRuYTh3?oc=5",
       "site": "环球网",
       "siteUrl": "https://m.huanqiu.com"
+    },
+    {
+      "id": "FL-e1d1b317b91e",
+      "date": "2026-10-16",
+      "dateISO": "Fri, 16 Oct 2026 00:15:50 GMT",
+      "ts": 1792109750000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "当地居民：周边传出6次剧烈爆炸声！也门官员：胡塞武装向亚丁总统府发射6枚弹道导弹，3人死亡 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWmVtSmp3dzJYZExqd0ZjYm1mX1dLY0ctLUp2TUp1ZTdEZXRDZ1VIdzNSWEIzeFBSa2dwVUlvOXlhMF9qUGpqNWljYzh5UVpWNUNielhwa0lYRzlOX2t3amUtTnVIb0dBQkhxZnJVcmdWRUlCMHRqby0wTmRBbnpfNDVLUHRESmNE?oc=5",
+      "site": "搜狐",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-8da81e368b30",
+      "date": "2026-10-16",
+      "dateISO": "Fri, 16 Oct 2026 00:05:40 GMT",
+      "ts": 1792109140000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "孕晚期梦见爆炸 - 中华网娱乐",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEV0dIdHFQcmQ1dXdvS1VuZDlFX1ZheWtDOGgxWWktLXJRNEQwMlk4TXd2NF9YOE5sVTVNeS1vcmVKZEJTYlkyVUs3QTE2LVQxOXlkamMxaE5FUmtrRDVsb20yZHg4MjVfREZnM0xLNnoydw?oc=5",
+      "site": "中华网娱乐",
+      "siteUrl": "https://ent.china.com"
+    },
+    {
+      "id": "FL-b74e9b664c6a",
+      "date": "2026-10-16",
+      "dateISO": "Fri, 16 Oct 2026 00:03:07 GMT",
+      "ts": 1792108987000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "中国首颗原子弹成功爆炸珍贵画面 新中国站起来的炸响 - 中华军事",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DRTdTWkN2bklaOGhkenZPZWg1T3MyaFd2MGdTZ3BFaG83STNacjd2VmJEX2N6Si05ZW1ZOVk3OHBDSzdwLVdqWmtiU1FzUWl0SUd6amd0bGt5eTZYWmZ6YnJ5NXFFQlpuQlU4NVR5eE8?oc=5",
+      "site": "中华军事",
+      "siteUrl": "https://military.china.com"
     }
   ]
 }
