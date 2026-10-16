@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T11:11:28.305Z",
+  "updated": "2026-10-16T11:43:53.397Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -87,18 +87,6 @@
       "siteUrl": "https://science.caixin.com"
     },
     {
-      "id": "FL-cc9bcd177ed4",
-      "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 22:37:00 GMT",
-      "ts": 1792103820000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "东方巨响！62年前，这条“爆炸”新闻震惊世界 - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcnFSTVdZZzlHZTVrSkpEWGFVT1VDNDZyS1lnWnN4OE1qbkl5RzhIMXJmcTBKN0FtUWJxaXdZMmNiTnA3MVNnQ2R0ZDZ1VHVTYlZHYW1iX1B0X1RrX2F6cENyUUxSdDBPa2FoYWlQRHNvZEw2azgzeE1QM0xOOGVNNjBWYUt0R3da?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-526ce4a76d2a",
       "date": "2026-10-15",
       "dateISO": "Thu, 15 Oct 2026 22:30:48 GMT",
@@ -109,6 +97,18 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nOWZrSFFnOFZKN3p0WWZjamNvMG1IR2lVTWcyZzJZOWJxSzhhMkVlVV92XzFfMTd3RkhXakc3TXR3OEV3QTVyc3NvSmFpdVlvVGNibVNzSTFOU1FBY2c?oc=5",
       "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
+      "id": "FL-6c0530d0ae0e",
+      "date": "2026-10-15",
+      "dateISO": "Thu, 15 Oct 2026 21:55:00 GMT",
+      "ts": 1792101300000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "东方巨响！62年前，这条“爆炸”新闻震惊世界 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ITkdYUzdQeGE3MVBBUktvVFFjU210ZUhZLUhyY2t0MlI4U3NRTGlEVjAtZ1JBX1N1N0cxRnFkd2hKdWJPX29GNVZ2cFI?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://news.ifeng.com"
     },
     {
       "id": "FL-ac0f384daaf0",
@@ -253,6 +253,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlemFCa3lteDlkZERLTXRLMHhpeTIzNmFqanFBczVPaFNjQjVxOHNJNm54Tkhua1FqOGtuaUhBLWdRSWxXaFRoZThQZXJqclRIV1pUaTNhcjhHU0dwRzA1WXNQc2ZOVEhXX0Z1NUVBcnBUalJRWkE3ZlE0S3NOaXM?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-db89ce9321bb",
+      "date": "2026-10-10",
+      "dateISO": "Sat, 10 Oct 2026 17:44:13 GMT",
+      "ts": 1791654253000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "现场直击｜沙特首都国际机场传出爆炸声 已无航班起降 - 新华网客户端",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT0NvdzFyLWpxOTZrdGFSV0RwTHlkQzFaSkRKbXN3UmZiLUdQUVIxRm02Q0pZS1dReEt4Zmp6UDRhN0phNDFvMXJmeEltNkdoNlViZ01acEFQQ1lmMEpVSGszSlJpODJYMEdwU1ZPZVIzOVpab0FhMmZsZ0RBamJFRElwbVAwaUc5bDh3VWN0TDVMNlJ5SkV5ZnpB?oc=5",
+      "site": "新华网客户端",
+      "siteUrl": "https://app.xinhuanet.com"
     },
     {
       "id": "FL-3ebd1fca1fd7",
