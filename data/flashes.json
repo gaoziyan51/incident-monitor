@@ -1,19 +1,7 @@
 {
-  "updated": "2026-10-16T08:49:22.002Z",
+  "updated": "2026-10-16T09:16:35.290Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-2d24468beb90",
-      "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 22:43:07 GMT",
-      "ts": 1792017787000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "油库大爆炸，乌克兰公开叫板特朗普：美军翻脸，俄军顺利报复轰炸 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8ydzFRTWR5M0lBcjJuLXNLSF9GblBHVVZqWW5Ca3NmS2lTR3A0TlhjVGlkTU51dXZZSHFQVGNNVHhZRTMzNFozUTI3RQ?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://mil.ifeng.com"
-    },
     {
       "id": "FL-8a384212b11d",
       "date": "2026-10-14",
@@ -97,6 +85,18 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VMXZkemRUSmc5cW82UngzUlBBVW1aZ2w1aERuWDNtbEFHWm04OC1udzltMkpKRFBRQko5Q0hJMHFkODZEYnBEWjdXNFg0X0pxMHNtRlBWSlpmcFVKTTNsLVd4ek52UENVQzE2c1diaTFSMGhUMXRrRmRkclVJZw?oc=5",
       "site": "新华网",
       "siteUrl": "http://www.xinhuanet.com"
+    },
+    {
+      "id": "FL-d646025b1946",
+      "date": "2026-10-07",
+      "dateISO": "Wed, 07 Oct 2026 22:38:00 GMT",
+      "ts": 1791412680000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "湖南临澧“6·16”烟花爆炸事故调查报告公布 - 封面新闻",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91enlpNldsRnhkeFAxV3pqa24ta2lidWptTFhfQjFsM0ZRR0F2Z1NOUXdsR2pkSHpqOHMxVGphZGpUbnhVYXNyajlMazNlanNGUmpkQW1XOXlNazk1bVdVeV9sZi1nZjZhd01jamkzNTI2dWdrTzI1TElR?oc=5",
+      "site": "封面新闻",
+      "siteUrl": "https://m.thecover.cn"
     },
     {
       "id": "FL-622b0601ec92",
@@ -325,6 +325,18 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlTUlDcnhpV0V2WkprVmVkQlcxc19iMzRON1lRWVJHWnpVZnFmYUlYdTk2dk94Zm1CbTB0clJfcGVrRUM3dDZQNVAxQ1U5eTBqdVZlaTktUG0?oc=5",
       "site": "驱动之家",
       "siteUrl": "https://news.mydrivers.com"
+    },
+    {
+      "id": "FL-b5654d76ba48",
+      "date": "2026-10-16",
+      "dateISO": "Fri, 16 Oct 2026 07:34:00 GMT",
+      "ts": 1792136040000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "原子弹爆炸前夜，他在罗布泊戈壁滩走过人生“最漫长的一公里” - 中国长安网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYVlrVzVvUGljZUZqMmZTczMzWDVENnlDWmRnUjBXNmpOVVlDdHlkLVNaeW9oMk5fZVMyaUU0RjBaVDdzQk4wUE1GXzJNZTZDYnVMNU4zNk5fbjFwQW82TTlRcG9pNDdqRXJTa2U0R3BkNmlTQmM2amVzTEktTnkwUE81am9idnpP?oc=5",
+      "site": "中国长安网",
+      "siteUrl": "http://www.chinapeace.gov.cn"
     },
     {
       "id": "FL-43b08192a1d7",
