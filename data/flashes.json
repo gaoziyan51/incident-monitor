@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T20:14:54.580Z",
+  "updated": "2026-10-16T20:44:11.740Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -37,18 +37,6 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2RVZEb25GQ2lWSWlNRjd1VTZGSDV4V0c5UlBqMUlER2doWnl2X08wM3FrTWZnQlRQRXd0NHpLMExTS2dIcXJPQUNlSjk0ZHpadG40UGE4cDFyaEg3Z25PNWVzQzNkR3NWaGFF?oc=5",
       "site": "中国网新闻中心",
       "siteUrl": "http://news.china.com.cn"
-    },
-    {
-      "id": "FL-d933960c920a",
-      "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 09:28:55 GMT",
-      "ts": 1791970135000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "英特尔在以色列工厂发生爆炸致3人受伤 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YNmF1N0JFZnpUdUlHUjhPQzdiNU5GRV9fQlF6emktTEJRaGktZEhobnYyLTZHWTAzME1PYU5HN3JtRWRtX0lqa0ZuR2xaTHZMZ0VuQ3pNSTNVcGZBRklBT19GTXJ3UQ?oc=5",
-      "site": "东方财富",
-      "siteUrl": "https://finance.eastmoney.com"
     },
     {
       "id": "FL-dcd5b58a6d84",
@@ -109,6 +97,18 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ITkdYUzdQeGE3MVBBUktvVFFjU210ZUhZLUhyY2t0MlI4U3NRTGlEVjAtZ1JBX1N1N0cxRnFkd2hKdWJPX29GNVZ2cFI?oc=5",
       "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com"
+    },
+    {
+      "id": "FL-c31a9e4a06b0",
+      "date": "2026-10-15",
+      "dateISO": "Thu, 15 Oct 2026 10:13:51 GMT",
+      "ts": 1792059231000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "德外长：将把“北溪”爆炸案审判结果纳入政治考量|乌克兰总统|保加利亚|德国|富尔|乌克兰 - finance.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuYlBHZy1DREZsa2E3SWVoWVdUY1RzVzBLMlJBMFR2ek5LSkVsVTRtdnRkM0VENk1IcXUyTTRkN19saWFmcEVVeUgxNS1FM1NXY1dod21GX1dhWjJiMUFVU05uRmw2TXozQWZFRUhETmJoSGxtM2lvLQ?oc=5",
+      "site": "finance.sina.com.cn",
+      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-7e68cdb69eb5",
@@ -385,6 +385,18 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9IOGZNamJHN3lfTGdqd0RTaEtqZ0l4c20tWDZycmZ0X1RsTFBfOEQzT2dQeldJa3htT0RvcEhIczh0STJ2elV2WVpwYVpFWmJyaUl2eEZFQ192ejVYZGJn?oc=5",
       "site": "ChemNet News",
       "siteUrl": "https://news.chemnet.com"
+    },
+    {
+      "id": "FL-d07c996a9770",
+      "date": "2026-10-16",
+      "dateISO": "Fri, 16 Oct 2026 01:21:31 GMT",
+      "ts": 1792113691000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "中国第一颗原子弹爆炸成功62周年 核科技点亮强国之路 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42TVRHd1NtQ2Y1a2dGLU1SbTlRd1N1MnFBSnJoT3dfWmJ1MXF2SEdlX3JoRUlmcFNUaWEzaklZdUdMSkVBSmpaRE5hVmQ0ejA0bmpnRS1sVmlzY1QxM1dqeVhMRmdHQ0JQRExQc2lzS1A?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
     },
     {
       "id": "FL-f4102bbc53f7",
