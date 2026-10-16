@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T13:22:27.922Z",
+  "updated": "2026-10-16T13:59:50.900Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -13,18 +13,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kSWJwQ1U0U1F1RG9jZlIyVWhrZW1RUF93VjZETkc4bVVsZEplV2U1M1JPR3FFNGNlWTZaVWJQNDItOE9sOGg4WHV4blFITWVzZnNwemxiLUVGTEQwM3JmSXpUbF92d1lxYlI2TjdxZ0E?oc=5",
       "site": "中国科技网",
       "siteUrl": "https://www.stdaily.com"
-    },
-    {
-      "id": "FL-50a5657f21ea",
-      "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 14:15:52 GMT",
-      "ts": 1791987352000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "英特尔在以色列工厂发生爆炸致3人受伤 - 新华网客户端",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWUNhVEREb0liYWExSTM2U3VUdmZGRnVGMG1ZU09EeUFwdVIyVjhuRWdIZzVMRWlUZUJoZXpNSVpEV2w0VHdxTDhSZkFDYlZHOVY3X25yOGJ6aVJHUGtxN0hGb0NOSF80MXloaEluaGhuaFVPSC12d1lfaWt4dFNYVm1lN25nVzBjZHpGTERKRGpjSlVlZEFUanVR?oc=5",
-      "site": "新华网客户端",
-      "siteUrl": "https://app.xinhuanet.com"
     },
     {
       "id": "FL-6080d77b9174",
@@ -109,6 +97,18 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ITkdYUzdQeGE3MVBBUktvVFFjU210ZUhZLUhyY2t0MlI4U3NRTGlEVjAtZ1JBX1N1N0cxRnFkd2hKdWJPX29GNVZ2cFI?oc=5",
       "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com"
+    },
+    {
+      "id": "FL-ac0f384daaf0",
+      "date": "2026-10-15",
+      "dateISO": "Thu, 15 Oct 2026 16:47:00 GMT",
+      "ts": 1792082820000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "62年前的今天 我国第一颗原子弹爆炸成功 - 闪电新闻",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Cc0x0Q0VPVS1MbVNfd0xzeUR2ZzhBcWhzZ0xsRGYyT3pYVnFBbVd6U3YtSEh3a0NsOHlWaFBEdHF3em43SUUybzFWMEZURDA5MHVBVF83M2hMd2YtMGF0VWtB?oc=5",
+      "site": "闪电新闻",
+      "siteUrl": "https://sdxw.iqilu.com"
     },
     {
       "id": "FL-7e68cdb69eb5",
@@ -255,16 +255,28 @@
       "siteUrl": "https://www.21jingji.com"
     },
     {
-      "id": "FL-615d7526d028",
+      "id": "FL-63b3de04f1c6",
       "date": "2026-10-16",
-      "dateISO": "Fri, 16 Oct 2026 11:52:35 GMT",
-      "ts": 1792151555000,
+      "dateISO": "Fri, 16 Oct 2026 12:57:08 GMT",
+      "ts": 1792155428000,
       "scope": "dom",
       "type": "blast",
-      "title": "特斯拉曝光新车内部测试画面：车辆腾空起飞，坠落爆炸 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE45YURsRTgzVEZZTm1Gb3FxVzNFRFZNN19sN2hBcFd4WlcwRmlWTEpveHBxc3JXSFhiMjZVS3dOSVliNk9zNEpRXw?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://i.ifeng.com"
+      "title": "汕头致12死火灾调查报告公布：蚊香棒引燃可燃物、锂电池热失控爆炸，消防检测负责人被移送司法机关 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWVYtWDJNdUV2MmJGcU50T2pUcmpOdjZsSTNQTHduczZGTlZpbjZJRlhXSVlxbE5kS3VIS3hWNk04YXRtdEFsbFBIU0R6Z2FoSHc2Z29JM2VueEJDaVI1SnluLVdxWlQxYm5PYTBMdzdvWFNTOVVNOGN3UDJPMGZWSjhOa0dvX19UOVdQb2p4MA?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://www.sohu.com"
+    },
+    {
+      "id": "FL-939984cfed40",
+      "date": "2026-10-16",
+      "dateISO": "Fri, 16 Oct 2026 12:49:42 GMT",
+      "ts": 1792154982000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Stanhope Street: Homes evacuated after Belfast house explosion - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wQzZTb29IVW1OX3hJcm40eGd1Qy1acVlFM2dWbXNTbEUtUHAtSnJoUy1Fd0FTY2VTellocUtiTTlrM0kyOGJ6VWl5RE5Ial9nYUFCNS1mNV9ka3c?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
     },
     {
       "id": "FL-d2fca6abea5c",
