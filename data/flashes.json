@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T09:46:03.469Z",
+  "updated": "2026-10-16T10:13:24.148Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -37,18 +37,6 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2RVZEb25GQ2lWSWlNRjd1VTZGSDV4V0c5UlBqMUlER2doWnl2X08wM3FrTWZnQlRQRXd0NHpLMExTS2dIcXJPQUNlSjk0ZHpadG40UGE4cDFyaEg3Z25PNWVzQzNkR3NWaGFF?oc=5",
       "site": "中国网新闻中心",
       "siteUrl": "http://news.china.com.cn"
-    },
-    {
-      "id": "FL-d933960c920a",
-      "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 09:28:55 GMT",
-      "ts": 1791970135000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "英特尔在以色列工厂发生爆炸致3人受伤 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YNmF1N0JFZnpUdUlHUjhPQzdiNU5GRV9fQlF6emktTEJRaGktZEhobnYyLTZHWTAzME1PYU5HN3JtRWRtX0lqa0ZuR2xaTHZMZ0VuQ3pNSTNVcGZBRklBT19GTXJ3UQ?oc=5",
-      "site": "东方财富",
-      "siteUrl": "https://finance.eastmoney.com"
     },
     {
       "id": "FL-18c3fa62bba8",
@@ -99,6 +87,18 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
+      "id": "FL-385dd58b908a",
+      "date": "2026-08-11",
+      "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
+      "ts": 1786431600000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - 财新",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQcmdXTjEtaEEwQXAyc0dzZ29xdEtVZ3VnTzNSdEdIODhUbTkwVE1WYUJKZGlFN0N1TkdlQTNEZDA1SkNEejNqVS15STYwTURwckdUM0REQUMyTHdNQk5oSjlR?oc=5",
+      "site": "财新",
+      "siteUrl": "https://science.caixin.com"
+    },
+    {
       "id": "FL-cc9bcd177ed4",
       "date": "2026-10-15",
       "dateISO": "Thu, 15 Oct 2026 22:37:00 GMT",
@@ -147,18 +147,6 @@
       "siteUrl": "https://www.dw.com"
     },
     {
-      "id": "FL-c31a9e4a06b0",
-      "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 10:13:51 GMT",
-      "ts": 1792059231000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "德外长：将把“北溪”爆炸案审判结果纳入政治考量|乌克兰总统|保加利亚|德国|富尔|乌克兰 - finance.sina.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuYlBHZy1DREZsa2E3SWVoWVdUY1RzVzBLMlJBMFR2ek5LSkVsVTRtdnRkM0VENk1IcXUyTTRkN19saWFmcEVVeUgxNS1FM1NXY1dod21GX1dhWjJiMUFVU05uRmw2TXozQWZFRUhETmJoSGxtM2lvLQ?oc=5",
-      "site": "finance.sina.com.cn",
-      "siteUrl": "https://finance.sina.cn"
-    },
-    {
       "id": "FL-7e68cdb69eb5",
       "date": "2026-10-15",
       "dateISO": "Thu, 15 Oct 2026 06:23:39 GMT",
@@ -169,30 +157,6 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UeGEwYjlqRjBBQUlxZHJoLTN5VFJFdUtNem9zbm0zWU9tMkRTRXR6Yy1WVWpPdWZKZm1kU0JUeEFFV2w2eWdRN2ZGcHFnaDRjM0JHdGZhcDBWY0tUUGlDa0pMcm5yWVlMWWU4VndTcXN3SXRmYWtN?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-2e679c048b83",
-      "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 03:28:44 GMT",
-      "ts": 1792034924000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "一充电站凌晨起火，两辆汽车烧毁严重，目击者称听到爆炸声响被惊醒 - 中华网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGQS0xVnR5Y1hkd3pHNWpwbVdqNHJvbUxQdDY0bGhwOTcyMGthTWNqWFRHRGxsTFAtVUpoWFVDNVk2Vk1EbUgxSjMzcEdmMlQ1S2tnVmJWZjhLVk1WQTBlNG1WR0w2cWh5TlduMnVlYzU?oc=5",
-      "site": "中华网",
-      "siteUrl": "https://news.china.com"
-    },
-    {
-      "id": "FL-121f1e76fcae",
-      "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 02:47:12 GMT",
-      "ts": 1792032432000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "“北溪”爆炸案首次开庭，德乌关系与国际法难题同时浮现 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAyY0dPZVZlOThST1NGWVJDTDdBejlJRGVMc1A3M0p0TEdSdnlSX1dJTkpIck9kVG5ERmVULU1POVdXMWlfcEJpeHJac2U?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://news.ifeng.com"
     },
     {
       "id": "FL-268b0ada7e86",
@@ -255,16 +219,28 @@
       "siteUrl": "https://www.eet-china.com"
     },
     {
-      "id": "FL-d8c28d5a1c29",
-      "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 01:20:00 GMT",
-      "ts": 1792027200000,
+      "id": "FL-340d5e981918",
+      "date": "2026-08-23",
+      "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
+      "ts": 1787468400000,
       "scope": "dom",
       "type": "blast",
-      "title": "证明大爆炸，数学界变天！AI把陶哲轩逼出「数学 2.0」 - 智源社区",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5pRG9LamowamdCY0V5UENGaU01VmM2NVZpUHN1czFPNWFDNGFtbmN2Z1N6MnZSWkYwek44cjU0M05PcUgxVEFuVQ?oc=5",
-      "site": "智源社区",
-      "siteUrl": "https://hub.baai.ac.cn"
+      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-0615dd398028",
+      "date": "2026-08-02",
+      "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
+      "ts": 1785654000000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-5e735aebc1c3",
@@ -339,6 +315,18 @@
       "siteUrl": "https://news.china.com"
     },
     {
+      "id": "FL-7edcaeb62761",
+      "date": "2026-10-16",
+      "dateISO": "Fri, 16 Oct 2026 05:39:00 GMT",
+      "ts": 1792129140000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "62年前中国第一颗原子弹爆炸成功 东方巨响震惊世界 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zd0psb0NGZUFLSTkzNF9SQ202dnN6OHppdHRIaGR3TllOdVFzOWVPRkFVcHAxRXl1WU5QWWw5UnVSOHJKSEJDZllvSUVXN1pvbWJpaHUxTFZkdENOaFU3TldSM3JoMWdhd0k0aGprczQ?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
+    },
+    {
       "id": "FL-319ffa75aa12",
       "date": "2026-10-16",
       "dateISO": "Fri, 16 Oct 2026 05:37:59 GMT",
@@ -397,6 +385,18 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTndzVWl0bjAyeHYtLTdLTmNHOUNDNlNoeGlBcXRlU3dpNi1WYWlvMzM4Y0RoOTBOR1hobWJyYXIxV1hoREZJbERMdlRBcVpPU0k4ZURFZjVtN3NZc2hjNDZiNG5KaEVFdTdNdExfNW9aUkxvQmhEVGNPY3ZJNTAyYU1HTi0wb2NXNVE?oc=5",
       "site": "上海市人民政府",
       "siteUrl": "https://www.shanghai.gov.cn"
+    },
+    {
+      "id": "FL-6c29ae4f3dba",
+      "date": "2026-10-16",
+      "dateISO": "Fri, 16 Oct 2026 02:35:32 GMT",
+      "ts": 1792118132000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "致敬先辈！我国原子弹爆炸成功62周年 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ0hIOUFuSUVPRjRnLWRYOUdiZk1INk9aNkI3UXo4cGEzMmZtMHEyRTlXLWZLUHg4M3lza3J4ZFBlNlplWktDOHEtNExnLTlZZVZxc1VWOUJPWTNYU2taTTU2TGFxNFlhRFh0Z2ZXX0xnQ2RHcG1UWkFaemlmSk1YNHFtZ002bDZkT2llVw?oc=5",
+      "site": "搜狐",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-516d10deafd9",
