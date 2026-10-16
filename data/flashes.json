@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T01:41:32.726Z",
+  "updated": "2026-10-16T02:10:49.749Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -63,16 +63,16 @@
       "siteUrl": "https://stock.stockstar.com"
     },
     {
-      "id": "FL-b4e935e62a2f",
+      "id": "FL-50a5657f21ea",
       "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 15:40:01 GMT",
-      "ts": 1791992401000,
+      "dateISO": "Wed, 14 Oct 2026 14:15:52 GMT",
+      "ts": 1791987352000,
       "scope": "intl",
       "type": "blast",
-      "title": "英特尔在以色列工厂发生爆炸致3人受伤 - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNGFBOWIzMERXb20yT1N6UWRnNHpBY0VGRGZRZ0V2NVlyWGtvemdhaThWTGJ1VXRuT3diWTVSbklkcDMyaGJ2UDBuUjh1QldLQjcyXy1nc1FPaUdEUzJKd2ZZUmw3elFSV0VwdjFPLVpvT2tIY0VFMS1rRFNOekk0N2JoTHQ4NGlr?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
+      "title": "英特尔在以色列工厂发生爆炸致3人受伤 - 新华网客户端",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWUNhVEREb0liYWExSTM2U3VUdmZGRnVGMG1ZU09EeUFwdVIyVjhuRWdIZzVMRWlUZUJoZXpNSVpEV2w0VHdxTDhSZkFDYlZHOVY3X25yOGJ6aVJHUGtxN0hGb0NOSF80MXloaEluaGhuaFVPSC12d1lfaWt4dFNYVm1lN25nVzBjZHpGTERKRGpjSlVlZEFUanVR?oc=5",
+      "site": "新华网客户端",
+      "siteUrl": "https://app.xinhuanet.com"
     },
     {
       "id": "FL-0ce3fac6873c",
@@ -109,18 +109,6 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nVF85Y2J6Q2lkT3BzMmdrNkJrQk1MWkN0MzJOSHpoVnM3dGZNc1JxdHJjaHMxX2ZTVXBJUVZBcnNPSkJDeVUxU2ZaMmlFNzJnUEYxUXRMWlNqZmh6NE9lYjZ5c0VJR1BkNmc?oc=5",
       "site": "联合早报",
       "siteUrl": "https://www.zaobao.com.sg"
-    },
-    {
-      "id": "FL-d933960c920a",
-      "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 09:28:55 GMT",
-      "ts": 1791970135000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "英特尔在以色列工厂发生爆炸致3人受伤 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YNmF1N0JFZnpUdUlHUjhPQzdiNU5GRV9fQlF6emktTEJRaGktZEhobnYyLTZHWTAzME1PYU5HN3JtRWRtX0lqa0ZuR2xaTHZMZ0VuQ3pNSTNVcGZBRklBT19GTXJ3UQ?oc=5",
-      "site": "东方财富",
-      "siteUrl": "https://finance.eastmoney.com"
     },
     {
       "id": "FL-2200270747cc",
@@ -207,6 +195,18 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
+      "id": "FL-fb4d33ba9e36",
+      "date": "2026-10-15",
+      "dateISO": "Thu, 15 Oct 2026 19:46:00 GMT",
+      "ts": 1792093560000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "以色列英特尔工厂爆炸致两名工人身亡警方调查疑似气瓶故障- Intel 英特尔 - cnBeta.COM",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xajlnd2llNnpPYjhHMWQ2cUI5MnRlcHNNNUc0ak95WlNBWHI5YUlOTmt1UmtiWFFZcUFKZ2dWMml4M2U3TS12OG52X0txQlJNUk1EbmlSQTFZaDhGd28tbw?oc=5",
+      "site": "cnBeta.COM",
+      "siteUrl": "https://www.cnbeta.com.tw"
+    },
+    {
       "id": "FL-268f06752aaa",
       "date": "2026-10-15",
       "dateISO": "Thu, 15 Oct 2026 13:16:30 GMT",
@@ -289,18 +289,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGQS0xVnR5Y1hkd3pHNWpwbVdqNHJvbUxQdDY0bGhwOTcyMGthTWNqWFRHRGxsTFAtVUpoWFVDNVk2Vk1EbUgxSjMzcEdmMlQ1S2tnVmJWZjhLVk1WQTBlNG1WR0w2cWh5TlduMnVlYzU?oc=5",
       "site": "中华网",
       "siteUrl": "https://news.china.com"
-    },
-    {
-      "id": "FL-e8fa31b1e783",
-      "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 02:52:41 GMT",
-      "ts": 1792032761000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "电商时代的赶大集，凭什么依然燃爆人气？ - 鲁网",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzbEwxcE1OTDJWazRJck5CSUo3Rjk5OHNIbGJ4eURhanJub0p1d3RSSkZqLXh3YlBtaVVBVHZIZ0M5czRMQ0d6czZDa1FvRldKbGlTNzgxZFh5NUxPeGN1M2hOTzlnTHdNcTVzWg?oc=5",
-      "site": "鲁网",
-      "siteUrl": "http://binzhou.sdnews.com.cn"
     },
     {
       "id": "FL-121f1e76fcae",
@@ -399,30 +387,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-db89ce9321bb",
-      "date": "2026-10-10",
-      "dateISO": "Sat, 10 Oct 2026 17:44:13 GMT",
-      "ts": 1791654253000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "现场直击｜沙特首都国际机场传出爆炸声 已无航班起降 - 新华网客户端",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT0NvdzFyLWpxOTZrdGFSV0RwTHlkQzFaSkRKbXN3UmZiLUdQUVIxRm02Q0pZS1dReEt4Zmp6UDRhN0phNDFvMXJmeEltNkdoNlViZ01acEFQQ1lmMEpVSGszSlJpODJYMEdwU1ZPZVIzOVpab0FhMmZsZ0RBamJFRElwbVAwaUc5bDh3VWN0TDVMNlJ5SkV5ZnpB?oc=5",
-      "site": "新华网客户端",
-      "siteUrl": "https://app.xinhuanet.com"
-    },
-    {
-      "id": "FL-160d55aeb47e",
-      "date": "2026-06-22",
-      "dateISO": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "ts": 1782111600000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "卡塔尔工厂爆炸已致13人死亡 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mR2pTX0YxWjBwQ2lLNC1XZjFhd3IwVEYtWkZFR3ZBU3B5RTFHR1BldmQ3OEkxN2NaWTMzYUkwWENDeEliY3dVNEloOExFS1B6SlZQTENHdWVmTWpUM042M2hRcmo4QS1qdl85cXlhZHJ3R3JGTEU4?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
       "id": "FL-3ebd1fca1fd7",
       "date": "2026-10-12",
       "dateISO": "Mon, 12 Oct 2026 16:14:23 GMT",
@@ -457,6 +421,18 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5naEpaTmt5bmlhUXlZdndRR2F3XzN6Z2d5aWcwdU4zRnpJWXBJX3VpVWxzRDBzQUFVRXZ4TW1lOTJQUEhCQ3NDNDFEN2FpVTRuYTh3?oc=5",
       "site": "环球网",
       "siteUrl": "https://m.huanqiu.com"
+    },
+    {
+      "id": "FL-7487408d517b",
+      "date": "2026-10-16",
+      "dateISO": "Fri, 16 Oct 2026 01:21:49 GMT",
+      "ts": 1792113709000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "英特尔工厂发生爆炸事故 危化品三氟化氮泄漏 - ChemNet News",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9IOGZNamJHN3lfTGdqd0RTaEtqZ0l4c20tWDZycmZ0X1RsTFBfOEQzT2dQeldJa3htT0RvcEhIczh0STJ2elV2WVpwYVpFWmJyaUl2eEZFQ192ejVYZGJn?oc=5",
+      "site": "ChemNet News",
+      "siteUrl": "https://news.chemnet.com"
     },
     {
       "id": "FL-d07c996a9770",
