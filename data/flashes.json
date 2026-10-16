@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T05:04:13.954Z",
+  "updated": "2026-10-16T05:31:19.705Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -147,18 +147,6 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-385dd58b908a",
-      "date": "2026-08-11",
-      "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
-      "ts": 1786431600000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - 财新",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQcmdXTjEtaEEwQXAyc0dzZ29xdEtVZ3VnTzNSdEdIODhUbTkwVE1WYUJKZGlFN0N1TkdlQTNEZDA1SkNEejNqVS15STYwTURwckdUM0REQUMyTHdNQk5oSjlR?oc=5",
-      "site": "财新",
-      "siteUrl": "https://science.caixin.com"
-    },
-    {
       "id": "FL-cc9bcd177ed4",
       "date": "2026-10-15",
       "dateISO": "Thu, 15 Oct 2026 22:37:00 GMT",
@@ -207,6 +195,18 @@
       "siteUrl": "https://www.dw.com"
     },
     {
+      "id": "FL-9c6990b7ec21",
+      "date": "2026-10-15",
+      "dateISO": "Thu, 15 Oct 2026 11:18:00 GMT",
+      "ts": 1792063080000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "视频丨致敬先辈！我国原子弹爆炸成功62周年 - 环球网",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pa1BTd3BqWS1IcGc1bW9DaXNGS2RGYmtOckVteXZPQ1hVMGg0UGwwQW1VX2ZFczlSUVdvN3B5aUtpNXRkenRCWVJvWGwwelB0VDdudXg5MzQ?oc=5",
+      "site": "环球网",
+      "siteUrl": "https://china.huanqiu.com"
+    },
+    {
       "id": "FL-c2f3dd23d811",
       "date": "2026-10-15",
       "dateISO": "Thu, 15 Oct 2026 11:09:00 GMT",
@@ -241,6 +241,18 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UeGEwYjlqRjBBQUlxZHJoLTN5VFJFdUtNem9zbm0zWU9tMkRTRXR6Yy1WVWpPdWZKZm1kU0JUeEFFV2w2eWdRN2ZGcHFnaDRjM0JHdGZhcDBWY0tUUGlDa0pMcm5yWVlMWWU4VndTcXN3SXRmYWtN?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-2e679c048b83",
+      "date": "2026-10-15",
+      "dateISO": "Thu, 15 Oct 2026 03:28:44 GMT",
+      "ts": 1792034924000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "一充电站凌晨起火，两辆汽车烧毁严重，目击者称听到爆炸声响被惊醒 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGQS0xVnR5Y1hkd3pHNWpwbVdqNHJvbUxQdDY0bGhwOTcyMGthTWNqWFRHRGxsTFAtVUpoWFVDNVk2Vk1EbUgxSjMzcEdmMlQ1S2tnVmJWZjhLVk1WQTBlNG1WR0w2cWh5TlduMnVlYzU?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
     },
     {
       "id": "FL-121f1e76fcae",
@@ -327,28 +339,16 @@
       "siteUrl": "https://hub.baai.ac.cn"
     },
     {
-      "id": "FL-340d5e981918",
-      "date": "2026-08-23",
-      "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
-      "ts": 1787468400000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-0615dd398028",
-      "date": "2026-08-02",
-      "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
-      "ts": 1785654000000,
+      "id": "FL-08d5beb77eeb",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
+      "ts": 1790406000000,
       "scope": "intl",
       "type": "blast",
-      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 新华网客户端",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaEUzM21qMG8zSnRRcy1iYjkwOUxBeWEyRnVHaVNZcmhIZ0FwS0lUYWhndmd0WHp1ZHpxVTZSYUlMLUVGVWxseUcwOEprSHA4MExzeFFxVFV3OVlacVc3dTVvMi1VUUVsVXlTb3I1bWlUS3dDUlBzcEs4allydkhIdFU3ckVMZjJPVXQ0ZWJQWkFWNEpITlhnTlR3?oc=5",
+      "site": "新华网客户端",
+      "siteUrl": "https://app.xinhuanet.com"
     },
     {
       "id": "FL-5e735aebc1c3",
@@ -361,18 +361,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlemFCa3lteDlkZERLTXRLMHhpeTIzNmFqanFBczVPaFNjQjVxOHNJNm54Tkhua1FqOGtuaUhBLWdRSWxXaFRoZThQZXJqclRIV1pUaTNhcjhHU0dwRzA1WXNQc2ZOVEhXX0Z1NUVBcnBUalJRWkE3ZlE0S3NOaXM?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-db89ce9321bb",
-      "date": "2026-10-10",
-      "dateISO": "Sat, 10 Oct 2026 17:44:13 GMT",
-      "ts": 1791654253000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "现场直击｜沙特首都国际机场传出爆炸声 已无航班起降 - 新华网客户端",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT0NvdzFyLWpxOTZrdGFSV0RwTHlkQzFaSkRKbXN3UmZiLUdQUVIxRm02Q0pZS1dReEt4Zmp6UDRhN0phNDFvMXJmeEltNkdoNlViZ01acEFQQ1lmMEpVSGszSlJpODJYMEdwU1ZPZVIzOVpab0FhMmZsZ0RBamJFRElwbVAwaUc5bDh3VWN0TDVMNlJ5SkV5ZnpB?oc=5",
-      "site": "新华网客户端",
-      "siteUrl": "https://app.xinhuanet.com"
     },
     {
       "id": "FL-3ebd1fca1fd7",
