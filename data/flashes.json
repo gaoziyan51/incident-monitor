@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T21:34:22.548Z",
+  "updated": "2026-10-16T22:00:48.667Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -27,16 +27,16 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
-      "id": "FL-6080d77b9174",
+      "id": "FL-2200270747cc",
       "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 10:32:00 GMT",
-      "ts": 1791973920000,
+      "dateISO": "Wed, 14 Oct 2026 09:15:00 GMT",
+      "ts": 1791969300000,
       "scope": "intl",
       "type": "blast",
-      "title": "“北溪”管道爆炸案在德国开庭 一乌克兰籍嫌疑人出庭 - 中国网新闻中心",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2RVZEb25GQ2lWSWlNRjd1VTZGSDV4V0c5UlBqMUlER2doWnl2X08wM3FrTWZnQlRQRXd0NHpLMExTS2dIcXJPQUNlSjk0ZHpadG40UGE4cDFyaEg3Z25PNWVzQzNkR3NWaGFF?oc=5",
-      "site": "中国网新闻中心",
-      "siteUrl": "http://news.china.com.cn"
+      "title": "“北溪”管道爆炸案在德国开庭 一乌克兰籍嫌疑人出庭 - 紫牛新闻",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XRFlVU0c3UGtIODhUaVZzRW40VDFLeEszdE8zRndrbXloWmJOb0ppeXZ1RzlPUUJwRmtRdHBXbTN4bF92am1VbHBULWFrMzFiR0xHZTYtQUV1TGE0b0ZKdFA1MjJ3VXE5SXc?oc=5",
+      "site": "紫牛新闻",
+      "siteUrl": "https://www.yzwb.net"
     },
     {
       "id": "FL-dcd5b58a6d84",
@@ -255,6 +255,18 @@
       "siteUrl": "https://m.huanqiu.com"
     },
     {
+      "id": "FL-bbe5f91d10c2",
+      "date": "2026-10-16",
+      "dateISO": "Fri, 16 Oct 2026 15:30:57 GMT",
+      "ts": 1792164657000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Thursday morning house explosion, fire injures one - KBZK News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZVNJUG13eC15aXpxTWJBYk03NFdzYmpQbDBsa2xlOGtlSlVnczU3U0NhZVlUT3ExZC01b3JhckFvZ2NWLXFpUDMzX3k0OHN4cGszenV0amR3aGhPRnByOGNLUWdHQUp4bldEZEJ5SE9icHFITzQ5ZkMza3l3YTRXTw?oc=5",
+      "site": "KBZK News",
+      "siteUrl": "https://www.kbzk.com"
+    },
+    {
       "id": "FL-f1084b0fc512",
       "date": "2026-10-16",
       "dateISO": "Fri, 16 Oct 2026 13:13:00 GMT",
@@ -375,6 +387,18 @@
       "siteUrl": "https://www.shanghai.gov.cn"
     },
     {
+      "id": "FL-6c29ae4f3dba",
+      "date": "2026-10-16",
+      "dateISO": "Fri, 16 Oct 2026 02:35:32 GMT",
+      "ts": 1792118132000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "致敬先辈！我国原子弹爆炸成功62周年 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ0hIOUFuSUVPRjRnLWRYOUdiZk1INk9aNkI3UXo4cGEzMmZtMHEyRTlXLWZLUHg4M3lza3J4ZFBlNlplWktDOHEtNExnLTlZZVZxc1VWOUJPWTNYU2taTTU2TGFxNFlhRFh0Z2ZXX0xnQ2RHcG1UWkFaemlmSk1YNHFtZ002bDZkT2llVw?oc=5",
+      "site": "搜狐",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-516d10deafd9",
       "date": "2026-10-16",
       "dateISO": "Fri, 16 Oct 2026 02:27:46 GMT",
@@ -397,18 +421,6 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9IOGZNamJHN3lfTGdqd0RTaEtqZ0l4c20tWDZycmZ0X1RsTFBfOEQzT2dQeldJa3htT0RvcEhIczh0STJ2elV2WVpwYVpFWmJyaUl2eEZFQ192ejVYZGJn?oc=5",
       "site": "ChemNet News",
       "siteUrl": "https://news.chemnet.com"
-    },
-    {
-      "id": "FL-d07c996a9770",
-      "date": "2026-10-16",
-      "dateISO": "Fri, 16 Oct 2026 01:21:31 GMT",
-      "ts": 1792113691000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "中国第一颗原子弹爆炸成功62周年 核科技点亮强国之路 - 中华网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42TVRHd1NtQ2Y1a2dGLU1SbTlRd1N1MnFBSnJoT3dfWmJ1MXF2SEdlX3JoRUlmcFNUaWEzaklZdUdMSkVBSmpaRE5hVmQ0ejA0bmpnRS1sVmlzY1QxM1dqeVhMRmdHQ0JQRExQc2lzS1A?oc=5",
-      "site": "中华网",
-      "siteUrl": "https://news.china.com"
     },
     {
       "id": "FL-f4102bbc53f7",
