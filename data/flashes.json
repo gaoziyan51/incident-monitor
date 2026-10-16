@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T12:09:55.210Z",
+  "updated": "2026-10-16T12:46:10.495Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -75,6 +75,18 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
+      "id": "FL-385dd58b908a",
+      "date": "2026-08-11",
+      "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
+      "ts": 1786431600000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - 财新",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQcmdXTjEtaEEwQXAyc0dzZ29xdEtVZ3VnTzNSdEdIODhUbTkwVE1WYUJKZGlFN0N1TkdlQTNEZDA1SkNEejNqVS15STYwTURwckdUM0REQUMyTHdNQk5oSjlR?oc=5",
+      "site": "财新",
+      "siteUrl": "https://science.caixin.com"
+    },
+    {
       "id": "FL-526ce4a76d2a",
       "date": "2026-10-15",
       "dateISO": "Thu, 15 Oct 2026 22:30:48 GMT",
@@ -109,18 +121,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Cc0x0Q0VPVS1MbVNfd0xzeUR2ZzhBcWhzZ0xsRGYyT3pYVnFBbVd6U3YtSEh3a0NsOHlWaFBEdHF3em43SUUybzFWMEZURDA5MHVBVF83M2hMd2YtMGF0VWtB?oc=5",
       "site": "闪电新闻",
       "siteUrl": "https://sdxw.iqilu.com"
-    },
-    {
-      "id": "FL-268f06752aaa",
-      "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 13:47:20 GMT",
-      "ts": 1792072040000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "北溪爆炸案德国开审 被告律师称北溪管道或为“合法打击目标” - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQaHBNeC1jZHk3Rml6di13a0h2dE11cmpDYWF3LWFJaFpWVjZNYnZDT0RqU2R6Y3g0dFpVZGEtcVYySldUVzJIX0c2WVV6ajBaTGt0b044dmViNHoya01hZGtmREpUYk5na3VQSWt4azFIbTQ1SjVjZlJEYS1JZXRZcUp6cnFCekdvcVFmQkFrSzRNU3NOalQxMHVKeGlISjZlVGJVQkpFVEpGbnBTZVJKbG5PRy10Qy1KY09BNDE4OUpMUENEM28ycWVNakJhSWZmbE45SWt3cVFMaDJlaVBtbWR3MWlxMWpmaG9XeGVmT0VlWnRqQnQwcFBxNDA3Q3FjZVNCbFpKM3VEc0xYN0xucWEyMnctVE5WTDA0OEFOODdWUzIweXJmb2xfYldLYXNfUDFXNWQzVnpwbUpCM05oODBwU1MwYUVfV0JfZnZlXzdaQk0tdElIWlFoS2Qzck1UWF9tVzRnMDJWczFmZVg2V0tZd3lockZ6eTFjM1RQTGNlWmFHMGIzOFptRGpXQdIBjgNBVV95cUxNMU0wa3VnanM1MDh1Qm9UY2FpbmdBUTFMdEJPclBjeFBHMkk3QVhOLUR6X0JMdldiTjJuZXdHSnVlZkpBWVhNbkQ2cjlzZndZVjRUR09DVnpxM0JMY1gzTkJ1dUFGbFByZS13d2Q3MlMzem9sazh4V0twUjBzM3o1UUgxYlVUYUZTOTA1M3oxT3dTc1VSd2tCX0JKWWRsSms3Y3c3Yl9OdFR2YnhZRmVkLWthS2JSQkt3UGhwOVNsTTItYmpQMmVMdEFMckpDOFAwdVB6anFSYlFjOFJSQ1NzcWlKQWx5MTVaajhTclNfbXFrakdaM25rT2xEeXdGaWMwY0xtREdoOU9kNFFTNnY5X0RHUjhUOHZzM1hMM3doNXlpck1SRDN2UWtJVlhQYldyWHFsM1JPam9PUjFLRWxqTGozLW1MVGZOc1ZmQVN6djVTMWxWYjFJMW9VY0xEOFA3b25sd0NfcGpkWEJrN25WRVFDTnVWMUJkQ0xGNWRrcTF1MEJ4MEVNbkpLLWs5QQ?oc=5",
-      "site": "DW.com",
-      "siteUrl": "https://www.dw.com"
     },
     {
       "id": "FL-7e68cdb69eb5",
@@ -169,18 +169,6 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwMl9ObnJrQm00V0FmaGlnb2JJUXRTdFBzRVRkY3JnSzByR0xNZnhmek1QNktEN0xrVUxZMmpweE54Ti1Hd2FaUTM1alVlODNCNE9j?oc=5",
       "site": "电子工程专辑",
       "siteUrl": "https://www.eet-china.com"
-    },
-    {
-      "id": "FL-ecd11fec570e",
-      "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 01:43:39 GMT",
-      "ts": 1792028619000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "英特尔以色列工厂突发爆炸：危化品泄漏，3人重伤 - 国际电子商情",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2WWtNM0VualJ4bnRxa0dPclNtRjd1cFU3ZGpSX0pFRDB0aGU5VlNEa2laOEdzZV9QaFBIUTJ4VW9YeGNDdE5NT2ZOeFJiNF9xV1E?oc=5",
-      "site": "国际电子商情",
-      "siteUrl": "https://www.esmchina.com"
     },
     {
       "id": "FL-c107f91f2bac",
@@ -435,16 +423,16 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-e1d1b317b91e",
+      "id": "FL-268f06752aaa",
       "date": "2026-10-16",
-      "dateISO": "Fri, 16 Oct 2026 00:15:50 GMT",
-      "ts": 1792109750000,
+      "dateISO": "Fri, 16 Oct 2026 00:47:20 GMT",
+      "ts": 1792111640000,
       "scope": "intl",
       "type": "blast",
-      "title": "当地居民：周边传出6次剧烈爆炸声！也门官员：胡塞武装向亚丁总统府发射6枚弹道导弹，3人死亡 - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWmVtSmp3dzJYZExqd0ZjYm1mX1dLY0ctLUp2TUp1ZTdEZXRDZ1VIdzNSWEIzeFBSa2dwVUlvOXlhMF9qUGpqNWljYzh5UVpWNUNielhwa0lYRzlOX2t3amUtTnVIb0dBQkhxZnJVcmdWRUlCMHRqby0wTmRBbnpfNDVLUHRESmNE?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
+      "title": "北溪爆炸案德国开审 被告律师称北溪管道或为“合法打击目标” - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQaHBNeC1jZHk3Rml6di13a0h2dE11cmpDYWF3LWFJaFpWVjZNYnZDT0RqU2R6Y3g0dFpVZGEtcVYySldUVzJIX0c2WVV6ajBaTGt0b044dmViNHoya01hZGtmREpUYk5na3VQSWt4azFIbTQ1SjVjZlJEYS1JZXRZcUp6cnFCekdvcVFmQkFrSzRNU3NOalQxMHVKeGlISjZlVGJVQkpFVEpGbnBTZVJKbG5PRy10Qy1KY09BNDE4OUpMUENEM28ycWVNakJhSWZmbE45SWt3cVFMaDJlaVBtbWR3MWlxMWpmaG9XeGVmT0VlWnRqQnQwcFBxNDA3Q3FjZVNCbFpKM3VEc0xYN0xucWEyMnctVE5WTDA0OEFOODdWUzIweXJmb2xfYldLYXNfUDFXNWQzVnpwbUpCM05oODBwU1MwYUVfV0JfZnZlXzdaQk0tdElIWlFoS2Qzck1UWF9tVzRnMDJWczFmZVg2V0tZd3lockZ6eTFjM1RQTGNlWmFHMGIzOFptRGpXQdIBjgNBVV95cUxNMU0wa3VnanM1MDh1Qm9UY2FpbmdBUTFMdEJPclBjeFBHMkk3QVhOLUR6X0JMdldiTjJuZXdHSnVlZkpBWVhNbkQ2cjlzZndZVjRUR09DVnpxM0JMY1gzTkJ1dUFGbFByZS13d2Q3MlMzem9sazh4V0twUjBzM3o1UUgxYlVUYUZTOTA1M3oxT3dTc1VSd2tCX0JKWWRsSms3Y3c3Yl9OdFR2YnhZRmVkLWthS2JSQkt3UGhwOVNsTTItYmpQMmVMdEFMckpDOFAwdVB6anFSYlFjOFJSQ1NzcWlKQWx5MTVaajhTclNfbXFrakdaM25rT2xEeXdGaWMwY0xtREdoOU9kNFFTNnY5X0RHUjhUOHZzM1hMM3doNXlpck1SRDN2UWtJVlhQYldyWHFsM1JPam9PUjFLRWxqTGozLW1MVGZOc1ZmQVN6djVTMWxWYjFJMW9VY0xEOFA3b25sd0NfcGpkWEJrN25WRVFDTnVWMUJkQ0xGNWRrcTF1MEJ4MEVNbkpLLWs5QQ?oc=5",
+      "site": "DW.com",
+      "siteUrl": "https://www.dw.com"
     },
     {
       "id": "FL-b74e9b664c6a",
