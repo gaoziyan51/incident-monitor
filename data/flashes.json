@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T19:57:51.717Z",
+  "updated": "2026-10-16T20:14:54.580Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -111,18 +111,6 @@
       "siteUrl": "https://news.ifeng.com"
     },
     {
-      "id": "FL-d713e068de74",
-      "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 11:30:11 GMT",
-      "ts": 1792063811000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "浏阳烟花爆炸事故搜救结束 - 第一财经",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JZ0UxWW1ybHRqbTh2QkpYTlFmR1cyMXJfNjJ6SDhLNlhQLWVDMmtoLV9scHlreVBYYWhIOWNUY3pZbHp4LTdxd0loc2JQaFZnaUhNdQ?oc=5",
-      "site": "第一财经",
-      "siteUrl": "https://www.yicai.com"
-    },
-    {
       "id": "FL-7e68cdb69eb5",
       "date": "2026-10-15",
       "dateISO": "Thu, 15 Oct 2026 06:23:42 GMT",
@@ -183,6 +171,18 @@
       "siteUrl": "https://www.eet-china.com"
     },
     {
+      "id": "FL-340d5e981918",
+      "date": "2026-08-23",
+      "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
+      "ts": 1787468400000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
       "id": "FL-0615dd398028",
       "date": "2026-08-02",
       "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
@@ -207,16 +207,28 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-c3678fd2ecec",
-      "date": "2026-10-12",
-      "dateISO": "Mon, 12 Oct 2026 15:29:27 GMT",
-      "ts": 1791818967000,
+      "id": "FL-db89ce9321bb",
+      "date": "2026-10-10",
+      "dateISO": "Sat, 10 Oct 2026 17:44:13 GMT",
+      "ts": 1791654253000,
       "scope": "intl",
       "type": "blast",
-      "title": "以色列北部发生疑似未爆弹药爆炸致1死19伤 - 新华网客户端",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa2s2QXhPaDJLalZ3b2E5ZEZHbW9DajJpaW9wMkdIc0l3TFVvWWdoQzBvYUF2U3RvbHUzQ3kxNHg5RWV1dkdxU2plSmowUU9Cd1NVS05tNlVaUVJkWWhBbTdPVGxxeDR5MzRDc1FiVzdMR18wWjBZOVl4aGZGSmJfdGNJZmNaUXRZdmhFTU5JZnYxY0M4YnNHYUpR?oc=5",
+      "title": "现场直击｜沙特首都国际机场传出爆炸声 已无航班起降 - 新华网客户端",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT0NvdzFyLWpxOTZrdGFSV0RwTHlkQzFaSkRKbXN3UmZiLUdQUVIxRm02Q0pZS1dReEt4Zmp6UDRhN0phNDFvMXJmeEltNkdoNlViZ01acEFQQ1lmMEpVSGszSlJpODJYMEdwU1ZPZVIzOVpab0FhMmZsZ0RBamJFRElwbVAwaUc5bDh3VWN0TDVMNlJ5SkV5ZnpB?oc=5",
       "site": "新华网客户端",
       "siteUrl": "https://app.xinhuanet.com"
+    },
+    {
+      "id": "FL-3ebd1fca1fd7",
+      "date": "2026-10-12",
+      "dateISO": "Mon, 12 Oct 2026 16:14:23 GMT",
+      "ts": 1791821663000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "以黎边境遗留弹药爆炸已致1死19伤 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZUG1NNGpKanlkSGMwYUx4aWdiZ0VzZEpjUGoySXdxU2p3Xy1FRzd2SkpUa1lBUXd3dnJtZXY1a3BpUnZBZVhxeHBobi1GaXhCSTNsamFRR3B0TEoyTk5janJKcG9yVkMtMHJDZkVHTWEzdS1lWC0yMg?oc=5",
+      "site": "央视网",
+      "siteUrl": "https://news.cctv.com"
     },
     {
       "id": "FL-c39833bbfc21",
