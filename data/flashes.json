@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T04:06:05.588Z",
+  "updated": "2026-10-16T04:32:22.389Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -49,18 +49,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kSWJwQ1U0U1F1RG9jZlIyVWhrZW1RUF93VjZETkc4bVVsZEplV2U1M1JPR3FFNGNlWTZaVWJQNDItOE9sOGg4WHV4blFITWVzZnNwemxiLUVGTEQwM3JmSXpUbF92d1lxYlI2TjdxZ0E?oc=5",
       "site": "中国科技网",
       "siteUrl": "https://www.stdaily.com"
-    },
-    {
-      "id": "FL-0c8e05861d7e",
-      "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 17:00:43 GMT",
-      "ts": 1791997243000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "包钢股份因“1·18”爆炸事故被罚200万元，近1年无研报覆盖_公司新闻 - 证券之星",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zbUR5SF9idFA1cUNXS0FwS3FOYXdGZks5YWlmVk9IWFYzUTh0akJ6U2ZFN3NkOUJLY1JlVnFyanE2V3gwUElXd1NhT1hQdlgxV2JCZEYzN1hWQnBHOXl6ODNB?oc=5",
-      "site": "证券之星",
-      "siteUrl": "https://stock.stockstar.com"
     },
     {
       "id": "FL-50a5657f21ea",
@@ -171,40 +159,16 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-385dd58b908a",
-      "date": "2026-08-11",
-      "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
-      "ts": 1786431600000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - 财新",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQcmdXTjEtaEEwQXAyc0dzZ29xdEtVZ3VnTzNSdEdIODhUbTkwVE1WYUJKZGlFN0N1TkdlQTNEZDA1SkNEejNqVS15STYwTURwckdUM0REQUMyTHdNQk5oSjlR?oc=5",
-      "site": "财新",
-      "siteUrl": "https://science.caixin.com"
-    },
-    {
       "id": "FL-526ce4a76d2a",
       "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 22:30:48 GMT",
-      "ts": 1792103448000,
+      "dateISO": "Thu, 15 Oct 2026 22:41:01 GMT",
+      "ts": 1792104061000,
       "scope": "dom",
       "type": "blast",
       "title": "东方巨响！62年前，这条“爆炸”新闻震惊世界 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nOWZrSFFnOFZKN3p0WWZjamNvMG1IR2lVTWcyZzJZOWJxSzhhMkVlVV92XzFfMTd3RkhXakc3TXR3OEV3QTVyc3NvSmFpdVlvVGNibVNzSTFOU1FBY2c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE05XzVPejlmYlNNYjAwUjhFS0R1dVZSQU5kU1pKUnVSWnMwdTRERzFSZ2xZcFl2dWdLakplWmQzOVEzdS1sWXRYYy1ZbEtmNGZfaDlmczBsRDlkMVU3X19IOHM3QlZpWVBLeUUwMXlNMHRYQQ?oc=5",
       "site": "京报网",
-      "siteUrl": "https://news.bjd.com.cn"
-    },
-    {
-      "id": "FL-fb4d33ba9e36",
-      "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 19:46:00 GMT",
-      "ts": 1792093560000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "以色列英特尔工厂爆炸致两名工人身亡警方调查疑似气瓶故障- Intel 英特尔 - cnBeta.COM",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xajlnd2llNnpPYjhHMWQ2cUI5MnRlcHNNNUc0ak95WlNBWHI5YUlOTmt1UmtiWFFZcUFKZ2dWMml4M2U3TS12OG52X0txQlJNUk1EbmlSQTFZaDhGd28tbw?oc=5",
-      "site": "cnBeta.COM",
-      "siteUrl": "https://www.cnbeta.com.tw"
+      "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
       "id": "FL-ac0f384daaf0",
@@ -291,16 +255,16 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-92d2c9ebb245",
+      "id": "FL-6f983d6cf834",
       "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 03:55:22 GMT",
-      "ts": 1792036522000,
-      "scope": "intl",
+      "dateISO": "Thu, 15 Oct 2026 04:21:11 GMT",
+      "ts": 1792038071000,
+      "scope": "dom",
       "type": "blast",
-      "title": "“北溪”天然气管道爆炸案嫌疑人在德国受审 - 旅日侨网",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQTFNdUdkQkFoQ0ZEcDBneW94VjdzVENoXzBsd25sSjV4WHY3VDJRNXNtazhUVENPeU1KSXlodHM1YW40M19IVjA4UWlXTEZmbWYxbFh6OV9Fb1lXZm1IYVBpX2huUVZ2TkZyVFlrRjl6UGlYY1lYQ0ZJTThmZkxqakNrNjZXQmV2bHc?oc=5",
-      "site": "旅日侨网",
-      "siteUrl": "https://www.jpchinapress.com"
+      "title": "美太空军升级卫星核爆炸传感器 - 未来天玑",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85MzdOZE5Zb3lqQTh3eE5tbGdBVWZWa2I5SEVDRDVqS3NJNjI2ZDNvLVFfYUE3REwzZS12dWx4WlpCSXpvdWZKNjFIMzVNLURsQWc?oc=5",
+      "site": "未来天玑",
+      "siteUrl": "https://www.futurephecda.com"
     },
     {
       "id": "FL-2e679c048b83",
@@ -351,6 +315,18 @@
       "siteUrl": "https://www.eet-china.com"
     },
     {
+      "id": "FL-b8d1891dfc30",
+      "date": "2026-10-15",
+      "dateISO": "Thu, 15 Oct 2026 01:45:01 GMT",
+      "ts": 1792028701000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "英特尔以色列晶圆厂爆炸：1人死亡，2人重伤！ - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSEdZYndtbVFLUFA4YXMzMmJvLUFIaTVIQjJaNVlLR2lMQWMtZ1Vwano0Umd0YW9kdjJOSGtaQU5FcEJQOG9ENGdxdm1KcGVEUzNPNHNrZWo2NHladVlSUzh2bFluUVlxLUVKS1RmeVQwQXJJWmprdDBMM1o2OHEwSHhZQWl1Mml5?oc=5",
+      "site": "搜狐",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-ecd11fec570e",
       "date": "2026-10-15",
       "dateISO": "Thu, 15 Oct 2026 01:43:39 GMT",
@@ -361,6 +337,18 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2WWtNM0VualJ4bnRxa0dPclNtRjd1cFU3ZGpSX0pFRDB0aGU5VlNEa2laOEdzZV9QaFBIUTJ4VW9YeGNDdE5NT2ZOeFJiNF9xV1E?oc=5",
       "site": "国际电子商情",
       "siteUrl": "https://www.esmchina.com"
+    },
+    {
+      "id": "FL-c107f91f2bac",
+      "date": "2026-10-15",
+      "dateISO": "Thu, 15 Oct 2026 01:32:00 GMT",
+      "ts": 1792027920000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "“北溪”天然气管道爆炸案嫌疑人在德国受审 - Shangbao Indonesia",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNak1XTFZsdjVGejBtejNTcnVXcGM4OUhYR1QwbjQ5SXdsQ3FoNWRYZjVPOEpYNXBWNEMtdnVBRWloeDJmMEt4bVMyNGFEeHFnalJ2Y3J0RHpMaWFTd2tsalJxMFc0SkFGTDVyX2Y5WVkwN0RlMjNzb3lJTXd2RF9hN2wxakt4UQ?oc=5",
+      "site": "Shangbao Indonesia",
+      "siteUrl": "https://www.shangbaoindonesia.com"
     },
     {
       "id": "FL-d8c28d5a1c29",
@@ -375,28 +363,28 @@
       "siteUrl": "https://hub.baai.ac.cn"
     },
     {
-      "id": "FL-340d5e981918",
-      "date": "2026-08-23",
-      "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
-      "ts": 1787468400000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-0615dd398028",
-      "date": "2026-08-02",
-      "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
-      "ts": 1785654000000,
+      "id": "FL-65a837ede06b",
+      "date": "2026-10-04",
+      "dateISO": "Sun, 04 Oct 2026 07:00:00 GMT",
+      "ts": 1791097200000,
       "scope": "intl",
       "type": "blast",
-      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
+      "title": "乌首都基辅响起强烈爆炸声 一桥梁再次遭袭 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50ajJWMmw0dWRvT2JnSW01VnhEZDZ3WUVydFZlSjBabUVPMW16aHRaeTRiUDgwZzg4blo3bWVtOHJQaVNqYkxtb1hCdEtyQkJXOTFqeTJNWWtHbU1oZlZtdHFwZFVlRjM3clAyWFpralZNWkNIT3VyOQ?oc=5",
+      "site": "央视网",
+      "siteUrl": "https://news.cctv.com"
+    },
+    {
+      "id": "FL-08d5beb77eeb",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
+      "ts": 1790406000000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 新华网客户端",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaEUzM21qMG8zSnRRcy1iYjkwOUxBeWEyRnVHaVNZcmhIZ0FwS0lUYWhndmd0WHp1ZHpxVTZSYUlMLUVGVWxseUcwOEprSHA4MExzeFFxVFV3OVlacVc3dTVvMi1VUUVsVXlTb3I1bWlUS3dDUlBzcEs4allydkhIdFU3ckVMZjJPVXQ0ZWJQWkFWNEpITlhnTlR3?oc=5",
+      "site": "新华网客户端",
+      "siteUrl": "https://app.xinhuanet.com"
     },
     {
       "id": "FL-5e735aebc1c3",
@@ -409,6 +397,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlemFCa3lteDlkZERLTXRLMHhpeTIzNmFqanFBczVPaFNjQjVxOHNJNm54Tkhua1FqOGtuaUhBLWdRSWxXaFRoZThQZXJqclRIV1pUaTNhcjhHU0dwRzA1WXNQc2ZOVEhXX0Z1NUVBcnBUalJRWkE3ZlE0S3NOaXM?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-db89ce9321bb",
+      "date": "2026-10-10",
+      "dateISO": "Sat, 10 Oct 2026 17:44:13 GMT",
+      "ts": 1791654253000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "现场直击｜沙特首都国际机场传出爆炸声 已无航班起降 - 新华网客户端",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT0NvdzFyLWpxOTZrdGFSV0RwTHlkQzFaSkRKbXN3UmZiLUdQUVIxRm02Q0pZS1dReEt4Zmp6UDRhN0phNDFvMXJmeEltNkdoNlViZ01acEFQQ1lmMEpVSGszSlJpODJYMEdwU1ZPZVIzOVpab0FhMmZsZ0RBamJFRElwbVAwaUc5bDh3VWN0TDVMNlJ5SkV5ZnpB?oc=5",
+      "site": "新华网客户端",
+      "siteUrl": "https://app.xinhuanet.com"
     },
     {
       "id": "FL-3ebd1fca1fd7",
