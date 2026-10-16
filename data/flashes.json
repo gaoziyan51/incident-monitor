@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T10:13:24.148Z",
+  "updated": "2026-10-16T10:44:38.673Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -39,14 +39,14 @@
       "siteUrl": "http://news.china.com.cn"
     },
     {
-      "id": "FL-18c3fa62bba8",
+      "id": "FL-d933960c920a",
       "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 09:12:06 GMT",
-      "ts": 1791969126000,
-      "scope": "dom",
+      "dateISO": "Wed, 14 Oct 2026 09:28:55 GMT",
+      "ts": 1791970135000,
+      "scope": "intl",
       "type": "blast",
-      "title": "200万元罚单落地！包钢股份因“1·18”爆炸事故被追责，两名工作人员相关资格遭吊销 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qSTM2RmFMZ1EwYnlFMThoS0FheThONUk1YVptTllmR2lPX3dkUlRtWXdQQjlUSl8yWmlmTG1XcVB6OGphZWhaUXBjZ3pMVzlydmNUaUpMaDdWV1JuS1NtMUNTNEFyQQ?oc=5",
+      "title": "英特尔在以色列工厂发生爆炸致3人受伤 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YNmF1N0JFZnpUdUlHUjhPQzdiNU5GRV9fQlF6emktTEJRaGktZEhobnYyLTZHWTAzME1PYU5HN3JtRWRtX0lqa0ZuR2xaTHZMZ0VuQ3pNSTNVcGZBRklBT19GTXJ3UQ?oc=5",
       "site": "东方财富",
       "siteUrl": "https://finance.eastmoney.com"
     },
@@ -61,18 +61,6 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VMXZkemRUSmc5cW82UngzUlBBVW1aZ2w1aERuWDNtbEFHWm04OC1udzltMkpKRFBRQko5Q0hJMHFkODZEYnBEWjdXNFg0X0pxMHNtRlBWSlpmcFVKTTNsLVd4ek52UENVQzE2c1diaTFSMGhUMXRrRmRkclVJZw?oc=5",
       "site": "新华网",
       "siteUrl": "http://www.xinhuanet.com"
-    },
-    {
-      "id": "FL-d646025b1946",
-      "date": "2026-10-07",
-      "dateISO": "Wed, 07 Oct 2026 22:38:00 GMT",
-      "ts": 1791412680000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "湖南临澧“6·16”烟花爆炸事故调查报告公布 - 封面新闻",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91enlpNldsRnhkeFAxV3pqa24ta2lidWptTFhfQjFsM0ZRR0F2Z1NOUXdsR2pkSHpqOHMxVGphZGpUbnhVYXNyajlMazNlanNGUmpkQW1XOXlNazk1bVdVeV9sZi1nZjZhd01jamkzNTI2dWdrTzI1TElR?oc=5",
-      "site": "封面新闻",
-      "siteUrl": "https://m.thecover.cn"
     },
     {
       "id": "FL-622b0601ec92",
@@ -157,6 +145,18 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UeGEwYjlqRjBBQUlxZHJoLTN5VFJFdUtNem9zbm0zWU9tMkRTRXR6Yy1WVWpPdWZKZm1kU0JUeEFFV2w2eWdRN2ZGcHFnaDRjM0JHdGZhcDBWY0tUUGlDa0pMcm5yWVlMWWU4VndTcXN3SXRmYWtN?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-121f1e76fcae",
+      "date": "2026-10-15",
+      "dateISO": "Thu, 15 Oct 2026 02:47:12 GMT",
+      "ts": 1792032432000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "“北溪”爆炸案首次开庭，德乌关系与国际法难题同时浮现 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAyY0dPZVZlOThST1NGWVJDTDdBejlJRGVMc1A3M0p0TEdSdnlSX1dJTkpIck9kVG5ERmVULU1POVdXMWlfcEJpeHJac2U?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://news.ifeng.com"
     },
     {
       "id": "FL-268b0ada7e86",
@@ -315,18 +315,6 @@
       "siteUrl": "https://news.china.com"
     },
     {
-      "id": "FL-7edcaeb62761",
-      "date": "2026-10-16",
-      "dateISO": "Fri, 16 Oct 2026 05:39:00 GMT",
-      "ts": 1792129140000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "62年前中国第一颗原子弹爆炸成功 东方巨响震惊世界 - 中华网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zd0psb0NGZUFLSTkzNF9SQ202dnN6OHppdHRIaGR3TllOdVFzOWVPRkFVcHAxRXl1WU5QWWw5UnVSOHJKSEJDZllvSUVXN1pvbWJpaHUxTFZkdENOaFU3TldSM3JoMWdhd0k0aGprczQ?oc=5",
-      "site": "中华网",
-      "siteUrl": "https://news.china.com"
-    },
-    {
       "id": "FL-319ffa75aa12",
       "date": "2026-10-16",
       "dateISO": "Fri, 16 Oct 2026 05:37:59 GMT",
@@ -363,18 +351,6 @@
       "siteUrl": "https://k.sina.com.cn"
     },
     {
-      "id": "FL-aab742783899",
-      "date": "2026-10-16",
-      "dateISO": "Fri, 16 Oct 2026 03:45:00 GMT",
-      "ts": 1792122300000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Scientist shares concerning results from independent testing done near Brent Industries fire and explosion site - WTOL",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQTTVMODVPRFFxQ1lHVGc3czdKaEo2Wl9IbV82X2RWYzNMRnpRQUg4d1VTVy05NW84elJBZ0JoOG8yajhoc3hUTnVBZzlid3pnMmI4ZjdLaE5yd0JqVGxzYjlvdThKVU9IUjBkclBkekdfdmpiVmR0Y0VHMzlfYnVnNUFibW1VZFBneGZlWDRWU0NHd0xodHNQcGhjQ01YTzh5cnZZRDBCNlNlZUY4cENrZk9NVkRUdjlFSEFkOUFsR3VYMEk4WjZSU3lraGVaYWMyNzBjV1ZVSmJON0lWYkZBTjBxVTNjZ1RzYzJ0YWNiNzZ4WWlzSmd4dDZvbFh2UWRtY3FjUVkwZlBOa2Nfd2o3aVFpNWRVRmxvRjQ3S0tfeTA?oc=5",
-      "site": "WTOL",
-      "siteUrl": "https://www.wtol.com"
-    },
-    {
       "id": "FL-9b84aa16f31e",
       "date": "2026-10-16",
       "dateISO": "Fri, 16 Oct 2026 03:40:53 GMT",
@@ -385,18 +361,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTndzVWl0bjAyeHYtLTdLTmNHOUNDNlNoeGlBcXRlU3dpNi1WYWlvMzM4Y0RoOTBOR1hobWJyYXIxV1hoREZJbERMdlRBcVpPU0k4ZURFZjVtN3NZc2hjNDZiNG5KaEVFdTdNdExfNW9aUkxvQmhEVGNPY3ZJNTAyYU1HTi0wb2NXNVE?oc=5",
       "site": "上海市人民政府",
       "siteUrl": "https://www.shanghai.gov.cn"
-    },
-    {
-      "id": "FL-6c29ae4f3dba",
-      "date": "2026-10-16",
-      "dateISO": "Fri, 16 Oct 2026 02:35:32 GMT",
-      "ts": 1792118132000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "致敬先辈！我国原子弹爆炸成功62周年 - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ0hIOUFuSUVPRjRnLWRYOUdiZk1INk9aNkI3UXo4cGEzMmZtMHEyRTlXLWZLUHg4M3lza3J4ZFBlNlplWktDOHEtNExnLTlZZVZxc1VWOUJPWTNYU2taTTU2TGFxNFlhRFh0Z2ZXX0xnQ2RHcG1UWkFaemlmSk1YNHFtZ002bDZkT2llVw?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-516d10deafd9",
