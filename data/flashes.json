@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T11:43:53.397Z",
+  "updated": "2026-10-16T12:09:55.210Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -75,18 +75,6 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-385dd58b908a",
-      "date": "2026-08-11",
-      "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
-      "ts": 1786431600000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - 财新",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQcmdXTjEtaEEwQXAyc0dzZ29xdEtVZ3VnTzNSdEdIODhUbTkwVE1WYUJKZGlFN0N1TkdlQTNEZDA1SkNEejNqVS15STYwTURwckdUM0REQUMyTHdNQk5oSjlR?oc=5",
-      "site": "财新",
-      "siteUrl": "https://science.caixin.com"
-    },
-    {
       "id": "FL-526ce4a76d2a",
       "date": "2026-10-15",
       "dateISO": "Thu, 15 Oct 2026 22:30:48 GMT",
@@ -125,8 +113,8 @@
     {
       "id": "FL-268f06752aaa",
       "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 13:43:53 GMT",
-      "ts": 1792071833000,
+      "dateISO": "Thu, 15 Oct 2026 13:47:20 GMT",
+      "ts": 1792072040000,
       "scope": "intl",
       "type": "blast",
       "title": "北溪爆炸案德国开审 被告律师称北溪管道或为“合法打击目标” - DW.com",
@@ -291,6 +279,18 @@
       "siteUrl": "https://m.huanqiu.com"
     },
     {
+      "id": "FL-615d7526d028",
+      "date": "2026-10-16",
+      "dateISO": "Fri, 16 Oct 2026 11:52:35 GMT",
+      "ts": 1792151555000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "特斯拉曝光新车内部测试画面：车辆腾空起飞，坠落爆炸 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE45YURsRTgzVEZZTm1Gb3FxVzNFRFZNN19sN2hBcFd4WlcwRmlWTEpveHBxc3JXSFhiMjZVS3dOSVliNk9zNEpRXw?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://i.ifeng.com"
+    },
+    {
       "id": "FL-d2fca6abea5c",
       "date": "2026-10-16",
       "dateISO": "Fri, 16 Oct 2026 07:44:00 GMT",
@@ -325,18 +325,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLNXlOZ3RUT1dGNFJtVHdUeE1rWURKVGhzcU9hQy0zTW1IbE9aNjZrbXVPRnNqb0YyZC1fVmZTWTJUbFFPekNHU2Q1a2VmWW5rbm84enh6bzlQVHpQenVZRjRaYk0zOTBORnB0cTN3MmU?oc=5",
       "site": "中华网",
       "siteUrl": "https://news.china.com"
-    },
-    {
-      "id": "FL-319ffa75aa12",
-      "date": "2026-10-16",
-      "dateISO": "Fri, 16 Oct 2026 05:37:59 GMT",
-      "ts": 1792129079000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "62年前，第一颗原子弹爆炸前夜里，他跋涉护送一颗“小球” - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQU1Q0d1Z4ZTJSZHk5Rk5Pcm5FVmdraFlDcDVQYzNxZG1SaU9oaVdOSVdGYnp6V0t1ZmdleHFoVkNUU3c4OGJsN1AwOHpNbnptTU1TNnZCcHdWeml0QnBqeVZLN0hMVFg4WGpqVVhpS00tSk82dGU5ZWQxZ2VVdVZpTjh5R25qblMyTy1Udw?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-10fe97a2164f",
