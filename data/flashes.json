@@ -1,19 +1,7 @@
 {
-  "updated": "2026-10-17T22:37:51.868Z",
+  "updated": "2026-10-17T22:55:58.295Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-7d8c45ca5bdc",
-      "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 17:45:00 GMT",
-      "ts": 1791999900000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "科学家捕获最远快速射电暴，源头位于大爆炸后约三十亿年星系 - 中国科技网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kSWJwQ1U0U1F1RG9jZlIyVWhrZW1RUF93VjZETkc4bVVsZEplV2U1M1JPR3FFNGNlWTZaVWJQNDItOE9sOGg4WHV4blFITWVzZnNwemxiLUVGTEQwM3JmSXpUbF92d1lxYlI2TjdxZ0E?oc=5",
-      "site": "中国科技网",
-      "siteUrl": "https://www.stdaily.com"
-    },
     {
       "id": "FL-d933960c920a",
       "date": "2026-10-14",
@@ -135,28 +123,16 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-1cdc7213279c",
+      "id": "FL-1a68825cafff",
       "date": "2026-10-17",
-      "dateISO": "Sat, 17 Oct 2026 22:18:00 GMT",
-      "ts": 1792275480000,
+      "dateISO": "Sat, 17 Oct 2026 22:27:00 GMT",
+      "ts": 1792276020000,
       "scope": "intl",
       "type": "blast",
-      "title": "苏丹首都圈地区一军事基地发生爆炸 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BMGhEc2s5SUNfZlBxUksxZGphY0dWa2pOTFE4ZGlTbnFhUDFEaTVtc014QUNOVEk1eFdpM01xRERfa2lRaFVrWXZqUWNOeVRCd0UwTm5ETk56OHE0SGI1alliMmlKRlJZZ3hXRGJoVU9Vdw?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://xinwen.bjd.com.cn"
-    },
-    {
-      "id": "FL-6edac1632b18",
-      "date": "2026-10-17",
-      "dateISO": "Sat, 17 Oct 2026 19:36:34 GMT",
-      "ts": 1792265794000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "苏丹首都圈地区一军事基地发生爆炸 - 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE56RDJsejN5NXF4Q2RITUFCZXlib1I1ZzM1ZjBVdU9XeUE5RjRmTDVaa290QXBFUFcwcUFGQXdNYmlaNFpKNFY5eHlVUQ?oc=5",
-      "site": "新浪网",
-      "siteUrl": "https://wap.cj.sina.cn"
+      "title": "苏丹首都圈地区一军事基地发生爆炸 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdnRhVF80ZlVDWkxkTjFpYjlITzk0R1A3Zi1Nc1BvMDY0RUQtRFU2eHJDeW02bHVLQTZneldzaXlxUW1XeFc2eGFOMU8zZzBLX2lJTjItSklXNHQ4Y1FuQWxqeU5pNjl5Nm8tcEREa3RONlBfcDNBYkxpYWVaY1hJYnJLNm1nR3pP?oc=5",
+      "site": "搜狐",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-2fdd39a1a516",
@@ -169,6 +145,18 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FMDktWFFKVUVtbzZ1Ym1PQUJxYUd3MUFhaVdSSE05Y1FESDZiRnBUQ0I2S2RvaGpZaDZ5a192U3huTThHUVZidmlnbkdVY0pYSmp5QUdLU3JQWllHNXc?oc=5",
       "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
+      "id": "FL-71c8322bb5c0",
+      "date": "2026-10-17",
+      "dateISO": "Sat, 17 Oct 2026 16:35:17 GMT",
+      "ts": 1792254917000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Explosion at Iraqi paramilitary alliance base kills one member, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMFdrc1I4NnJ2Z0NQeUM2c25pYzF4ekRXcFVHRHlYVWVVYXhhV0hDXzhVUWtUc2JCRnZmU0lZRkJlRkZudWNzUzJINWpDWWdFcG13SG5YVHJnMk9tcEE2Z3BtdHJ1VHdJcXA4eGNQYXVfcE1VX293QjhYQ0YtaVJUOU1kYjJoR2hPeUJJNlNDUzVfVnlxVUhINGJEV2UzTllWRWVrRmpuNG5ZVGY2SFFvcFpySlJsNUEtYmF6LVNEcEpnck0?oc=5",
+      "site": "Reuters",
+      "siteUrl": "https://www.reuters.com"
     },
     {
       "id": "FL-135923e4e83d",
@@ -363,16 +351,16 @@
       "siteUrl": "https://m.jstv.com"
     },
     {
-      "id": "FL-b74e9b664c6a",
-      "date": "2026-10-16",
-      "dateISO": "Fri, 16 Oct 2026 00:03:07 GMT",
-      "ts": 1792108987000,
-      "scope": "dom",
+      "id": "FL-84a9598aa100",
+      "date": "2026-06-12",
+      "dateISO": "Fri, 12 Jun 2026 07:00:00 GMT",
+      "ts": 1781247600000,
+      "scope": "intl",
       "type": "blast",
-      "title": "中国首颗原子弹成功爆炸珍贵画面 新中国站起来的炸响 - 中华军事",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DRTdTWkN2bklaOGhkenZPZWg1T3MyaFd2MGdTZ3BFaG83STNacjd2VmJEX2N6Si05ZW1ZOVk3OHBDSzdwLVdqWmtiU1FzUWl0SUd6amd0bGt5eTZYWmZ6YnJ5NXFFQlpuQlU4NVR5eE8?oc=5",
-      "site": "中华军事",
-      "siteUrl": "https://military.china.com"
+      "title": "泰国当局判处两维吾尔人死刑　BBC记者回忆当年的曼谷四面佛爆炸案 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92WW1HV0ttYlE2bUkxb2ZWUDVCSUNuTmRaQnNSWnpDTElPRUFUOXk3U3FoX2VKTm1FQ29TaDBocTUwMTZlMU1Za2hRUkxEMG9taGphNkZvSjI4UF9wUzVyU0E4amUyQdIBa0FVX3lxTE5YVGx2WWxZY1lKNjNHQ1huNHZQWWFqTW1MR0p6RnBwaVdSSXlKT1FEQmx6dzI3dVBIVm5jTVdpRHR6b05UeHRKdUVrZEFMbzcwOUJLcHhGWVBaN2tnU2c5QzFKTEdyZml6ZDg0?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
     }
   ]
 }
