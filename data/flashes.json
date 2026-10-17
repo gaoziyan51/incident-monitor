@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T23:54:43.364Z",
+  "updated": "2026-10-17T00:08:02.215Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -97,6 +97,18 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ITkdYUzdQeGE3MVBBUktvVFFjU210ZUhZLUhyY2t0MlI4U3NRTGlEVjAtZ1JBX1N1N0cxRnFkd2hKdWJPX29GNVZ2cFI?oc=5",
       "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com"
+    },
+    {
+      "id": "FL-268f06752aaa",
+      "date": "2026-10-15",
+      "dateISO": "Thu, 15 Oct 2026 13:16:30 GMT",
+      "ts": 1792070190000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "北溪爆炸案德国开审 被告律师称北溪管道或为“合法打击目标” - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQaHBNeC1jZHk3Rml6di13a0h2dE11cmpDYWF3LWFJaFpWVjZNYnZDT0RqU2R6Y3g0dFpVZGEtcVYySldUVzJIX0c2WVV6ajBaTGt0b044dmViNHoya01hZGtmREpUYk5na3VQSWt4azFIbTQ1SjVjZlJEYS1JZXRZcUp6cnFCekdvcVFmQkFrSzRNU3NOalQxMHVKeGlISjZlVGJVQkpFVEpGbnBTZVJKbG5PRy10Qy1KY09BNDE4OUpMUENEM28ycWVNakJhSWZmbE45SWt3cVFMaDJlaVBtbWR3MWlxMWpmaG9XeGVmT0VlWnRqQnQwcFBxNDA3Q3FjZVNCbFpKM3VEc0xYN0xucWEyMnctVE5WTDA0OEFOODdWUzIweXJmb2xfYldLYXNfUDFXNWQzVnpwbUpCM05oODBwU1MwYUVfV0JfZnZlXzdaQk0tdElIWlFoS2Qzck1UWF9tVzRnMDJWczFmZVg2V0tZd3lockZ6eTFjM1RQTGNlWmFHMGIzOFptRGpXQdIBjgNBVV95cUxNMU0wa3VnanM1MDh1Qm9UY2FpbmdBUTFMdEJPclBjeFBHMkk3QVhOLUR6X0JMdldiTjJuZXdHSnVlZkpBWVhNbkQ2cjlzZndZVjRUR09DVnpxM0JMY1gzTkJ1dUFGbFByZS13d2Q3MlMzem9sazh4V0twUjBzM3o1UUgxYlVUYUZTOTA1M3oxT3dTc1VSd2tCX0JKWWRsSms3Y3c3Yl9OdFR2YnhZRmVkLWthS2JSQkt3UGhwOVNsTTItYmpQMmVMdEFMckpDOFAwdVB6anFSYlFjOFJSQ1NzcWlKQWx5MTVaajhTclNfbXFrakdaM25rT2xEeXdGaWMwY0xtREdoOU9kNFFTNnY5X0RHUjhUOHZzM1hMM3doNXlpck1SRDN2UWtJVlhQYldyWHFsM1JPam9PUjFLRWxqTGozLW1MVGZOc1ZmQVN6djVTMWxWYjFJMW9VY0xEOFA3b25sd0NfcGpkWEJrN25WRVFDTnVWMUJkQ0xGNWRrcTF1MEJ4MEVNbkpLLWs5QQ?oc=5",
+      "site": "DW.com",
+      "siteUrl": "https://www.dw.com"
     },
     {
       "id": "FL-c31a9e4a06b0",
@@ -267,6 +279,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-c39833bbfc21",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 22:10:00 GMT",
+      "ts": 1790374200000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 环球网",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5naEpaTmt5bmlhUXlZdndRR2F3XzN6Z2d5aWcwdU4zRnpJWXBJX3VpVWxzRDBzQUFVRXZ4TW1lOTJQUEhCQ3NDNDFEN2FpVTRuYTh3?oc=5",
+      "site": "环球网",
+      "siteUrl": "https://m.huanqiu.com"
+    },
+    {
       "id": "FL-b4af5103fcf5",
       "date": "2026-10-16",
       "dateISO": "Fri, 16 Oct 2026 23:49:28 GMT",
@@ -287,18 +311,6 @@
       "type": "blast",
       "title": "‘It’s a miracle he’s alive’: Man hospitalized after shed explosion near Three Forks - KBZK News",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQclNKTDlOOEpLQ05oS2kyRGFzNVVJUnZCZ3NQV3Q1Z0RQTVJ2eXZmeEJyNENMQVBaTW9ON0Y5cUR4ekVPQUV2YTVud2RIV1JQZWItUHJ0V0xGZlZHRTJkUzBDcjhUa0xXMEtDUlJseEFtQWFZSEpzNGpPdjZRU01tSTNmV1V4OHd0Yk9pOUtvUmttbVZVczZkanBZMmExbEtyRUxaMXlVbw?oc=5",
-      "site": "KBZK News",
-      "siteUrl": "https://www.kbzk.com"
-    },
-    {
-      "id": "FL-bbe5f91d10c2",
-      "date": "2026-10-16",
-      "dateISO": "Fri, 16 Oct 2026 15:30:57 GMT",
-      "ts": 1792164657000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Thursday morning house explosion, fire injures one - KBZK News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZVNJUG13eC15aXpxTWJBYk03NFdzYmpQbDBsa2xlOGtlSlVnczU3U0NhZVlUT3ExZC01b3JhckFvZ2NWLXFpUDMzX3k0OHN4cGszenV0amR3aGhPRnByOGNLUWdHQUp4bldEZEJ5SE9icHFITzQ5ZkMza3l3YTRXTw?oc=5",
       "site": "KBZK News",
       "siteUrl": "https://www.kbzk.com"
     },
@@ -325,18 +337,6 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWVYtWDJNdUV2MmJGcU50T2pUcmpOdjZsSTNQTHduczZGTlZpbjZJRlhXSVlxbE5kS3VIS3hWNk04YXRtdEFsbFBIU0R6Z2FoSHc2Z29JM2VueEJDaVI1SnluLVdxWlQxYm5PYTBMdzdvWFNTOVVNOGN3UDJPMGZWSjhOa0dvX19UOVdQb2p4MA?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://www.sohu.com"
-    },
-    {
-      "id": "FL-268f06752aaa",
-      "date": "2026-10-16",
-      "dateISO": "Fri, 16 Oct 2026 08:10:01 GMT",
-      "ts": 1792138201000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "北溪爆炸案德国开审 被告律师称北溪管道或为“合法打击目标” - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQaHBNeC1jZHk3Rml6di13a0h2dE11cmpDYWF3LWFJaFpWVjZNYnZDT0RqU2R6Y3g0dFpVZGEtcVYySldUVzJIX0c2WVV6ajBaTGt0b044dmViNHoya01hZGtmREpUYk5na3VQSWt4azFIbTQ1SjVjZlJEYS1JZXRZcUp6cnFCekdvcVFmQkFrSzRNU3NOalQxMHVKeGlISjZlVGJVQkpFVEpGbnBTZVJKbG5PRy10Qy1KY09BNDE4OUpMUENEM28ycWVNakJhSWZmbE45SWt3cVFMaDJlaVBtbWR3MWlxMWpmaG9XeGVmT0VlWnRqQnQwcFBxNDA3Q3FjZVNCbFpKM3VEc0xYN0xucWEyMnctVE5WTDA0OEFOODdWUzIweXJmb2xfYldLYXNfUDFXNWQzVnpwbUpCM05oODBwU1MwYUVfV0JfZnZlXzdaQk0tdElIWlFoS2Qzck1UWF9tVzRnMDJWczFmZVg2V0tZd3lockZ6eTFjM1RQTGNlWmFHMGIzOFptRGpXQdIBjgNBVV95cUxNMU0wa3VnanM1MDh1Qm9UY2FpbmdBUTFMdEJPclBjeFBHMkk3QVhOLUR6X0JMdldiTjJuZXdHSnVlZkpBWVhNbkQ2cjlzZndZVjRUR09DVnpxM0JMY1gzTkJ1dUFGbFByZS13d2Q3MlMzem9sazh4V0twUjBzM3o1UUgxYlVUYUZTOTA1M3oxT3dTc1VSd2tCX0JKWWRsSms3Y3c3Yl9OdFR2YnhZRmVkLWthS2JSQkt3UGhwOVNsTTItYmpQMmVMdEFMckpDOFAwdVB6anFSYlFjOFJSQ1NzcWlKQWx5MTVaajhTclNfbXFrakdaM25rT2xEeXdGaWMwY0xtREdoOU9kNFFTNnY5X0RHUjhUOHZzM1hMM3doNXlpck1SRDN2UWtJVlhQYldyWHFsM1JPam9PUjFLRWxqTGozLW1MVGZOc1ZmQVN6djVTMWxWYjFJMW9VY0xEOFA3b25sd0NfcGpkWEJrN25WRVFDTnVWMUJkQ0xGNWRrcTF1MEJ4MEVNbkpLLWs5QQ?oc=5",
-      "site": "DW.com",
-      "siteUrl": "https://www.dw.com"
     },
     {
       "id": "FL-d2fca6abea5c",
