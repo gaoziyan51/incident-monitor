@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T11:09:53.268Z",
+  "updated": "2026-10-17T11:32:24.353Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -27,28 +27,16 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
-      "id": "FL-6080d77b9174",
+      "id": "FL-16ee3f5b620e",
       "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 10:32:00 GMT",
-      "ts": 1791973920000,
-      "scope": "intl",
+      "dateISO": "Wed, 14 Oct 2026 13:29:00 GMT",
+      "ts": 1791984540000,
+      "scope": "dom",
       "type": "blast",
-      "title": "“北溪”管道爆炸案在德国开庭 一乌克兰籍嫌疑人出庭 - 中国网新闻中心",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2RVZEb25GQ2lWSWlNRjd1VTZGSDV4V0c5UlBqMUlER2doWnl2X08wM3FrTWZnQlRQRXd0NHpLMExTS2dIcXJPQUNlSjk0ZHpadG40UGE4cDFyaEg3Z25PNWVzQzNkR3NWaGFF?oc=5",
+      "title": "德外长：将把“北溪”爆炸案审判结果纳入政治考量 - 中国网新闻中心",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WbVB6WXM4d094LU5MQVRXWHJxQnFZUURxTEg3R0J3OXdtX0xqU2dOU0lKR0h1bEVab2g5UzhES29ycjZpTk40YW9jRVNyZndvaUJQNUg3RFRaSWRpR21Ybk4yQ1MycHFDYTZn?oc=5",
       "site": "中国网新闻中心",
       "siteUrl": "http://news.china.com.cn"
-    },
-    {
-      "id": "FL-dcd5b58a6d84",
-      "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 09:10:56 GMT",
-      "ts": 1791969056000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "“北溪”爆炸案一嫌疑人将在德国首次出庭 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VMXZkemRUSmc5cW82UngzUlBBVW1aZ2w1aERuWDNtbEFHWm04OC1udzltMkpKRFBRQko5Q0hJMHFkODZEYnBEWjdXNFg0X0pxMHNtRlBWSlpmcFVKTTNsLVd4ek52UENVQzE2c1diaTFSMGhUMXRrRmRkclVJZw?oc=5",
-      "site": "新华网",
-      "siteUrl": "http://www.xinhuanet.com"
     },
     {
       "id": "FL-622b0601ec92",
@@ -87,6 +75,18 @@
       "siteUrl": "https://news.ifeng.com"
     },
     {
+      "id": "FL-763c8d1c304d",
+      "date": "2026-10-15",
+      "dateISO": "Thu, 15 Oct 2026 14:06:31 GMT",
+      "ts": 1792073191000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "“北溪”爆炸案开庭，谢尔盖·库兹涅佐夫出庭受审 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yWlp2UXdhbkw0aVl0VXVBNmNZejZYOHNjNmZBMDNCV0FzaEFFQWdpXzBmcU5pdENDN0kxRHFOM2ZHSzAyb0d3WDlwRlA4djc5OG9pZll5bi0zUmhZSHc?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
       "id": "FL-268f06752aaa",
       "date": "2026-10-15",
       "dateISO": "Thu, 15 Oct 2026 13:16:30 GMT",
@@ -97,18 +97,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQaHBNeC1jZHk3Rml6di13a0h2dE11cmpDYWF3LWFJaFpWVjZNYnZDT0RqU2R6Y3g0dFpVZGEtcVYySldUVzJIX0c2WVV6ajBaTGt0b044dmViNHoya01hZGtmREpUYk5na3VQSWt4azFIbTQ1SjVjZlJEYS1JZXRZcUp6cnFCekdvcVFmQkFrSzRNU3NOalQxMHVKeGlISjZlVGJVQkpFVEpGbnBTZVJKbG5PRy10Qy1KY09BNDE4OUpMUENEM28ycWVNakJhSWZmbE45SWt3cVFMaDJlaVBtbWR3MWlxMWpmaG9XeGVmT0VlWnRqQnQwcFBxNDA3Q3FjZVNCbFpKM3VEc0xYN0xucWEyMnctVE5WTDA0OEFOODdWUzIweXJmb2xfYldLYXNfUDFXNWQzVnpwbUpCM05oODBwU1MwYUVfV0JfZnZlXzdaQk0tdElIWlFoS2Qzck1UWF9tVzRnMDJWczFmZVg2V0tZd3lockZ6eTFjM1RQTGNlWmFHMGIzOFptRGpXQdIBjgNBVV95cUxNMU0wa3VnanM1MDh1Qm9UY2FpbmdBUTFMdEJPclBjeFBHMkk3QVhOLUR6X0JMdldiTjJuZXdHSnVlZkpBWVhNbkQ2cjlzZndZVjRUR09DVnpxM0JMY1gzTkJ1dUFGbFByZS13d2Q3MlMzem9sazh4V0twUjBzM3o1UUgxYlVUYUZTOTA1M3oxT3dTc1VSd2tCX0JKWWRsSms3Y3c3Yl9OdFR2YnhZRmVkLWthS2JSQkt3UGhwOVNsTTItYmpQMmVMdEFMckpDOFAwdVB6anFSYlFjOFJSQ1NzcWlKQWx5MTVaajhTclNfbXFrakdaM25rT2xEeXdGaWMwY0xtREdoOU9kNFFTNnY5X0RHUjhUOHZzM1hMM3doNXlpck1SRDN2UWtJVlhQYldyWHFsM1JPam9PUjFLRWxqTGozLW1MVGZOc1ZmQVN6djVTMWxWYjFJMW9VY0xEOFA3b25sd0NfcGpkWEJrN25WRVFDTnVWMUJkQ0xGNWRrcTF1MEJ4MEVNbkpLLWs5QQ?oc=5",
       "site": "DW.com",
       "siteUrl": "https://www.dw.com"
-    },
-    {
-      "id": "FL-c31a9e4a06b0",
-      "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 10:13:51 GMT",
-      "ts": 1792059231000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "德外长：将把“北溪”爆炸案审判结果纳入政治考量|乌克兰总统|保加利亚|德国|富尔|乌克兰 - finance.sina.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuYlBHZy1DREZsa2E3SWVoWVdUY1RzVzBLMlJBMFR2ek5LSkVsVTRtdnRkM0VENk1IcXUyTTRkN19saWFmcEVVeUgxNS1FM1NXY1dod21GX1dhWjJiMUFVU05uRmw2TXozQWZFRUhETmJoSGxtM2lvLQ?oc=5",
-      "site": "finance.sina.com.cn",
-      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-7e68cdb69eb5",
@@ -133,18 +121,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mS2NweXp1bXpXOGNJS3FnOTVLRXc4SmdNaTUzQlRLYTZiRWp0c2V3b0JUU2lhQ2pUS3JBLTFMUWxwb2tJN0tSN3ZjdDUycTg?oc=5",
       "site": "新蓝网",
       "siteUrl": "https://www.cztv.com"
-    },
-    {
-      "id": "FL-c107f91f2bac",
-      "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 01:32:00 GMT",
-      "ts": 1792027920000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "“北溪”天然气管道爆炸案嫌疑人在德国受审 - Shangbao Indonesia",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNak1XTFZsdjVGejBtejNTcnVXcGM4OUhYR1QwbjQ5SXdsQ3FoNWRYZjVPOEpYNXBWNEMtdnVBRWloeDJmMEt4bVMyNGFEeHFnalJ2Y3J0RHpMaWFTd2tsalJxMFc0SkFGTDVyX2Y5WVkwN0RlMjNzb3lJTXd2RF9hN2wxakt4UQ?oc=5",
-      "site": "Shangbao Indonesia",
-      "siteUrl": "https://www.shangbaoindonesia.com"
     },
     {
       "id": "FL-340d5e981918",
@@ -231,18 +207,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-3691f92cc30b",
-      "date": "2026-10-17",
-      "dateISO": "Sat, 17 Oct 2026 04:21:36 GMT",
-      "ts": 1792210896000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Truck explosion caught on camera in Billings parking lot; no injuries reported - KTVQ",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaGdxTkdoNGRFT2VvMzJ2a1M3ZWY0V3NNVFNRcVVlb01PWnNzVzY2UndMMUdrclZmM3p6NFpUNUM4a1NLMFFHUDg4Vnpvb1NHNmQ4eGt0UHNwWkI3UEhLT0V3TGIzc29OSlBRbDQtX2lsZldBekxkUC0xczh0azdBY1ZFNDFIam1OQnFYRlQwSFpuTFBoRjE2Q05wNlE3OG5UN3IyT3l3?oc=5",
-      "site": "KTVQ",
-      "siteUrl": "https://www.ktvq.com"
-    },
-    {
       "id": "FL-1a54f824a0f6",
       "date": "2026-10-17",
       "dateISO": "Sat, 17 Oct 2026 04:18:54 GMT",
@@ -279,6 +243,18 @@
       "siteUrl": "https://m.dongqiudi.com"
     },
     {
+      "id": "FL-db89ce9321bb",
+      "date": "2026-10-10",
+      "dateISO": "Sat, 10 Oct 2026 17:44:13 GMT",
+      "ts": 1791654253000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "现场直击｜沙特首都国际机场传出爆炸声 已无航班起降 - 新华网客户端",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT0NvdzFyLWpxOTZrdGFSV0RwTHlkQzFaSkRKbXN3UmZiLUdQUVIxRm02Q0pZS1dReEt4Zmp6UDRhN0phNDFvMXJmeEltNkdoNlViZ01acEFQQ1lmMEpVSGszSlJpODJYMEdwU1ZPZVIzOVpab0FhMmZsZ0RBamJFRElwbVAwaUc5bDh3VWN0TDVMNlJ5SkV5ZnpB?oc=5",
+      "site": "新华网客户端",
+      "siteUrl": "https://app.xinhuanet.com"
+    },
+    {
       "id": "FL-160d55aeb47e",
       "date": "2026-06-22",
       "dateISO": "Mon, 22 Jun 2026 07:00:00 GMT",
@@ -301,18 +277,6 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZUG1NNGpKanlkSGMwYUx4aWdiZ0VzZEpjUGoySXdxU2p3Xy1FRzd2SkpUa1lBUXd3dnJtZXY1a3BpUnZBZVhxeHBobi1GaXhCSTNsamFRR3B0TEoyTk5janJKcG9yVkMtMHJDZkVHTWEzdS1lWC0yMg?oc=5",
       "site": "央视网",
       "siteUrl": "https://news.cctv.com"
-    },
-    {
-      "id": "FL-0d37be8e3bed",
-      "date": "2026-10-05",
-      "dateISO": "Mon, 05 Oct 2026 08:45:00 GMT",
-      "ts": 1791189900000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "韩国公布非军事区地雷爆炸事件最终调查结果 - 封面新闻",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mOW90LUsxZ0prZmZVUFNmTkZ0QjQ1NzdDY195Z25fWFVDaXM3ZkloeTNkY3c3RnpVSVd3ZlFJY3c4YWlIalBYMDJWaGE0SUpZTm8zS2VZbUZmc2hoS2cwbFRPSTFHWGxOUVRYWkU2clJNdDg4Zk9PVm9n?oc=5",
-      "site": "封面新闻",
-      "siteUrl": "https://m.thecover.cn"
     },
     {
       "id": "FL-b042a088a326",
@@ -373,6 +337,30 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYVlrVzVvUGljZUZqMmZTczMzWDVENnlDWmRnUjBXNmpOVVlDdHlkLVNaeW9oMk5fZVMyaUU0RjBaVDdzQk4wUE1GXzJNZTZDYnVMNU4zNk5fbjFwQW82TTlRcG9pNDdqRXJTa2U0R3BkNmlTQmM2amVzTEktTnkwUE81am9idnpP?oc=5",
       "site": "中国长安网",
       "siteUrl": "http://www.chinapeace.gov.cn"
+    },
+    {
+      "id": "FL-e4ef821e07df",
+      "date": "2026-10-16",
+      "dateISO": "Fri, 16 Oct 2026 05:57:38 GMT",
+      "ts": 1792130258000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "62年前的今天 我国第一颗原子弹爆炸成功 幕后英雄的守护 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLNXlOZ3RUT1dGNFJtVHdUeE1rWURKVGhzcU9hQy0zTW1IbE9aNjZrbXVPRnNqb0YyZC1fVmZTWTJUbFFPekNHU2Q1a2VmWW5rbm84enh6bzlQVHpQenVZRjRaYk0zOTBORnB0cTN3MmU?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
+    },
+    {
+      "id": "FL-7edcaeb62761",
+      "date": "2026-10-16",
+      "dateISO": "Fri, 16 Oct 2026 05:39:00 GMT",
+      "ts": 1792129140000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "62年前中国第一颗原子弹爆炸成功 东方巨响震惊世界 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zd0psb0NGZUFLSTkzNF9SQ202dnN6OHppdHRIaGR3TllOdVFzOWVPRkFVcHAxRXl1WU5QWWw5UnVSOHJKSEJDZllvSUVXN1pvbWJpaHUxTFZkdENOaFU3TldSM3JoMWdhd0k0aGprczQ?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
     },
     {
       "id": "FL-9b84aa16f31e",
