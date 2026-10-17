@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T20:08:45.290Z",
+  "updated": "2026-10-17T20:32:01.002Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -135,16 +135,16 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-0c22c5b6ce37",
+      "id": "FL-3691f92cc30b",
       "date": "2026-10-17",
-      "dateISO": "Sat, 17 Oct 2026 19:16:40 GMT",
-      "ts": 1792264600000,
+      "dateISO": "Sat, 17 Oct 2026 19:56:00 GMT",
+      "ts": 1792266960000,
       "scope": "intl",
       "type": "blast",
-      "title": "Ron Capps rides out wild blower explosion at Texas NHRA FallNationals - NHRA",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcS1jWXlWanhKZzJwbzdlSW9HZm1PTk9tS2Jqd240SllPU0dfV3hpVmtXSmhyLWlRelNWRnpnb182VG41aFdDel9oTVZZWmhGc3BLSHhRaWVVZjE5V3VjcnBhTDQ1ZkJ4RlVqWFhlUDZVVHp6SWZVVGFqNkRSTTcxb0xQVXM0SEVPRlBVSGtqNk1uYVl1blVkelBnMEcxdw?oc=5",
-      "site": "NHRA",
-      "siteUrl": "https://www.nhra.com"
+      "title": "Truck explosion caught on camera in Billings parking lot; no injuries reported - KTVQ",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaGdxTkdoNGRFT2VvMzJ2a1M3ZWY0V3NNVFNRcVVlb01PWnNzVzY2UndMMUdrclZmM3p6NFpUNUM4a1NLMFFHUDg4Vnpvb1NHNmQ4eGt0UHNwWkI3UEhLT0V3TGIzc29OSlBRbDQtX2lsZldBekxkUC0xczh0azdBY1ZFNDFIam1OQnFYRlQwSFpuTFBoRjE2Q05wNlE3OG5UN3IyT3l3?oc=5",
+      "site": "KTVQ",
+      "siteUrl": "https://www.ktvq.com"
     },
     {
       "id": "FL-2fdd39a1a516",
@@ -157,18 +157,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FMDktWFFKVUVtbzZ1Ym1PQUJxYUd3MUFhaVdSSE05Y1FESDZiRnBUQ0I2S2RvaGpZaDZ5a192U3huTThHUVZidmlnbkdVY0pYSmp5QUdLU3JQWllHNXc?oc=5",
       "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
-    },
-    {
-      "id": "FL-71c8322bb5c0",
-      "date": "2026-10-17",
-      "dateISO": "Sat, 17 Oct 2026 16:35:17 GMT",
-      "ts": 1792254917000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Explosion at Iraqi paramilitary alliance base kills one member, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMFdrc1I4NnJ2Z0NQeUM2c25pYzF4ekRXcFVHRHlYVWVVYXhhV0hDXzhVUWtUc2JCRnZmU0lZRkJlRkZudWNzUzJINWpDWWdFcG13SG5YVHJnMk9tcEE2Z3BtdHJ1VHdJcXA4eGNQYXVfcE1VX293QjhYQ0YtaVJUOU1kYjJoR2hPeUJJNlNDUzVfVnlxVUhINGJEV2UzTllWRWVrRmpuNG5ZVGY2SFFvcFpySlJsNUEtYmF6LVNEcEpnck0?oc=5",
-      "site": "Reuters",
-      "siteUrl": "https://www.reuters.com"
     },
     {
       "id": "FL-a1e6d9bd3cb4",
@@ -205,18 +193,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EYU15OF9JbG9JY283VFgySHp5MVhxaHdCRzdyN1FhdEs2OFUtQk53X2dkdk1ZbzZiNmRUSllabVFYdXg5anFTVDItZHd6bGFQdmZRQTdtV3k?oc=5",
       "site": "Jiemian.com",
       "siteUrl": "https://www.jiemian.com"
-    },
-    {
-      "id": "FL-ccb2f2eeb2da",
-      "date": "2026-10-17",
-      "dateISO": "Sat, 17 Oct 2026 09:57:08 GMT",
-      "ts": 1792231028000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "伊朗革命卫队：一艘超级油轮触雷爆炸起火，载有超过200万桶原油 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNHl4Q01hU0x3cXVfSEotTHM2ejRqcnpzWDdRekNOSk5aY1N0OXVMa3ZndkpBYmtZUTdKRDVVbGVkdzFqYk9MQkV4U2tZSUZtUUtLVDJWYUh4N3o5VFB1MzBrV2oxV0pXTnJON1lqWTI5OFNVN0JDVEZCOGVjS3YzcF91aVV5YUJzdEppWGRRMA?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://www.sohu.com"
     },
     {
       "id": "FL-b14cf6fa3679",
