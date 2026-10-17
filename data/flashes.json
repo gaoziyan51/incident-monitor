@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T17:14:59.559Z",
+  "updated": "2026-10-17T17:38:39.697Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -159,6 +159,18 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
+      "id": "FL-71c8322bb5c0",
+      "date": "2026-10-17",
+      "dateISO": "Sat, 17 Oct 2026 16:35:17 GMT",
+      "ts": 1792254917000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Explosion at Iraqi paramilitary alliance base kills one member, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMFdrc1I4NnJ2Z0NQeUM2c25pYzF4ekRXcFVHRHlYVWVVYXhhV0hDXzhVUWtUc2JCRnZmU0lZRkJlRkZudWNzUzJINWpDWWdFcG13SG5YVHJnMk9tcEE2Z3BtdHJ1VHdJcXA4eGNQYXVfcE1VX293QjhYQ0YtaVJUOU1kYjJoR2hPeUJJNlNDUzVfVnlxVUhINGJEV2UzTllWRWVrRmpuNG5ZVGY2SFFvcFpySlJsNUEtYmF6LVNEcEpnck0?oc=5",
+      "site": "Reuters",
+      "siteUrl": "https://www.reuters.com"
+    },
+    {
       "id": "FL-a9e840652252",
       "date": "2026-10-17",
       "dateISO": "Sat, 17 Oct 2026 13:08:17 GMT",
@@ -291,6 +303,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-0f5476d1c019",
+      "date": "2026-07-31",
+      "dateISO": "Fri, 31 Jul 2026 07:00:00 GMT",
+      "ts": 1785481200000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "巴基斯坦煤矿爆炸致34人死亡 8人被困 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ic3NaMW5yOHF1MmNnMDRPdThpWHRsY0dpOUl5X1U2aUxyMlZFTkVhN09xTVRmQ3dwcnFZaThTZjd5RXdLS1VLTVgzNGlENnl3T3hOOVBFSmYyajM0cmlxeVduX28xT2U5M1pvbmJfZE94TW00UmpNd2oyTFZFVEE?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
       "id": "FL-c39833bbfc21",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 22:10:00 GMT",
@@ -373,18 +397,6 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uNWRvOWlFWnVzanBXYkhVUk9nNlFsTmZ3bVVWbWVDdE52clZUanBwbE9oSEdQdXNQTk1hVWdvbVJkZUdxREdta2hNMUVhTjJvM1NFQTlMSnA1UGNSU05rSFdIRFZIOVZxNGJB?oc=5",
       "site": "Jstv.com",
       "siteUrl": "https://m.jstv.com"
-    },
-    {
-      "id": "FL-f4102bbc53f7",
-      "date": "2026-10-16",
-      "dateISO": "Fri, 16 Oct 2026 01:00:04 GMT",
-      "ts": 1792112404000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "我国第一颗原子弹爆炸成功62周年 核科技引领未来之路 - 中华军事",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90VzQyN0V1UTN5QWF4anNNU2dGLVZNZ1A1NDVjb0EySmlIdFV6SWVJY1VXeWxORWJqZFZrcmtnT0JxbDBVM1RnZmQ4MVFZT040Nm54eFVOa3JOTUduRENwYkd4RG9tWTg3VjFrZGxnNFU?oc=5",
-      "site": "中华军事",
-      "siteUrl": "https://military.china.com"
     },
     {
       "id": "FL-b74e9b664c6a",
