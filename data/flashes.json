@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T13:15:40.119Z",
+  "updated": "2026-10-17T13:40:14.115Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -49,18 +49,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQcmdXTjEtaEEwQXAyc0dzZ29xdEtVZ3VnTzNSdEdIODhUbTkwVE1WYUJKZGlFN0N1TkdlQTNEZDA1SkNEejNqVS15STYwTURwckdUM0REQUMyTHdNQk5oSjlR?oc=5",
       "site": "财新",
       "siteUrl": "https://science.caixin.com"
-    },
-    {
-      "id": "FL-763c8d1c304d",
-      "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 14:06:31 GMT",
-      "ts": 1792073191000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "“北溪”爆炸案开庭，谢尔盖·库兹涅佐夫出庭受审 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yWlp2UXdhbkw0aVl0VXVBNmNZejZYOHNjNmZBMDNCV0FzaEFFQWdpXzBmcU5pdENDN0kxRHFOM2ZHSzAyb0d3WDlwRlA4djc5OG9pZll5bi0zUmhZSHc?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://news.bjd.com.cn"
     },
     {
       "id": "FL-268f06752aaa",
@@ -121,6 +109,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-08d5beb77eeb",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
+      "ts": 1790406000000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 新华网客户端",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaEUzM21qMG8zSnRRcy1iYjkwOUxBeWEyRnVHaVNZcmhIZ0FwS0lUYWhndmd0WHp1ZHpxVTZSYUlMLUVGVWxseUcwOEprSHA4MExzeFFxVFV3OVlacVc3dTVvMi1VUUVsVXlTb3I1bWlUS3dDUlBzcEs4allydkhIdFU3ckVMZjJPVXQ0ZWJQWkFWNEpITlhnTlR3?oc=5",
+      "site": "新华网客户端",
+      "siteUrl": "https://app.xinhuanet.com"
     },
     {
       "id": "FL-5e735aebc1c3",
@@ -207,16 +207,16 @@
       "siteUrl": "https://cdispatch.com"
     },
     {
-      "id": "FL-1645fbc39d41",
+      "id": "FL-d3fbff3078c6",
       "date": "2026-10-17",
-      "dateISO": "Sat, 17 Oct 2026 10:27:28 GMT",
-      "ts": 1792232848000,
+      "dateISO": "Sat, 17 Oct 2026 10:40:57 GMT",
+      "ts": 1792233657000,
       "scope": "intl",
       "type": "blast",
-      "title": "印度古吉拉特邦一化工厂发生爆炸已致至少5人死亡_7x24快讯_新浪财经 - 手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fZjZyQzBtblVQQkk5LUF5S2dkdG52YUJGelRCM3dod0R0eE90ZEJjZ2lCZXRZa0RIX2s2d3NPaTAzT1Vsb1BCTnZLMA?oc=5",
-      "site": "手机新浪网",
-      "siteUrl": "https://wap.cj.sina.cn"
+      "title": "印度古吉拉特邦一化工厂发生爆炸，已致至少5人死亡 - Jiemian.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EYU15OF9JbG9JY283VFgySHp5MVhxaHdCRzdyN1FhdEs2OFUtQk53X2dkdk1ZbzZiNmRUSllabVFYdXg5anFTVDItZHd6bGFQdmZRQTdtV3k?oc=5",
+      "site": "Jiemian.com",
+      "siteUrl": "https://www.jiemian.com"
     },
     {
       "id": "FL-7976391b1db2",
@@ -231,28 +231,16 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-1a54f824a0f6",
+      "id": "FL-b14cf6fa3679",
       "date": "2026-10-17",
-      "dateISO": "Sat, 17 Oct 2026 04:18:54 GMT",
-      "ts": 1792210734000,
+      "dateISO": "Sat, 17 Oct 2026 02:28:59 GMT",
+      "ts": 1792204139000,
       "scope": "intl",
       "type": "blast",
-      "title": "伊朗说一油船行经霍峡时触及水雷 导致爆炸和失火 - 8world",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYVQtQVZJdDFrVEpZMWNmTXpaeks2TGswdzNKektPYWJ1MWtIZjFzaVVGMTFtZlBPMHN1S1pNZEFrZ0M4V1EtdVhzY01FcHRzRDJDaVBfaElRRHI0SElWLWxDRk02V0piQVQ0ZDYyOWtUZ2dRUkFNWlY2Z2N1a0Y3LXFLUFcxVjJyQjBiOG9kWVRlQzhDcHoweWRpS055MlVmTWc?oc=5",
-      "site": "8world",
-      "siteUrl": "https://www.8world.com"
-    },
-    {
-      "id": "FL-f1082dfc1052",
-      "date": "2026-10-17",
-      "dateISO": "Sat, 17 Oct 2026 02:42:19 GMT",
-      "ts": 1792204939000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "伊朗革命卫队：一艘油轮在霍尔木兹海峡触雷爆炸_7x24快讯_新浪财经 - 手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE50bWd2RjhxTEZXSFpMUTBmdXZoZWhKcEdRbk9tbC0yc21vdDFGLUhTUEx6ODRzellWNGtOdW5GSDlQTTIwVzV4YzJldw?oc=5",
-      "site": "手机新浪网",
-      "siteUrl": "https://wap.cj.sina.cn"
+      "title": "伊朗革命卫队：一艘超级油轮触雷爆炸起火，载有超过200万桶原油 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB6LW5IX3V1M1R4MXFjOV9kNUZfLUdnQ3BRMTNFdWZocHlIVHRwb2ZzV1gyazI1Nm5hdXgxeXI1WEpKTll1R0pHR0hFUDk?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://news.ifeng.com"
     },
     {
       "id": "FL-19cf683581a2",
@@ -303,6 +291,18 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
+      "id": "FL-0d37be8e3bed",
+      "date": "2026-10-05",
+      "dateISO": "Mon, 05 Oct 2026 08:45:00 GMT",
+      "ts": 1791189900000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "韩国公布非军事区地雷爆炸事件最终调查结果 - 封面新闻",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mOW90LUsxZ0prZmZVUFNmTkZ0QjQ1NzdDY195Z25fWFVDaXM3ZkloeTNkY3c3RnpVSVd3ZlFJY3c4YWlIalBYMDJWaGE0SUpZTm8zS2VZbUZmc2hoS2cwbFRPSTFHWGxOUVRYWkU2clJNdDg4Zk9PVm9n?oc=5",
+      "site": "封面新闻",
+      "siteUrl": "https://m.thecover.cn"
+    },
+    {
       "id": "FL-b042a088a326",
       "date": "2026-08-03",
       "dateISO": "Mon, 03 Aug 2026 07:00:00 GMT",
@@ -337,6 +337,18 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOWloem16Qndva3Z0RHA3OWF4bG9rTzNHQ1dkMDY1TUh4R3VrNDBxR3lXbC1EVFNaaFIzRUNhZEdMQkZLelRmVlJqYWxuUHp3SzFNZ3g1MmZENDNNUHJ0QTJ0OUE4eEJOLXg4SjlYNzRQUm9iWWgyYlJPMmQzWHJDdFdsUGxEdHJ2OVJrN0Ywaw?oc=5",
       "site": "21财经",
       "siteUrl": "https://www.21jingji.com"
+    },
+    {
+      "id": "FL-6994fdb6f877",
+      "date": "2026-10-16",
+      "dateISO": "Fri, 16 Oct 2026 13:13:00 GMT",
+      "ts": 1792156380000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "不起火，不爆炸？广汽：都不算啥，我的电池拧成麻花都没事！ - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrclIxaXpVRzh0aTZhZDB3SzF2R2U4aDV0MVNJQ0NQSlpzUmlvbGkzYVFMV1ZtdHdTMVJEZjRXX250a25mU2NhbTRNN1FfMmFtWjV1Ukp4QXE3dm9iWkVUYnBzTVF0RVdLNlZCUmtGdlFFZ05HSFhYRjdvenJNd1U?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-d2fca6abea5c",
@@ -399,18 +411,6 @@
       "siteUrl": "https://www.shanghai.gov.cn"
     },
     {
-      "id": "FL-516d10deafd9",
-      "date": "2026-10-16",
-      "dateISO": "Fri, 16 Oct 2026 02:27:46 GMT",
-      "ts": 1792117666000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "致敬先辈！我国原子弹爆炸成功62周年 - 极目新闻",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UX3NqY2lmcDB4ZVdfTDVPbmdUcWZxZEhJRURjTFkwOE4xTVJEN1FDYlNlTVZwc3Z0UTNPRjBfTGFqX0xNbmhaSzJRakxqT3VITW4yT0twXzlqNm8?oc=5",
-      "site": "极目新闻",
-      "siteUrl": "https://www.ctdsb.net"
-    },
-    {
       "id": "FL-a682347a9018",
       "date": "2026-10-16",
       "dateISO": "Fri, 16 Oct 2026 01:05:00 GMT",
@@ -421,6 +421,18 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uNWRvOWlFWnVzanBXYkhVUk9nNlFsTmZ3bVVWbWVDdE52clZUanBwbE9oSEdQdXNQTk1hVWdvbVJkZUdxREdta2hNMUVhTjJvM1NFQTlMSnA1UGNSU05rSFdIRFZIOVZxNGJB?oc=5",
       "site": "Jstv.com",
       "siteUrl": "https://m.jstv.com"
+    },
+    {
+      "id": "FL-b74e9b664c6a",
+      "date": "2026-10-16",
+      "dateISO": "Fri, 16 Oct 2026 00:03:07 GMT",
+      "ts": 1792108987000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "中国首颗原子弹成功爆炸珍贵画面 新中国站起来的炸响 - 中华军事",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DRTdTWkN2bklaOGhkenZPZWg1T3MyaFd2MGdTZ3BFaG83STNacjd2VmJEX2N6Si05ZW1ZOVk3OHBDSzdwLVdqWmtiU1FzUWl0SUd6amd0bGt5eTZYWmZ6YnJ5NXFFQlpuQlU4NVR5eE8?oc=5",
+      "site": "中华军事",
+      "siteUrl": "https://military.china.com"
     }
   ]
 }
