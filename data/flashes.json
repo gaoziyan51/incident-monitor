@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T03:29:11.401Z",
+  "updated": "2026-10-17T03:57:48.079Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -291,6 +291,18 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
+      "id": "FL-160d55aeb47e",
+      "date": "2026-06-22",
+      "dateISO": "Mon, 22 Jun 2026 07:00:00 GMT",
+      "ts": 1782111600000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "卡塔尔工厂爆炸已致13人死亡 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mR2pTX0YxWjBwQ2lLNC1XZjFhd3IwVEYtWkZFR3ZBU3B5RTFHR1BldmQ3OEkxN2NaWTMzYUkwWENDeEliY3dVNEloOExFS1B6SlZQTENHdWVmTWpUM042M2hRcmo4QS1qdl85cXlhZHJ3R3JGTEU4?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
       "id": "FL-3ebd1fca1fd7",
       "date": "2026-10-12",
       "dateISO": "Mon, 12 Oct 2026 16:14:23 GMT",
@@ -421,18 +433,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zd0psb0NGZUFLSTkzNF9SQ202dnN6OHppdHRIaGR3TllOdVFzOWVPRkFVcHAxRXl1WU5QWWw5UnVSOHJKSEJDZllvSUVXN1pvbWJpaHUxTFZkdENOaFU3TldSM3JoMWdhd0k0aGprczQ?oc=5",
       "site": "中华网",
       "siteUrl": "https://news.china.com"
-    },
-    {
-      "id": "FL-10fe97a2164f",
-      "date": "2026-10-16",
-      "dateISO": "Fri, 16 Oct 2026 04:36:52 GMT",
-      "ts": 1792125412000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "62年前的今天，我国第一颗原子弹爆炸成功！94岁的他曾护送关键“乒乓球” - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdmtJV3B6OEI2VjNQdnJtZjdyellOQ0h6THhTeWVLQUs4VHdtZUJjSUNBNXJEZW1lLWtfQkVYVHRBdjdVb0RfUlNNSlFHYUVfNW5xakxUcDVsQXNnZnA4NmFxTnZOTS1SdTdrLU5wd0VzekNQRU05eHVkeE5SYXViaVdfeXBmbllEcFZxSQ?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-9b84aa16f31e",
