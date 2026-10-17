@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T15:51:02.133Z",
+  "updated": "2026-10-17T16:09:25.310Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -219,18 +219,6 @@
       "siteUrl": "https://news.ifeng.com"
     },
     {
-      "id": "FL-19cf683581a2",
-      "date": "2026-10-17",
-      "dateISO": "Sat, 17 Oct 2026 01:36:00 GMT",
-      "ts": 1792200960000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "胜负手｜赛程爆炸，第 20 人成豪门命门 - 懂球帝",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hcGZCNVA4cnVsV0trVkNzZmU3blZfdS1SRkUteUhVaTFwVzNnWWxzNHUxN3NVc0tTd2dVa2tjaE1tUTBCUzBoWUdSOHpFZEZiNGotWklVbw?oc=5",
-      "site": "懂球帝",
-      "siteUrl": "https://m.dongqiudi.com"
-    },
-    {
       "id": "FL-db89ce9321bb",
       "date": "2026-10-10",
       "dateISO": "Sat, 10 Oct 2026 17:44:13 GMT",
@@ -397,6 +385,18 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DRTdTWkN2bklaOGhkenZPZWg1T3MyaFd2MGdTZ3BFaG83STNacjd2VmJEX2N6Si05ZW1ZOVk3OHBDSzdwLVdqWmtiU1FzUWl0SUd6amd0bGt5eTZYWmZ6YnJ5NXFFQlpuQlU4NVR5eE8?oc=5",
       "site": "中华军事",
       "siteUrl": "https://military.china.com"
+    },
+    {
+      "id": "FL-84a9598aa100",
+      "date": "2026-06-12",
+      "dateISO": "Fri, 12 Jun 2026 07:00:00 GMT",
+      "ts": 1781247600000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "泰国当局判处两维吾尔人死刑　BBC记者回忆当年的曼谷四面佛爆炸案 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92WW1HV0ttYlE2bUkxb2ZWUDVCSUNuTmRaQnNSWnpDTElPRUFUOXk3U3FoX2VKTm1FQ29TaDBocTUwMTZlMU1Za2hRUkxEMG9taGphNkZvSjI4UF9wUzVyU0E4amUyQdIBa0FVX3lxTE5YVGx2WWxZY1lKNjNHQ1huNHZQWWFqTW1MR0p6RnBwaVdSSXlKT1FEQmx6dzI3dVBIVm5jTVdpRHR6b05UeHRKdUVrZEFMbzcwOUJLcHhGWVBaN2tnU2c5QzFKTEdyZml6ZDg0?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
     }
   ]
 }
