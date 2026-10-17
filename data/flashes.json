@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T05:58:08.290Z",
+  "updated": "2026-10-17T06:18:24.277Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -291,18 +291,6 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
-      "id": "FL-160d55aeb47e",
-      "date": "2026-06-22",
-      "dateISO": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "ts": 1782111600000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "卡塔尔工厂爆炸已致13人死亡 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mR2pTX0YxWjBwQ2lLNC1XZjFhd3IwVEYtWkZFR3ZBU3B5RTFHR1BldmQ3OEkxN2NaWTMzYUkwWENDeEliY3dVNEloOExFS1B6SlZQTENHdWVmTWpUM042M2hRcmo4QS1qdl85cXlhZHJ3R3JGTEU4?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
       "id": "FL-3ebd1fca1fd7",
       "date": "2026-10-12",
       "dateISO": "Mon, 12 Oct 2026 16:14:23 GMT",
@@ -407,18 +395,6 @@
       "type": "blast",
       "title": "62年前的今天 我国第一颗原子弹爆炸成功 幕后英雄的守护 - 中华网",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLNXlOZ3RUT1dGNFJtVHdUeE1rWURKVGhzcU9hQy0zTW1IbE9aNjZrbXVPRnNqb0YyZC1fVmZTWTJUbFFPekNHU2Q1a2VmWW5rbm84enh6bzlQVHpQenVZRjRaYk0zOTBORnB0cTN3MmU?oc=5",
-      "site": "中华网",
-      "siteUrl": "https://news.china.com"
-    },
-    {
-      "id": "FL-7edcaeb62761",
-      "date": "2026-10-16",
-      "dateISO": "Fri, 16 Oct 2026 05:39:00 GMT",
-      "ts": 1792129140000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "62年前中国第一颗原子弹爆炸成功 东方巨响震惊世界 - 中华网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zd0psb0NGZUFLSTkzNF9SQ202dnN6OHppdHRIaGR3TllOdVFzOWVPRkFVcHAxRXl1WU5QWWw5UnVSOHJKSEJDZllvSUVXN1pvbWJpaHUxTFZkdENOaFU3TldSM3JoMWdhd0k0aGprczQ?oc=5",
       "site": "中华网",
       "siteUrl": "https://news.china.com"
     },
