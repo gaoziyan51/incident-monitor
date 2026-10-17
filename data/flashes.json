@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T02:08:56.199Z",
+  "updated": "2026-10-17T02:33:54.813Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -231,6 +231,30 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-19cf683581a2",
+      "date": "2026-10-17",
+      "dateISO": "Sat, 17 Oct 2026 01:36:00 GMT",
+      "ts": 1792200960000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "胜负手｜赛程爆炸，第 20 人成豪门命门 - 懂球帝",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hcGZCNVA4cnVsV0trVkNzZmU3blZfdS1SRkUteUhVaTFwVzNnWWxzNHUxN3NVc0tTd2dVa2tjaE1tUTBCUzBoWUdSOHpFZEZiNGotWklVbw?oc=5",
+      "site": "懂球帝",
+      "siteUrl": "https://m.dongqiudi.com"
+    },
+    {
+      "id": "FL-3691f92cc30b",
+      "date": "2026-10-17",
+      "dateISO": "Sat, 17 Oct 2026 00:58:52 GMT",
+      "ts": 1792198732000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Truck explosion caught on camera in Billings parking lot; no injuries reported - KTVQ",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaGdxTkdoNGRFT2VvMzJ2a1M3ZWY0V3NNVFNRcVVlb01PWnNzVzY2UndMMUdrclZmM3p6NFpUNUM4a1NLMFFHUDg4Vnpvb1NHNmQ4eGt0UHNwWkI3UEhLT0V3TGIzc29OSlBRbDQtX2lsZldBekxkUC0xczh0azdBY1ZFNDFIam1OQnFYRlQwSFpuTFBoRjE2Q05wNlE3OG5UN3IyT3l3?oc=5",
+      "site": "KTVQ",
+      "siteUrl": "https://www.ktvq.com"
+    },
+    {
       "id": "FL-db89ce9321bb",
       "date": "2026-10-10",
       "dateISO": "Sat, 10 Oct 2026 17:44:13 GMT",
@@ -267,18 +291,6 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-0d37be8e3bed",
-      "date": "2026-10-05",
-      "dateISO": "Mon, 05 Oct 2026 08:45:00 GMT",
-      "ts": 1791189900000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "韩国公布非军事区地雷爆炸事件最终调查结果 - 封面新闻",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mOW90LUsxZ0prZmZVUFNmTkZ0QjQ1NzdDY195Z25fWFVDaXM3ZkloeTNkY3c3RnpVSVd3ZlFJY3c4YWlIalBYMDJWaGE0SUpZTm8zS2VZbUZmc2hoS2cwbFRPSTFHWGxOUVRYWkU2clJNdDg4Zk9PVm9n?oc=5",
-      "site": "封面新闻",
-      "siteUrl": "https://m.thecover.cn"
-    },
-    {
       "id": "FL-b042a088a326",
       "date": "2026-08-03",
       "dateISO": "Mon, 03 Aug 2026 07:00:00 GMT",
@@ -301,18 +313,6 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5naEpaTmt5bmlhUXlZdndRR2F3XzN6Z2d5aWcwdU4zRnpJWXBJX3VpVWxzRDBzQUFVRXZ4TW1lOTJQUEhCQ3NDNDFEN2FpVTRuYTh3?oc=5",
       "site": "环球网",
       "siteUrl": "https://m.huanqiu.com"
-    },
-    {
-      "id": "FL-b4af5103fcf5",
-      "date": "2026-10-16",
-      "dateISO": "Fri, 16 Oct 2026 23:49:28 GMT",
-      "ts": 1792194568000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "沙特首都机场遭袭最新监控曝光：剧烈爆炸火花四溅 建筑倒塌民众纷纷扑倒 - 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SZUZZOEM3dGtySHNSR2JQMU5VYUdPQTI5SlVic2VrOFE5V3JYN2ZhNXlBU1RoQnR0REhPMDRiM2F1SVVtWDJubEVtREY2QVRROGJHeFJFTWtnLWFXU3pySXRsajFRYmd0c2ZZbllLdUNYUQ?oc=5",
-      "site": "新浪网",
-      "siteUrl": "https://k.sina.com.cn"
     },
     {
       "id": "FL-361a30a04c1a",
