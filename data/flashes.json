@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T04:02:51.465Z",
+  "updated": "2026-10-18T04:30:09.589Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -243,6 +243,30 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
+      "id": "FL-0a17af70d470",
+      "date": "2026-10-17",
+      "dateISO": "Sat, 17 Oct 2026 13:17:00 GMT",
+      "ts": 1792243020000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Osage Co-Op fire caused by sulfur explosion under investigation - kaaltv.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTXUwV1hvQS1WMGlmU3RDTk1JRFFJeGtnZ1hSVGlrcmxJMFg1MDRaMGJXYWowRjhaMlJSOTNuZW9IMFkxZmRyT2s1bWw4STJSRndCR3hRN2toR1JVQy1nc0ZCZVd0TFN2VWdpemh1cGoyaV80UmJmYlVzel9hMXJSRGhmSkZFRmUzSUVnTg?oc=5",
+      "site": "kaaltv.com",
+      "siteUrl": "https://www.kaaltv.com"
+    },
+    {
+      "id": "FL-a1e6d9bd3cb4",
+      "date": "2026-10-17",
+      "dateISO": "Sat, 17 Oct 2026 12:33:45 GMT",
+      "ts": 1792240425000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "含坠落爆炸瞬间！特斯拉新车内部测试画面曝光：车辆原地起飞再着陆 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbnlOWjJoQ2FTV2l6VHowdVUzM0puYldZS3BFVVQxUnNWQ0F4YjBPNURFd1VHX3dieUF5Y2t4T1RqNnNIa2RZeTAzQ0hzRW8yLWVWSWE5WVFub1dBSHVxNkpZeWNPbGpnR0RiVGNMZ2xkRGpzLWxiaVN2d0hGRUF2anJR?oc=5",
+      "site": "新浪网",
+      "siteUrl": "https://video.sina.com.cn"
+    },
+    {
       "id": "FL-d3fbff3078c6",
       "date": "2026-10-17",
       "dateISO": "Sat, 17 Oct 2026 10:40:57 GMT",
@@ -327,18 +351,6 @@
       "siteUrl": "https://www.21jingji.com"
     },
     {
-      "id": "FL-d2fca6abea5c",
-      "date": "2026-10-16",
-      "dateISO": "Fri, 16 Oct 2026 07:44:00 GMT",
-      "ts": 1792136640000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "鞠躬道歉！日本误报称发生9.9级地震 网友吐槽无知：相当于2100万颗原子弹在广岛同时爆炸 - 驱动之家",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlTUlDcnhpV0V2WkprVmVkQlcxc19iMzRON1lRWVJHWnpVZnFmYUlYdTk2dk94Zm1CbTB0clJfcGVrRUM3dDZQNVAxQ1U5eTBqdVZlaTktUG0?oc=5",
-      "site": "驱动之家",
-      "siteUrl": "https://news.mydrivers.com"
-    },
-    {
       "id": "FL-b5654d76ba48",
       "date": "2026-10-16",
       "dateISO": "Fri, 16 Oct 2026 07:34:00 GMT",
@@ -361,18 +373,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTndzVWl0bjAyeHYtLTdLTmNHOUNDNlNoeGlBcXRlU3dpNi1WYWlvMzM4Y0RoOTBOR1hobWJyYXIxV1hoREZJbERMdlRBcVpPU0k4ZURFZjVtN3NZc2hjNDZiNG5KaEVFdTdNdExfNW9aUkxvQmhEVGNPY3ZJNTAyYU1HTi0wb2NXNVE?oc=5",
       "site": "上海市人民政府",
       "siteUrl": "https://www.shanghai.gov.cn"
-    },
-    {
-      "id": "FL-a682347a9018",
-      "date": "2026-10-16",
-      "dateISO": "Fri, 16 Oct 2026 01:05:00 GMT",
-      "ts": 1792112700000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "东方巨响！62年前，这条“爆炸”新闻震惊世界_荔枝新闻 - Jstv.com",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uNWRvOWlFWnVzanBXYkhVUk9nNlFsTmZ3bVVWbWVDdE52clZUanBwbE9oSEdQdXNQTk1hVWdvbVJkZUdxREdta2hNMUVhTjJvM1NFQTlMSnA1UGNSU05rSFdIRFZIOVZxNGJB?oc=5",
-      "site": "Jstv.com",
-      "siteUrl": "https://m.jstv.com"
     }
   ]
 }
