@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T14:01:17.650Z",
+  "updated": "2026-10-18T14:27:21.141Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -51,16 +51,28 @@
       "siteUrl": "https://www.dw.com"
     },
     {
-      "id": "FL-340d5e981918",
-      "date": "2026-08-23",
-      "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
-      "ts": 1787468400000,
+      "id": "FL-8747baed27f6",
+      "date": "2026-10-18",
+      "dateISO": "Sun, 18 Oct 2026 14:05:53 GMT",
+      "ts": 1792332353000,
       "scope": "dom",
       "type": "blast",
-      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
+      "title": "这青春，就是长春！|长春市|志愿者|吉林省|名片|燃爆 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84a2FjMXB0cXVMUkV1X2F6cnd6VDFYcjFEZGZSeno3MjV4dGRjZUpKY1VUOUtFaXpEQ3EyOHZRb0VDQkRCUU81SFczQnlNYzFpcm84N093SmtEdmRrTWN6TFY1bXBvWFJlVU5iNnI4emljbmJpZUlXUQ?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
+    },
+    {
+      "id": "FL-93b0629ccb6b",
+      "date": "2026-10-18",
+      "dateISO": "Sun, 18 Oct 2026 13:47:00 GMT",
+      "ts": 1792331220000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "焦点访谈丨火灾、爆炸、污染风险如影随形……化工厂何以建在群众生活区？ - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa25YNjEtaUM4ZGJMdEFSYl83ZXB2M2pVVTFiVlFuenJqOUlDekQ1amlidmJSM2ZURzl3cmxQS3ZVUmtERHpXaE03cEN2dzU1al9XdkhkWVdnNlRqeW9SY3FRN3d1N2tuUHkyNFBxSm1ZZFlkclhiZFdvMlIyNENuck5EQnZoZXJf?oc=5",
+      "site": "搜狐",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-9fdf5065c1fd",
@@ -73,18 +85,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBENHlaV2Vhck5IeldKSlI0MlN1SjJFWmUyN2NIbGVXVG9nTlEtMTF5bnJZS2daR1ZoY1RRSml1MVdCcThMUXlJekQtS3lrMFFnRFVwMDl5UkVaNTVoUlE?oc=5",
       "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
-    },
-    {
-      "id": "FL-8f92427f0bf0",
-      "date": "2026-10-18",
-      "dateISO": "Sun, 18 Oct 2026 13:28:41 GMT",
-      "ts": 1792330121000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "兵工厂爆炸虞昶轩身陷险境，平君不顾生死去找他，虞昶轩激动落泪#微博视频号续航计划# ​ - 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNXzhYZkQzUVhuRE9JSVlEWUZkVDd5SG1Ld205QnduWS1Hc3I4Vm12Q0lEMGV2UGsxN3NmMTBlcFoyU0phb3FtaXdhb0dTNW9qYnFCa3VDRDlnam5aQVV1N0p2TFBEdmE4YVRGWWcyMW5HWEpncmV0RjJOUTJwdVpSRDNRd25UUGw1UDZBRXVsOGNuVU1sZTluQ2Y1bnBBakZBVFdKNDd0eHk5QS14NHN2V2U5dFc5LWVCMEkzeG5GS3EwZVU0YjFSMDAzV0FDanVkd3R2Qm44aTMweERma2dBWkY5Z040X2c?oc=5",
-      "site": "新浪网",
-      "siteUrl": "https://k.sina.com.cn"
     },
     {
       "id": "FL-b7eea6b88f17",
@@ -157,18 +157,6 @@
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTUZFay1laHpTM2lTYXFoUVFnVXNIRy13eGd6UmdBb3doX0gxb1NtbXRzTG8tSl9CbF9BY2phZ3A4R1VNVzRENDJ2RnBUVVNfT2VhdVpadUdMaDhuTzJKZEpSYnlOT2drMnF0bzZkdW5UTWxaT3luSUxfb0syOW5xZUNrS2tjQWZWbUFxNEhkcUtsN2Vad1ZOZEFrZ1NYN2xEMXhXN2JFTTZKOUxvSnZCeXU1LTFxbFdtTTdwOV9rTWE2S3AyVktoTFBOZmZNTHA1VVotSHZvS3VuR0xCbnBCQkxn?oc=5",
       "site": "i24NEWS",
       "siteUrl": "https://www.i24news.tv"
-    },
-    {
-      "id": "FL-c7d162eeef13",
-      "date": "2026-10-18",
-      "dateISO": "Sun, 18 Oct 2026 09:51:54 GMT",
-      "ts": 1792317114000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "CFB Wainwright Fire Leaves Multiple Dead as Reported Gas Explosion Remains Unconfirmed - finchannel",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOODlrb2Uxd2FHZDNJbFUtUHJCSDhwSGZsLVVndnJYZUF6YkpSNmVuZ0puSW43VWpSYjdXcmN1a3FjNzQ4cHJjMjk4bm5SUFFDdUw2REpqcnoxME90UFB4S1NHUWRSZWxaYjBaZm04RThkUTcwWjVZSnZjZ21DTU9nV19kNHV0TFc4NVVid0JadGk5c2l3MFFQWXY1dXdTb2xwQlNvbU44aUU2MUFQbWhPbmlsRmhKSzRMMk5wd3BHN0kxWWRUN1FrZjFnZXYyUQ?oc=5",
-      "site": "finchannel",
-      "siteUrl": "https://finchannel.com"
     },
     {
       "id": "FL-5014bb754c11",
@@ -317,14 +305,14 @@
     {
       "id": "FL-1cdc7213279c",
       "date": "2026-10-17",
-      "dateISO": "Sat, 17 Oct 2026 22:18:26 GMT",
-      "ts": 1792275506000,
+      "dateISO": "Sat, 17 Oct 2026 22:18:00 GMT",
+      "ts": 1792275480000,
       "scope": "intl",
       "type": "blast",
       "title": "苏丹首都圈地区一军事基地发生爆炸 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40MkZvQklQakhlWUxKaVJ3MnZjQ1BVZWV5N2p1WVZta3MzUzRPU295NF80YmJMUGlFRUltblpBNm83S3hSX2EtdE02QmZ2VmFnOUJqMWtoeDdVaUFUTUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BMGhEc2s5SUNfZlBxUksxZGphY0dWa2pOTFE4ZGlTbnFhUDFEaTVtc014QUNOVEk1eFdpM01xRERfa2lRaFVrWXZqUWNOeVRCd0UwTm5ETk56OHE0SGI1alliMmlKRlJZZ3hXRGJoVU9Vdw?oc=5",
       "site": "京报网",
-      "siteUrl": "https://news.bjd.com.cn"
+      "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
       "id": "FL-0aa8ad3f49f0",
