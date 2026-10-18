@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T11:31:59.080Z",
+  "updated": "2026-10-18T11:56:36.104Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -37,18 +37,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQcmdXTjEtaEEwQXAyc0dzZ29xdEtVZ3VnTzNSdEdIODhUbTkwVE1WYUJKZGlFN0N1TkdlQTNEZDA1SkNEejNqVS15STYwTURwckdUM0REQUMyTHdNQk5oSjlR?oc=5",
       "site": "财新",
       "siteUrl": "https://science.caixin.com"
-    },
-    {
-      "id": "FL-11b1a4224e08",
-      "date": "2026-10-06",
-      "dateISO": "Tue, 06 Oct 2026 19:57:10 GMT",
-      "ts": 1791316630000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "沙特阿拉伯首都利雅得5日晚传出爆炸声 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SZURBZjRfRnpRY2QwN1RnbVpsZzZ6WWtnLVBXY1I4aWN5alhMQ0R3UDBEM2RPYTJsQ1VYVUt4YVpvSjJZTkIzV3lxQTMzdWVHSnF2SUlfY2gybzBIc0R0Rg?oc=5",
-      "site": "东方财富",
-      "siteUrl": "https://wap.eastmoney.com"
     },
     {
       "id": "FL-268f06752aaa",
@@ -121,6 +109,18 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR213TENTNHBXTWtxaU9OOERNeTBPczZXWERmaEpSX1VadW1qY1liRmwyU1EzRkxkcThCSXV1Q3U1Zjg5QXBBQldwalBOOFpPMlF1Q3RqLWhRcUFoSDNmTDRYVEU4ZmZGZF9JVEZ5R2s4YVpveDFYU0s3VnpDTGFQRzIwaEtKMUt5ZTNMcks0TjdyZGpiOEF0LVdubHB5NlE2YXAtNg?oc=5",
       "site": "People.com",
       "siteUrl": "https://people.com"
+    },
+    {
+      "id": "FL-e2597d45a6ab",
+      "date": "2026-10-18",
+      "dateISO": "Sun, 18 Oct 2026 10:26:00 GMT",
+      "ts": 1792319160000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "加拿大军事基地实弹演习爆炸起火，遇上时速超100公里狂风！当地正举行“脱加”公投 - QQ News",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBua3U5NXRfVTRSdGxKS2l5WTZuZHNlX05DNUxwdGFrLWdBMUJjbDB2cVNWVjdkZ3owa2FaUnpvUDcwcjZScmhXanI2NHBGY1FmTElwdTA4Q2tRYm9yS0lxLVJzNTlFV29QS2kzZg?oc=5",
+      "site": "QQ News",
+      "siteUrl": "https://news.qq.com"
     },
     {
       "id": "FL-a05ca20a8bf7",
@@ -241,18 +241,6 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KNXl5YzJxVHlTNEtSeF82WDdETjBRN2RXZHRCSlE1SWtRdUYyOUlFZXY5bVdVckxoSEFmbjdjZFZmekRVWWg3U1lYSlhXcXBCelJhMl85SkIwWXYzZmQxMkR5dw?oc=5",
       "site": "手机新浪网",
       "siteUrl": "https://www.sina.cn"
-    },
-    {
-      "id": "FL-e583187b3727",
-      "date": "2026-10-18",
-      "dateISO": "Sun, 18 Oct 2026 06:46:13 GMT",
-      "ts": 1792305973000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "7 dead, dozens injured in explosion and fire at CFB Wainwright - Global News",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JTmJ0Zk5feDctX2dLZWpKU2ZtNGRjemsyVG44ZzVsRV85S2RxdkN1MnNYRUdsMWJrMkphRkxkU2czRk0yR3NDQUlnRy1QbHhvbGtWVlF2dXNDTnJreUtMWUJFSDNqMW8?oc=5",
-      "site": "Global News",
-      "siteUrl": "https://globalnews.ca"
     },
     {
       "id": "FL-baf36b580b5b",
