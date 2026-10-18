@@ -1,19 +1,7 @@
 {
-  "updated": "2026-10-18T15:10:35.644Z",
+  "updated": "2026-10-18T15:39:32.778Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-7d8c45ca5bdc",
-      "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 17:45:00 GMT",
-      "ts": 1791999900000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "科学家捕获最远快速射电暴，源头位于大爆炸后约三十亿年星系 - 中国科技网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kSWJwQ1U0U1F1RG9jZlIyVWhrZW1RUF93VjZETkc4bVVsZEplV2U1M1JPR3FFNGNlWTZaVWJQNDItOE9sOGg4WHV4blFITWVzZnNwemxiLUVGTEQwM3JmSXpUbF92d1lxYlI2TjdxZ0E?oc=5",
-      "site": "中国科技网",
-      "siteUrl": "https://www.stdaily.com"
-    },
     {
       "id": "FL-d933960c920a",
       "date": "2026-10-14",
@@ -39,6 +27,18 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
+      "id": "FL-385dd58b908a",
+      "date": "2026-08-11",
+      "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
+      "ts": 1786431600000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - 财新",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQcmdXTjEtaEEwQXAyc0dzZ29xdEtVZ3VnTzNSdEdIODhUbTkwVE1WYUJKZGlFN0N1TkdlQTNEZDA1SkNEejNqVS15STYwTURwckdUM0REQUMyTHdNQk5oSjlR?oc=5",
+      "site": "财新",
+      "siteUrl": "https://science.caixin.com"
+    },
+    {
       "id": "FL-268f06752aaa",
       "date": "2026-10-15",
       "dateISO": "Thu, 15 Oct 2026 13:16:30 GMT",
@@ -51,6 +51,30 @@
       "siteUrl": "https://www.dw.com"
     },
     {
+      "id": "FL-340d5e981918",
+      "date": "2026-08-23",
+      "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
+      "ts": 1787468400000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-cba04e491921",
+      "date": "2026-10-18",
+      "dateISO": "Sun, 18 Oct 2026 15:22:27 GMT",
+      "ts": 1792336947000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Mysterious explosion strikes an Iranian-backed group in Iraq - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2Z0p0Z3N1bmMzbjdTRG1rSWNId205WC1ZY2hKUGprQVBPNWpiay1PazV1TkpDY0hhZWlZbEU1SFN1UlVEVEt3bGFod0dwQ3l1Mkw0YWczZjk3dFVs?oc=5",
+      "site": "The Jerusalem Post",
+      "siteUrl": "https://www.jpost.com"
+    },
+    {
       "id": "FL-e5b4e284d384",
       "date": "2026-10-18",
       "dateISO": "Sun, 18 Oct 2026 14:36:00 GMT",
@@ -61,18 +85,6 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUm1FclI0d0hpbkUtZHBkZWdHbWFwSS1uWlF6VmxXRVA4R3FRYjN1UnZnZ3M3QTl3LVFmVDBEX0JxU05lY3ZhRUpPeGJCMllHNkxkd2c4eHFybk85Wm56R0ZueXhjNjVvai1BX0l3ZzRJbTdwT3pteEN3MEc2cVNBUXExQ0ZuMUk?oc=5",
       "site": "Politico",
       "siteUrl": "https://www.politico.com"
-    },
-    {
-      "id": "FL-97414e49ae90",
-      "date": "2026-10-18",
-      "dateISO": "Sun, 18 Oct 2026 14:27:34 GMT",
-      "ts": 1792333654000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Two injured in camping stove explosion near Orem - FOX 13 News Utah",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcnVKOUI0UFNjVEJKLUdmZkk1YkxUajV4RElyUkQ2cVpxYzZveWxqWnpVVDRHektNTzRRV1c2SkdlVGlaTnRmSk9HX1dTM1RYTDczbVhGU08yY3VrZzhHYWZCelJjM0VYTTM5LTRybHlNcHd6UU1fa09OYXRwRmdkMzVuYTlYdGxVYjlvZ3Bhb2Uyd0c4NWY2NElzdDY2R3FNRGVWdDl3?oc=5",
-      "site": "FOX 13 News Utah",
-      "siteUrl": "https://www.fox13now.com"
     },
     {
       "id": "FL-8747baed27f6",
@@ -133,18 +145,6 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa1FLU0hiTmVNa3FITzVuTmhsdW42NXVjWmhqM1g3d2ZHVFhvblhOSmRsNkZ4dTROYlRtajFYMHM3eW5OckJoN2J0Yzd5eDBjY2tEZU01T0xDREJjb0ExU2M0aG9Xb2k4bXBJbC1QQVZ2cmhYV3NnbnJtbXprMnBFalFrZVBTR3BCNC1reDQyNlB3amNJWXdMT3N1ZWxrVFU?oc=5",
       "site": "Autoweek",
       "siteUrl": "https://www.autoweek.com"
-    },
-    {
-      "id": "FL-cba04e491921",
-      "date": "2026-10-18",
-      "dateISO": "Sun, 18 Oct 2026 10:53:03 GMT",
-      "ts": 1792320783000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Mysterious explosion strikes an Iranian-backed group in Iraq - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2Z0p0Z3N1bmMzbjdTRG1rSWNId205WC1ZY2hKUGprQVBPNWpiay1PazV1TkpDY0hhZWlZbEU1SFN1UlVEVEt3bGFod0dwQ3l1Mkw0YWczZjk3dFVs?oc=5",
-      "site": "The Jerusalem Post",
-      "siteUrl": "https://www.jpost.com"
     },
     {
       "id": "FL-3be1dfba3683",
@@ -231,6 +231,18 @@
       "siteUrl": "https://www.sina.cn"
     },
     {
+      "id": "FL-baf36b580b5b",
+      "date": "2026-10-18",
+      "dateISO": "Sun, 18 Oct 2026 04:45:15 GMT",
+      "ts": 1792298715000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "迈开步，动出彩！德阳这场运动游园会燃爆了 - 四川在线",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xX1JQbXNzb01yYW9pLWVla29XQzg3LXV5a1NkSnA2Z1pWdlVqTmQxSkg5NzEtcDBRSGc2ekk1RXBfNi1fMjRKLWtOOEk3U2pDRUV0QUN0WF9OVFN4ZV9Z?oc=5",
+      "site": "四川在线",
+      "siteUrl": "https://deyang.scol.com.cn"
+    },
+    {
       "id": "FL-d15e1a1612df",
       "date": "2026-10-18",
       "dateISO": "Sun, 18 Oct 2026 03:04:10 GMT",
@@ -253,6 +265,18 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wLW5seVBWVnhPa3JrQzF5dlFKcEh3SzJUTUdVdGp5NVh1YnZwS2tjOS05Zm1TVjItX0FuRmFwVUhVd1VqcmlyLUlIR1dzekhfalVvV2hUbWtNczJReGNKbFlQZUphWkpSa0l0Szhn?oc=5",
       "site": "生物通",
       "siteUrl": "https://www.ebiotrade.com"
+    },
+    {
+      "id": "FL-0615dd398028",
+      "date": "2026-08-02",
+      "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
+      "ts": 1785654000000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-9599d3280828",
@@ -293,14 +317,14 @@
     {
       "id": "FL-1cdc7213279c",
       "date": "2026-10-17",
-      "dateISO": "Sat, 17 Oct 2026 22:18:26 GMT",
-      "ts": 1792275506000,
+      "dateISO": "Sat, 17 Oct 2026 22:18:00 GMT",
+      "ts": 1792275480000,
       "scope": "intl",
       "type": "blast",
       "title": "苏丹首都圈地区一军事基地发生爆炸 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40MkZvQklQakhlWUxKaVJ3MnZjQ1BVZWV5N2p1WVZta3MzUzRPU295NF80YmJMUGlFRUltblpBNm83S3hSX2EtdE02QmZ2VmFnOUJqMWtoeDdVaUFUTUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BMGhEc2s5SUNfZlBxUksxZGphY0dWa2pOTFE4ZGlTbnFhUDFEaTVtc014QUNOVEk1eFdpM01xRERfa2lRaFVrWXZqUWNOeVRCd0UwTm5ETk56OHE0SGI1alliMmlKRlJZZ3hXRGJoVU9Vdw?oc=5",
       "site": "京报网",
-      "siteUrl": "https://news.bjd.com.cn"
+      "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
       "id": "FL-0aa8ad3f49f0",
