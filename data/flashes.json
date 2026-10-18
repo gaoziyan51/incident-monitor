@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T12:12:10.678Z",
+  "updated": "2026-10-18T12:47:23.694Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -27,15 +27,27 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-268f06752aaa",
+      "id": "FL-385dd58b908a",
+      "date": "2026-08-11",
+      "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
+      "ts": 1786431600000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - 财新",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQcmdXTjEtaEEwQXAyc0dzZ29xdEtVZ3VnTzNSdEdIODhUbTkwVE1WYUJKZGlFN0N1TkdlQTNEZDA1SkNEejNqVS15STYwTURwckdUM0REQUMyTHdNQk5oSjlR?oc=5",
+      "site": "财新",
+      "siteUrl": "https://science.caixin.com"
+    },
+    {
+      "id": "FL-023199754c1d",
       "date": "2026-10-15",
       "dateISO": "Thu, 15 Oct 2026 13:16:30 GMT",
       "ts": 1792070190000,
       "scope": "intl",
       "type": "blast",
-      "title": "北溪爆炸案德国开审 被告律师称北溪管道或为“合法打击目标” - DW.com",
+      "title": "北溪爆炸案德国开审 被告律师称北溪管道或为“合法打击目标” - dw.com",
       "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQaHBNeC1jZHk3Rml6di13a0h2dE11cmpDYWF3LWFJaFpWVjZNYnZDT0RqU2R6Y3g0dFpVZGEtcVYySldUVzJIX0c2WVV6ajBaTGt0b044dmViNHoya01hZGtmREpUYk5na3VQSWt4azFIbTQ1SjVjZlJEYS1JZXRZcUp6cnFCekdvcVFmQkFrSzRNU3NOalQxMHVKeGlISjZlVGJVQkpFVEpGbnBTZVJKbG5PRy10Qy1KY09BNDE4OUpMUENEM28ycWVNakJhSWZmbE45SWt3cVFMaDJlaVBtbWR3MWlxMWpmaG9XeGVmT0VlWnRqQnQwcFBxNDA3Q3FjZVNCbFpKM3VEc0xYN0xucWEyMnctVE5WTDA0OEFOODdWUzIweXJmb2xfYldLYXNfUDFXNWQzVnpwbUpCM05oODBwU1MwYUVfV0JfZnZlXzdaQk0tdElIWlFoS2Qzck1UWF9tVzRnMDJWczFmZVg2V0tZd3lockZ6eTFjM1RQTGNlWmFHMGIzOFptRGpXQdIBjgNBVV95cUxNMU0wa3VnanM1MDh1Qm9UY2FpbmdBUTFMdEJPclBjeFBHMkk3QVhOLUR6X0JMdldiTjJuZXdHSnVlZkpBWVhNbkQ2cjlzZndZVjRUR09DVnpxM0JMY1gzTkJ1dUFGbFByZS13d2Q3MlMzem9sazh4V0twUjBzM3o1UUgxYlVUYUZTOTA1M3oxT3dTc1VSd2tCX0JKWWRsSms3Y3c3Yl9OdFR2YnhZRmVkLWthS2JSQkt3UGhwOVNsTTItYmpQMmVMdEFMckpDOFAwdVB6anFSYlFjOFJSQ1NzcWlKQWx5MTVaajhTclNfbXFrakdaM25rT2xEeXdGaWMwY0xtREdoOU9kNFFTNnY5X0RHUjhUOHZzM1hMM3doNXlpck1SRDN2UWtJVlhQYldyWHFsM1JPam9PUjFLRWxqTGozLW1MVGZOc1ZmQVN6djVTMWxWYjFJMW9VY0xEOFA3b25sd0NfcGpkWEJrN25WRVFDTnVWMUJkQ0xGNWRrcTF1MEJ4MEVNbkpLLWs5QQ?oc=5",
-      "site": "DW.com",
+      "site": "dw.com",
       "siteUrl": "https://www.dw.com"
     },
     {
@@ -49,6 +61,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-b7eea6b88f17",
+      "date": "2026-10-18",
+      "dateISO": "Sun, 18 Oct 2026 12:12:00 GMT",
+      "ts": 1792325520000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Canadian military forced to parachute troops into base after gas explosion, fire left at least 7 dead - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUjV2RGV4bERra0FsakVZRGczanBDTWZuTzR2dmhWUmNBUFJISGJwQUdfaHZtSzlKUWdwMHJzYzFnaFVPejJoQU05VzJtM2MzTFpsWmo0UldpenMwcXBMOHpPQkpnb0VRWEpydUdwSF9COUdtUVpOWGpxVEhWLWlxYTFJYVcxRFlZeXFHbTVaYTNPNG5Sb1hZSXpCQ05KZ1ZUbFRycWFNWlJnZUJlY3AxbU51YUhmRW56c05oek16ZEZkUUNULW1XQi0tdnZLWmZuNWtVWEZlSVdwQQ?oc=5",
+      "site": "New York Post",
+      "siteUrl": "https://nypost.com"
     },
     {
       "id": "FL-e48c02e5450d",
@@ -99,15 +123,15 @@
       "siteUrl": "https://people.com"
     },
     {
-      "id": "FL-e2597d45a6ab",
+      "id": "FL-381331a5434f",
       "date": "2026-10-18",
       "dateISO": "Sun, 18 Oct 2026 10:26:00 GMT",
       "ts": 1792319160000,
       "scope": "intl",
       "type": "blast",
-      "title": "加拿大军事基地实弹演习爆炸起火，遇上时速超100公里狂风！当地正举行“脱加”公投 - QQ News",
+      "title": "加拿大军事基地实弹演习爆炸起火，遇上时速超100公里狂风！当地正举行“脱加”公投 - 腾讯新闻",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBua3U5NXRfVTRSdGxKS2l5WTZuZHNlX05DNUxwdGFrLWdBMUJjbDB2cVNWVjdkZ3owa2FaUnpvUDcwcjZScmhXanI2NHBGY1FmTElwdTA4Q2tRYm9yS0lxLVJzNTlFV29QS2kzZg?oc=5",
-      "site": "QQ News",
+      "site": "腾讯新闻",
       "siteUrl": "https://news.qq.com"
     },
     {
@@ -219,18 +243,6 @@
       "siteUrl": "https://www.sina.cn"
     },
     {
-      "id": "FL-6ca097428f8b",
-      "date": "2026-10-18",
-      "dateISO": "Sun, 18 Oct 2026 06:05:00 GMT",
-      "ts": 1792303500000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Seven killed in explosion at Canada military base in Alberta - The Telegraph",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaHozaUVJMHZQWlFyNHVQM2RPdm1rVFpTZmZ0dnpCUjlTM1h3YTQxZFR6bXdURC1qbjd6VXRpOFJfN2VYeEd4NmFUemNYdlhUNC05T2JBallpbndWNWZNanlTdlZzRFRDM0RDc0dreUJ0aW1RNWNjNnVKVVJXSjR0R1dmWWxTckc4VFdfMEtNVENxdnlqV1Jibi1laklWS1VxYkxOR01nSQ?oc=5",
-      "site": "The Telegraph",
-      "siteUrl": "https://www.telegraph.co.uk"
-    },
-    {
       "id": "FL-baf36b580b5b",
       "date": "2026-10-18",
       "dateISO": "Sun, 18 Oct 2026 04:45:15 GMT",
@@ -267,18 +279,6 @@
       "siteUrl": "https://www.ebiotrade.com"
     },
     {
-      "id": "FL-30033ef096a2",
-      "date": "2026-10-18",
-      "dateISO": "Sun, 18 Oct 2026 00:26:00 GMT",
-      "ts": 1792283160000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "苏丹首都圈地区一军事基地发生爆炸 - 华声在线",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BbDNuZTdTam4zTWNSazV1bm9ZaUNvZENpSlNUblJqN2VqTkM0MmhkbUJnRHNBaTd3WEIzZmEyZGp3LUgwQ3d1cFNKNWxFaTF4N1Bvem1NMWdJLWx0dnc?oc=5",
-      "site": "华声在线",
-      "siteUrl": "https://news.voc.com.cn"
-    },
-    {
       "id": "FL-65a837ede06b",
       "date": "2026-10-04",
       "dateISO": "Sun, 04 Oct 2026 07:00:00 GMT",
@@ -303,6 +303,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-9599d3280828",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 13:10:00 GMT",
+      "ts": 1790428200000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 海报新闻",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ROFVYb0tiQ1U4U1lYZnNqNXVxT0dsOFlacHhVMlJ3LVB3QWVyODR6LXZuamRqTThucEJXZWJRWEJKa1laam5mN1BTY2d3WmZi?oc=5",
+      "site": "海报新闻",
+      "siteUrl": "https://hb.dzwww.com"
+    },
+    {
       "id": "FL-08d5beb77eeb",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
@@ -325,6 +337,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlemFCa3lteDlkZERLTXRLMHhpeTIzNmFqanFBczVPaFNjQjVxOHNJNm54Tkhua1FqOGtuaUhBLWdRSWxXaFRoZThQZXJqclRIV1pUaTNhcjhHU0dwRzA1WXNQc2ZOVEhXX0Z1NUVBcnBUalJRWkE3ZlE0S3NOaXM?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-1cdc7213279c",
+      "date": "2026-10-17",
+      "dateISO": "Sat, 17 Oct 2026 22:18:26 GMT",
+      "ts": 1792275506000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "苏丹首都圈地区一军事基地发生爆炸 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40MkZvQklQakhlWUxKaVJ3MnZjQ1BVZWV5N2p1WVZta3MzUzRPU295NF80YmJMUGlFRUltblpBNm83S3hSX2EtdE02QmZ2VmFnOUJqMWtoeDdVaUFUTUE?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn"
     },
     {
       "id": "FL-0aa8ad3f49f0",
@@ -421,6 +445,18 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mOW90LUsxZ0prZmZVUFNmTkZ0QjQ1NzdDY195Z25fWFVDaXM3ZkloeTNkY3c3RnpVSVd3ZlFJY3c4YWlIalBYMDJWaGE0SUpZTm8zS2VZbUZmc2hoS2cwbFRPSTFHWGxOUVRYWkU2clJNdDg4Zk9PVm9n?oc=5",
       "site": "封面新闻",
       "siteUrl": "https://m.thecover.cn"
+    },
+    {
+      "id": "FL-c39833bbfc21",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 22:10:00 GMT",
+      "ts": 1790374200000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 环球网",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5naEpaTmt5bmlhUXlZdndRR2F3XzN6Z2d5aWcwdU4zRnpJWXBJX3VpVWxzRDBzQUFVRXZ4TW1lOTJQUEhCQ3NDNDFEN2FpVTRuYTh3?oc=5",
+      "site": "环球网",
+      "siteUrl": "https://m.huanqiu.com"
     },
     {
       "id": "FL-d2fca6abea5c",
