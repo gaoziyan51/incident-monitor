@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T17:48:47.828Z",
+  "updated": "2026-10-18T18:03:51.277Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -99,18 +99,6 @@
       "siteUrl": "https://www.jpost.com"
     },
     {
-      "id": "FL-e5b4e284d384",
-      "date": "2026-10-18",
-      "dateISO": "Sun, 18 Oct 2026 14:36:00 GMT",
-      "ts": 1792334160000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Explosion and fire at Canadian military base lead to multiple deaths - Politico",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUm1FclI0d0hpbkUtZHBkZWdHbWFwSS1uWlF6VmxXRVA4R3FRYjN1UnZnZ3M3QTl3LVFmVDBEX0JxU05lY3ZhRUpPeGJCMllHNkxkd2c4eHFybk85Wm56R0ZueXhjNjVvai1BX0l3ZzRJbTdwT3pteEN3MEc2cVNBUXExQ0ZuMUk?oc=5",
-      "site": "Politico",
-      "siteUrl": "https://www.politico.com"
-    },
-    {
       "id": "FL-8747baed27f6",
       "date": "2026-10-18",
       "dateISO": "Sun, 18 Oct 2026 14:05:53 GMT",
@@ -171,6 +159,18 @@
       "siteUrl": "https://i.ifeng.com"
     },
     {
+      "id": "FL-a05ca20a8bf7",
+      "date": "2026-10-18",
+      "dateISO": "Sun, 18 Oct 2026 10:16:00 GMT",
+      "ts": 1792318560000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "7 Killed And Dozens Injured In An Explosion And Massive Fire At A Military Base In Canada - i24NEWS",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTUZFay1laHpTM2lTYXFoUVFnVXNIRy13eGd6UmdBb3doX0gxb1NtbXRzTG8tSl9CbF9BY2phZ3A4R1VNVzRENDJ2RnBUVVNfT2VhdVpadUdMaDhuTzJKZEpSYnlOT2drMnF0bzZkdW5UTWxaT3luSUxfb0syOW5xZUNrS2tjQWZWbUFxNEhkcUtsN2Vad1ZOZEFrZ1NYN2xEMXhXN2JFTTZKOUxvSnZCeXU1LTFxbFdtTTdwOV9rTWE2S3AyVktoTFBOZmZNTHA1VVotSHZvS3VuR0xCbnBCQkxn?oc=5",
+      "site": "i24NEWS",
+      "siteUrl": "https://www.i24news.tv"
+    },
+    {
       "id": "FL-a671ff27ec78",
       "date": "2026-10-18",
       "dateISO": "Sun, 18 Oct 2026 08:35:29 GMT",
@@ -217,6 +217,18 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wLW5seVBWVnhPa3JrQzF5dlFKcEh3SzJUTUdVdGp5NVh1YnZwS2tjOS05Zm1TVjItX0FuRmFwVUhVd1VqcmlyLUlIR1dzekhfalVvV2hUbWtNczJReGNKbFlQZUphWkpSa0l0Szhn?oc=5",
       "site": "生物通",
       "siteUrl": "https://www.ebiotrade.com"
+    },
+    {
+      "id": "FL-0615dd398028",
+      "date": "2026-08-02",
+      "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
+      "ts": 1785654000000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-008d86b164a4",
@@ -269,14 +281,14 @@
     {
       "id": "FL-1cdc7213279c",
       "date": "2026-10-17",
-      "dateISO": "Sat, 17 Oct 2026 22:18:26 GMT",
-      "ts": 1792275506000,
+      "dateISO": "Sat, 17 Oct 2026 22:18:00 GMT",
+      "ts": 1792275480000,
       "scope": "intl",
       "type": "blast",
       "title": "苏丹首都圈地区一军事基地发生爆炸 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40MkZvQklQakhlWUxKaVJ3MnZjQ1BVZWV5N2p1WVZta3MzUzRPU295NF80YmJMUGlFRUltblpBNm83S3hSX2EtdE02QmZ2VmFnOUJqMWtoeDdVaUFUTUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BMGhEc2s5SUNfZlBxUksxZGphY0dWa2pOTFE4ZGlTbnFhUDFEaTVtc014QUNOVEk1eFdpM01xRERfa2lRaFVrWXZqUWNOeVRCd0UwTm5ETk56OHE0SGI1alliMmlKRlJZZ3hXRGJoVU9Vdw?oc=5",
       "site": "京报网",
-      "siteUrl": "https://news.bjd.com.cn"
+      "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
       "id": "FL-0aa8ad3f49f0",
@@ -289,18 +301,6 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE56RDJsejN5NXF4Q2RITUFCZXlib1I1ZzM1ZjBVdU9XeUE5RjRmTDVaa290QXBFUFcwcUFGQXdNYmlaNFpKNFY5eHlVUQ?oc=5",
       "site": "手机新浪网",
       "siteUrl": "https://wap.cj.sina.cn"
-    },
-    {
-      "id": "FL-b3a4135f2d82",
-      "date": "2026-10-17",
-      "dateISO": "Sat, 17 Oct 2026 18:23:00 GMT",
-      "ts": 1792261380000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "巴格达弹药爆炸致该武装五名成员受伤—— 阿纳多卢通讯社 - UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUThUZ1M4ZU9VSk52a2FqVEl4bndIaEwtOC15MmV6X3FoNEFOMUIzWkFyVzRoYVZjcDFvM1lfczlrcTBSRGU0Q3NoN2VlM3o0WFNYV01RRkk3NTY4dVdjNmxKRVBkUndFNXpiZ25yMTRPOUtoMzA0eldrUXB0X2RTRnptUW9raFlNbUNxWHpDaXFvRTloUVpEOGxRQWEtWThVcFk1Q0h6UlM?oc=5",
-      "site": "UA.NEWS",
-      "siteUrl": "https://ua.news"
     },
     {
       "id": "FL-2fdd39a1a516",
