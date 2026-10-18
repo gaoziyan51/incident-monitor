@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T02:14:51.847Z",
+  "updated": "2026-10-18T02:42:02.627Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -87,6 +87,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-fa125123901e",
+      "date": "2026-10-18",
+      "dateISO": "Sun, 18 Oct 2026 02:12:47 GMT",
+      "ts": 1792289567000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "王力宏看完披哥《在梅边》直呼燃爆 原唱认证引爆热议 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wRm45Um40LVB5S0N0RGh5ZXhEczk2S3BqNjl3Qkhfa1BDS1JELWpDZDlUQ1JMSGJ1aElJa0RJZGpPSDZJbHg0Tlc3NkVVNm1LZF9iYU90cFlfbl9VY1lvQURXUG9RNHhQRFRtNw?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://3g.china.com"
+    },
+    {
       "id": "FL-7341368ec72c",
       "date": "2026-10-18",
       "dateISO": "Sun, 18 Oct 2026 00:05:12 GMT",
@@ -171,6 +183,18 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
+      "id": "FL-0c22c5b6ce37",
+      "date": "2026-10-17",
+      "dateISO": "Sat, 17 Oct 2026 19:16:40 GMT",
+      "ts": 1792264600000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Ron Capps rides out wild blower explosion at Texas NHRA FallNationals - NHRA",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcS1jWXlWanhKZzJwbzdlSW9HZm1PTk9tS2Jqd240SllPU0dfV3hpVmtXSmhyLWlRelNWRnpnb182VG41aFdDel9oTVZZWmhGc3BLSHhRaWVVZjE5V3VjcnBhTDQ1ZkJ4RlVqWFhlUDZVVHp6SWZVVGFqNkRSTTcxb0xQVXM0SEVPRlBVSGtqNk1uYVl1blVkelBnMEcxdw?oc=5",
+      "site": "NHRA",
+      "siteUrl": "https://www.nhra.com"
+    },
+    {
       "id": "FL-b3a4135f2d82",
       "date": "2026-10-17",
       "dateISO": "Sat, 17 Oct 2026 18:23:00 GMT",
@@ -193,18 +217,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FMDktWFFKVUVtbzZ1Ym1PQUJxYUd3MUFhaVdSSE05Y1FESDZiRnBUQ0I2S2RvaGpZaDZ5a192U3huTThHUVZidmlnbkdVY0pYSmp5QUdLU3JQWllHNXc?oc=5",
       "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
-    },
-    {
-      "id": "FL-71c8322bb5c0",
-      "date": "2026-10-17",
-      "dateISO": "Sat, 17 Oct 2026 16:35:17 GMT",
-      "ts": 1792254917000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Explosion at Iraqi paramilitary alliance base kills one member, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMFdrc1I4NnJ2Z0NQeUM2c25pYzF4ekRXcFVHRHlYVWVVYXhhV0hDXzhVUWtUc2JCRnZmU0lZRkJlRkZudWNzUzJINWpDWWdFcG13SG5YVHJnMk9tcEE2Z3BtdHJ1VHdJcXA4eGNQYXVfcE1VX293QjhYQ0YtaVJUOU1kYjJoR2hPeUJJNlNDUzVfVnlxVUhINGJEV2UzTllWRWVrRmpuNG5ZVGY2SFFvcFpySlJsNUEtYmF6LVNEcEpnck0?oc=5",
-      "site": "Reuters",
-      "siteUrl": "https://www.reuters.com"
     },
     {
       "id": "FL-135923e4e83d",
@@ -253,18 +265,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EYU15OF9JbG9JY283VFgySHp5MVhxaHdCRzdyN1FhdEs2OFUtQk53X2dkdk1ZbzZiNmRUSllabVFYdXg5anFTVDItZHd6bGFQdmZRQTdtV3k?oc=5",
       "site": "Jiemian.com",
       "siteUrl": "https://www.jiemian.com"
-    },
-    {
-      "id": "FL-b14cf6fa3679",
-      "date": "2026-10-17",
-      "dateISO": "Sat, 17 Oct 2026 02:28:59 GMT",
-      "ts": 1792204139000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "伊朗革命卫队：一艘超级油轮触雷爆炸起火，载有超过200万桶原油 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB6LW5IX3V1M1R4MXFjOV9kNUZfLUdnQ3BRMTNFdWZocHlIVHRwb2ZzV1gyazI1Nm5hdXgxeXI1WEpKTll1R0pHR0hFUDk?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://news.ifeng.com"
     },
     {
       "id": "FL-db89ce9321bb",
