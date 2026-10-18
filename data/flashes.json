@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T11:56:36.104Z",
+  "updated": "2026-10-18T12:12:10.678Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -25,18 +25,6 @@
       "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQdzk2WjhjWW9BUVdQSHN2QzlKOHVOQVlkWGpoU3ZMY3NNUW9fZnBPdmhsRGQwb0ZIQ2VVMDRkMmg3LW50NUh2VzZOZlJpX3NvV1ppMTM0bjBkQmJXMEtiVE9IZVZ4MUFzbGVfN1loUUlwdlA5UVVfQVRVX0NOeTdDZHEyZ20tbkx0NnpkQk80YWNqSFR5M1lQNHVBMjFFbkREd25JVUp1TnQxOWtVaXNON2NSTl9qdjFVLUtLZGpkQTVSaWhPS2htZUNGWG9KZU5Vb0Q0Zmg2ZGs1Y2lWSGpadE9PeTZDdmFORWFsU3Q1MkpBaUdlaWpEbVp2bXRKMVhKa0pWS1R1Y3Vsc0dVcHE0SnFhS21GaHZjMVI0eGE0dEQzX2k2SlgzVEJTd2JVdUZVMFVORXdCX2F1WG92cHBubmt0SGZmNjlDRk5uX2dWYnotRlAxTWJJNEVBV2FyOVE1WXJaeE0zSVNZV2hCT1pjRzV4VDI1cHJ4M2l5a0pRM1FYRmRzMExEX1hwTkhhU3U0LVc0WmVkV2t0QQ?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr"
-    },
-    {
-      "id": "FL-385dd58b908a",
-      "date": "2026-08-11",
-      "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
-      "ts": 1786431600000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - 财新",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQcmdXTjEtaEEwQXAyc0dzZ29xdEtVZ3VnTzNSdEdIODhUbTkwVE1WYUJKZGlFN0N1TkdlQTNEZDA1SkNEejNqVS15STYwTURwckdUM0REQUMyTHdNQk5oSjlR?oc=5",
-      "site": "财新",
-      "siteUrl": "https://science.caixin.com"
     },
     {
       "id": "FL-268f06752aaa",
@@ -121,18 +109,6 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBua3U5NXRfVTRSdGxKS2l5WTZuZHNlX05DNUxwdGFrLWdBMUJjbDB2cVNWVjdkZ3owa2FaUnpvUDcwcjZScmhXanI2NHBGY1FmTElwdTA4Q2tRYm9yS0lxLVJzNTlFV29QS2kzZg?oc=5",
       "site": "QQ News",
       "siteUrl": "https://news.qq.com"
-    },
-    {
-      "id": "FL-a05ca20a8bf7",
-      "date": "2026-10-18",
-      "dateISO": "Sun, 18 Oct 2026 10:16:00 GMT",
-      "ts": 1792318560000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "7 Killed And Dozens Injured In An Explosion And Massive Fire At A Military Base In Canada - i24NEWS",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTUZFay1laHpTM2lTYXFoUVFnVXNIRy13eGd6UmdBb3doX0gxb1NtbXRzTG8tSl9CbF9BY2phZ3A4R1VNVzRENDJ2RnBUVVNfT2VhdVpadUdMaDhuTzJKZEpSYnlOT2drMnF0bzZkdW5UTWxaT3luSUxfb0syOW5xZUNrS2tjQWZWbUFxNEhkcUtsN2Vad1ZOZEFrZ1NYN2xEMXhXN2JFTTZKOUxvSnZCeXU1LTFxbFdtTTdwOV9rTWE2S3AyVktoTFBOZmZNTHA1VVotSHZvS3VuR0xCbnBCQkxn?oc=5",
-      "site": "i24NEWS",
-      "siteUrl": "https://www.i24news.tv"
     },
     {
       "id": "FL-5014bb754c11",
@@ -241,6 +217,18 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KNXl5YzJxVHlTNEtSeF82WDdETjBRN2RXZHRCSlE1SWtRdUYyOUlFZXY5bVdVckxoSEFmbjdjZFZmekRVWWg3U1lYSlhXcXBCelJhMl85SkIwWXYzZmQxMkR5dw?oc=5",
       "site": "手机新浪网",
       "siteUrl": "https://www.sina.cn"
+    },
+    {
+      "id": "FL-6ca097428f8b",
+      "date": "2026-10-18",
+      "dateISO": "Sun, 18 Oct 2026 06:05:00 GMT",
+      "ts": 1792303500000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Seven killed in explosion at Canada military base in Alberta - The Telegraph",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaHozaUVJMHZQWlFyNHVQM2RPdm1rVFpTZmZ0dnpCUjlTM1h3YTQxZFR6bXdURC1qbjd6VXRpOFJfN2VYeEd4NmFUemNYdlhUNC05T2JBallpbndWNWZNanlTdlZzRFRDM0RDc0dreUJ0aW1RNWNjNnVKVVJXSjR0R1dmWWxTckc4VFdfMEtNVENxdnlqV1Jibi1laklWS1VxYkxOR01nSQ?oc=5",
+      "site": "The Telegraph",
+      "siteUrl": "https://www.telegraph.co.uk"
     },
     {
       "id": "FL-baf36b580b5b",
@@ -433,18 +421,6 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mOW90LUsxZ0prZmZVUFNmTkZ0QjQ1NzdDY195Z25fWFVDaXM3ZkloeTNkY3c3RnpVSVd3ZlFJY3c4YWlIalBYMDJWaGE0SUpZTm8zS2VZbUZmc2hoS2cwbFRPSTFHWGxOUVRYWkU2clJNdDg4Zk9PVm9n?oc=5",
       "site": "封面新闻",
       "siteUrl": "https://m.thecover.cn"
-    },
-    {
-      "id": "FL-c39833bbfc21",
-      "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 22:10:00 GMT",
-      "ts": 1790374200000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 环球网",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5naEpaTmt5bmlhUXlZdndRR2F3XzN6Z2d5aWcwdU4zRnpJWXBJX3VpVWxzRDBzQUFVRXZ4TW1lOTJQUEhCQ3NDNDFEN2FpVTRuYTh3?oc=5",
-      "site": "环球网",
-      "siteUrl": "https://m.huanqiu.com"
     },
     {
       "id": "FL-d2fca6abea5c",
