@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T07:40:42.821Z",
+  "updated": "2026-10-18T08:05:46.065Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -75,16 +75,16 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-a146a50f5b1a",
+      "id": "FL-7ca46aff375e",
       "date": "2026-10-18",
-      "dateISO": "Sun, 18 Oct 2026 06:58:33 GMT",
-      "ts": 1792306713000,
-      "scope": "intl",
+      "dateISO": "Sun, 18 Oct 2026 07:54:25 GMT",
+      "ts": 1792310065000,
+      "scope": "dom",
       "type": "blast",
-      "title": "加拿大基地\"爆炸起火\"7死数十伤!传误轰天然气管 - 文学城",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaUlwNGZnYVRfZkRYYVJ2bWhudmR4ZktpZ0V6cUY1bW11ZnB1NGlNRWhFdXlhVXlDbFR3Q2g2SE9JZE5MZ3dqVkJUSW5xR0dtblhEWmZ1YXpBUXpGdS02Z0pDTXlrUEpXNHFGZkZlR214MnQwTkxhLVV1WjFFREM0SmRDYXpWb0cw?oc=5",
-      "site": "文学城",
-      "siteUrl": "https://www.wenxuecity.com"
+      "title": "江苏常州一处夜市摊位卡式炉爆炸，目击者：事发时正在旁边吃地摊火锅，隔壁桌有人受到波及，店主称会将顾客送医 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMElGMnlNWFNleWYyQlNyOV9fTGZfQ0J4Y01EWElzeW1jeEVVeGROMENxbDM2M254S3ZMX09PYmdjVVVqbWhkaUFVbmZNYWVIOVVtVHA4T3lwZG9kUXpLNU9aTmx1ZHM4REFuQUVVb3c5UVl6dWpsOExxSmRxcmxoY3I1YTV5WmNqczhrUA?oc=5",
+      "site": "搜狐",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-baf36b580b5b",
@@ -157,18 +157,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-008d86b164a4",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 15:30:00 GMT",
-      "ts": 1790436600000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "雅典发生爆炸，1名女游客遇难，5人失踪，事发卫城脚下，靠近奥林匹亚宙斯神庙 - 川观新闻",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wT2VkbnNVQzB1dlFrSUpwQU5VbElha1Fyc3h0LVI1WFBMSldqQkRfMWkyeV94b1pPS0w5eFQtT1NxQjdRSkRkbm5yUE5iZw?oc=5",
-      "site": "川观新闻",
-      "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
       "id": "FL-08d5beb77eeb",
@@ -349,18 +337,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTndzVWl0bjAyeHYtLTdLTmNHOUNDNlNoeGlBcXRlU3dpNi1WYWlvMzM4Y0RoOTBOR1hobWJyYXIxV1hoREZJbERMdlRBcVpPU0k4ZURFZjVtN3NZc2hjNDZiNG5KaEVFdTdNdExfNW9aUkxvQmhEVGNPY3ZJNTAyYU1HTi0wb2NXNVE?oc=5",
       "site": "上海市人民政府",
       "siteUrl": "https://www.shanghai.gov.cn"
-    },
-    {
-      "id": "FL-84a9598aa100",
-      "date": "2026-06-12",
-      "dateISO": "Fri, 12 Jun 2026 07:00:00 GMT",
-      "ts": 1781247600000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "泰国当局判处两维吾尔人死刑　BBC记者回忆当年的曼谷四面佛爆炸案 - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92WW1HV0ttYlE2bUkxb2ZWUDVCSUNuTmRaQnNSWnpDTElPRUFUOXk3U3FoX2VKTm1FQ29TaDBocTUwMTZlMU1Za2hRUkxEMG9taGphNkZvSjI4UF9wUzVyU0E4amUyQdIBa0FVX3lxTE5YVGx2WWxZY1lKNjNHQ1huNHZQWWFqTW1MR0p6RnBwaVdSSXlKT1FEQmx6dzI3dVBIVm5jTVdpRHR6b05UeHRKdUVrZEFMbzcwOUJLcHhGWVBaN2tnU2c5QzFKTEdyZml6ZDg0?oc=5",
-      "site": "BBC",
-      "siteUrl": "https://www.bbc.com"
     }
   ]
 }
