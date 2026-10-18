@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T08:55:20.729Z",
+  "updated": "2026-10-18T09:12:03.034Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -39,6 +39,18 @@
       "siteUrl": "https://science.caixin.com"
     },
     {
+      "id": "FL-11b1a4224e08",
+      "date": "2026-10-06",
+      "dateISO": "Tue, 06 Oct 2026 19:57:10 GMT",
+      "ts": 1791316630000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "沙特阿拉伯首都利雅得5日晚传出爆炸声 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SZURBZjRfRnpRY2QwN1RnbVpsZzZ6WWtnLVBXY1I4aWN5alhMQ0R3UDBEM2RPYTJsQ1VYVUt4YVpvSjJZTkIzV3lxQTMzdWVHSnF2SUlfY2gybzBIc0R0Rg?oc=5",
+      "site": "东方财富",
+      "siteUrl": "https://wap.eastmoney.com"
+    },
+    {
       "id": "FL-268f06752aaa",
       "date": "2026-10-15",
       "dateISO": "Thu, 15 Oct 2026 13:16:30 GMT",
@@ -63,16 +75,28 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-6b259c8b33f4",
+      "id": "FL-a671ff27ec78",
       "date": "2026-10-18",
       "dateISO": "Sun, 18 Oct 2026 08:35:29 GMT",
       "ts": 1792312529000,
       "scope": "intl",
       "type": "blast",
-      "title": "加拿大一军事基地爆炸，至少7人死亡 - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNUpHUmYyRmZpMGxWZ2tnLTZWOTZRbFhLQWx1WEpSU3Jpd1hPb3ZZckxGb00tYkZnSkZ0WGU2R3JYRnM0UlREc1UtdlhtSGwwOG1DenF5Q1dyZ0E3RjBMaWlMV2l3TU5lcFhBOHpyV3pnb3VwQjZnLXowNlU4MkNUVFQtWFRUaWJrczA0OQ?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
+      "title": "加拿大一军事基地爆炸，至少7人死亡 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTHlrYUZ5NnFKbjBUaGh1ekxlS1BXVjlUeUhTMHJqSWlsTUMyMnUtTURkQlNrVkpFOE05YllNcUwzRjdRblMzV2w5REJtVkRBZXY5bnprbXBsRVZmME93RU1TVU1BU2pvZnhBclZmU0FEWHFabWNRSElQTzRBejZjTk03TXlabmJrVHE4?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://www.sohu.com"
+    },
+    {
+      "id": "FL-ca487175e599",
+      "date": "2026-10-18",
+      "dateISO": "Sun, 18 Oct 2026 08:14:31 GMT",
+      "ts": 1792311271000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Possible drone explosion in northern Lithuania near Latvian border - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQb2U2aVBWSkNqMkU1WVh6X3V2V241THBhbG9JNzctNjRDemhMMGwyMGJ1Ym5ZMnFBSUlmdzd5NHpwRXk2QjlqV05mcXB4RjNEc1BVN3lfYzQzSEdfRE1ybEdOcDlnc19rMXRnOU9Na2JETWY2SFZYRUwwY0VtU1VabmJUT0tGNF9GRkxWci1mbEs2TjNhQm93STBkMnRvbTAwQU5CQQ?oc=5",
+      "site": "Euronews.com",
+      "siteUrl": "https://www.euronews.com"
     },
     {
       "id": "FL-7ca46aff375e",
@@ -85,6 +109,18 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMElGMnlNWFNleWYyQlNyOV9fTGZfQ0J4Y01EWElzeW1jeEVVeGROMENxbDM2M254S3ZMX09PYmdjVVVqbWhkaUFVbmZNYWVIOVVtVHA4T3lwZG9kUXpLNU9aTmx1ZHM4REFuQUVVb3c5UVl6dWpsOExxSmRxcmxoY3I1YTV5WmNqczhrUA?oc=5",
       "site": "搜狐",
       "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-9fe2aa67acd4",
+      "date": "2026-10-18",
+      "dateISO": "Sun, 18 Oct 2026 07:09:41 GMT",
+      "ts": 1792307381000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "At least 7 killed, dozens injured in explosion during live-fire drill at Canadian military base - Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LVmdBWk9FYkJBNlB3T1VobmhpWmZOS3NVcVNTSUFEbVVmVXJZaHY0azdZRzRpenJTTmNhTDhVcmxCdmtWWEl3WXdENzhlbEFjM25BZVVn?oc=5",
+      "site": "Ynetnews",
+      "siteUrl": "https://www.ynetnews.com"
     },
     {
       "id": "FL-baf36b580b5b",
@@ -133,6 +169,18 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wLW5seVBWVnhPa3JrQzF5dlFKcEh3SzJUTUdVdGp5NVh1YnZwS2tjOS05Zm1TVjItX0FuRmFwVUhVd1VqcmlyLUlIR1dzekhfalVvV2hUbWtNczJReGNKbFlQZUphWkpSa0l0Szhn?oc=5",
       "site": "生物通",
       "siteUrl": "https://www.ebiotrade.com"
+    },
+    {
+      "id": "FL-65a837ede06b",
+      "date": "2026-10-04",
+      "dateISO": "Sun, 04 Oct 2026 07:00:00 GMT",
+      "ts": 1791097200000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "乌首都基辅响起强烈爆炸声 一桥梁再次遭袭 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50ajJWMmw0dWRvT2JnSW01VnhEZDZ3WUVydFZlSjBabUVPMW16aHRaeTRiUDgwZzg4blo3bWVtOHJQaVNqYkxtb1hCdEtyQkJXOTFqeTJNWWtHbU1oZlZtdHFwZFVlRjM3clAyWFpralZNWkNIT3VyOQ?oc=5",
+      "site": "央视网",
+      "siteUrl": "https://news.cctv.com"
     },
     {
       "id": "FL-0615dd398028",
@@ -267,18 +315,6 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
-      "id": "FL-160d55aeb47e",
-      "date": "2026-06-22",
-      "dateISO": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "ts": 1782111600000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "卡塔尔工厂爆炸已致13人死亡 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mR2pTX0YxWjBwQ2lLNC1XZjFhd3IwVEYtWkZFR3ZBU3B5RTFHR1BldmQ3OEkxN2NaWTMzYUkwWENDeEliY3dVNEloOExFS1B6SlZQTENHdWVmTWpUM042M2hRcmo4QS1qdl85cXlhZHJ3R3JGTEU4?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
       "id": "FL-0d37be8e3bed",
       "date": "2026-10-05",
       "dateISO": "Mon, 05 Oct 2026 08:45:00 GMT",
@@ -289,18 +325,6 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mOW90LUsxZ0prZmZVUFNmTkZ0QjQ1NzdDY195Z25fWFVDaXM3ZkloeTNkY3c3RnpVSVd3ZlFJY3c4YWlIalBYMDJWaGE0SUpZTm8zS2VZbUZmc2hoS2cwbFRPSTFHWGxOUVRYWkU2clJNdDg4Zk9PVm9n?oc=5",
       "site": "封面新闻",
       "siteUrl": "https://m.thecover.cn"
-    },
-    {
-      "id": "FL-b042a088a326",
-      "date": "2026-08-03",
-      "dateISO": "Mon, 03 Aug 2026 07:00:00 GMT",
-      "ts": 1785740400000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "巴基斯坦西北部发生爆炸致14人死亡 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-c39833bbfc21",
