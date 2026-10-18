@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-18T15:59:56.398Z",
+  "updated": "2026-10-18T16:19:15.743Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-7d8c45ca5bdc",
+      "date": "2026-10-14",
+      "dateISO": "Wed, 14 Oct 2026 17:45:00 GMT",
+      "ts": 1791999900000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "科学家捕获最远快速射电暴，源头位于大爆炸后约三十亿年星系 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kSWJwQ1U0U1F1RG9jZlIyVWhrZW1RUF93VjZETkc4bVVsZEplV2U1M1JPR3FFNGNlWTZaVWJQNDItOE9sOGg4WHV4blFITWVzZnNwemxiLUVGTEQwM3JmSXpUbF92d1lxYlI2TjdxZ0E?oc=5",
+      "site": "中国科技网",
+      "siteUrl": "https://www.stdaily.com"
+    },
     {
       "id": "FL-d933960c920a",
       "date": "2026-10-14",
@@ -37,6 +49,42 @@
       "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQaHBNeC1jZHk3Rml6di13a0h2dE11cmpDYWF3LWFJaFpWVjZNYnZDT0RqU2R6Y3g0dFpVZGEtcVYySldUVzJIX0c2WVV6ajBaTGt0b044dmViNHoya01hZGtmREpUYk5na3VQSWt4azFIbTQ1SjVjZlJEYS1JZXRZcUp6cnFCekdvcVFmQkFrSzRNU3NOalQxMHVKeGlISjZlVGJVQkpFVEpGbnBTZVJKbG5PRy10Qy1KY09BNDE4OUpMUENEM28ycWVNakJhSWZmbE45SWt3cVFMaDJlaVBtbWR3MWlxMWpmaG9XeGVmT0VlWnRqQnQwcFBxNDA3Q3FjZVNCbFpKM3VEc0xYN0xucWEyMnctVE5WTDA0OEFOODdWUzIweXJmb2xfYldLYXNfUDFXNWQzVnpwbUpCM05oODBwU1MwYUVfV0JfZnZlXzdaQk0tdElIWlFoS2Qzck1UWF9tVzRnMDJWczFmZVg2V0tZd3lockZ6eTFjM1RQTGNlWmFHMGIzOFptRGpXQdIBjgNBVV95cUxNMU0wa3VnanM1MDh1Qm9UY2FpbmdBUTFMdEJPclBjeFBHMkk3QVhOLUR6X0JMdldiTjJuZXdHSnVlZkpBWVhNbkQ2cjlzZndZVjRUR09DVnpxM0JMY1gzTkJ1dUFGbFByZS13d2Q3MlMzem9sazh4V0twUjBzM3o1UUgxYlVUYUZTOTA1M3oxT3dTc1VSd2tCX0JKWWRsSms3Y3c3Yl9OdFR2YnhZRmVkLWthS2JSQkt3UGhwOVNsTTItYmpQMmVMdEFMckpDOFAwdVB6anFSYlFjOFJSQ1NzcWlKQWx5MTVaajhTclNfbXFrakdaM25rT2xEeXdGaWMwY0xtREdoOU9kNFFTNnY5X0RHUjhUOHZzM1hMM3doNXlpck1SRDN2UWtJVlhQYldyWHFsM1JPam9PUjFLRWxqTGozLW1MVGZOc1ZmQVN6djVTMWxWYjFJMW9VY0xEOFA3b25sd0NfcGpkWEJrN25WRVFDTnVWMUJkQ0xGNWRrcTF1MEJ4MEVNbkpLLWs5QQ?oc=5",
       "site": "DW.com",
       "siteUrl": "https://www.dw.com"
+    },
+    {
+      "id": "FL-340d5e981918",
+      "date": "2026-08-23",
+      "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
+      "ts": 1787468400000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-97238339a34d",
+      "date": "2026-10-18",
+      "dateISO": "Sun, 18 Oct 2026 16:06:57 GMT",
+      "ts": 1792339617000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Multiple people killed, dozens injured in explosion a Canadian military training base - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeEZZV2h4VWI3S1VtLThtNmpFZ01JcHJwTGZ2LTFFbWhKUFdWaGpma0Zfak1jZEdsVzJjdkxOc2doX1lUdjI0Y0lvMEF6Qi0yd01LLW9QdkhUNXlyeU9KcGhhQW90S0FXWGFiek9pbmU3eFl2aUJ2MWhiaXlIaWVKX2UyREYxcm5SNHBVSG9scEZkTzlST25BQlF1VURtendrM05LdjVGaTNVX0M3TzgtdTNVOHN3RDd0RlHSAb8BQVVfeXFMUEthSVV2blJaTFRBVnhNMWg2cFM2bXRVZkFpajdMUlFqSTNzYjJNQWw2djRpZXRFZEg2ajdjMVlXUm9yRlcyUHJ3ZEw0QjliZVVrOXNCNTQ5SmUwNUJxeF8wbXducVJRbERGV01QdldhXzM2UkxOWkdBcURpUUFmVldzMXhPQy1RYTd2ZnJYX2hRRGtEOFZlSUdRWEp0SnZrZnpuSGNtRm53ekZYNXZkS3Fqa3BEOFhIN3dMWE81ajg?oc=5",
+      "site": "ABC News - Breaking News, Latest News and Videos",
+      "siteUrl": "https://abcnews.com"
+    },
+    {
+      "id": "FL-c06ac7f10d20",
+      "date": "2026-10-18",
+      "dateISO": "Sun, 18 Oct 2026 15:54:52 GMT",
+      "ts": 1792338892000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "加拿大最大军事基地爆炸：2690平方公里训练区起火，强风把火吹过了围栏 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVEF1bTVLZkVORGJGVVBSQUR4RUoydmQ5eTAwTW92NDAtb09XUWVBN3I5VVZmWlJXa2dHYWlnRHN4LUw2VHRXclNRZDI2aGtFUVVVVjRLOE5XNEZUam9pLXlta2ZkQnl1ams3RExkSFFUcTBTS19scTFZb2hXZVAzdERqMTd6RUdYV3FzUA?oc=5",
+      "site": "搜狐",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-cba04e491921",
@@ -181,18 +229,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMElGMnlNWFNleWYyQlNyOV9fTGZfQ0J4Y01EWElzeW1jeEVVeGROMENxbDM2M254S3ZMX09PYmdjVVVqbWhkaUFVbmZNYWVIOVVtVHA4T3lwZG9kUXpLNU9aTmx1ZHM4REFuQUVVb3c5UVl6dWpsOExxSmRxcmxoY3I1YTV5WmNqczhrUA?oc=5",
       "site": "搜狐",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-90755ca3d5e7",
-      "date": "2026-10-18",
-      "dateISO": "Sun, 18 Oct 2026 07:54:00 GMT",
-      "ts": 1792310040000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "王楚然戴爆炸头套也不违和，这松弛感太会了|王楚然|爆炸头_新浪新闻 - 手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KNXl5YzJxVHlTNEtSeF82WDdETjBRN2RXZHRCSlE1SWtRdUYyOUlFZXY5bVdVckxoSEFmbjdjZFZmekRVWWg3U1lYSlhXcXBCelJhMl85SkIwWXYzZmQxMkR5dw?oc=5",
-      "site": "手机新浪网",
-      "siteUrl": "https://www.sina.cn"
     },
     {
       "id": "FL-baf36b580b5b",
