@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T15:39:32.778Z",
+  "updated": "2026-10-18T15:59:56.398Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -27,18 +27,6 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-385dd58b908a",
-      "date": "2026-08-11",
-      "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
-      "ts": 1786431600000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - 财新",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQcmdXTjEtaEEwQXAyc0dzZ29xdEtVZ3VnTzNSdEdIODhUbTkwVE1WYUJKZGlFN0N1TkdlQTNEZDA1SkNEejNqVS15STYwTURwckdUM0REQUMyTHdNQk5oSjlR?oc=5",
-      "site": "财新",
-      "siteUrl": "https://science.caixin.com"
-    },
-    {
       "id": "FL-268f06752aaa",
       "date": "2026-10-15",
       "dateISO": "Thu, 15 Oct 2026 13:16:30 GMT",
@@ -49,18 +37,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQaHBNeC1jZHk3Rml6di13a0h2dE11cmpDYWF3LWFJaFpWVjZNYnZDT0RqU2R6Y3g0dFpVZGEtcVYySldUVzJIX0c2WVV6ajBaTGt0b044dmViNHoya01hZGtmREpUYk5na3VQSWt4azFIbTQ1SjVjZlJEYS1JZXRZcUp6cnFCekdvcVFmQkFrSzRNU3NOalQxMHVKeGlISjZlVGJVQkpFVEpGbnBTZVJKbG5PRy10Qy1KY09BNDE4OUpMUENEM28ycWVNakJhSWZmbE45SWt3cVFMaDJlaVBtbWR3MWlxMWpmaG9XeGVmT0VlWnRqQnQwcFBxNDA3Q3FjZVNCbFpKM3VEc0xYN0xucWEyMnctVE5WTDA0OEFOODdWUzIweXJmb2xfYldLYXNfUDFXNWQzVnpwbUpCM05oODBwU1MwYUVfV0JfZnZlXzdaQk0tdElIWlFoS2Qzck1UWF9tVzRnMDJWczFmZVg2V0tZd3lockZ6eTFjM1RQTGNlWmFHMGIzOFptRGpXQdIBjgNBVV95cUxNMU0wa3VnanM1MDh1Qm9UY2FpbmdBUTFMdEJPclBjeFBHMkk3QVhOLUR6X0JMdldiTjJuZXdHSnVlZkpBWVhNbkQ2cjlzZndZVjRUR09DVnpxM0JMY1gzTkJ1dUFGbFByZS13d2Q3MlMzem9sazh4V0twUjBzM3o1UUgxYlVUYUZTOTA1M3oxT3dTc1VSd2tCX0JKWWRsSms3Y3c3Yl9OdFR2YnhZRmVkLWthS2JSQkt3UGhwOVNsTTItYmpQMmVMdEFMckpDOFAwdVB6anFSYlFjOFJSQ1NzcWlKQWx5MTVaajhTclNfbXFrakdaM25rT2xEeXdGaWMwY0xtREdoOU9kNFFTNnY5X0RHUjhUOHZzM1hMM3doNXlpck1SRDN2UWtJVlhQYldyWHFsM1JPam9PUjFLRWxqTGozLW1MVGZOc1ZmQVN6djVTMWxWYjFJMW9VY0xEOFA3b25sd0NfcGpkWEJrN25WRVFDTnVWMUJkQ0xGNWRrcTF1MEJ4MEVNbkpLLWs5QQ?oc=5",
       "site": "DW.com",
       "siteUrl": "https://www.dw.com"
-    },
-    {
-      "id": "FL-340d5e981918",
-      "date": "2026-08-23",
-      "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
-      "ts": 1787468400000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-cba04e491921",
@@ -147,13 +123,13 @@
       "siteUrl": "https://www.autoweek.com"
     },
     {
-      "id": "FL-3be1dfba3683",
+      "id": "FL-e87312aa1e2d",
       "date": "2026-10-18",
       "dateISO": "Sun, 18 Oct 2026 10:39:02 GMT",
       "ts": 1792319942000,
       "scope": "intl",
       "type": "blast",
-      "title": "加拿大一军事基地爆炸起火 有人员伤亡 - 凤凰网",
+      "title": "加拿大一军事基地爆炸起火，至少7人死亡 - 凤凰网",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5vN2hvQzlPZHQzX1lVcEt5MDAyQk5vME5wSk5CMWlpVWpsYk9HRUFldThTT0JBbkRmS3RvQi1nYWNRbGtONjM2Tg?oc=5",
       "site": "凤凰网",
       "siteUrl": "https://i.ifeng.com"
@@ -193,18 +169,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTHlrYUZ5NnFKbjBUaGh1ekxlS1BXVjlUeUhTMHJqSWlsTUMyMnUtTURkQlNrVkpFOE05YllNcUwzRjdRblMzV2w5REJtVkRBZXY5bnprbXBsRVZmME93RU1TVU1BU2pvZnhBclZmU0FEWHFabWNRSElQTzRBejZjTk03TXlabmJrVHE4?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://www.sohu.com"
-    },
-    {
-      "id": "FL-ca487175e599",
-      "date": "2026-10-18",
-      "dateISO": "Sun, 18 Oct 2026 08:14:31 GMT",
-      "ts": 1792311271000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Possible drone explosion in northern Lithuania near Latvian border - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQb2U2aVBWSkNqMkU1WVh6X3V2V241THBhbG9JNzctNjRDemhMMGwyMGJ1Ym5ZMnFBSUlmdzd5NHpwRXk2QjlqV05mcXB4RjNEc1BVN3lfYzQzSEdfRE1ybEdOcDlnc19rMXRnOU9Na2JETWY2SFZYRUwwY0VtU1VabmJUT0tGNF9GRkxWci1mbEs2TjNhQm93STBkMnRvbTAwQU5CQQ?oc=5",
-      "site": "Euronews.com",
-      "siteUrl": "https://www.euronews.com"
     },
     {
       "id": "FL-7ca46aff375e",
@@ -267,16 +231,16 @@
       "siteUrl": "https://www.ebiotrade.com"
     },
     {
-      "id": "FL-0615dd398028",
-      "date": "2026-08-02",
-      "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
-      "ts": 1785654000000,
+      "id": "FL-008d86b164a4",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 15:30:00 GMT",
+      "ts": 1790436600000,
       "scope": "intl",
       "type": "blast",
-      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
+      "title": "雅典发生爆炸，1名女游客遇难，5人失踪，事发卫城脚下，靠近奥林匹亚宙斯神庙 - 川观新闻",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wT2VkbnNVQzB1dlFrSUpwQU5VbElha1Fyc3h0LVI1WFBMSldqQkRfMWkyeV94b1pPS0w5eFQtT1NxQjdRSkRkbm5yUE5iZw?oc=5",
+      "site": "川观新闻",
+      "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
       "id": "FL-9599d3280828",
@@ -317,14 +281,14 @@
     {
       "id": "FL-1cdc7213279c",
       "date": "2026-10-17",
-      "dateISO": "Sat, 17 Oct 2026 22:18:00 GMT",
-      "ts": 1792275480000,
+      "dateISO": "Sat, 17 Oct 2026 22:18:26 GMT",
+      "ts": 1792275506000,
       "scope": "intl",
       "type": "blast",
       "title": "苏丹首都圈地区一军事基地发生爆炸 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BMGhEc2s5SUNfZlBxUksxZGphY0dWa2pOTFE4ZGlTbnFhUDFEaTVtc014QUNOVEk1eFdpM01xRERfa2lRaFVrWXZqUWNOeVRCd0UwTm5ETk56OHE0SGI1alliMmlKRlJZZ3hXRGJoVU9Vdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40MkZvQklQakhlWUxKaVJ3MnZjQ1BVZWV5N2p1WVZta3MzUzRPU295NF80YmJMUGlFRUltblpBNm83S3hSX2EtdE02QmZ2VmFnOUJqMWtoeDdVaUFUTUE?oc=5",
       "site": "京报网",
-      "siteUrl": "https://xinwen.bjd.com.cn"
+      "siteUrl": "https://news.bjd.com.cn"
     },
     {
       "id": "FL-0aa8ad3f49f0",
