@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T04:30:09.589Z",
+  "updated": "2026-10-18T04:57:08.067Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -77,14 +77,14 @@
     {
       "id": "FL-7e68cdb69eb5",
       "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 06:23:39 GMT",
-      "ts": 1792045419000,
+      "dateISO": "Thu, 15 Oct 2026 06:23:42 GMT",
+      "ts": 1792045422000,
       "scope": "intl",
       "type": "blast",
       "title": "记者观察丨沙特多地响起爆炸声 能源大会线下活动继续 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UeGEwYjlqRjBBQUlxZHJoLTN5VFJFdUtNem9zbm0zWU9tMkRTRXR6Yy1WVWpPdWZKZm1kU0JUeEFFV2w2eWdRN2ZGcHFnaDRjM0JHdGZhcDBWY0tUUGlDa0pMcm5yWVlMWWU4VndTcXN3SXRmYWtN?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5nUGZIWVZ3UGNxYW14T192NEp4MWxMVzg0RzI1akxLR0NpcmVCcjRNaDM4UHladUxLeTZKMktkMnk2d0U3LU95UEFxWHVnSFNFMGtJWkRPLUdKM1JING5JRl9NSzlaakVJQUplMmprVGR1LWhXeDVjQ2xVSEg2dw?oc=5",
       "site": "新华网",
-      "siteUrl": "https://www.news.cn"
+      "siteUrl": "http://www.news.cn"
     },
     {
       "id": "FL-340d5e981918",
@@ -121,18 +121,6 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa19peHZydlFqZHdGUFI2TUtFX3otdmJPUzNhUTZqVm15ZDdvbi1lUF9CelBUQ284Q2VNajdTQXBuMEJOYWdDRnlnVWxPck5pVkE3NmJVeUJvdlVtbDVaNzNkT2ZrYmZpU2FXa3MyQkdYYm53TUY2djdpMXFBTlIzcThGZTJNeGlYSm9ybGRhYS1lZkFUVWVvRHhnREVFdC10RXlyME1mR1BvY3U3UmtDMkdGM1Y?oc=5",
       "site": "WJAC",
       "siteUrl": "https://wjactv.com"
-    },
-    {
-      "id": "FL-fa125123901e",
-      "date": "2026-10-18",
-      "dateISO": "Sun, 18 Oct 2026 02:12:47 GMT",
-      "ts": 1792289567000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "王力宏看完披哥《在梅边》直呼燃爆 原唱认证引爆热议 - 中华网",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wRm45Um40LVB5S0N0RGh5ZXhEczk2S3BqNjl3Qkhfa1BDS1JELWpDZDlUQ1JMSGJ1aElJa0RJZGpPSDZJbHg0Tlc3NkVVNm1LZF9iYU90cFlfbl9VY1lvQURXUG9RNHhQRFRtNw?oc=5",
-      "site": "中华网",
-      "siteUrl": "https://3g.china.com"
     },
     {
       "id": "FL-7341368ec72c",
@@ -181,18 +169,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlemFCa3lteDlkZERLTXRLMHhpeTIzNmFqanFBczVPaFNjQjVxOHNJNm54Tkhua1FqOGtuaUhBLWdRSWxXaFRoZThQZXJqclRIV1pUaTNhcjhHU0dwRzA1WXNQc2ZOVEhXX0Z1NUVBcnBUalJRWkE3ZlE0S3NOaXM?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-d3e8ae182bcd",
-      "date": "2026-10-17",
-      "dateISO": "Sat, 17 Oct 2026 23:25:00 GMT",
-      "ts": 1792279500000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Osage Co-Op facility burns after explosion - KTTC",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa2NwR2tGTkdhN1YwV0NnWThHSlZXcHlIaHFjVVR4Rm5SbjY5NlIxdVBnYlNTOU9fOUNJTkEyb1lxRkVyS1ptT2JZRW1XMkJlQXJJbnFIOS0wTzlzbk9MTkdoeXpsNjdwSDF4LV9DRmp5Z3J4TTlSRW9Jb0VwNFZFeg?oc=5",
-      "site": "KTTC",
-      "siteUrl": "https://www.kttc.com"
     },
     {
       "id": "FL-1a68825cafff",
@@ -349,6 +325,18 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOWloem16Qndva3Z0RHA3OWF4bG9rTzNHQ1dkMDY1TUh4R3VrNDBxR3lXbC1EVFNaaFIzRUNhZEdMQkZLelRmVlJqYWxuUHp3SzFNZ3g1MmZENDNNUHJ0QTJ0OUE4eEJOLXg4SjlYNzRQUm9iWWgyYlJPMmQzWHJDdFdsUGxEdHJ2OVJrN0Ywaw?oc=5",
       "site": "21财经",
       "siteUrl": "https://www.21jingji.com"
+    },
+    {
+      "id": "FL-d2fca6abea5c",
+      "date": "2026-10-16",
+      "dateISO": "Fri, 16 Oct 2026 07:44:00 GMT",
+      "ts": 1792136640000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "鞠躬道歉！日本误报称发生9.9级地震 网友吐槽无知：相当于2100万颗原子弹在广岛同时爆炸 - 驱动之家",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlTUlDcnhpV0V2WkprVmVkQlcxc19iMzRON1lRWVJHWnpVZnFmYUlYdTk2dk94Zm1CbTB0clJfcGVrRUM3dDZQNVAxQ1U5eTBqdVZlaTktUG0?oc=5",
+      "site": "驱动之家",
+      "siteUrl": "https://news.mydrivers.com"
     },
     {
       "id": "FL-b5654d76ba48",
