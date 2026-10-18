@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T17:07:19.068Z",
+  "updated": "2026-10-18T17:28:52.434Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -39,6 +39,30 @@
       "siteUrl": "https://www.dw.com"
     },
     {
+      "id": "FL-340d5e981918",
+      "date": "2026-08-23",
+      "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
+      "ts": 1787468400000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-97238339a34d",
+      "date": "2026-10-18",
+      "dateISO": "Sun, 18 Oct 2026 17:15:00 GMT",
+      "ts": 1792343700000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Multiple people killed, dozens injured in explosion a Canadian military training base - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeEZZV2h4VWI3S1VtLThtNmpFZ01JcHJwTGZ2LTFFbWhKUFdWaGpma0Zfak1jZEdsVzJjdkxOc2doX1lUdjI0Y0lvMEF6Qi0yd01LLW9QdkhUNXlyeU9KcGhhQW90S0FXWGFiek9pbmU3eFl2aUJ2MWhiaXlIaWVKX2UyREYxcm5SNHBVSG9scEZkTzlST25BQlF1VURtendrM05LdjVGaTNVX0M3TzgtdTNVOHN3RDd0RlHSAb8BQVVfeXFMUEthSVV2blJaTFRBVnhNMWg2cFM2bXRVZkFpajdMUlFqSTNzYjJNQWw2djRpZXRFZEg2ajdjMVlXUm9yRlcyUHJ3ZEw0QjliZVVrOXNCNTQ5SmUwNUJxeF8wbXducVJRbERGV01QdldhXzM2UkxOWkdBcURpUUFmVldzMXhPQy1RYTd2ZnJYX2hRRGtEOFZlSUdRWEp0SnZrZnpuSGNtRm53ekZYNXZkS3Fqa3BEOFhIN3dMWE81ajg?oc=5",
+      "site": "ABC News - Breaking News, Latest News and Videos",
+      "siteUrl": "https://abcnews.com"
+    },
+    {
       "id": "FL-92bf5283b039",
       "date": "2026-10-18",
       "dateISO": "Sun, 18 Oct 2026 16:58:34 GMT",
@@ -49,18 +73,6 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOFVJaXM2WV96WVJ2RjdRZ2RmaGFvbEJvTnF5dFR2Mnh5dFBWWTZGdlZTMlpycHNPZFYzVWV6OGVhR04ybnlQeU9BZFFfZ0c1VGExWEl3VXE0aWtoZUJEUE5LQWVGM0NRcXVGNXI2dzZUekxKSUlvYUZCTlBhVnJsVkx0SXV3YUc1ZXM2c0tUNl9rZkUt?oc=5",
       "site": "新浪新闻",
       "siteUrl": "https://news.sina.cn"
-    },
-    {
-      "id": "FL-97238339a34d",
-      "date": "2026-10-18",
-      "dateISO": "Sun, 18 Oct 2026 16:06:57 GMT",
-      "ts": 1792339617000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Multiple people killed, dozens injured in explosion a Canadian military training base - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeEZZV2h4VWI3S1VtLThtNmpFZ01JcHJwTGZ2LTFFbWhKUFdWaGpma0Zfak1jZEdsVzJjdkxOc2doX1lUdjI0Y0lvMEF6Qi0yd01LLW9QdkhUNXlyeU9KcGhhQW90S0FXWGFiek9pbmU3eFl2aUJ2MWhiaXlIaWVKX2UyREYxcm5SNHBVSG9scEZkTzlST25BQlF1VURtendrM05LdjVGaTNVX0M3TzgtdTNVOHN3RDd0RlHSAb8BQVVfeXFMUEthSVV2blJaTFRBVnhNMWg2cFM2bXRVZkFpajdMUlFqSTNzYjJNQWw2djRpZXRFZEg2ajdjMVlXUm9yRlcyUHJ3ZEw0QjliZVVrOXNCNTQ5SmUwNUJxeF8wbXducVJRbERGV01QdldhXzM2UkxOWkdBcURpUUFmVldzMXhPQy1RYTd2ZnJYX2hRRGtEOFZlSUdRWEp0SnZrZnpuSGNtRm53ekZYNXZkS3Fqa3BEOFhIN3dMWE81ajg?oc=5",
-      "site": "ABC News - Breaking News, Latest News and Videos",
-      "siteUrl": "https://abcnews.com"
     },
     {
       "id": "FL-c06ac7f10d20",
@@ -133,6 +145,18 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBENHlaV2Vhck5IeldKSlI0MlN1SjJFWmUyN2NIbGVXVG9nTlEtMTF5bnJZS2daR1ZoY1RRSml1MVdCcThMUXlJekQtS3lrMFFnRFVwMDl5UkVaNTVoUlE?oc=5",
       "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
+      "id": "FL-b7eea6b88f17",
+      "date": "2026-10-18",
+      "dateISO": "Sun, 18 Oct 2026 12:12:00 GMT",
+      "ts": 1792325520000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Canadian military forced to parachute troops into base after gas explosion, fire left at least 7 dead - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUjV2RGV4bERra0FsakVZRGczanBDTWZuTzR2dmhWUmNBUFJISGJwQUdfaHZtSzlKUWdwMHJzYzFnaFVPejJoQU05VzJtM2MzTFpsWmo0UldpenMwcXBMOHpPQkpnb0VRWEpydUdwSF9COUdtUVpOWGpxVEhWLWlxYTFJYVcxRFlZeXFHbTVaYTNPNG5Sb1hZSXpCQ05KZ1ZUbFRycWFNWlJnZUJlY3AxbU51YUhmRW56c05oek16ZEZkUUNULW1XQi0tdnZLWmZuNWtVWEZlSVdwQQ?oc=5",
+      "site": "New York Post",
+      "siteUrl": "https://nypost.com"
     },
     {
       "id": "FL-e87312aa1e2d",
