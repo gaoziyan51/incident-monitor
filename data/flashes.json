@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T10:05:50.491Z",
+  "updated": "2026-10-18T10:28:01.758Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -63,16 +63,40 @@
       "siteUrl": "https://www.dw.com"
     },
     {
-      "id": "FL-340d5e981918",
-      "date": "2026-08-23",
-      "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
-      "ts": 1787468400000,
-      "scope": "dom",
+      "id": "FL-f1c86563e0e4",
+      "date": "2026-09-27",
+      "dateISO": "Sun, 27 Sep 2026 17:10:36 GMT",
+      "ts": 1790529036000,
+      "scope": "intl",
       "type": "blast",
-      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
+      "title": "英国疏散美军所用基地附近居民 多人涉爆炸物被捕 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91MjNOYzJjSVZaVUpOZjQ3OGwtYnBaNUZNZi1BTUg0LXlDcjhueElmdjlqWTI1cF83YkdPdjVEUmo3a1FKSXVPTVhpNkVaVF8wNk5GbkJsVG1kQjAzRUtMWEpJMmgxMzNQcTl5bmRadTc4R2xuUVJEWA?oc=5",
+      "site": "央视网",
+      "siteUrl": "https://news.cctv.com"
+    },
+    {
+      "id": "FL-a05ca20a8bf7",
+      "date": "2026-10-18",
+      "dateISO": "Sun, 18 Oct 2026 10:16:00 GMT",
+      "ts": 1792318560000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "7 Killed And Dozens Injured In An Explosion And Massive Fire At A Military Base In Canada - i24NEWS",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTUZFay1laHpTM2lTYXFoUVFnVXNIRy13eGd6UmdBb3doX0gxb1NtbXRzTG8tSl9CbF9BY2phZ3A4R1VNVzRENDJ2RnBUVVNfT2VhdVpadUdMaDhuTzJKZEpSYnlOT2drMnF0bzZkdW5UTWxaT3luSUxfb0syOW5xZUNrS2tjQWZWbUFxNEhkcUtsN2Vad1ZOZEFrZ1NYN2xEMXhXN2JFTTZKOUxvSnZCeXU1LTFxbFdtTTdwOV9rTWE2S3AyVktoTFBOZmZNTHA1VVotSHZvS3VuR0xCbnBCQkxn?oc=5",
+      "site": "i24NEWS",
+      "siteUrl": "https://www.i24news.tv"
+    },
+    {
+      "id": "FL-5014bb754c11",
+      "date": "2026-10-18",
+      "dateISO": "Sun, 18 Oct 2026 09:50:31 GMT",
+      "ts": 1792317031000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "实弹演习击中天然气管道或气井引发爆炸，加拿大一军事基地至少7人死亡数十人受伤 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOU10WkU0YXNJcUM5TXhoclViX0I5NDhTOHV0eDZ0NmRTNExJaWhtWVpDNlctN25qMUROVVRza00zWGdqYkY4dkZCaGR4NnBoOTA3TWZYU29EY3NGd2hfNmo2WjVDdFI4cnUwSWhNanNyeVVwV1FUMmMzeHQzR0FPZkFaMGM3bGlqYURFaXZySQ?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://www.sohu.com"
     },
     {
       "id": "FL-c7d162eeef13",
@@ -243,16 +267,16 @@
       "siteUrl": "https://www.ebiotrade.com"
     },
     {
-      "id": "FL-65a837ede06b",
-      "date": "2026-10-04",
-      "dateISO": "Sun, 04 Oct 2026 07:00:00 GMT",
-      "ts": 1791097200000,
+      "id": "FL-30033ef096a2",
+      "date": "2026-10-18",
+      "dateISO": "Sun, 18 Oct 2026 00:26:00 GMT",
+      "ts": 1792283160000,
       "scope": "intl",
       "type": "blast",
-      "title": "乌首都基辅响起强烈爆炸声 一桥梁再次遭袭 - 央视网",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50ajJWMmw0dWRvT2JnSW01VnhEZDZ3WUVydFZlSjBabUVPMW16aHRaeTRiUDgwZzg4blo3bWVtOHJQaVNqYkxtb1hCdEtyQkJXOTFqeTJNWWtHbU1oZlZtdHFwZFVlRjM3clAyWFpralZNWkNIT3VyOQ?oc=5",
-      "site": "央视网",
-      "siteUrl": "https://news.cctv.com"
+      "title": "苏丹首都圈地区一军事基地发生爆炸 - 华声在线",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BbDNuZTdTam4zTWNSazV1bm9ZaUNvZENpSlNUblJqN2VqTkM0MmhkbUJnRHNBaTd3WEIzZmEyZGp3LUgwQ3d1cFNKNWxFaTF4N1Bvem1NMWdJLWx0dnc?oc=5",
+      "site": "华声在线",
+      "siteUrl": "https://news.voc.com.cn"
     },
     {
       "id": "FL-0615dd398028",
@@ -265,6 +289,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-6bfcbbdfc61a",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 11:43:45 GMT",
+      "ts": 1790423025000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "巴基斯坦西北部德拉伊斯梅尔汗发生爆炸 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5teTFSaktZeEF4UUdEU19YbDlyczdrZTc5R2ZieHdzbFhodmRRQjgxek1tcGt4c05IWVg4ZUd6d005aVNpazFnMDlydjZmWEhwa1luM2FQdkE0eTc5U1JlUA?oc=5",
+      "site": "东方财富",
+      "siteUrl": "https://wap.eastmoney.com"
     },
     {
       "id": "FL-08d5beb77eeb",
@@ -289,18 +325,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlemFCa3lteDlkZERLTXRLMHhpeTIzNmFqanFBczVPaFNjQjVxOHNJNm54Tkhua1FqOGtuaUhBLWdRSWxXaFRoZThQZXJqclRIV1pUaTNhcjhHU0dwRzA1WXNQc2ZOVEhXX0Z1NUVBcnBUalJRWkE3ZlE0S3NOaXM?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-1a68825cafff",
-      "date": "2026-10-17",
-      "dateISO": "Sat, 17 Oct 2026 22:27:00 GMT",
-      "ts": 1792276020000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "苏丹首都圈地区一军事基地发生爆炸 - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdnRhVF80ZlVDWkxkTjFpYjlITzk0R1A3Zi1Nc1BvMDY0RUQtRFU2eHJDeW02bHVLQTZneldzaXlxUW1XeFc2eGFOMU8zZzBLX2lJTjItSklXNHQ4Y1FuQWxqeU5pNjl5Nm8tcEREa3RONlBfcDNBYkxpYWVaY1hJYnJLNm1nR3pP?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-0aa8ad3f49f0",
@@ -397,6 +421,18 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mOW90LUsxZ0prZmZVUFNmTkZ0QjQ1NzdDY195Z25fWFVDaXM3ZkloeTNkY3c3RnpVSVd3ZlFJY3c4YWlIalBYMDJWaGE0SUpZTm8zS2VZbUZmc2hoS2cwbFRPSTFHWGxOUVRYWkU2clJNdDg4Zk9PVm9n?oc=5",
       "site": "封面新闻",
       "siteUrl": "https://m.thecover.cn"
+    },
+    {
+      "id": "FL-b042a088a326",
+      "date": "2026-08-03",
+      "dateISO": "Mon, 03 Aug 2026 07:00:00 GMT",
+      "ts": 1785740400000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "巴基斯坦西北部发生爆炸致14人死亡 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-c39833bbfc21",
