@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T19:12:22.070Z",
+  "updated": "2026-10-18T19:36:15.249Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -65,8 +65,8 @@
     {
       "id": "FL-97238339a34d",
       "date": "2026-10-18",
-      "dateISO": "Sun, 18 Oct 2026 17:36:57 GMT",
-      "ts": 1792345017000,
+      "dateISO": "Sun, 18 Oct 2026 17:51:48 GMT",
+      "ts": 1792345908000,
       "scope": "intl",
       "type": "blast",
       "title": "Multiple people killed, dozens injured in explosion a Canadian military training base - ABC News - Breaking News, Latest News and Videos",
@@ -97,18 +97,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVEF1bTVLZkVORGJGVVBSQUR4RUoydmQ5eTAwTW92NDAtb09XUWVBN3I5VVZmWlJXa2dHYWlnRHN4LUw2VHRXclNRZDI2aGtFUVVVVjRLOE5XNEZUam9pLXlta2ZkQnl1ams3RExkSFFUcTBTS19scTFZb2hXZVAzdERqMTd6RUdYV3FzUA?oc=5",
       "site": "搜狐",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-cba04e491921",
-      "date": "2026-10-18",
-      "dateISO": "Sun, 18 Oct 2026 15:22:27 GMT",
-      "ts": 1792336947000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Mysterious explosion strikes an Iranian-backed group in Iraq - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2Z0p0Z3N1bmMzbjdTRG1rSWNId205WC1ZY2hKUGprQVBPNWpiay1PazV1TkpDY0hhZWlZbEU1SFN1UlVEVEt3bGFod0dwQ3l1Mkw0YWczZjk3dFVs?oc=5",
-      "site": "The Jerusalem Post",
-      "siteUrl": "https://www.jpost.com"
     },
     {
       "id": "FL-93b0629ccb6b",
@@ -159,6 +147,18 @@
       "siteUrl": "https://i.ifeng.com"
     },
     {
+      "id": "FL-381331a5434f",
+      "date": "2026-10-18",
+      "dateISO": "Sun, 18 Oct 2026 10:26:00 GMT",
+      "ts": 1792319160000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "加拿大军事基地实弹演习爆炸起火，遇上时速超100公里狂风！当地正举行“脱加”公投 - 腾讯新闻",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBua3U5NXRfVTRSdGxKS2l5WTZuZHNlX05DNUxwdGFrLWdBMUJjbDB2cVNWVjdkZ3owa2FaUnpvUDcwcjZScmhXanI2NHBGY1FmTElwdTA4Q2tRYm9yS0lxLVJzNTlFV29QS2kzZg?oc=5",
+      "site": "腾讯新闻",
+      "siteUrl": "https://news.qq.com"
+    },
+    {
       "id": "FL-a05ca20a8bf7",
       "date": "2026-10-18",
       "dateISO": "Sun, 18 Oct 2026 10:16:00 GMT",
@@ -193,18 +193,6 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wLW5seVBWVnhPa3JrQzF5dlFKcEh3SzJUTUdVdGp5NVh1YnZwS2tjOS05Zm1TVjItX0FuRmFwVUhVd1VqcmlyLUlIR1dzekhfalVvV2hUbWtNczJReGNKbFlQZUphWkpSa0l0Szhn?oc=5",
       "site": "生物通",
       "siteUrl": "https://www.ebiotrade.com"
-    },
-    {
-      "id": "FL-65a837ede06b",
-      "date": "2026-10-04",
-      "dateISO": "Sun, 04 Oct 2026 07:00:00 GMT",
-      "ts": 1791097200000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "乌首都基辅响起强烈爆炸声 一桥梁再次遭袭 - 央视网",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50ajJWMmw0dWRvT2JnSW01VnhEZDZ3WUVydFZlSjBabUVPMW16aHRaeTRiUDgwZzg4blo3bWVtOHJQaVNqYkxtb1hCdEtyQkJXOTFqeTJNWWtHbU1oZlZtdHFwZFVlRjM3clAyWFpralZNWkNIT3VyOQ?oc=5",
-      "site": "央视网",
-      "siteUrl": "https://news.cctv.com"
     },
     {
       "id": "FL-0615dd398028",
@@ -269,14 +257,14 @@
     {
       "id": "FL-1cdc7213279c",
       "date": "2026-10-17",
-      "dateISO": "Sat, 17 Oct 2026 22:18:26 GMT",
-      "ts": 1792275506000,
+      "dateISO": "Sat, 17 Oct 2026 22:18:00 GMT",
+      "ts": 1792275480000,
       "scope": "intl",
       "type": "blast",
       "title": "苏丹首都圈地区一军事基地发生爆炸 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40MkZvQklQakhlWUxKaVJ3MnZjQ1BVZWV5N2p1WVZta3MzUzRPU295NF80YmJMUGlFRUltblpBNm83S3hSX2EtdE02QmZ2VmFnOUJqMWtoeDdVaUFUTUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BMGhEc2s5SUNfZlBxUksxZGphY0dWa2pOTFE4ZGlTbnFhUDFEaTVtc014QUNOVEk1eFdpM01xRERfa2lRaFVrWXZqUWNOeVRCd0UwTm5ETk56OHE0SGI1alliMmlKRlJZZ3hXRGJoVU9Vdw?oc=5",
       "site": "京报网",
-      "siteUrl": "https://news.bjd.com.cn"
+      "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
       "id": "FL-0aa8ad3f49f0",
