@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T18:09:36.175Z",
+  "updated": "2026-10-19T18:43:06.243Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -37,18 +37,6 @@
       "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQdzk2WjhjWW9BUVdQSHN2QzlKOHVOQVlkWGpoU3ZMY3NNUW9fZnBPdmhsRGQwb0ZIQ2VVMDRkMmg3LW50NUh2VzZOZlJpX3NvV1ppMTM0bjBkQmJXMEtiVE9IZVZ4MUFzbGVfN1loUUlwdlA5UVVfQVRVX0NOeTdDZHEyZ20tbkx0NnpkQk80YWNqSFR5M1lQNHVBMjFFbkREd25JVUp1TnQxOWtVaXNON2NSTl9qdjFVLUtLZGpkQTVSaWhPS2htZUNGWG9KZU5Vb0Q0Zmg2ZGs1Y2lWSGpadE9PeTZDdmFORWFsU3Q1MkpBaUdlaWpEbVp2bXRKMVhKa0pWS1R1Y3Vsc0dVcHE0SnFhS21GaHZjMVI0eGE0dEQzX2k2SlgzVEJTd2JVdUZVMFVORXdCX2F1WG92cHBubmt0SGZmNjlDRk5uX2dWYnotRlAxTWJJNEVBV2FyOVE1WXJaeE0zSVNZV2hCT1pjRzV4VDI1cHJ4M2l5a0pRM1FYRmRzMExEX1hwTkhhU3U0LVc0WmVkV2t0QQ?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr"
-    },
-    {
-      "id": "FL-385dd58b908a",
-      "date": "2026-08-11",
-      "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
-      "ts": 1786431600000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - 财新",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQcmdXTjEtaEEwQXAyc0dzZ29xdEtVZ3VnTzNSdEdIODhUbTkwVE1WYUJKZGlFN0N1TkdlQTNEZDA1SkNEejNqVS15STYwTURwckdUM0REQUMyTHdNQk5oSjlR?oc=5",
-      "site": "财新",
-      "siteUrl": "https://science.caixin.com"
     },
     {
       "id": "FL-7b2538219289",
@@ -207,6 +195,18 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
+      "id": "FL-4cb93b193d17",
+      "date": "2026-10-19",
+      "dateISO": "Mon, 19 Oct 2026 18:12:48 GMT",
+      "ts": 1792433568000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "明知薪资空间爆炸，雷霆为何还敢给卡森提供5年1.39亿大合同？ - 直播吧",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wWGZveWZIckc4Z3RDYWpRVDRRNURKdVFCYThuS28yeUhZUVVnQ3FTaG5hQl90UVZMLXU0UUFXUGlWcUpGQTQ4ZVEwbXc3ZXJvdlVhNzA2RG0zQmp3TUhzYm1Salk?oc=5",
+      "site": "直播吧",
+      "siteUrl": "https://m.zhibo8.cc"
+    },
+    {
       "id": "FL-7f9e23548cd2",
       "date": "2026-10-19",
       "dateISO": "Mon, 19 Oct 2026 16:15:00 GMT",
@@ -241,18 +241,6 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kTGpMWmNaQWl0TFRRZ1FNUF9POFVOaWp6VEFMLVJEZEFsZjFCdjZBQUFkamgySms0SlZ1NFQ2N1lJbnFFVnRhVExrY0Rmd3BGSjdWdkM4SnhQUklpYU1j?oc=5",
       "site": "新湖南",
       "siteUrl": "https://m.voc.com.cn"
-    },
-    {
-      "id": "FL-c54aaa8b3887",
-      "date": "2026-10-19",
-      "dateISO": "Mon, 19 Oct 2026 11:48:00 GMT",
-      "ts": 1792410480000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "2 men hurt in Canton house explosion, now indicted by grand jury - Cleveland 19 News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRkI4Ylo2NEJZOUhsZ3lRSUh2TC1hSkpnakQtY1N5VE4wOUFTeTFZajZCSlVDNW9LdTNNNGt3UFVIdnVyZU96NWNfQnBXZnJITDJIQzZBWmx3aFdUUXkxcVJXVVNOMFhVd1VwVklfQjcwd1VxZS1jbXhZWHQzVFhZazhESFlKS1JEUVZrLVlYek5iMW82R1RHUExVV3JSYUFfNVHSAbYBQVVfeXFMUHpfd2xIa0dfSWM1RjhQUDJxNXY1bmtreVIxeE5xN2Z4cEtWaFM5c2RXTURIOGc5MFlkUUpLSjF4RVltWW03cVVCUkgxTFJleTQ4NGhKR3QzRWJCUWJkQ25Zci1WZnNVck5HNmJ1VE1aWDkxc2Rwakxlb244cW9TSW5pakozdkticG5HdHo5OG1sTGNqdlh1U05lQkpfbmJzbHFZZGtFR3B4Ylh2OGlYSUNfX0djQ2c?oc=5",
-      "site": "Cleveland 19 News",
-      "siteUrl": "https://www.cleveland19.com"
     },
     {
       "id": "FL-d000ecdcdc07",
