@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T21:36:31.874Z",
+  "updated": "2026-10-19T22:03:32.752Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -13,18 +13,6 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWUNhVEREb0liYWExSTM2U3VUdmZGRnVGMG1ZU09EeUFwdVIyVjhuRWdIZzVMRWlUZUJoZXpNSVpEV2w0VHdxTDhSZkFDYlZHOVY3X25yOGJ6aVJHUGtxN0hGb0NOSF80MXloaEluaGhuaFVPSC12d1lfaWt4dFNYVm1lN25nVzBjZHpGTERKRGpjSlVlZEFUanVR?oc=5",
       "site": "新华网客户端",
       "siteUrl": "https://app.xinhuanet.com"
-    },
-    {
-      "id": "FL-18c3fa62bba8",
-      "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 11:12:25 GMT",
-      "ts": 1791976345000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "200万元罚单落地！包钢股份因“1·18”爆炸事故被追责，两名工作人员相关资格遭吊销 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qSTM2RmFMZ1EwYnlFMThoS0FheThONUk1YVptTllmR2lPX3dkUlRtWXdQQjlUSl8yWmlmTG1XcVB6OGphZWhaUXBjZ3pMVzlydmNUaUpMaDdWV1JuS1NtMUNTNEFyQQ?oc=5",
-      "site": "东方财富",
-      "siteUrl": "https://finance.eastmoney.com"
     },
     {
       "id": "FL-622b0601ec92",
@@ -123,6 +111,30 @@
       "siteUrl": "https://www.jfdaily.com"
     },
     {
+      "id": "FL-5fe607353490",
+      "date": "2026-10-11",
+      "dateISO": "Sun, 11 Oct 2026 07:00:00 GMT",
+      "ts": 1791702000000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "中国旅客亲历利雅得机场航站楼遇袭：“爆炸点距我不到五百米” 使馆：尚无中国公民伤亡报告 - 封面新闻",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5oVkNkdnB5OGRJVVlaWjlLWk5lOUZCd2JXZWtzOTBfcG01OTA5M2M2UmVjYkJEQmQzNnR1NEdXd1B0bEVvRDJvVHZrT2NJUVhReVFXRWtlWHBRM3VGVTMxMjJNYm9rbWtHbXRkZ2ZiSUlhNTZIejk0TjFB?oc=5",
+      "site": "封面新闻",
+      "siteUrl": "https://m.thecover.cn"
+    },
+    {
+      "id": "FL-008d86b164a4",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 15:30:00 GMT",
+      "ts": 1790436600000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典发生爆炸，1名女游客遇难，5人失踪，事发卫城脚下，靠近奥林匹亚宙斯神庙 - 川观新闻",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wT2VkbnNVQzB1dlFrSUpwQU5VbElha1Fyc3h0LVI1WFBMSldqQkRfMWkyeV94b1pPS0w5eFQtT1NxQjdRSkRkbm5yUE5iZw?oc=5",
+      "site": "川观新闻",
+      "siteUrl": "https://cbgc.scol.com.cn"
+    },
+    {
       "id": "FL-08d5beb77eeb",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
@@ -207,18 +219,6 @@
       "siteUrl": "https://m.voc.com.cn"
     },
     {
-      "id": "FL-4ef8e2dc5149",
-      "date": "2026-10-19",
-      "dateISO": "Mon, 19 Oct 2026 10:08:47 GMT",
-      "ts": 1792404527000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "'United in grief': Canadian Prime Minister leads moment of silence for those killed, injured in military base explosion - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeEZZV2h4VWI3S1VtLThtNmpFZ01JcHJwTGZ2LTFFbWhKUFdWaGpma0Zfak1jZEdsVzJjdkxOc2doX1lUdjI0Y0lvMEF6Qi0yd01LLW9QdkhUNXlyeU9KcGhhQW90S0FXWGFiek9pbmU3eFl2aUJ2MWhiaXlIaWVKX2UyREYxcm5SNHBVSG9scEZkTzlST25BQlF1VURtendrM05LdjVGaTNVX0M3TzgtdTNVOHN3RDd0RlHSAb8BQVVfeXFMUEthSVV2blJaTFRBVnhNMWg2cFM2bXRVZkFpajdMUlFqSTNzYjJNQWw2djRpZXRFZEg2ajdjMVlXUm9yRlcyUHJ3ZEw0QjliZVVrOXNCNTQ5SmUwNUJxeF8wbXducVJRbERGV01QdldhXzM2UkxOWkdBcURpUUFmVldzMXhPQy1RYTd2ZnJYX2hRRGtEOFZlSUdRWEp0SnZrZnpuSGNtRm53ekZYNXZkS3Fqa3BEOFhIN3dMWE81ajg?oc=5",
-      "site": "ABC News - Breaking News, Latest News and Videos",
-      "siteUrl": "https://abcnews.com"
-    },
-    {
       "id": "FL-6219c5a90f8f",
       "date": "2026-10-19",
       "dateISO": "Mon, 19 Oct 2026 07:35:22 GMT",
@@ -267,16 +267,16 @@
       "siteUrl": "https://ua.news"
     },
     {
-      "id": "FL-3ebd1fca1fd7",
-      "date": "2026-10-12",
-      "dateISO": "Mon, 12 Oct 2026 16:14:23 GMT",
-      "ts": 1791821663000,
-      "scope": "dom",
+      "id": "FL-c39833bbfc21",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 22:10:00 GMT",
+      "ts": 1790374200000,
+      "scope": "intl",
       "type": "blast",
-      "title": "以黎边境遗留弹药爆炸已致1死19伤 - 央视网",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZUG1NNGpKanlkSGMwYUx4aWdiZ0VzZEpjUGoySXdxU2p3Xy1FRzd2SkpUa1lBUXd3dnJtZXY1a3BpUnZBZVhxeHBobi1GaXhCSTNsamFRR3B0TEoyTk5janJKcG9yVkMtMHJDZkVHTWEzdS1lWC0yMg?oc=5",
-      "site": "央视网",
-      "siteUrl": "https://news.cctv.com"
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 环球网",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5naEpaTmt5bmlhUXlZdndRR2F3XzN6Z2d5aWcwdU4zRnpJWXBJX3VpVWxzRDBzQUFVRXZ4TW1lOTJQUEhCQ3NDNDFEN2FpVTRuYTh3?oc=5",
+      "site": "环球网",
+      "siteUrl": "https://m.huanqiu.com"
     },
     {
       "id": "FL-d2fca6abea5c",
