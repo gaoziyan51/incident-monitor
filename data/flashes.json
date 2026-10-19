@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T12:55:19.970Z",
+  "updated": "2026-10-19T13:31:25.327Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -39,30 +39,6 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-385dd58b908a",
-      "date": "2026-08-11",
-      "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
-      "ts": 1786431600000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - 财新",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQcmdXTjEtaEEwQXAyc0dzZ29xdEtVZ3VnTzNSdEdIODhUbTkwVE1WYUJKZGlFN0N1TkdlQTNEZDA1SkNEejNqVS15STYwTURwckdUM0REQUMyTHdNQk5oSjlR?oc=5",
-      "site": "财新",
-      "siteUrl": "https://science.caixin.com"
-    },
-    {
-      "id": "FL-340d5e981918",
-      "date": "2026-08-23",
-      "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
-      "ts": 1787468400000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
       "id": "FL-e385fb0b9a8e",
       "date": "2026-10-18",
       "dateISO": "Sun, 18 Oct 2026 23:55:00 GMT",
@@ -82,7 +58,7 @@
       "scope": "intl",
       "type": "blast",
       "title": "伊朗称一艘违规油轮在霍尔木兹海峡南部触雷爆炸起火 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQempaaEZYNi1rclNXaUotdVhrc2dVSGFob2R4SjVTV0t1MVZyVlFpLU96S2tmQzV5SHdqTXJ6dGFTTF83WEdBdV9iTEFlVHkyQlZiUHM0ZXBZM0V5WEpjcUNNU1JSbHpjNTlwcUVHaVdmSGVfUFNvNXMzaktISGhkWjR6T2JvdDFEekZHS0xIOUV4Y1dPMkJsOGNKSHA3cXA1Qk9LTzhWNV9EOTdFSlY3Z1lvNUI1VDJHUTM3T2RPV1JMc1VVWEYtZHZGRXdIejRx?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPN0hYUXNjWmhYcFNFb3hVb0NOSmR1UWdVaVNCdFJaX2h2dGNGd0tfZlpVbUdRNlNCa3JvRlpibjhEN25QdFZkLV9aWFUzb3ltbHJ4cHBPWlJGTExvMXVNM29SY1ZhTG1KYnV5U0pZSTlZOExwV1ZxUURQQnBJNW5qOEkwcGZwYVk1czlCQXlIQTA5dmtCbFdLQ3AxRVZFRHlFWDcxTlp1SGtxaHp6U2NEc1BPZkp4ZVczbDF0ZXU4M2RPUzhoYUNkQVBTNHBCWm81?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
     },
@@ -145,30 +121,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMQlF1c2ZJMXgybzBaWGNuZUpuc0tOTGpBVEk3aWNYV2lJZkVWQVd6Yk9JRWVrS1hqTDd5dEJBWkZwclZRQkR1TklrYUVzWEVHUnFERzNhanVlQQ?oc=5",
       "site": "上观新闻",
       "siteUrl": "https://www.jfdaily.com"
-    },
-    {
-      "id": "FL-65a837ede06b",
-      "date": "2026-10-04",
-      "dateISO": "Sun, 04 Oct 2026 07:00:00 GMT",
-      "ts": 1791097200000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "乌首都基辅响起强烈爆炸声 一桥梁再次遭袭 - 央视网",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50ajJWMmw0dWRvT2JnSW01VnhEZDZ3WUVydFZlSjBabUVPMW16aHRaeTRiUDgwZzg4blo3bWVtOHJQaVNqYkxtb1hCdEtyQkJXOTFqeTJNWWtHbU1oZlZtdHFwZFVlRjM3clAyWFpralZNWkNIT3VyOQ?oc=5",
-      "site": "央视网",
-      "siteUrl": "https://news.cctv.com"
-    },
-    {
-      "id": "FL-0615dd398028",
-      "date": "2026-08-02",
-      "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
-      "ts": 1785654000000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-008d86b164a4",
@@ -243,6 +195,18 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
+      "id": "FL-6c52c89bce5e",
+      "date": "2026-10-19",
+      "dateISO": "Mon, 19 Oct 2026 12:42:37 GMT",
+      "ts": 1792413757000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Opinion | The Challenger explosion and the plutonium mission that worried me - RiverheadLOCAL",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTFFoMFZOSU5fTGNldGNLMkR5WjBsbFFlM1d5WmtrV1IwT2JnSk8tVUg5MVdVRjRtWDc1VlljNTNvTDB2cGoyWDlkTkEtU3lJdDN4c3JVTTBzTS0zYlZyU2xiQ1dVbTIwVUxKTTJYdVc3U2xFSnp2QjhldmM5bGdjT3RBakw4cktpaDY4NDgtQlJFOGY1RkFQczBxWGZxWWJHMHQxN3h0am8?oc=5",
+      "site": "RiverheadLOCAL",
+      "siteUrl": "https://riverheadlocal.com"
+    },
+    {
       "id": "FL-c54aaa8b3887",
       "date": "2026-10-19",
       "dateISO": "Mon, 19 Oct 2026 11:48:00 GMT",
@@ -301,6 +265,18 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBOMlA4dUttWWpjTXMxV2toUGpkRzRUa3ZOVzhHOFF0enlXcFRJSFFNcktJT1IzV2xiQWtxLUk2T1k4XzB5aFRLNnJSSWFDdw?oc=5",
       "site": "川观新闻",
       "siteUrl": "https://cbgc.scol.com.cn"
+    },
+    {
+      "id": "FL-d22a1e0d8d73",
+      "date": "2026-10-19",
+      "dateISO": "Mon, 19 Oct 2026 06:29:10 GMT",
+      "ts": 1792391350000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "《伟大的长征》遵义会议燃爆了，网友隔空参会刷屏盛赞_大陆_国内新闻_新闻 - 齐鲁网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pWXNKaUJFc2UwUVRIUWsxQksyZFVlWHZEU3Nmc2FlSFJibnYwOTV2NG4yTDZMYjZOeE1VVkg5aDMtNjI0Zk0xbnJjc0FHMGJnWFRqd3c4LUU1MjJ4RVVKbFgyQ3QydzRt?oc=5",
+      "site": "齐鲁网",
+      "siteUrl": "https://news.iqilu.com"
     },
     {
       "id": "FL-d368ee09e0ff",
