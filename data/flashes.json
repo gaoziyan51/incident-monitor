@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T03:12:07.295Z",
+  "updated": "2026-10-19T03:46:32.326Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -13,6 +13,18 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWUNhVEREb0liYWExSTM2U3VUdmZGRnVGMG1ZU09EeUFwdVIyVjhuRWdIZzVMRWlUZUJoZXpNSVpEV2w0VHdxTDhSZkFDYlZHOVY3X25yOGJ6aVJHUGtxN0hGb0NOSF80MXloaEluaGhuaFVPSC12d1lfaWt4dFNYVm1lN25nVzBjZHpGTERKRGpjSlVlZEFUanVR?oc=5",
       "site": "新华网客户端",
       "siteUrl": "https://app.xinhuanet.com"
+    },
+    {
+      "id": "FL-18c3fa62bba8",
+      "date": "2026-10-14",
+      "dateISO": "Wed, 14 Oct 2026 11:12:25 GMT",
+      "ts": 1791976345000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "200万元罚单落地！包钢股份因“1·18”爆炸事故被追责，两名工作人员相关资格遭吊销 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qSTM2RmFMZ1EwYnlFMThoS0FheThONUk1YVptTllmR2lPX3dkUlRtWXdQQjlUSl8yWmlmTG1XcVB6OGphZWhaUXBjZ3pMVzlydmNUaUpMaDdWV1JuS1NtMUNTNEFyQQ?oc=5",
+      "site": "东方财富",
+      "siteUrl": "https://finance.eastmoney.com"
     },
     {
       "id": "FL-d933960c920a",
@@ -121,30 +133,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YUXQtbWhHbS0zZHhxS05JbFVOYlZDalJpbldnb00tWktlZ2EtckdsaThLOEVpeE1zdzRMVEQtbGhsT3FMVnoxa3FicnBxSmlLaF9hdW1LQWZXQW4xdlBDbtIBZkFVX3lxTE1XeXVzazFmNnIzRkI1QTVYTFVWQUJYb0otQXYzNUplWWhHaEVDSXhYUmUzQzlNdGJLbUFDZkJIU1piZEk1NWdZeWh4d1Eyc2ZJQzB2QUNqTlh6NDhBc1k4SWFUUWpsZw?oc=5",
       "site": "新唐人電視台",
       "siteUrl": "https://www.ntdtv.com"
-    },
-    {
-      "id": "FL-a1e0be176e91",
-      "date": "2026-10-18",
-      "dateISO": "Sun, 18 Oct 2026 21:41:36 GMT",
-      "ts": 1792359696000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "伊朗称一艘违规油轮在霍尔木兹海峡南部触雷爆炸起火 - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWXFrM3ZGLU5VV0liQjJhalJRNGJiUVdKczkzRDI3bndzVXNyV3VSUFc2bEtndkJNdkFlVjA1SDNvTFpRZUN0aURoSmJPQTNSVkNEZ2tTa0FyclJxNFdVZ2VJbk5xTHpDd2hhQWRrTjdRNktIcm82eGtBcTA4RThqQkZmbkM4OXZDaHZQMw?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-d419047458dc",
-      "date": "2026-10-18",
-      "dateISO": "Sun, 18 Oct 2026 21:33:41 GMT",
-      "ts": 1792359221000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "伊朗称一艘违规油轮在霍尔木兹海峡南部触雷爆炸起火_7x24快讯_新浪财经 - 手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MSFMwZVE2VFVCNHZrcnMtYWd1WFJ0S18tNGlxaUphZ0RBS3QxRjRUWC1QUU1iSmNRUEtfUUlOTlRncUpkY2V1MlBwNA?oc=5",
-      "site": "手机新浪网",
-      "siteUrl": "https://wap.cj.sina.cn"
     },
     {
       "id": "FL-02275896de74",
@@ -291,18 +279,6 @@
       "siteUrl": "https://hb.dzwww.com"
     },
     {
-      "id": "FL-6bfcbbdfc61a",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 11:43:45 GMT",
-      "ts": 1790423025000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "巴基斯坦西北部德拉伊斯梅尔汗发生爆炸 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5teTFSaktZeEF4UUdEU19YbDlyczdrZTc5R2ZieHdzbFhodmRRQjgxek1tcGt4c05IWVg4ZUd6d005aVNpazFnMDlydjZmWEhwa1luM2FQdkE0eTc5U1JlUA?oc=5",
-      "site": "东方财富",
-      "siteUrl": "https://wap.eastmoney.com"
-    },
-    {
       "id": "FL-08d5beb77eeb",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
@@ -375,6 +351,18 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
+      "id": "FL-6c46884fe293",
+      "date": "2026-10-19",
+      "dateISO": "Mon, 19 Oct 2026 03:20:14 GMT",
+      "ts": 1792380014000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "乌克兰无人机疑遭俄干扰 立陶宛上空爆炸引来北约战机 - 国际 - 即时国际 - Sin Chew Daily",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Hc29hZllTLVkzMXo5NktvUkJWTFh6SUh6VG9IWDhRNk05TDlhc0EzWF9iR3lndDNFMjJOeTRpT1A3cTk3TzFzNkpNSVdxNHhLR0lsRHBGb3RyY2NWSW95YWRXSHgyMXFSY2h1SjBRQQ?oc=5",
+      "site": "Sin Chew Daily",
+      "siteUrl": "https://www.sinchew.com.my"
+    },
+    {
       "id": "FL-03c638e3bd6e",
       "date": "2026-10-19",
       "dateISO": "Mon, 19 Oct 2026 01:09:01 GMT",
@@ -385,30 +373,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSk5lcFFRbjRidkotMmt3aER6RzM4UHhOWXRQT3JtNmd1eTNFSjBHdDVNOU5BdFlCS2k2eXMzN3B2OGJsc2E5eU9DX1JRUF8tUWEzM25IVUIwaDZPb0tqcjFROVh3QlMwMm5fNkFEMmVwX0JldjI5ODhUYV9DUHAyMUExdXNsRTVJS0sw?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://www.sohu.com"
-    },
-    {
-      "id": "FL-3ebd1fca1fd7",
-      "date": "2026-10-12",
-      "dateISO": "Mon, 12 Oct 2026 16:14:23 GMT",
-      "ts": 1791821663000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "以黎边境遗留弹药爆炸已致1死19伤 - 央视网",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZUG1NNGpKanlkSGMwYUx4aWdiZ0VzZEpjUGoySXdxU2p3Xy1FRzd2SkpUa1lBUXd3dnJtZXY1a3BpUnZBZVhxeHBobi1GaXhCSTNsamFRR3B0TEoyTk5janJKcG9yVkMtMHJDZkVHTWEzdS1lWC0yMg?oc=5",
-      "site": "央视网",
-      "siteUrl": "https://news.cctv.com"
-    },
-    {
-      "id": "FL-0d37be8e3bed",
-      "date": "2026-10-05",
-      "dateISO": "Mon, 05 Oct 2026 08:45:00 GMT",
-      "ts": 1791189900000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "韩国公布非军事区地雷爆炸事件最终调查结果 - 封面新闻",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mOW90LUsxZ0prZmZVUFNmTkZ0QjQ1NzdDY195Z25fWFVDaXM3ZkloeTNkY3c3RnpVSVd3ZlFJY3c4YWlIalBYMDJWaGE0SUpZTm8zS2VZbUZmc2hoS2cwbFRPSTFHWGxOUVRYWkU2clJNdDg4Zk9PVm9n?oc=5",
-      "site": "封面新闻",
-      "siteUrl": "https://m.thecover.cn"
     },
     {
       "id": "FL-b042a088a326",
@@ -457,6 +421,18 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTndzVWl0bjAyeHYtLTdLTmNHOUNDNlNoeGlBcXRlU3dpNi1WYWlvMzM4Y0RoOTBOR1hobWJyYXIxV1hoREZJbERMdlRBcVpPU0k4ZURFZjVtN3NZc2hjNDZiNG5KaEVFdTdNdExfNW9aUkxvQmhEVGNPY3ZJNTAyYU1HTi0wb2NXNVE?oc=5",
       "site": "上海市人民政府",
       "siteUrl": "https://www.shanghai.gov.cn"
+    },
+    {
+      "id": "FL-60e3ae8a5cff",
+      "date": "2026-10-02",
+      "dateISO": "Fri, 02 Oct 2026 07:00:00 GMT",
+      "ts": 1790924400000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "胡塞武装袭击地区军事设施 也门亚丁传出爆炸声 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50UkVmXzR5UTNvVEVpY2JfNlpPWDd5LWtKNTF0cGNsUlgxNW1LQ3FlZXQ1UkhWRnFmTGNMNTItcVJIRzNpVjFuQWVvTkk2V3EyUngwR2hqMDlIN3JocWxZVDd4OUI?oc=5",
+      "site": "东方财富",
+      "siteUrl": "http://finance.eastmoney.com"
     }
   ]
 }
