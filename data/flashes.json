@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T18:43:06.243Z",
+  "updated": "2026-10-19T19:18:16.249Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -37,6 +37,18 @@
       "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQdzk2WjhjWW9BUVdQSHN2QzlKOHVOQVlkWGpoU3ZMY3NNUW9fZnBPdmhsRGQwb0ZIQ2VVMDRkMmg3LW50NUh2VzZOZlJpX3NvV1ppMTM0bjBkQmJXMEtiVE9IZVZ4MUFzbGVfN1loUUlwdlA5UVVfQVRVX0NOeTdDZHEyZ20tbkx0NnpkQk80YWNqSFR5M1lQNHVBMjFFbkREd25JVUp1TnQxOWtVaXNON2NSTl9qdjFVLUtLZGpkQTVSaWhPS2htZUNGWG9KZU5Vb0Q0Zmg2ZGs1Y2lWSGpadE9PeTZDdmFORWFsU3Q1MkpBaUdlaWpEbVp2bXRKMVhKa0pWS1R1Y3Vsc0dVcHE0SnFhS21GaHZjMVI0eGE0dEQzX2k2SlgzVEJTd2JVdUZVMFVORXdCX2F1WG92cHBubmt0SGZmNjlDRk5uX2dWYnotRlAxTWJJNEVBV2FyOVE1WXJaeE0zSVNZV2hCT1pjRzV4VDI1cHJ4M2l5a0pRM1FYRmRzMExEX1hwTkhhU3U0LVc0WmVkV2t0QQ?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr"
+    },
+    {
+      "id": "FL-e385fb0b9a8e",
+      "date": "2026-10-18",
+      "dateISO": "Sun, 18 Oct 2026 23:55:00 GMT",
+      "ts": 1792367700000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "伊朗称一艘违规油轮在霍尔木兹海峡南部触雷爆炸起火 - 川观新闻",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBwSklQcWdXSmVYRWFNcVJtcU1weFNuQmFKbWQxakJ0a2h3TGVnRnRRVmpreU9YOHpSV3FScGF2emdxVWFhV3J5Mm9OZmo3Zw?oc=5",
+      "site": "川观新闻",
+      "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
       "id": "FL-7b2538219289",
@@ -109,18 +121,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMQlF1c2ZJMXgybzBaWGNuZUpuc0tOTGpBVEk3aWNYV2lJZkVWQVd6Yk9JRWVrS1hqTDd5dEJBWkZwclZRQkR1TklrYUVzWEVHUnFERzNhanVlQQ?oc=5",
       "site": "上观新闻",
       "siteUrl": "https://www.jfdaily.com"
-    },
-    {
-      "id": "FL-0615dd398028",
-      "date": "2026-08-02",
-      "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
-      "ts": 1785654000000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-008d86b164a4",
@@ -219,18 +219,6 @@
       "siteUrl": "https://cacnews.ca"
     },
     {
-      "id": "FL-82c7a66e006d",
-      "date": "2026-10-19",
-      "dateISO": "Mon, 19 Oct 2026 15:29:00 GMT",
-      "ts": 1792423740000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "2 men indicted on 18 counts each for Canton house explosion in July, Stark County court records show - WKYC",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNMHdPZUNmMjVpaTNSYzl0NjQyUFRRcjJsTVdfMFNRUUNPMnpncFhidWp2RkhxLUw5ZjFqOGU3b0hwZHZFOWs5VG0tWHo4LUpjM0tROHJYQmhSR1MtRWMwcVBFOTV4S3RDVFJJUGJnZ1NqVTJYTjkyNlJwMVV4T2JKTU80MUhHM09nMjRXMGNfd1dVeFpxVlhyOGhKb2hOSFFzUktWZHA5N1FFS3llM2FncmppRHRTOENBcm5Ub3dubldlNElxUFlHUmNCRFFLSUF2UzJUenJadlJyUFltTjJUU0xpTUZOOWlIWkNlcmNONjgwQXJ6RmVJU2JycmthVURwV2xkUC10cFBNc28?oc=5",
-      "site": "WKYC",
-      "siteUrl": "https://www.wkyc.com"
-    },
-    {
       "id": "FL-604d1f55fd6f",
       "date": "2026-10-19",
       "dateISO": "Mon, 19 Oct 2026 12:21:08 GMT",
@@ -241,6 +229,18 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kTGpMWmNaQWl0TFRRZ1FNUF9POFVOaWp6VEFMLVJEZEFsZjFCdjZBQUFkamgySms0SlZ1NFQ2N1lJbnFFVnRhVExrY0Rmd3BGSjdWdkM4SnhQUklpYU1j?oc=5",
       "site": "新湖南",
       "siteUrl": "https://m.voc.com.cn"
+    },
+    {
+      "id": "FL-c54aaa8b3887",
+      "date": "2026-10-19",
+      "dateISO": "Mon, 19 Oct 2026 11:48:00 GMT",
+      "ts": 1792410480000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "2 men hurt in Canton house explosion, now indicted by grand jury - Cleveland 19 News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRkI4Ylo2NEJZOUhsZ3lRSUh2TC1hSkpnakQtY1N5VE4wOUFTeTFZajZCSlVDNW9LdTNNNGt3UFVIdnVyZU96NWNfQnBXZnJITDJIQzZBWmx3aFdUUXkxcVJXVVNOMFhVd1VwVklfQjcwd1VxZS1jbXhZWHQzVFhZazhESFlKS1JEUVZrLVlYek5iMW82R1RHUExVV3JSYUFfNVHSAbYBQVVfeXFMUHpfd2xIa0dfSWM1RjhQUDJxNXY1bmtreVIxeE5xN2Z4cEtWaFM5c2RXTURIOGc5MFlkUUpLSjF4RVltWW03cVVCUkgxTFJleTQ4NGhKR3QzRWJCUWJkQ25Zci1WZnNVck5HNmJ1VE1aWDkxc2Rwakxlb244cW9TSW5pakozdkticG5HdHo5OG1sTGNqdlh1U05lQkpfbmJzbHFZZGtFR3B4Ylh2OGlYSUNfX0djQ2c?oc=5",
+      "site": "Cleveland 19 News",
+      "siteUrl": "https://www.cleveland19.com"
     },
     {
       "id": "FL-d000ecdcdc07",
@@ -349,18 +349,6 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5naEpaTmt5bmlhUXlZdndRR2F3XzN6Z2d5aWcwdU4zRnpJWXBJX3VpVWxzRDBzQUFVRXZ4TW1lOTJQUEhCQ3NDNDFEN2FpVTRuYTh3?oc=5",
       "site": "环球网",
       "siteUrl": "https://m.huanqiu.com"
-    },
-    {
-      "id": "FL-d2fca6abea5c",
-      "date": "2026-10-16",
-      "dateISO": "Fri, 16 Oct 2026 07:44:00 GMT",
-      "ts": 1792136640000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "鞠躬道歉！日本误报称发生9.9级地震 网友吐槽无知：相当于2100万颗原子弹在广岛同时爆炸 - 驱动之家",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlTUlDcnhpV0V2WkprVmVkQlcxc19iMzRON1lRWVJHWnpVZnFmYUlYdTk2dk94Zm1CbTB0clJfcGVrRUM3dDZQNVAxQ1U5eTBqdVZlaTktUG0?oc=5",
-      "site": "驱动之家",
-      "siteUrl": "https://news.mydrivers.com"
     }
   ]
 }
