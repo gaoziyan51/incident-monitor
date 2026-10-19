@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T00:44:48.470Z",
+  "updated": "2026-10-19T01:19:11.743Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -51,6 +51,18 @@
       "siteUrl": "https://science.caixin.com"
     },
     {
+      "id": "FL-11b1a4224e08",
+      "date": "2026-10-06",
+      "dateISO": "Tue, 06 Oct 2026 19:57:10 GMT",
+      "ts": 1791316630000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "沙特阿拉伯首都利雅得5日晚传出爆炸声 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SZURBZjRfRnpRY2QwN1RnbVpsZzZ6WWtnLVBXY1I4aWN5alhMQ0R3UDBEM2RPYTJsQ1VYVUt4YVpvSjJZTkIzV3lxQTMzdWVHSnF2SUlfY2gybzBIc0R0Rg?oc=5",
+      "site": "东方财富",
+      "siteUrl": "https://wap.eastmoney.com"
+    },
+    {
       "id": "FL-268f06752aaa",
       "date": "2026-10-15",
       "dateISO": "Thu, 15 Oct 2026 13:16:30 GMT",
@@ -61,6 +73,18 @@
       "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQaHBNeC1jZHk3Rml6di13a0h2dE11cmpDYWF3LWFJaFpWVjZNYnZDT0RqU2R6Y3g0dFpVZGEtcVYySldUVzJIX0c2WVV6ajBaTGt0b044dmViNHoya01hZGtmREpUYk5na3VQSWt4azFIbTQ1SjVjZlJEYS1JZXRZcUp6cnFCekdvcVFmQkFrSzRNU3NOalQxMHVKeGlISjZlVGJVQkpFVEpGbnBTZVJKbG5PRy10Qy1KY09BNDE4OUpMUENEM28ycWVNakJhSWZmbE45SWt3cVFMaDJlaVBtbWR3MWlxMWpmaG9XeGVmT0VlWnRqQnQwcFBxNDA3Q3FjZVNCbFpKM3VEc0xYN0xucWEyMnctVE5WTDA0OEFOODdWUzIweXJmb2xfYldLYXNfUDFXNWQzVnpwbUpCM05oODBwU1MwYUVfV0JfZnZlXzdaQk0tdElIWlFoS2Qzck1UWF9tVzRnMDJWczFmZVg2V0tZd3lockZ6eTFjM1RQTGNlWmFHMGIzOFptRGpXQdIBjgNBVV95cUxNMU0wa3VnanM1MDh1Qm9UY2FpbmdBUTFMdEJPclBjeFBHMkk3QVhOLUR6X0JMdldiTjJuZXdHSnVlZkpBWVhNbkQ2cjlzZndZVjRUR09DVnpxM0JMY1gzTkJ1dUFGbFByZS13d2Q3MlMzem9sazh4V0twUjBzM3o1UUgxYlVUYUZTOTA1M3oxT3dTc1VSd2tCX0JKWWRsSms3Y3c3Yl9OdFR2YnhZRmVkLWthS2JSQkt3UGhwOVNsTTItYmpQMmVMdEFMckpDOFAwdVB6anFSYlFjOFJSQ1NzcWlKQWx5MTVaajhTclNfbXFrakdaM25rT2xEeXdGaWMwY0xtREdoOU9kNFFTNnY5X0RHUjhUOHZzM1hMM3doNXlpck1SRDN2UWtJVlhQYldyWHFsM1JPam9PUjFLRWxqTGozLW1MVGZOc1ZmQVN6djVTMWxWYjFJMW9VY0xEOFA3b25sd0NfcGpkWEJrN25WRVFDTnVWMUJkQ0xGNWRrcTF1MEJ4MEVNbkpLLWs5QQ?oc=5",
       "site": "DW.com",
       "siteUrl": "https://www.dw.com"
+    },
+    {
+      "id": "FL-f1c86563e0e4",
+      "date": "2026-09-27",
+      "dateISO": "Sun, 27 Sep 2026 17:10:36 GMT",
+      "ts": 1790529036000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "英国疏散美军所用基地附近居民 多人涉爆炸物被捕 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91MjNOYzJjSVZaVUpOZjQ3OGwtYnBaNUZNZi1BTUg0LXlDcjhueElmdjlqWTI1cF83YkdPdjVEUmo3a1FKSXVPTVhpNkVaVF8wNk5GbkJsVG1kQjAzRUtMWEpJMmgxMzNQcTl5bmRadTc4R2xuUVJEWA?oc=5",
+      "site": "央视网",
+      "siteUrl": "https://news.cctv.com"
     },
     {
       "id": "FL-340d5e981918",
@@ -109,18 +133,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YUXQtbWhHbS0zZHhxS05JbFVOYlZDalJpbldnb00tWktlZ2EtckdsaThLOEVpeE1zdzRMVEQtbGhsT3FMVnoxa3FicnBxSmlLaF9hdW1LQWZXQW4xdlBDbtIBZkFVX3lxTE1XeXVzazFmNnIzRkI1QTVYTFVWQUJYb0otQXYzNUplWWhHaEVDSXhYUmUzQzlNdGJLbUFDZkJIU1piZEk1NWdZeWh4d1Eyc2ZJQzB2QUNqTlh6NDhBc1k4SWFUUWpsZw?oc=5",
       "site": "新唐人電視台",
       "siteUrl": "https://www.ntdtv.com"
-    },
-    {
-      "id": "FL-7b33a63eba79",
-      "date": "2026-10-18",
-      "dateISO": "Sun, 18 Oct 2026 22:13:31 GMT",
-      "ts": 1792361611000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "乌克兰首都基辅响起强烈爆炸声 - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON2lDX0tQN3BISC13M3NvbTk1cWRFYjBfUlF0Ujd0Vm5sOURhd2V1bWx5VFgxRnlKVXZTR3kyNlJPbVRET09ZSVN2RWtmWE5tUy1xZXU1c3p5OUVoSFV5Uk0wY3lCbGV3MHp5MlZsNnB3cUNxNzNNVzd6TGJCR0prUS1lY3c5MWNk?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-a1e0be176e91",
@@ -173,14 +185,14 @@
     {
       "id": "FL-6ed984e801ae",
       "date": "2026-10-18",
-      "dateISO": "Sun, 18 Oct 2026 20:31:15 GMT",
-      "ts": 1792355475000,
+      "dateISO": "Sun, 18 Oct 2026 20:31:13 GMT",
+      "ts": 1792355473000,
       "scope": "intl",
       "type": "blast",
       "title": "乌克兰首都基辅响起强烈爆炸声 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtY1JkQ2tnMjh0WndwYl81SmpTWmczLW1kR3JxYlZuQmlRN01wSU93TklFX3dNTTBlTmRiU0hJa000UmZaRFlrY053dWxRYUppUE9Qa2lfQUtObVR2TnJtWGVjT2VwWGNXUlUyREJ1WDVPX1RyNTVId1JGc1FHdmM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VYmtueFlERDdvSHpKV3VRNGFfM2JnamtPY01CVU1RQ1V4VDFMdUx4RWNtbFpIdkNhSVQwbWZKb203aTRjQXU3OHk0YjRjYk90cG5TcDF4ZFJFUWcxN2dIT2tmaVFZLTYtQ1Q1Uk9SeENwZkVaNi0wT3FrRV9tQQ?oc=5",
       "site": "新华网",
-      "siteUrl": "https://www.news.cn"
+      "siteUrl": "http://www.xinhuanet.com"
     },
     {
       "id": "FL-97238339a34d",
@@ -205,18 +217,6 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOFVJaXM2WV96WVJ2RjdRZ2RmaGFvbEJvTnF5dFR2Mnh5dFBWWTZGdlZTMlpycHNPZFYzVWV6OGVhR04ybnlQeU9BZFFfZ0c1VGExWEl3VXE0aWtoZUJEUE5LQWVGM0NRcXVGNXI2dzZUekxKSUlvYUZCTlBhVnJsVkx0SXV3YUc1ZXM2c0tUNl9rZkUt?oc=5",
       "site": "新浪新闻",
       "siteUrl": "https://news.sina.cn"
-    },
-    {
-      "id": "FL-93b0629ccb6b",
-      "date": "2026-10-18",
-      "dateISO": "Sun, 18 Oct 2026 13:47:00 GMT",
-      "ts": 1792331220000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "焦点访谈丨火灾、爆炸、污染风险如影随形……化工厂何以建在群众生活区？ - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa25YNjEtaUM4ZGJMdEFSYl83ZXB2M2pVVTFiVlFuenJqOUlDekQ1amlidmJSM2ZURzl3cmxQS3ZVUmtERHpXaE03cEN2dzU1al9XdkhkWVdnNlRqeW9SY3FRN3d1N2tuUHkyNFBxSm1ZZFlkclhiZFdvMlIyNENuck5EQnZoZXJf?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-9fdf5065c1fd",
@@ -289,6 +289,18 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wT2VkbnNVQzB1dlFrSUpwQU5VbElha1Fyc3h0LVI1WFBMSldqQkRfMWkyeV94b1pPS0w5eFQtT1NxQjdRSkRkbm5yUE5iZw?oc=5",
       "site": "川观新闻",
       "siteUrl": "https://cbgc.scol.com.cn"
+    },
+    {
+      "id": "FL-6bfcbbdfc61a",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 11:43:45 GMT",
+      "ts": 1790423025000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "巴基斯坦西北部德拉伊斯梅尔汗发生爆炸 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5teTFSaktZeEF4UUdEU19YbDlyczdrZTc5R2ZieHdzbFhodmRRQjgxek1tcGt4c05IWVg4ZUd6d005aVNpazFnMDlydjZmWEhwa1luM2FQdkE0eTc5U1JlUA?oc=5",
+      "site": "东方财富",
+      "siteUrl": "https://wap.eastmoney.com"
     },
     {
       "id": "FL-08d5beb77eeb",
@@ -375,16 +387,52 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
-      "id": "FL-eb62056a8316",
+      "id": "FL-a23c16a042db",
       "date": "2026-10-19",
-      "dateISO": "Mon, 19 Oct 2026 00:23:48 GMT",
-      "ts": 1792369428000,
-      "scope": "intl",
+      "dateISO": "Mon, 19 Oct 2026 01:09:25 GMT",
+      "ts": 1792372165000,
+      "scope": "dom",
       "type": "blast",
-      "title": "加拿大军事基地突发爆炸，疑似实弹训练击中天然气管道，大火烧到弹药库已致4死39伤（来源 看看新闻Knews CCTV国际时讯 编辑 杨姗姗） - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY2tNcnBneDdQcHY1ZXBoaWcxYmF2ZEFHeTlpYjlCS1pGUDQ1ekpPVFIwQ2NFR21zdmdUR2pZamVUUjdabDRrWDhGcVpLV29tYkJUcXZIMm1UclpvQ0tKVGZCdVh1RVV5ZTVRc0JEQmhjS3o2NWl0WGpBUVk4UnFvNXdZS2RsUld4?oc=5",
+      "title": "Live音乐派对，Link Plaza现场燃爆！ - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUktiSUw2SG1yUUhPZzhUM2UyUmk4UU56NDg0eFdhc3RNbmhuYW00QUJ3YVlIQlRuNnlIZUNaMUlrRk4tYk0wclFZYWJ6eWNDTGFseDhrT0tibS02cUNYNmZFc3FVZUtMTnRFb2EwN0tmT2lraXpmaDNDdDVIZWtQZXpranhfM2I0Mnlrcw?oc=5",
       "site": "搜狐",
       "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-3d4f569efb57",
+      "date": "2026-10-19",
+      "dateISO": "Mon, 19 Oct 2026 01:09:16 GMT",
+      "ts": 1792372156000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "Link Plaza 的炫酷音乐节，现场氛围燃爆！ - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPalZvNEhaeGFITjBDSThmYzJMMkRXaGlVSE9DdHpoV3B6UTF3bUxNVkhjZjJNS0U3TDU4emJPTGQwS0JRY3l5UEZxNm9jcWxDVXFXZkFHaW1QaGtvQkxjR2ExYVIxOUZUc3R1T1N2TGk1aGZXWVF3TmphRzY2S3BYQlJDbU1uNmJZeHJvOA?oc=5",
+      "site": "搜狐",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-68b2ea0e41d9",
+      "date": "2026-10-19",
+      "dateISO": "Mon, 19 Oct 2026 01:09:01 GMT",
+      "ts": 1792372141000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "现场直击：乌克兰首都基辅响起强烈爆炸声 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON1lLOTRub3NIN1pkNWIycmpXRVpENy1oS09RNERKME9VYndjaHQ1VzQxOFlYWkJxX3dGS1o0Wl9qRXEtczJxNWk5akhTUzh3WWF2N1dGYVlBUzJIU1A5X3l6aFdPVVBNblVtczJ6TXpSbXZSSU1ScHhtSTBkUjVYdE5nTzFmUzY0?oc=5",
+      "site": "搜狐",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-3ebd1fca1fd7",
+      "date": "2026-10-12",
+      "dateISO": "Mon, 12 Oct 2026 16:14:23 GMT",
+      "ts": 1791821663000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "以黎边境遗留弹药爆炸已致1死19伤 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZUG1NNGpKanlkSGMwYUx4aWdiZ0VzZEpjUGoySXdxU2p3Xy1FRzd2SkpUa1lBUXd3dnJtZXY1a3BpUnZBZVhxeHBobi1GaXhCSTNsamFRR3B0TEoyTk5janJKcG9yVkMtMHJDZkVHTWEzdS1lWC0yMg?oc=5",
+      "site": "央视网",
+      "siteUrl": "https://news.cctv.com"
     },
     {
       "id": "FL-0d37be8e3bed",
@@ -397,6 +445,18 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mOW90LUsxZ0prZmZVUFNmTkZ0QjQ1NzdDY195Z25fWFVDaXM3ZkloeTNkY3c3RnpVSVd3ZlFJY3c4YWlIalBYMDJWaGE0SUpZTm8zS2VZbUZmc2hoS2cwbFRPSTFHWGxOUVRYWkU2clJNdDg4Zk9PVm9n?oc=5",
       "site": "封面新闻",
       "siteUrl": "https://m.thecover.cn"
+    },
+    {
+      "id": "FL-b042a088a326",
+      "date": "2026-08-03",
+      "dateISO": "Mon, 03 Aug 2026 07:00:00 GMT",
+      "ts": 1785740400000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "巴基斯坦西北部发生爆炸致14人死亡 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-c39833bbfc21",
