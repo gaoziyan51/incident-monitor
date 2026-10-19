@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T02:43:37.686Z",
+  "updated": "2026-10-19T03:12:07.295Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -351,18 +351,6 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
-      "id": "FL-b3a4135f2d82",
-      "date": "2026-10-17",
-      "dateISO": "Sat, 17 Oct 2026 18:23:00 GMT",
-      "ts": 1792261380000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "巴格达弹药爆炸致该武装五名成员受伤—— 阿纳多卢通讯社 - UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUThUZ1M4ZU9VSk52a2FqVEl4bndIaEwtOC15MmV6X3FoNEFOMUIzWkFyVzRoYVZjcDFvM1lfczlrcTBSRGU0Q3NoN2VlM3o0WFNYV01RRkk3NTY4dVdjNmxKRVBkUndFNXpiZ25yMTRPOUtoMzA0eldrUXB0X2RTRnptUW9raFlNbUNxWHpDaXFvRTloUVpEOGxRQWEtWThVcFk1Q0h6UlM?oc=5",
-      "site": "UA.NEWS",
-      "siteUrl": "https://ua.news"
-    },
-    {
       "id": "FL-703fbf3382dd",
       "date": "2026-10-17",
       "dateISO": "Sat, 17 Oct 2026 12:56:00 GMT",
@@ -445,6 +433,18 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5naEpaTmt5bmlhUXlZdndRR2F3XzN6Z2d5aWcwdU4zRnpJWXBJX3VpVWxzRDBzQUFVRXZ4TW1lOTJQUEhCQ3NDNDFEN2FpVTRuYTh3?oc=5",
       "site": "环球网",
       "siteUrl": "https://m.huanqiu.com"
+    },
+    {
+      "id": "FL-d2fca6abea5c",
+      "date": "2026-10-16",
+      "dateISO": "Fri, 16 Oct 2026 07:44:00 GMT",
+      "ts": 1792136640000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "鞠躬道歉！日本误报称发生9.9级地震 网友吐槽无知：相当于2100万颗原子弹在广岛同时爆炸 - 驱动之家",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlTUlDcnhpV0V2WkprVmVkQlcxc19iMzRON1lRWVJHWnpVZnFmYUlYdTk2dk94Zm1CbTB0clJfcGVrRUM3dDZQNVAxQ1U5eTBqdVZlaTktUG0?oc=5",
+      "site": "驱动之家",
+      "siteUrl": "https://news.mydrivers.com"
     },
     {
       "id": "FL-9b84aa16f31e",
