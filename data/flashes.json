@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T13:31:25.327Z",
+  "updated": "2026-10-19T14:16:40.187Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -39,6 +39,18 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
+      "id": "FL-340d5e981918",
+      "date": "2026-08-23",
+      "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
+      "ts": 1787468400000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
       "id": "FL-e385fb0b9a8e",
       "date": "2026-10-18",
       "dateISO": "Sun, 18 Oct 2026 23:55:00 GMT",
@@ -49,18 +61,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBwSklQcWdXSmVYRWFNcVJtcU1weFNuQmFKbWQxakJ0a2h3TGVnRnRRVmpreU9YOHpSV3FScGF2emdxVWFhV3J5Mm9OZmo3Zw?oc=5",
       "site": "川观新闻",
       "siteUrl": "https://cbgc.scol.com.cn"
-    },
-    {
-      "id": "FL-c720fff59dd5",
-      "date": "2026-10-18",
-      "dateISO": "Sun, 18 Oct 2026 21:25:56 GMT",
-      "ts": 1792358756000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "伊朗称一艘违规油轮在霍尔木兹海峡南部触雷爆炸起火 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPN0hYUXNjWmhYcFNFb3hVb0NOSmR1UWdVaVNCdFJaX2h2dGNGd0tfZlpVbUdRNlNCa3JvRlpibjhEN25QdFZkLV9aWFUzb3ltbHJ4cHBPWlJGTExvMXVNM29SY1ZhTG1KYnV5U0pZSTlZOExwV1ZxUURQQnBJNW5qOEkwcGZwYVk1czlCQXlIQTA5dmtCbFdLQ3AxRVZFRHlFWDcxTlp1SGtxaHp6U2NEc1BPZkp4ZVczbDF0ZXU4M2RPUzhoYUNkQVBTNHBCWm81?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-a9ca0571ca13",
@@ -195,6 +195,18 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
+      "id": "FL-db31287947f8",
+      "date": "2026-10-19",
+      "dateISO": "Mon, 19 Oct 2026 14:13:40 GMT",
+      "ts": 1792419220000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "市场消息：沙特首都传出爆炸声。 - 富途牛牛",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX01feG5CajJnS1lCczN2eHVwWWdDUy1GcUlMTjMyQU9iWENSblRUdE9zZXZPakE5MTFBLVR1ZGVRTm0zSVIta1ktcUg0b0RhZXcwOUFETFB5QXA5dlFDWUJlUEZCTHd5NVBqS3BjV0xSaEI1M0ZKNnNFdnJ2QjhqcGV6RWxweDRXbG1IM0VDYlQxLTJ4N2NUaQ?oc=5",
+      "site": "富途牛牛",
+      "siteUrl": "https://news.futunn.com"
+    },
+    {
       "id": "FL-6c52c89bce5e",
       "date": "2026-10-19",
       "dateISO": "Mon, 19 Oct 2026 12:42:37 GMT",
@@ -207,6 +219,18 @@
       "siteUrl": "https://riverheadlocal.com"
     },
     {
+      "id": "FL-604d1f55fd6f",
+      "date": "2026-10-19",
+      "dateISO": "Mon, 19 Oct 2026 12:21:08 GMT",
+      "ts": 1792412468000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "燃爆贺龙！长沙街舞少年闪耀全国锦标赛 - 新湖南",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kTGpMWmNaQWl0TFRRZ1FNUF9POFVOaWp6VEFMLVJEZEFsZjFCdjZBQUFkamgySms0SlZ1NFQ2N1lJbnFFVnRhVExrY0Rmd3BGSjdWdkM4SnhQUklpYU1j?oc=5",
+      "site": "新湖南",
+      "siteUrl": "https://m.voc.com.cn"
+    },
+    {
       "id": "FL-c54aaa8b3887",
       "date": "2026-10-19",
       "dateISO": "Mon, 19 Oct 2026 11:48:00 GMT",
@@ -214,7 +238,7 @@
       "scope": "intl",
       "type": "blast",
       "title": "2 men hurt in Canton house explosion, now indicted by grand jury - Cleveland 19 News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRkI4Ylo2NEJZOUhsZ3lRSUh2TC1hSkpnakQtY1N5VE4wOUFTeTFZajZCSlVDNW9LdTNNNGt3UFVIdnVyZU96NWNfQnBXZnJITDJIQzZBWmx3aFdUUXkxcVJXVVNOMFhVd1VwVklfQjcwd1VxZS1jbXhZWHQzVFhZazhESFlKS1JEUVZrLVlYek5iMW82R1RHUExVV3JSYUFfNVE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRkI4Ylo2NEJZOUhsZ3lRSUh2TC1hSkpnakQtY1N5VE4wOUFTeTFZajZCSlVDNW9LdTNNNGt3UFVIdnVyZU96NWNfQnBXZnJITDJIQzZBWmx3aFdUUXkxcVJXVVNOMFhVd1VwVklfQjcwd1VxZS1jbXhZWHQzVFhZazhESFlKS1JEUVZrLVlYek5iMW82R1RHUExVV3JSYUFfNVHSAbYBQVVfeXFMUHpfd2xIa0dfSWM1RjhQUDJxNXY1bmtreVIxeE5xN2Z4cEtWaFM5c2RXTURIOGc5MFlkUUpLSjF4RVltWW03cVVCUkgxTFJleTQ4NGhKR3QzRWJCUWJkQ25Zci1WZnNVck5HNmJ1VE1aWDkxc2Rwakxlb244cW9TSW5pakozdkticG5HdHo5OG1sTGNqdlh1U05lQkpfbmJzbHFZZGtFR3B4Ylh2OGlYSUNfX0djQ2c?oc=5",
       "site": "Cleveland 19 News",
       "siteUrl": "https://www.cleveland19.com"
     },
@@ -227,18 +251,6 @@
       "type": "blast",
       "title": "江苏常州夜市摊位卡式炉爆炸 - 搜狐",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVVQ0c1VfNXU2RHFPT0dSbDctOVNpSGRsbUVueTZKcEVsd1hWOVduV2NZUHNpMXBsd2VvR0JZcmxuZnFmYkh5U1NETEdTbVRsMDdKa2ExS3Eyd29OeTduRXJyTlcyYTdSZXFpejJFRmZ6QU1obGwwWHA3al8xV0Jyb0trdGlZbGM4?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-f236d151fee4",
-      "date": "2026-10-19",
-      "dateISO": "Mon, 19 Oct 2026 07:57:36 GMT",
-      "ts": 1792396656000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "新华社一句话信息量爆炸，096战略核潜艇，或已经悄悄服役了 - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY1haUmN2cGhmLTBodG5mRjQyWC1FRTM3OURMWjMtVVFkNDFiZnRCUUxwQ2RNeE5sQnhJZk9RNVJTM1hjT2NNUFBIQndreXhPMXpqaVFGdlpaNEhvX3VVUDk2ZjRwNXZuWWstTnNJN1BDVzRROVVwclJoYTRJUlFSdWVYanVEN0dlcjdVLQ?oc=5",
       "site": "搜狐",
       "siteUrl": "https://m.sohu.com"
     },
