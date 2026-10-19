@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T02:13:29.733Z",
+  "updated": "2026-10-19T02:43:37.686Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -329,14 +329,14 @@
     {
       "id": "FL-1cdc7213279c",
       "date": "2026-10-17",
-      "dateISO": "Sat, 17 Oct 2026 22:18:26 GMT",
-      "ts": 1792275506000,
+      "dateISO": "Sat, 17 Oct 2026 22:18:00 GMT",
+      "ts": 1792275480000,
       "scope": "intl",
       "type": "blast",
       "title": "苏丹首都圈地区一军事基地发生爆炸 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40MkZvQklQakhlWUxKaVJ3MnZjQ1BVZWV5N2p1WVZta3MzUzRPU295NF80YmJMUGlFRUltblpBNm83S3hSX2EtdE02QmZ2VmFnOUJqMWtoeDdVaUFUTUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BMGhEc2s5SUNfZlBxUksxZGphY0dWa2pOTFE4ZGlTbnFhUDFEaTVtc014QUNOVEk1eFdpM01xRERfa2lRaFVrWXZqUWNOeVRCd0UwTm5ETk56OHE0SGI1alliMmlKRlJZZ3hXRGJoVU9Vdw?oc=5",
       "site": "京报网",
-      "siteUrl": "https://news.bjd.com.cn"
+      "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
       "id": "FL-0aa8ad3f49f0",
@@ -385,30 +385,6 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT0NvdzFyLWpxOTZrdGFSV0RwTHlkQzFaSkRKbXN3UmZiLUdQUVIxRm02Q0pZS1dReEt4Zmp6UDRhN0phNDFvMXJmeEltNkdoNlViZ01acEFQQ1lmMEpVSGszSlJpODJYMEdwU1ZPZVIzOVpab0FhMmZsZ0RBamJFRElwbVAwaUc5bDh3VWN0TDVMNlJ5SkV5ZnpB?oc=5",
       "site": "新华网客户端",
       "siteUrl": "https://app.xinhuanet.com"
-    },
-    {
-      "id": "FL-a23c16a042db",
-      "date": "2026-10-19",
-      "dateISO": "Mon, 19 Oct 2026 01:09:25 GMT",
-      "ts": 1792372165000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "Live音乐派对，Link Plaza现场燃爆！ - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUktiSUw2SG1yUUhPZzhUM2UyUmk4UU56NDg0eFdhc3RNbmhuYW00QUJ3YVlIQlRuNnlIZUNaMUlrRk4tYk0wclFZYWJ6eWNDTGFseDhrT0tibS02cUNYNmZFc3FVZUtMTnRFb2EwN0tmT2lraXpmaDNDdDVIZWtQZXpranhfM2I0Mnlrcw?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-3d4f569efb57",
-      "date": "2026-10-19",
-      "dateISO": "Mon, 19 Oct 2026 01:09:16 GMT",
-      "ts": 1792372156000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "Link Plaza 的炫酷音乐节，现场氛围燃爆！ - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPalZvNEhaeGFITjBDSThmYzJMMkRXaGlVSE9DdHpoV3B6UTF3bUxNVkhjZjJNS0U3TDU4emJPTGQwS0JRY3l5UEZxNm9jcWxDVXFXZkFHaW1QaGtvQkxjR2ExYVIxOUZUc3R1T1N2TGk1aGZXWVF3TmphRzY2S3BYQlJDbU1uNmJZeHJvOA?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-03c638e3bd6e",
@@ -469,18 +445,6 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5naEpaTmt5bmlhUXlZdndRR2F3XzN6Z2d5aWcwdU4zRnpJWXBJX3VpVWxzRDBzQUFVRXZ4TW1lOTJQUEhCQ3NDNDFEN2FpVTRuYTh3?oc=5",
       "site": "环球网",
       "siteUrl": "https://m.huanqiu.com"
-    },
-    {
-      "id": "FL-d2fca6abea5c",
-      "date": "2026-10-16",
-      "dateISO": "Fri, 16 Oct 2026 07:44:00 GMT",
-      "ts": 1792136640000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "鞠躬道歉！日本误报称发生9.9级地震 网友吐槽无知：相当于2100万颗原子弹在广岛同时爆炸 - 驱动之家",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlTUlDcnhpV0V2WkprVmVkQlcxc19iMzRON1lRWVJHWnpVZnFmYUlYdTk2dk94Zm1CbTB0clJfcGVrRUM3dDZQNVAxQ1U5eTBqdVZlaTktUG0?oc=5",
-      "site": "驱动之家",
-      "siteUrl": "https://news.mydrivers.com"
     },
     {
       "id": "FL-9b84aa16f31e",
