@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T15:23:10.137Z",
+  "updated": "2026-10-19T15:55:41.434Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -51,16 +51,28 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-a9ca0571ca13",
+      "id": "FL-7b2538219289",
       "date": "2026-10-18",
-      "dateISO": "Sun, 18 Oct 2026 21:13:58 GMT",
-      "ts": 1792358038000,
+      "dateISO": "Sun, 18 Oct 2026 22:01:29 GMT",
+      "ts": 1792360889000,
       "scope": "intl",
       "type": "blast",
-      "title": "乌克兰首都基辅响起强烈爆炸声 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAyYTRiZnNabmJUclNQQVJfZ2Uxa2FBaXFWcVFqa2hRZ3MxTUgyWThFUVFyVTJlUGJXWG5ObWFFZnR5bHpsTGtyNmJyUnM?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://news.ifeng.com"
+      "title": "乌克兰首都基辅响起强烈爆炸声 - 中国新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45aVZYMDZjYkQydDFOZXNmZ1VOU2dObEhvd3B2MjBhM3hRc0xYOG8yYjhVVHhiamM2X0xha1ZOQU5uM2p0NXN1ZV9wYXUzdEotREVfa3Y1Rlh5aXRQYUVBVS1DNkRsX2Ni?oc=5",
+      "site": "中国新闻网",
+      "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
+      "id": "FL-c720fff59dd5",
+      "date": "2026-10-18",
+      "dateISO": "Sun, 18 Oct 2026 21:25:56 GMT",
+      "ts": 1792358756000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "伊朗称一艘违规油轮在霍尔木兹海峡南部触雷爆炸起火 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcV9qUkZUWHBjbmIxaVhTblF5Zkl2QlowWFR2eFFROW5ndFNSbUwtdU51V25wQzNockhVZWw2SHNXMmtPNVFLYmtOWm1BWElHcThBYTViM1FmRlB1anVDZURldXdKM1hneHd4aE5lTDdESjk1SGFUa01lNWtDTjV2MFdxbWVuUGV6d0NUT0YzV0Y1VW1EVXBzeDlyWEprYzNTNmU1M001TVdBS1V4VU00cUlwQ2ZDbkswZmhUNUtlNFF6eWRlRTNCOUpyWVItb1k?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-6ed984e801ae",
@@ -109,18 +121,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMQlF1c2ZJMXgybzBaWGNuZUpuc0tOTGpBVEk3aWNYV2lJZkVWQVd6Yk9JRWVrS1hqTDd5dEJBWkZwclZRQkR1TklrYUVzWEVHUnFERzNhanVlQQ?oc=5",
       "site": "上观新闻",
       "siteUrl": "https://www.jfdaily.com"
-    },
-    {
-      "id": "FL-0615dd398028",
-      "date": "2026-08-02",
-      "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
-      "ts": 1785654000000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-008d86b164a4",
@@ -195,16 +195,16 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
-      "id": "FL-0e0da9ee7a8d",
+      "id": "FL-82c7a66e006d",
       "date": "2026-10-19",
-      "dateISO": "Mon, 19 Oct 2026 14:44:34 GMT",
-      "ts": 1792421074000,
+      "dateISO": "Mon, 19 Oct 2026 15:29:00 GMT",
+      "ts": 1792423740000,
       "scope": "intl",
       "type": "blast",
-      "title": "VIDEO: Truck explosion caught on camera in Montana parking lot - dailydispatch.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdTNoRm9YeHNTcmJqYkRTeW9mbEx1X2RoQ3lJQXhZN2FYLVdqQkFaa0FMbndrZkJaSGxvOFEtUUdWVEQ5ZEZiMEMxQUxROFhHWEp3LWpiMGZRNXF2S3YyX1VILTVOWGp4akZjdHZtLVdWZ1pZdUEzTUlRMWNCaVYwcWFUcTZHd00xWUVsaG9MUklKMUJQMjhSQk5JTTAzS2tWMmFXcFdDck5EWWl4N3ZNRUtNel9IRDBFZUZLbjRhRkJYUDlaQTgw?oc=5",
-      "site": "dailydispatch.com",
-      "siteUrl": "https://dailydispatch.com"
+      "title": "2 men indicted on 18 counts each for Canton house explosion in July, Stark County court records show - WKYC",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNMHdPZUNmMjVpaTNSYzl0NjQyUFRRcjJsTVdfMFNRUUNPMnpncFhidWp2RkhxLUw5ZjFqOGU3b0hwZHZFOWs5VG0tWHo4LUpjM0tROHJYQmhSR1MtRWMwcVBFOTV4S3RDVFJJUGJnZ1NqVTJYTjkyNlJwMVV4T2JKTU80MUhHM09nMjRXMGNfd1dVeFpxVlhyOGhKb2hOSFFzUktWZHA5N1FFS3llM2FncmppRHRTOENBcm5Ub3dubldlNElxUFlHUmNCRFFLSUF2UzJUenJadlJyUFltTjJUU0xpTUZOOWlIWkNlcmNONjgwQXJ6RmVJU2JycmthVURwV2xkUC10cFBNc28?oc=5",
+      "site": "WKYC",
+      "siteUrl": "https://www.wkyc.com"
     },
     {
       "id": "FL-db31287947f8",
@@ -217,18 +217,6 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX01feG5CajJnS1lCczN2eHVwWWdDUy1GcUlMTjMyQU9iWENSblRUdE9zZXZPakE5MTFBLVR1ZGVRTm0zSVIta1ktcUg0b0RhZXcwOUFETFB5QXA5dlFDWUJlUEZCTHd5NVBqS3BjV0xSaEI1M0ZKNnNFdnJ2QjhqcGV6RWxweDRXbG1IM0VDYlQxLTJ4N2NUaQ?oc=5",
       "site": "富途牛牛",
       "siteUrl": "https://news.futunn.com"
-    },
-    {
-      "id": "FL-6c52c89bce5e",
-      "date": "2026-10-19",
-      "dateISO": "Mon, 19 Oct 2026 12:42:37 GMT",
-      "ts": 1792413757000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Opinion | The Challenger explosion and the plutonium mission that worried me - RiverheadLOCAL",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTFFoMFZOSU5fTGNldGNLMkR5WjBsbFFlM1d5WmtrV1IwT2JnSk8tVUg5MVdVRjRtWDc1VlljNTNvTDB2cGoyWDlkTkEtU3lJdDN4c3JVTTBzTS0zYlZyU2xiQ1dVbTIwVUxKTTJYdVc3U2xFSnp2QjhldmM5bGdjT3RBakw4cktpaDY4NDgtQlJFOGY1RkFQczBxWGZxWWJHMHQxN3h0am8?oc=5",
-      "site": "RiverheadLOCAL",
-      "siteUrl": "https://riverheadlocal.com"
     },
     {
       "id": "FL-604d1f55fd6f",
