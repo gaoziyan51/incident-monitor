@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T23:00:10.765Z",
+  "updated": "2026-10-19T23:22:54.883Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -183,18 +183,6 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
-      "id": "FL-4cb93b193d17",
-      "date": "2026-10-19",
-      "dateISO": "Mon, 19 Oct 2026 18:12:48 GMT",
-      "ts": 1792433568000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "明知薪资空间爆炸，雷霆为何还敢给卡森提供5年1.39亿大合同？ - 直播吧",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wWGZveWZIckc4Z3RDYWpRVDRRNURKdVFCYThuS28yeUhZUVVnQ3FTaG5hQl90UVZMLXU0UUFXUGlWcUpGQTQ4ZVEwbXc3ZXJvdlVhNzA2RG0zQmp3TUhzYm1Salk?oc=5",
-      "site": "直播吧",
-      "siteUrl": "https://m.zhibo8.cc"
-    },
-    {
       "id": "FL-604d1f55fd6f",
       "date": "2026-10-19",
       "dateISO": "Mon, 19 Oct 2026 12:21:08 GMT",
@@ -265,6 +253,18 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOUxHX2xLal9fNUhBOVpUS3lmNzljUzZESnQzd1F4SWVjLV8zZFVsSGxCYUdIQnJSUjRlMHRLT194MFIzQmkyTm4tZER0emUtTXVOdkpTUHFZbGhoT1Jqa3JIM1hDN1pjaXc2emkwOEdhZ2h3WDg1N0VhSlc4d2lGT3BxT2dOTmNuMlpRb19SRVU0WmRFQ0dFN2dqelc4NEVlamZEZzhObkxNek9KcXVqNGkxSEE?oc=5",
       "site": "UA.NEWS",
       "siteUrl": "https://ua.news"
+    },
+    {
+      "id": "FL-fc79b72c7a0e",
+      "date": "2026-10-19",
+      "dateISO": "Mon, 19 Oct 2026 03:53:23 GMT",
+      "ts": 1792382003000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "烏克蘭無人機 立陶宛上空爆炸 引來北約戰機 - 新唐人電視台",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rQTV1MklSNXNSbFRiYXk1RnRYUlJZaWdmZThKcEFGenBpQ3dGTVIxMm9ubWE3cW1GNVFpa2c3UXA0ei15V0FxOEotSmNYV0Q1Nm1NenJXVGpWYmprYzVGdtIBZkFVX3lxTFBYUEtYeTdmT0hPV3hMYzZTdjZEczVneVpWa3J4a3RuSG9jVmx3eWlDNjVvWUI3WVlwRDBtUG43d0JOdDZaNnpqM29RM254ZnMyTFdOQzliTHZLcHFYTUp1c2hVWm1pUQ?oc=5",
+      "site": "新唐人電視台",
+      "siteUrl": "https://www.ntdtv.com"
     },
     {
       "id": "FL-3ebd1fca1fd7",
