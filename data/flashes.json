@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T11:12:44.090Z",
+  "updated": "2026-10-19T11:45:30.573Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -85,18 +85,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBwSklQcWdXSmVYRWFNcVJtcU1weFNuQmFKbWQxakJ0a2h3TGVnRnRRVmpreU9YOHpSV3FScGF2emdxVWFhV3J5Mm9OZmo3Zw?oc=5",
       "site": "川观新闻",
       "siteUrl": "https://cbgc.scol.com.cn"
-    },
-    {
-      "id": "FL-c720fff59dd5",
-      "date": "2026-10-18",
-      "dateISO": "Sun, 18 Oct 2026 21:25:56 GMT",
-      "ts": 1792358756000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "伊朗称一艘违规油轮在霍尔木兹海峡南部触雷爆炸起火 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPU0QzUWdUa0gzZnpBUTJrLWNKS1dEd2ZUNDRSVDRjQUFLaEhiYnVFNmJTanNoZHhoaEN5bW8zN1ZUd0cxU1NnQmFLNEMtcDE4M0hSQnhGQ0g2Z1ZOSThOZ2dTSlcydERpQXNKMmFJOGNiVWNDWFZYTExjUUFKOHNkY09LRkhUaUJVVmJLS0NrVzRsbU5XS1ZnWVpfbE8tUkppSEI2OUdHTXZISnJYaFFYN3ZMM0dFd3FUQzFQRW45ZHo1UG9maFVzQzgwU0gzeldw?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-a9ca0571ca13",
@@ -243,16 +231,16 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
-      "id": "FL-38ddf7e8a878",
+      "id": "FL-ef9059897d62",
       "date": "2026-10-19",
-      "dateISO": "Mon, 19 Oct 2026 10:19:00 GMT",
-      "ts": 1792405140000,
+      "dateISO": "Mon, 19 Oct 2026 11:31:57 GMT",
+      "ts": 1792409517000,
       "scope": "intl",
       "type": "blast",
-      "title": "Intel plant reports suspected gas leak less than a week after fatal explosion - CTech",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LQkJ1djNRdXdBaExZVkkwaXJHLVFaTTU1VHo5RTdtU084QjI1YXB4YU5BSm16NmlGVlE5dllSMHN4c29VMENzajhWYkgxeVhFc1dHYU1La1p1RDhGU0dBU09jLXdGVkk?oc=5",
-      "site": "CTech",
-      "siteUrl": "https://www.calcalistech.com"
+      "title": "VIDEO: Truck explosion caught on camera in Billings parking lot; no injuries reported - dailydispatch.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNajVmQkRRbmZsNHRLT09QcUFjWnhmSEp0MjRFem9Pc3pOOTBhUjhEYVY1R18yYUJIVUZuTVlFanNnc29ydXlKOVhaX1RsekVGS2hwNjFOWjJqbTBmcUUtbGsxTlQ5N25TTlBTNHd4d2wyRjh2VWhsWGE2YlJLYmJWVU90SVNXaFNEaTEwa1lFUy1xb0FKR0xjdWhOLVFwSVl4d3JNcEFlSDFkUXdXOXF0eWZmTkZiaXFJUWZDX2NZV3F0Tmk1MGxv?oc=5",
+      "site": "dailydispatch.com",
+      "siteUrl": "https://dailydispatch.com"
     },
     {
       "id": "FL-d000ecdcdc07",
@@ -301,6 +289,30 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBOMlA4dUttWWpjTXMxV2toUGpkRzRUa3ZOVzhHOFF0enlXcFRJSFFNcktJT1IzV2xiQWtxLUk2T1k4XzB5aFRLNnJSSWFDdw?oc=5",
       "site": "川观新闻",
       "siteUrl": "https://cbgc.scol.com.cn"
+    },
+    {
+      "id": "FL-6d89a35073a1",
+      "date": "2026-10-19",
+      "dateISO": "Mon, 19 Oct 2026 06:46:53 GMT",
+      "ts": 1792392413000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "2026北京国际铁人三项公开赛燃爆秋日雁栖湖畔 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVE5NeHljZEQ5RVREZVVIbllQb0QycWxuSkRPazdJNWlmMk80QktOTndWaFpDQW1pQldHSGhBZ0FJU1V5QW9Pa1dCVUlCMkVoNE5ZMFRqZ2NKZXg2a3c1UWNMbmVJX2NfV0xvYkQwaW1WdlBTT2Vrd2FhR1ZBX1M0aEZ2SEdSdmhs?oc=5",
+      "site": "搜狐",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-d368ee09e0ff",
+      "date": "2026-10-19",
+      "dateISO": "Mon, 19 Oct 2026 06:07:00 GMT",
+      "ts": 1792390020000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "以色列军方公布哈马斯在营地附近布设爆炸物的计划——《耶路撒冷邮报》 - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOUxHX2xLal9fNUhBOVpUS3lmNzljUzZESnQzd1F4SWVjLV8zZFVsSGxCYUdIQnJSUjRlMHRLT194MFIzQmkyTm4tZER0emUtTXVOdkpTUHFZbGhoT1Jqa3JIM1hDN1pjaXc2emkwOEdhZ2h3WDg1N0VhSlc4d2lGT3BxT2dOTmNuMlpRb19SRVU0WmRFQ0dFN2dqelc4NEVlamZEZzhObkxNek9KcXVqNGkxSEE?oc=5",
+      "site": "UA.NEWS",
+      "siteUrl": "https://ua.news"
     },
     {
       "id": "FL-fc79b72c7a0e",
