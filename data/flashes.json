@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T15:10:00.623Z",
+  "updated": "2026-10-20T15:38:38.139Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -27,28 +27,16 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
-      "id": "FL-964edabfa65b",
+      "id": "FL-77901d06fc20",
       "date": "2026-10-20",
       "dateISO": "Tue, 20 Oct 2026 14:54:00 GMT",
       "ts": 1792508040000,
       "scope": "intl",
       "type": "blast",
-      "title": "10 years later, NW Portland marks anniversary of gas explosion that injured 8 - KPTV",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVW1lSFljZnd2THpOWFBaX2FHdHluUVN3b2N3S045QmVHclpNbk02SEgzbmFvT1o3ejF0ZjBXYmxsclB2TlhzVGpBeG5nMHBhc1RDdl84dWJwRGw2Z29McTlxVldESGM4QnAxX3ZFMEpmUjRTdUZfc3hMMk9SRXZUODd2akJMSGF3cTNQWU1zdHJOVDh4MExBZDlLX0puT2JZMVpiVzdXTFhCTDBWYXVjWDd3?oc=5",
-      "site": "KPTV",
-      "siteUrl": "https://www.kptv.com"
-    },
-    {
-      "id": "FL-608d2af765a9",
-      "date": "2026-10-20",
-      "dateISO": "Tue, 20 Oct 2026 14:54:00 GMT",
-      "ts": 1792508040000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "10 years later, NW Portland marks anniversary of gas explosion that injured 8 - Live 5 News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN054bmQ1Z1R5N0RCMU9vX3pKVkxmV1MycEJLU2c3VDYxWFdldXZBZzVkR2p5aXlSOFpxZVFwWEd4S1RGQk55MnFDRVFPcVhoei0xaW1FQ1ZOMTNjbkM0UTFEVHBmckpjUndtSkVwYWF5TXdTLWliV1lVSl9rWFdTMmdiMzkzZXBRazl4Y09JYmFDaVBLbjFyTW9kQW9SQ1lPcWR4dTRZM1lLRlBXdHhPQjZtS3ZndHZq?oc=5",
-      "site": "Live 5 News",
-      "siteUrl": "https://www.live5news.com"
+      "title": "10 years later, NW Portland marks anniversary of gas explosion that injured 8 - fox8live.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY1BZRnM2RXV3NzhsTTVaWkduYWRoYVF3QUtLaHphck1LTXc5OTJNc3ZFY0ZjTV9WOFZKYzdTX09oT0xUTzdXMDBFaHJMRktoOG9ITWNhNkJaWkg5cUNadFVSNGIyOGhMclAxQnVSc2pLNTByLWxzaVFJTktxclYxTDRqRzFrdmtjN0FJOUt2cUplNDBHczdDS3djYzFEZmxxWDZaMng1TVAwTkZ4Wk9aZEpBM0c4eG8?oc=5",
+      "site": "fox8live.com",
+      "siteUrl": "https://www.fox8live.com"
     },
     {
       "id": "FL-2eb400cc3093",
@@ -63,6 +51,18 @@
       "siteUrl": "https://www.wlbt.com"
     },
     {
+      "id": "FL-608d2af765a9",
+      "date": "2026-10-20",
+      "dateISO": "Tue, 20 Oct 2026 14:54:00 GMT",
+      "ts": 1792508040000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "10 years later, NW Portland marks anniversary of gas explosion that injured 8 - Live 5 News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN054bmQ1Z1R5N0RCMU9vX3pKVkxmV1MycEJLU2c3VDYxWFdldXZBZzVkR2p5aXlSOFpxZVFwWEd4S1RGQk55MnFDRVFPcVhoei0xaW1FQ1ZOMTNjbkM0UTFEVHBmckpjUndtSkVwYWF5TXdTLWliV1lVSl9rWFdTMmdiMzkzZXBRazl4Y09JYmFDaVBLbjFyTW9kQW9SQ1lPcWR4dTRZM1lLRlBXdHhPQjZtS3ZndHZq?oc=5",
+      "site": "Live 5 News",
+      "siteUrl": "https://www.live5news.com"
+    },
+    {
       "id": "FL-ddd6288cb229",
       "date": "2026-10-20",
       "dateISO": "Tue, 20 Oct 2026 14:54:00 GMT",
@@ -73,6 +73,18 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSUpiVVg3VmtYaHpMOVE1QlF3b2RzeGhKSms2RjJSSjhvUmE1STRNd1oteXM2TzVhblBpTWZpelBTYUFKNU1Cb3h2UTFPTXBjWndZQUJ4OS0zdU0teGhrZllXdDkxd0dXc3ZLa0VObXdhZlEta2ZUX09XTWlZNUlmdGpGeGxyTDFaeWhmUEYxRmdHSy14NEZuTG1JXzExRENzQkxUVWtTMTktTjNwMS00ME5VOA?oc=5",
       "site": "FOX19 | Cincinnati",
       "siteUrl": "https://www.fox19.com"
+    },
+    {
+      "id": "FL-0e6acb2e6737",
+      "date": "2026-10-20",
+      "dateISO": "Tue, 20 Oct 2026 14:54:00 GMT",
+      "ts": 1792508040000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "10 years later, NW Portland marks anniversary of gas explosion that injured 8 - WTVG",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV3RLVHViWEVLSFBfa21OYmFVUWZFRjNLNUtDajVHaGQ0Nk9CVGEwR21mblBhZnNBWmE5Uy10dlBERUtXWUVheEZLMlN3WU9kRTlmXzFiZlVNd1pOUERFNFh3dVRHcVFpcmlCUVpTelg1aHl2T3AwaV8tXzZqdXRUc3dTTHdmcjRJWHZnVFM1cmR1Tm5kZzNhME45eVFLYWo5N0VQSHhjLTRrN201MGJmSUFpdw?oc=5",
+      "site": "WTVG",
+      "siteUrl": "https://www.13abc.com"
     },
     {
       "id": "FL-a95098160d48",
@@ -87,6 +99,18 @@
       "siteUrl": "https://www.wbtv.com"
     },
     {
+      "id": "FL-f0a2e60f6cb4",
+      "date": "2026-10-20",
+      "dateISO": "Tue, 20 Oct 2026 14:54:00 GMT",
+      "ts": 1792508040000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "10 years later, NW Portland marks anniversary of gas explosion that injured 8 - KTTC",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYTFucGdvWkFtS1hpS3BVaW9SOXJGX1NZS3ZkV3dyMi10NXloNmxPSkdpYXZWaExNNlR1ekQ0Nk1IdkxvRXN0NXd1bU81N3k2VHY5a0E5Ml9OLWllQXd0QVB1SnNXamJtMTl4b1pCb3pkQ1hDVTFsOXR5WHJ5aWJRTFhqcXdZMVlqRVFZenZpV3RxV09HMnNtTS1HQmtBS3ZxNzRmTllTOHY5dUktMGVfNGd3?oc=5",
+      "site": "KTTC",
+      "siteUrl": "https://www.kttc.com"
+    },
+    {
       "id": "FL-d0e2b7365b0d",
       "date": "2026-10-20",
       "dateISO": "Tue, 20 Oct 2026 14:54:00 GMT",
@@ -99,26 +123,26 @@
       "siteUrl": "https://www.wect.com"
     },
     {
-      "id": "FL-9833738f5514",
+      "id": "FL-964edabfa65b",
       "date": "2026-10-20",
-      "dateISO": "Tue, 20 Oct 2026 13:40:38 GMT",
-      "ts": 1792503638000,
-      "scope": "dom",
+      "dateISO": "Tue, 20 Oct 2026 14:52:00 GMT",
+      "ts": 1792507920000,
+      "scope": "intl",
       "type": "blast",
-      "title": "“武汉大学生在外租房因室友电瓶燃爆全身烧伤”案二审将开庭 伤者父亲：儿子一审被判担责15%责任过高 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcTQxU0J5cmVNeU9EMTg3YTBsd1ZvV0hqUjZGcFJOV0k3dHlfbmd6b0VJdzI0cXRqUlYxN3pQcE1xSlZCcURhaXEzQzZEQlhOX3lySTAxVlFLTUpwMjlZVVo2a3prUENuWDFOR0VMaE5DQlVBZ3dsS0x5dl82U01NMTNGUlNxZFE0MTdj?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://www.sohu.com"
+      "title": "10 years later, NW Portland marks anniversary of gas explosion that injured 8 - KPTV",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaDVhaGNfdFNBb2I4dmlKSmFkUmxWRGpWT0NHZUUxaEdLSXBwTEhfd1dfOC1XVGxhR0N6N1hDRU53clIwTEpvbVlDYThGR2VBQ0Y5SU9Pa20wMUVrQWI0U1lfUXpodld0cG5XLXF5UlFUSE80Sy1qazhxdDA2RkVra0NXMWhOZTEwVF9RS3FGaUNjNG85NHUwQnBUd3FmODE2ZTh2NlJXTHFrQdIBvgFBVV95cUxNd2JJeHRsVFl0N2FudTV6T0R4SHViMHZKSGtYM21uWEtvTTZSajNYN3Y5eXVfZ3BNVEN5VXR5a0wzNlppbnI3TExmN3lMYUVkRjdoY0lFcy01NG9rNEg3SC1WWW83NUNOTEs0SEVpS0o0eXJTaVpMUTJoT0Fzd25fdlZCQ3ctUGFUMExqMlZ6NlZaZlM3clpXVkdWazZ5RTEwMzFMLXlNUkRESDd6UHZvMWc4aHZsdVNuc2hITHRn?oc=5",
+      "site": "KPTV",
+      "siteUrl": "https://www.kptv.com"
     },
     {
-      "id": "FL-6130953e0fde",
+      "id": "FL-c733fbb71d5a",
       "date": "2026-10-20",
-      "dateISO": "Tue, 20 Oct 2026 13:40:00 GMT",
-      "ts": 1792503600000,
+      "dateISO": "Tue, 20 Oct 2026 14:14:50 GMT",
+      "ts": 1792505690000,
       "scope": "dom",
       "type": "blast",
-      "title": "“武汉大学生在外租房因室友电瓶燃爆全身烧伤”案二审将开庭伤者父亲：儿子一审被判担责15%责任过高 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoOWFiX1MwaTU4MmFBVk1yTnZhU2dVelNBTUE1ZXZOa3hkUTQwTWNmSThiZE5ESzlldzRHZlRNV0E4d3RqRG5ZMFA2allDZHNzbUpwbWMwTWYtV0tqWDVSVWVNOXNJWHpsZDZrNHNLanFJR1RDZjYxYndWRnRkclk?oc=5",
+      "title": "“武汉21岁男大学生因室友电动车燃爆，全身90%烧伤案”二审将开庭，伤者父亲：儿子一审被判担责15%责任过高 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Ca3RFU2d3UFJfdnVLVFloMUlxOEstX0VuTWVBMDBTNjhCbUc5VE5pQXYzMnpwUExmd2JqOWFsUGp4SF91YzhzV09rRmFkSllvR2VfVWtDaWVBU3p1MF82ZjFaZ1JsY0lGOHhoNXpDblRZazRtYmc?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
     },
@@ -291,18 +315,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-9fdf5065c1fd",
-      "date": "2026-10-18",
-      "dateISO": "Sun, 18 Oct 2026 13:46:00 GMT",
-      "ts": 1792331160000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "焦点访谈丨火灾、爆炸、污染风险如影随形……化工厂何以建在群众生活区？ - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zdC1FTVpnVUdma3VaWXdyR2NDRFJBZEMwMVZXZERvRVdOcTI0cXVKU0FIMHRQbTFjVE9ja2xjeDAzUkQzLU9iOUlGSXh4VWJGX1FQV0toM0wxc3Rla29jcF8zaEZwS21JTW1kTF9aVlJZUQ?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://xinwen.bjd.com.cn"
-    },
-    {
       "id": "FL-1a9535f1bc4e",
       "date": "2026-10-18",
       "dateISO": "Sun, 18 Oct 2026 08:10:00 GMT",
@@ -313,6 +325,18 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMQlF1c2ZJMXgybzBaWGNuZUpuc0tOTGpBVEk3aWNYV2lJZkVWQVd6Yk9JRWVrS1hqTDd5dEJBWkZwclZRQkR1TklrYUVzWEVHUnFERzNhanVlQQ?oc=5",
       "site": "上观新闻",
       "siteUrl": "https://www.jfdaily.com"
+    },
+    {
+      "id": "FL-0615dd398028",
+      "date": "2026-08-02",
+      "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
+      "ts": 1785654000000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-5e735aebc1c3",
