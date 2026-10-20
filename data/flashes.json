@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T03:14:24.661Z",
+  "updated": "2026-10-20T03:44:59.958Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -39,6 +39,30 @@
       "siteUrl": "https://finance.eastmoney.com"
     },
     {
+      "id": "FL-1a4496d14022",
+      "date": "2026-10-20",
+      "dateISO": "Tue, 20 Oct 2026 02:53:31 GMT",
+      "ts": 1792464811000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Harvard Women’s Hockey Opens Season With Offensive Explosion, Sweeps Holy Cross - The Harvard Crimson",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMldhX2pqUUUwUnhteDlEMUZqaVpZeFJjcWpQS1JrbmVRUzdBMWs3clNTbnQ4NE1iSGt6NFVzUW8yWDhLN1FGQmRYNGgwc3haVXRfRDlHY3ZwR2hkVU14RFVoRllRYl9ESnB6VEtOMm9iRktsWnhVb2M0WWtuT1Bsbm1MRUxsT010REgyYUVBZ2VZVkwzb1UyYVRyQUxLLS1oVTdOUUZvelhJZlVx?oc=5",
+      "site": "The Harvard Crimson",
+      "siteUrl": "https://www.thecrimson.com"
+    },
+    {
+      "id": "FL-085a6b4d67fc",
+      "date": "2026-10-20",
+      "dateISO": "Tue, 20 Oct 2026 02:41:00 GMT",
+      "ts": 1792464060000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "北溪爆炸案开庭，美俄欧三赢方案落空，三重锁困住德国能源抉择 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ0hnN0xMWHoyUTFjTngyVXo5UXZVT0t3ckhSLXJMbHNqclZQOHQ3a3lRT1ZJRVNjZlU5N2ZfR2hwdlQ0OTBsZ1VMQlZxTHZCZV84YllQcFhFaDlUb08yZno3eHJRZGZNd2c2OVplU1JLTG9XQ1RsVFQ2eWg1RzhsVXJPVk9EVk9Xck9VQg?oc=5",
+      "site": "搜狐",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-cfd9d0da6d7d",
       "date": "2026-10-20",
       "dateISO": "Tue, 20 Oct 2026 01:58:00 GMT",
@@ -61,6 +85,18 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CYUVnVi1JRnI5QXRzX2dwRlozRWl0S0ljVmh2Rlhra0dDUlFKS1JBSzI2UWgydUFSdXY4ZVR0U1c3VC1aTTNOdG9XZHlVRWdyWHdncExBaFNObFhYNzdycTgwU21fSWdXWTZTVWE2NVc?oc=5",
       "site": "中华网",
       "siteUrl": "https://news.china.com"
+    },
+    {
+      "id": "FL-71cffd8de81a",
+      "date": "2026-10-20",
+      "dateISO": "Tue, 20 Oct 2026 00:21:00 GMT",
+      "ts": 1792455660000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "10 years later, NW 23rd explosion serves as reminder for fire crews on gas leak calls - KGW",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNWhrYTg3Qk9kdG5nVUtnbGJwOEtGOURybFhXZGkyMDRMUDRneWgwREdPcjNYUHFSVk9JVDVaWU5qV1kwUk80eXk3TndjLWxXU05QWmFCZXlmeFF5NEJCSV9wU2FidUc2WU9Qa2lDRUJ4Mkw4VlI0bFNjc2lNOHI3Y0M2ckN3RDV1RkZRclNHclVFaFdGN09iZFFmc2dnbjBlTldCVEZWNGdMWjFINlBuS1hIdnlRTkFhRTVRQkV2azlZVzdVSjZpbEFwb0VNQmxmRjVzb2dSVVlGUWoxekVVcw?oc=5",
+      "site": "KGW",
+      "siteUrl": "https://www.kgw.com"
     },
     {
       "id": "FL-622b0601ec92",
@@ -125,14 +161,14 @@
     {
       "id": "FL-9fdf5065c1fd",
       "date": "2026-10-18",
-      "dateISO": "Sun, 18 Oct 2026 13:46:00 GMT",
-      "ts": 1792331160000,
+      "dateISO": "Sun, 18 Oct 2026 13:46:08 GMT",
+      "ts": 1792331168000,
       "scope": "dom",
       "type": "blast",
       "title": "焦点访谈丨火灾、爆炸、污染风险如影随形……化工厂何以建在群众生活区？ - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zdC1FTVpnVUdma3VaWXdyR2NDRFJBZEMwMVZXZERvRVdOcTI0cXVKU0FIMHRQbTFjVE9ja2xjeDAzUkQzLU9iOUlGSXh4VWJGX1FQV0toM0wxc3Rla29jcF8zaEZwS21JTW1kTF9aVlJZUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBENHlaV2Vhck5IeldKSlI0MlN1SjJFWmUyN2NIbGVXVG9nTlEtMTF5bnJZS2daR1ZoY1RRSml1MVdCcThMUXlJekQtS3lrMFFnRFVwMDl5UkVaNTVoUlE?oc=5",
       "site": "京报网",
-      "siteUrl": "https://xinwen.bjd.com.cn"
+      "siteUrl": "https://news.bjd.com.cn"
     },
     {
       "id": "FL-1a9535f1bc4e",
@@ -171,6 +207,18 @@
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
+      "id": "FL-9599d3280828",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 13:10:00 GMT",
+      "ts": 1790428200000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 海报新闻",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ROFVYb0tiQ1U4U1lYZnNqNXVxT0dsOFlacHhVMlJ3LVB3QWVyODR6LXZuamRqTThucEJXZWJRWEJKa1laam5mN1BTY2d3WmZi?oc=5",
+      "site": "海报新闻",
+      "siteUrl": "https://hb.dzwww.com"
+    },
+    {
       "id": "FL-5e735aebc1c3",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
@@ -181,6 +229,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlemFCa3lteDlkZERLTXRLMHhpeTIzNmFqanFBczVPaFNjQjVxOHNJNm54Tkhua1FqOGtuaUhBLWdRSWxXaFRoZThQZXJqclRIV1pUaTNhcjhHU0dwRzA1WXNQc2ZOVEhXX0Z1NUVBcnBUalJRWkE3ZlE0S3NOaXM?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-e1c81d311eae",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
+      "ts": 1790406000000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 旅日侨网",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVEJFR0pjczI1RWcwMmdKMGVMbnVHUzNLeGJXWlcxeDMyZzFybFJrb2dOTG9mUmJjQU1kM2hNRGx1Z0drQkhjRExydURDejZYczVvQlNVR0VHOGpJOEsxU0pESWlxWHpRc2RJMXdRT0g0TUdfY2F4VG5tcVphUnpuLUlqYW1WVGNUWFE?oc=5",
+      "site": "旅日侨网",
+      "siteUrl": "https://www.jpchinapress.com"
     },
     {
       "id": "FL-96a4dc3e9d46",
@@ -229,18 +289,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBOMlA4dUttWWpjTXMxV2toUGpkRzRUa3ZOVzhHOFF0enlXcFRJSFFNcktJT1IzV2xiQWtxLUk2T1k4XzB5aFRLNnJSSWFDdw?oc=5",
       "site": "川观新闻",
       "siteUrl": "https://cbgc.scol.com.cn"
-    },
-    {
-      "id": "FL-b042a088a326",
-      "date": "2026-08-03",
-      "dateISO": "Mon, 03 Aug 2026 07:00:00 GMT",
-      "ts": 1785740400000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "巴基斯坦西北部发生爆炸致14人死亡 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-c39833bbfc21",
