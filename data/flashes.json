@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T11:32:35.073Z",
+  "updated": "2026-10-20T12:03:06.482Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -29,8 +29,8 @@
     {
       "id": "FL-e2d547402ae4",
       "date": "2026-10-20",
-      "dateISO": "Tue, 20 Oct 2026 11:09:16 GMT",
-      "ts": 1792494556000,
+      "dateISO": "Tue, 20 Oct 2026 11:09:20 GMT",
+      "ts": 1792494560000,
       "scope": "dom",
       "type": "blast",
       "title": "[流言板]肌肉爆炸！达龙-霍姆斯二世Ins：做好基础的工作，第三年 - 虎扑体育",
@@ -195,18 +195,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-008d86b164a4",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 15:30:00 GMT",
-      "ts": 1790436600000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "雅典发生爆炸，1名女游客遇难，5人失踪，事发卫城脚下，靠近奥林匹亚宙斯神庙 - 川观新闻",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wT2VkbnNVQzB1dlFrSUpwQU5VbElha1Fyc3h0LVI1WFBMSldqQkRfMWkyeV94b1pPS0w5eFQtT1NxQjdRSkRkbm5yUE5iZw?oc=5",
-      "site": "川观新闻",
-      "siteUrl": "https://cbgc.scol.com.cn"
-    },
-    {
       "id": "FL-5e735aebc1c3",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
@@ -253,18 +241,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBOMlA4dUttWWpjTXMxV2toUGpkRzRUa3ZOVzhHOFF0enlXcFRJSFFNcktJT1IzV2xiQWtxLUk2T1k4XzB5aFRLNnJSSWFDdw?oc=5",
       "site": "川观新闻",
       "siteUrl": "https://cbgc.scol.com.cn"
-    },
-    {
-      "id": "FL-c39833bbfc21",
-      "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 22:10:00 GMT",
-      "ts": 1790374200000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 环球网",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5naEpaTmt5bmlhUXlZdndRR2F3XzN6Z2d5aWcwdU4zRnpJWXBJX3VpVWxzRDBzQUFVRXZ4TW1lOTJQUEhCQ3NDNDFEN2FpVTRuYTh3?oc=5",
-      "site": "环球网",
-      "siteUrl": "https://m.huanqiu.com"
     }
   ]
 }
