@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T00:12:17.162Z",
+  "updated": "2026-10-20T00:56:57.136Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -101,14 +101,14 @@
     {
       "id": "FL-9fdf5065c1fd",
       "date": "2026-10-18",
-      "dateISO": "Sun, 18 Oct 2026 13:46:00 GMT",
-      "ts": 1792331160000,
+      "dateISO": "Sun, 18 Oct 2026 13:46:08 GMT",
+      "ts": 1792331168000,
       "scope": "dom",
       "type": "blast",
       "title": "焦点访谈丨火灾、爆炸、污染风险如影随形……化工厂何以建在群众生活区？ - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zdC1FTVpnVUdma3VaWXdyR2NDRFJBZEMwMVZXZERvRVdOcTI0cXVKU0FIMHRQbTFjVE9ja2xjeDAzUkQzLU9iOUlGSXh4VWJGX1FQV0toM0wxc3Rla29jcF8zaEZwS21JTW1kTF9aVlJZUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBENHlaV2Vhck5IeldKSlI0MlN1SjJFWmUyN2NIbGVXVG9nTlEtMTF5bnJZS2daR1ZoY1RRSml1MVdCcThMUXlJekQtS3lrMFFnRFVwMDl5UkVaNTVoUlE?oc=5",
       "site": "京报网",
-      "siteUrl": "https://xinwen.bjd.com.cn"
+      "siteUrl": "https://news.bjd.com.cn"
     },
     {
       "id": "FL-1a9535f1bc4e",
@@ -133,6 +133,18 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wT2VkbnNVQzB1dlFrSUpwQU5VbElha1Fyc3h0LVI1WFBMSldqQkRfMWkyeV94b1pPS0w5eFQtT1NxQjdRSkRkbm5yUE5iZw?oc=5",
       "site": "川观新闻",
       "siteUrl": "https://cbgc.scol.com.cn"
+    },
+    {
+      "id": "FL-08d5beb77eeb",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
+      "ts": 1790406000000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 新华网客户端",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaEUzM21qMG8zSnRRcy1iYjkwOUxBeWEyRnVHaVNZcmhIZ0FwS0lUYWhndmd0WHp1ZHpxVTZSYUlMLUVGVWxseUcwOEprSHA4MExzeFFxVFV3OVlacVc3dTVvMi1VUUVsVXlTb3I1bWlUS3dDUlBzcEs4allydkhIdFU3ckVMZjJPVXQ0ZWJQWkFWNEpITlhnTlR3?oc=5",
+      "site": "新华网客户端",
+      "siteUrl": "https://app.xinhuanet.com"
     },
     {
       "id": "FL-5e735aebc1c3",
@@ -195,18 +207,6 @@
       "siteUrl": "https://m.voc.com.cn"
     },
     {
-      "id": "FL-4ef8e2dc5149",
-      "date": "2026-10-19",
-      "dateISO": "Mon, 19 Oct 2026 10:08:47 GMT",
-      "ts": 1792404527000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "'United in grief': Canadian Prime Minister leads moment of silence for those killed, injured in military base explosion - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeEZZV2h4VWI3S1VtLThtNmpFZ01JcHJwTGZ2LTFFbWhKUFdWaGpma0Zfak1jZEdsVzJjdkxOc2doX1lUdjI0Y0lvMEF6Qi0yd01LLW9QdkhUNXlyeU9KcGhhQW90S0FXWGFiek9pbmU3eFl2aUJ2MWhiaXlIaWVKX2UyREYxcm5SNHBVSG9scEZkTzlST25BQlF1VURtendrM05LdjVGaTNVX0M3TzgtdTNVOHN3RDd0RlHSAb8BQVVfeXFMUEthSVV2blJaTFRBVnhNMWg2cFM2bXRVZkFpajdMUlFqSTNzYjJNQWw2djRpZXRFZEg2ajdjMVlXUm9yRlcyUHJ3ZEw0QjliZVVrOXNCNTQ5SmUwNUJxeF8wbXducVJRbERGV01QdldhXzM2UkxOWkdBcURpUUFmVldzMXhPQy1RYTd2ZnJYX2hRRGtEOFZlSUdRWEp0SnZrZnpuSGNtRm53ekZYNXZkS3Fqa3BEOFhIN3dMWE81ajg?oc=5",
-      "site": "ABC News - Breaking News, Latest News and Videos",
-      "siteUrl": "https://abcnews.com"
-    },
-    {
       "id": "FL-6219c5a90f8f",
       "date": "2026-10-19",
       "dateISO": "Mon, 19 Oct 2026 07:35:22 GMT",
@@ -255,18 +255,6 @@
       "siteUrl": "https://ua.news"
     },
     {
-      "id": "FL-fc79b72c7a0e",
-      "date": "2026-10-19",
-      "dateISO": "Mon, 19 Oct 2026 03:53:23 GMT",
-      "ts": 1792382003000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "烏克蘭無人機 立陶宛上空爆炸 引來北約戰機 - 新唐人電視台",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rQTV1MklSNXNSbFRiYXk1RnRYUlJZaWdmZThKcEFGenBpQ3dGTVIxMm9ubWE3cW1GNVFpa2c3UXA0ei15V0FxOEotSmNYV0Q1Nm1NenJXVGpWYmprYzVGdtIBZkFVX3lxTFBYUEtYeTdmT0hPV3hMYzZTdjZEczVneVpWa3J4a3RuSG9jVmx3eWlDNjVvWUI3WVlwRDBtUG43d0JOdDZaNnpqM29RM254ZnMyTFdOQzliTHZLcHFYTUp1c2hVWm1pUQ?oc=5",
-      "site": "新唐人電視台",
-      "siteUrl": "https://www.ntdtv.com"
-    },
-    {
       "id": "FL-3ebd1fca1fd7",
       "date": "2026-10-12",
       "dateISO": "Mon, 12 Oct 2026 16:14:23 GMT",
@@ -289,6 +277,18 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5naEpaTmt5bmlhUXlZdndRR2F3XzN6Z2d5aWcwdU4zRnpJWXBJX3VpVWxzRDBzQUFVRXZ4TW1lOTJQUEhCQ3NDNDFEN2FpVTRuYTh3?oc=5",
       "site": "环球网",
       "siteUrl": "https://m.huanqiu.com"
+    },
+    {
+      "id": "FL-d2fca6abea5c",
+      "date": "2026-10-16",
+      "dateISO": "Fri, 16 Oct 2026 07:44:00 GMT",
+      "ts": 1792136640000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "鞠躬道歉！日本误报称发生9.9级地震 网友吐槽无知：相当于2100万颗原子弹在广岛同时爆炸 - 驱动之家",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlTUlDcnhpV0V2WkprVmVkQlcxc19iMzRON1lRWVJHWnpVZnFmYUlYdTk2dk94Zm1CbTB0clJfcGVrRUM3dDZQNVAxQ1U5eTBqdVZlaTktUG0?oc=5",
+      "site": "驱动之家",
+      "siteUrl": "https://news.mydrivers.com"
     }
   ]
 }
