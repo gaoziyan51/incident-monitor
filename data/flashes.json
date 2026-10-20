@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-20T09:09:28.530Z",
+  "updated": "2026-10-20T09:37:23.309Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-7d8c45ca5bdc",
+      "date": "2026-10-14",
+      "dateISO": "Wed, 14 Oct 2026 17:45:00 GMT",
+      "ts": 1791999900000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "科学家捕获最远快速射电暴，源头位于大爆炸后约三十亿年星系 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kSWJwQ1U0U1F1RG9jZlIyVWhrZW1RUF93VjZETkc4bVVsZEplV2U1M1JPR3FFNGNlWTZaVWJQNDItOE9sOGg4WHV4blFITWVzZnNwemxiLUVGTEQwM3JmSXpUbF92d1lxYlI2TjdxZ0E?oc=5",
+      "site": "中国科技网",
+      "siteUrl": "https://www.stdaily.com"
+    },
     {
       "id": "FL-50a5657f21ea",
       "date": "2026-10-14",
@@ -99,30 +111,6 @@
       "siteUrl": "https://www.kten.com"
     },
     {
-      "id": "FL-1a4496d14022",
-      "date": "2026-10-20",
-      "dateISO": "Tue, 20 Oct 2026 02:53:31 GMT",
-      "ts": 1792464811000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Harvard Women’s Hockey Opens Season With Offensive Explosion, Sweeps Holy Cross - The Harvard Crimson",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMldhX2pqUUUwUnhteDlEMUZqaVpZeFJjcWpQS1JrbmVRUzdBMWs3clNTbnQ4NE1iSGt6NFVzUW8yWDhLN1FGQmRYNGgwc3haVXRfRDlHY3ZwR2hkVU14RFVoRllRYl9ESnB6VEtOMm9iRktsWnhVb2M0WWtuT1Bsbm1MRUxsT010REgyYUVBZ2VZVkwzb1UyYVRyQUxLLS1oVTdOUUZvelhJZlVx?oc=5",
-      "site": "The Harvard Crimson",
-      "siteUrl": "https://www.thecrimson.com"
-    },
-    {
-      "id": "FL-cfd9d0da6d7d",
-      "date": "2026-10-20",
-      "dateISO": "Tue, 20 Oct 2026 01:58:00 GMT",
-      "ts": 1792461480000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Two Collinsville homes damaged by fire after reported car explosion - KXII",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbE1xbHdUVGNxTlQtT2Q3NWFCLVlPM2FweWJ5T1Z2MXBRenM5ZlJhbUNuSTJHOGVsajdZMWppZmozZ245ekZGRnJIbzdCV1dxLTZuVEI1ZzNLNGdzaGFhdmt5M0NJSVVjY0xkUzVMWTdzN2czZTFIZXZndHBFMGluc0NjdmhZTmIyVHdIcXpJbFFObXBJMkJvVFhaaVJFU2VRbHc?oc=5",
-      "site": "KXII",
-      "siteUrl": "https://www.kxii.com"
-    },
-    {
       "id": "FL-17624c2fad38",
       "date": "2026-10-20",
       "dateISO": "Tue, 20 Oct 2026 01:30:39 GMT",
@@ -133,18 +121,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CYUVnVi1JRnI5QXRzX2dwRlozRWl0S0ljVmh2Rlhra0dDUlFKS1JBSzI2UWgydUFSdXY4ZVR0U1c3VC1aTTNOdG9XZHlVRWdyWHdncExBaFNObFhYNzdycTgwU21fSWdXWTZTVWE2NVc?oc=5",
       "site": "中华网",
       "siteUrl": "https://news.china.com"
-    },
-    {
-      "id": "FL-622b0601ec92",
-      "date": "2026-10-13",
-      "dateISO": "Tue, 13 Oct 2026 21:15:05 GMT",
-      "ts": 1791926105000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "沙特联军确认空袭也门 利雅得传出爆炸 军方称拦截多枚导弹 - RFI",
-      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQdzk2WjhjWW9BUVdQSHN2QzlKOHVOQVlkWGpoU3ZMY3NNUW9fZnBPdmhsRGQwb0ZIQ2VVMDRkMmg3LW50NUh2VzZOZlJpX3NvV1ppMTM0bjBkQmJXMEtiVE9IZVZ4MUFzbGVfN1loUUlwdlA5UVVfQVRVX0NOeTdDZHEyZ20tbkx0NnpkQk80YWNqSFR5M1lQNHVBMjFFbkREd25JVUp1TnQxOWtVaXNON2NSTl9qdjFVLUtLZGpkQTVSaWhPS2htZUNGWG9KZU5Vb0Q0Zmg2ZGs1Y2lWSGpadE9PeTZDdmFORWFsU3Q1MkpBaUdlaWpEbVp2bXRKMVhKa0pWS1R1Y3Vsc0dVcHE0SnFhS21GaHZjMVI0eGE0dEQzX2k2SlgzVEJTd2JVdUZVMFVORXdCX2F1WG92cHBubmt0SGZmNjlDRk5uX2dWYnotRlAxTWJJNEVBV2FyOVE1WXJaeE0zSVNZV2hCT1pjRzV4VDI1cHJ4M2l5a0pRM1FYRmRzMExEX1hwTkhhU3U0LVc0WmVkV2t0QQ?oc=5",
-      "site": "RFI",
-      "siteUrl": "https://www.rfi.fr"
     },
     {
       "id": "FL-385dd58b908a",
@@ -289,18 +265,6 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5naEpaTmt5bmlhUXlZdndRR2F3XzN6Z2d5aWcwdU4zRnpJWXBJX3VpVWxzRDBzQUFVRXZ4TW1lOTJQUEhCQ3NDNDFEN2FpVTRuYTh3?oc=5",
       "site": "环球网",
       "siteUrl": "https://m.huanqiu.com"
-    },
-    {
-      "id": "FL-9b84aa16f31e",
-      "date": "2026-10-16",
-      "dateISO": "Fri, 16 Oct 2026 03:40:53 GMT",
-      "ts": 1792122053000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "燃爆周末！2026全民电竞嘉年华即将开启， 八省冠军齐聚普陀对决2026-10-16 - 上海市人民政府",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTndzVWl0bjAyeHYtLTdLTmNHOUNDNlNoeGlBcXRlU3dpNi1WYWlvMzM4Y0RoOTBOR1hobWJyYXIxV1hoREZJbERMdlRBcVpPU0k4ZURFZjVtN3NZc2hjNDZiNG5KaEVFdTdNdExfNW9aUkxvQmhEVGNPY3ZJNTAyYU1HTi0wb2NXNVE?oc=5",
-      "site": "上海市人民政府",
-      "siteUrl": "https://www.shanghai.gov.cn"
     }
   ]
 }
