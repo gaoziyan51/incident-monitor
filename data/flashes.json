@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T17:45:10.014Z",
+  "updated": "2026-10-20T18:10:53.159Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -51,18 +51,6 @@
       "siteUrl": "https://www.wafb.com"
     },
     {
-      "id": "FL-77901d06fc20",
-      "date": "2026-10-20",
-      "dateISO": "Tue, 20 Oct 2026 14:54:00 GMT",
-      "ts": 1792508040000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "10 years later, NW Portland marks anniversary of gas explosion that injured 8 - fox8live.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY1BZRnM2RXV3NzhsTTVaWkduYWRoYVF3QUtLaHphck1LTXc5OTJNc3ZFY0ZjTV9WOFZKYzdTX09oT0xUTzdXMDBFaHJMRktoOG9ITWNhNkJaWkg5cUNadFVSNGIyOGhMclAxQnVSc2pLNTByLWxzaVFJTktxclYxTDRqRzFrdmtjN0FJOUt2cUplNDBHczdDS3djYzFEZmxxWDZaMng1TVAwTkZ4Wk9aZEpBM0c4eG8?oc=5",
-      "site": "fox8live.com",
-      "siteUrl": "https://www.fox8live.com"
-    },
-    {
       "id": "FL-2eb400cc3093",
       "date": "2026-10-20",
       "dateISO": "Tue, 20 Oct 2026 14:54:00 GMT",
@@ -73,42 +61,6 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQVdBanROdVJiaEpqQnVPeWRLUDZLTXd4LTREVHQ1cUwyLUk3NHQyd1dlRnEtbDdrNnVKVGQtMjA0NjdsUGN2eVV5dzR3MGI2c3RVc3BPNmh6R1F2T3RCQVoxSjd5US1BazYwRkxLMmFwVzZfM0hXbHN1RVl5RC0wRWhaT2trLUV2eTVxNnBlcFIySUQ5cFBwXzYtLUIwUXRSYjltdHMzNTdRQjZFTkkxY2tR?oc=5",
       "site": "WLBT",
       "siteUrl": "https://www.wlbt.com"
-    },
-    {
-      "id": "FL-608d2af765a9",
-      "date": "2026-10-20",
-      "dateISO": "Tue, 20 Oct 2026 14:54:00 GMT",
-      "ts": 1792508040000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "10 years later, NW Portland marks anniversary of gas explosion that injured 8 - Live 5 News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN054bmQ1Z1R5N0RCMU9vX3pKVkxmV1MycEJLU2c3VDYxWFdldXZBZzVkR2p5aXlSOFpxZVFwWEd4S1RGQk55MnFDRVFPcVhoei0xaW1FQ1ZOMTNjbkM0UTFEVHBmckpjUndtSkVwYWF5TXdTLWliV1lVSl9rWFdTMmdiMzkzZXBRazl4Y09JYmFDaVBLbjFyTW9kQW9SQ1lPcWR4dTRZM1lLRlBXdHhPQjZtS3ZndHZq?oc=5",
-      "site": "Live 5 News",
-      "siteUrl": "https://www.live5news.com"
-    },
-    {
-      "id": "FL-ddd6288cb229",
-      "date": "2026-10-20",
-      "dateISO": "Tue, 20 Oct 2026 14:54:00 GMT",
-      "ts": 1792508040000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "10 years later, NW Portland marks anniversary of gas explosion that injured 8 - FOX19 | Cincinnati",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSUpiVVg3VmtYaHpMOVE1QlF3b2RzeGhKSms2RjJSSjhvUmE1STRNd1oteXM2TzVhblBpTWZpelBTYUFKNU1Cb3h2UTFPTXBjWndZQUJ4OS0zdU0teGhrZllXdDkxd0dXc3ZLa0VObXdhZlEta2ZUX09XTWlZNUlmdGpGeGxyTDFaeWhmUEYxRmdHSy14NEZuTG1JXzExRENzQkxUVWtTMTktTjNwMS00ME5VOA?oc=5",
-      "site": "FOX19 | Cincinnati",
-      "siteUrl": "https://www.fox19.com"
-    },
-    {
-      "id": "FL-964edabfa65b",
-      "date": "2026-10-20",
-      "dateISO": "Tue, 20 Oct 2026 14:52:00 GMT",
-      "ts": 1792507920000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "10 years later, NW Portland marks anniversary of gas explosion that injured 8 - KPTV",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaDVhaGNfdFNBb2I4dmlKSmFkUmxWRGpWT0NHZUUxaEdLSXBwTEhfd1dfOC1XVGxhR0N6N1hDRU53clIwTEpvbVlDYThGR2VBQ0Y5SU9Pa20wMUVrQWI0U1lfUXpodld0cG5XLXF5UlFUSE80Sy1qazhxdDA2RkVra0NXMWhOZTEwVF9RS3FGaUNjNG85NHUwQnBUd3FmODE2ZTh2NlJXTHFrQdIBvgFBVV95cUxNd2JJeHRsVFl0N2FudTV6T0R4SHViMHZKSGtYM21uWEtvTTZSajNYN3Y5eXVfZ3BNVEN5VXR5a0wzNlppbnI3TExmN3lMYUVkRjdoY0lFcy01NG9rNEg3SC1WWW83NUNOTEs0SEVpS0o0eXJTaVpMUTJoT0Fzd25fdlZCQ3ctUGFUMExqMlZ6NlZaZlM3clpXVkdWazZ5RTEwMzFMLXlNUkRESDd6UHZvMWc4aHZsdVNuc2hITHRn?oc=5",
-      "site": "KPTV",
-      "siteUrl": "https://www.kptv.com"
     },
     {
       "id": "FL-c733fbb71d5a",
