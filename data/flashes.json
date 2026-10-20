@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T08:03:55.370Z",
+  "updated": "2026-10-20T08:35:28.064Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -25,6 +25,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qSTM2RmFMZ1EwYnlFMThoS0FheThONUk1YVptTllmR2lPX3dkUlRtWXdQQjlUSl8yWmlmTG1XcVB6OGphZWhaUXBjZ3pMVzlydmNUaUpMaDdWV1JuS1NtMUNTNEFyQQ?oc=5",
       "site": "东方财富",
       "siteUrl": "https://finance.eastmoney.com"
+    },
+    {
+      "id": "FL-61a650b94b1b",
+      "date": "2026-10-20",
+      "dateISO": "Tue, 20 Oct 2026 08:14:42 GMT",
+      "ts": 1792484082000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "沙特首都利雅得传出剧烈爆炸声 - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5PZmlZU3VaNk9PdGQ5WjdUNWRyb2hYR29BUFdwSnA5MXlwbl81NEp6RHZGajFUZGhSVGhGdHpmUTBlT0VvNXpTdmlBUQ?oc=5",
+      "site": "手机新浪网",
+      "siteUrl": "https://wap.cj.sina.cn"
     },
     {
       "id": "FL-4aff22513bd3",
@@ -133,18 +145,6 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa0g2b2FlM2NPcWJ5REUxc3NRTE54cTFYbXg5Y3ZGQkIxUWlZc2NFeTlsblZNd1ZTX0w0bU9PT0dtWHNFdnRLd044cjFhY29aYmdCVWlxVnR3M1JBa0k5V0NVMzBEV21IV3gzN29CU2RqQVdYYVNwSGhtbjJGUmY5MGNxUTlEV3haekg4TTJrb1FBYmtWUmdETWln?oc=5",
       "site": "新华网客户端",
       "siteUrl": "https://app.xinhuanet.com"
-    },
-    {
-      "id": "FL-8d41dfd03025",
-      "date": "2026-10-18",
-      "dateISO": "Sun, 18 Oct 2026 20:31:38 GMT",
-      "ts": 1792355498000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "乌克兰首都基辅响起强烈爆炸声 - 手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8wTkRCMUljUXBEaGY2NmRnaENKTWZUMnlDS251bGxCYzVXY2U2Q19WbU1vVnk0Q2poWEVKbGoyNzFEMUxENm1WbDFCcw?oc=5",
-      "site": "手机新浪网",
-      "siteUrl": "https://wap.cj.sina.cn"
     },
     {
       "id": "FL-9fdf5065c1fd",
