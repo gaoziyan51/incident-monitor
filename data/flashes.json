@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T02:16:59.286Z",
+  "updated": "2026-10-20T02:48:11.111Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -123,18 +123,6 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
-      "id": "FL-92bf5283b039",
-      "date": "2026-10-18",
-      "dateISO": "Sun, 18 Oct 2026 16:58:34 GMT",
-      "ts": 1792342714000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "实弹演练击中天然气设施引发爆炸，加拿大7名军人死亡 - 新浪新闻",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOFVJaXM2WV96WVJ2RjdRZ2RmaGFvbEJvTnF5dFR2Mnh5dFBWWTZGdlZTMlpycHNPZFYzVWV6OGVhR04ybnlQeU9BZFFfZ0c1VGExWEl3VXE0aWtoZUJEUE5LQWVGM0NRcXVGNXI2dzZUekxKSUlvYUZCTlBhVnJsVkx0SXV3YUc1ZXM2c0tUNl9rZkUt?oc=5",
-      "site": "新浪新闻",
-      "siteUrl": "https://news.sina.cn"
-    },
-    {
       "id": "FL-9fdf5065c1fd",
       "date": "2026-10-18",
       "dateISO": "Sun, 18 Oct 2026 13:46:08 GMT",
@@ -183,6 +171,18 @@
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
+      "id": "FL-9599d3280828",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 13:10:00 GMT",
+      "ts": 1790428200000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 海报新闻",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ROFVYb0tiQ1U4U1lYZnNqNXVxT0dsOFlacHhVMlJ3LVB3QWVyODR6LXZuamRqTThucEJXZWJRWEJKa1laam5mN1BTY2d3WmZi?oc=5",
+      "site": "海报新闻",
+      "siteUrl": "https://hb.dzwww.com"
+    },
+    {
       "id": "FL-5e735aebc1c3",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
@@ -193,6 +193,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlemFCa3lteDlkZERLTXRLMHhpeTIzNmFqanFBczVPaFNjQjVxOHNJNm54Tkhua1FqOGtuaUhBLWdRSWxXaFRoZThQZXJqclRIV1pUaTNhcjhHU0dwRzA1WXNQc2ZOVEhXX0Z1NUVBcnBUalJRWkE3ZlE0S3NOaXM?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-e1c81d311eae",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
+      "ts": 1790406000000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 旅日侨网",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVEJFR0pjczI1RWcwMmdKMGVMbnVHUzNLeGJXWlcxeDMyZzFybFJrb2dOTG9mUmJjQU1kM2hNRGx1Z0drQkhjRExydURDejZYczVvQlNVR0VHOGpJOEsxU0pESWlxWHpRc2RJMXdRT0g0TUdfY2F4VG5tcVphUnpuLUlqYW1WVGNUWFE?oc=5",
+      "site": "旅日侨网",
+      "siteUrl": "https://www.jpchinapress.com"
     },
     {
       "id": "FL-96a4dc3e9d46",
@@ -253,18 +265,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBOMlA4dUttWWpjTXMxV2toUGpkRzRUa3ZOVzhHOFF0enlXcFRJSFFNcktJT1IzV2xiQWtxLUk2T1k4XzB5aFRLNnJSSWFDdw?oc=5",
       "site": "川观新闻",
       "siteUrl": "https://cbgc.scol.com.cn"
-    },
-    {
-      "id": "FL-d22a1e0d8d73",
-      "date": "2026-10-19",
-      "dateISO": "Mon, 19 Oct 2026 06:29:10 GMT",
-      "ts": 1792391350000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "《伟大的长征》遵义会议燃爆了，网友隔空参会刷屏盛赞_大陆_国内新闻_新闻 - 齐鲁网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pWXNKaUJFc2UwUVRIUWsxQksyZFVlWHZEU3Nmc2FlSFJibnYwOTV2NG4yTDZMYjZOeE1VVkg5aDMtNjI0Zk0xbnJjc0FHMGJnWFRqd3c4LUU1MjJ4RVVKbFgyQ3QydzRt?oc=5",
-      "site": "齐鲁网",
-      "siteUrl": "https://news.iqilu.com"
     },
     {
       "id": "FL-b042a088a326",
