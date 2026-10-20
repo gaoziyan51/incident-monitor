@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T21:13:04.787Z",
+  "updated": "2026-10-20T21:44:01.783Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,16 +15,16 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
-      "id": "FL-50a5657f21ea",
+      "id": "FL-18c3fa62bba8",
       "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 14:15:52 GMT",
-      "ts": 1791987352000,
-      "scope": "intl",
+      "dateISO": "Wed, 14 Oct 2026 11:12:25 GMT",
+      "ts": 1791976345000,
+      "scope": "dom",
       "type": "blast",
-      "title": "英特尔在以色列工厂发生爆炸致3人受伤 - 新华网客户端",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWUNhVEREb0liYWExSTM2U3VUdmZGRnVGMG1ZU09EeUFwdVIyVjhuRWdIZzVMRWlUZUJoZXpNSVpEV2w0VHdxTDhSZkFDYlZHOVY3X25yOGJ6aVJHUGtxN0hGb0NOSF80MXloaEluaGhuaFVPSC12d1lfaWt4dFNYVm1lN25nVzBjZHpGTERKRGpjSlVlZEFUanVR?oc=5",
-      "site": "新华网客户端",
-      "siteUrl": "https://app.xinhuanet.com"
+      "title": "200万元罚单落地！包钢股份因“1·18”爆炸事故被追责，两名工作人员相关资格遭吊销 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qSTM2RmFMZ1EwYnlFMThoS0FheThONUk1YVptTllmR2lPX3dkUlRtWXdQQjlUSl8yWmlmTG1XcVB6OGphZWhaUXBjZ3pMVzlydmNUaUpMaDdWV1JuS1NtMUNTNEFyQQ?oc=5",
+      "site": "东方财富",
+      "siteUrl": "https://finance.eastmoney.com"
     },
     {
       "id": "FL-299e2c8e64a1",
@@ -73,18 +73,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAzMUFvUUo2QXRIbTV6NmI3c2FuMGRfNmMxZFBPT3RVWHJvSC1zeXFTcFp1SkZzWHo1clRLODBzaHcybjRsT2xOVkZ0dm8?oc=5",
       "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com"
-    },
-    {
-      "id": "FL-e2d547402ae4",
-      "date": "2026-10-20",
-      "dateISO": "Tue, 20 Oct 2026 11:09:20 GMT",
-      "ts": 1792494560000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "[流言板]肌肉爆炸！达龙-霍姆斯二世Ins：做好基础的工作，第三年 - 虎扑体育",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE14TXA1d2dhbVRrcVphM1oyOGoyX1VUUDRlV04yaW5hNm1CaFJzU25jczBFX3hlUWxFSGJ0Q09PcE93NU5lREZfaDRJcw?oc=5",
-      "site": "虎扑体育",
-      "siteUrl": "https://bbs.hupu.com"
     },
     {
       "id": "FL-21861f53fbaf",
@@ -231,6 +219,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-008d86b164a4",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 15:30:00 GMT",
+      "ts": 1790436600000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典发生爆炸，1名女游客遇难，5人失踪，事发卫城脚下，靠近奥林匹亚宙斯神庙 - 川观新闻",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wT2VkbnNVQzB1dlFrSUpwQU5VbElha1Fyc3h0LVI1WFBMSldqQkRfMWkyeV94b1pPS0w5eFQtT1NxQjdRSkRkbm5yUE5iZw?oc=5",
+      "site": "川观新闻",
+      "siteUrl": "https://cbgc.scol.com.cn"
+    },
+    {
       "id": "FL-5e735aebc1c3",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
@@ -277,6 +277,30 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBOMlA4dUttWWpjTXMxV2toUGpkRzRUa3ZOVzhHOFF0enlXcFRJSFFNcktJT1IzV2xiQWtxLUk2T1k4XzB5aFRLNnJSSWFDdw?oc=5",
       "site": "川观新闻",
       "siteUrl": "https://cbgc.scol.com.cn"
+    },
+    {
+      "id": "FL-b042a088a326",
+      "date": "2026-08-03",
+      "dateISO": "Mon, 03 Aug 2026 07:00:00 GMT",
+      "ts": 1785740400000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "巴基斯坦西北部发生爆炸致14人死亡 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-c39833bbfc21",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 22:10:00 GMT",
+      "ts": 1790374200000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 环球网",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5naEpaTmt5bmlhUXlZdndRR2F3XzN6Z2d5aWcwdU4zRnpJWXBJX3VpVWxzRDBzQUFVRXZ4TW1lOTJQUEhCQ3NDNDFEN2FpVTRuYTh3?oc=5",
+      "site": "环球网",
+      "siteUrl": "https://m.huanqiu.com"
     }
   ]
 }
