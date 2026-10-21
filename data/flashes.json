@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T23:56:39.816Z",
+  "updated": "2026-10-21T00:14:13.143Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -25,6 +25,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qSTM2RmFMZ1EwYnlFMThoS0FheThONUk1YVptTllmR2lPX3dkUlRtWXdQQjlUSl8yWmlmTG1XcVB6OGphZWhaUXBjZ3pMVzlydmNUaUpMaDdWV1JuS1NtMUNTNEFyQQ?oc=5",
       "site": "东方财富",
       "siteUrl": "https://finance.eastmoney.com"
+    },
+    {
+      "id": "FL-36d90f774e22",
+      "date": "2026-10-20",
+      "dateISO": "Tue, 20 Oct 2026 23:54:19 GMT",
+      "ts": 1792540459000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "非军事区朝鲜地雷爆炸近一个月，韩国政府“相应措施”仍停留在口头| 东亚日报 - 동아일보",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NeFZKZTNRSXlnRjFhY052WlA0d0w2b1J2X1prWnZCQnFlQl9teFJDcTNOUm9vMU5YQ1lVbjFIS1hEU2Y1NWlQVTJqclNYMEk4TVE5VmczNGZSd04tMDFqbkxVV1hMQQ?oc=5",
+      "site": "동아일보",
+      "siteUrl": "https://www.donga.com"
     },
     {
       "id": "FL-c733fbb71d5a",
@@ -195,6 +207,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-008d86b164a4",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 15:30:00 GMT",
+      "ts": 1790436600000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典发生爆炸，1名女游客遇难，5人失踪，事发卫城脚下，靠近奥林匹亚宙斯神庙 - 川观新闻",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wT2VkbnNVQzB1dlFrSUpwQU5VbElha1Fyc3h0LVI1WFBMSldqQkRfMWkyeV94b1pPS0w5eFQtT1NxQjdRSkRkbm5yUE5iZw?oc=5",
+      "site": "川观新闻",
+      "siteUrl": "https://cbgc.scol.com.cn"
+    },
+    {
       "id": "FL-5e735aebc1c3",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
@@ -265,6 +289,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-c39833bbfc21",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 22:10:00 GMT",
+      "ts": 1790374200000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 环球网",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5naEpaTmt5bmlhUXlZdndRR2F3XzN6Z2d5aWcwdU4zRnpJWXBJX3VpVWxzRDBzQUFVRXZ4TW1lOTJQUEhCQ3NDNDFEN2FpVTRuYTh3?oc=5",
+      "site": "环球网",
+      "siteUrl": "https://m.huanqiu.com"
     }
   ]
 }
