@@ -1,7 +1,139 @@
 {
-  "updated": "2026-10-21T20:54:24.418Z",
+  "updated": "2026-10-21T23:46:01.313Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-da45b5ba4574",
+      "date": "2026-10-21",
+      "dateISO": "Wed, 21 Oct 2026 23:23:27 GMT",
+      "ts": 1792625007000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "伊媒：伊朗南部锡里克县传出数次爆炸声 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9LSFQtVXV3MWllYl9BODBJOWJ0Q2N2U2pEUHZ5OExQaWlrRHJud05FSlVNQ0RTZTI3SHhzMElPclNWVk5CTEpZU0xFbVA?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://news.ifeng.com"
+    },
+    {
+      "id": "FL-b50c9df6a57c",
+      "date": "2026-10-21",
+      "dateISO": "Wed, 21 Oct 2026 23:21:00 GMT",
+      "ts": 1792624860000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "乌首都基辅遭弹道导弹袭击 多次传出强烈爆炸声 - 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YR3FmSUNvdEFGTWltOFFoYTRIM3paRzk2Z2JuRjJhZFdhX0lNWGFzWFNBWGNGWlN1Z1l3cjdFYWI5ZndtRklkdl90Nk15UjVwa0VsSzlOSmE5UjU5MEFDbTVJenY?oc=5",
+      "site": "新京报",
+      "siteUrl": "https://www.bjnews.com.cn"
+    },
+    {
+      "id": "FL-7d9d117c0b6a",
+      "date": "2026-10-21",
+      "dateISO": "Wed, 21 Oct 2026 23:13:31 GMT",
+      "ts": 1792624411000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "燃爆了！CFA三级出分，全球通过率47%，高分刷屏后，CFA考生的下一站是什么？ - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMERyQzAzNUdaLXhIcU9Mak9ndGYxLU1WVTd4T2lFak1CSDdKN0gyY29EZ0tVbVFtYzNTTzBRc3FtRzBzRnZlaGVkbmxTZm94S0xtYmN1YndmVllnaWhncDMtUFNBQUhscnFXVUlxa1d6MEtYZGpFbFBNbFdJdG5LeEh4N21fOHphSGhzZA?oc=5",
+      "site": "搜狐",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-1b3a06cd2cad",
+      "date": "2026-10-21",
+      "dateISO": "Wed, 21 Oct 2026 23:02:41 GMT",
+      "ts": 1792623761000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "“遭弹道导弹袭击”，乌克兰首都基辅传出连续爆炸声，泽连斯基：乌方支持尽快启动新一轮三方会谈 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ042alBGT2xtSDFZN3l2NUxZNWRVVEd6NjFQbzVYSnlKNFBLWjFlT2wzTGtxeXdrX1hoM2J5aE9xeUhxb1RMYmVsaEJsS3gySkpXYzV6Ynl6ZUZhTGNsUGwzTDRKVkJiX3RManZSQjNDR0pSTjFNeGkxekFVa2xMSmRMYnlwWjZmU2JZWg?oc=5",
+      "site": "搜狐",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-2d9a3bd71204",
+      "date": "2026-10-21",
+      "dateISO": "Wed, 21 Oct 2026 22:47:53 GMT",
+      "ts": 1792622873000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "“遭弹道导弹袭击”，乌克兰首都基辅传出连续爆炸声 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92VklISFFBb0V5eFdhNUo5azVGS1E3ZUU3U2hJcnVVdTZpQjU3X01qZGRiVVktYm1jSmZmWlRpdjYxNmlHUzNYNlc4TUZndjl0QnNyRmoxRzVhR0V5WEE?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
+      "id": "FL-05a77df9925b",
+      "date": "2026-10-21",
+      "dateISO": "Wed, 21 Oct 2026 22:44:58 GMT",
+      "ts": 1792622698000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "“遭弹道导弹袭击” ，乌克兰首都基辅传出连续爆炸声 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORDFXTFBjbFRKcXVFOHo5MjJNZENUaGdmM0l2LWdreDFLZVpoRldQWUZ4VUJXTXMyMVk1RUN1cTI5T3c2bGNrREc4Sld2VzctOC1zOTBGR1M5QVNNbVI2aEt2N3ltWDFDdHE1NUI3R0lFTl9qZkU1VzkwZVlxc09DWkhHa0tGU0stM3Q1Nw?oc=5",
+      "site": "搜狐",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-ba7173a5696b",
+      "date": "2026-10-21",
+      "dateISO": "Wed, 21 Oct 2026 22:38:00 GMT",
+      "ts": 1792622280000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Ohio chemical leak still at risk for explosion, hospitals treat 35 people - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWDZOdVpGcGhoeTktYUlURnlKSXROdVdXMzh3WjlrQkJGUk1FdF9EQ1pxRlVyNV9EWTJsNEg2WEE4S2xKOWtEZ2VpRWdaRlV6Wi1sQzVvRTdzQzhXWlpKZmx0Qk02eUpCN0ZTcFA1Y0pKQ0g3YWJHRDl6a0xqdWNvNzJYQWptNUxEbTdoNnhpZWppMHZZaXpiSGstNmMyNndQNkRKSWFIcXdVbGdxeGFQRUtn?oc=5",
+      "site": "USA Today",
+      "siteUrl": "https://www.usatoday.com"
+    },
+    {
+      "id": "FL-d50f91a4f544",
+      "date": "2026-10-21",
+      "dateISO": "Wed, 21 Oct 2026 22:24:42 GMT",
+      "ts": 1792621482000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "“遭弹道导弹袭击” 乌克兰首都基辅传出连续爆炸声 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JRzRtaU9fZmtHeFh4TjQ0WTE3NklIVXZxT0xzMEdOdUZ1RDNtUEF2eUg4NGdpcEctZ2hDcURJVHZHNGVjdnlpNE42X2Q5V0Y4STJrbkxmN05IVE9scm9YR0ZtQm1XbVBmOGFBUEMza0VFdU9DMG1nXw?oc=5",
+      "site": "央视网",
+      "siteUrl": "https://news.cctv.com"
+    },
+    {
+      "id": "FL-759c958b8eb3",
+      "date": "2026-10-21",
+      "dateISO": "Wed, 21 Oct 2026 20:38:00 GMT",
+      "ts": 1792615080000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Chemical tank explosion in Ohio forces residents to evacuate - CNN",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ1N1RkxkcDBxVGVOUHdhNDVrNGl2clVMMmtUSVY4Q2Qzb0UxWXpEQ2gwc2hKVGZyclRhZXBhbWRyZkFOZTE0cnlzM01oRlpiRGxEeFBoUGxPSGlYVVI3bXJILVgzRGdsVlJmZTN4b1BRZlBvTUpFemxDSWs1M3I0TVV3UENkdFJ3VDd3cWE4cWFqUDU2dWdQejBVSnQ3X2ZhcUlmamxPQXJOSTFNZmVBeWxB?oc=5",
+      "site": "CNN",
+      "siteUrl": "https://www.cnn.com"
+    },
+    {
+      "id": "FL-484965d2ba38",
+      "date": "2026-10-21",
+      "dateISO": "Wed, 21 Oct 2026 20:24:28 GMT",
+      "ts": 1792614268000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Toledo chemical explosion prompts evacuations and shelter-in-place orders - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOHc4UXBwOHp3ZklSQ005by0tU0pGNG5ZRlhUUm42RnFtQnNwN3ljdEFJbWE0WWdvbDVWdzE4TFdMZGVSYlNEUm90SDJWdE9aN01jYkFNZ2tNTmpPT1NXWVZrMjc5TTdPRjBfWGxWbHNHUmV6aE5rSjRyMTV6QVVnMmhVdmY5Sk1GTEpTWVROS2l0M0hYN1hlaHU1eU82ODFOSm9lTGFxVlUzakJTUjhRcnVZSHZfX1U?oc=5",
+      "site": "NBC News",
+      "siteUrl": "https://www.nbcnews.com"
+    },
+    {
+      "id": "FL-f27ccc8d4fe6",
+      "date": "2026-10-21",
+      "dateISO": "Wed, 21 Oct 2026 20:19:47 GMT",
+      "ts": 1792613987000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "军事威慑升级！数十架以军战机曾逼近伊朗边境，伊南部传爆炸声，美国扩大制裁、拟撤离部分中东使馆人员 - 华尔街见闻",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FcXJjbXhrdm5FeTZ5MVFlT1kzS3MzV3pqaDl4djROOUtfUFRlTVQ5VEN2Z29kLWNBTG5GZm1rdFN5Sk9YZXQxRnZZWDFrVmVJd093?oc=5",
+      "site": "华尔街见闻",
+      "siteUrl": "https://wallstreetcn.com"
+    },
     {
       "id": "FL-54a7c239ba97",
       "date": "2026-10-21",
@@ -39,52 +171,16 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
-      "id": "FL-484965d2ba38",
-      "date": "2026-10-21",
-      "dateISO": "Wed, 21 Oct 2026 18:56:19 GMT",
-      "ts": 1792608979000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Toledo chemical explosion prompts evacuations and shelter-in-place orders - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOHc4UXBwOHp3ZklSQ005by0tU0pGNG5ZRlhUUm42RnFtQnNwN3ljdEFJbWE0WWdvbDVWdzE4TFdMZGVSYlNEUm90SDJWdE9aN01jYkFNZ2tNTmpPT1NXWVZrMjc5TTdPRjBfWGxWbHNHUmV6aE5rSjRyMTV6QVVnMmhVdmY5Sk1GTEpTWVROS2l0M0hYN1hlaHU1eU82ODFOSm9lTGFxVlUzakJTUjhRcnVZSHZfX1U?oc=5",
-      "site": "NBC News",
-      "siteUrl": "https://www.nbcnews.com"
-    },
-    {
       "id": "FL-a10827f15793",
       "date": "2026-10-21",
-      "dateISO": "Wed, 21 Oct 2026 18:46:39 GMT",
-      "ts": 1792608399000,
+      "dateISO": "Wed, 21 Oct 2026 18:44:12 GMT",
+      "ts": 1792608252000,
       "scope": "intl",
       "type": "blast",
       "title": "伊朗方面称锡里克地区传出数次爆炸声 - 新浪网",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ockNtSEpvdGhWRkdZckppcF9IMF9vamJHM2U2empEWnJQdmVuZTlOTzFLSklock9WanJmQkJqZ2Y2YW1jZGdXN2lJaw?oc=5",
       "site": "新浪网",
       "siteUrl": "https://wap.cj.sina.cn"
-    },
-    {
-      "id": "FL-3d08bd01d167",
-      "date": "2026-10-21",
-      "dateISO": "Wed, 21 Oct 2026 18:26:34 GMT",
-      "ts": 1792607194000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Tennessee emergency officials assisting with natural gas explosion in Overton County - WZTV",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTkkyZ1o1Yk5xMVI1S2FwOHlhcnZ6azFRU0lWbE0ta1oyTTZYRWZjdFB2OGtDMmtveDQ2cDMtQXFncHlJSDlIVk8wcENFd2U0bDd3bGZoMmhvNWlsM3pYZ2pwYk5pN0c2N3Y0ek0tSk11TVdOZ0tUbGdWRnF4VzFyYngxVFVPelNzaDZZRFM5TmdZX0pGSTFTQjQ0TDcxV2JyUE9MT1h1cXhuckxheDk1ZGNvOA?oc=5",
-      "site": "WZTV",
-      "siteUrl": "https://fox17.com"
-    },
-    {
-      "id": "FL-118a89bc6af1",
-      "date": "2026-10-21",
-      "dateISO": "Wed, 21 Oct 2026 18:23:00 GMT",
-      "ts": 1792606980000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Gas line explosion prompts emergency response in Tennessee. Here’s what we know - WSMV",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeTNBMGdIMkN0TWVpc1laa0pwRTJ5S2tIZmR5alhuM1d2OGJWQ0xRa1llSFhvWVV4YWNreW82SUZwYy1xTWUwcEJ0encyZkZpZTZKeG1KZWFUMnpQTUdGdk1Kdk00SmRRLUlYbC1QX0Z2VjIzWHdCYTBJUFVQMjNrckJ6OGlmeFczLVNLRERLMTB3OWFkQUlTM2xRQWF6VmpibXJyUVYtME1va3c?oc=5",
-      "site": "WSMV",
-      "siteUrl": "https://www.wsmv.com"
     },
     {
       "id": "FL-ad661fe8c4e3",
@@ -99,18 +195,6 @@
       "siteUrl": "https://www.wsmv.com"
     },
     {
-      "id": "FL-ca6fec5315e6",
-      "date": "2026-10-21",
-      "dateISO": "Wed, 21 Oct 2026 18:22:25 GMT",
-      "ts": 1792606945000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "TEMA assisting Overton County after natural gas line explosion - News Channel 5 Nashville",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNEd4VkJMM1lKWDU1QkNHc1l3bHJYcFloZnRHbHp3QVRnbnprb3Z3S1RMQkxCNzRIbk1mNTRici1qQW1GNjBMSzladjA1NHhuWlZlMTkxcjliaDVxZERyNjMwUTQ4akthdE1CbkpJbk94R0lOcjNtcHROcElRM1R1Tl9laHdyUUdFb2hmTXFMWU1lUVNnaUgwcUlsVUowN0N0OUlmWENtanJrVGtNSG84eHF1RmRuU09pMmNwX0ZPNEJWdUplNlE?oc=5",
-      "site": "News Channel 5 Nashville",
-      "siteUrl": "https://www.newschannel5.com"
-    },
-    {
       "id": "FL-a4c183cd34d6",
       "date": "2026-10-21",
       "dateISO": "Wed, 21 Oct 2026 18:07:00 GMT",
@@ -121,30 +205,6 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbS1nSXVpUUZILW1LQVJSRXM3MVNNMUlrVm50QnVjZUc2TnlhX0tGWHFkVVZWWWJZUUhZekVBblZ6eG16NGtaMGRtb19CY2xtYTlhVGpvWVZXdHpXX09abjBQNFNhN1pYY3NhNm12OG1IY0xWRG5BdjFWQy1PQVNpWWZDNUdOQ19ONDVKTVAwcDNza2JJ?oc=5",
       "site": "The Guardian",
       "siteUrl": "https://www.theguardian.com"
-    },
-    {
-      "id": "FL-b0a4503d68f4",
-      "date": "2026-10-21",
-      "dateISO": "Wed, 21 Oct 2026 17:14:34 GMT",
-      "ts": 1792602874000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Evacuation zones expanded after chemical tank explosion in Toledo, Ohio - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ0NGRG9DT1RIUUE4RE0wVUZtNU5PMnh1cUk1UGZpYkw5U3dfQkZ5ODlycTdycXNiWG1mTUI5YnFkWVdMcGNpT3FfbkNZdUxXVFM0a2pTdGNIdHVsMnBJdXNTc2xKZEVIejRCRGRwUlhSSG9vczhaT3kxcm5FRWZwVHBWVlh0UE13RTNodzFHUVl4YkYxLVMzX2JJdm5CN3dVZGhCLUhIRXlmVWVLTWxIWA?oc=5",
-      "site": "NBC News",
-      "siteUrl": "https://www.nbcnews.com"
-    },
-    {
-      "id": "FL-71afc010e5c8",
-      "date": "2026-10-21",
-      "dateISO": "Wed, 21 Oct 2026 16:35:11 GMT",
-      "ts": 1792600511000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Toledo Residents Ordered to Evacuate After Chemical Explosion - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHUVZTd2dSNmpVaW5KX1Vqc256R2NVN25LYkg2dllqcTV4djE2c0lINU5renV1UHBoUVZ1OTFaQUhuU2k5Wmk3Z2MtVnltMnJJbkgtMm9xVUFFNi03dWllemhoTGIwT3pLNXlXaVdpVXM3YWhNV3dQSDVvcnRJdw?oc=5",
-      "site": "The New York Times",
-      "siteUrl": "https://www.nytimes.com"
     },
     {
       "id": "FL-8ed807744ced",
@@ -183,18 +243,6 @@
       "siteUrl": "https://www.pbs.org"
     },
     {
-      "id": "FL-d110e360e679",
-      "date": "2026-10-21",
-      "dateISO": "Wed, 21 Oct 2026 14:46:06 GMT",
-      "ts": 1792593966000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Tank explosion and chemical leak causes evacuation in Toledo - upi",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR2NwVDlRWDluQlpOTkowWWdRbm4telFLeEVjM1lSU3RFeE9PMWxCbUNXVGZSSFhTMnExUm5jVENza2pBdGVrUVBWNUgwbE1CTDR0SFc1dUIyYWU3UnZNc29WQ2pKcVptRVdzM01DRjFLQkdzaWNyTXlEblRIS2pQVVFxQWxadWxVS1N1bW5nNTVtcGU2ZmVDSW5vRS1DZ9IBowFBVV95cUxPT2FTSFRTZDdmVVhrenNuT0dIY3Fmam1tR0FQQjdxLWlzV28wWDJrLVpHNE1CMzZoQUNMY1FWSE5ZQUdxVmpoZTVTQlE0WVhCY0d1dVBhR3VNM005dlVSZVlPSFcxTkhpQXRoSEpIendTejUtY1FjcDFxUmRUVGhwVUFndmJNazVqUmJGMHF6SDlRV0VOYkE1TkFZQUF5SFVsNUNv?oc=5",
-      "site": "upi",
-      "siteUrl": "https://www.upi.com"
-    },
-    {
       "id": "FL-9340150920a3",
       "date": "2026-10-21",
       "dateISO": "Wed, 21 Oct 2026 13:56:14 GMT",
@@ -229,6 +277,30 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zdC1FTVpnVUdma3VaWXdyR2NDRFJBZEMwMVZXZERvRVdOcTI0cXVKU0FIMHRQbTFjVE9ja2xjeDAzUkQzLU9iOUlGSXh4VWJGX1FQV0toM0wxc3Rla29jcF8zaEZwS21JTW1kTF9aVlJZUQ?oc=5",
       "site": "京报网",
       "siteUrl": "https://xinwen.bjd.com.cn"
+    },
+    {
+      "id": "FL-008d86b164a4",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 15:30:00 GMT",
+      "ts": 1790436600000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典发生爆炸，1名女游客遇难，5人失踪，事发卫城脚下，靠近奥林匹亚宙斯神庙 - 川观新闻",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wT2VkbnNVQzB1dlFrSUpwQU5VbElha1Fyc3h0LVI1WFBMSldqQkRfMWkyeV94b1pPS0w5eFQtT1NxQjdRSkRkbm5yUE5iZw?oc=5",
+      "site": "川观新闻",
+      "siteUrl": "https://cbgc.scol.com.cn"
+    },
+    {
+      "id": "FL-9599d3280828",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 13:10:00 GMT",
+      "ts": 1790428200000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 海报新闻",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ROFVYb0tiQ1U4U1lYZnNqNXVxT0dsOFlacHhVMlJ3LVB3QWVyODR6LXZuamRqTThucEJXZWJRWEJKa1laam5mN1BTY2d3WmZi?oc=5",
+      "site": "海报新闻",
+      "siteUrl": "https://hb.dzwww.com"
     },
     {
       "id": "FL-5e735aebc1c3",
@@ -277,6 +349,18 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBOMlA4dUttWWpjTXMxV2toUGpkRzRUa3ZOVzhHOFF0enlXcFRJSFFNcktJT1IzV2xiQWtxLUk2T1k4XzB5aFRLNnJSSWFDdw?oc=5",
       "site": "川观新闻",
       "siteUrl": "https://cbgc.scol.com.cn"
+    },
+    {
+      "id": "FL-c39833bbfc21",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 22:10:00 GMT",
+      "ts": 1790374200000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 环球网",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5naEpaTmt5bmlhUXlZdndRR2F3XzN6Z2d5aWcwdU4zRnpJWXBJX3VpVWxzRDBzQUFVRXZ4TW1lOTJQUEhCQ3NDNDFEN2FpVTRuYTh3?oc=5",
+      "site": "环球网",
+      "siteUrl": "https://m.huanqiu.com"
     }
   ]
 }
