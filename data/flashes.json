@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T17:28:20.607Z",
+  "updated": "2026-10-22T20:41:45.464Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -27,6 +27,30 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
+      "id": "FL-c453cd4676c8",
+      "date": "2026-10-21",
+      "dateISO": "Wed, 21 Oct 2026 19:12:50 GMT",
+      "ts": 1792609970000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "“遭弹道导弹袭击”！乌克兰首都基辅传出连续爆炸声 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5rcmptSTQ5dWtWOHEtSVRCcGU0ZTlneHVhbzdCaU9FMW1YN0NicGFzSm0wTnpqSzRWS1ZYd3Y2c2ZGeHBXWktmNmhvNTI?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://news.ifeng.com"
+    },
+    {
+      "id": "FL-41a30c5b2550",
+      "date": "2026-10-21",
+      "dateISO": "Wed, 21 Oct 2026 18:23:00 GMT",
+      "ts": 1792606980000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "‘Thankful this wasn’t worse.’ Gas line rupture causes explosion scare, evacuations in Middle TN. Here’s what we know - WSMV",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPN0F6Mmx6N2pjRkJEcHhCc1hRS29ENGduQmlvQ2F5RTJGMVJYNWQxZzRzZW9RVU92dHFpcXdfbmdHWDh6MHZ2QVFmUm80NXBqdFVpSGY3bEg5VlQ2ZThJSkExbm9SMFgtb2VIMVNiZk5DOUd3SzdiYkFEQm5fMjQ3cktFMmg2U2FyYmNTYllsTkoyNElxVzBFeHdNMVYybkt4cFR6M3BtZ0wtclRLQjY1TDFteUtWUGNWMmtQM0hTNXlzMjFqVEVvazZGSGJlaGZxVGpBMlp3?oc=5",
+      "site": "WSMV",
+      "siteUrl": "https://www.wsmv.com"
+    },
+    {
       "id": "FL-a4c183cd34d6",
       "date": "2026-10-21",
       "dateISO": "Wed, 21 Oct 2026 18:07:00 GMT",
@@ -39,6 +63,18 @@
       "siteUrl": "https://www.theguardian.com"
     },
     {
+      "id": "FL-0f80888c264c",
+      "date": "2026-10-21",
+      "dateISO": "Wed, 21 Oct 2026 15:43:50 GMT",
+      "ts": 1792597430000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Chemical tank explosion in Ohio of glycidyl methacrylate forces evacuations, prompts fears of another blast - PBS",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbmRZU042NEg5aFhBYXJoaWpkamJpNDBhd0ctMC1mWmtDN2I5SVBPbWExbWs2NnFpTEg5LVAxcmJTYXluMDdoLXQ5SURMMmM0WmctMURPZEd2aXZHRURBQTFveGR2LTRaSTZBRFNpR1cyZlJZRzVvX1FMUHZ6YVh5V3JOUkZZZGh4OG5LX1hic0FBN1VHR0h6blY1WEs1Y3pTdTlCTmxOMUZwcmttcmZJYVBIRTNBcUZIQWN6cmdFSDZxdGRQLV82SUVVal81N05kbGdZM2l2NUh4QQ?oc=5",
+      "site": "PBS",
+      "siteUrl": "https://www.pbs.org"
+    },
+    {
       "id": "FL-4aff22513bd3",
       "date": "2026-10-20",
       "dateISO": "Tue, 20 Oct 2026 06:54:13 GMT",
@@ -49,6 +85,18 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BMTZCQWZ5SmttNjdkSkNTa3VVX1dBSExSdC1LN1ZzMV90VDlHNjhfbFNTclJZblFOMjREQXlYR212ZVlKQnpBMXFOQVpaUEdQQVlYSGM3dEVpdVMwRGZBMnVQdW1BOFVlU29pOW1rRzg?oc=5",
       "site": "中华军事",
       "siteUrl": "https://military.china.com"
+    },
+    {
+      "id": "FL-71a1c63f9237",
+      "date": "2026-10-22",
+      "dateISO": "Thu, 22 Oct 2026 19:49:43 GMT",
+      "ts": 1792698583000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Man dies after explosion at industrial building in Macomb County - ClickOnDetroit | WDIV Local 4",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZGw1QklSV25BQmcwOTlySXNTZEFuOTBaR0RTUzhILU12LTViZmZ6YkRBS1E0MVVTOVlyXzBxNkhBM1FGdnJPdTZoU2xvMXhYOE8tNFU3OUF2TTRaVW55bEt1QWZIS1JCRzFMamFaaFFWVjc5QjFvNEx4cVgxbFc5SnoyWTRPQlpsRWhaRVVqa0JKSmZoV09oODBIT21WR3FiTzJSbWZTdnVOdXVBZ0NtY0dzSHotenRwVFE?oc=5",
+      "site": "ClickOnDetroit | WDIV Local 4",
+      "siteUrl": "https://www.clickondetroit.com"
     },
     {
       "id": "FL-4b66046ae6c3",
@@ -97,6 +145,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlemFCa3lteDlkZERLTXRLMHhpeTIzNmFqanFBczVPaFNjQjVxOHNJNm54Tkhua1FqOGtuaUhBLWdRSWxXaFRoZThQZXJqclRIV1pUaTNhcjhHU0dwRzA1WXNQc2ZOVEhXX0Z1NUVBcnBUalJRWkE3ZlE0S3NOaXM?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-1cdc7213279c",
+      "date": "2026-10-17",
+      "dateISO": "Sat, 17 Oct 2026 22:18:00 GMT",
+      "ts": 1792275480000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "苏丹首都圈地区一军事基地发生爆炸 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BMGhEc2s5SUNfZlBxUksxZGphY0dWa2pOTFE4ZGlTbnFhUDFEaTVtc014QUNOVEk1eFdpM01xRERfa2lRaFVrWXZqUWNOeVRCd0UwTm5ETk56OHE0SGI1alliMmlKRlJZZ3hXRGJoVU9Vdw?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
       "id": "FL-6219c5a90f8f",
