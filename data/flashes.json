@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T16:57:40.437Z",
+  "updated": "2026-10-23T20:10:34.387Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,6 +15,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-340d5e981918",
+      "date": "2026-08-23",
+      "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
+      "ts": 1787468400000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
       "id": "FL-9fdf5065c1fd",
       "date": "2026-10-18",
       "dateISO": "Sun, 18 Oct 2026 13:46:00 GMT",
@@ -25,6 +37,18 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zdC1FTVpnVUdma3VaWXdyR2NDRFJBZEMwMVZXZERvRVdOcTI0cXVKU0FIMHRQbTFjVE9ja2xjeDAzUkQzLU9iOUlGSXh4VWJGX1FQV0toM0wxc3Rla29jcF8zaEZwS21JTW1kTF9aVlJZUQ?oc=5",
       "site": "京报网",
       "siteUrl": "https://xinwen.bjd.com.cn"
+    },
+    {
+      "id": "FL-0615dd398028",
+      "date": "2026-08-02",
+      "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
+      "ts": 1785654000000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-5e735aebc1c3",
@@ -51,16 +75,28 @@
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
-      "id": "FL-330e38fd0b0b",
+      "id": "FL-63812569380e",
       "date": "2026-10-23",
-      "dateISO": "Fri, 23 Oct 2026 09:50:28 GMT",
-      "ts": 1792749028000,
+      "dateISO": "Fri, 23 Oct 2026 19:42:58 GMT",
+      "ts": 1792784578000,
       "scope": "intl",
       "type": "blast",
-      "title": "土耳其一煤矿爆炸致2死5伤 - 央视网",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91UEtoa1lNWWc4cG9hRUZUTmJTZDN3dllsVnFBTmg4TXFxdDVvVG5hdi1GaURNNklYa0VRZWxmYmsyY0R3aWstMl9oY0xadHR4S1hrR29UN2djUGN3OVY0T2hNX1hHbF9SWk9HUTNWN2JlUk1lOTZ0dA?oc=5",
-      "site": "央视网",
-      "siteUrl": "https://news.cctv.com"
+      "title": "Person found dead inside RV after explosion and fire in Spanaway - MyNorthwest.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FdlEwUGFYOGFLOU9jYkY5TlBTaEl0aXpHU1UzaWdZaVp1STVRN25CU01nZWFocHp1dl83cmt6TjJPN0Z3UE9WUVQ4N0JtTUNIQkVPSlN4a0lfRjNadXNERTlrQ1RtMkZxbzZyY1lFUQ?oc=5",
+      "site": "MyNorthwest.com",
+      "siteUrl": "https://mynorthwest.com"
+    },
+    {
+      "id": "FL-0a355aea2cb5",
+      "date": "2026-10-23",
+      "dateISO": "Fri, 23 Oct 2026 15:04:00 GMT",
+      "ts": 1792767840000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "4宗报案指图书馆及传媒收到载有白色粉末信件 警称没有爆炸危险 - 香港電台",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcUo3Z3FOZVI2UWlIaWx1V3k4NXFMY3RscHV4Um92VkpkaHdQOHZ4TWtmVjRlV0dVLUoyeUg0ZUlIZkpLQnlXdjV2MWFUQzFwaFl0VWtIVGczV2N4SUN6M3c2YmtiLS1rRUFRajdsclM4cnVaOEx3d3FMaFlaZGVnS0l0Um5YeXBtMzdR?oc=5",
+      "site": "香港電台",
+      "siteUrl": "https://gbcode.rthk.hk"
     },
     {
       "id": "FL-cc11d24c86d8",
