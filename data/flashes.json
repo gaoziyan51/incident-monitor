@@ -1,19 +1,7 @@
 {
-  "updated": "2026-10-23T06:38:14.674Z",
+  "updated": "2026-10-23T12:02:38.050Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-2d9a3bd71204",
-      "date": "2026-10-21",
-      "dateISO": "Wed, 21 Oct 2026 22:47:53 GMT",
-      "ts": 1792622873000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "“遭弹道导弹袭击”，乌克兰首都基辅传出连续爆炸声 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92VklISFFBb0V5eFdhNUo5azVGS1E3ZUU3U2hJcnVVdTZpQjU3X01qZGRiVVktYm1jSmZmWlRpdjYxNmlHUzNYNlc4TUZndjl0QnNyRmoxRzVhR0V5WEE?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://news.bjd.com.cn"
-    },
     {
       "id": "FL-851f40422b15",
       "date": "2026-10-22",
@@ -51,6 +39,18 @@
       "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
+      "id": "FL-0615dd398028",
+      "date": "2026-08-02",
+      "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
+      "ts": 1785654000000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
       "id": "FL-5e735aebc1c3",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
@@ -75,28 +75,64 @@
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
-      "id": "FL-31638da31f1d",
+      "id": "FL-06969b096853",
       "date": "2026-10-23",
-      "dateISO": "Fri, 23 Oct 2026 03:47:28 GMT",
-      "ts": 1792727248000,
+      "dateISO": "Fri, 23 Oct 2026 11:38:12 GMT",
+      "ts": 1792755492000,
       "scope": "intl",
       "type": "blast",
-      "title": "朝韩非军事区发生地雷爆炸，造成韩国3名军人受伤，2人重伤，韩国致函联合国，要求朝方道歉，朝鲜：是韩国单方面炮制并强加结论的闹剧 - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbVdUS0drUHhGVWx0MEkyME1fT2hENDVUREhtRXpSRmdSSlBmZnJtWEpxblBlWkhNSzN5dU1KSXY1YW1wUFNESVZwX3BRQ05LTUdQaHFGbkxXWl8ySjJ2VkJ4QU42Q2REaDU0cmpWc19venpxaWhyZzdnT1V6VG9BQ1ppOC0wOHRUYzNISg?oc=5",
+      "title": "土耳其北部一矿井爆炸已致2死5伤 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fRjdJbjFrNU9pQjE0WXlSejh3Z2VpOV80N0x6NS1SRlBaT2ZzZzR2eVplUHZpZ1BTN21ILXpVWVFJOUttWjZ4aWtieVpBVUtlNVJQRFlZQUtsNW1lQU5UNHNuRXlmNWdka0IyQUwyZ3pkaENaLWVqcQ?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
+    },
+    {
+      "id": "FL-7721aa81adae",
+      "date": "2026-10-23",
+      "dateISO": "Fri, 23 Oct 2026 09:06:43 GMT",
+      "ts": 1792746403000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "韩国就韩朝非军事区地雷爆炸事件致函联合国安理会 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTTAzQWhMbXZ4S2phYV92a1lrdE5xWXJzSDNBaEFBa2sxMmFmaXpqcm42aXRTSnVKc3d6ZDhTbDhFNklCN0k3LTNBTU9IUjhhaFdLeFIwdEtiVmZDRnBSU1Rfd2Y3Tk5yQy1BNUQ1NVNfLUkyaHM2WktEMHU3OEN6QnZLUHNTUkhQ?oc=5",
       "site": "搜狐",
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-b5a95ac3075b",
+      "id": "FL-d17c040bbd73",
       "date": "2026-10-23",
-      "dateISO": "Fri, 23 Oct 2026 03:06:21 GMT",
-      "ts": 1792724781000,
+      "dateISO": "Fri, 23 Oct 2026 08:35:21 GMT",
+      "ts": 1792744521000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "悬疑网剧《谜林》定档：十六年前的爆炸，掩埋了灭门血案的真相 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMQzJoWkdhNlF5Nmx5T3UwQ1hoSU9tVlVRRWJXMTc0MEJnV1MyUHRWWmdSZFJNZHZUMmlFb2hqRWtHcl9pWUx0LWhxcEM5Z0VEai1HVG1CS3pwT2lNX3FJdEJYa2JFeXR2VHNoXzF5eXI?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
+    },
+    {
+      "id": "FL-a8566622e510",
+      "date": "2026-10-23",
+      "dateISO": "Fri, 23 Oct 2026 07:33:07 GMT",
+      "ts": 1792740787000,
       "scope": "intl",
       "type": "blast",
-      "title": "韩国就韩朝非军事区地雷爆炸事件致函联合国安理会 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9MRWlBQ0MzdXc1M0NiOGxkcEFRT1lfSi1TMUlySDd4OG5xN2lud3A0YTNpM1J2ODlKSjZacWxMcmdnZHBYTE90YlZEUQ?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://mil.ifeng.com"
+      "title": "沙特首都利雅得多次传出爆炸声 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFdlZndTBKUnktczZia0MtRVZiM0x4SWFtMUg3VDBmdTVpb1hFUDdTd085c0VkVFdYRU94WEd3S2lqb0hyX1ZwdlBaRDV3TDZuMVIwaGl4d2RVS2hUYjhmMmJvVm4ybk1yVXNkcGtmdGFIa2l3a2c?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
+    },
+    {
+      "id": "FL-d5f8279a7f68",
+      "date": "2026-10-23",
+      "dateISO": "Fri, 23 Oct 2026 07:13:24 GMT",
+      "ts": 1792739604000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "Ti6321钛合金焊接接头水下爆炸冲击下的力学性能与微观组织演化研究 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOOG5Xd1c4TVhOYWpSRlp3Ni1zSHVrOENiUUpVemN1VlNQbEl2Y3FRTEpMajFpeERPSV9IbGE1QkVrMWVmZDc3dF80U0tMVnV2WURETS1KOU91SDJ0WmdoTmxDQ3VBc0lnWUZsU3ln?oc=5",
+      "site": "生物通",
+      "siteUrl": "https://www.ebiotrade.com"
     },
     {
       "id": "FL-6c29ae4f3dba",
@@ -123,6 +159,18 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
+      "id": "FL-71aa423ebc6d",
+      "date": "2026-10-23",
+      "dateISO": "Fri, 23 Oct 2026 01:11:48 GMT",
+      "ts": 1792717908000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "沙特首都利雅得传出爆炸声 - 央广网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81QmJGYV9aVzdmdUc0VzNoYVJpd19hTHZuMXFONTdiZ3dCalBza29aNVZ0SGhiWVhVTjVTaWdGc1c5dVJRYlBva1BkUnhDY1lxLWF2TDN2eFRIQTZVdVRWSEFyYXJMQjMx?oc=5",
+      "site": "央广网",
+      "siteUrl": "https://news.cnr.cn"
+    },
+    {
       "id": "FL-477b3c2e700e",
       "date": "2026-10-23",
       "dateISO": "Fri, 23 Oct 2026 00:43:11 GMT",
@@ -143,6 +191,18 @@
       "type": "blast",
       "title": "沙特首都利雅得多次传出爆炸声 - 搜狐",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUUZTUjRneHNLZWIxLTlvR2R3UHhoTXBnbzc4MGxjanhVczZlX0lzUUJzS0J0Q3hwMmpEUVFKVjZjS0RNOUdsZE9XbGh0Y1hBWGxZcUptUHFCTVdOVTdRT1EwamdFUVNKMmVETWpuc3RnRnoyemZQN3Q3X1RLbk5ZOHZSN3R3Yi12?oc=5",
+      "site": "搜狐",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-20a1556aaa8f",
+      "date": "2026-10-23",
+      "dateISO": "Fri, 23 Oct 2026 00:20:00 GMT",
+      "ts": 1792714800000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "韩国致函联合国安理会要求朝鲜道歉：韩朝非军事区爆炸系朝鲜军方埋设的地雷所致，违反停战协定，敦促朝方开展对话，以防止紧张局势升级 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaUxjUVoyQk1FUVg5ZmM3OUxTZW9PLTJTVVNrRkZZQkxzREIzR2tBcUdQanUwYlczUlA1a0tvbFVxdHRScW9UVEdWVDdsdVVXakRYdTloa2RQREtucEJ3U3VMdHZDcDVKNmJZdk9KNHJ0a2xUOE1YdW83enZxR0p6VHBnbkZ3WHVqZGdrQQ?oc=5",
       "site": "搜狐",
       "siteUrl": "https://m.sohu.com"
     },
