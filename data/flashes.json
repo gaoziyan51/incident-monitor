@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T01:32:06.128Z",
+  "updated": "2026-10-24T06:23:31.491Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -23,18 +23,6 @@
       "type": "blast",
       "title": "韩国就韩朝非军事区地雷爆炸事件致函联合国安理会 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5valhSX2RPQmVWeERwUEMzZFJZaVVwSzZka19tYms1WWltNmVwZ3JVUUxjMU1CUzE0T19PMkZYSEhkd21LcUtNQVMxaXpZNnZzWms2cVRVXzZFNXZ2M2l0TzZ6RGdpTVh5Q3h4U0xOU0laWC04eU1kVGtoLWRNU2M?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-340d5e981918",
-      "date": "2026-08-23",
-      "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
-      "ts": 1787468400000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
@@ -75,6 +63,42 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-243fcb3d0186",
+      "date": "2026-10-24",
+      "dateISO": "Sat, 24 Oct 2026 02:22:27 GMT",
+      "ts": 1792808547000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "沙特首都突发两起爆炸 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lLWp1UW5EZ2lrNEFuOHo5V3ZNQlV2WGcxYm0zNC1mS0hkQ3ExTFVYWF94S0pWM0MzdVpFVmg2WDVXbzd4YU10NHdvSEZQWEJCMWZYUTBjUVJ6VS1LdVZBbHJ0ZmNGTGVaVmZzbTNiV2ROWk1FUDA1Tw?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
+    },
+    {
+      "id": "FL-56c387d13235",
+      "date": "2026-10-24",
+      "dateISO": "Sat, 24 Oct 2026 02:08:54 GMT",
+      "ts": 1792807734000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "霍尔木兹海峡突发！两艘超级油轮，起火爆炸 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OWXR5am1aTTgzU1I0QzJSSU5rM0dsMExhSU5GdEZkYUlKc25WcnlqNHYwZk8yc1JpSUpmOEJRQnlxOEctRW94M3JtbW1pRGdoNGVYMVFNWFhfcU94Y1dBVUxkYjI1V1JMWmQ5cFhfekpRaUcyYmc?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
+    },
+    {
+      "id": "FL-952e810af904",
+      "date": "2026-10-24",
+      "dateISO": "Sat, 24 Oct 2026 02:07:58 GMT",
+      "ts": 1792807678000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Video captures e-bike battery explosion inside Utah family's garage - KUTV",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZXZKN29QSmZONGxpbVhoYTRnTlUxZVR0M0JrbzgwaEU5QlhXQWd1bjJTWkNheXJkT2R3XzRTZnYtYW5UQ3RPSTFISjlTSlhXMXhvWE53aEo2aGN4RWc4V1BHaVJtRlhmWlR3aWJHTExxWGdKQk1INXFkcWVDdTRCU0x4V0V2LTJSMXh2RklXUXBYc016V2paUE93?oc=5",
+      "site": "KUTV",
+      "siteUrl": "https://kutv.com"
+    },
+    {
       "id": "FL-6219c5a90f8f",
       "date": "2026-10-19",
       "dateISO": "Mon, 19 Oct 2026 07:35:22 GMT",
@@ -85,6 +109,18 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FZ3Fob0VMeUdKTnRXRjd0eG5YNGJXNVVjd1ktWkNHZk10ZGpFaWVYMGNZTFp4OGl6ZlY4b2RnSU5nVmltWjRLaGVnRFhxWkI1eTJyQ3ZCSW5LSjdxV2hDekVSaw?oc=5",
       "site": "四川新闻",
       "siteUrl": "https://sichuan.scol.com.cn"
+    },
+    {
+      "id": "FL-e68660cee203",
+      "date": "2026-10-23",
+      "dateISO": "Fri, 23 Oct 2026 19:50:41 GMT",
+      "ts": 1792785041000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "伊朗称两艘超级油轮在霍尔木兹海峡南部触雷爆炸 - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1GVHI4OGV5THl2TFR1MUs4eWZxLXlJSS15SFZ0MFJ6SkQ0QWNmT3dEaHhzR0MzR2huVlRnMDlva3M5ODg2VDkyNWRINA?oc=5",
+      "site": "手机新浪网",
+      "siteUrl": "https://wap.cj.sina.cn"
     },
     {
       "id": "FL-0601896ac366",
@@ -133,18 +169,6 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFdlZndTBKUnktczZia0MtRVZiM0x4SWFtMUg3VDBmdTVpb1hFUDdTd085c0VkVFdYRU94WEd3S2lqb0hyX1ZwdlBaRDV3TDZuMVIwaGl4d2RVS2hUYjhmMmJvVm4ybk1yVXNkcGtmdGFIa2l3a2c?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
-    },
-    {
-      "id": "FL-d5f8279a7f68",
-      "date": "2026-10-23",
-      "dateISO": "Fri, 23 Oct 2026 07:13:24 GMT",
-      "ts": 1792739604000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "Ti6321钛合金焊接接头水下爆炸冲击下的力学性能与微观组织演化研究 - 生物通",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOOG5Xd1c4TVhOYWpSRlp3Ni1zSHVrOENiUUpVemN1VlNQbEl2Y3FRTEpMajFpeERPSV9IbGE1QkVrMWVmZDc3dF80U0tMVnV2WURETS1KOU91SDJ0WmdoTmxDQ3VBc0lnWUZsU3ln?oc=5",
-      "site": "生物通",
-      "siteUrl": "https://www.ebiotrade.com"
     },
     {
       "id": "FL-71aa423ebc6d",
