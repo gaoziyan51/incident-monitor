@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T01:45:06.169Z",
+  "updated": "2026-10-25T06:54:30.148Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,6 +15,54 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-a27e255726c5",
+      "date": "2026-10-25",
+      "dateISO": "Sun, 25 Oct 2026 05:13:45 GMT",
+      "ts": 1792905225000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "现场浓烟滚滚！外媒：美国艾奥瓦州一桂格燕麦工厂爆炸起火，百事公司回应 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tUnI1dXlPbFNMOTJneTk3Y1p3Ni1NRGticlNJR1R6c3ZCSHJfdDZBaG5VMEZSWVVjOGFZOEUtekR4TnpRbG1MT2N5Y1l1ZEVzWlZ6TzcyaUVwWm1hQkxhQVBQWC02VVFWTWdjeDVSaVV0bi11ekdwZQ?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
+    },
+    {
+      "id": "FL-de0212a34ed6",
+      "date": "2026-10-25",
+      "dateISO": "Sun, 25 Oct 2026 04:07:42 GMT",
+      "ts": 1792901262000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "全球最大的燕麦加工厂起火 疑似发生爆炸 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWTRBWFV6S3UyQy1iUUlVMmRyM1hoYU9xanNpUmY2dllmdmxXTEN2MVlKVlB4WFc3aEZ2R1Z3QzItNm84cExQSExHMTBIaTdxa2RaVFlYMlA1VEQtX0wxUjBNUVVBWTZxYU1lVkp4NzJXS1BmRW5ieG5VNUc4OTVHUmNXMk8zb2s?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
+    },
+    {
+      "id": "FL-968417c3b48e",
+      "date": "2026-10-25",
+      "dateISO": "Sun, 25 Oct 2026 01:43:58 GMT",
+      "ts": 1792892638000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Explosion and fire erupt at Quaker Oats plant in Cedar Rapids, Iowa; no injuries - Bozeman Daily Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQX2FISGVyUmpOaktpSG5ZLXdPWFQwMTcybGhsZ2dRRlNUdjh6LXhaTHo5MHVOcV9aSDd1WE4xZS1lTWhDVkZ1MjUxVjl5QVZGSGtxMTRKd2NaYjU4cF9mYzIwN3BPaTY2M01fOTZEZW9fSG8wXzVoX3FFX2lmdF90M1hzRmxkUFhxTWtmbFFqallGNlg0SXQzQmpENzVuTkczSVVfZVg3enB6YWVZamZ1UF9jYTRHdmVObWRoalFZQTRtd2FvSXZKY05WZ2ZhUmMzQ09oRktleWtpVk1zc3JGQVp2eTE4VzVzeWRlemp5WUhyZUtmVHBpLUkxa2ZaTzZzRS1xZXJWMA?oc=5",
+      "site": "Bozeman Daily Chronicle",
+      "siteUrl": "https://www.bozemandailychronicle.com"
+    },
+    {
+      "id": "FL-66cd4296953e",
+      "date": "2026-10-25",
+      "dateISO": "Sun, 25 Oct 2026 01:08:00 GMT",
+      "ts": 1792890480000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Explosion and fire erupt at Quaker Oats plant in Cedar Rapids; no injuries - TelegraphHerald.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdmFOZ3VjXzJqdTZLa2NwTlF3MjZvRDVmRnYwSVYxbFNqbjNoQ0Y0VS1DRXN2QTRaMUlJamw4TmF1cXNzQ0x5SVFjNGsxTm5LSy1GMUhDbHlmemIzMzBiRm5SMmNKQy1ITkQ1U014Wnl0TU1MTHVhLU5vT1poUkd3VGFKbTd3Rjk0bHBtZmd5anVxU2ZiQVlCSjBRTS05V0lwcms0?oc=5",
+      "site": "TelegraphHerald.com",
+      "siteUrl": "https://www.telegraphherald.com"
+    },
+    {
       "id": "FL-5a2951bcd152",
       "date": "2026-10-25",
       "dateISO": "Sun, 25 Oct 2026 00:34:08 GMT",
@@ -25,18 +73,6 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV0dsVHQzTVVfY3JRalFpWWpUbmtRdFpHVHhFMDg1ZXBKUy1OWFVuMWhWZ3RCYlZ4Q0JQQW43QTNxa05Va2hma2sxMV9lYTdpaW5OUWtTQWx2UXhCcEIwR1VQS2J5Tm84Zlo3VURCM01IdjVwV0l4elVqSG0xdWkxT0diZ1hMUU9WQUJQMzRLV253c1p2dWxQeDRtcGs1RTJGT0HSAacBQVVfeXFMTUdGaTdjRlUwd183WVR3VUdncHViREo4UmZ0QnJGdVczX0tXNmM5bjVsMUxQQkZIMnd2ZEtwdERlc2Q3R0hiblFuMkszdEI2cjJzVE40RU1CV1YyaGVHVDZadnpVQ1NRWmZOUGJWNmw1SkVJekFPMTZXWVRqZ0JVZmZWUjBYN3o0UmJqNUhjdXdjSmthZ0NNOHZDOXhDRFFUMVhZTFhkdjg?oc=5",
       "site": "ABC7 Los Angeles",
       "siteUrl": "https://abc7.com"
-    },
-    {
-      "id": "FL-9fdf5065c1fd",
-      "date": "2026-10-18",
-      "dateISO": "Sun, 18 Oct 2026 13:46:00 GMT",
-      "ts": 1792331160000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "焦点访谈丨火灾、爆炸、污染风险如影随形……化工厂何以建在群众生活区？ - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zdC1FTVpnVUdma3VaWXdyR2NDRFJBZEMwMVZXZERvRVdOcTI0cXVKU0FIMHRQbTFjVE9ja2xjeDAzUkQzLU9iOUlGSXh4VWJGX1FQV0toM0wxc3Rla29jcF8zaEZwS21JTW1kTF9aVlJZUQ?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
       "id": "FL-0615dd398028",
@@ -63,64 +99,16 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-98f541cea40a",
+      "id": "FL-8aa56a6d07da",
       "date": "2026-10-24",
-      "dateISO": "Sat, 24 Oct 2026 23:48:05 GMT",
-      "ts": 1792885685000,
+      "dateISO": "Sat, 24 Oct 2026 23:46:29 GMT",
+      "ts": 1792885589000,
       "scope": "intl",
       "type": "blast",
-      "title": "Explosion and fire erupt at Quaker Oats plant in Cedar Rapids, Iowa; no injuries | National News | 2news.com - KTVN",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVHBjbVBmV2FiRk1TNk56T1I1QXd0SXI1VnJobEZZSXJwcDVCOGhlU0JWc3d6SzdrUENrc1ZqcGdLdW1aOXFsb1VIZG1pX01Mb0lPTThyTEN5ZVMwQmhqNzNabFp3TDREem53NFAtVVdyUDFFRVNRcDZtX011eEttU0VmWmdUbi1GRWVfd2NoaVBJQmRuSk9NMEJQeUFaTHl4dVVTdnVuTS1iSS1MTHNNXzl5dXJpZ3RlX0NzaHRKZUhVdlpCNHB2TnhyUjRDOEFvZ1lRSzRqMXVINGV4NkwydjFmODJEbjNhRDFKOW03a05wcEti?oc=5",
-      "site": "KTVN",
-      "siteUrl": "http://www.ktvn.com"
-    },
-    {
-      "id": "FL-ce39b90fb6c2",
-      "date": "2026-10-24",
-      "dateISO": "Sat, 24 Oct 2026 23:48:05 GMT",
-      "ts": 1792885685000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Explosion and fire erupt at Quaker Oats plant in Cedar Rapids, Iowa; no injuries - Clinton Herald",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPRmFndlB5ay01RTFBVE4wdzBDa244UmNwaU9nRUNYcE5xYzJNbXJzd1g0N1h3MUxkLVFKWWVrUDJWWllEWjBuUGNpZFdaUUd3bDR3YUtFUWpHSUpXY2stSFlMY1NNRUxSTlFZdFdhbWljZlp5M3hpNjh2bmszencwaEg4Zld1clk0MmxRam9yTnNOclFvZWNhWnExcndHblE5SFZ0eHVTMzBLVXlWc1psdlgxSEl3dHBZaUE3S2dVRGJ6emZaYVJfNUpUSHVCTjBfNWJOd0JSTEh2bFJSX2pkdi11UDdIazZ4ZlJBOXZWdkQwT2JIMDhfLTVNaW1qckpvMVA5Y1hWN1o?oc=5",
-      "site": "Clinton Herald",
-      "siteUrl": "https://www.clintonherald.com"
-    },
-    {
-      "id": "FL-382de44d0cab",
-      "date": "2026-10-24",
-      "dateISO": "Sat, 24 Oct 2026 23:39:00 GMT",
-      "ts": 1792885140000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "No fatalities or injuries reported following explosion and fire at Quaker Oats - The Gazette",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMWJrR3NKY2xzbGlEbTA3M0gzYmIwdm0wcFFTSk9xZGQ3U2E0dGptdTdOT1oxX2JzM3hMMW5KNUZoTnNfV2ViT0t2TVg5RlNqT1JWTG9LUndKeXBpQXFqbFZtNVZ1c3VsMWFYM3NReWJvcjE3V1VDUldmMUczVERxRHlCTHl4QWFfRWZhcTdzM3ZaS1ZISmhPODFqbDQyNEFBOENFcmZuV2tmcXlBZFBzQVFEazlGUXZvM3NYc2lWM292bVl3SmE3Sl90dC1Gc0lscjN0RFF2YjlfbHdESVVnZXZ4enJDWFhIcWowRjRsUnM?oc=5",
-      "site": "The Gazette",
-      "siteUrl": "http://www.thegazette.com"
-    },
-    {
-      "id": "FL-18d2979046fb",
-      "date": "2026-10-24",
-      "dateISO": "Sat, 24 Oct 2026 22:54:31 GMT",
-      "ts": 1792882471000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Firefighting continues after reported explosion at Cedar Rapids Quaker Oats - KGAN",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTEdRNFVWcTNjQnhOUVFfNm43ZU9MTXRLcXVEcy02bExDNjJGN05MREF5SkVMLTkyeWswZ0JCekJ2OUxaMWZ5MkhOc2RqajJGSkFkVHVzT1lsWTBLbVZBQVhLQWExOWhzeVc0TUZ3dlY3SVlIU0dqeTFyWThnOTMyXzkxTVdFYkwyS3dPNGZ1bVk4YkFHZTNqY2I4LTdmSThPdFNpR2diRHFqZDA?oc=5",
-      "site": "KGAN",
-      "siteUrl": "https://cbs2iowa.com"
-    },
-    {
-      "id": "FL-9dd019bef2fa",
-      "date": "2026-10-24",
-      "dateISO": "Sat, 24 Oct 2026 22:18:00 GMT",
-      "ts": 1792880280000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "BREAKING: Explosion at Quaker Oats factory in Cedar Rapids - KWWL",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaG5WUVdtM3VOWFU2LS1ZWElpaVpNWnVkTklaUkZYVEM0ZnNYRWJiSm9kYlZ6UDYyNm4wSDBVanhiYWdaZklBckJ1LTgtdTdQbk55NGREc0Y1cDdFVFd1aWJyRmhrR0UtYkp3SFpMOFJ6SzVNc1kyM0NoT2s4a1V1ZzEtZTllSVRYV0ZTVERxdzdyTjFwbnF4MEJGUldKZWl1SUd4c3FyOHJwZWx6Uks4Vmh6d0I3OGpvejZkcEFCWHZ0eV9GM21iSDJ2RFFBZw?oc=5",
-      "site": "KWWL",
-      "siteUrl": "https://www.kwwl.com"
+      "title": "Evidence of explosion after fire at Quaker Oats building in Cedar Rapids - WHO13.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQampmRloxWTVQU0NyU0JtdnNqdmFQbFBfMW9NbDdheVc2TXE2eUIxcUNlMTRlSUZLRlhGTWxVa2lKQTgwZXFZTWVsZ25FeUFzS0c3TGJCSVlqT2MzU0E3QjBNNVdNMURpT2R1VGhXZTR6WndtMEN3d2Q0V3dPVlYtcnQ3S0puNFMxVTNtSk9HOTU2emU2M253RlVFRGh4Ri1zTTEtRmcxQXE4d9IBrwFBVV95cUxQM3o3TEVsSVdiSmItYTkweUlzVkxUZEtTVFlaTHRmblE5YUZJMWNBNE0xR3B2dWxjcTRZV0p1REtPY1JjZEJ0U09wVjZiOXVTMmFzdE5UakpvSVY4S2VVQVd3NXNwaHFoNHNka1pva1BjS3ljdUljTXdYWXIxeHV5Rlo1VGRuUjlpalJMWmVFa1lsOFlSNGZmR2F6czExY0VscWhRUXpfQ05sdjJseGZn?oc=5",
+      "site": "WHO13.com",
+      "siteUrl": "https://who13.com"
     },
     {
       "id": "FL-33abd8304f19",
@@ -169,6 +157,18 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FZ3Fob0VMeUdKTnRXRjd0eG5YNGJXNVVjd1ktWkNHZk10ZGpFaWVYMGNZTFp4OGl6ZlY4b2RnSU5nVmltWjRLaGVnRFhxWkI1eTJyQ3ZCSW5LSjdxV2hDekVSaw?oc=5",
       "site": "四川新闻",
       "siteUrl": "https://sichuan.scol.com.cn"
+    },
+    {
+      "id": "FL-b042a088a326",
+      "date": "2026-08-03",
+      "dateISO": "Mon, 03 Aug 2026 07:00:00 GMT",
+      "ts": 1785740400000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "巴基斯坦西北部发生爆炸致14人死亡 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-cc11d24c86d8",
