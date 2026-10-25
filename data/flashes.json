@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T06:54:30.148Z",
+  "updated": "2026-10-25T12:09:52.805Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,16 +15,52 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-a27e255726c5",
+      "id": "FL-0c250243e30e",
       "date": "2026-10-25",
-      "dateISO": "Sun, 25 Oct 2026 05:13:45 GMT",
-      "ts": 1792905225000,
+      "dateISO": "Sun, 25 Oct 2026 10:01:51 GMT",
+      "ts": 1792922511000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "不冒烟 未泄露 不爆炸，150米陡坡极限翻滚挑战成功 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ2FyQUlBV3piWUlvNFl6ZV93SDJRTDdTeHBTcUhFek11cnpsRVpIM041cXlZRVB1eUl5YWVkUzFFUzQ2N2xXRExQaHpUOVZsQ256X0RvMzlJWktlQXRCV2tyNFZMRFBXVGxtTE9FaHB2YnhuNjY5NkJYVWpKTUltWGZFOGZGRGVXSmViTw?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-68dc025d4d67",
+      "date": "2026-10-25",
+      "dateISO": "Sun, 25 Oct 2026 09:37:00 GMT",
+      "ts": 1792921020000,
       "scope": "intl",
       "type": "blast",
-      "title": "现场浓烟滚滚！外媒：美国艾奥瓦州一桂格燕麦工厂爆炸起火，百事公司回应 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tUnI1dXlPbFNMOTJneTk3Y1p3Ni1NRGticlNJR1R6c3ZCSHJfdDZBaG5VMEZSWVVjOGFZOEUtekR4TnpRbG1MT2N5Y1l1ZEVzWlZ6TzcyaUVwWm1hQkxhQVBQWC02VVFWTWdjeDVSaVV0bi11ekdwZQ?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
+      "title": "报复来得太快！10月23日凌晨利雅得爆炸，胡塞首次轰炸沙特国防部 - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QTXZfX3FLc2RMQjRJVkpaLWUzS0lCRlVjU0toUHpVLTRjMGw3SDhYOVVVbks3ZWktLWhrenFtMnJqcFB4V0ZOZ1BkQlVuMHh5eEgyVW5TOGNONjE1RFI5TkZOajZ4b2lqVVNrTnQ1RDgzdw?oc=5",
+      "site": "手机新浪网",
+      "siteUrl": "https://k.sina.com.cn"
+    },
+    {
+      "id": "FL-b6bc50eacd92",
+      "date": "2026-10-25",
+      "dateISO": "Sun, 25 Oct 2026 07:39:22 GMT",
+      "ts": 1792913962000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "美国艾奥瓦州一桂格燕麦工厂爆炸起火，百事公司回应 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53QUxFVzlaT3NVQmIxR1JBXzJPNzhab0NRVjVVS1pFR1Q1aDNwUXBmWmQ2a2c3OHBWQlRKQ2lhTFF6TVpQb1NfdkI4RzVtZFl6MUpBOEN5ZkxVUlJ3U2c?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
+      "id": "FL-18d2979046fb",
+      "date": "2026-10-25",
+      "dateISO": "Sun, 25 Oct 2026 04:58:45 GMT",
+      "ts": 1792904325000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Firefighting continues after reported explosion at Cedar Rapids Quaker Oats - KGAN",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTEdRNFVWcTNjQnhOUVFfNm43ZU9MTXRLcXVEcy02bExDNjJGN05MREF5SkVMLTkyeWswZ0JCekJ2OUxaMWZ5MkhOc2RqajJGSkFkVHVzT1lsWTBLbVZBQVhLQWExOWhzeVc0TUZ3dlY3SVlIU0dqeTFyWThnOTMyXzkxTVdFYkwyS3dPNGZ1bVk4YkFHZTNqY2I4LTdmSThPdFNpR2diRHFqZDA?oc=5",
+      "site": "KGAN",
+      "siteUrl": "https://cbs2iowa.com"
     },
     {
       "id": "FL-de0212a34ed6",
@@ -34,33 +70,33 @@
       "scope": "dom",
       "type": "blast",
       "title": "全球最大的燕麦加工厂起火 疑似发生爆炸 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWTRBWFV6S3UyQy1iUUlVMmRyM1hoYU9xanNpUmY2dllmdmxXTEN2MVlKVlB4WFc3aEZ2R1Z3QzItNm84cExQSExHMTBIaTdxa2RaVFlYMlA1VEQtX0wxUjBNUVVBWTZxYU1lVkp4NzJXS1BmRW5ieG5VNUc4OTVHUmNXMk8zb2s?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaVVWaW8wVFZrY2NJQVQxX3RhWmhRTmMxQ25zSmtmc0NVRnNQc0NfaHdvd0FFUE9JOEprVnBmc3AxVkRSSTVZOXIxN0c1eU9LWVFvWU9JV0lUUXl6ZVBIVjJlSUdhcEsxUEl1dzloWTNWZW9XajJUZkNwaVdiMmJzbWptQmE4VWdXRF8zSWhvcFlpS3ZSMENRM3dyVDQ?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-968417c3b48e",
+      "id": "FL-e810bb2a3d63",
       "date": "2026-10-25",
-      "dateISO": "Sun, 25 Oct 2026 01:43:58 GMT",
-      "ts": 1792892638000,
+      "dateISO": "Sun, 25 Oct 2026 03:49:22 GMT",
+      "ts": 1792900162000,
       "scope": "intl",
       "type": "blast",
-      "title": "Explosion and fire erupt at Quaker Oats plant in Cedar Rapids, Iowa; no injuries - Bozeman Daily Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQX2FISGVyUmpOaktpSG5ZLXdPWFQwMTcybGhsZ2dRRlNUdjh6LXhaTHo5MHVOcV9aSDd1WE4xZS1lTWhDVkZ1MjUxVjl5QVZGSGtxMTRKd2NaYjU4cF9mYzIwN3BPaTY2M01fOTZEZW9fSG8wXzVoX3FFX2lmdF90M1hzRmxkUFhxTWtmbFFqallGNlg0SXQzQmpENzVuTkczSVVfZVg3enB6YWVZamZ1UF9jYTRHdmVObWRoalFZQTRtd2FvSXZKY05WZ2ZhUmMzQ09oRktleWtpVk1zc3JGQVp2eTE4VzVzeWRlemp5WUhyZUtmVHBpLUkxa2ZaTzZzRS1xZXJWMA?oc=5",
-      "site": "Bozeman Daily Chronicle",
-      "siteUrl": "https://www.bozemandailychronicle.com"
+      "title": "Authorities investigating explosion at Quaker Oats factory in Cedar Rapids - KWWL",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaVF0bGEwRko5Y3NISmNsdE44WkdNUGJUVjNZamc4N3VFYWxSSzlYTmdoWUpGeUlWQ2p0Uk0tYXJwam9wTFRKTXdSREpkT2t6TWVvZFRHMHEwS1VGOEpYd3U5ZHBuY0xKTUlld1ZNRGZvMjBqb3lWR3NSVmVBRmd2eW84dHA0QzM3SmJUSGZERnhNbVNxS3hOU29ER1l6QmhnTVg5MXBqMG9aN2pEZlRwNnU5UjllUjkzZlJhMlh1ZlhwM3NtUTloTlNHVUJLVHhHalBOY2NUMWpObDRBRkoyU1gxWWU?oc=5",
+      "site": "KWWL",
+      "siteUrl": "https://www.kwwl.com"
     },
     {
-      "id": "FL-66cd4296953e",
+      "id": "FL-c9be46aaa20c",
       "date": "2026-10-25",
-      "dateISO": "Sun, 25 Oct 2026 01:08:00 GMT",
-      "ts": 1792890480000,
-      "scope": "intl",
+      "dateISO": "Sun, 25 Oct 2026 02:27:25 GMT",
+      "ts": 1792895245000,
+      "scope": "dom",
       "type": "blast",
-      "title": "Explosion and fire erupt at Quaker Oats plant in Cedar Rapids; no injuries - TelegraphHerald.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdmFOZ3VjXzJqdTZLa2NwTlF3MjZvRDVmRnYwSVYxbFNqbjNoQ0Y0VS1DRXN2QTRaMUlJamw4TmF1cXNzQ0x5SVFjNGsxTm5LSy1GMUhDbHlmemIzMzBiRm5SMmNKQy1ITkQ1U014Wnl0TU1MTHVhLU5vT1poUkd3VGFKbTd3Rjk0bHBtZmd5anVxU2ZiQVlCSjBRTS05V0lwcms0?oc=5",
-      "site": "TelegraphHerald.com",
-      "siteUrl": "https://www.telegraphherald.com"
+      "title": "美爱荷华州桂格燕麦厂 爆炸起火幸无伤亡 - China Press",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPU19WdU16empBbjJrNE1NLTBoUmpubWpUeXFnU2tJZEJKcVpSX0tRb0I0cHVMNThCc1VXUDhldC00TWVNSnRSVk9NS2dZTXJwM1E2T1dmSDE3WnB5WUk4Y3lxdV82VWswaTVLdkoweXFQOTZRb0pHOFRtcGZ5SkRyOGhocEl5aGFoNzRUX2IxY3FVUHJNcGtXRzhZaTJMVmlSOHJmUFFEc2R0Z0Q0U0dEMC1fV0JHYndkVXBFVy1ZcGZ6ZWE5akZOQk1LLU5LOVFCVmpkTDJObjR1V2xVR2lUS3Z5eVFoSTlLOElZOGxnUHg0bm01TE9Ga29EOVBiZFBvZ3dRN2F0UmZ0UjF4MHREUzFYSlV4VXRnMUgtYnNkRWdKX0JPU1BSTXBWcw?oc=5",
+      "site": "China Press",
+      "siteUrl": "https://www.chinapress.com.my"
     },
     {
       "id": "FL-5a2951bcd152",
@@ -195,16 +231,16 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-10369e8893ae",
+      "id": "FL-3f132a994bbf",
       "date": "2026-10-23",
-      "dateISO": "Fri, 23 Oct 2026 00:29:31 GMT",
-      "ts": 1792715371000,
+      "dateISO": "Fri, 23 Oct 2026 00:33:00 GMT",
+      "ts": 1792715580000,
       "scope": "intl",
       "type": "blast",
-      "title": "沙特首都利雅得多次传出爆炸声 - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUUZTUjRneHNLZWIxLTlvR2R3UHhoTXBnbzc4MGxjanhVczZlX0lzUUJzS0J0Q3hwMmpEUVFKVjZjS0RNOUdsZE9XbGh0Y1hBWGxZcUptUHFCTVdOVTdRT1EwamdFUVNKMmVETWpuc3RnRnoyemZQN3Q3X1RLbk5ZOHZSN3R3Yi12?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
+      "title": "韩国就韩朝非军事区地雷爆炸事件致函联合国安理会 - 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fMERUU3dhcUJMbWMtVXpkRzVsLWVGZ1lITWhUeFp1VVdGb1lzbHVXVlp0N19xdVh0eHhsYXNodTg4c1pDdFZNa2JjNUNib0ZwbER1cVhsNi1fTk9EUTUxa2xPeVI?oc=5",
+      "site": "新京报",
+      "siteUrl": "https://www.bjnews.com.cn"
     }
   ]
 }
