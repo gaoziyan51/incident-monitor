@@ -1,7 +1,31 @@
 {
-  "updated": "2026-10-25T21:19:47.381Z",
+  "updated": "2026-10-25T23:20:01.450Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-710fe48d473f",
+      "date": "2026-06-03",
+      "dateISO": "Wed, 03 Jun 2026 07:00:00 GMT",
+      "ts": 1780470000000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "特别重大瓦斯爆炸事故后 山西煤矿迎来“最严整治” - 中国能源新闻网",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tM3B2anpUNmRxVVRfUk0yOVBuN2ZDNU9uQUJXWEljSEFEX3FXVU5QUWVXZEh0b3drdU5fNXlkXzRvdURYaDZJYXRkN0hUWXJoRXBPcXVud2NpLWRLQUxpMXZTYU5DNnRYbGQ5TVlR?oc=5",
+      "site": "中国能源新闻网",
+      "siteUrl": "https://www.cpnn.com.cn"
+    },
+    {
+      "id": "FL-385dd58b908a",
+      "date": "2026-08-11",
+      "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
+      "ts": 1786431600000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - 财新",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQcmdXTjEtaEEwQXAyc0dzZ29xdEtVZ3VnTzNSdEdIODhUbTkwVE1WYUJKZGlFN0N1TkdlQTNEZDA1SkNEejNqVS15STYwTURwckdUM0REQUMyTHdNQk5oSjlR?oc=5",
+      "site": "财新",
+      "siteUrl": "https://science.caixin.com"
+    },
     {
       "id": "FL-851f40422b15",
       "date": "2026-10-22",
@@ -15,6 +39,30 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-d646025b1946",
+      "date": "2026-10-08",
+      "dateISO": "Thu, 08 Oct 2026 07:00:00 GMT",
+      "ts": 1791442800000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "湖南临澧“6·16”烟花爆炸事故调查报告公布 - 封面新闻",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91enlpNldsRnhkeFAxV3pqa24ta2lidWptTFhfQjFsM0ZRR0F2Z1NOUXdsR2pkSHpqOHMxVGphZGpUbnhVYXNyajlMazNlanNGUmpkQW1XOXlNazk1bVdVeV9sZi1nZjZhd01jamkzNTI2dWdrTzI1TElR?oc=5",
+      "site": "封面新闻",
+      "siteUrl": "https://m.thecover.cn"
+    },
+    {
+      "id": "FL-79baaa101535",
+      "date": "2026-10-25",
+      "dateISO": "Sun, 25 Oct 2026 22:04:30 GMT",
+      "ts": 1792965870000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Neighbors report hearing explosion before fire engulfs Raleigh home - WRAL",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QakRCQWt1bzM3VHJ6cXJkRW1Ib05qcTBVVmNHYWRGZUtKUlVJN2Z2ZE5Bc1htSkNEVUktU0pUOWNhbktuaHJyS0dsbHBBY1lmZVVoOXdJUUNmMHhWUi1DaW90RzlfMUk4aFdOalBUZ0RpNFlHU0p0TzNKRTZFdw?oc=5",
+      "site": "WRAL",
+      "siteUrl": "https://www.wral.com"
+    },
+    {
       "id": "FL-a25da5b46603",
       "date": "2026-10-25",
       "dateISO": "Sun, 25 Oct 2026 20:19:13 GMT",
@@ -25,42 +73,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RQ3E0TEpteklQbzVaeTd1VWtWM25qU1dlQ1N0RkdOQnNqZ3pmc1laYk4tY2N4V0UtNXhWMkRHaWJsZTYyYUtvd3JYX29BR08yX243OWwtUGpIdjFLU3EyYdIBZkFVX3lxTFAtZDYtMDlqNWxveWtvc1o1d2pLV1ZRLVprVURmM2JLeXE4bmhSbTg4SGc3ZG1wZlhwZUdGdVJobHl4RzRnOFhFV3Q2RUNLOGYyaWE0ZWRlZGtWUDZ6U0FNMFhtRjAyUQ?oc=5",
       "site": "新唐人電視台",
       "siteUrl": "https://www.ntdtv.com"
-    },
-    {
-      "id": "FL-778dba475d5f",
-      "date": "2026-10-25",
-      "dateISO": "Sun, 25 Oct 2026 17:25:24 GMT",
-      "ts": 1792949124000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Fire and Explosion Break Out at Iowa Quaker Oats Factory Known as the ‘Largest Milling Facility in the World’ - People.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWnNLOXFzSlY1TmtSNjRCMXJCN0xxcWxMX2M4MlVLMF9hOHAybTJmb2FRczc0cnVlVkg1Z0tfVnFtTktldjJKckdzalN5WmZtaTgxb1Utb212NW1fZUhDWVFycTRVSkxicmxaNUttZ1MyR2FaT0ROYTRiWDNnN2YzMks2T3Y0WFE?oc=5",
-      "site": "People.com",
-      "siteUrl": "https://people.com"
-    },
-    {
-      "id": "FL-ec037340f486",
-      "date": "2026-10-25",
-      "dateISO": "Sun, 25 Oct 2026 15:56:29 GMT",
-      "ts": 1792943789000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "彻底爆炸！近2周曼联：利马批高层，B费卡里克互怼，惨负科莫樱桃 - 直播吧",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9VZkJqblpHY1pmVGhwVmcycy1rdTRZaTlrMDVNdndwMGw3RHpDdk5ST2IwU2hRazBQYmppRmR4MGJoSGwxRmpmQVI1V05CS0F6dVU1QU9iREFWaDlLMUlLMzhCVHdrd3lTNkJydWJUbWlXZw?oc=5",
-      "site": "直播吧",
-      "siteUrl": "https://news.zhibo8.com"
-    },
-    {
-      "id": "FL-9ea82f96e88a",
-      "date": "2026-10-25",
-      "dateISO": "Sun, 25 Oct 2026 12:51:09 GMT",
-      "ts": 1792932669000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "河北秦皇岛一女子拿菜刀给啤酒桶放气，引发啤酒桶爆炸，当事人：刀刃不锋利口子开大了导致炸开，杯子崩碎，手部轻微伤 - 手机网易网",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1JVEVXek4yR1Y3azduN0hUYTBfR29DY3drQ1J5VEdVQ1V1b1NuV1BJMXFKakduRFBUejZMdTVoZktqeWJldUhiVVZlYmhSMnJCWWtSTWtYbTFSdERtMzVjZ1p3?oc=5",
-      "site": "手机网易网",
-      "siteUrl": "https://www.163.com"
     },
     {
       "id": "FL-924c7212de88",
@@ -111,18 +123,6 @@
       "siteUrl": "https://k.sina.com.cn"
     },
     {
-      "id": "FL-3e15e3e71419",
-      "date": "2026-10-25",
-      "dateISO": "Sun, 25 Oct 2026 08:15:00 GMT",
-      "ts": 1792916100000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "机场部分恢复运营 利雅得再传三声爆炸 - 亚洲电视新闻",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNQ2RhV0pfdDk0US1KaDgtaHNSU2lGODNZNkZ0czl0RkQzXzNlXzh1Z1c5UWU0dGRFbGhkRTd2SnNEa2ZzYURZWU1Fb3hPalViTEljLTJDNnJ5Y2F3S000bWNlSzEwV3JIWHRJTVh2azh4Ulg4czRGRlJyT3Vxb0tXVndpWTFwRmtKcEswX2xpTGJaeTlCdURHYVJJYVVrX3E1Z0R6M0l3Q3BxQ2dJb2RSaHZFRUNKSFd3N0NibjVyMjZHOEMya29TZWt2dWozaVBubElBUzVrOWJ5eEsyR2xEbms4cEhxcF96NkJFSHNSRmhqeTFzMEhOM0lXVDRBbVBIMjY5ZEM5OEpFQ2RoU0hUMVMzWkdCQQ?oc=5",
-      "site": "亚洲电视新闻",
-      "siteUrl": "https://atvnewsonline.com"
-    },
-    {
       "id": "FL-b6bc50eacd92",
       "date": "2026-10-25",
       "dateISO": "Sun, 25 Oct 2026 07:39:22 GMT",
@@ -135,6 +135,18 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
+      "id": "FL-e7f502d2cce6",
+      "date": "2026-10-25",
+      "dateISO": "Sun, 25 Oct 2026 05:39:19 GMT",
+      "ts": 1792906759000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "美国艾奥瓦州一桂格燕麦工厂爆炸起火，消防部门称事故未造成人员受伤，百事公司回应 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPR0d3ZDdOdzVYdWdTV1Fia21Rc1VoVkZ5RUJESDhGUGlGVVlvQ3RXR2JrdmExVGEyaEhFMlpuQTVQSDVORVNEQXNxd3NPOTFoY0toV0JuUURONXFUTHpUaTlMbTE1aFpXS0tfRExnUzBaUXdPUVdXci1UWmQwTDdERi1qUlQ3S2pSOFppUQ?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-de0212a34ed6",
       "date": "2026-10-25",
       "dateISO": "Sun, 25 Oct 2026 04:07:42 GMT",
@@ -142,7 +154,7 @@
       "scope": "dom",
       "type": "blast",
       "title": "全球最大的燕麦加工厂起火 疑似发生爆炸 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWTRBWFV6S3UyQy1iUUlVMmRyM1hoYU9xanNpUmY2dllmdmxXTEN2MVlKVlB4WFc3aEZ2R1Z3QzItNm84cExQSExHMTBIaTdxa2RaVFlYMlA1VEQtX0wxUjBNUVVBWTZxYU1lVkp4NzJXS1BmRW5ieG5VNUc4OTVHUmNXMk8zb2s?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTWd3Rk13azFkR2s3ZGJwc1JTa3Y1UDd4U1kwdWlGMURyZHctRTNWWS1DVUoydWxlbG5GRWpXd1N2ZTR3RVhCbXRaNzRleU9jRThPTktnSHlKV2o5blVVU0wxZ2NKVXdQVmo3TDZ6RDRpVE5TYVJLbTB0NWt0VTlPRFdNZHVWYU9rN184SXRaX3Nsc3hhdkwyVVp5blA2TlNHVVNEZUN1MkZ2VUhCNmU4OE1KZEE1N3VVelBFUjExQTlwLWJGUC16aVF5OV9sM3pUMVNIdGI3bVpuTEtyZ05J?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
     },
@@ -157,6 +169,30 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV0dsVHQzTVVfY3JRalFpWWpUbmtRdFpHVHhFMDg1ZXBKUy1OWFVuMWhWZ3RCYlZ4Q0JQQW43QTNxa05Va2hma2sxMV9lYTdpaW5OUWtTQWx2UXhCcEIwR1VQS2J5Tm84Zlo3VURCM01IdjVwV0l4elVqSG0xdWkxT0diZ1hMUU9WQUJQMzRLV253c1p2dWxQeDRtcGs1RTJGT0HSAacBQVVfeXFMTUdGaTdjRlUwd183WVR3VUdncHViREo4UmZ0QnJGdVczX0tXNmM5bjVsMUxQQkZIMnd2ZEtwdERlc2Q3R0hiblFuMkszdEI2cjJzVE40RU1CV1YyaGVHVDZadnpVQ1NRWmZOUGJWNmw1SkVJekFPMTZXWVRqZ0JVZmZWUjBYN3o0UmJqNUhjdXdjSmthZ0NNOHZDOXhDRFFUMVhZTFhkdjg?oc=5",
       "site": "ABC7 Los Angeles",
       "siteUrl": "https://abc7.com"
+    },
+    {
+      "id": "FL-9fdf5065c1fd",
+      "date": "2026-10-18",
+      "dateISO": "Sun, 18 Oct 2026 13:46:00 GMT",
+      "ts": 1792331160000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "焦点访谈丨火灾、爆炸、污染风险如影随形……化工厂何以建在群众生活区？ - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zdC1FTVpnVUdma3VaWXdyR2NDRFJBZEMwMVZXZERvRVdOcTI0cXVKU0FIMHRQbTFjVE9ja2xjeDAzUkQzLU9iOUlGSXh4VWJGX1FQV0toM0wxc3Rla29jcF8zaEZwS21JTW1kTF9aVlJZUQ?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://xinwen.bjd.com.cn"
+    },
+    {
+      "id": "FL-4cf6c3ace1a1",
+      "date": "2026-07-12",
+      "dateISO": "Sun, 12 Jul 2026 07:00:00 GMT",
+      "ts": 1783839600000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "上海市人民政府关于加强2026世界人工智能大会暨人工智能全球治理高级别会议期间枪支弹药、爆炸、剧毒、放射性等危险物品安全管理的通告 - 上海市人民政府",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT1NIU3h2VzlOdHh4dzRTSl9xc3BkZFozVHVVSl9YVVIwWGZ6SDZHbElfNTV1a1VBWjFzQ0VsTjdKU2ZxTU15LWxkU1U0VmJsVS1DM3VELTJ0cHAtMlpSM1FnbzI5eXNfbkoyUktCdzlkWkZMdUNiajdUQmtoMk96LTBiNE0zVXAyTkE?oc=5",
+      "site": "上海市人民政府",
+      "siteUrl": "https://www.shanghai.gov.cn"
     },
     {
       "id": "FL-0615dd398028",
@@ -183,18 +219,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-33abd8304f19",
-      "date": "2026-10-24",
-      "dateISO": "Sat, 24 Oct 2026 22:06:00 GMT",
-      "ts": 1792879560000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "UPDATE: No one hurt after fire, explosion Quaker Oats in downtown Cedar Rapids - KCRG",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNakF0QzBoc3VxNEp3WGFSUElIaFF1Ri1xRkxVdk9TeXh6ekt2MnBQN2RaeWxqMWJaNTFfLW0zX1psWkFVb2VCak5yT0hER3E0VVpxSy1zUmNfN2V4OVlJTlE5UDltcEJnb2w3Uno3bWpObENTa3A2LVlQYVRrSW1hVU9XRzhiZ1o4cWVvbWFld9IBowFBVV95cUxQSTR4NWpfa1M0blZQdFJuQlVUcXJqek1jM01tOVZQNjJBOHdoN3Fua1p1cDBxS3BYOHhibDk0eHpxMGp3Z2tHTXN6eDdQbm9vS3p1eHhqUWhGM0JPQ2wxRjUxR2hIUGtoX0JNc1h3azFYelZWcktsM3p4amZzelZ5cXROVm9HbGpoM2czS09UcjRGdWNQczJCQUczVnVRWllJV1Fz?oc=5",
-      "site": "KCRG",
-      "siteUrl": "https://www.kcrg.com"
-    },
-    {
       "id": "FL-7072de38261c",
       "date": "2026-10-24",
       "dateISO": "Sat, 24 Oct 2026 00:30:37 GMT",
@@ -207,6 +231,18 @@
       "siteUrl": "https://wap.eastmoney.com"
     },
     {
+      "id": "FL-160d55aeb47e",
+      "date": "2026-06-22",
+      "dateISO": "Mon, 22 Jun 2026 07:00:00 GMT",
+      "ts": 1782111600000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "卡塔尔工厂爆炸已致13人死亡 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mR2pTX0YxWjBwQ2lLNC1XZjFhd3IwVEYtWkZFR3ZBU3B5RTFHR1BldmQ3OEkxN2NaWTMzYUkwWENDeEliY3dVNEloOExFS1B6SlZQTENHdWVmTWpUM042M2hRcmo4QS1qdl85cXlhZHJ3R3JGTEU4?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
       "id": "FL-6219c5a90f8f",
       "date": "2026-10-19",
       "dateISO": "Mon, 19 Oct 2026 07:35:22 GMT",
@@ -217,6 +253,18 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FZ3Fob0VMeUdKTnRXRjd0eG5YNGJXNVVjd1ktWkNHZk10ZGpFaWVYMGNZTFp4OGl6ZlY4b2RnSU5nVmltWjRLaGVnRFhxWkI1eTJyQ3ZCSW5LSjdxV2hDekVSaw?oc=5",
       "site": "四川新闻",
       "siteUrl": "https://sichuan.scol.com.cn"
+    },
+    {
+      "id": "FL-0d37be8e3bed",
+      "date": "2026-10-05",
+      "dateISO": "Mon, 05 Oct 2026 07:00:00 GMT",
+      "ts": 1791183600000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "韩国公布非军事区地雷爆炸事件最终调查结果 - 封面新闻",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mOW90LUsxZ0prZmZVUFNmTkZ0QjQ1NzdDY195Z25fWFVDaXM3ZkloeTNkY3c3RnpVSVd3ZlFJY3c4YWlIalBYMDJWaGE0SUpZTm8zS2VZbUZmc2hoS2cwbFRPSTFHWGxOUVRYWkU2clJNdDg4Zk9PVm9n?oc=5",
+      "site": "封面新闻",
+      "siteUrl": "https://m.thecover.cn"
     },
     {
       "id": "FL-b042a088a326",
@@ -253,18 +301,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81QmJGYV9aVzdmdUc0VzNoYVJpd19hTHZuMXFONTdiZ3dCalBza29aNVZ0SGhiWVhVTjVTaWdGc1c5dVJRYlBva1BkUnhDY1lxLWF2TDN2eFRIQTZVdVRWSEFyYXJMQjMx?oc=5",
       "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
-    },
-    {
-      "id": "FL-477b3c2e700e",
-      "date": "2026-10-23",
-      "dateISO": "Fri, 23 Oct 2026 00:43:11 GMT",
-      "ts": 1792716191000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "沙特首都利雅得传出爆炸声 导弹被拦截摧毁 - 中华网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1iajlmamhhdEJoUG5rNXZQenBYTUJQR1QxTi1STEpLMzBDX3RSMjB3NTBuYzgtLVNlRUhtbVVpWmk2b1MzZld1Zy1YX3JoanhPT3R3Q05uU3BBaXVDS05KTk5vck5RN1dja0dPb1QyU0k?oc=5",
-      "site": "中华网",
-      "siteUrl": "https://news.china.com"
     },
     {
       "id": "FL-3f132a994bbf",
