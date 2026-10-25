@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T16:07:27.597Z",
+  "updated": "2026-10-25T18:57:10.635Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -17,12 +17,24 @@
     {
       "id": "FL-1a209d4f7983",
       "date": "2026-10-25",
-      "dateISO": "Sun, 25 Oct 2026 15:05:35 GMT",
-      "ts": 1792940735000,
+      "dateISO": "Sun, 25 Oct 2026 16:12:00 GMT",
+      "ts": 1792944720000,
       "scope": "intl",
       "type": "blast",
       "title": "See scene after explosion at Quaker Oats plant in Cedar Rapids - The Des Moines Register",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNHVmalB1cURLcXAxSEhZa0cxaGI4Wm9DNGp5NnZTWTFsSnhnLUVRNFBhNjZ3UFhMX1dDOVpVQnlzNkJTWlJwam9CNDVfYnZHSV9yUTBMcTB5RFlZX3dkQnBVaXdrbVZRTU5lVGJkOWlJS1VvVGFhOW9jdTh2UUtQcy1ZX3VaQ1A2bVpwV0dKREtOSGZ1V21HQV8zQ05NMExITEtRYjl5UEp6c3hCQ2tzN0cwS1g5cW1RaVhN?oc=5",
+      "site": "The Des Moines Register",
+      "siteUrl": "https://www.desmoinesregister.com"
+    },
+    {
+      "id": "FL-de09e39d5b5b",
+      "date": "2026-10-25",
+      "dateISO": "Sun, 25 Oct 2026 16:09:00 GMT",
+      "ts": 1792944540000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Quaker Oats plant in Cedar Rapids, Iowa, catches fire after explosion - The Des Moines Register",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNThIbUFsQXdDS0k4VnRFRndCR2E5MFJJRTB4MTF6OUplMXAyalFnWlF2cTdNd0NCVldBNEJ2ZnRjbHZuTnc4c2pOdGxuT1cyVzJWVm5yU2ZyVVpGd0M3MmR0cEpvclZKYjZjTXdBeEFMZlZyWHJDOC0yUnNndzU2TEp1VkZab3JNa1BXSmx4eENTcGQ3V09HaVVVZEpKc2IyNEx5aWRKVTRVTks1MFViVnVqdw?oc=5",
       "site": "The Des Moines Register",
       "siteUrl": "https://www.desmoinesregister.com"
     },
@@ -118,7 +130,7 @@
       "scope": "dom",
       "type": "blast",
       "title": "全球最大的燕麦加工厂起火 疑似发生爆炸 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSUxRVW1tVGh5R2wyMEd3SVo4NmtDU1Y4OENqY29oODBocTVlUlRVVWdsSGlPcTJ3b296MHdMZll2SzNDMlpfamQ5emJUYWVmTGVCWlVLcXNHb0NCZG9DOVBFUTJZWlMxTFR4NG8tcWhUdW1YNVJ2bVJuNElacW9JTm9nNExpb0xldXRJTW5ER3h6TWVpWWlOTTdnLVdFdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaVVWaW8wVFZrY2NJQVQxX3RhWmhRTmMxQ25zSmtmc0NVRnNQc0NfaHdvd0FFUE9JOEprVnBmc3AxVkRSSTVZOXIxN0c1eU9LWVFvWU9JV0lUUXl6ZVBIVjJlSUdhcEsxUEl1dzloWTNWZW9XajJUZkNwaVdiMmJzbWptQmE4VWdXRF8zSWhvcFlpS3ZSMENRM3dyVDQ?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
     },
