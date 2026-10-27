@@ -1,16 +1,40 @@
 {
-  "updated": "2026-10-27T13:35:43.821Z",
+  "updated": "2026-10-27T18:53:40.330Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
+      "id": "FL-6eb0e8761226",
+      "date": "2026-10-27",
+      "dateISO": "Tue, 27 Oct 2026 17:49:50 GMT",
+      "ts": 1793123390000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "ALE Agents Seize 200-Gallon Illegal Distillery Following Explosion and Fire in Wilkes County - NC DPS (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVUxoTjFncUJLcTJXQ3NRSEhLekVTRGNfTWZoelhtTnB6WFBBSEpra3ViWlIyN3NMaEVmRnJYRzgzYjBLREpnVVNRVzhmQTlyTkdhVGF5YnlXUW05YlkzRHNqQjV2d0RVcEpUYVZjdWhqSUJmaGZBcjNiazliLUluVl92NVEtNzlQbG14bWxJVXZBOVFTX3pNSHhTdnlTUTJfSlI1c0xKSnp1Y0FwcUdHT0FQVXhtaXdiYktsQTItX0N6ZjJ6NU1BczJ2a1pNUm5vZWdVSzJpaE11QQ?oc=5",
+      "site": "NC DPS (.gov)",
+      "siteUrl": "https://www.ncdps.gov"
+    },
+    {
+      "id": "FL-ff3e786c99d2",
+      "date": "2026-10-27",
+      "dateISO": "Tue, 27 Oct 2026 15:31:09 GMT",
+      "ts": 1793115069000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Walker County Fire and Rescue report details explosions before fatal Rossville shed fire - WTVC",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTThhUFBfUG9weDR2QmxRTnJrQ3k1VzM1X18xMmJMSzAteEtrSWNNcnF2Z3lKdkpjSG9lTHl3Vjk4NkxISVFUYUJLUWF4VjlQTWRjUzZ3WEp3Nzl4WHk0Q3VCeTczQjhlUWhrNEFBa1kwbDl0aDlHeDFGWW10UW9jb1gtX1o3a01QUUc3OXFobG9Nbjg4X2NVaUZiZFpFZGRyZks4QXc4am9XYlNjaEhIX2J6UG5BVHZMTnhpdE1OSGlsQQ?oc=5",
+      "site": "WTVC",
+      "siteUrl": "https://newschannel9.com"
+    },
+    {
       "id": "FL-e93b3b3929ce",
       "date": "2026-10-27",
-      "dateISO": "Tue, 27 Oct 2026 13:08:38 GMT",
-      "ts": 1793106518000,
+      "dateISO": "Tue, 27 Oct 2026 13:18:28 GMT",
+      "ts": 1793107108000,
       "scope": "intl",
       "type": "blast",
       "title": "伊拉克首都多地传出爆炸声 “绿区”附近无人机被拦截 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY1JPcXZpUURsZVh3SGxYam9jQ3N0WmtmUWhnUmozMDVWMW56R1NJTHBiU0FZRmtiRnFVX3MzZjlvZGhpbVVnQ2xYWHlQbVozWkF0LXRDNHA5ZU5uQ0JWLVlqbE9qSDMtUXV5X0s4c2FXUzI5ZFlzejdnQzVkN0tSa1lKZTV1V0gxOWhTbQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN3NSMjZtWE1YWE5vT2dDbVlkVnVpdUlYenYtMzlhQ1RqeHh1MUlhdnRjdmJUbGRwaWpMNU05YlBManh0VFdZN0hReHIwb05rMk41b2ZDMGVGX18wMUVla3RUNG44Z3c2LTJreEhVdWQ2S2Ywa29BaVRHNS1HYTZsc0ZzUE1tUThP?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
     },
@@ -25,18 +49,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQU2pxSFl6c1VUWmlKX2NXS1J3M0VsWWRwdE52YTIwLVJmLXRkalp4eVc2N0xON3NkUFlKVTFwNjY3ZjhqVExic2lEdTQxa0pibUo5N2VXSGk1VWJpR0F1OUpIdzREeExLUnVNTnVOVDJ1aFdfQUFpTE5VRWN6Tl9OQ29ueVBPTFZFd1E5cA?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-8f03a7a1338d",
-      "date": "2026-10-27",
-      "dateISO": "Tue, 27 Oct 2026 12:31:28 GMT",
-      "ts": 1793104288000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "4 dead in Moody Co. crash; Canton explosion; Windy day - KELOLAND.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMXB4ZVMtLWRTV2I3ZUZ1MVZCZ2I3bE4tS2V4a3dHZnl0ajhBeTdld3hNdXh4Zk1iSDhhOUVhUWk1WjZiSkptdGVVSlZDTW1KVGhrdFNZMVgycXRBTVhGVG5OakQ4Uk5tN1FidXpDem1UQmJtSG9UeXFBYkFET2ZENENwX0ZCcHBiQjI3WXpHR3hNcXZRMXlfMdIBngFBVV95cUxQYjVlRkp6aHlkS2lEbTJVek92dEFLRWs2NUdiVWJOalVndEZiOUpWXzlkSXA1VjJQVGV6R0pESDUxTkJsQmhKa0Y3WF9BZWpXbTZUVlphQ0tiNXZ6RFpULWU5THVKNlJoaGZpSTktX2U1NS1aSFF1ZEF1R0s1MU8tR3BRTTl5b0lic3pXSkd6dUVBeWhrb3lKSGUxX182QQ?oc=5",
-      "site": "KELOLAND.com",
-      "siteUrl": "https://www.keloland.com"
     },
     {
       "id": "FL-4c518bbb63f5",
@@ -73,6 +85,18 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iOHAybVRhT1NYWm9abWVDaFlsYlZUV3hTYi1jS0t1S21hclRZcWZoNGVveFR1b0ROYmhqcExNWDF5MmE0eWJxcXZua0hQRzg5NUJ6bV9rNVA?oc=5",
       "site": "驱动之家",
       "siteUrl": "https://news.mydrivers.com"
+    },
+    {
+      "id": "FL-13729a93141a",
+      "date": "2026-10-27",
+      "dateISO": "Tue, 27 Oct 2026 07:19:35 GMT",
+      "ts": 1793085575000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "打球摔了一跤，二级重度烧伤！手机爆炸前有5个预警信号 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZXJnUEh3ODZSd3d2d1NnMnlFMUJIZFJwaWJEYlFZa2EzWUFFTWY0RHpJRzhiSXdJNzJUd3pRUWF6cWQwYTJaU3hHZ1VkX3B4RndkeTZzZjc2bGl5T2VwZXMzLUF2SzBUbGxJSWJzV00zem1RdEpLRjFTLUtubVJRSGVWUUE1dFZwZlN2TQ?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-ab79e1211587",
@@ -123,16 +147,16 @@
       "siteUrl": "https://www.ntdtv.com"
     },
     {
-      "id": "FL-95ec0e640977",
+      "id": "FL-e8c75a1db20d",
       "date": "2026-10-27",
-      "dateISO": "Tue, 27 Oct 2026 02:35:52 GMT",
-      "ts": 1793068552000,
-      "scope": "dom",
+      "dateISO": "Tue, 27 Oct 2026 02:56:00 GMT",
+      "ts": 1793069760000,
+      "scope": "intl",
       "type": "blast",
-      "title": "打球摔了一跤 二级重度烧伤！手机爆炸前有5个预警信号→ - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5UMXpiQUxGSjJCYUc3bEtEZ3Z5WDB3Skg1SkZjVlFZWFVZbXR2MlN1QXhtMDFVaVZ5TEloT3JsZlRGS0xYUnNWSzNLdEwtTjhxRWZocm1lZVkyMFhFbzlCWENmTWpsNkhvVkthSkhZcjBUNEVXTG5OUQ?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
+      "title": "乌克兰基辅市发生多次爆炸 - 紫牛新闻",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yOTd3Mi13UUM2LXJsTWFIa2poTzByQ2hOTndoU0Y5eFVRNHg4eEtFRWtWZU9oTU1qdHh2NXhoRkxjWGg5TWROY2drbl9ITkZCS25jU3I5cm5yTkNQTktIR0tUM2YtRXlqTWc?oc=5",
+      "site": "紫牛新闻",
+      "siteUrl": "https://www.yzwb.net"
     },
     {
       "id": "FL-307ed6709ec2",
@@ -159,18 +183,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-e7526bf7617d",
-      "date": "2026-10-27",
-      "dateISO": "Tue, 27 Oct 2026 02:04:57 GMT",
-      "ts": 1793066697000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "乌克兰基辅市发生多次爆炸 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUUFsTjRIOHhGckJrelI1LS1NV0lpbWVRMF9OV2Vtc0dZM2Z2My1Qd3A0SUZkbDBxb3FTZHE5dExHY1JvVW8tV1VQU0FrTjhETkxKcUROYVIwRnVkeXlmZHNtYVY0bU1icjV0a2RUekVmZXhsdkZoT2V3aUxudjIzOEJNc1ZNMWZv?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-47062ea98712",
       "date": "2026-10-27",
       "dateISO": "Tue, 27 Oct 2026 01:51:00 GMT",
@@ -181,18 +193,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aN0pIOGhqSmhpZXppNTBDUVEtYVVLekhHT21sMGVVLTBpeDhmX3BRVEcwRDZCemJtSXJzY01Pd0NYaXQ3ZElJS3pwd3ZNVHE0eF9obkZyY3F4TnhPUExpU3lB?oc=5",
       "site": "闪电新闻",
       "siteUrl": "https://sdxw.iqilu.com"
-    },
-    {
-      "id": "FL-f7cb92a60204",
-      "date": "2026-10-27",
-      "dateISO": "Tue, 27 Oct 2026 01:50:59 GMT",
-      "ts": 1793065859000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "乌克兰基辅市发生多次爆炸 - 央视网",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lSUpSM1lneHlIbkl3NW5HUDFySlNfakF0RERPY0xxcklfM2lCdUt3clhxN1c4UjRjVExSMnJtU2N0QkMtUkdRaV9aNHFvcUZaXzZ3TW1ua2Zsam1FQmtBWjRTMTBHeER4REZSM1ozVmdTbFBka08tNA?oc=5",
-      "site": "央视网",
-      "siteUrl": "https://news.cctv.com"
     },
     {
       "id": "FL-1b6849103dc0",
@@ -243,18 +243,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-67ff20e005a7",
-      "date": "2026-10-26",
-      "dateISO": "Mon, 26 Oct 2026 23:59:59 GMT",
-      "ts": 1793059199000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "防简易爆炸装置威胁：基于共焦拉曼显微镜非破坏性多参数检测织物中的爆炸前残留物 - 生物通",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hYnAzRndqOVUzNXpmcWszSGltbXd0cUg2ODY2WE13SVF2VG5TZnNlVmpCaTV1VXpkYmppREhoaTNwd2t0LVpDbFVPdWl5TGV2cG9mRmhFR3Y0akpkUjNYVXRQSUxJenl2ZXBKUkdB?oc=5",
-      "site": "生物通",
-      "siteUrl": "https://www.ebiotrade.com"
-    },
-    {
       "id": "FL-f9ff389fae24",
       "date": "2026-10-26",
       "dateISO": "Mon, 26 Oct 2026 21:09:56 GMT",
@@ -277,18 +265,6 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTWV5eE9vX09uSUhZQnRiTzdPVHVoRWxEaERFaWV6LUdXYXBMX1ZwRXVVakV5RjJESEQ2cUFBSk5jc0lDdmlHWjdDbkhHUjdKdWNuZmE5MXVwZC01bVhWTG45dVlRNVp1bVpHd0RBTmw0OVVrUVRuRVZ5RnpPU1RTSHVUZzUybnfSAZsBQVVfeXFMUDZweVZZMnRlNU9LU2lKb3RtOVZ5akx4YVRURndYb2pmZmFfTTk3eHlCZy1VcXZpa011cmJ5TGN5NjhCUzhNUm1yb0xKbWpWR1FKRHk4OE1EWmZRVkZGRmw0MWRWaTdrbDE1ekJGV084MEdrbUJnanJfWHZDX24wRFh1VDM1ZHZKbG5YLUJ3dUxaZU5venY4ckhBZk0?oc=5",
       "site": "KCRG",
       "siteUrl": "https://www.kcrg.com"
-    },
-    {
-      "id": "FL-829c4828f5bf",
-      "date": "2026-10-26",
-      "dateISO": "Mon, 26 Oct 2026 15:09:00 GMT",
-      "ts": 1793027340000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "One dead in early morning garage explosion in Canton - Dakota News Now",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN053Sm9BZGswbS1OZmhkbW9HVDNndTA0Y0pzQ3pPMUl6NndzSkhZblhKQU1jSDhkVVZib2s0aUNLaHgxQnFKR0ZURDRpZTVHTl9EYjZaSXlUTVQyY3RYaUpXX25zSE5rR25pZm5pOVVsbHhyWjRPVzRxTFlXbGZLM3JHdEEzd1A2YUtrVmVqWGN0Z9IBpgFBVV95cUxOOHlVWE50RWMwMlU3MFM4Rk82R2g2OGZjMW9Gb2s2dHh1aVZod2JQbTRZUkJrZTdKM0dsTDh5bTA2WWwxVDV1V3E0NVdfZzVyd2pJYWJIMGxTTFlIaG9seGNhWHR4TmoyYW56Z0ZFTGc0LTZQLU9PM1J4eGxpaVREbW5DWVRPeVpOYUJCRHJLOUJaV0NiUnl4T0tWSnRVbUlkWXpVNnVR?oc=5",
-      "site": "Dakota News Now",
-      "siteUrl": "https://www.dakotanewsnow.com"
     },
     {
       "id": "FL-4b5ede9f1e2c",
@@ -327,42 +303,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-f99728a230ab",
-      "date": "2026-10-26",
-      "dateISO": "Mon, 26 Oct 2026 02:35:05 GMT",
-      "ts": 1792982105000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "人类已经引发了第二次宇宙大爆炸 - 纽约时报中文网",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KanBxbVlLajBSNWQ1QVBrVnBzTWVQZ2xLUFRlZC1NT2UyQVNQWDhCYlZDQkpXNkNBeHNrbXpuVGRsN1F6TkNwMnpqdEJfWWFlLTgzN1dUSk9RVjNiSXUxSXRveVd1VXE2UVJV?oc=5",
-      "site": "纽约时报中文网",
-      "siteUrl": "https://cn.nytimes.com"
-    },
-    {
-      "id": "FL-57f53102adfb",
-      "date": "2026-10-26",
-      "dateISO": "Mon, 26 Oct 2026 02:35:00 GMT",
-      "ts": 1792982100000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "AI技能市场爆炸到23万个，找技能这件事到底要不要动用大模型？ - 科技行者",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1yX1hiYmlVYlN6eHZWYkRtb2xBeng1SkhjQVlfT2gwb1VHdFVkdW00T1JLdW9FaWdfUFR0SkdIVFNSOHU1NzJBeWI4THJxeHRwNXVsYTJPYVJkMHlfUlVJ?oc=5",
-      "site": "科技行者",
-      "siteUrl": "https://www.techwalker.com"
-    },
-    {
-      "id": "FL-79baaa101535",
-      "date": "2026-10-26",
-      "dateISO": "Mon, 26 Oct 2026 01:12:30 GMT",
-      "ts": 1792977150000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Neighbors report hearing explosion before fire engulfs Raleigh home - WRAL",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QakRCQWt1bzM3VHJ6cXJkRW1Ib05qcTBVVmNHYWRGZUtKUlVJN2Z2ZE5Bc1htSkNEVUktU0pUOWNhbktuaHJyS0dsbHBBY1lmZVVoOXdJUUNmMHhWUi1DaW90RzlfMUk4aFdOalBUZ0RpNFlHU0p0TzNKRTZFdw?oc=5",
-      "site": "WRAL",
-      "siteUrl": "https://www.wral.com"
-    },
-    {
       "id": "FL-6219c5a90f8f",
       "date": "2026-10-19",
       "dateISO": "Mon, 19 Oct 2026 07:35:22 GMT",
@@ -373,6 +313,18 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FZ3Fob0VMeUdKTnRXRjd0eG5YNGJXNVVjd1ktWkNHZk10ZGpFaWVYMGNZTFp4OGl6ZlY4b2RnSU5nVmltWjRLaGVnRFhxWkI1eTJyQ3ZCSW5LSjdxV2hDekVSaw?oc=5",
       "site": "四川新闻",
       "siteUrl": "https://sichuan.scol.com.cn"
+    },
+    {
+      "id": "FL-b042a088a326",
+      "date": "2026-08-03",
+      "dateISO": "Mon, 03 Aug 2026 07:00:00 GMT",
+      "ts": 1785740400000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "巴基斯坦西北部发生爆炸致14人死亡 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     }
   ]
 }
