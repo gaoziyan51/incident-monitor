@@ -1,18 +1,78 @@
 {
-  "updated": "2026-10-27T07:41:22.601Z",
+  "updated": "2026-10-27T13:35:43.821Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-f1a9b447e99c",
+      "id": "FL-e93b3b3929ce",
       "date": "2026-10-27",
-      "dateISO": "Tue, 27 Oct 2026 04:45:23 GMT",
-      "ts": 1793076323000,
+      "dateISO": "Tue, 27 Oct 2026 13:08:38 GMT",
+      "ts": 1793106518000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "伊拉克首都多地传出爆炸声 “绿区”附近无人机被拦截 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY1JPcXZpUURsZVh3SGxYam9jQ3N0WmtmUWhnUmozMDVWMW56R1NJTHBiU0FZRmtiRnFVX3MzZjlvZGhpbVVnQ2xYWHlQbVozWkF0LXRDNHA5ZU5uQ0JWLVlqbE9qSDMtUXV5X0s4c2FXUzI5ZFlzejdnQzVkN0tSa1lKZTV1V0gxOWhTbQ?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-5f49c27ab8b2",
+      "date": "2026-10-27",
+      "dateISO": "Tue, 27 Oct 2026 13:08:36 GMT",
+      "ts": 1793106516000,
       "scope": "dom",
       "type": "blast",
-      "title": "忍无可忍 奥巴马火力全开 选战情绪燃爆 - 中华网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qcUFmaV9WXzQ4ZEYwSldIb05rUi1uQ2JuTFdmVWhjLWtkcmRkSk1pdnBuM3ZJVU4zTk9xSG5VLUxqbXM5TTZkRjBSWURQVnNJWUdzRlFlWDZzeXBWQ18yWF9KR1ZXSGNGbkJtVVRQY0E?oc=5",
-      "site": "中华网",
-      "siteUrl": "https://news.china.com"
+      "title": "充电宝在柜子里爆炸自燃，女子灭火时手被烧伤，当事人：提醒大家易燃易爆物品不要放在柜子里（来源：浙工之家）#充电宝#充电宝爆炸#烧伤 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQU2pxSFl6c1VUWmlKX2NXS1J3M0VsWWRwdE52YTIwLVJmLXRkalp4eVc2N0xON3NkUFlKVTFwNjY3ZjhqVExic2lEdTQxa0pibUo5N2VXSGk1VWJpR0F1OUpIdzREeExLUnVNTnVOVDJ1aFdfQUFpTE5VRWN6Tl9OQ29ueVBPTFZFd1E5cA?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-8f03a7a1338d",
+      "date": "2026-10-27",
+      "dateISO": "Tue, 27 Oct 2026 12:31:28 GMT",
+      "ts": 1793104288000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "4 dead in Moody Co. crash; Canton explosion; Windy day - KELOLAND.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMXB4ZVMtLWRTV2I3ZUZ1MVZCZ2I3bE4tS2V4a3dHZnl0ajhBeTdld3hNdXh4Zk1iSDhhOUVhUWk1WjZiSkptdGVVSlZDTW1KVGhrdFNZMVgycXRBTVhGVG5OakQ4Uk5tN1FidXpDem1UQmJtSG9UeXFBYkFET2ZENENwX0ZCcHBiQjI3WXpHR3hNcXZRMXlfMdIBngFBVV95cUxQYjVlRkp6aHlkS2lEbTJVek92dEFLRWs2NUdiVWJOalVndEZiOUpWXzlkSXA1VjJQVGV6R0pESDUxTkJsQmhKa0Y3WF9BZWpXbTZUVlphQ0tiNXZ6RFpULWU5THVKNlJoaGZpSTktX2U1NS1aSFF1ZEF1R0s1MU8tR3BRTTl5b0lic3pXSkd6dUVBeWhrb3lKSGUxX182QQ?oc=5",
+      "site": "KELOLAND.com",
+      "siteUrl": "https://www.keloland.com"
+    },
+    {
+      "id": "FL-4c518bbb63f5",
+      "date": "2026-10-27",
+      "dateISO": "Tue, 27 Oct 2026 11:21:36 GMT",
+      "ts": 1793100096000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "伊拉克首都巴格达传出多次爆炸声 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uaE82dEF5Y21fZHVHSlU0bDg2QkwyUHRKWlN6bUVvSmlhdjVySHRxY19ZcWw1bEFUazZWWTI1dklrLXZxekhxZnBzWU1tczktVnZOQkdRY0x6ZUYyV3c?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
+      "id": "FL-b79f19aa228e",
+      "date": "2026-10-27",
+      "dateISO": "Tue, 27 Oct 2026 11:16:28 GMT",
+      "ts": 1793099788000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "伊拉克首都巴格达传出多次爆炸声 - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE04MWJrbFlfZlNlazlJeEU2bXRESmx5S1k5U2JNMDcwNGhOYnhKZjJNc3FrZ1M4b1FxXzFmRjFOT0tMQXczV0k1bkdicw?oc=5",
+      "site": "手机新浪网",
+      "siteUrl": "https://wap.cj.sina.cn"
+    },
+    {
+      "id": "FL-d13c17086428",
+      "date": "2026-10-27",
+      "dateISO": "Tue, 27 Oct 2026 08:11:00 GMT",
+      "ts": 1793088660000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "手机爆炸前有5个预警信号：一定要留心排查 - 驱动之家",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iOHAybVRhT1NYWm9abWVDaFlsYlZUV3hTYi1jS0t1S21hclRZcWZoNGVveFR1b0ROYmhqcExNWDF5MmE0eWJxcXZua0hQRzg5NUJ6bV9rNVA?oc=5",
+      "site": "驱动之家",
+      "siteUrl": "https://news.mydrivers.com"
     },
     {
       "id": "FL-ab79e1211587",
@@ -87,18 +147,6 @@
       "siteUrl": "https://www.21jingji.com"
     },
     {
-      "id": "FL-e7526bf7617d",
-      "date": "2026-10-27",
-      "dateISO": "Tue, 27 Oct 2026 02:16:09 GMT",
-      "ts": 1793067369000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "乌克兰基辅市发生多次爆炸 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRl9UNnRlOVpnRGlGS09jSzZIMkZMbjR0YmtxZWZUb014bkxYLXpTLWl5LTFMZ3BMTkV4MThHS0t5eGtER2xlY3llQnd1M1ZXcEFtcWlKdVRJR2JxcjRwQ2J4QlZiQ2VFM0E2N0JFWWVGZDV1OG51UmVSendtQ2RfbTZucDE3ZlJ6Rm9uQg?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-ee33f6481a0e",
       "date": "2026-10-27",
       "dateISO": "Tue, 27 Oct 2026 02:07:08 GMT",
@@ -107,6 +155,18 @@
       "type": "blast",
       "title": "乌克兰基辅市发生多次强烈爆炸 - 搜狐网",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYXZhQzhVajVJVzNfQ3d2X1J6dURudTI0Ri1kNVRYaFI4bFV1QVhuQmxsV0UxVGdGV2w3WHFDVnhyT0ZPVjlnR0dUUlhSYkd4ajFjbWJ2bk1kd3h1UkQ5eFRMOFQ5bXJ1SmxQczdYTTVyRU1FQWxUbEUwcGNieEdOT21DTVR4TXdNeTcxUA?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-e7526bf7617d",
+      "date": "2026-10-27",
+      "dateISO": "Tue, 27 Oct 2026 02:04:57 GMT",
+      "ts": 1793066697000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "乌克兰基辅市发生多次爆炸 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUUFsTjRIOHhGckJrelI1LS1NV0lpbWVRMF9OV2Vtc0dZM2Z2My1Qd3A0SUZkbDBxb3FTZHE5dExHY1JvVW8tV1VQU0FrTjhETkxKcUROYVIwRnVkeXlmZHNtYVY0bU1icjV0a2RUekVmZXhsdkZoT2V3aUxudjIzOEJNc1ZNMWZv?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
     },
@@ -133,6 +193,18 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lSUpSM1lneHlIbkl3NW5HUDFySlNfakF0RERPY0xxcklfM2lCdUt3clhxN1c4UjRjVExSMnJtU2N0QkMtUkdRaV9aNHFvcUZaXzZ3TW1ua2Zsam1FQmtBWjRTMTBHeER4REZSM1ozVmdTbFBka08tNA?oc=5",
       "site": "央视网",
       "siteUrl": "https://news.cctv.com"
+    },
+    {
+      "id": "FL-1b6849103dc0",
+      "date": "2026-10-25",
+      "dateISO": "Sun, 25 Oct 2026 15:10:00 GMT",
+      "ts": 1792941000000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "一夜市摊位卡式炉突然爆炸，目击者：隔壁桌女生腰部被烫伤 - ThePaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03NzdLQzAzMEd1dDhHRFc4VXFoUndhRjZ0cjZrcl82LVpvZTFDeTVEX194eGdsZ1Q3b3JCYlR2T3lTclNWaHQ2OVlqenU1aUcyZ3N1Z25GTU4zQXhmUzlGbQ?oc=5",
+      "site": "ThePaper.cn",
+      "siteUrl": "https://www.thepaper.cn"
     },
     {
       "id": "FL-de0212a34ed6",
@@ -183,18 +255,6 @@
       "siteUrl": "https://www.ebiotrade.com"
     },
     {
-      "id": "FL-3e04f849610b",
-      "date": "2026-10-26",
-      "dateISO": "Mon, 26 Oct 2026 21:48:54 GMT",
-      "ts": 1793051334000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Man charged with arson in Springfield explosion that injured 4 - NewsChannel20",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPY2dCWHZTbFlGdUdvSFYtRVdaOTI5cFdhZ2RiR1FiY1E5aUU2eUZMXzZwMkpnZFlQQUFiNGpEdmRzOTBsd1VGVHA1eWR0VmRuWmlzTloxT1dfLUtZUzY0Y1BpQkFqTU1SVXdFaUZGdnJYTUs3V1R3b2NGbGhrbGtEaEFFZGFHY2VLZ3FGbm9ORHNFMEtTRmdjeVVtUmhHZEtDU1FCZ29JTFlmT2lZa19PSlZiMW56Wk9DelFLR2xRY1hBZTdCQTNDT2FTOC0zdnlWUUdYZmxldHpGZ1ZXbl9wY2R4blNMcmc1?oc=5",
-      "site": "NewsChannel20",
-      "siteUrl": "https://www.newschannel20.com"
-    },
-    {
       "id": "FL-f9ff389fae24",
       "date": "2026-10-26",
       "dateISO": "Mon, 26 Oct 2026 21:09:56 GMT",
@@ -207,30 +267,6 @@
       "siteUrl": "https://epaper.tianjinwe.com"
     },
     {
-      "id": "FL-2f497f43b5e5",
-      "date": "2026-10-26",
-      "dateISO": "Mon, 26 Oct 2026 19:57:10 GMT",
-      "ts": 1793044630000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "目击者称基辅发生爆炸，乌克兰空军称基辅面临导弹袭击威胁。 - 手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB2M1RRS00xc2ZoOHp0OXlPQ0Jaa2lYaDVxaHhmdlBGR1ltZXhZYW91cVEwT0NOUVhzbGxkR0tCcVYzdVhuNW15c3daZw?oc=5",
-      "site": "手机新浪网",
-      "siteUrl": "https://wap.cj.sina.cn"
-    },
-    {
-      "id": "FL-fca58040c197",
-      "date": "2026-10-26",
-      "dateISO": "Mon, 26 Oct 2026 17:43:00 GMT",
-      "ts": 1793036580000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "领先2k到基地爆炸就3分钟，T1翻盘CFO进入2-1组 - 懂球帝",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE12RGkya29hcmFWRUlTekhLZUpEdGRZcWx0VTlXOGNQM1VLODJZZ0FObnY5d2ZKUWotRmpaeGZ2M1dUYkJPNml6VnhOMHh6R2pfb0QtUkpTTQ?oc=5",
-      "site": "懂球帝",
-      "siteUrl": "https://m.dongqiudi.com"
-    },
-    {
       "id": "FL-8b563a966af3",
       "date": "2026-10-26",
       "dateISO": "Mon, 26 Oct 2026 16:54:00 GMT",
@@ -241,30 +277,6 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTWV5eE9vX09uSUhZQnRiTzdPVHVoRWxEaERFaWV6LUdXYXBMX1ZwRXVVakV5RjJESEQ2cUFBSk5jc0lDdmlHWjdDbkhHUjdKdWNuZmE5MXVwZC01bVhWTG45dVlRNVp1bVpHd0RBTmw0OVVrUVRuRVZ5RnpPU1RTSHVUZzUybnfSAZsBQVVfeXFMUDZweVZZMnRlNU9LU2lKb3RtOVZ5akx4YVRURndYb2pmZmFfTTk3eHlCZy1VcXZpa011cmJ5TGN5NjhCUzhNUm1yb0xKbWpWR1FKRHk4OE1EWmZRVkZGRmw0MWRWaTdrbDE1ekJGV084MEdrbUJnanJfWHZDX24wRFh1VDM1ZHZKbG5YLUJ3dUxaZU5venY4ckhBZk0?oc=5",
       "site": "KCRG",
       "siteUrl": "https://www.kcrg.com"
-    },
-    {
-      "id": "FL-fdd4f06cbfef",
-      "date": "2026-10-26",
-      "dateISO": "Mon, 26 Oct 2026 15:59:52 GMT",
-      "ts": 1793030392000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "暴露于爆炸冲击的退伍军人加速表观遗传衰老 - 生物通",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1UGJqZUQxeE1IZ2dTaXMtclFSVlg5bV9GV1IycDBHa1FwSW9WZTJrdUlmT3NvX1hxckd6azByMFBrenctYkpRUjhrQ1NvaGp3TjFzMXZSREZ2dHhIbFBKMmgwdEliSUc0Rk5TRnVR?oc=5",
-      "site": "生物通",
-      "siteUrl": "https://www.ebiotrade.com"
-    },
-    {
-      "id": "FL-fc474b295fa7",
-      "date": "2026-10-26",
-      "dateISO": "Mon, 26 Oct 2026 15:47:15 GMT",
-      "ts": 1793029635000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "【新聞第一線】摩薩德動手？德黑蘭突發爆炸 埃及批准出兵！ - 新唐人電視台",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TWVhWQ0hScUF5dDQyX3hQbmlwTGdHdjl0ZU11LTRrYzZYV2pITlFaRDdZcUR1ZEFDUGU3UUZxaEFGcHhRamdtWE81Mmc3QUFkTW5fWkZJTXduZ0RQdkFYadIBZkFVX3lxTFByQng0cFhLRFVpcFpmQVlzeGxYbEhNejcxOFRIdnZ4SENKZVByQWxfTnA3c29pYW1tcHlYWlRMamxvcDV5NVVkNlRSYzBYQ2NGRGNuRDV2QWhpZTluX1lQNXFZU05ydw?oc=5",
-      "site": "新唐人電視台",
-      "siteUrl": "https://www.ntdtv.com"
     },
     {
       "id": "FL-829c4828f5bf",
@@ -291,18 +303,6 @@
       "siteUrl": "https://news.iqilu.com"
     },
     {
-      "id": "FL-79c283a2e52a",
-      "date": "2026-10-26",
-      "dateISO": "Mon, 26 Oct 2026 11:17:16 GMT",
-      "ts": 1793013436000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "UPDATE: 1 person dead due to explosion in Canton - KELOLAND.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYkVGcFFCNUUxazJhb2RNb3N6VVhVTEJMeUpkQkl0MFBfcWVQYmQtX0lMcXJYRXE1cWdfcnk0NGJGS1BWNF9BTk9GNDU0T01HOUE3Q2R0cGhhQVVMM19oZGtoalYtMmNUUkpSLVFGX3FIdHJqLWRwMkNCM1JQeV9OWUp5LVJodVZzdWVkSUZoVXFBUdIBlwFBVV95cUxNT0c0UkdxUUZHbnpkTlNwSWx1ZFJVOUFSTkhCZWhMUnY2dDh4STNlV2FuT0VyM05PWXlGSUZXa0U4RWZxNExpQ19KT0RHTWxPU21sUlluNV9uQ0JWcEplejRzaDlOeEZONFRYcDVLVlhraWV2SWdHRWhfdndqTHJUVEhGcXJLSldPYnJRNTR0QkRwT0d5VGZF?oc=5",
-      "site": "KELOLAND.com",
-      "siteUrl": "https://www.keloland.com"
-    },
-    {
       "id": "FL-0f8c02ad5cff",
       "date": "2026-10-26",
       "dateISO": "Mon, 26 Oct 2026 09:17:17 GMT",
@@ -313,30 +313,6 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VMThiMm9JLXlPaU9mTlkwNlVpV3ZfTTgwYU83bXdKNklONHk3YWhiWU95V2hlRTJSdDZ6MU1OMW5FTFg1eS1NLThJeHlCeDE3SEE?oc=5",
       "site": "凤凰网",
       "siteUrl": "https://original.ifeng.com"
-    },
-    {
-      "id": "FL-563ebede3b2a",
-      "date": "2026-10-26",
-      "dateISO": "Mon, 26 Oct 2026 04:42:18 GMT",
-      "ts": 1792989738000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "也门首都萨那传出巨大爆炸声 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GV29BMlctMkZVeVNGbnZ2UGtuSkg4dGhOWkZpV2tYX3c3N2RjWVFlQnBQRXFKaDBsZDdHdkZmRlZlTDZ0UHBTbkdkVGEyQkwwM3NpU3phZTJaenhuV0E?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://news.bjd.com.cn"
-    },
-    {
-      "id": "FL-0afd25b6522f",
-      "date": "2026-10-26",
-      "dateISO": "Mon, 26 Oct 2026 04:36:27 GMT",
-      "ts": 1792989387000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "也门首都萨那传出巨大爆炸声 - 湖南红网",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1obnAwM3NrRTVtYkRLbTFwc3hMeE9TeURTX2xoU0UwR2pHNHR3OHhxTzkyTVZDNEk3VEF1RG54NEdFMXhwbk9PQm1wVFJSTkRIdmJKcUxMSGFuTk1fZzV4bFd4X3Y?oc=5",
-      "site": "湖南红网",
-      "siteUrl": "https://news.rednet.cn"
     },
     {
       "id": "FL-c574dc6047af",
@@ -385,6 +361,18 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QakRCQWt1bzM3VHJ6cXJkRW1Ib05qcTBVVmNHYWRGZUtKUlVJN2Z2ZE5Bc1htSkNEVUktU0pUOWNhbktuaHJyS0dsbHBBY1lmZVVoOXdJUUNmMHhWUi1DaW90RzlfMUk4aFdOalBUZ0RpNFlHU0p0TzNKRTZFdw?oc=5",
       "site": "WRAL",
       "siteUrl": "https://www.wral.com"
+    },
+    {
+      "id": "FL-6219c5a90f8f",
+      "date": "2026-10-19",
+      "dateISO": "Mon, 19 Oct 2026 07:35:22 GMT",
+      "ts": 1792395322000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "易燃易爆炸！四川曝光一批工贸领域重大事故隐患案例丨安全四川 共同行动 - 四川新闻",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FZ3Fob0VMeUdKTnRXRjd0eG5YNGJXNVVjd1ktWkNHZk10ZGpFaWVYMGNZTFp4OGl6ZlY4b2RnSU5nVmltWjRLaGVnRFhxWkI1eTJyQ3ZCSW5LSjdxV2hDekVSaw?oc=5",
+      "site": "四川新闻",
+      "siteUrl": "https://sichuan.scol.com.cn"
     }
   ]
 }
