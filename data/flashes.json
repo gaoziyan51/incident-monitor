@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-26T23:11:49.391Z",
+  "updated": "2026-10-27T02:05:12.260Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-47062ea98712",
+      "date": "2026-10-27",
+      "dateISO": "Tue, 27 Oct 2026 01:51:00 GMT",
+      "ts": 1793065860000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "乌克兰基辅市发生多次爆炸 - 闪电新闻",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aN0pIOGhqSmhpZXppNTBDUVEtYVVLekhHT21sMGVVLTBpeDhmX3BRVEcwRDZCemJtSXJzY01Pd0NYaXQ3ZElJS3pwd3ZNVHE0eF9obkZyY3F4TnhPUExpU3lB?oc=5",
+      "site": "闪电新闻",
+      "siteUrl": "https://sdxw.iqilu.com"
+    },
     {
       "id": "FL-de0212a34ed6",
       "date": "2026-10-25",
@@ -39,6 +51,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-67ff20e005a7",
+      "date": "2026-10-26",
+      "dateISO": "Mon, 26 Oct 2026 23:59:59 GMT",
+      "ts": 1793059199000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "防简易爆炸装置威胁：基于共焦拉曼显微镜非破坏性多参数检测织物中的爆炸前残留物 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hYnAzRndqOVUzNXpmcWszSGltbXd0cUg2ODY2WE13SVF2VG5TZnNlVmpCaTV1VXpkYmppREhoaTNwd2t0LVpDbFVPdWl5TGV2cG9mRmhFR3Y0akpkUjNYVXRQSUxJenl2ZXBKUkdB?oc=5",
+      "site": "生物通",
+      "siteUrl": "https://www.ebiotrade.com"
+    },
+    {
       "id": "FL-35b2fd2d8326",
       "date": "2026-10-26",
       "dateISO": "Mon, 26 Oct 2026 22:14:00 GMT",
@@ -49,6 +73,18 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRC1ISGtTSFl2dm1UU29nTDVFNThzRVc0dWZqRTc1UGx1SjhLSTBkOUVCXzRhc1dNQVZvdS1IN0pRU2dQbEwzcjFrMmFEeG1UVEk0VFc1d2JXaUJEU3pQQUlpTUR6aWpEVnJka3VsOGkwczdXNDFGTjVab3RvNjg3cExMRUtLX0t1bFJkREE4WHdxczgwOHFsRDNFQU5XNkVuZ3JUMmt6MFVONFVuaWVreW81T3ZyOTJGR0l2bXlMMzdhOGc?oc=5",
       "site": "NPR Illinois",
       "siteUrl": "https://www.nprillinois.org"
+    },
+    {
+      "id": "FL-3e04f849610b",
+      "date": "2026-10-26",
+      "dateISO": "Mon, 26 Oct 2026 21:48:54 GMT",
+      "ts": 1793051334000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Man charged with arson in Springfield explosion that injured 4 - NewsChannel20",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPY2dCWHZTbFlGdUdvSFYtRVdaOTI5cFdhZ2RiR1FiY1E5aUU2eUZMXzZwMkpnZFlQQUFiNGpEdmRzOTBsd1VGVHA1eWR0VmRuWmlzTloxT1dfLUtZUzY0Y1BpQkFqTU1SVXdFaUZGdnJYTUs3V1R3b2NGbGhrbGtEaEFFZGFHY2VLZ3FGbm9ORHNFMEtTRmdjeVVtUmhHZEtDU1FCZ29JTFlmT2lZa19PSlZiMW56Wk9DelFLR2xRY1hBZTdCQTNDT2FTOC0zdnlWUUdYZmxldHpGZ1ZXbl9wY2R4blNMcmc1?oc=5",
+      "site": "NewsChannel20",
+      "siteUrl": "https://www.newschannel20.com"
     },
     {
       "id": "FL-f9ff389fae24",
@@ -65,8 +101,8 @@
     {
       "id": "FL-2f497f43b5e5",
       "date": "2026-10-26",
-      "dateISO": "Mon, 26 Oct 2026 19:57:10 GMT",
-      "ts": 1793044630000,
+      "dateISO": "Mon, 26 Oct 2026 19:55:09 GMT",
+      "ts": 1793044509000,
       "scope": "intl",
       "type": "blast",
       "title": "目击者称基辅发生爆炸，乌克兰空军称基辅面临导弹袭击威胁。 - 手机新浪网",
@@ -135,6 +171,18 @@
       "siteUrl": "https://www.sina.cn"
     },
     {
+      "id": "FL-829c4828f5bf",
+      "date": "2026-10-26",
+      "dateISO": "Mon, 26 Oct 2026 15:09:00 GMT",
+      "ts": 1793027340000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "One dead in early morning garage explosion in Canton - Dakota News Now",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN053Sm9BZGswbS1OZmhkbW9HVDNndTA0Y0pzQ3pPMUl6NndzSkhZblhKQU1jSDhkVVZib2s0aUNLaHgxQnFKR0ZURDRpZTVHTl9EYjZaSXlUTVQyY3RYaUpXX25zSE5rR25pZm5pOVVsbHhyWjRPVzRxTFlXbGZLM3JHdEEzd1A2YUtrVmVqWGN0Z9IBpgFBVV95cUxOOHlVWE50RWMwMlU3MFM4Rk82R2g2OGZjMW9Gb2s2dHh1aVZod2JQbTRZUkJrZTdKM0dsTDh5bTA2WWwxVDV1V3E0NVdfZzVyd2pJYWJIMGxTTFlIaG9seGNhWHR4TmoyYW56Z0ZFTGc0LTZQLU9PM1J4eGxpaVREbW5DWVRPeVpOYUJCRHJLOUJaV0NiUnl4T0tWSnRVbUlkWXpVNnVR?oc=5",
+      "site": "Dakota News Now",
+      "siteUrl": "https://www.dakotanewsnow.com"
+    },
+    {
       "id": "FL-4b5ede9f1e2c",
       "date": "2026-10-26",
       "dateISO": "Mon, 26 Oct 2026 15:04:10 GMT",
@@ -145,18 +193,6 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50RTJsZ3ZYM1lCeE1SNHFVblBMMGRzazZZcEdOaVNmek1JY3ZJbkp0TE1ORjdOOVpJUElHUFZieGVKcHBzUVVPVUJtclNKOEx6NGxXWVlzb3NwOURMR0FacmFZZmhVQXpXR0JNa3oxZXZINjFZ?oc=5",
       "site": "齐鲁网",
       "siteUrl": "https://news.iqilu.com"
-    },
-    {
-      "id": "FL-9940dcf61e3f",
-      "date": "2026-10-26",
-      "dateISO": "Mon, 26 Oct 2026 14:19:49 GMT",
-      "ts": 1793024389000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "这种“网红厨具”会爆炸！大理人快看看你家有没有 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05WVV3ZnFMaFNJRmpHZVhNTy1vZkhPZWozYXByaFlLRmtycHBDQ1RreXYxRFZWNXB0WEliTnRwMnVwNUZFWnZXREozcnlpRWI2eXhSVkMwSnZWeFE5UHNBUDk3c3lTbnpUVW1KTGwzSTlLM204Qmc?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-79c283a2e52a",
@@ -207,30 +243,6 @@
       "siteUrl": "https://news.rednet.cn"
     },
     {
-      "id": "FL-7e2f27a8cacb",
-      "date": "2026-10-26",
-      "dateISO": "Mon, 26 Oct 2026 03:38:32 GMT",
-      "ts": 1792985912000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "朝鲜致信安理会：地雷爆炸事件为韩国“自导自演” - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSTdQeVVVWjNYdFFKbnRSQ29nd0tPQlVQcG5HMFB6Qk14WGVadlZ4c0xIM0tZZTZNRnJ5TTBtcXloakxYeTVYb2laV0hEUG8xNldMWUk1UGRHblh5YlpKS2VZSEd6RHJJTXpHUG5wZHlDQ0VLSW5QTG5JNTlpSmtyZlNzRVpSbHZa?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-32f0e93b972d",
-      "date": "2026-10-26",
-      "dateISO": "Mon, 26 Oct 2026 02:42:34 GMT",
-      "ts": 1792982554000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "朝鲜致信安理会：地雷爆炸事件为韩国“自导自演” - 手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92b0trZkhFSlJ6NGxWU2NEb3RsVXo3WjdnWjVOOUgwMHVTVUxISTdqdHRrWkZPdzNqNWU1c25QVjE2ODZmM1ZJUFZZUQ?oc=5",
-      "site": "手机新浪网",
-      "siteUrl": "https://wap.cj.sina.cn"
-    },
-    {
       "id": "FL-c574dc6047af",
       "date": "2026-10-26",
       "dateISO": "Mon, 26 Oct 2026 02:41:04 GMT",
@@ -265,18 +277,6 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1yX1hiYmlVYlN6eHZWYkRtb2xBeng1SkhjQVlfT2gwb1VHdFVkdW00T1JLdW9FaWdfUFR0SkdIVFNSOHU1NzJBeWI4THJxeHRwNXVsYTJPYVJkMHlfUlVJ?oc=5",
       "site": "科技行者",
       "siteUrl": "https://www.techwalker.com"
-    },
-    {
-      "id": "FL-386a2e30a8b2",
-      "date": "2026-10-26",
-      "dateISO": "Mon, 26 Oct 2026 02:29:32 GMT",
-      "ts": 1792981772000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "美国一海鲜加工厂氨气爆炸现场画面 - 中华军事",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiYnZ0bHRhaUtaVmlibTduX201RV9vc3BVbjJoR2pYNll3em1MVHhpSEkxeW9oRWtsblRCYmIwWS1USUpYRDV0aFpieHJJNlIwMmhIdmJId09PZ2E1VHc3aVhWdFVMYmdfVzA5N28zZGE?oc=5",
-      "site": "中华军事",
-      "siteUrl": "https://military.china.com"
     },
     {
       "id": "FL-79baaa101535",
