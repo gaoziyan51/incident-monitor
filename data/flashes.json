@@ -1,30 +1,90 @@
 {
-  "updated": "2026-10-28T19:34:33.318Z",
+  "updated": "2026-10-28T23:28:56.710Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-6e3e7901939f",
+      "id": "FL-9af56f2aa793",
       "date": "2026-10-28",
-      "dateISO": "Wed, 28 Oct 2026 18:47:00 GMT",
-      "ts": 1793213220000,
+      "dateISO": "Wed, 28 Oct 2026 21:13:00 GMT",
+      "ts": 1793221980000,
       "scope": "intl",
       "type": "blast",
-      "title": "ALE investigation follows fire and explosion in Wilkes County - 88.5 WFDD",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM0Fqcy1ta19YbXVtR3laeTVnbjZ0QzVvMFlyWXI3bVlLYzlwTDNNaDdKZzRsZ19GWXY4bzlyVjByVTJYXzNZYTZldERieGg5VVlMRHVPQ2Qwb1M5cHY3QmZUclpIRm5tRTlkOVktNlJrVm9iTkd5dzBOSE1NbHd6OTJHMW9hS2ZkQUQ0Y2tFVzVPcHlHY2RqTFgzV1hhRmFFbV9TajYzV0IwcG1YS0E?oc=5",
-      "site": "88.5 WFDD",
-      "siteUrl": "https://www.wfdd.org"
+      "title": "1 injured in explosion at home under construction in Loveland - 9News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc1hoZHhfd2VxeU1hczZHZEdmNGJ5Wkt4Q2EzaE5iRThEcFRDT0xDRV9fX1Vwem80dTRiYlRhcXJwZFRLTmhFVlVZSzE0b0FqX0kwNV9lNmJsaW03T1Nld2VfcWNVSnBJYzhweVZaQmNIR3dVdElfV2xXcjhhcC1rYnU0b1ZTVUdNemlEMkRIT0lYcDJ2NkF5eVdiRnNpLXY3YXJyemt3RUtVd2dmalBsbE92UGc4anZHNVFj?oc=5",
+      "site": "9News",
+      "siteUrl": "https://www.9news.com"
     },
     {
-      "id": "FL-763f62f5705b",
+      "id": "FL-aa2ca36c75e3",
       "date": "2026-10-28",
-      "dateISO": "Wed, 28 Oct 2026 17:37:42 GMT",
-      "ts": 1793209062000,
+      "dateISO": "Wed, 28 Oct 2026 21:12:49 GMT",
+      "ts": 1793221969000,
       "scope": "intl",
       "type": "blast",
-      "title": "Worker injured after explosion at Loveland construction site - KDVR",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORUJobUsxb2V6Z0FjVGJabFh5MWN4Wm1PR3hwZF9uVko5WXVIdFdUbHFqWFpVSll4OGlScnRDbUZ3eWxtSjJVUFVwYnE3cVlFV2FhZDBBd01yWUJLX1plYVN1b2hqR0g5X1o3Wm1oZThUM3FOOWtmaVpwYkdBbW1tQ0dqb1BiUG5YVEFDM2o3UnZabGfSAZgBQVVfeXFMTmR4T1YtY0hPeG1aNWdLOF9zWlp4TWV2OHFKYXlDR2tzN2czN1VHR3ZUX3dyRzhheEMteXVxRVU1MmZyR3lYSlUwWGItM0Q3VmJEX2RNWlpBNDVWdWtqZDl5cDNJX1pRWXpra0JYM0s1cjZNdEt3UW9xbUIyd1JRWml4UFBtRlpEckRyTmM3Q21fN1pMcG1tRm8?oc=5",
-      "site": "KDVR",
-      "siteUrl": "https://kdvr.com"
+      "title": "Illegal moonshine distillery seized, man charged after NC explosion - WRAL",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ3F5bGJhLTZZWno1a0MwcDVfdEJXZUozXzZFRUFUT3FDQnpfcjRyb2IwZmtfQU9jbEc3SmV5eHhJM0dBNWwzLWV1bHBQcjBxUDR3NkZZYmswZ1hycVJzbFZCUnUtdzIxempQRGJMb0RaakJRQjRodlhzRE02WEtzaWNuaUNEcmN4cVAyTFdSOUxkM3ZRVmc?oc=5",
+      "site": "WRAL",
+      "siteUrl": "https://www.wral.com"
+    },
+    {
+      "id": "FL-4525f6292a8b",
+      "date": "2026-10-28",
+      "dateISO": "Wed, 28 Oct 2026 21:03:25 GMT",
+      "ts": 1793221405000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "State Fire Marshal investigating Harlem Township house fire after reported explosion - WSYX",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZVlxTmFGTzJqUGdmVUdtR2x2U2g2cGJzNl8ta2tqUXBidzBEX1c3ZzNtVUYxVER3X2V5WWxMdXBEWDdVVnRwMjdhalA0dnl3YzEyMW9Bb2YydkpINXc1TFJYbUVoYlRibnRidE9RLWROT1ZnWGljand6ZWhpQUxmWGVVcUI4ck9WTmFON2lubk9samhjZ04tUnNhTngwYUhtZmtZR2FQSDRTaC1WR3YwWnFxT3ZFS2UtaHplWVloaWdhcEJnUHBtRkZrTEN0cng2UzVXOTNBRjlHUlRGNkVWWUM3c29QeGJ2TGI4NFd1UnQ?oc=5",
+      "site": "WSYX",
+      "siteUrl": "https://abc6onyourside.com"
+    },
+    {
+      "id": "FL-ab341965ca1d",
+      "date": "2026-10-28",
+      "dateISO": "Wed, 28 Oct 2026 20:44:08 GMT",
+      "ts": 1793220248000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "热度爆炸！近三分之一美国玩家有意购买《GTA6》 - 3DM",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xa2lvNFZEQnNWUEpnMHR0V2JRV2ljM29zdkgtQlBwc282QTJieXdfZHdRMW5DRVN4S1JtT3MzLXJsZWlraXRPRVFhaXFZOXRjYTRQR2lyZE5XZVdj?oc=5",
+      "site": "3DM",
+      "siteUrl": "https://www.3dmgame.com"
+    },
+    {
+      "id": "FL-cc148c091598",
+      "date": "2026-10-28",
+      "dateISO": "Wed, 28 Oct 2026 20:35:09 GMT",
+      "ts": 1793219709000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "地雷爆炸案 - 亚洲电视新闻",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS0txOTlkZGhidWoxc3REWjd1djhXOENHZEVERi00VENpXzVFck9wbDlTUkplWGNaWkYxZlliZlRkR2tVY3FsQ2FTRVdhaThiUUgyWTVxYmtiTVFCUlNLdURrOHpIbkN5S3hZWVhQLVVjWjVLQXhTOHE1c0Z4VFZMckJB?oc=5",
+      "site": "亚洲电视新闻",
+      "siteUrl": "https://atvnewsonline.com"
+    },
+    {
+      "id": "FL-1ad7481224ec",
+      "date": "2026-10-28",
+      "dateISO": "Wed, 28 Oct 2026 20:10:00 GMT",
+      "ts": 1793218200000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Explosion reported before garage fire in Spanaway - KING5.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUnVZS2xfZG1FaU5PYnpoMkFXYTlPa21TbVIwNHVqOWZoNTFqbTZmeWhhSDRrVGFPcjVTYU9xY18xNzVGYXR2Wkt6ejRCYjY1cUVvem5CNVdUcFZPTXFNR2NjM2RQOXhGaEpMZW9HeTJZWTRlY0tuLXQxdnRVS3RzdHVtRnoyZDVwR2doZGJ3M0ZiV0hDbDQ0VmNZNkJuc3NNQ2RzaWRkM1J3bFg2OHFWcDZtWFpWcFBhdTFIXzhXZmJOYkVJOExRVFhoWVZYalZN?oc=5",
+      "site": "KING5.com",
+      "siteUrl": "https://www.king5.com"
+    },
+    {
+      "id": "FL-e6d0ea7e47cd",
+      "date": "2026-10-28",
+      "dateISO": "Wed, 28 Oct 2026 19:30:00 GMT",
+      "ts": 1793215800000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Johnstown house fire under investigation after reported explosion - NBC4 WCMH-TV",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUXJQR0V1NUd5YkNEeHBydWRjU08wM0s1UVI2MHl4QnBSbjRzSW8wR1NyQ1R3VDFtLXhUa0cydm92Nk04cXdRbmxHNTFSancxbl80ZGV6MjMzWXU4TTNJa1VBWklqS2hEdC1oeDhZNzZ5T1kxVFM3Tm5DYkE4NTR4S21Sc1g3Mk10Ulc3QXZyQUFCR3k5ekg5b1BqZXItTFpVbXpsRkd5UjR1ZWkwamI2MFJuTDVxMkl1MmhaMNIBwgFBVV95cUxQRDM1czYtRDhqNE1GakUxTEg0dzZpX3hfMk9yZUZ1TXRQcnltb2IybUZ0cGxtOW5fTUswWklpa2dLcmhTbTY3TUpWM0MtR0dNbzhvRDVlSXRkSlJwVllubXprR1M2R1E5ZWdNTEF3QVkyZlJwc1kyZWY5UUlULXJhcVpVTWpkYWJMVGt5dTBjMGNNUUZGTWlOd0ltcmJYbjU0WlJiNUxwXzctd3NPOTN6SXByd0JTSFgtc1RaSGlnRVVaUQ?oc=5",
+      "site": "NBC4 WCMH-TV",
+      "siteUrl": "https://www.nbc4i.com"
     },
     {
       "id": "FL-8ac44576a12f",
@@ -37,42 +97,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQakFocVZGNFBsRzRPZWRfRU5iOTFmT2F0Rjc3XzVoZ1VwcjdDZmFwREYtWEMyV2UzaFhEZV8wSXVTMFZEWGFGM3ZYUU55dnRnaFgyYmVBTXVrMmtJRzNXYnAzSElzOFRvVzVHaVVJeXBVOUtjTUtFY0hGTHVpc3BRd3d3RVI2dzR6aEE?oc=5",
       "site": "The Denver Post",
       "siteUrl": "https://www.denverpost.com"
-    },
-    {
-      "id": "FL-4525f6292a8b",
-      "date": "2026-10-28",
-      "dateISO": "Wed, 28 Oct 2026 16:58:20 GMT",
-      "ts": 1793206700000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "State Fire Marshal investigating Harlem Township house fire after reported explosion - WSYX",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZVlxTmFGTzJqUGdmVUdtR2x2U2g2cGJzNl8ta2tqUXBidzBEX1c3ZzNtVUYxVER3X2V5WWxMdXBEWDdVVnRwMjdhalA0dnl3YzEyMW9Bb2YydkpINXc1TFJYbUVoYlRibnRidE9RLWROT1ZnWGljand6ZWhpQUxmWGVVcUI4ck9WTmFON2lubk9samhjZ04tUnNhTngwYUhtZmtZR2FQSDRTaC1WR3YwWnFxT3ZFS2UtaHplWVloaWdhcEJnUHBtRkZrTEN0cng2UzVXOTNBRjlHUlRGNkVWWUM3c29QeGJ2TGI4NFd1UnQ?oc=5",
-      "site": "WSYX",
-      "siteUrl": "https://abc6onyourside.com"
-    },
-    {
-      "id": "FL-4c076dc7b2ba",
-      "date": "2026-10-28",
-      "dateISO": "Wed, 28 Oct 2026 16:08:03 GMT",
-      "ts": 1793203683000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Delaware County house fire, 'explosion' under investigation - The Columbus Dispatch",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbDhEYkFDRGg3VmVyRWlMT3J6Z3htVlNCNXVvdVpUVmxVRzlIenlZYU9XNjh6U3B6bzYzTzgwUXZValo0dVNERURCcDhULUw4NHRiM05jYmt3Um9GQmRhN0lmUGFZeXZDem5GN2xEdk1HcGtlMUtxcnRNXzF1SXdCOUtfRzBqem1hX25Id25ObDJrU0g2dDFTZmVKUUtuelJPaF9BY2FHc05ZX1dqVDdNYjZzcDBlcUk5Z19XRElMTDJrNlhnODk0RlhYNA?oc=5",
-      "site": "The Columbus Dispatch",
-      "siteUrl": "https://www.dispatch.com"
-    },
-    {
-      "id": "FL-dfab89e55d3e",
-      "date": "2026-10-28",
-      "dateISO": "Wed, 28 Oct 2026 15:52:00 GMT",
-      "ts": 1793202720000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Cause of Delaware County house explosion, fire under investigation - Centre Daily Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPa3ZTWldUQ1l1WWlzakRPQkE4ZUx0MzQ4ZzFrb2N4NXVkVmQ4eWhjMklKWVlqVTNicXpHbVd2Qy15bmdSN2Nqem1aVUZWbk85SklIaG1sMm9EVV9JOUNBN0N5Zkh3X2dGQXlobUlBMkNYN0kxYU9rdzA0QkJxSGtMdnNB?oc=5",
-      "site": "Centre Daily Times",
-      "siteUrl": "https://www.centredaily.com"
     },
     {
       "id": "FL-dd83eeb0f5d7",
@@ -99,30 +123,6 @@
       "siteUrl": "https://www.asianews.it"
     },
     {
-      "id": "FL-4bcdf7d293d7",
-      "date": "2026-10-28",
-      "dateISO": "Wed, 28 Oct 2026 15:11:00 GMT",
-      "ts": 1793200260000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "国际油价大涨2%，也门亚丁国际机场附近再次发生爆炸 - 21财经",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbnBxenJxN1VzWkpJdkQ3UTZtalB5Wkk5NVJKaWVEWjdRc2xscW9QR0o3ZzVFbnJ3SlNZQXRLNG95VUVQeFFITlJpNndFMWpVbl9mVjloQlFDVGhZNmkxaW94a1RITXdzajl6bmZoNDZZcmI3QnQ5TDAxb3UwdUxQdTJURjdHaHVhUnZpNkdiYw?oc=5",
-      "site": "21财经",
-      "siteUrl": "https://www.21jingji.com"
-    },
-    {
-      "id": "FL-3a6ea6d5fe4b",
-      "date": "2026-10-28",
-      "dateISO": "Wed, 28 Oct 2026 12:48:28 GMT",
-      "ts": 1793191708000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Searsmont mill explosion survivor set to come home after 5 months in hospital - WGME",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNX2lwWHoxY0FLYWwtSTZGdzc3YzhKWHdzdEhkUXRwdk9pbHdSOUxvTXByc1ZtYnQ3LU1wTHZvM0tvWXV4aExmQm1JU0Zrci1nSDh4TVBjWjY4TTBYSUhkLU9rVzFDZ2pDZk1KbkNDLXVjdWcwdVVFclZmOGxNN09feWNuOEpOWC1UU3NOa2xReC0xYTl0am5RcFNmMHVrVkg0c0RveHB6RWp2WWozcmRwVmMzSElqbUp6cFEtSnZxSTlMSEdLSmpNc1plSWZlRDFvZmhEdnMwVUZSZ2Y2bllXOW45Tl94TmdSQlVz?oc=5",
-      "site": "WGME",
-      "siteUrl": "https://wgme.com"
-    },
-    {
       "id": "FL-f876a22df0b7",
       "date": "2026-10-28",
       "dateISO": "Wed, 28 Oct 2026 12:37:00 GMT",
@@ -133,6 +133,18 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUTFsamZiZkFpeGZLRFpkTkt1MUMzS0pGZWJVUV9XcFkweERFUG9Mal9ZU3hzbmh4ZERHVHZIYU0tT19uRERROGlyUnNuNExaYXVqRUhyT3lHdm1HZ1lGd3VpWnNsaG9xZzRwMVRaNnN4VE1mTGNfM3lJOTdSM3lxUllFb2toRk5Pb0xmRWd6Qkx4dVh5cTAxZXJpc0VNQnJLNF9kLXJWRdIBuwFBVV95cUxONk1BbEkxV1VsN0k1X1JZVDZ1a1JjbjNfYWpUYmNSMVJKZ2Fiajc5eEFMLU1ZR2FqR0NSek5NNmtLbE05S3J0ZzVnVG5jazEwZXBRMkszOFQ4N2ZkbXVfS0RTMG4tUlk5ZUhhczZhZVJ2OVF4UGdyZUl1MXk3WVNqTzR6NWliNEtWVEU5VGpyMkFoMVRDYmpQY2VLR1RsYXZuYTJEV3NvdUZLMVpCeFhkSWNTcVF4aURPcWt3?oc=5",
       "site": "WBTV",
       "siteUrl": "https://www.wbtv.com"
+    },
+    {
+      "id": "FL-f8c73123a3ad",
+      "date": "2026-10-28",
+      "dateISO": "Wed, 28 Oct 2026 12:17:49 GMT",
+      "ts": 1793189869000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "国际油价大涨2%，也门亚丁国际机场附近再次发生爆炸 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYUUhkWlFlV3FZRzk1czRfWnNKM1hjRzhVemo3ajBGdlRXTFVhX0F1YVhRaGJVSjVkZ0V4UTNDdUhQd1FDVFp4cUdhcm9VMkdpTjdhRUhtSWxlMndMSGY4WEtjZw?oc=5",
+      "site": "东方财富",
+      "siteUrl": "https://emwap.eastmoney.com"
     },
     {
       "id": "FL-0ec2722da7f4",
@@ -147,6 +159,30 @@
       "siteUrl": "https://www.21jingji.com"
     },
     {
+      "id": "FL-3b73d5ff2a9c",
+      "date": "2026-10-28",
+      "dateISO": "Wed, 28 Oct 2026 10:40:00 GMT",
+      "ts": 1793184000000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "生日直播温馨时刻，气球爆炸声让张天爱受惊到眼神发直|张天爱|直播|气球_新浪新闻 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE11TmoybTVFbXotT0xGd20tOWdqekZ2OTlHTDVxVGtSTmdZOWtMSDk4S3RRU2NIMzZnX2FGVHNNMnhEaWFLbEFCLUR3cy1KS2V5S0YybU9sV20xOVdDZlpZQ05zVQ?oc=5",
+      "site": "新浪网",
+      "siteUrl": "https://www.sina.cn"
+    },
+    {
+      "id": "FL-9c2cbcb0fb55",
+      "date": "2026-10-28",
+      "dateISO": "Wed, 28 Oct 2026 06:19:10 GMT",
+      "ts": 1793168350000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "朝鲜谴责地雷爆炸系韩方“自导自演” - 手机网易网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5adV8tNWREU3R2cEVKNVdHY1JCYkluZzJQeldMWk9VczNJQXlkZFh0ZGF6elVnNHRVdV9NQVA1Y2NCaUpVUkVOcURnNE1iaHVlSEJQTGRrVEYtSzBpTlc1MzRR?oc=5",
+      "site": "手机网易网",
+      "siteUrl": "https://www.163.com"
+    },
+    {
       "id": "FL-16761deb1373",
       "date": "2026-10-28",
       "dateISO": "Wed, 28 Oct 2026 03:43:31 GMT",
@@ -157,18 +193,6 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR0N1MEpWNjVnRk9DQkkxVjNqX1BVM2RhbW53b24yMGNMbmE5bXZ2akVZcjBuQV91amQ3c09UVE01SDZvUXpieWMzaHV1bkFLYTRKb1JzeWZIbzJqS3lNaUU2R2dOM0lhZktINkViTGJ0VHg0Q1p3Zw?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
-    },
-    {
-      "id": "FL-50a5657f21ea",
-      "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 07:00:00 GMT",
-      "ts": 1791961200000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "英特尔在以色列工厂发生爆炸致3人受伤 - 新华网客户端",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWUNhVEREb0liYWExSTM2U3VUdmZGRnVGMG1ZU09EeUFwdVIyVjhuRWdIZzVMRWlUZUJoZXpNSVpEV2w0VHdxTDhSZkFDYlZHOVY3X25yOGJ6aVJHUGtxN0hGb0NOSF80MXloaEluaGhuaFVPSC12d1lfaWt4dFNYVm1lN25nVzBjZHpGTERKRGpjSlVlZEFUanVR?oc=5",
-      "site": "新华网客户端",
-      "siteUrl": "https://app.xinhuanet.com"
     },
     {
       "id": "FL-6eb0e8761226",
@@ -183,6 +207,18 @@
       "siteUrl": "https://www.ncdps.gov"
     },
     {
+      "id": "FL-2b52ab23cef6",
+      "date": "2026-10-27",
+      "dateISO": "Tue, 27 Oct 2026 14:18:47 GMT",
+      "ts": 1793110727000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "882 ▏摔了一跤，手机突然爆燃！警惕手机爆炸前的5个信号→ - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcmpycmJBM3dDWlgzR0xjR1dMSmdoLXFzUFZZYjJfV2JUV2EtSjRpQU5nYWpNX25jWVBxM1J6dkl6UEZRalRhZkp6VjRJUXhwbGlaLUVBdEVNVHJYRi02Y1RqbUFobjByRVQ3UXhrdVR3UUdKM2JMQ3pOUWhySHV4NVhYMDdxd0dXWkpWQQ?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-5f49c27ab8b2",
       "date": "2026-10-27",
       "dateISO": "Tue, 27 Oct 2026 13:08:36 GMT",
@@ -191,6 +227,18 @@
       "type": "blast",
       "title": "充电宝在柜子里爆炸自燃，女子灭火时手被烧伤，当事人：提醒大家易燃易爆物品不要放在柜子里（来源：浙工之家）#充电宝#充电宝爆炸#烧伤 - 搜狐网",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQU2pxSFl6c1VUWmlKX2NXS1J3M0VsWWRwdE52YTIwLVJmLXRkalp4eVc2N0xON3NkUFlKVTFwNjY3ZjhqVExic2lEdTQxa0pibUo5N2VXSGk1VWJpR0F1OUpIdzREeExLUnVNTnVOVDJ1aFdfQUFpTE5VRWN6Tl9OQ29ueVBPTFZFd1E5cA?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-23cedf595ca4",
+      "date": "2026-10-27",
+      "dateISO": "Tue, 27 Oct 2026 12:44:37 GMT",
+      "ts": 1793105077000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "摔了一跤，手机突然爆燃！警惕手机爆炸前的5个信号→ - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSWxCYURMR1ZwQ3hqVTFDd2h5alBCRkZfaEZWNHNUVGdLOWtQZHlhT0JadXU5V0hDT0NMZnJIeF82NXFma0Iwc25rdVRkT1RVSV9YSWZHM3l5MU16MlhsZ0NPbF9FLThSSzBEZUw5SktiSXd5akNTbTFxZEZ4R2g2cmtEa2RkS2RQ?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
     },
@@ -255,18 +303,6 @@
       "siteUrl": "https://www.thepaper.cn"
     },
     {
-      "id": "FL-de0212a34ed6",
-      "date": "2026-10-25",
-      "dateISO": "Sun, 25 Oct 2026 04:07:42 GMT",
-      "ts": 1792901262000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "全球最大的燕麦加工厂起火 疑似发生爆炸 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWTRBWFV6S3UyQy1iUUlVMmRyM1hoYU9xanNpUmY2dllmdmxXTEN2MVlKVlB4WFc3aEZ2R1Z3QzItNm84cExQSExHMTBIaTdxa2RaVFlYMlA1VEQtX0wxUjBNUVVBWTZxYU1lVkp4NzJXS1BmRW5ieG5VNUc4OTVHUmNXMk8zb2s?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
-    },
-    {
       "id": "FL-0615dd398028",
       "date": "2026-08-02",
       "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
@@ -315,16 +351,16 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-b042a088a326",
-      "date": "2026-08-03",
-      "dateISO": "Mon, 03 Aug 2026 07:00:00 GMT",
-      "ts": 1785740400000,
-      "scope": "intl",
+      "id": "FL-6219c5a90f8f",
+      "date": "2026-10-19",
+      "dateISO": "Mon, 19 Oct 2026 07:00:00 GMT",
+      "ts": 1792393200000,
+      "scope": "dom",
       "type": "blast",
-      "title": "巴基斯坦西北部发生爆炸致14人死亡 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
+      "title": "易燃易爆炸！四川曝光一批工贸领域重大事故隐患案例丨安全四川 共同行动 - 四川新闻",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FZ3Fob0VMeUdKTnRXRjd0eG5YNGJXNVVjd1ktWkNHZk10ZGpFaWVYMGNZTFp4OGl6ZlY4b2RnSU5nVmltWjRLaGVnRFhxWkI1eTJyQ3ZCSW5LSjdxV2hDekVSaw?oc=5",
+      "site": "四川新闻",
+      "siteUrl": "https://sichuan.scol.com.cn"
     }
   ]
 }
