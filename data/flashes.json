@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-29T15:41:07.613Z",
+  "updated": "2026-10-29T20:37:56.777Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-2f31af6f9011",
+      "date": "2026-10-28",
+      "dateISO": "Wed, 28 Oct 2026 21:25:00 GMT",
+      "ts": 1793222700000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "看得热血沸腾！这群孩子的威风锣鼓燃爆全网，这才是中国少年该有的样子 - 腾讯新闻",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GVnZCaFg0eURERUo1WEl2RGRydFlPRDhaekwwMlMwQXhIMS01d0xReUpfQzd4MjRfRWFRT05NaWJ6ek5abWQ5MVZMVTJwWWlNMkRCaU5n?oc=5",
+      "site": "腾讯新闻",
+      "siteUrl": "https://news.qq.com"
+    },
     {
       "id": "FL-6eb0e8761226",
       "date": "2026-10-27",
@@ -27,16 +39,52 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-ecdb35dd8526",
+      "id": "FL-07873353fb1e",
       "date": "2026-10-29",
-      "dateISO": "Thu, 29 Oct 2026 14:23:00 GMT",
-      "ts": 1793283780000,
+      "dateISO": "Thu, 29 Oct 2026 20:00:35 GMT",
+      "ts": 1793304035000,
       "scope": "intl",
       "type": "blast",
-      "title": "2 injured after house explosion in Quay County - KFDA | NewsChannel 10",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeTRVcktqaFdjYUl0Mkx0VENOeFZtUTJHSU9YSF8xOG9JdjJoWjV4S1FvaTZGSzFFODFSTDBOcFdmNDFGeEUycldJQ3l3Z2tnc2kwQWN6MU1EZ29MQWdaOTdZSnhselI0VXpLb21WYi0zNkxmWG9qS3BRVk9IaFJrT2w1UkhWRmNTYlpJeEdn0gGiAUFVX3lxTE1mZGpHTDVSSFNXX0tCWHJGQ0wycmJUOHNqT3ExdUZPcnpJeDJjRnZibXVNWEJyOE1pc21MTVlHVEJlMnN0dDB1Vy1kSnlzUGgzMmFXMUtKZUZCX0pDX1RIM2ozQzZMODhFRUszM1ZWWEhtazd2Ni02MHo4SV9Rd3ZYWXA1WTRBZ3VFMFlPaDBPSzFNMUF3MmFRVF9PZkpoMF9UZw?oc=5",
-      "site": "KFDA | NewsChannel 10",
-      "siteUrl": "https://www.newschannel10.com"
+      "title": "Home explosion leaves 2 hospitalized in Tucumcari - KOB 4",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYl9qWkJkb3NjdzNFWnMyN080SklRdTNjV21RSTVhdUxUY2dlYjYyaE1XMDBnZVZEZ3RVMjNMS3JvYnU1V0hpV0toTXlzVVRPbDVNQWxndGV0eHBRdzBZWmZBbVJqM01BT1Z4RVo5UTJWN3JKTWxhUlphWmoxTTFHRG5oU3hzbTNEZldOMA?oc=5",
+      "site": "KOB 4",
+      "siteUrl": "https://www.kob.com"
+    },
+    {
+      "id": "FL-be84a3346158",
+      "date": "2026-10-29",
+      "dateISO": "Thu, 29 Oct 2026 18:54:00 GMT",
+      "ts": 1793300040000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "\"Small explosion\" in Van Nuys apartment injures 3 workers - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLVI2NnB0V3dXVlFGN2pldTVtcXRKckRLX3ZLRjl6SVllQzIwVFNDSm90d1hPT2E0T1ZCekF6MDMwN0J1bldjbjIzeXFCNmNZSXJGSFEzYTdHWVVCbHZJdmNrUW5hcHRnUVBjNGVRMXN5MC1jUk5LNXBWSUJfNWF4eWViY05aMGNlbHpNZVR4QQ?oc=5",
+      "site": "CBS News",
+      "siteUrl": "https://www.cbsnews.com"
+    },
+    {
+      "id": "FL-f83da3bfd2de",
+      "date": "2026-10-29",
+      "dateISO": "Thu, 29 Oct 2026 18:14:10 GMT",
+      "ts": 1793297650000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Explosion, fire at illegal North Carolina distillery leads to arrest - LiveNOW from FOX",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTDdOeC00LTZpbzR4enVaUS1jZnpCXzdlNElzOWRtLXAyS1VTc2NmdktxdURxVjREZkdEMFB0UFgyVTR2MTN1d1F6NFVRMVBGNWJMMlZLT1pUWGV3QXgxa2wzN2pTcmxtdG8wYnVvZjdLLXlTNWxVV3E5NTJVLWNCT3dKTkR6TV82M2lqRm5Qd3gyZjlsWXp6MXJteGxBMGM1MjJ5bmtR?oc=5",
+      "site": "LiveNOW from FOX",
+      "siteUrl": "https://www.livenowfox.com"
+    },
+    {
+      "id": "FL-9f1719471ae7",
+      "date": "2026-10-29",
+      "dateISO": "Thu, 29 Oct 2026 18:03:40 GMT",
+      "ts": 1793297020000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Explosion at Van Nuys apartment building leaves 3 hospitalized in unknown condition - ABC7 Los Angeles",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUnctcEZQWlpQZC00UDB0SGtHYVpMVlh5TnltdUdLOW5Iek9MWkpYaF9mMVFmU3dnSXJ1SjMtazRlZG1TUWJYLWlWLVM0eWJmQi1wcWVfejU5dXhfNWx2XzlJSWNQUWdiTzhLNFFDNHJyTE1tbktTbEdRU3ZGaUxSeHBuSTQwZEpZX05UYXl3elRRWWlNWV9aSlA3cnBxcWJkb2V2UHJGSFNXNUxYcHfSAbMBQVVfeXFMTmVfcFluRElxNzVVTV9lamxaYkpNdjJ2R29USE0zUGVZQTlnNjFNMERBUkR5NXVWemNiUGhJckhaTjlRaFYtS2NiMElWd0RpclRTZDBKdTFVUUxfQ0t0ZGFVZVFOU2NPWGtOSnduelo4d0lFOWdKZjkxSk9fRWFaS3dPNF9nNnk0UWRGYVl6RTdaSVZESU1WVjlqSFoyTzN3RUVVbVVKVWwycm1jMC1JYWxSdkU?oc=5",
+      "site": "ABC7 Los Angeles",
+      "siteUrl": "https://abc7.com"
     },
     {
       "id": "FL-83cf235e112b",
@@ -63,16 +111,28 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-459b3bd6495d",
+      "id": "FL-3edd53c67a5b",
       "date": "2026-10-29",
-      "dateISO": "Thu, 29 Oct 2026 06:06:54 GMT",
-      "ts": 1793254014000,
+      "dateISO": "Thu, 29 Oct 2026 06:36:05 GMT",
+      "ts": 1793255765000,
       "scope": "intl",
       "type": "blast",
-      "title": "巴基斯坦一救护车氧气瓶爆炸致10人死亡 - 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wVzYzbUZ1NVR5aVRON1lTczVsR3BjekY5MTRBcUNxWWVOR1RuMG1VUXZEUkFfSGIyV1p6SThtUUNxV1RLMnl1VENydw?oc=5",
-      "site": "新浪网",
-      "siteUrl": "https://wap.cj.sina.cn"
+      "title": "巴基斯坦一救护车氧气瓶爆炸致10人死亡 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tcnh2TTl6bVdjbkxucy1wMTB3bU9pbHhvQXFjVGY0RE1WbE5tM0tBZ0xteFFMdm9GMlJfSVd4MVQ0dHpOZXJFYVNoZ0lINzJxYmpCTmVJQjdBeEE0aUhCOHNhLXVLV3V4SWNoX2NDeFJhMXAtUjQzUg?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
+    },
+    {
+      "id": "FL-f0793e7c92c7",
+      "date": "2026-10-29",
+      "dateISO": "Thu, 29 Oct 2026 06:21:20 GMT",
+      "ts": 1793254880000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "巴基斯坦一救护车氧气瓶爆炸，致至少10人死亡，车内有一名孕妇，警方：已组织专家勘查现场 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNXRxS3hjbVFjTWxJRWNNc2ZlZEc1THBIOFFjY3ZzVDFRd2FXa1dkYWUxdExWNFduUDNEQXhyb0VlV3hOQ3NPekdYOWVGUUs3UkpXdW4wV1ZyNHFGMXhFc3loU3E3eFJmZkRsUWpzS2Q2Q0NSd25jbnZUWmdiLTJQbzhHTEliUGZYeXc?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-593ab805699d",
@@ -135,16 +195,16 @@
       "siteUrl": "https://www.kcrg.com"
     },
     {
-      "id": "FL-6219c5a90f8f",
-      "date": "2026-10-19",
-      "dateISO": "Mon, 19 Oct 2026 07:00:00 GMT",
-      "ts": 1792393200000,
-      "scope": "dom",
+      "id": "FL-160d55aeb47e",
+      "date": "2026-06-22",
+      "dateISO": "Mon, 22 Jun 2026 07:00:00 GMT",
+      "ts": 1782111600000,
+      "scope": "intl",
       "type": "blast",
-      "title": "易燃易爆炸！四川曝光一批工贸领域重大事故隐患案例丨安全四川 共同行动 - 四川新闻",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FZ3Fob0VMeUdKTnRXRjd0eG5YNGJXNVVjd1ktWkNHZk10ZGpFaWVYMGNZTFp4OGl6ZlY4b2RnSU5nVmltWjRLaGVnRFhxWkI1eTJyQ3ZCSW5LSjdxV2hDekVSaw?oc=5",
-      "site": "四川新闻",
-      "siteUrl": "https://sichuan.scol.com.cn"
+      "title": "卡塔尔工厂爆炸已致13人死亡 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mR2pTX0YxWjBwQ2lLNC1XZjFhd3IwVEYtWkZFR3ZBU3B5RTFHR1BldmQ3OEkxN2NaWTMzYUkwWENDeEliY3dVNEloOExFS1B6SlZQTENHdWVmTWpUM042M2hRcmo4QS1qdl85cXlhZHJ3R3JGTEU4?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-b042a088a326",
