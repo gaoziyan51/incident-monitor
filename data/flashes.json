@@ -1,17 +1,17 @@
 {
-  "updated": "2026-10-29T20:37:56.777Z",
+  "updated": "2026-10-30T00:16:59.106Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-2f31af6f9011",
+      "id": "FL-0708873522ad",
       "date": "2026-10-28",
-      "dateISO": "Wed, 28 Oct 2026 21:25:00 GMT",
-      "ts": 1793222700000,
-      "scope": "dom",
+      "dateISO": "Wed, 28 Oct 2026 15:48:00 GMT",
+      "ts": 1793202480000,
+      "scope": "intl",
       "type": "blast",
-      "title": "看得热血沸腾！这群孩子的威风锣鼓燃爆全网，这才是中国少年该有的样子 - 腾讯新闻",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GVnZCaFg0eURERUo1WEl2RGRydFlPRDhaekwwMlMwQXhIMS01d0xReUpfQzd4MjRfRWFRT05NaWJ6ek5abWQ5MVZMVTJwWWlNMkRCaU5n?oc=5",
-      "site": "腾讯新闻",
+      "title": "阿姆斯特丹载爆炸物汽车撞毁案进展：警方再捕两名嫌疑人，一人在逃 - QQ News",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5MG9IOG5DZ092RHVKRUpjbWtiWFY3bkF2MjZQMjVfaWpkRjhiSlhLeDN3Y0JQbms1V1dUNldFWVRTdk1oLS1aSWJwQUtTdHpNUEg0TUx3?oc=5",
+      "site": "QQ News",
       "siteUrl": "https://news.qq.com"
     },
     {
@@ -39,40 +39,64 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-07873353fb1e",
+      "id": "FL-ad0f7ac2441e",
       "date": "2026-10-29",
-      "dateISO": "Thu, 29 Oct 2026 20:00:35 GMT",
-      "ts": 1793304035000,
+      "dateISO": "Thu, 29 Oct 2026 22:40:41 GMT",
+      "ts": 1793313641000,
       "scope": "intl",
       "type": "blast",
-      "title": "Home explosion leaves 2 hospitalized in Tucumcari - KOB 4",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYl9qWkJkb3NjdzNFWnMyN080SklRdTNjV21RSTVhdUxUY2dlYjYyaE1XMDBnZVZEZ3RVMjNMS3JvYnU1V0hpV0toTXlzVVRPbDVNQWxndGV0eHBRdzBZWmZBbVJqM01BT1Z4RVo5UTJWN3JKTWxhUlphWmoxTTFHRG5oU3hzbTNEZldOMA?oc=5",
-      "site": "KOB 4",
-      "siteUrl": "https://www.kob.com"
+      "title": "乌克兰首都基辅市响起强烈爆炸声 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ3R5MlFQNzZ2SUhaTVpUUHRMazJKWmJtd0pUQjQ5b253dWE4dmpnTjJZbEFhUXRqdGpZNWw3UHgwOGM0SHJucXoyanBnUm5PM3lEdkR6MFhkMXJ3SUpQbEtIX3BMakF4Zkg1M2ZUY0hkajZDX0RTdnhQN1l4S2hiSnNHWEJuc2Za?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-be84a3346158",
+      "id": "FL-7146202a491f",
       "date": "2026-10-29",
-      "dateISO": "Thu, 29 Oct 2026 18:54:00 GMT",
-      "ts": 1793300040000,
+      "dateISO": "Thu, 29 Oct 2026 22:27:37 GMT",
+      "ts": 1793312857000,
       "scope": "intl",
       "type": "blast",
-      "title": "\"Small explosion\" in Van Nuys apartment injures 3 workers - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLVI2NnB0V3dXVlFGN2pldTVtcXRKckRLX3ZLRjl6SVllQzIwVFNDSm90d1hPT2E0T1ZCekF6MDMwN0J1bldjbjIzeXFCNmNZSXJGSFEzYTdHWVVCbHZJdmNrUW5hcHRnUVBjNGVRMXN5MC1jUk5LNXBWSUJfNWF4eWViY05aMGNlbHpNZVR4QQ?oc=5",
-      "site": "CBS News",
-      "siteUrl": "https://www.cbsnews.com"
+      "title": "Explosion inside Van Nuys apartment hurts two workers - NBC Los Angeles",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaUV3WnJPTXNUR1Nsc1BHd1BxdTIxU1ZtRFNWV3lkeWI0RkdEamx2ZmdLV0NJcnBRVkRtRkRXWUJ2OElmeDMtVkd6b0ptdjVCYWNvb01HNUs5RExnNEl0bm9QVWFUNWhRYmZOc1M2VzVtQ3ZtNGRPV3d4UTU2UDExWmttWENRbThBTDNzWWxCQVVvWjNhdGZ5dHB6Y19tei1GZ0VOSkJn0gGuAUFVX3lxTE1oeEZub19BVTVNRVlxLVd0OHVtck1BXzNvRmtucWJ4ZXRlQlE4T2t6MUUxaFBYNGhYc2FoazVPNlRWQjVBZ2JINUlMLVhnb1dVdUFteGQ0WjFTQlRERU1aTFM4SVgtbVlraGpXeFJKSThZVG5hbjctb214amhnR1h3YlNDUDZBZkJJeFhqV3dFMTZvQ2tWRGg2ZjQxcF9hOU9QR2dqeFp6b01oNDlvZw?oc=5",
+      "site": "NBC Los Angeles",
+      "siteUrl": "https://www.nbclosangeles.com"
     },
     {
-      "id": "FL-f83da3bfd2de",
+      "id": "FL-3a6edb3506f8",
       "date": "2026-10-29",
-      "dateISO": "Thu, 29 Oct 2026 18:14:10 GMT",
-      "ts": 1793297650000,
+      "dateISO": "Thu, 29 Oct 2026 22:27:37 GMT",
+      "ts": 1793312857000,
       "scope": "intl",
       "type": "blast",
-      "title": "Explosion, fire at illegal North Carolina distillery leads to arrest - LiveNOW from FOX",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTDdOeC00LTZpbzR4enVaUS1jZnpCXzdlNElzOWRtLXAyS1VTc2NmdktxdURxVjREZkdEMFB0UFgyVTR2MTN1d1F6NFVRMVBGNWJMMlZLT1pUWGV3QXgxa2wzN2pTcmxtdG8wYnVvZjdLLXlTNWxVV3E5NTJVLWNCT3dKTkR6TV82M2lqRm5Qd3gyZjlsWXp6MXJteGxBMGM1MjJ5bmtR?oc=5",
-      "site": "LiveNOW from FOX",
-      "siteUrl": "https://www.livenowfox.com"
+      "title": "What cause explosion inside Van Nuys apartment? - NBC Los Angeles",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUGY2LXBNc0I1MkZ1XzdHNUtlOEZFU2ZYTlVwR0p1NGZoWlotQ2Z3YmxqZ3gyMXNzU1JVSGRoY25ha2N0RXFkYm9ZQmFWR2NfaU1IaXphT1FkZmo3blFNZGlBNjlXXzBoNHZHT25QQlRfMG9MbTgxZVpRNGdad0xEajlPbmQtN0Vzc1hwOU56Y1Jra0UzNWJ4NzhabUNfakRTalQ3TNIBrAFBVV95cUxNSzR5VV96b0JVa3oweGNET19ld0pZVThDZmVtWnRNREYzem8wdnlhVVF5V0R1Vkg3T1NBMmRhOFlvZmNzOGEzXzZYNWV0enFRYVRxSS1VMVZkaTBwcXVESVNabXpHaDdrdTA3OGZYZUZLdXFXY3VBeTJIcmpoQTlfUkdJdmFBbXpNQlRCSGctN045OGRxTlY3UVJ2aG02ZzdvNThNZXRWYS1FQmZK?oc=5",
+      "site": "NBC Los Angeles",
+      "siteUrl": "https://www.nbclosangeles.com"
+    },
+    {
+      "id": "FL-54f8566ae225",
+      "date": "2026-10-29",
+      "dateISO": "Thu, 29 Oct 2026 21:00:00 GMT",
+      "ts": 1793307600000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "乌克兰基辅遭弹道导弹袭击 传出爆炸声 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fSldkRmNRZTltdnNPcjIxNmU2SDFLTnJ4eWFMNWpqTnBoeUFBa0tocFU5cHFVb095bFhqcEdIZ05GV2RhWjZUcHNmM1ZhTkY4cFJXb1NTV2d3b3QwLW8wUg?oc=5",
+      "site": "东方财富",
+      "siteUrl": "https://wap.eastmoney.com"
+    },
+    {
+      "id": "FL-ecea631f61dd",
+      "date": "2026-10-29",
+      "dateISO": "Thu, 29 Oct 2026 20:53:28 GMT",
+      "ts": 1793307208000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "乌克兰基辅遭弹道导弹袭击 传出爆炸声 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1uTGl0WkJqOG84b19DSzVVdGxPMEZkLWtKLWZ2WVMya1JBekpiNW1UNUxJdTFwX3M4Ukx2RGM4cEtPeFBMNmtHU0RDRQ?oc=5",
+      "site": "新浪网",
+      "siteUrl": "https://wap.cj.sina.cn"
     },
     {
       "id": "FL-9f1719471ae7",
@@ -123,18 +147,6 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-f0793e7c92c7",
-      "date": "2026-10-29",
-      "dateISO": "Thu, 29 Oct 2026 06:21:20 GMT",
-      "ts": 1793254880000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "巴基斯坦一救护车氧气瓶爆炸，致至少10人死亡，车内有一名孕妇，警方：已组织专家勘查现场 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNXRxS3hjbVFjTWxJRWNNc2ZlZEc1THBIOFFjY3ZzVDFRd2FXa1dkYWUxdExWNFduUDNEQXhyb0VlV3hOQ3NPekdYOWVGUUs3UkpXdW4wV1ZyNHFGMXhFc3loU3E3eFJmZkRsUWpzS2Q2Q0NSd25jbnZUWmdiLTJQbzhHTEliUGZYeXc?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-593ab805699d",
       "date": "2026-10-29",
       "dateISO": "Thu, 29 Oct 2026 02:20:42 GMT",
@@ -157,6 +169,18 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50ci13dXhpbU5Qc1BhTEVHcU1IazVzaXczclJRMDRpWHNBdkhmNTN1RXp3NmVWOG14M004U0xMT2QzQUtUb0lNWW5SNEppdXFaNEN5S1prNVVmb3c2SEd1alE4MEtpYVdwenFfcTFfUENVaE5VN0xDag?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
+    },
+    {
+      "id": "FL-34a9c10f2a73",
+      "date": "2026-10-18",
+      "dateISO": "Sun, 18 Oct 2026 07:00:00 GMT",
+      "ts": 1792306800000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "加拿大一军事基地实弹演习发生重大事故：基地爆炸起火多人伤亡附近停满救护车 - QQ News",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45cWJaekFfSHRpR09kMzFiOV9ORTRBU05DZmpVZDRpZ01KU0pxNkZfM2tKSzBCTVA2ZFFSRG9NMmVLQWFjLWJqNkZ1dlcxSlEzQWZURjVn?oc=5",
+      "site": "QQ News",
+      "siteUrl": "https://news.qq.com"
     },
     {
       "id": "FL-0615dd398028",
@@ -205,6 +229,18 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mR2pTX0YxWjBwQ2lLNC1XZjFhd3IwVEYtWkZFR3ZBU3B5RTFHR1BldmQ3OEkxN2NaWTMzYUkwWENDeEliY3dVNEloOExFS1B6SlZQTENHdWVmTWpUM042M2hRcmo4QS1qdl85cXlhZHJ3R3JGTEU4?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-6219c5a90f8f",
+      "date": "2026-10-19",
+      "dateISO": "Mon, 19 Oct 2026 07:00:00 GMT",
+      "ts": 1792393200000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "易燃易爆炸！四川曝光一批工贸领域重大事故隐患案例丨安全四川 共同行动 - 四川新闻",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FZ3Fob0VMeUdKTnRXRjd0eG5YNGJXNVVjd1ktWkNHZk10ZGpFaWVYMGNZTFp4OGl6ZlY4b2RnSU5nVmltWjRLaGVnRFhxWkI1eTJyQ3ZCSW5LSjdxV2hDekVSaw?oc=5",
+      "site": "四川新闻",
+      "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
       "id": "FL-b042a088a326",
