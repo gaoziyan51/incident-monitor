@@ -1,19 +1,7 @@
 {
-  "updated": "2026-10-30T05:53:22.996Z",
+  "updated": "2026-10-30T11:44:24.637Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-7146202a491f",
-      "date": "2026-10-29",
-      "dateISO": "Thu, 29 Oct 2026 22:27:37 GMT",
-      "ts": 1793312857000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Explosion inside Van Nuys apartment hurts two workers - NBC Los Angeles",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaUV3WnJPTXNUR1Nsc1BHd1BxdTIxU1ZtRFNWV3lkeWI0RkdEamx2ZmdLV0NJcnBRVkRtRkRXWUJ2OElmeDMtVkd6b0ptdjVCYWNvb01HNUs5RExnNEl0bm9QVWFUNWhRYmZOc1M2VzVtQ3ZtNGRPV3d4UTU2UDExWmttWENRbThBTDNzWWxCQVVvWjNhdGZ5dHB6Y19tei1GZ0VOSkJn0gGuAUFVX3lxTE1oeEZub19BVTVNRVlxLVd0OHVtck1BXzNvRmtucWJ4ZXRlQlE4T2t6MUUxaFBYNGhYc2FoazVPNlRWQjVBZ2JINUlMLVhnb1dVdUFteGQ0WjFTQlRERU1aTFM4SVgtbVlraGpXeFJKSThZVG5hbjctb214amhnR1h3YlNDUDZBZkJJeFhqV3dFMTZvQ2tWRGg2ZjQxcF9hOU9QR2dqeFp6b01oNDlvZw?oc=5",
-      "site": "NBC Los Angeles",
-      "siteUrl": "https://www.nbclosangeles.com"
-    },
     {
       "id": "FL-54f8566ae225",
       "date": "2026-10-29",
@@ -51,6 +39,18 @@
       "siteUrl": "https://abc7.com"
     },
     {
+      "id": "FL-5f9371e4dce7",
+      "date": "2026-10-29",
+      "dateISO": "Thu, 29 Oct 2026 10:35:29 GMT",
+      "ts": 1793270129000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "画廊 贝鲁特爆炸后重建，Kassar 最新装置作品 - 32 - ArchDaily",
+      "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxQSDdUME1Vd3hlU1J5R3VfQ0M5eHctMVE0MzJJTktMVk1JMFc5dVl2MVk0UUw2bk9JOWx6NzZSX0RDb1lqbl9QdlBheFo3YUNRdEtRbVpKYVpXS3JIMUxLRVpxb3pLNFVyLU9oNkMyTUlnS2JmMEpkLTdFWjRoSGFOVGZNTnlrY0w4LXRZTU9xaGpBRl9ydnRUVmxGdzlVTUl6NzFIam15bGJjd0VKeGpzaVVFQTlVdVZza1p1WkxVdkF6TkRUQk1FcHhUYmRVV0hnQXlxaklqMkhOdDB4MkU2OWtUeEhQcnlUYloxRlA0RVU5cTkxLWJjYzRvamVOZHFqSTVhOGpJRW1RNzRiWHBzclowa05SajMzamNkdlotY19ZcDlCRHVLdVlpUVdCMUVXM2x4b2xyY3Z2U2ZzZ1RRY1JEajVEUlNvTExPWnRFTmk0RE9SOHFkdTR6b2oxcUV6bHVMbGNYYURVV0NzS2ZSd0N0bEFhOEt2VE8xS3FtbEZjX0JWRGFrd3RBdUNaNTEzcUtkcHhMYm82cDdvZk1ydTBHRXlLRVNDTUE?oc=5",
+      "site": "ArchDaily",
+      "siteUrl": "https://www.archdaily.com"
+    },
+    {
       "id": "FL-83cf235e112b",
       "date": "2026-10-29",
       "dateISO": "Thu, 29 Oct 2026 10:33:00 GMT",
@@ -61,6 +61,30 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MM09xd3F2aWRIaXVtOU8wQWdqYV9uUVVGRFFrZno5ZElsRlpGN1I2RDk2M2xPeDY1ck4tY3NRVS1RVkxyWDhOSEIzUGx1YzJUMHFtS2lpazlwWTRzTkhUMA?oc=5",
       "site": "证券之星",
       "siteUrl": "https://wap.stockstar.com"
+    },
+    {
+      "id": "FL-3edd53c67a5b",
+      "date": "2026-10-29",
+      "dateISO": "Thu, 29 Oct 2026 06:36:05 GMT",
+      "ts": 1793255765000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "巴基斯坦一救护车氧气瓶爆炸致10人死亡 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tcnh2TTl6bVdjbkxucy1wMTB3bU9pbHhvQXFjVGY0RE1WbE5tM0tBZ0xteFFMdm9GMlJfSVd4MVQ0dHpOZXJFYVNoZ0lINzJxYmpCTmVJQjdBeEE0aUhCOHNhLXVLV3V4SWNoX2NDeFJhMXAtUjQzUg?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
+    },
+    {
+      "id": "FL-de0212a34ed6",
+      "date": "2026-10-25",
+      "dateISO": "Sun, 25 Oct 2026 04:07:42 GMT",
+      "ts": 1792901262000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "全球最大的燕麦加工厂起火 疑似发生爆炸 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWTRBWFV6S3UyQy1iUUlVMmRyM1hoYU9xanNpUmY2dllmdmxXTEN2MVlKVlB4WFc3aEZ2R1Z3QzItNm84cExQSExHMTBIaTdxa2RaVFlYMlA1VEQtX0wxUjBNUVVBWTZxYU1lVkp4NzJXS1BmRW5ieG5VNUc4OTVHUmNXMk8zb2s?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-0615dd398028",
@@ -87,16 +111,136 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-b042a088a326",
-      "date": "2026-08-03",
-      "dateISO": "Mon, 03 Aug 2026 07:00:00 GMT",
-      "ts": 1785740400000,
+      "id": "FL-a1625e58e48d",
+      "date": "2026-10-03",
+      "dateISO": "Sat, 03 Oct 2026 07:00:00 GMT",
+      "ts": 1791010800000,
       "scope": "intl",
       "type": "blast",
-      "title": "巴基斯坦西北部发生爆炸致14人死亡 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
+      "title": "美提升核爆炸探测能力，中共秘密核试验和陈友麟案件再引关注 - 美国之音",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN1gtb1drX1hWS3NBMzU4MlNRVEJ1TkUzQmJCR1B0a3VFS2MxU05ZTTZ1UjlmZnJZU2JYNHgyOGVwZ1dUZjdIZ3hxaWlPNGZsQTc3VjRlRTlPd3hlR1d2b3RVVE92dUwzMTlwVVB1TmphZUN1OG5iTU5WYU5EZjJmM3BpNHctZ3ljVTgtTXJuX1YzeVM2bmVmTkEzZzBnczIzSFFRWmxHRGd2SUdVb01wNGZsSmVVOWlYcG1LZHZYWk1BQU9wcnhhb3Q2dVZXaDlUSHNqZ9IB1wFBVV95cUxNWnRiOWpoQ21MQ0tYTkh0c3hWVTFSbV9ZQlcxWUF4SmtBanZHZmNIc296ZkJUcjBIVnZlTmZDZXY3WnlfWXJPWmU0WHYxa1F4RlFxWDlaMjlaRGtCYTdTVU9fa3JaMkVlSllKZWVObWpKS1o3ZVZlNTk3RGN6ejJGSTFCbTd2RFVYM2FfQk5heEcxWDYtc0Q3bDl4Wnp5em1ZdE9WZi11VTd6bi1TWnlycUc2VmR5eUJ6Mk15Y1ZCQlhrc2tmcWpKTVpRZlpEbjFYU1JhTWZBOA?oc=5",
+      "site": "美国之音",
+      "siteUrl": "https://www.voachinese.com"
+    },
+    {
+      "id": "FL-6219c5a90f8f",
+      "date": "2026-10-19",
+      "dateISO": "Mon, 19 Oct 2026 07:00:00 GMT",
+      "ts": 1792393200000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "易燃易爆炸！四川曝光一批工贸领域重大事故隐患案例丨安全四川 共同行动 - 四川新闻",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FZ3Fob0VMeUdKTnRXRjd0eG5YNGJXNVVjd1ktWkNHZk10ZGpFaWVYMGNZTFp4OGl6ZlY4b2RnSU5nVmltWjRLaGVnRFhxWkI1eTJyQ3ZCSW5LSjdxV2hDekVSaw?oc=5",
+      "site": "四川新闻",
+      "siteUrl": "https://sichuan.scol.com.cn"
+    },
+    {
+      "id": "FL-4a9f5ea9ec08",
+      "date": "2026-10-30",
+      "dateISO": "Fri, 30 Oct 2026 09:35:43 GMT",
+      "ts": 1793352943000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "西班牙格拉纳达一军工厂发生爆炸 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vVjZoWE5iQ2dmVUtEc3BfSUR1bmlkNDgzLWgwcU1icUFMX1RsRkZ3V3ZseUJ0d1oxZV9uQS02OVlUWEVBU29OQkNQTENFNlk0SmZUYTFVOEhOVElQWVE?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
+      "id": "FL-44489b1209a4",
+      "date": "2026-10-30",
+      "dateISO": "Fri, 30 Oct 2026 09:30:00 GMT",
+      "ts": 1793352600000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Deadly Intel Fab 28 explosion causes two-week shutdown, to cost $600 million and severely disrupt server chip manufacturing for six months — 10nm Xeon shipments stall during largest shortage in memory - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQbkF4d1J0c0hzUExWNTFTTHFKWXlBeHdVeTM2bzBtWVZKcHVVaXhfWWROSWtxTWZrdWxFNHhqeHN6VmdqUkdkeU45NURLemNyMEp3UTQ1WFFTSk9weWxxT25fdGhlcmEyYXBWN01QbmpTWXFSUmFaYWtlY1EtQXA5azltUW1Delp0d0lmcm9ybThqMGhHbnFKRzhWM0FuaG5haUpwRGNVdkQ1OENXYzhqaWFtb2lrNlJ3TnJMQTNfZUVUd05IVFIwSVFGZ01yckxOOVpuSlZvTzhOODNRTXhkQ1M3SGN0WEJPa1hOT253SHdpalZnZzZQaUZpY3QxMkNhWkJjNjZoUTVTQl9MZXRXNEplSnE3SnVZRzJRYzVSdHVpSk80VFBTeUdRRDRqS0xDR0lEa0tvWWxmVEx6dGswaHNGbGlYbUdpMFhGNnJaQTdzLXJfWDRXMTlLVHVoZjFzaFZVRnZn?oc=5",
+      "site": "Tom's Hardware",
+      "siteUrl": "https://www.tomshardware.com"
+    },
+    {
+      "id": "FL-e77dbd112d45",
+      "date": "2026-10-30",
+      "dateISO": "Fri, 30 Oct 2026 09:22:00 GMT",
+      "ts": 1793352120000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "韩总统府：将按原则采取必要措施应对地雷爆炸 - 韩联社",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NNFpjMlZYQk9PMXRGc0g2eEFFM3YxNFI4aGI3d0RLdWJtSU9HNjVGSmtvR0gySmxDM0VEblFiWEJ1YnYtZHhwczVPYUVxWmd2M241NjlnbDFzTFllaW11cE1hc1dxczVnWUxSbHZXR0s5bVZmbFE?oc=5",
+      "site": "韩联社",
+      "siteUrl": "https://cn.yna.co.kr"
+    },
+    {
+      "id": "FL-7704a0a6ee20",
+      "date": "2026-10-30",
+      "dateISO": "Fri, 30 Oct 2026 09:16:11 GMT",
+      "ts": 1793351771000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "西班牙格拉纳达一军工厂发生爆炸 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMWxGM0hzNHBWWVdnWlBJWFRLeVphMThxVGNMYkR5YjlnSHF5X0MxVWFOalhBc290WjJfeHUyV0thZG5La2V0LWhfdjVUbWNMVk9DaHlJUFlNbExZcnB4emd2aXlNbkt6MWdnRGlUb2ZhaW1SU0R6WTFEbl8yWDY4cmRxMjh0blJV?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-040cc92889b0",
+      "date": "2026-10-30",
+      "dateISO": "Fri, 30 Oct 2026 07:53:43 GMT",
+      "ts": 1793346823000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Greece arrests three over explosion that killed six people in Athens - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeUVUX2NBWHNDVGVjcFlnVFZheldmT0VJSllOcGIxQ1ZZdjdqaWp2cUtkOHFqSGNJMnBjZmtFS0NfZWhiV3dWUUNBVlRYa2xIMmJiUnprdVVVb0pUSzJQZEFKRXZpOVVjWHgtQ1VwVXRZYUVfNG84YzM1di11ekRmZFU0bkxqMTdyTDJSbF9HbVdhbkRULXpNanhpNGtfdWdRWXYtLWRUMkJtNzQ?oc=5",
+      "site": "Reuters",
+      "siteUrl": "https://www.reuters.com"
+    },
+    {
+      "id": "FL-e89ea1a318d9",
+      "date": "2026-10-30",
+      "dateISO": "Fri, 30 Oct 2026 07:09:00 GMT",
+      "ts": 1793344140000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Intel’s $600 million question: How the Kiryat Gat explosion hit its forecast - CTech",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5Y05FNGdTTklnN1RoMFlmUTNzNVo4RXZFZ1ZrOEd0Ujd5VHM5bDJMZXNVcXVCUGJjQnZzdWotaXpXSXEtT24tV0FxQXc5TzFuUUdQSEJmYVJvdDFKcldHY2ZxLTBfZFk?oc=5",
+      "site": "CTech",
+      "siteUrl": "https://www.calcalistech.com"
+    },
+    {
+      "id": "FL-a3bc72a29641",
+      "date": "2026-10-30",
+      "dateISO": "Fri, 30 Oct 2026 06:21:00 GMT",
+      "ts": 1793341260000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "凌空爆炸！乌军战机发射导弹 摧毁俄制无人机 - 中国新闻网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KUUg2MnlEOTlMNW9ZZTlGSWc5VVZ2V0x2VVZ4VTl5ZHdWTjRvRHNNRXhHN3NfUTdacFZGUFg1dDh6bnpCWEdyQlptb1ltTVBnaHowZXFNM2JyMkZld185WHRlakJ4T1dLYks3RWZCTl9qRHdwOHc?oc=5",
+      "site": "中国新闻网",
+      "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
+      "id": "FL-7867c093ecb8",
+      "date": "2026-10-30",
+      "dateISO": "Fri, 30 Oct 2026 05:49:47 GMT",
+      "ts": 1793339387000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "包钢股份因“1・18”爆炸事故被追责，其年内已收10张罚单 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZkVnMG8yRDVfX2dNVlN1eWpiVTdxemEtSDhpVER5WXZtNTczQ2ZtTklzei1XS3JkWTBCdkRoZGE2WmhXNHVIMDFWZTJ3Sm9FVktzTHdBNWZpeTJtczVITEtZTFBjMU1UU3ZqRmdoUUg0c3lvcEU2bkxDSkRCNnllV3lJdnhLUFlaZFdPbw?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-21502056edb8",
+      "date": "2026-10-30",
+      "dateISO": "Fri, 30 Oct 2026 05:49:01 GMT",
+      "ts": 1793339341000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "景区向人群中扔炸药包丢回后直接爆炸：炸药包只是道具，真正爆炸装置在二楼 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtblRTZG1FT0ljSGxUWWV3ZzlyeWJ6VGJaVld2Sm9TU1FVSGRSN3RmakhXOFpoNEY3blpqaWlSSjNxdTQtRzJsMThBNVZWS2d3SmdzcG5qSHFTOUt3cXpHcGxUTUFYdlh0U01uVExkN0c?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
     },
     {
       "id": "FL-f39c527fc7df",
@@ -109,30 +253,6 @@
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9HeE9SeFRFTVFkVXdFNkhKMUZleUJWdW5DMTc0SWRheTAzMi14QWlYQVplcUxrT0g0TUdGQkdvWllLbkk?oc=5",
       "site": "集微网",
       "siteUrl": "http://laoyaoba.com"
-    },
-    {
-      "id": "FL-e77dbd112d45",
-      "date": "2026-10-30",
-      "dateISO": "Fri, 30 Oct 2026 05:22:02 GMT",
-      "ts": 1793337722000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "韩总统府：将按原则采取必要措施应对地雷爆炸 - 韩联社",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjY20yT2Z4WnZwWHMwTGpCY0pma3Z0NDdxci11QXI3ZWtOUk02eGh0cFBhZVdpMmxBMzlWSGRjY21IWkJxRVVFRmU4M2ppOC1mcXNubG1Xc3BQUQ?oc=5",
-      "site": "韩联社",
-      "siteUrl": "https://cn.yna.co.kr"
-    },
-    {
-      "id": "FL-87e03b84a693",
-      "date": "2026-10-30",
-      "dateISO": "Fri, 30 Oct 2026 04:27:58 GMT",
-      "ts": 1793334478000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "One man killed in fire and explosion at Port Arthur automotive business - KFDM",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbEJlQ1l5dGxYYW5vNlJJbjNNUUpMVUxYLW1FZWlzU0hSQWNLczVkaV8zYjdRVXBMX1FYZk8wc1VYS214bGUyQUZCMzd5RjZWeF92ajJzcmdlTXBWMU9xN3M2bjN0a04tU2lZOUs3V2RTNWZ6X1A4Mi1FYzF2RlVNT0VxajIweGViLUtxYzZXZnlibjNXS2c?oc=5",
-      "site": "KFDM",
-      "siteUrl": "https://kfdm.com"
     },
     {
       "id": "FL-18ac5c8a7c32",
@@ -171,50 +291,14 @@
       "siteUrl": "https://www.ntdtv.com"
     },
     {
-      "id": "FL-f45335e2c2f4",
-      "date": "2026-10-30",
-      "dateISO": "Fri, 30 Oct 2026 01:45:47 GMT",
-      "ts": 1793324747000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "3 hurt in apartment explosion in Van Nuys - FOX 11 Los Angeles",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBsWDFRTFBISUVHRGY4WTRvX3F0X1NZemxlaFBMcWhrTDlaWE5FNjhYT2RrMFFqYUFFbWFYMFNSbEgtMU9xREdvc1VtbWxSb1hlSDFmNFJ1ZVlLc1lGT2g0eGRudWRnUDJlVHIwYm5ldw?oc=5",
-      "site": "FOX 11 Los Angeles",
-      "siteUrl": "https://www.foxla.com"
-    },
-    {
-      "id": "FL-7bc9950d0f3c",
-      "date": "2026-10-30",
-      "dateISO": "Fri, 30 Oct 2026 01:14:46 GMT",
-      "ts": 1793322886000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "瓦龙三人组接连病倒 组合效果曾“爆炸” - 中华网娱乐",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0TW8zeXNSbUZwcXRKOTR6UlBrOWlVUm54TS0yMDFlVG5wTkRSNkoyZkhoNEJIblQxcllXdEFBaV9ha1MzWmVwUVdBcTkyRzc2ZE1fNy1ySTFLZFJLVk02UTNSN0YxS1pOQ3ZwNzlfSk9HRXVY?oc=5",
-      "site": "中华网娱乐",
-      "siteUrl": "https://ent.china.com"
-    },
-    {
-      "id": "FL-13d82d3fb0c3",
-      "date": "2026-10-30",
-      "dateISO": "Fri, 30 Oct 2026 00:58:59 GMT",
-      "ts": 1793321939000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Tucumcari residents asked to avoid West Turner Street after Thursday ‘house explosion’ - KRQE",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYTlfTDVVaFBrel9wTnNPNjlFQVVMSVRpdmFpQ3MzUzUxTG5nNFNGbndTQlFnakpUSE1oaTdoOVBOM3o0SWJRYVF5T1FkWE5Uak5yTWFvVTlDd1g1cjMwaUQ1aC0xMzBsLWVrSXZ2a0tkRFpkaTdPM3V5OXpWbTBOcTNXaEpXR0hiVE9XTENOTWZERG1nd1ZBcFNsMnlSWDVCNEpBZW5pVHdsR0dEWkxraTBuQmJyamIzbU9sLVh4SdIBxAFBVV95cUxOLThTTUYyTUc3UTZGZnZKZGh1X0g3enpWY0tISEZQeGZEWTV1THdpVXItcXkwdkU5cnd5NFJLY0RkbTJYdzVYOVExUk05MFZvOF9jUk5IQi1hUW56RnJoODRlR1FKalJrTG1GSjRNUnQ3a21SWUdWbmZqYmt3bm1aaEx0cWw5eUZwWDFEalI4aW9razl5bmlfVjZqWS1CYUJGVlZFLXIwejZSN1FHWEpDT2lWNm9yT0ZoN1NNSHREWU00Vy1F?oc=5",
-      "site": "KRQE",
-      "siteUrl": "https://www.krqe.com"
-    },
-    {
       "id": "FL-670f0ece6e6e",
       "date": "2026-10-30",
-      "dateISO": "Fri, 30 Oct 2026 00:46:25 GMT",
-      "ts": 1793321185000,
+      "dateISO": "Fri, 30 Oct 2026 01:28:00 GMT",
+      "ts": 1793323680000,
       "scope": "intl",
       "type": "blast",
       "title": "沙特多处重要设施遭袭，首都听到爆炸声 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcjR2ZHNwS0RVWWIxNjFLeVZ0cVdwOXhJVElKQ2lCOTdVYTFwVG9NMTRYWTFwelRmamVfUEdrcUVNYlVKcmkxdlhSdHA3WkdKaC1iaHQzYzh6NkpsUDl3cG1CNDRISjlCUlZvMjVSU2lDaTZrTGZ1UnF4ZEtBMmx3b2ZCTXdzbFdp?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVzk4MjQ5aFNERndFb29QZHBIcWVhMnZzWURCMlhHeXlMR0tfejdNNlh2OHlYbnN2M3N5MEtzbTZZZXVhQU1nVGg4anlvUkZYX1BuQ2g5UE9rME1tZFBxaExSOE9ZUnhLZXZ1c3JDTnZqOGVlenVidk5CaG1ubWM0SnJnNTVsZ1hFdnZCNg?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
     }
