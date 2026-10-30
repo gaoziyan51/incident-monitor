@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-30T17:13:24.661Z",
+  "updated": "2026-10-30T21:30:35.203Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-6eb0e8761226",
+      "date": "2026-10-27",
+      "dateISO": "Tue, 27 Oct 2026 18:42:20 GMT",
+      "ts": 1793126540000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "ALE Agents Seize 200-Gallon Illegal Distillery Following Explosion and Fire in Wilkes County - NC DPS (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVUxoTjFncUJLcTJXQ3NRSEhLekVTRGNfTWZoelhtTnB6WFBBSEpra3ViWlIyN3NMaEVmRnJYRzgzYjBLREpnVVNRVzhmQTlyTkdhVGF5YnlXUW05YlkzRHNqQjV2d0RVcEpUYVZjdWhqSUJmaGZBcjNiazliLUluVl92NVEtNzlQbG14bWxJVXZBOVFTX3pNSHhTdnlTUTJfSlI1c0xKSnp1Y0FwcUdHT0FQVXhtaXdiYktsQTItX0N6ZjJ6NU1BczJ2a1pNUm5vZWdVSzJpaE11QQ?oc=5",
+      "site": "NC DPS (.gov)",
+      "siteUrl": "https://www.ncdps.gov"
+    },
     {
       "id": "FL-54f8566ae225",
       "date": "2026-10-29",
@@ -15,16 +27,28 @@
       "siteUrl": "https://wap.eastmoney.com"
     },
     {
-      "id": "FL-ecea631f61dd",
+      "id": "FL-9f1719471ae7",
       "date": "2026-10-29",
-      "dateISO": "Thu, 29 Oct 2026 20:53:28 GMT",
-      "ts": 1793307208000,
+      "dateISO": "Thu, 29 Oct 2026 18:03:40 GMT",
+      "ts": 1793297020000,
       "scope": "intl",
       "type": "blast",
-      "title": "乌克兰基辅遭弹道导弹袭击 传出爆炸声 - 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1uTGl0WkJqOG84b19DSzVVdGxPMEZkLWtKLWZ2WVMya1JBekpiNW1UNUxJdTFwX3M4Ukx2RGM4cEtPeFBMNmtHU0RDRQ?oc=5",
-      "site": "新浪网",
-      "siteUrl": "https://wap.cj.sina.cn"
+      "title": "Explosion at Van Nuys apartment building leaves 3 hospitalized in unknown condition - ABC7 Los Angeles",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUnctcEZQWlpQZC00UDB0SGtHYVpMVlh5TnltdUdLOW5Iek9MWkpYaF9mMVFmU3dnSXJ1SjMtazRlZG1TUWJYLWlWLVM0eWJmQi1wcWVfejU5dXhfNWx2XzlJSWNQUWdiTzhLNFFDNHJyTE1tbktTbEdRU3ZGaUxSeHBuSTQwZEpZX05UYXl3elRRWWlNWV9aSlA3cnBxcWJkb2V2UHJGSFNXNUxYcHfSAbMBQVVfeXFMTmVfcFluRElxNzVVTV9lamxaYkpNdjJ2R29USE0zUGVZQTlnNjFNMERBUkR5NXVWemNiUGhJckhaTjlRaFYtS2NiMElWd0RpclRTZDBKdTFVUUxfQ0t0ZGFVZVFOU2NPWGtOSnduelo4d0lFOWdKZjkxSk9fRWFaS3dPNF9nNnk0UWRGYVl6RTdaSVZESU1WVjlqSFoyTzN3RUVVbVVKVWwycm1jMC1JYWxSdkU?oc=5",
+      "site": "ABC7 Los Angeles",
+      "siteUrl": "https://abc7.com"
+    },
+    {
+      "id": "FL-5f9371e4dce7",
+      "date": "2026-10-29",
+      "dateISO": "Thu, 29 Oct 2026 10:35:29 GMT",
+      "ts": 1793270129000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "画廊 贝鲁特爆炸后重建，Kassar 最新装置作品 - 32 - ArchDaily",
+      "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxQSDdUME1Vd3hlU1J5R3VfQ0M5eHctMVE0MzJJTktMVk1JMFc5dVl2MVk0UUw2bk9JOWx6NzZSX0RDb1lqbl9QdlBheFo3YUNRdEtRbVpKYVpXS3JIMUxLRVpxb3pLNFVyLU9oNkMyTUlnS2JmMEpkLTdFWjRoSGFOVGZNTnlrY0w4LXRZTU9xaGpBRl9ydnRUVmxGdzlVTUl6NzFIam15bGJjd0VKeGpzaVVFQTlVdVZza1p1WkxVdkF6TkRUQk1FcHhUYmRVV0hnQXlxaklqMkhOdDB4MkU2OWtUeEhQcnlUYloxRlA0RVU5cTkxLWJjYzRvamVOZHFqSTVhOGpJRW1RNzRiWHBzclowa05SajMzamNkdlotY19ZcDlCRHVLdVlpUVdCMUVXM2x4b2xyY3Z2U2ZzZ1RRY1JEajVEUlNvTExPWnRFTmk0RE9SOHFkdTR6b2oxcUV6bHVMbGNYYURVV0NzS2ZSd0N0bEFhOEt2VE8xS3FtbEZjX0JWRGFrd3RBdUNaNTEzcUtkcHhMYm82cDdvZk1ydTBHRXlLRVNDTUE?oc=5",
+      "site": "ArchDaily",
+      "siteUrl": "https://www.archdaily.com"
     },
     {
       "id": "FL-83cf235e112b",
@@ -39,28 +63,16 @@
       "siteUrl": "https://wap.stockstar.com"
     },
     {
-      "id": "FL-3edd53c67a5b",
-      "date": "2026-10-29",
-      "dateISO": "Thu, 29 Oct 2026 06:36:05 GMT",
-      "ts": 1793255765000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "巴基斯坦一救护车氧气瓶爆炸致10人死亡 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tcnh2TTl6bVdjbkxucy1wMTB3bU9pbHhvQXFjVGY0RE1WbE5tM0tBZ0xteFFMdm9GMlJfSVd4MVQ0dHpOZXJFYVNoZ0lINzJxYmpCTmVJQjdBeEE0aUhCOHNhLXVLV3V4SWNoX2NDeFJhMXAtUjQzUg?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
-    },
-    {
-      "id": "FL-de0212a34ed6",
-      "date": "2026-10-25",
-      "dateISO": "Sun, 25 Oct 2026 04:07:42 GMT",
-      "ts": 1792901262000,
+      "id": "FL-340d5e981918",
+      "date": "2026-08-23",
+      "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
+      "ts": 1787468400000,
       "scope": "dom",
       "type": "blast",
-      "title": "全球最大的燕麦加工厂起火 疑似发生爆炸 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWTRBWFV6S3UyQy1iUUlVMmRyM1hoYU9xanNpUmY2dllmdmxXTEN2MVlKVlB4WFc3aEZ2R1Z3QzItNm84cExQSExHMTBIaTdxa2RaVFlYMlA1VEQtX0wxUjBNUVVBWTZxYU1lVkp4NzJXS1BmRW5ieG5VNUc4OTVHUmNXMk8zb2s?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
+      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-0615dd398028",
@@ -85,6 +97,30 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlemFCa3lteDlkZERLTXRLMHhpeTIzNmFqanFBczVPaFNjQjVxOHNJNm54Tkhua1FqOGtuaUhBLWdRSWxXaFRoZThQZXJqclRIV1pUaTNhcjhHU0dwRzA1WXNQc2ZOVEhXX0Z1NUVBcnBUalJRWkE3ZlE0S3NOaXM?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-33abd8304f19",
+      "date": "2026-10-24",
+      "dateISO": "Sat, 24 Oct 2026 22:06:00 GMT",
+      "ts": 1792879560000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "UPDATE: No one hurt after fire, explosion Quaker Oats in downtown Cedar Rapids - KCRG",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNakF0QzBoc3VxNEp3WGFSUElIaFF1Ri1xRkxVdk9TeXh6ekt2MnBQN2RaeWxqMWJaNTFfLW0zX1psWkFVb2VCak5yT0hER3E0VVpxSy1zUmNfN2V4OVlJTlE5UDltcEJnb2w3Uno3bWpObENTa3A2LVlQYVRrSW1hVU9XRzhiZ1o4cWVvbWFld9IBowFBVV95cUxQSTR4NWpfa1M0blZQdFJuQlVUcXJqek1jM01tOVZQNjJBOHdoN3Fua1p1cDBxS3BYOHhibDk0eHpxMGp3Z2tHTXN6eDdQbm9vS3p1eHhqUWhGM0JPQ2wxRjUxR2hIUGtoX0JNc1h3azFYelZWcktsM3p4amZzelZ5cXROVm9HbGpoM2czS09UcjRGdWNQczJCQUczVnVRWllJV1Fz?oc=5",
+      "site": "KCRG",
+      "siteUrl": "https://www.kcrg.com"
+    },
+    {
+      "id": "FL-a1625e58e48d",
+      "date": "2026-10-03",
+      "dateISO": "Sat, 03 Oct 2026 07:00:00 GMT",
+      "ts": 1791010800000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "美提升核爆炸探测能力，中共秘密核试验和陈友麟案件再引关注 - 美国之音",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN1gtb1drX1hWS3NBMzU4MlNRVEJ1TkUzQmJCR1B0a3VFS2MxU05ZTTZ1UjlmZnJZU2JYNHgyOGVwZ1dUZjdIZ3hxaWlPNGZsQTc3VjRlRTlPd3hlR1d2b3RVVE92dUwzMTlwVVB1TmphZUN1OG5iTU5WYU5EZjJmM3BpNHctZ3ljVTgtTXJuX1YzeVM2bmVmTkEzZzBnczIzSFFRWmxHRGd2SUdVb01wNGZsSmVVOWlYcG1LZHZYWk1BQU9wcnhhb3Q2dVZXaDlUSHNqZ9IB1wFBVV95cUxNWnRiOWpoQ21MQ0tYTkh0c3hWVTFSbV9ZQlcxWUF4SmtBanZHZmNIc296ZkJUcjBIVnZlTmZDZXY3WnlfWXJPWmU0WHYxa1F4RlFxWDlaMjlaRGtCYTdTVU9fa3JaMkVlSllKZWVObWpKS1o3ZVZlNTk3RGN6ejJGSTFCbTd2RFVYM2FfQk5heEcxWDYtc0Q3bDl4Wnp5em1ZdE9WZi11VTd6bi1TWnlycUc2VmR5eUJ6Mk15Y1ZCQlhrc2tmcWpKTVpRZlpEbjFYU1JhTWZBOA?oc=5",
+      "site": "美国之音",
+      "siteUrl": "https://www.voachinese.com"
     },
     {
       "id": "FL-71711336cc5d",
@@ -123,15 +159,15 @@
       "siteUrl": "https://i.ifeng.com"
     },
     {
-      "id": "FL-3bee73ec9aa6",
+      "id": "FL-7f04ca5f07dd",
       "date": "2026-10-30",
       "dateISO": "Fri, 30 Oct 2026 11:17:33 GMT",
       "ts": 1793359053000,
       "scope": "dom",
       "type": "blast",
-      "title": "产能爆炸！有平台1天就能产出七百万首AI音乐 - 新浪网",
+      "title": "产能爆炸！有平台1天就能产出七百万首AI音乐 - 手机新浪网",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS1d6amhuX2huVTc2Z21BTC1ZXzhyWnB1N2JQNUR6YWVYbVAwZV9Kd2tpQW84Y1hyWkl2dkNnbWc3QzJ1M0EyV2NvRlhQakV0VEVHcXhVNy1PUU1QSVBIVTltdWRzamxIbXE1RlNzUnhTMThVS2oxcXZGSnVWd2d4bUEtaFk2dw?oc=5",
-      "site": "新浪网",
+      "site": "手机新浪网",
       "siteUrl": "https://t.cj.sina.cn"
     },
     {
@@ -147,26 +183,14 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-44489b1209a4",
-      "date": "2026-10-30",
-      "dateISO": "Fri, 30 Oct 2026 09:30:00 GMT",
-      "ts": 1793352600000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Deadly Intel Fab 28 explosion causes two-week shutdown, to cost $600 million and severely disrupt server chip manufacturing for six months — 10nm Xeon shipments stall during largest shortage in memory - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQbkF4d1J0c0hzUExWNTFTTHFKWXlBeHdVeTM2bzBtWVZKcHVVaXhfWWROSWtxTWZrdWxFNHhqeHN6VmdqUkdkeU45NURLemNyMEp3UTQ1WFFTSk9weWxxT25fdGhlcmEyYXBWN01QbmpTWXFSUmFaYWtlY1EtQXA5azltUW1Delp0d0lmcm9ybThqMGhHbnFKRzhWM0FuaG5haUpwRGNVdkQ1OENXYzhqaWFtb2lrNlJ3TnJMQTNfZUVUd05IVFIwSVFGZ01yckxOOVpuSlZvTzhOODNRTXhkQ1M3SGN0WEJPa1hOT253SHdpalZnZzZQaUZpY3QxMkNhWkJjNjZoUTVTQl9MZXRXNEplSnE3SnVZRzJRYzVSdHVpSk80VFBTeUdRRDRqS0xDR0lEa0tvWWxmVEx6dGswaHNGbGlYbUdpMFhGNnJaQTdzLXJfWDRXMTlLVHVoZjFzaFZVRnZn?oc=5",
-      "site": "Tom's Hardware",
-      "siteUrl": "https://www.tomshardware.com"
-    },
-    {
       "id": "FL-7704a0a6ee20",
       "date": "2026-10-30",
-      "dateISO": "Fri, 30 Oct 2026 09:16:11 GMT",
-      "ts": 1793351771000,
+      "dateISO": "Fri, 30 Oct 2026 09:30:23 GMT",
+      "ts": 1793352623000,
       "scope": "intl",
       "type": "blast",
       "title": "西班牙格拉纳达一军工厂发生爆炸 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMWxGM0hzNHBWWVdnWlBJWFRLeVphMThxVGNMYkR5YjlnSHF5X0MxVWFOalhBc290WjJfeHUyV0thZG5La2V0LWhfdjVUbWNMVk9DaHlJUFlNbExZcnB4emd2aXlNbkt6MWdnRGlUb2ZhaW1SU0R6WTFEbl8yWDY4cmRxMjh0blJV?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZnNhUkVZSFo3WnZwR1JZU0JXdGFrdzY0Q1U5WW45V2FLR0lZVHdabGZjWExwaTJKVUVwSzYyeWpNNXMxdmhlNEJZZDZLU1BnMjNFM3lheUg0czFhLVRKWTBwXzJzNS1BX3hBUWZ4RnpfZUp0TDdWRDB0dWNJaHJZWGFaZHZVbldG?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
     },
