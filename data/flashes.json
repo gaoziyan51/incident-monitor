@@ -1,30 +1,18 @@
 {
-  "updated": "2026-10-31T00:59:54.636Z",
+  "updated": "2026-10-31T06:40:00.194Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-6eb0e8761226",
-      "date": "2026-10-27",
-      "dateISO": "Tue, 27 Oct 2026 18:42:20 GMT",
-      "ts": 1793126540000,
-      "scope": "intl",
+      "id": "FL-385dd58b908a",
+      "date": "2026-08-11",
+      "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
+      "ts": 1786431600000,
+      "scope": "dom",
       "type": "blast",
-      "title": "ALE Agents Seize 200-Gallon Illegal Distillery Following Explosion and Fire in Wilkes County - NC DPS (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVUxoTjFncUJLcTJXQ3NRSEhLekVTRGNfTWZoelhtTnB6WFBBSEpra3ViWlIyN3NMaEVmRnJYRzgzYjBLREpnVVNRVzhmQTlyTkdhVGF5YnlXUW05YlkzRHNqQjV2d0RVcEpUYVZjdWhqSUJmaGZBcjNiazliLUluVl92NVEtNzlQbG14bWxJVXZBOVFTX3pNSHhTdnlTUTJfSlI1c0xKSnp1Y0FwcUdHT0FQVXhtaXdiYktsQTItX0N6ZjJ6NU1BczJ2a1pNUm5vZWdVSzJpaE11QQ?oc=5",
-      "site": "NC DPS (.gov)",
-      "siteUrl": "https://www.ncdps.gov"
-    },
-    {
-      "id": "FL-cd38f4e41786",
-      "date": "2026-10-29",
-      "dateISO": "Thu, 29 Oct 2026 22:48:00 GMT",
-      "ts": 1793314080000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "外媒：希腊雅典老城区爆炸事故致6死多伤，3名嫌疑人被捕 - 环球网",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FQkhrLU9jdlJKUmp2amZHVmpOcHFoZlRqc1JfcHRBaWwxZUhjYThPTDZiLUhvdHdyRUpaTXpBdngtNmluU05QMURwUVBuNWxvWWJXb0lOTk8?oc=5",
-      "site": "环球网",
-      "siteUrl": "https://world.huanqiu.com"
+      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - 财新",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQcmdXTjEtaEEwQXAyc0dzZ29xdEtVZ3VnTzNSdEdIODhUbTkwVE1WYUJKZGlFN0N1TkdlQTNEZDA1SkNEejNqVS15STYwTURwckdUM0REQUMyTHdNQk5oSjlR?oc=5",
+      "site": "财新",
+      "siteUrl": "https://science.caixin.com"
     },
     {
       "id": "FL-54f8566ae225",
@@ -39,52 +27,28 @@
       "siteUrl": "https://wap.eastmoney.com"
     },
     {
-      "id": "FL-ecea631f61dd",
+      "id": "FL-5f9371e4dce7",
       "date": "2026-10-29",
-      "dateISO": "Thu, 29 Oct 2026 20:53:28 GMT",
-      "ts": 1793307208000,
+      "dateISO": "Thu, 29 Oct 2026 10:35:29 GMT",
+      "ts": 1793270129000,
       "scope": "intl",
       "type": "blast",
-      "title": "乌克兰基辅遭弹道导弹袭击 传出爆炸声 - 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1uTGl0WkJqOG84b19DSzVVdGxPMEZkLWtKLWZ2WVMya1JBekpiNW1UNUxJdTFwX3M4Ukx2RGM4cEtPeFBMNmtHU0RDRQ?oc=5",
-      "site": "新浪网",
-      "siteUrl": "https://wap.cj.sina.cn"
+      "title": "画廊 贝鲁特爆炸后重建，Kassar 最新装置作品 - 32 - ArchDaily",
+      "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxQSDdUME1Vd3hlU1J5R3VfQ0M5eHctMVE0MzJJTktMVk1JMFc5dVl2MVk0UUw2bk9JOWx6NzZSX0RDb1lqbl9QdlBheFo3YUNRdEtRbVpKYVpXS3JIMUxLRVpxb3pLNFVyLU9oNkMyTUlnS2JmMEpkLTdFWjRoSGFOVGZNTnlrY0w4LXRZTU9xaGpBRl9ydnRUVmxGdzlVTUl6NzFIam15bGJjd0VKeGpzaVVFQTlVdVZza1p1WkxVdkF6TkRUQk1FcHhUYmRVV0hnQXlxaklqMkhOdDB4MkU2OWtUeEhQcnlUYloxRlA0RVU5cTkxLWJjYzRvamVOZHFqSTVhOGpJRW1RNzRiWHBzclowa05SajMzamNkdlotY19ZcDlCRHVLdVlpUVdCMUVXM2x4b2xyY3Z2U2ZzZ1RRY1JEajVEUlNvTExPWnRFTmk0RE9SOHFkdTR6b2oxcUV6bHVMbGNYYURVV0NzS2ZSd0N0bEFhOEt2VE8xS3FtbEZjX0JWRGFrd3RBdUNaNTEzcUtkcHhMYm82cDdvZk1ydTBHRXlLRVNDTUE?oc=5",
+      "site": "ArchDaily",
+      "siteUrl": "https://www.archdaily.com"
     },
     {
-      "id": "FL-9f1719471ae7",
-      "date": "2026-10-29",
-      "dateISO": "Thu, 29 Oct 2026 18:03:40 GMT",
-      "ts": 1793297020000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Explosion at Van Nuys apartment building leaves 3 hospitalized in unknown condition - ABC7 Los Angeles",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUnctcEZQWlpQZC00UDB0SGtHYVpMVlh5TnltdUdLOW5Iek9MWkpYaF9mMVFmU3dnSXJ1SjMtazRlZG1TUWJYLWlWLVM0eWJmQi1wcWVfejU5dXhfNWx2XzlJSWNQUWdiTzhLNFFDNHJyTE1tbktTbEdRU3ZGaUxSeHBuSTQwZEpZX05UYXl3elRRWWlNWV9aSlA3cnBxcWJkb2V2UHJGSFNXNUxYcHfSAbMBQVVfeXFMTmVfcFluRElxNzVVTV9lamxaYkpNdjJ2R29USE0zUGVZQTlnNjFNMERBUkR5NXVWemNiUGhJckhaTjlRaFYtS2NiMElWd0RpclRTZDBKdTFVUUxfQ0t0ZGFVZVFOU2NPWGtOSnduelo4d0lFOWdKZjkxSk9fRWFaS3dPNF9nNnk0UWRGYVl6RTdaSVZESU1WVjlqSFoyTzN3RUVVbVVKVWwycm1jMC1JYWxSdkU?oc=5",
-      "site": "ABC7 Los Angeles",
-      "siteUrl": "https://abc7.com"
-    },
-    {
-      "id": "FL-83cf235e112b",
-      "date": "2026-10-29",
-      "dateISO": "Thu, 29 Oct 2026 10:33:00 GMT",
-      "ts": 1793269980000,
+      "id": "FL-340d5e981918",
+      "date": "2026-08-23",
+      "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
+      "ts": 1787468400000,
       "scope": "dom",
       "type": "blast",
-      "title": "隐患灶具极易引发泄漏、火灾、爆炸！贝壳在济南宣布大动作_公司新闻_财经 - 证券之星",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MM09xd3F2aWRIaXVtOU8wQWdqYV9uUVVGRFFrZno5ZElsRlpGN1I2RDk2M2xPeDY1ck4tY3NRVS1RVkxyWDhOSEIzUGx1YzJUMHFtS2lpazlwWTRzTkhUMA?oc=5",
-      "site": "证券之星",
-      "siteUrl": "https://wap.stockstar.com"
-    },
-    {
-      "id": "FL-6fa5aad63e81",
-      "date": "2026-10-29",
-      "dateISO": "Thu, 29 Oct 2026 08:20:00 GMT",
-      "ts": 1793262000000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "英特尔Q4指引远逊预期，以色列工厂爆炸，PC需求疲软，AI芯片供应受限 - 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYUllalN4UmV0aXQ3MzBnN0JTc1VJZ2VRalpMNThESlJRZ2U2NWdZOUJ2RHM5ZjN3MWgwOWVkSFc0R3Bka0E1emZZcjRBVUhoQ25wME84RmpybHFlY3VoR2pGb0c0NXMyMlY0X2g4M0gza3VDbi1xdHZXMGg3ZzZrdVRiUFhJdm9XdENsY29FYzlVT0wyQld3Qw?oc=5",
-      "site": "富途牛牛",
-      "siteUrl": "https://news.futunn.com"
+      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-0615dd398028",
@@ -99,6 +63,90 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-20907d70d466",
+      "date": "2026-10-31",
+      "dateISO": "Sat, 31 Oct 2026 04:39:32 GMT",
+      "ts": 1793421572000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "霍峡4艘油轮爆炸起火 - 国际 - 即时国际 - Sin Chew Daily",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NN0VHbnNqSFo4OE5QZ3l1SHc1N2lRWjlpUnp6Y3NsWExaUk50X1hZYjc1TU5nMG9Zb0ZBcEJiM0t3SjdUWlFmbzY1UU5UdnVMRjBhdVdHRk05TEtGRGkyX1cwT1E3cndRVlVQZm5aRQ?oc=5",
+      "site": "Sin Chew Daily",
+      "siteUrl": "https://www.sinchew.com.my"
+    },
+    {
+      "id": "FL-bc902455f825",
+      "date": "2026-10-31",
+      "dateISO": "Sat, 31 Oct 2026 04:28:07 GMT",
+      "ts": 1793420887000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "爆炸输出！库里NBA生涯总得分超威尔金斯 升至历史第18位&将追大O - 直播吧",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1EVVFCb0ozSGNCVnUzVHVhbVVzdnBtMThabzZ5cVI2eW8zM1VaSFpPOHpoT0ZTVzhuaG5JS1FOTU1GR3Jfak9Qc3RzQm1haVJLOVdVT0lxVVVCS0FSYVltUm94SUxjUU84b2Yyd2JtNG9kVks4amc?oc=5",
+      "site": "直播吧",
+      "siteUrl": "https://m.zhibo8.cc"
+    },
+    {
+      "id": "FL-f495153892d5",
+      "date": "2026-10-31",
+      "dateISO": "Sat, 31 Oct 2026 04:18:07 GMT",
+      "ts": 1793420287000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "车企自研电池技术解析：不起火不爆炸才是真门槛 - 汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wTzhxSWd2UlhrQnZ6a1ZJQlZxRHFfYzIyVzFuY3Y1MEZSbnlwUzhfYkxUZ2g2NWpjeXpiaEdlVTFlTHdUdjhwME1TUDVJTkFHdVRDVVQ2VElzeWc?oc=5",
+      "site": "汽车之家",
+      "siteUrl": "https://chejiahao.autohome.com.cn"
+    },
+    {
+      "id": "FL-a819dcd34633",
+      "date": "2026-10-31",
+      "dateISO": "Sat, 31 Oct 2026 02:25:38 GMT",
+      "ts": 1793413538000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Food truck owner recovering after explosion: ‘Blessed I’m still here’ - FOX 9 Minneapolis-St. Paul",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOUl0cXJIenR4N2ZJbUFwSHVpU29BSmFLRzh0ZnFwbHR6a01RTXhjN1FLVW42NGRRUlRnc0ZoZlpoOFNaenIzZndMQmc1aHlDNDQydXV2T1Q3MFhwM1dfTmlkYkFiM0tvVGVkb2gzU0ZKb2txWmt4MnAzRllwU0ZNVm5ILWw0TGpIZzVaS3c5STVxdVE?oc=5",
+      "site": "FOX 9 Minneapolis-St. Paul",
+      "siteUrl": "https://www.fox9.com"
+    },
+    {
+      "id": "FL-6360c643d586",
+      "date": "2026-10-31",
+      "dateISO": "Sat, 31 Oct 2026 02:25:34 GMT",
+      "ts": 1793413534000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "青稚流量现在真的是爆炸吧，昨晚直播，200多万人看过，对比现任pel太子爷茶花，现在零头都比不上啊 - 虎扑体育网",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIdE4yaTYxcndpcnRaRHNrZDBHYjA5ZS1jb1ZtUGVXRXF0UFl5bWEyMnh0SHpSN3dRc01aZU0xOUdXSlliQlJLd2FfZw?oc=5",
+      "site": "虎扑体育网",
+      "siteUrl": "https://bbs.hupu.com"
+    },
+    {
+      "id": "FL-28a423c6b93c",
+      "date": "2026-10-31",
+      "dateISO": "Sat, 31 Oct 2026 01:40:43 GMT",
+      "ts": 1793410843000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "伊朗：4艘油轮在霍尔木兹海峡爆炸起火 - 中国新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pOFR3eWIycUE2YUJRSV8tcTBQbER1VE9HejhJSVlEU1dOcndjYi04N0Y5RUxWdGptekFCZFFSeWNnMzZpRmNQRmo1aWlYdHZoalRlZk5HOUZaT21HTFpYZEZHY3ZxLS10?oc=5",
+      "site": "中国新闻网",
+      "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
+      "id": "FL-bfff2dd9b02e",
+      "date": "2026-10-31",
+      "dateISO": "Sat, 31 Oct 2026 00:03:00 GMT",
+      "ts": 1793404980000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "黎巴嫩13人因真主党爆炸物案被起诉——Asharq Al-Awsat - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUTMxaTBvX0VoXy15b0V2NFVRVHhqNTRyYV8waXk5ekUwU19oYXVMVEp0S3RaNWtuYnhvRzVGUjh3TE1QdDNxN1g3dW5obzk5MWxaWDFrYXhBazkxWjItUWpmVlVKbkNYUVVpUFNnMDJOQ0l2VXR5RjNHRl9mX2tBT280Q0hKMHJIaS1TWmlzUF9CY2VVaF9fNFMxajZWM2NfVl9GYmlfLXo0alBuMXJlVXZVYnp2c1lVZE0taVVIRmFWekFpTHc?oc=5",
+      "site": "UA.NEWS",
+      "siteUrl": "https://ua.news"
+    },
+    {
       "id": "FL-5e735aebc1c3",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
@@ -111,16 +159,16 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-33abd8304f19",
-      "date": "2026-10-24",
-      "dateISO": "Sat, 24 Oct 2026 22:06:00 GMT",
-      "ts": 1792879560000,
+      "id": "FL-a1625e58e48d",
+      "date": "2026-10-03",
+      "dateISO": "Sat, 03 Oct 2026 07:00:00 GMT",
+      "ts": 1791010800000,
       "scope": "intl",
       "type": "blast",
-      "title": "UPDATE: No one hurt after fire, explosion Quaker Oats in downtown Cedar Rapids - KCRG",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNakF0QzBoc3VxNEp3WGFSUElIaFF1Ri1xRkxVdk9TeXh6ekt2MnBQN2RaeWxqMWJaNTFfLW0zX1psWkFVb2VCak5yT0hER3E0VVpxSy1zUmNfN2V4OVlJTlE5UDltcEJnb2w3Uno3bWpObENTa3A2LVlQYVRrSW1hVU9XRzhiZ1o4cWVvbWFld9IBowFBVV95cUxQSTR4NWpfa1M0blZQdFJuQlVUcXJqek1jM01tOVZQNjJBOHdoN3Fua1p1cDBxS3BYOHhibDk0eHpxMGp3Z2tHTXN6eDdQbm9vS3p1eHhqUWhGM0JPQ2wxRjUxR2hIUGtoX0JNc1h3azFYelZWcktsM3p4amZzelZ5cXROVm9HbGpoM2czS09UcjRGdWNQczJCQUczVnVRWllJV1Fz?oc=5",
-      "site": "KCRG",
-      "siteUrl": "https://www.kcrg.com"
+      "title": "美提升核爆炸探测能力，中共秘密核试验和陈友麟案件再引关注 - 美国之音",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN1gtb1drX1hWS3NBMzU4MlNRVEJ1TkUzQmJCR1B0a3VFS2MxU05ZTTZ1UjlmZnJZU2JYNHgyOGVwZ1dUZjdIZ3hxaWlPNGZsQTc3VjRlRTlPd3hlR1d2b3RVVE92dUwzMTlwVVB1TmphZUN1OG5iTU5WYU5EZjJmM3BpNHctZ3ljVTgtTXJuX1YzeVM2bmVmTkEzZzBnczIzSFFRWmxHRGd2SUdVb01wNGZsSmVVOWlYcG1LZHZYWk1BQU9wcnhhb3Q2dVZXaDlUSHNqZ9IB1wFBVV95cUxNWnRiOWpoQ21MQ0tYTkh0c3hWVTFSbV9ZQlcxWUF4SmtBanZHZmNIc296ZkJUcjBIVnZlTmZDZXY3WnlfWXJPWmU0WHYxa1F4RlFxWDlaMjlaRGtCYTdTVU9fa3JaMkVlSllKZWVObWpKS1o3ZVZlNTk3RGN6ejJGSTFCbTd2RFVYM2FfQk5heEcxWDYtc0Q3bDl4Wnp5em1ZdE9WZi11VTd6bi1TWnlycUc2VmR5eUJ6Mk15Y1ZCQlhrc2tmcWpKTVpRZlpEbjFYU1JhTWZBOA?oc=5",
+      "site": "美国之音",
+      "siteUrl": "https://www.voachinese.com"
     },
     {
       "id": "FL-6219c5a90f8f",
@@ -147,18 +195,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-469c454392cb",
-      "date": "2026-10-30",
-      "dateISO": "Fri, 30 Oct 2026 23:27:43 GMT",
-      "ts": 1793402863000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "伊朗称4艘油轮在霍尔木兹海峡爆炸起火 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRWx5cmdpTXA3T0J4LV9OUERONjJSUC1kclgzemxIX2tKS09obWpQOFFyQTR2QXNsTDVCb19Rd0RWNlFoTWlJZ1EyS244Q0Ixam1Vd3JfejNWOWpTR1luVjZFa2RFd1RNUzBjNERhVHNLRmJzS3BYUHNudTQ0YmNYMDNvMGI4bFhlWW1KZQ?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-eb4952fb2720",
       "date": "2026-10-30",
       "dateISO": "Fri, 30 Oct 2026 23:26:48 GMT",
@@ -171,52 +207,16 @@
       "siteUrl": "https://www.jiemian.com"
     },
     {
-      "id": "FL-23b63e44fa15",
+      "id": "FL-f7530c9a39a7",
       "date": "2026-10-30",
-      "dateISO": "Fri, 30 Oct 2026 21:26:31 GMT",
-      "ts": 1793395591000,
+      "dateISO": "Fri, 30 Oct 2026 20:26:52 GMT",
+      "ts": 1793392012000,
       "scope": "intl",
       "type": "blast",
-      "title": "Searsmont welcomes home Robbins family member months after deadly lumber mill explosion - Portland Press Herald - Maine Sunday Telegram",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcFYzb0VDeGM5UFU3ZU5qdXdVMDFKY1d6Z0NQT0ZRQjVkSEE4ZVNGaGNYb05xbU12NUw0Uy0xMUR1TDJ4TnZFYnBzcmdKYnVkV3phbzlQV0VOWk04R2VFVUs2OUMyZUJVbGNpYWduZkV6OFhid2xadTlnMnA0YVM2U3ZEZUVpMzNCVmh5RHpGaTdLWGl0ZWV5N1EtNldHM2Q0U3JnbXljSnd6MTFrSW1weEtYeVYzdGtoMk5JelQyV0VkeVJPV0E?oc=5",
-      "site": "Portland Press Herald - Maine Sunday Telegram",
-      "siteUrl": "https://www.pressherald.com"
-    },
-    {
-      "id": "FL-1143d78d1ef4",
-      "date": "2026-10-30",
-      "dateISO": "Fri, 30 Oct 2026 20:29:55 GMT",
-      "ts": 1793392195000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "伊朗称当天第四艘违规航行油轮穿越霍尔木兹海峡时触雷爆炸 - 手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5vdF9NNFVIYXBDLVJCRHZ5NVNsNHgwbndGaEVzeDVXMUdOYVNoV2VDTDIxSjJqbzlyc0tjYk5ST1R1YThwT1JKeHdnYw?oc=5",
-      "site": "手机新浪网",
-      "siteUrl": "https://wap.cj.sina.cn"
-    },
-    {
-      "id": "FL-71711336cc5d",
-      "date": "2026-10-30",
-      "dateISO": "Fri, 30 Oct 2026 15:35:17 GMT",
-      "ts": 1793374517000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "燃爆了！复排民族舞剧《小刀会》重现弓舞，再塑英雄 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMFRxMzRBbmRrel91Q3FXbnlxbWpPZ21EY1BhUTYtUE5KS2FBZ0dRTHFFaWxiUnVYa1dwb0gzamc3TFgxTWNNb0FBc0U3V0RCNjVZb3FVWVhyQjdhODQtSmp3eDJmNks0ZU4wcDZsdDVxRW9takxsZzFfbzRRWDZFbEFFM2g3bGc0c0lhcQ?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-a2cf4fa22380",
-      "date": "2026-10-30",
-      "dateISO": "Fri, 30 Oct 2026 13:48:01 GMT",
-      "ts": 1793368081000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "外媒：希腊雅典老城区爆炸事故致6死多伤，3名嫌疑人被捕 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0tX3JhSlVBbzhkT283Nk5tTlEtQjZFVUhITy1ENDk3MVpxYWUyVXQwb2U3bHlHZFJvbjd4RVVveGdFcG5wWnl3bg?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://i.ifeng.com"
+      "title": "48-year-old man identified in Canton explosion death - KELOLAND.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQUxPb3IwZVdDOUlTY1FQM0RpaFhVS2Y1Ym5MSFFWSHN1ZW43NW9DSGN2VE14dFVocUtOejF3MG5sRTVjeE95MUlHbno5UGNpNHU4RHZkWmtYTTFzdTF6RjRlSUVPR1FSdzY3ZzQwV2xENEtFNm1sbl9oS2hiNGZQUG15cFVNcUMteGp6ajI3VE4wdHN6empYNFZR0gGfAUFVX3lxTE1Db2hPS1RxTlhJRThDcmdobk5TN1pmakdkUHdjSEQ2MF85Wi1KVDJpTWo2UVFBaGp5U1lWNGJIc1FZUU9TeVZ2UlcwMDdmRVFxTU44RTZGWEhNUWg5NUFvNFhTMlV6VHdTdzNSb2hEX2NybXZ2NzZ2SkdtWE5RekVzOUd5N2pXbmh0T3dFbk0yNDlfVHBHb0FvUjlCRWhFdw?oc=5",
+      "site": "KELOLAND.com",
+      "siteUrl": "https://www.keloland.com"
     },
     {
       "id": "FL-867c504b4736",
@@ -255,40 +255,28 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-11a674078ce3",
+      "id": "FL-ce211e64d3ba",
       "date": "2026-10-30",
-      "dateISO": "Fri, 30 Oct 2026 07:18:00 GMT",
-      "ts": 1793344680000,
+      "dateISO": "Fri, 30 Oct 2026 09:01:36 GMT",
+      "ts": 1793350896000,
       "scope": "intl",
       "type": "blast",
-      "title": "伊朗称当天第四艘违规航行油轮穿越霍尔木兹海峡时触雷爆炸 - 环球网",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3U3d1S1dwRnpibklEUGprY0E0X1lORUt4VGcwano2VElsNU1zTEJKWUxqMnBsekFrand6YUZKazNKLXR5eG5iRlpWREUwaWZtWlVlcnZNbTk?oc=5",
+      "title": "乌克兰基辅遭弹道导弹袭击 传出爆炸声 - 新浪新闻_手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQNXFYRWlEQXRUOFkxNGs2SHlCV3I3MHZPVndaV3JZUU1HbHBNR1JsZHY1ZFFIUWd1TElKMUJBQTFjd3pJa0w4eFQ2UjZ0QTN4MklubHd0dHlTTEpNUEVlQ0tTX2R5Mnd1WV9XNU53Y2lfNzFOWE9hWm1mc1B0TnloMFdING8tSjY5VHh6UDJNMXdKZ1o3OW1vVllMaFBhMXQ4a2t0bElWNkw1UV9sZjlQeXlhcDB1RGJkMTZrcXljTy1PTFJ6a01XUEhNa053UEViWmQwa0t2ck1OZmE3eFoxWmZmTzRNZXVaZEkxU01rVWNlekYtd2xKWTg5SDR0d21mSXR2LVFIcHZWSnlfVWF3eU9ZNUxEVHhDVEt5WGJkN2d4ZjZhQmxGeE15a3kxanU3VGx5YjhTeVNJVlhYWmpQNzhBM25kMlRMX0QzVEsweGp2cUt5VXBmOVhRcU40VnpjUGE1ZHhQU2ZjSGJpSGYyckE4eWpEQlJRbmpNQWo2WW50UXN1dmVCM1JqMkR1UDd3MnlpRUFvWjRSWU0?oc=5",
+      "site": "新浪新闻_手机新浪网",
+      "siteUrl": "https://news.sina.cn"
+    },
+    {
+      "id": "FL-ecc252a6e62e",
+      "date": "2026-10-30",
+      "dateISO": "Fri, 30 Oct 2026 08:15:00 GMT",
+      "ts": 1793348100000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "视频丨伊朗称4艘油轮在霍尔木兹海峡爆炸起火 - 环球网",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kcVM4cjYweUQtQ2dnQmFfbFM3S3pUb0k4S0JBeEZSaWpNR1BuS1JrS3FoaE1kTWIzOG4yUGhEQ0VPM3JubXhFcXU3ZHF4SllVSUFlMTJR?oc=5",
       "site": "环球网",
-      "siteUrl": "https://world.huanqiu.com"
-    },
-    {
-      "id": "FL-ab0583d27625",
-      "date": "2026-10-30",
-      "dateISO": "Fri, 30 Oct 2026 07:15:27 GMT",
-      "ts": 1793344527000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "“沙皇炸弹”爆炸65周年，人类史上最大核弹为何没能量产？ 独特载具限制量产 - 中华网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uQ014a0c5SkhxdldYbUdYVmhFbVQtakZhYXRRZGxhX05Xb3RZUmh3amM3b0hobnoxVkYwZ1kzUklrU2RnZmVfUENEanlKbzNtV0dnOVYzaDlZLTNFYk1MZUNoNGstb3RhZzN0YS1wc2I?oc=5",
-      "site": "中华网",
-      "siteUrl": "https://news.china.com"
-    },
-    {
-      "id": "FL-c44e3adef3b8",
-      "date": "2026-10-30",
-      "dateISO": "Fri, 30 Oct 2026 06:44:00 GMT",
-      "ts": 1793342640000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "工厂爆炸致英特尔减少约6亿美元收入 【至强CPU供不应求，英特尔却暴 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1yWGhOUVM2alNzYUlhc21SeFpLbTdCTlNDX3Y0MndCRzFDZk5YQzc4Rkw4eVdsVTNyV1FYcHlnclVaMVllZ2dvSmIwWWc?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://news.ifeng.com"
+      "siteUrl": "https://mil.huanqiu.com"
     },
     {
       "id": "FL-a3bc72a29641",
@@ -303,30 +291,6 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-21502056edb8",
-      "date": "2026-10-30",
-      "dateISO": "Fri, 30 Oct 2026 05:49:01 GMT",
-      "ts": 1793339341000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "景区向人群中扔炸药包丢回后直接爆炸：炸药包只是道具，真正爆炸装置在二楼 - 中华网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtblRTZG1FT0ljSGxUWWV3ZzlyeWJ6VGJaVld2Sm9TU1FVSGRSN3RmakhXOFpoNEY3blpqaWlSSjNxdTQtRzJsMThBNVZWS2d3SmdzcG5qSHFTOUt3cXpHcGxUTUFYdlh0U01uVExkN0c?oc=5",
-      "site": "中华网",
-      "siteUrl": "https://news.china.com"
-    },
-    {
-      "id": "FL-f39c527fc7df",
-      "date": "2026-10-30",
-      "dateISO": "Fri, 30 Oct 2026 05:45:49 GMT",
-      "ts": 1793339149000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "英特尔以色列工厂爆炸，损失6亿美元营收、减供10nm CPU芯片！ - 集微网",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9HeE9SeFRFTVFkVXdFNkhKMUZleUJWdW5DMTc0SWRheTAzMi14QWlYQVplcUxrT0g0TUdGQkdvWllLbkk?oc=5",
-      "site": "集微网",
-      "siteUrl": "http://laoyaoba.com"
-    },
-    {
       "id": "FL-18ac5c8a7c32",
       "date": "2026-10-30",
       "dateISO": "Fri, 30 Oct 2026 04:08:40 GMT",
@@ -337,30 +301,6 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wSGRDeGktbTkzWUVBS004a1hMaS1vM0ZjSFlkbEwzVWR2bXdPVnJ3cnUtOEVSQUhRRVhBVHNxdno5aG41cWx4RTE1ejhHTXI1dGc?oc=5",
       "site": "凤凰网",
       "siteUrl": "https://original.ifeng.com"
-    },
-    {
-      "id": "FL-1ce42f8640ab",
-      "date": "2026-10-30",
-      "dateISO": "Fri, 30 Oct 2026 03:57:21 GMT",
-      "ts": 1793332641000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "也门亚丁国际机场附近再次发生爆炸 - 中华网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Zd2ExN21qcDM2dUV2aFJXTTFkaWx3cEpqMzBWWkNCM1ZfSzlqZmE2eGthNkI0MGdXNGJjcHpIcTl3NFp2WDFoWTl3WVFsR1pRTU5rRG1ucDdzeUZGZ3FoTm9PcHFYZ25VdWgxM3U5Ym0?oc=5",
-      "site": "中华网",
-      "siteUrl": "https://news.china.com"
-    },
-    {
-      "id": "FL-670f0ece6e6e",
-      "date": "2026-10-30",
-      "dateISO": "Fri, 30 Oct 2026 00:46:25 GMT",
-      "ts": 1793321185000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "沙特多处重要设施遭袭，首都听到爆炸声 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcjR2ZHNwS0RVWWIxNjFLeVZ0cVdwOXhJVElKQ2lCOTdVYTFwVG9NMTRYWTFwelRmamVfUEdrcUVNYlVKcmkxdlhSdHA3WkdKaC1iaHQzYzh6NkpsUDl3cG1CNDRISjlCUlZvMjVSU2lDaTZrTGZ1UnF4ZEtBMmx3b2ZCTXdzbFdp?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
     }
   ]
 }
