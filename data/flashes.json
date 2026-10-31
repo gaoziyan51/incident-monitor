@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T13:02:04.039Z",
+  "updated": "2026-10-31T17:38:33.424Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -39,18 +39,6 @@
       "siteUrl": "https://www.archdaily.com"
     },
     {
-      "id": "FL-de0212a34ed6",
-      "date": "2026-10-25",
-      "dateISO": "Sun, 25 Oct 2026 04:07:42 GMT",
-      "ts": 1792901262000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "全球最大的燕麦加工厂起火 疑似发生爆炸 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWTRBWFV6S3UyQy1iUUlVMmRyM1hoYU9xanNpUmY2dllmdmxXTEN2MVlKVlB4WFc3aEZ2R1Z3QzItNm84cExQSExHMTBIaTdxa2RaVFlYMlA1VEQtX0wxUjBNUVVBWTZxYU1lVkp4NzJXS1BmRW5ieG5VNUc4OTVHUmNXMk8zb2s?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
-    },
-    {
       "id": "FL-340d5e981918",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
@@ -75,16 +63,16 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-7481154feafa",
+      "id": "FL-d8f1a127ceb6",
       "date": "2026-10-31",
-      "dateISO": "Sat, 31 Oct 2026 11:00:57 GMT",
-      "ts": 1793444457000,
-      "scope": "intl",
+      "dateISO": "Sat, 31 Oct 2026 14:30:00 GMT",
+      "ts": 1793457000000,
+      "scope": "dom",
       "type": "blast",
-      "title": "Klay Thompson’s 3-point explosion unlocks ‘exponential effect’ for Heat - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNamV4cVc4QnBhclFpR1ZLTHh3aVlhUTZSOGEweHlkOUNFTUJoZkhsTGRHeFhza296bjE1SHMxY1dYU2ltTmQ3X1NXNUNaU3k5c2NJWnlNczV2SlVza3Z1d29VaVhfS09sYzV5MGlSblhHSlVFd0ZnRHEwekEwYnZHZFJ4d1EyYmo3VmdYLThTM3NYSjJxdXhBZDhxUFZzVnZsd0JwUDN6emxUQ0hKbGFkclBNaTNtamZnaU9TdXNR?oc=5",
-      "site": "The New York Times",
-      "siteUrl": "https://www.nytimes.com"
+      "title": "燃爆虎门！8大原创品牌集结，富民时装节强势出圈 - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUWlRMG14VnhKcl9iUmR3RFBnSEhVOVFoTzZYR0tSNjBHMmVOY3h0UnlLQXNfelZENUJjd2pqUW1hY3NtNVNja1hqeXJ2LTlLVFBvaXJWM29FZ2ZsVlB5Q3BmejZ6OWJVb0ZIaGdvNTZOZ0VaYkExSjFUa282bWMwdWljbnI5N0xpbmF1RGF1NA?oc=5",
+      "site": "21财经",
+      "siteUrl": "https://www.21jingji.com"
     },
     {
       "id": "FL-83ed939cfbe6",
@@ -101,26 +89,14 @@
     {
       "id": "FL-f495153892d5",
       "date": "2026-10-31",
-      "dateISO": "Sat, 31 Oct 2026 04:18:16 GMT",
-      "ts": 1793420296000,
+      "dateISO": "Sat, 31 Oct 2026 04:18:07 GMT",
+      "ts": 1793420287000,
       "scope": "dom",
       "type": "blast",
       "title": "车企自研电池技术解析：不起火不爆炸才是真门槛 - 汽车之家",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wTzhxSWd2UlhrQnZ6a1ZJQlZxRHFfYzIyVzFuY3Y1MEZSbnlwUzhfYkxUZ2g2NWpjeXpiaEdlVTFlTHdUdjhwME1TUDVJTkFHdVRDVVQ2VElzeWc?oc=5",
       "site": "汽车之家",
       "siteUrl": "https://chejiahao.autohome.com.cn"
-    },
-    {
-      "id": "FL-a819dcd34633",
-      "date": "2026-10-31",
-      "dateISO": "Sat, 31 Oct 2026 02:25:38 GMT",
-      "ts": 1793413538000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Food truck owner recovering after explosion: ‘Blessed I’m still here’ - FOX 9 Minneapolis-St. Paul",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOUl0cXJIenR4N2ZJbUFwSHVpU29BSmFLRzh0ZnFwbHR6a01RTXhjN1FLVW42NGRRUlRnc0ZoZlpoOFNaenIzZndMQmc1aHlDNDQydXV2T1Q3MFhwM1dfTmlkYkFiM0tvVGVkb2gzU0ZKb2txWmt4MnAzRllwU0ZNVm5ILWw0TGpIZzVaS3c5STVxdVE?oc=5",
-      "site": "FOX 9 Minneapolis-St. Paul",
-      "siteUrl": "https://www.fox9.com"
     },
     {
       "id": "FL-28a423c6b93c",
@@ -147,16 +123,28 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-a1625e58e48d",
-      "date": "2026-10-03",
-      "dateISO": "Sat, 03 Oct 2026 07:00:00 GMT",
-      "ts": 1791010800000,
+      "id": "FL-6219c5a90f8f",
+      "date": "2026-10-19",
+      "dateISO": "Mon, 19 Oct 2026 07:00:00 GMT",
+      "ts": 1792393200000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "易燃易爆炸！四川曝光一批工贸领域重大事故隐患案例丨安全四川 共同行动 - 四川新闻",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FZ3Fob0VMeUdKTnRXRjd0eG5YNGJXNVVjd1ktWkNHZk10ZGpFaWVYMGNZTFp4OGl6ZlY4b2RnSU5nVmltWjRLaGVnRFhxWkI1eTJyQ3ZCSW5LSjdxV2hDekVSaw?oc=5",
+      "site": "四川新闻",
+      "siteUrl": "https://sichuan.scol.com.cn"
+    },
+    {
+      "id": "FL-b042a088a326",
+      "date": "2026-08-03",
+      "dateISO": "Mon, 03 Aug 2026 07:00:00 GMT",
+      "ts": 1785740400000,
       "scope": "intl",
       "type": "blast",
-      "title": "美提升核爆炸探测能力，中共秘密核试验和陈友麟案件再引关注 - 美国之音",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN1gtb1drX1hWS3NBMzU4MlNRVEJ1TkUzQmJCR1B0a3VFS2MxU05ZTTZ1UjlmZnJZU2JYNHgyOGVwZ1dUZjdIZ3hxaWlPNGZsQTc3VjRlRTlPd3hlR1d2b3RVVE92dUwzMTlwVVB1TmphZUN1OG5iTU5WYU5EZjJmM3BpNHctZ3ljVTgtTXJuX1YzeVM2bmVmTkEzZzBnczIzSFFRWmxHRGd2SUdVb01wNGZsSmVVOWlYcG1LZHZYWk1BQU9wcnhhb3Q2dVZXaDlUSHNqZ9IB1wFBVV95cUxNWnRiOWpoQ21MQ0tYTkh0c3hWVTFSbV9ZQlcxWUF4SmtBanZHZmNIc296ZkJUcjBIVnZlTmZDZXY3WnlfWXJPWmU0WHYxa1F4RlFxWDlaMjlaRGtCYTdTVU9fa3JaMkVlSllKZWVObWpKS1o3ZVZlNTk3RGN6ejJGSTFCbTd2RFVYM2FfQk5heEcxWDYtc0Q3bDl4Wnp5em1ZdE9WZi11VTd6bi1TWnlycUc2VmR5eUJ6Mk15Y1ZCQlhrc2tmcWpKTVpRZlpEbjFYU1JhTWZBOA?oc=5",
-      "site": "美国之音",
-      "siteUrl": "https://www.voachinese.com"
+      "title": "巴基斯坦西北部发生爆炸致14人死亡 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-5ea37107e594",
