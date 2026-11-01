@@ -1,79 +1,7 @@
 {
-  "updated": "2026-10-31T23:41:26.312Z",
+  "updated": "2026-11-01T02:36:28.482Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-50a5657f21ea",
-      "date": "2026-10-14",
-      "dateISO": "Wed, 14 Oct 2026 07:00:00 GMT",
-      "ts": 1791961200000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "英特尔在以色列工厂发生爆炸致3人受伤 - 新华网客户端",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWUNhVEREb0liYWExSTM2U3VUdmZGRnVGMG1ZU09EeUFwdVIyVjhuRWdIZzVMRWlUZUJoZXpNSVpEV2w0VHdxTDhSZkFDYlZHOVY3X25yOGJ6aVJHUGtxN0hGb0NOSF80MXloaEluaGhuaFVPSC12d1lfaWt4dFNYVm1lN25nVzBjZHpGTERKRGpjSlVlZEFUanVR?oc=5",
-      "site": "新华网客户端",
-      "siteUrl": "https://app.xinhuanet.com"
-    },
-    {
-      "id": "FL-385dd58b908a",
-      "date": "2026-08-11",
-      "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
-      "ts": 1786431600000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "中星4B卫星发射失利 长征七号改火箭升空后爆炸解体(含视频) - 财新",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQcmdXTjEtaEEwQXAyc0dzZ29xdEtVZ3VnTzNSdEdIODhUbTkwVE1WYUJKZGlFN0N1TkdlQTNEZDA1SkNEejNqVS15STYwTURwckdUM0REQUMyTHdNQk5oSjlR?oc=5",
-      "site": "财新",
-      "siteUrl": "https://science.caixin.com"
-    },
-    {
-      "id": "FL-5f9371e4dce7",
-      "date": "2026-10-29",
-      "dateISO": "Thu, 29 Oct 2026 10:35:29 GMT",
-      "ts": 1793270129000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "画廊 贝鲁特爆炸后重建，Kassar 最新装置作品 - 32 - ArchDaily",
-      "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxQSDdUME1Vd3hlU1J5R3VfQ0M5eHctMVE0MzJJTktMVk1JMFc5dVl2MVk0UUw2bk9JOWx6NzZSX0RDb1lqbl9QdlBheFo3YUNRdEtRbVpKYVpXS3JIMUxLRVpxb3pLNFVyLU9oNkMyTUlnS2JmMEpkLTdFWjRoSGFOVGZNTnlrY0w4LXRZTU9xaGpBRl9ydnRUVmxGdzlVTUl6NzFIam15bGJjd0VKeGpzaVVFQTlVdVZza1p1WkxVdkF6TkRUQk1FcHhUYmRVV0hnQXlxaklqMkhOdDB4MkU2OWtUeEhQcnlUYloxRlA0RVU5cTkxLWJjYzRvamVOZHFqSTVhOGpJRW1RNzRiWHBzclowa05SajMzamNkdlotY19ZcDlCRHVLdVlpUVdCMUVXM2x4b2xyY3Z2U2ZzZ1RRY1JEajVEUlNvTExPWnRFTmk0RE9SOHFkdTR6b2oxcUV6bHVMbGNYYURVV0NzS2ZSd0N0bEFhOEt2VE8xS3FtbEZjX0JWRGFrd3RBdUNaNTEzcUtkcHhMYm82cDdvZk1ydTBHRXlLRVNDTUE?oc=5",
-      "site": "ArchDaily",
-      "siteUrl": "https://www.archdaily.com"
-    },
-    {
-      "id": "FL-de0212a34ed6",
-      "date": "2026-10-25",
-      "dateISO": "Sun, 25 Oct 2026 04:07:42 GMT",
-      "ts": 1792901262000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "全球最大的燕麦加工厂起火 疑似发生爆炸 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWTRBWFV6S3UyQy1iUUlVMmRyM1hoYU9xanNpUmY2dllmdmxXTEN2MVlKVlB4WFc3aEZ2R1Z3QzItNm84cExQSExHMTBIaTdxa2RaVFlYMlA1VEQtX0wxUjBNUVVBWTZxYU1lVkp4NzJXS1BmRW5ieG5VNUc4OTVHUmNXMk8zb2s?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
-    },
-    {
-      "id": "FL-340d5e981918",
-      "date": "2026-08-23",
-      "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
-      "ts": 1787468400000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-db89ce9321bb",
-      "date": "2026-10-11",
-      "dateISO": "Sun, 11 Oct 2026 07:00:00 GMT",
-      "ts": 1791702000000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "现场直击｜沙特首都国际机场传出爆炸声 已无航班起降 - 新华网客户端",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT0NvdzFyLWpxOTZrdGFSV0RwTHlkQzFaSkRKbXN3UmZiLUdQUVIxRm02Q0pZS1dReEt4Zmp6UDRhN0phNDFvMXJmeEltNkdoNlViZ01acEFQQ1lmMEpVSGszSlJpODJYMEdwU1ZPZVIzOVpab0FhMmZsZ0RBamJFRElwbVAwaUc5bDh3VWN0TDVMNlJ5SkV5ZnpB?oc=5",
-      "site": "新华网客户端",
-      "siteUrl": "https://app.xinhuanet.com"
-    },
     {
       "id": "FL-0615dd398028",
       "date": "2026-08-02",
@@ -87,16 +15,52 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-5397dbc222ff",
-      "date": "2026-10-31",
-      "dateISO": "Sat, 31 Oct 2026 20:00:57 GMT",
-      "ts": 1793476857000,
+      "id": "FL-af19f192b60f",
+      "date": "2026-11-01",
+      "dateISO": "Sun, 01 Nov 2026 02:32:43 GMT",
+      "ts": 1793500363000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "虞昶轩叶平君战火中重逢，穿过爆炸奔向拥抱 - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZXJLMDNpV04tenJ2NGl1TlJqTGUtN3FkS2FvUkVPWVFzRko2RDZINzBPWlFVZXowNGk1emh5WkNkSXVpY1Bhak02ZzRyWVQwZEs5WGdZYlZSTTVIUm45RVk3MzZqOWlxYTJBdWFobTlWeDdwQWpYcnp4N1pNcjgyQzlFODllN2Y4Vk1FV0stUWcwT3pnWDlWUkYwdXVFaGNDS2o5VDhJd2F3MEk4NGNNbjU1b1BMbVBqY3A4c0VGUkpCX3pmSk9fb3JFTGJqMEtXTWJWb0tpSQ?oc=5",
+      "site": "手机新浪网",
+      "siteUrl": "https://k.sina.com.cn"
+    },
+    {
+      "id": "FL-bd2c04a99a90",
+      "date": "2026-11-01",
+      "dateISO": "Sun, 01 Nov 2026 01:52:00 GMT",
+      "ts": 1793497920000,
       "scope": "intl",
       "type": "blast",
-      "title": "Police warn of scams targeting people after Quaker Oats explosion - KGAN",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR0xxRjdXN3VWbm5JMWk1NlYtc1l6MmtBWE0zVkxUaENOQ0tUbmZTNS1KLWpaVDdFWDg1b1RvSjNlSVlUcV8wQkFfeFlVcnRXTVoxN1ZYX1RjaUNXRlVHdlcwY3M5bzdtRjFBMlJFWXd1WnEtc3lhclpUMFZZQ044aEJtdGJ6N2VQRlQ5TjhvQzlBYTV2Vk00ZGs2bjA4Zw?oc=5",
-      "site": "KGAN",
-      "siteUrl": "https://cbs2iowa.com"
+      "title": "Doorbell video captures explosion, massive fire at Mandeville home - WWLTV.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSlFpcUZzN3pCX2ozdC1zampmMzlsb2NnUkZxaVdFVXkyRWQwVnlnME9Vdkp4eWFQd1BNNDlSTlNVMGpQbXY0eElrZC1CSmpYbzVLbDVXWkJ2emh3bFR3Mktub3hMeUY0WHZwTUQ3Q3huZENhRndBblk0ZnVMQzNDS1NwejMzczU3UkhhTF81NzZFU1ZIUW13NGVrSWVCVncwaG1jU2QxY2cyM3ZPeGtOZmlVSjcycEVDNWxSQ1BaRU40aDBTOUJWS1B3V19XMUpjUzVGV0IzbVgxeXlPZmNaVHNqak9Udw?oc=5",
+      "site": "WWLTV.com",
+      "siteUrl": "https://www.wwltv.com"
+    },
+    {
+      "id": "FL-f27a0b0037f7",
+      "date": "2026-11-01",
+      "dateISO": "Sun, 01 Nov 2026 01:26:25 GMT",
+      "ts": 1793496385000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "韩外长在G20外长会上阐明韩方对地雷爆炸事件立场 - 韩联社",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FNWp1ZDBaMDdSS3UtQXZIcUJvZ3duOUZXLWhnQ1lqQktXdWZoSUNzSm1sXzhTd0dTcHFpWFpqQmtSUDBYRUJLZWhNaEFmTEladGZJRXNqOG9nZw?oc=5",
+      "site": "韩联社",
+      "siteUrl": "https://cn.yna.co.kr"
+    },
+    {
+      "id": "FL-a037b1dd21d1",
+      "date": "2026-11-01",
+      "dateISO": "Sun, 01 Nov 2026 01:14:35 GMT",
+      "ts": 1793495675000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "热度爆炸！微博热搜第一名：BLG战胜HLE - 直播吧",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5kSWRfVXNHa3FFMXZjVEUtTG8zNk5mQVhaSDVZeWdrOXhRNlhoZWRWdC1xNTlEQ2Z2TjFHSFRLY3o4SXFxSDJnZ2dQOGlRZUQzenl6NUUwcFI0cV9zbXB4WW85dERFdE9zendWOTc0UUEzLWJtcmJmdQ?oc=5",
+      "site": "直播吧",
+      "siteUrl": "https://m.zhibo8.cc"
     },
     {
       "id": "FL-83ed939cfbe6",
@@ -123,18 +87,6 @@
       "siteUrl": "https://chejiahao.autohome.com.cn"
     },
     {
-      "id": "FL-a819dcd34633",
-      "date": "2026-10-31",
-      "dateISO": "Sat, 31 Oct 2026 02:25:38 GMT",
-      "ts": 1793413538000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Food truck owner recovering after explosion: ‘Blessed I’m still here’ - FOX 9 Minneapolis-St. Paul",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOUl0cXJIenR4N2ZJbUFwSHVpU29BSmFLRzh0ZnFwbHR6a01RTXhjN1FLVW42NGRRUlRnc0ZoZlpoOFNaenIzZndMQmc1aHlDNDQydXV2T1Q3MFhwM1dfTmlkYkFiM0tvVGVkb2gzU0ZKb2txWmt4MnAzRllwU0ZNVm5ILWw0TGpIZzVaS3c5STVxdVE?oc=5",
-      "site": "FOX 9 Minneapolis-St. Paul",
-      "siteUrl": "https://www.fox9.com"
-    },
-    {
       "id": "FL-28a423c6b93c",
       "date": "2026-10-31",
       "dateISO": "Sat, 31 Oct 2026 01:40:43 GMT",
@@ -157,30 +109,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlemFCa3lteDlkZERLTXRLMHhpeTIzNmFqanFBczVPaFNjQjVxOHNJNm54Tkhua1FqOGtuaUhBLWdRSWxXaFRoZThQZXJqclRIV1pUaTNhcjhHU0dwRzA1WXNQc2ZOVEhXX0Z1NUVBcnBUalJRWkE3ZlE0S3NOaXM?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-a1625e58e48d",
-      "date": "2026-10-03",
-      "dateISO": "Sat, 03 Oct 2026 07:00:00 GMT",
-      "ts": 1791010800000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "美提升核爆炸探测能力，中共秘密核试验和陈友麟案件再引关注 - 美国之音",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN1gtb1drX1hWS3NBMzU4MlNRVEJ1TkUzQmJCR1B0a3VFS2MxU05ZTTZ1UjlmZnJZU2JYNHgyOGVwZ1dUZjdIZ3hxaWlPNGZsQTc3VjRlRTlPd3hlR1d2b3RVVE92dUwzMTlwVVB1TmphZUN1OG5iTU5WYU5EZjJmM3BpNHctZ3ljVTgtTXJuX1YzeVM2bmVmTkEzZzBnczIzSFFRWmxHRGd2SUdVb01wNGZsSmVVOWlYcG1LZHZYWk1BQU9wcnhhb3Q2dVZXaDlUSHNqZ9IB1wFBVV95cUxNWnRiOWpoQ21MQ0tYTkh0c3hWVTFSbV9ZQlcxWUF4SmtBanZHZmNIc296ZkJUcjBIVnZlTmZDZXY3WnlfWXJPWmU0WHYxa1F4RlFxWDlaMjlaRGtCYTdTVU9fa3JaMkVlSllKZWVObWpKS1o3ZVZlNTk3RGN6ejJGSTFCbTd2RFVYM2FfQk5heEcxWDYtc0Q3bDl4Wnp5em1ZdE9WZi11VTd6bi1TWnlycUc2VmR5eUJ6Mk15Y1ZCQlhrc2tmcWpKTVpRZlpEbjFYU1JhTWZBOA?oc=5",
-      "site": "美国之音",
-      "siteUrl": "https://www.voachinese.com"
-    },
-    {
-      "id": "FL-0f8c02ad5cff",
-      "date": "2026-10-26",
-      "dateISO": "Mon, 26 Oct 2026 09:17:17 GMT",
-      "ts": 1793006237000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "朝鲜致信联合国：地雷爆炸事件是韩国“自导自演的闹剧” - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VMThiMm9JLXlPaU9mTlkwNlVpV3ZfTTgwYU83bXdKNklONHk3YWhiWU95V2hlRTJSdDZ6MU1OMW5FTFg1eS1NLThJeHlCeDE3SEE?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://original.ifeng.com"
     },
     {
       "id": "FL-160d55aeb47e",
@@ -239,18 +167,6 @@
       "type": "blast",
       "title": "“沙皇炸弹”爆炸65周年，人类史上最大核弹为何没能量产？ 独特载具限制量产 - 中华网",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uQ014a0c5SkhxdldYbUdYVmhFbVQtakZhYXRRZGxhX05Xb3RZUmh3amM3b0hobnoxVkYwZ1kzUklrU2RnZmVfUENEanlKbzNtV0dnOVYzaDlZLTNFYk1MZUNoNGstb3RhZzN0YS1wc2I?oc=5",
-      "site": "中华网",
-      "siteUrl": "https://news.china.com"
-    },
-    {
-      "id": "FL-21502056edb8",
-      "date": "2026-10-30",
-      "dateISO": "Fri, 30 Oct 2026 05:49:01 GMT",
-      "ts": 1793339341000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "景区向人群中扔炸药包丢回后直接爆炸：炸药包只是道具，真正爆炸装置在二楼 - 中华网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtblRTZG1FT0ljSGxUWWV3ZzlyeWJ6VGJaVld2Sm9TU1FVSGRSN3RmakhXOFpoNEY3blpqaWlSSjNxdTQtRzJsMThBNVZWS2d3SmdzcG5qSHFTOUt3cXpHcGxUTUFYdlh0U01uVExkN0c?oc=5",
       "site": "中华网",
       "siteUrl": "https://news.china.com"
     }
