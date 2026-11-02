@@ -1,19 +1,7 @@
 {
-  "updated": "2026-11-02T10:12:36.803Z",
+  "updated": "2026-11-02T20:22:13.401Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-ea47161f26e7",
-      "date": "2026-11-01",
-      "dateISO": "Sun, 01 Nov 2026 23:25:00 GMT",
-      "ts": 1793575500000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "现场视频：美国一飞机俯冲坠毁，机上9人全部死亡，距特朗普的海湖庄园仅七八公里；不到一分钟急坠近万米，在公路附近爆炸，燃起巨大火球 - ThePaper.cn",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84SE5IbTdDY3Fzcko0alk1OXZOYlhpX1lnaDlyR2FJUUZBbi0yeHhjTEk0WUVQQkNIVWRPM2hLdGo5aFRQYlVFRm5kTFdRUVZ4cGs1a3BYSDFYVUFLNUVGZw?oc=5",
-      "site": "ThePaper.cn",
-      "siteUrl": "https://www.thepaper.cn"
-    },
     {
       "id": "FL-8752a9eb2dc4",
       "date": "2026-11-01",
@@ -37,6 +25,18 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sYTdLdGZDVnRETk1oZGZIUVh2eDZJelhQVGpFZjNDR1d1eVJtZjdWUk1ocW1fSG4wVnRJbFg0X1ZVbWE0TjkyNnFBZHFnSXRkVzg0YWZOQ2dISnZmdml3UmJQVWd2QV9B?oc=5",
       "site": "中国新闻网",
       "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
+      "id": "FL-690f715866a8",
+      "date": "2026-11-01",
+      "dateISO": "Sun, 01 Nov 2026 12:45:35 GMT",
+      "ts": 1793537135000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "景区工作人员向人群中扔炸药包，被楼下NPC扔回后直接爆炸，景区客服回应 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1kVTB4Smk2SVhJUllIenU1RVZaUTdRN2s5cDUyVU1wS0JucHliU3dKS0s0NEh4MC1RQlNSNENBdDlYSWN4RjhOaEJMYnc?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://news.ifeng.com"
     },
     {
       "id": "FL-e3e253018cc7",
@@ -63,16 +63,88 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-543b89d8cf23",
+      "id": "FL-6219c5a90f8f",
+      "date": "2026-10-19",
+      "dateISO": "Mon, 19 Oct 2026 07:00:00 GMT",
+      "ts": 1792393200000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "易燃易爆炸！四川曝光一批工贸领域重大事故隐患案例丨安全四川 共同行动 - 四川新闻",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FZ3Fob0VMeUdKTnRXRjd0eG5YNGJXNVVjd1ktWkNHZk10ZGpFaWVYMGNZTFp4OGl6ZlY4b2RnSU5nVmltWjRLaGVnRFhxWkI1eTJyQ3ZCSW5LSjdxV2hDekVSaw?oc=5",
+      "site": "四川新闻",
+      "siteUrl": "https://sichuan.scol.com.cn"
+    },
+    {
+      "id": "FL-55a129936f67",
       "date": "2026-11-02",
-      "dateISO": "Mon, 02 Nov 2026 09:20:02 GMT",
-      "ts": 1793611202000,
+      "dateISO": "Mon, 02 Nov 2026 18:57:04 GMT",
+      "ts": 1793645824000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "俄最先進戰機爆炸！停火竟成俄軍運彈掩護？ - 新唐人電視台",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QTFBLMXFESmV3UGM0WlljcHpvSWZfNXBmM19JMUJhb09qLUdGYTZmcHlndm1UcnZqbXZ6bE9KaFpLVkxlVXc0SnNOM3djeXVsTXVrdVFXWUk5ZGUzT2hHR9IBZkFVX3lxTE03cGstc0tPMllIUFVGYkVBU2pDb0pYd09Kc3BWNlJreDFGX1NENUhud1VjYVRGY25vVUpfSVNNdjRSa01USkl2WnV4ai12TTBkOGJoalZ6TjhoYkxJdE1rUXNFY1lzUQ?oc=5",
+      "site": "新唐人電視台",
+      "siteUrl": "https://www.ntdtv.com"
+    },
+    {
+      "id": "FL-0a5307ee812c",
+      "date": "2026-11-02",
+      "dateISO": "Mon, 02 Nov 2026 18:03:58 GMT",
+      "ts": 1793642638000,
       "scope": "intl",
       "type": "blast",
-      "title": "美国公务机突然俯冲爆炸9人全遇难，1分钟坠落8200米 - 手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5qVzdOd2FRVlVTUEF2VEx4Tnk5Q1NxWXV2NFJ3UXhOdnZ4NEdDN0pfZUhYMk1EWlYtc3lQNmpvbndqMmhNRkZVaDlMTk81LVFCTFFrVEJpYXZsdVBQYU1BMkJOLXRJanJ1dUlyT3ZLanVPYUU?oc=5",
-      "site": "手机新浪网",
-      "siteUrl": "https://k.sina.com.cn"
+      "title": "'I heard a loud explosion': Oakland officer describes coming under fire inside stopped patrol car - The Mercury News",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPREVKY21XXzViMG1Td3oyYkgwVWd6R1VHQ0phcllkRUZVTUNlczhmbW5tNUhzemoxNmVVbVA1RDFuOWdCT1BhNHhjY0RNMTlnUnFZNHo3UmxrbXZxYVF2RFFEYWlBUmIwaUNlMjBpNEZVd2lCV2t2b3ZTX0ZsRjA2WDNvekduVkFIbUl3TXlhY0xrOE9xOThrM09BWHQ2Q0lBekNFUDFNbzBzSVNyODlic2NyR09ZWWFyMXpkcy1jMUE0OTNLQzVUZFNiV1pPQTQ?oc=5",
+      "site": "The Mercury News",
+      "siteUrl": "https://www.mercurynews.com"
+    },
+    {
+      "id": "FL-6ada5805d797",
+      "date": "2026-11-02",
+      "dateISO": "Mon, 02 Nov 2026 14:45:47 GMT",
+      "ts": 1793630747000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "柬埔寨累计清理逾3600平方公里受战争爆炸物污染土地 - 中国新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90akRINmFuWjdpMF80RzFNU1ByOFVXZXBPY25YaHl3cF83NU1GU3NMTDlLR1BXSldJX0VQQ1VIblFiTEk3eWlIaE95NW1JMVFFS0RINHpsVS1aYlRFX09OT0JmbTM2UFE1?oc=5",
+      "site": "中国新闻网",
+      "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
+      "id": "FL-361a3e098c13",
+      "date": "2026-11-02",
+      "dateISO": "Mon, 02 Nov 2026 10:55:46 GMT",
+      "ts": 1793616946000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "大不一样非常鸥克！长春站燃爆 第二代海鸥升级换代卷王重新就位 - 汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1objVVdVNYNFpNRWJHcVcwdDVHNFdMZ2hJa21kdzRaWm4xWWVUcnNsQ21qQ1NXcXVtTmpGQ1NvUmx5SENyRkNwNVQ1TW5BVllqT2lMY0huSkZaWVE?oc=5",
+      "site": "汽车之家",
+      "siteUrl": "https://chejiahao.autohome.com.cn"
+    },
+    {
+      "id": "FL-d8b25058c4af",
+      "date": "2026-11-02",
+      "dateISO": "Mon, 02 Nov 2026 09:09:05 GMT",
+      "ts": 1793610545000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "美国一架飞机俯冲而下，在一条公路附近坠毁爆炸起火，机上9人全部遇难 - 手机网易网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mS1RPR3RkUHliQ2NNQ1UtdDZwZFE4bDNSN18xQnM2Nm5zdUtZZk5oYXRwT1l0UmtfZm9KTThPVlBmZ09kOXF0QjBIeGEzTXItRENrUzdud2twNVh0YWxIQkRR?oc=5",
+      "site": "手机网易网",
+      "siteUrl": "https://www.163.com"
+    },
+    {
+      "id": "FL-15b36aea5e07",
+      "date": "2026-11-02",
+      "dateISO": "Mon, 02 Nov 2026 07:52:15 GMT",
+      "ts": 1793605935000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "美国发生坠机事故：一分钟急坠近万米，坠毁后爆炸，无人生还！ - 新湖南",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VVEhiVHozd0o5QmVUM2J1bVdtVmI5dDROTnpuU3ZJSE0zRmVaZjZvMEd6bWlCVF96YzNPbXVFbFowYnREellvb185ZV9td2FMS1oyTFl4bFpqM3V0ZXRn?oc=5",
+      "site": "新湖南",
+      "siteUrl": "https://m.voc.com.cn"
     },
     {
       "id": "FL-0bc6fe1fc274",
@@ -85,18 +157,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fZTNtVWJOdk5lb3d1Y3k0cUtSVldsR1g0RHl0dk94aTZYLXB0QURjcV83dllYczFYNlItN2FxX1E2VHpISktlR0syQWdrYnRXQjBUbWE2SFdWQWpmaE5kdzIyTTV6SmVS?oc=5",
       "site": "中国新闻网",
       "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-361a3e098c13",
-      "date": "2026-11-02",
-      "dateISO": "Mon, 02 Nov 2026 07:12:02 GMT",
-      "ts": 1793603522000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "大不一样非常鸥克！长春站燃爆 第二代海鸥升级换代卷王重新就位 - 汽车之家",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10VFJxQ09LalVMa1BMQWJFVFVXSk50dEFLWXFweVNTbHhBSXpmUFg4N3dsRFNPNVZybXhFNlAtdTZ3cFdzdjYwOC1IT2w0ZTYwMWg1YUdnUjdKTjBxMlEwMEY4MXk3M3laeWJN?oc=5",
-      "site": "汽车之家",
-      "siteUrl": "https://chejiahao.autohome.com.cn"
     },
     {
       "id": "FL-097c1d478f77",
