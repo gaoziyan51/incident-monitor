@@ -1,18 +1,18 @@
 {
-  "updated": "2026-11-01T23:50:37.491Z",
+  "updated": "2026-11-02T02:55:43.768Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-6eb0e8761226",
-      "date": "2026-10-27",
-      "dateISO": "Tue, 27 Oct 2026 18:42:20 GMT",
-      "ts": 1793126540000,
-      "scope": "intl",
+      "id": "FL-340d5e981918",
+      "date": "2026-08-23",
+      "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
+      "ts": 1787468400000,
+      "scope": "dom",
       "type": "blast",
-      "title": "ALE Agents Seize 200-Gallon Illegal Distillery Following Explosion and Fire in Wilkes County - NC DPS (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVUxoTjFncUJLcTJXQ3NRSEhLekVTRGNfTWZoelhtTnB6WFBBSEpra3ViWlIyN3NMaEVmRnJYRzgzYjBLREpnVVNRVzhmQTlyTkdhVGF5YnlXUW05YlkzRHNqQjV2d0RVcEpUYVZjdWhqSUJmaGZBcjNiazliLUluVl92NVEtNzlQbG14bWxJVXZBOVFTX3pNSHhTdnlTUTJfSlI1c0xKSnp1Y0FwcUdHT0FQVXhtaXdiYktsQTItX0N6ZjJ6NU1BczJ2a1pNUm5vZWdVSzJpaE11QQ?oc=5",
-      "site": "NC DPS (.gov)",
-      "siteUrl": "https://www.ncdps.gov"
+      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-0615dd398028",
@@ -25,6 +25,54 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-11edd7b7297e",
+      "date": "2026-11-01",
+      "dateISO": "Sun, 01 Nov 2026 23:50:04 GMT",
+      "ts": 1793577004000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "早报 (11.02）| 霍尔木兹海峡突发爆炸！伊朗披露“两天计划”；沪深上市公司前三季度净利超5万亿元；重要会议今日召开 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE01YkZ4SzR6YjlPRzN2ZjdyMnpFWlk1M2JCOXRiYkdaTVQzaTZyVm92cTdqdVFWMFpuYzZnQm5aZFNNZG5VNFU2R0w5QjQ?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://feng.ifeng.com"
+    },
+    {
+      "id": "FL-acfd04b42bc9",
+      "date": "2026-11-01",
+      "dateISO": "Sun, 01 Nov 2026 23:36:15 GMT",
+      "ts": 1793576175000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "伊朗称两艘油轮未经授权穿越霍尔木兹海峡触雷爆炸 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SeDFYajVMMDdHX0ZZVFdIVUZHMktJck1ITFFXTl9PSkY5eW5BY3Q3VU9pTjNiTURHeUJfRmRVMVNhZ2tFWm1SNEZwU3hKVlpaZ0R2US1pZmo0MEduVmc?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
+      "id": "FL-ea47161f26e7",
+      "date": "2026-11-01",
+      "dateISO": "Sun, 01 Nov 2026 23:25:00 GMT",
+      "ts": 1793575500000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "现场视频：美国一飞机俯冲坠毁，机上9人全部死亡，距特朗普的海湖庄园仅七八公里；不到一分钟急坠近万米，在公路附近爆炸，燃起巨大火球 - ThePaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84SE5IbTdDY3Fzcko0alk1OXZOYlhpX1lnaDlyR2FJUUZBbi0yeHhjTEk0WUVQQkNIVWRPM2hLdGo5aFRQYlVFRm5kTFdRUVZ4cGs1a3BYSDFYVUFLNUVGZw?oc=5",
+      "site": "ThePaper.cn",
+      "siteUrl": "https://www.thepaper.cn"
+    },
+    {
+      "id": "FL-8752a9eb2dc4",
+      "date": "2026-11-01",
+      "dateISO": "Sun, 01 Nov 2026 22:56:00 GMT",
+      "ts": 1793573760000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "突发，多国联军发动袭击；霍尔木兹海峡大消息，一艘超级油轮触雷爆炸；央行、证监会今天将召开会议丨每经早参 - 每日经济新闻",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ya0VFSzlqekRpTURSVk4tZTlEa3drYkdhQzBwMEJZQjhSbjVNX04xcTV4QmU5Ynl4V2IwTU9qVy11ajg0eHc0Qzl0Uk44S213V0tiUjFORDFBbkQ1eE9hM3NON1B2UQ?oc=5",
+      "site": "每日经济新闻",
+      "siteUrl": "https://www.nbd.com.cn"
     },
     {
       "id": "FL-1055beb13712",
@@ -51,18 +99,6 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-b6ed6e26e290",
-      "date": "2026-11-01",
-      "dateISO": "Sun, 01 Nov 2026 20:23:08 GMT",
-      "ts": 1793564588000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "伊朗称两艘油轮未经授权穿越霍尔木兹海峡触雷爆炸 - 手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE40bUVaTEtFcERKMU1pcDdRclRkcVREQThmdnZ6RXp6T1dyWllYbk9fNVlmZWRGem1qSkpaQ3dtbDU4R2REdjdjYmJpbw?oc=5",
-      "site": "手机新浪网",
-      "siteUrl": "https://wap.cj.sina.cn"
-    },
-    {
       "id": "FL-6dc44f894b61",
       "date": "2026-11-01",
       "dateISO": "Sun, 01 Nov 2026 17:01:39 GMT",
@@ -73,18 +109,6 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ObzBURk9nTnRXV0RBR3ozaEk4eTNfLWh1djE2NE5KYmw0RnhhN2stYWlnaDNwMHNHVlZUdWF4RzNKcU5oOUNHZEcxUFpyN3p1OHFiYjhtUGxXZHBwb3hF?oc=5",
       "site": "新浪网",
       "siteUrl": "https://www.sina.cn"
-    },
-    {
-      "id": "FL-29862847e5d3",
-      "date": "2026-11-01",
-      "dateISO": "Sun, 01 Nov 2026 13:54:49 GMT",
-      "ts": 1793541289000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "尼泊尔珠峰大本营徒步路线一酒店起火：厨房气罐爆炸，17间房旅馆化为灰烬 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9veGRVSGdkMUpIQzlLT0p6bmdHT1NPU1BQU1NYZDE1WTZJVkRDaUVjODZyVjBZckxGcThFcUl1aXUwRW9VcDgwU1gtVmg3bzdINGRpWXlB?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://www.sohu.com"
     },
     {
       "id": "FL-690f715866a8",
@@ -111,18 +135,6 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-1e7b4ee0f09f",
-      "date": "2026-11-01",
-      "dateISO": "Sun, 01 Nov 2026 01:01:07 GMT",
-      "ts": 1793494867000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "景区工作人员向人群中扔炸药包，被NPC扔回后爆炸，客服回应 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE84dGVrdmZBQVZzQXk3ckI1UlFTM2FrSmszeWZpQ2k0RnhLLVI3QzFIcHRXQnZoUHRrZlpfTlpVdXM0dl9BTXZKeGRFZ2g?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://news.ifeng.com"
-    },
-    {
       "id": "FL-28a423c6b93c",
       "date": "2026-10-31",
       "dateISO": "Sat, 31 Oct 2026 01:40:43 GMT",
@@ -147,28 +159,52 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-160d55aeb47e",
-      "date": "2026-06-22",
-      "dateISO": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "ts": 1782111600000,
-      "scope": "intl",
+      "id": "FL-6219c5a90f8f",
+      "date": "2026-10-19",
+      "dateISO": "Mon, 19 Oct 2026 07:00:00 GMT",
+      "ts": 1792393200000,
+      "scope": "dom",
       "type": "blast",
-      "title": "卡塔尔工厂爆炸已致13人死亡 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mR2pTX0YxWjBwQ2lLNC1XZjFhd3IwVEYtWkZFR3ZBU3B5RTFHR1BldmQ3OEkxN2NaWTMzYUkwWENDeEliY3dVNEloOExFS1B6SlZQTENHdWVmTWpUM042M2hRcmo4QS1qdl85cXlhZHJ3R3JGTEU4?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
+      "title": "易燃易爆炸！四川曝光一批工贸领域重大事故隐患案例丨安全四川 共同行动 - 四川新闻",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FZ3Fob0VMeUdKTnRXRjd0eG5YNGJXNVVjd1ktWkNHZk10ZGpFaWVYMGNZTFp4OGl6ZlY4b2RnSU5nVmltWjRLaGVnRFhxWkI1eTJyQ3ZCSW5LSjdxV2hDekVSaw?oc=5",
+      "site": "四川新闻",
+      "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
-      "id": "FL-b042a088a326",
-      "date": "2026-08-03",
-      "dateISO": "Mon, 03 Aug 2026 07:00:00 GMT",
-      "ts": 1785740400000,
+      "id": "FL-8ceed963015a",
+      "date": "2026-11-02",
+      "dateISO": "Mon, 02 Nov 2026 02:20:54 GMT",
+      "ts": 1793586054000,
       "scope": "intl",
       "type": "blast",
-      "title": "巴基斯坦西北部发生爆炸致14人死亡 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
+      "title": "美国一架飞机从高空俯冲地面爆炸 机上9人全部遇难 - 中华军事",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54bWxuVXpNcHZSeC1seC1fdktZS2VfVFh2a3N2LTVrZG1sbkkxdjBQZjVvbXBodThLOHBZOEM5dzR2NWdvNG81enQ0MlZpWXZNVVctQ3dXYlNNUmNfTEdqYVRkRFQzT3U4OWpLcUtEaVk?oc=5",
+      "site": "中华军事",
+      "siteUrl": "https://military.china.com"
+    },
+    {
+      "id": "FL-c32de906d131",
+      "date": "2026-11-02",
+      "dateISO": "Mon, 02 Nov 2026 01:57:22 GMT",
+      "ts": 1793584642000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "伊朗革命卫队称两艘油轮在霍尔木兹海峡触雷爆炸 - 中国新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SZDlES1dvOGdIdWVoYTVLbnlwUDBXVVUySmRzM1M1cWYxRXhVaVpBVVlfQjlPdTg0a0dfbldTQ01BYXZNd0pMamw0cjh4dlloTVB1Zl9TeWViMGxtZ0lZREpTdXlGT1Ez?oc=5",
+      "site": "中国新闻网",
+      "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
+      "id": "FL-a118ab2d7a91",
+      "date": "2026-11-02",
+      "dateISO": "Mon, 02 Nov 2026 00:39:20 GMT",
+      "ts": 1793579960000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "伊朗军方称两艘油轮在霍尔木兹海峡触雷爆炸 - 8world",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNelByMG0zaEd2a0paRjVFckVGMnZBZllkc2xHM1RnUE90dTlIYjU5UjA0b09lWUg4cS1HNW5WQUNwN3IzM3BHWjl2TkduNy1aNG9xcXFISUNLN3JoWkp1bVVaZkFmQzZqYVk1ZHhObGNBMGZMZVRXLUF3aEZMUW4tSXVJOFVaQ21XTTRNeEpOUQ?oc=5",
+      "site": "8world",
+      "siteUrl": "https://www.8world.com"
     }
   ]
 }
