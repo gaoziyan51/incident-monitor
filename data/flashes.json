@@ -1,18 +1,90 @@
 {
-  "updated": "2026-11-03T09:51:06.707Z",
+  "updated": "2026-11-03T17:23:55.807Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-764187a6fd4f",
+      "id": "FL-4f063b55008b",
       "date": "2026-11-03",
-      "dateISO": "Tue, 03 Nov 2026 09:47:24 GMT",
-      "ts": 1793699244000,
-      "scope": "dom",
+      "dateISO": "Tue, 03 Nov 2026 17:18:26 GMT",
+      "ts": 1793726306000,
+      "scope": "intl",
       "type": "blast",
-      "title": "美军战机遭攻击，格什姆岛传出爆炸声 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaG5NVl9xcXNIejZCQTJYdzdDN1pfenhzMlFWZjhQT3cxV01VanNNQVVFbk1pdjU5MjZuZ2hPc0J0NkVDVzBZbFRxdFhnOS1iSWhrUGs1YTRiOWNIZW83SzVEbndhbDNDc25Na2tGbEpucG1vX2NlMUREN1pZSWk1ZWk3OE5oNzJvTFhhdQ?oc=5",
+      "title": "中国大使馆称在巴布亚新几内亚码头发现的爆炸物是“酒瓶”，“不构成危险” - RFI",
+      "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxPbEQ1QlFVY2Q2MjhzS0NIRlJJMFdoMVlnVU1EdXdQNFoybVE4aFB1STY0TDRNRUNMbjlFWE02d3ZzOUc0SzVLZS1EMmN0RjI2dnBJb1pFNjFhUTBBc2NhY0FMSVlfTnRnNmtqVGxuRmVHcHZkclRSS1BCWTI4UTRiNlhoNnA3ZURIekxZUFlPdEd3ZG0zendycVF6RWhoTkI3dmdIb2NvMXJLZ2FxT2NPNDl2UHNEeUlYb2x3dHRSMVpfeGNFcWtkN3JSa1B3a3FlZW5SbG5UTWN3N0hQcm5PNGZhVUE5TmZ4NGJNZmg4d2J3OVRlMGtJbmZEVmptNHh0R2hBY1dPeEZQODFTbjBaYUc4ejlBSDFnSDRMd19UaWxUc3RBaDQ5c0xnZlNBSkUyNHpGRDhVVGdsTFlacGhKbUdxZ2VaOFR2c0RPSEdnVnYzWDNTajVIZDZSX21PZjN3LU9aenhLQm9PM25mZ2R1NTlkYjl4TjhQSXRtN3M4dWJnRW1pN19QMzAxWVRnMUxTT05vSEdJM0gxSFRaWVN6c1lrXzR2bmtvNGdLajl6bTh6WHhNZWxVR1RNZHJHN1JsNzFrUHNxZTEyNlR3MmVSLWliZ3JGUTA?oc=5",
+      "site": "RFI",
+      "siteUrl": "https://www.rfi.fr"
+    },
+    {
+      "id": "FL-5abfb92b3bc8",
+      "date": "2026-11-03",
+      "dateISO": "Tue, 03 Nov 2026 16:11:53 GMT",
+      "ts": 1793722313000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Video: IN Firefighter Engulfed in Flames After Vehicle Explosion - Fire Engineering",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM3pzMHlqaUplZHY4VW1OSUxDSGM0ZnNfYmQzRXpFMURjWmZWbVhsZGgzX2E4UTBOWkZCak1VMkZ4Ry1wb0FBT19zam1rcnBmSktNSXZwVVVJTGJINzM2bXRJbTFmcGQ3ckNxcUI2a2dQeE52elhnV29SZ19YVUxqZFM3cGVLVUs5eHNWb3BwemFRU1dGRHZrWnRZaHFUSk1Xam1CRUJ3aWNOUXpNU3c?oc=5",
+      "site": "Fire Engineering",
+      "siteUrl": "https://www.fireengineering.com"
+    },
+    {
+      "id": "FL-6b5d51f05fbd",
+      "date": "2026-11-03",
+      "dateISO": "Tue, 03 Nov 2026 12:47:43 GMT",
+      "ts": 1793710063000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "保加利亚：一飞机因怀疑有爆炸物降落在索非亚机场 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcTZRRVQwczhoR0hLRWJ5X1RxOWpPSjNOQ25LV2FRZmFHLWlaU0JwVzBpc3hqQXBncVhaNmVKUHdmS3RQOFRQbGVSejZvT2xHcGJzLXhLMmlWVlpJanJzQVhCdGlVU0VzU1lGTktKQzduV2c4eU1SamtlMEhpWHBEbG5XZXJlenc4?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-7d32851e1474",
+      "date": "2026-11-03",
+      "dateISO": "Tue, 03 Nov 2026 12:35:57 GMT",
+      "ts": 1793709357000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "保加利亚：一飞机因怀疑有爆炸物降落在索非亚机场 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1iMU1YemxacjRUbFlmRVdCRWJtOEZuU2dlSmxBeFdvQWRFczQ3M2ZCVDhnRVBFM0drcm1xQ1V5aEduYnlhdHBLU0kwQlFybGNGdXZXcmhsVnhWcFFmRUE?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
+      "id": "FL-e1ad1af3d552",
+      "date": "2026-11-03",
+      "dateISO": "Tue, 03 Nov 2026 11:57:11 GMT",
+      "ts": 1793707031000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "致使82人遇难，留神峪煤矿瓦斯爆炸事故事发5个多月后，山西全力推动煤炭有序复产、增产保供，焦煤期货将走向何方？ - 金融界",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfYVNNeVNyRWhQZGtWN3daOXIxZXlFdm1GU1RfdERkZjFsU2NzOEFfSl9jTUdVX2xncjhJSEpubkhkcGtiZFoxSTRrZGhwSTFCcDR3SmhrUnZiQ250cllpdW02ZUhzamtQT05nZGp6OGpXZw?oc=5",
+      "site": "金融界",
+      "siteUrl": "https://m.jrj.com.cn"
+    },
+    {
+      "id": "FL-161be34b2b1a",
+      "date": "2026-11-03",
+      "dateISO": "Tue, 03 Nov 2026 09:06:41 GMT",
+      "ts": 1793696801000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "伊朗格什姆岛数传爆炸声 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNTRvbU1CRlRhNHpOM1RlRkxDU1BlTUNvemN6UEhScU45WnpjV0RLQWktV2hxSlI5WEo1cGdDRlUtZWtQQXRHc3hiTF9EN0Y5d0xyWkxMZng5NjBneEpNd1FMbGhpU3JYS0VjcGdUR0lBV1JWdmloUjJUSUQ0elRaVU1EUkFQMFM3?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-46f0317ae539",
+      "date": "2026-11-03",
+      "dateISO": "Tue, 03 Nov 2026 08:26:09 GMT",
+      "ts": 1793694369000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "永兴县板梁古村：“潮玩+非遗”燃爆文旅新消费 - 新湖南",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rTUdCM3VXdHE1LWhndnB5cE0wMVZCdXZtUFRnWFZrZWpUSGNzeFpWdXJoVnZvRFgySVNjems5enFkZmVCT01EcXh0WHZ6bVNZdkkxSUl3V0xsNUlCVXVF?oc=5",
+      "site": "新湖南",
+      "siteUrl": "https://m.voc.com.cn"
     },
     {
       "id": "FL-a5a8c9174542",
@@ -27,66 +99,6 @@
       "siteUrl": "https://news.china.com"
     },
     {
-      "id": "FL-b97f2dc812f3",
-      "date": "2026-11-03",
-      "dateISO": "Tue, 03 Nov 2026 05:51:40 GMT",
-      "ts": 1793685100000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "伊朗岛屿传出数次爆炸声 美军秘密袭击引发关注 - 中华网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZbHZXZnc0RXBXb2d4WUp1cFNFYlF4YzhPVGR0a256S3JfU25NcmhnM2ZZOFA0THJRN2Vyd2xOU3NobEZrOUNGN1I3Sy14bndibFFwaFdiNjc3X2dJUVE4R0tLN05vcHlDNzktd0M3dEY?oc=5",
-      "site": "中华网",
-      "siteUrl": "https://news.china.com"
-    },
-    {
-      "id": "FL-1b7d5f813fcd",
-      "date": "2026-11-03",
-      "dateISO": "Tue, 03 Nov 2026 05:40:00 GMT",
-      "ts": 1793684400000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Teen girl seriously hurt in Halloween bonfire explosion - 12News",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWnhBaVE1NGFHX3RxVTlJUmdNbnlIMmtDellfSVZaZm1Zb3JFem9zOXNPeFVSWmNRTHdDRkZ0ZktOMTRsc2hFQmdTc3JKdmRzZm4xOXpXSHltclNxWUJDZW9xWF9oMTJyWlQ5RUlQZmswQkFyU3lOZklfQmt4bWIwS0NkbHpEb0xTc2NSRklnbmdKVUNtTkk0Q3MwZGp1cTRfb1d3a01HdEdLWDFFM1pIM2Q5cXhOVE5CRzhzcHZuQTBLSFdqTUJRamdWVy1fZTgxdlpGcnBmWFRUc2kz?oc=5",
-      "site": "12News",
-      "siteUrl": "https://www.12news.com"
-    },
-    {
-      "id": "FL-0bab1d0ab910",
-      "date": "2026-11-03",
-      "dateISO": "Tue, 03 Nov 2026 05:11:18 GMT",
-      "ts": 1793682678000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Why has there been a goals explosion in the Champions League? - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV0E5a21RWXdaM2lWSGgzM25XczRYdTEwT3hpSnhQY3dYbVVqbXRJNm1WQnNaSHhBYlp2ZkJJUnM5dFpiRU1yMTdtdmhhLWxBRlB5d0RBeGhFSzdTQ2J6dVA5bVp3Mm9YdkpnRXBLM2hIZFVMLUc0ZDllQ3pqME94NUp0ZEhFaDdoU3Y4cld3?oc=5",
-      "site": "The New York Times",
-      "siteUrl": "https://www.nytimes.com"
-    },
-    {
-      "id": "FL-76b987e405b4",
-      "date": "2026-11-03",
-      "dateISO": "Tue, 03 Nov 2026 04:22:44 GMT",
-      "ts": 1793679764000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "武汉住宅半夜爆炸 致2死1伤 - 星島頭條",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcDJxVGNyQTFQRGxxWUlibnZ6WkVsRnM3cWRCSFZjdTZKTlJRQXU5RU1qemx2SFBzOWp5bWY1RERZLUFwdWE4T1RGdzE1LUxOeFFoaThMTUJiSHo0MjN4UFFJRnFyZURTa0Y2OWdlaU1tTDJLOGNJVnAtUWRPVE1oSy1pbmkyTGlIZkRLT19lYldDLWs5dzl6T2VMMWlGUEItTzRsOHluay1ocDgyeEZWSVpsNmVwNjFvelB3djlhU2dFVmFPN2RhQ1NYV1gzZlRxM19BNkEtUXFmYWpwN0o2bDEtWklSS04yNm9wTWRsWVBQZw?oc=5",
-      "site": "星島頭條",
-      "siteUrl": "https://www.stheadline.com"
-    },
-    {
-      "id": "FL-568e0a66965b",
-      "date": "2026-11-03",
-      "dateISO": "Tue, 03 Nov 2026 03:35:31 GMT",
-      "ts": 1793676931000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "美军据报袭击伊朗格什姆岛 爆炸声引发关注 - 中华军事",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Idm9EZjVGUnBmT3JuWm5aT3puTGxGejlLeVVNVkpuYVJramxER0w2d1NOb3lNYmdZQlY2Sm55Tm1BUnpyTkVIS3Q3S0lfTnhlSE9yWm5PclpvNlY1MHNGOUZJWnFhVUxpUm9KZkppZmI?oc=5",
-      "site": "中华军事",
-      "siteUrl": "https://military.china.com"
-    },
-    {
       "id": "FL-2e57f49a993f",
       "date": "2026-11-03",
       "dateISO": "Tue, 03 Nov 2026 03:23:28 GMT",
@@ -99,28 +111,28 @@
       "siteUrl": "http://www.xj.chinanews.com.cn"
     },
     {
-      "id": "FL-25f643a97fef",
+      "id": "FL-331c268f452c",
       "date": "2026-11-03",
-      "dateISO": "Tue, 03 Nov 2026 03:23:24 GMT",
-      "ts": 1793676204000,
+      "dateISO": "Tue, 03 Nov 2026 02:54:59 GMT",
+      "ts": 1793674499000,
       "scope": "intl",
       "type": "blast",
-      "title": "【领灿助力Avenged Sevenfold 印尼万人巡演，燃爆重金属之夜！】PjTime.COM 工程案例 - 投影时代",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1nOC1rbF9kYk4xemFtcnVhOUF5c0h2OWFubzFydWNZdko5c2MtaEMzNjhmNnlPcVFaRW1VVHZCTWN0MEVaWnpiaE1tMWZZT3cxS2lYRHhsUXJ1bmYy?oc=5",
-      "site": "投影时代",
-      "siteUrl": "http://www.pjtime.com"
-    },
-    {
-      "id": "FL-b2f505f12048",
-      "date": "2026-11-03",
-      "dateISO": "Tue, 03 Nov 2026 02:34:16 GMT",
-      "ts": 1793673256000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "乌克兰试图效仿以色列“寻呼机爆炸”，向俄军输送藏炸弹目镜 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5teUpjRFNmbDc5c2p1dHJJbUJYMG5DRm1kZ1hlWVBrVDFVeGNsVG5mOUZDVUQzWm1Zcm0tTnF6NlI3UVFLcW9DdlhHSQ?oc=5",
+      "title": "伊朗格什姆岛传出爆炸声，美方称摧毁伊朗导弹发射器 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9pTjFhb0tIX2NzVVBvV2RfYVFubEVWZ0ZHcFctNHpuOGh2OThMU1dQZEUtbktqMXhGWWRrdG84dXBmcW5kbVk4UERyWQ?oc=5",
       "site": "凤凰网",
       "siteUrl": "https://mil.ifeng.com"
+    },
+    {
+      "id": "FL-8ae1f54dd8c2",
+      "date": "2026-11-03",
+      "dateISO": "Tue, 03 Nov 2026 01:30:52 GMT",
+      "ts": 1793669452000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "印度一炼厂沥青储罐发生爆炸 - ChemNet News",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5neGkzU2xCbVBMWjluc1RYMERRRTBER19SbjU3em90TjNYZEpOUHU2MmZhQ3MwbUx2UGRHT3p2bDVDeXVqcVNsM24xVGttUHVCMHkzMGZGOExTWUI5Umk0?oc=5",
+      "site": "ChemNet News",
+      "siteUrl": "https://news.chemnet.com"
     },
     {
       "id": "FL-5e735aebc1c3",
@@ -135,18 +147,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-6219c5a90f8f",
-      "date": "2026-10-19",
-      "dateISO": "Mon, 19 Oct 2026 07:00:00 GMT",
-      "ts": 1792393200000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "易燃易爆炸！四川曝光一批工贸领域重大事故隐患案例丨安全四川 共同行动 - 四川新闻",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FZ3Fob0VMeUdKTnRXRjd0eG5YNGJXNVVjd1ktWkNHZk10ZGpFaWVYMGNZTFp4OGl6ZlY4b2RnSU5nVmltWjRLaGVnRFhxWkI1eTJyQ3ZCSW5LSjdxV2hDekVSaw?oc=5",
-      "site": "四川新闻",
-      "siteUrl": "https://sichuan.scol.com.cn"
-    },
-    {
       "id": "FL-d15f7aa5cad3",
       "date": "2026-11-02",
       "dateISO": "Mon, 02 Nov 2026 21:13:56 GMT",
@@ -157,18 +157,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8zUHBRdUxpUDYxWVdWdjJLM3gxR3I0Ym43a0Q0ODhvNmN4TkhPX1ZwN01mMTl1SzBzOFdGS2NpVjdDWTM4cHpJWEVkaGI?oc=5",
       "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com"
-    },
-    {
-      "id": "FL-a08a74491d65",
-      "date": "2026-11-02",
-      "dateISO": "Mon, 02 Nov 2026 21:03:57 GMT",
-      "ts": 1793653437000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "伊朗格什姆岛传出爆炸声。 - 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9BRnlWNldLUThmME9vWW9VbktnNWd3MnAwakJXNFQ0bjdnaG9YcENyaGcxbHdEY0xSYWtfckpaM3k2X05aN01VVDNyaw?oc=5",
-      "site": "新浪网",
-      "siteUrl": "https://wap.cj.sina.cn"
     },
     {
       "id": "FL-6ada5805d797",
