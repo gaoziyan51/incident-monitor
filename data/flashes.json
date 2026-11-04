@@ -1,18 +1,42 @@
 {
-  "updated": "2026-11-04T02:29:10.466Z",
+  "updated": "2026-11-04T09:38:24.905Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-df6c392b5c1e",
+      "id": "FL-4f17360bdf40",
       "date": "2026-11-04",
-      "dateISO": "Wed, 04 Nov 2026 01:36:55 GMT",
-      "ts": 1793756215000,
-      "scope": "intl",
+      "dateISO": "Wed, 04 Nov 2026 07:25:05 GMT",
+      "ts": 1793777105000,
+      "scope": "dom",
       "type": "blast",
-      "title": "俄方：乌克兰试图效仿以色列 无人机目镜藏爆炸装置 - 中华军事",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wUWlDTS16a0pGM2l4ai1lZ1o5dTBha3NIQl9RMkluczZySHF6cnFTOUlhNW8wV2J2N2RmZFZhWDRlZFU4X2lFT2RFTnhVcWJoZ2VCUm13ZGRhNnFVS256SWw5ZEVtT1RfUEt1cG1vSU8?oc=5",
-      "site": "中华军事",
-      "siteUrl": "https://military.china.com"
+      "title": "台湾新竹一材料工厂发生爆炸，造成5人受伤、2人失联 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XeEZFRExZZU82ZkdsUGgxYjNqcG14MEVJMnBxOXlGV0llTWJIOTZoZXJJNHE0MGdzdEozWG1rbTNHZHBMU2FITm5kVXpFVDdHbXpKYUNQRDBZWXdYa3c?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
+      "id": "FL-11b7bac3d270",
+      "date": "2026-11-04",
+      "dateISO": "Wed, 04 Nov 2026 05:07:57 GMT",
+      "ts": 1793768877000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "欧洲多架客机收到炸弹威胁 安检未发现爆炸物 - 中国新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FSGdzd0NobzlfaFZ3WFFROW9RUzJOS1FwM2F6Z2c3REdzdUd6WGRmaUhCaWFZc3JZc09FeTNjRS1qSWotekxhNlVldWFHVGRJdkJnb05lWjNJOTV0aE9HdFBNS0hKUk8y?oc=5",
+      "site": "中国新闻网",
+      "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
+      "id": "FL-857d26fdfad0",
+      "date": "2026-11-04",
+      "dateISO": "Wed, 04 Nov 2026 02:27:54 GMT",
+      "ts": 1793759274000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "欧洲至少7架客机遭炸弹威胁，均无爆炸物 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wQm1OTDNHdXZ4dmxQblNUMG5rV1dZcmNXS083RzNGQ3V2TGpUeVdjWGNmM1AtdWpiZFBrcmx2bmRlNjNSNlRGTVZvaG5wMjFqUmc?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://original.ifeng.com"
     },
     {
       "id": "FL-f0653e24ed85",
@@ -147,16 +171,16 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-0bc6fe1fc274",
+      "id": "FL-b4b74123346b",
       "date": "2026-11-02",
-      "dateISO": "Mon, 02 Nov 2026 07:22:53 GMT",
-      "ts": 1793604173000,
+      "dateISO": "Mon, 02 Nov 2026 11:37:13 GMT",
+      "ts": 1793619433000,
       "scope": "intl",
       "type": "blast",
-      "title": "哥伦比亚中西部发生爆炸袭击事件 致4人死亡 - 中国新闻网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fZTNtVWJOdk5lb3d1Y3k0cUtSVldsR1g0RHl0dk94aTZYLXB0QURjcV83dllYczFYNlItN2FxX1E2VHpISktlR0syQWdrYnRXQjBUbWE2SFdWQWpmaE5kdzIyTTV6SmVS?oc=5",
-      "site": "中国新闻网",
-      "siteUrl": "https://www.chinanews.com.cn"
+      "title": "哥伦比亚中西部发生爆炸袭击事件 致4人死亡 - 南美侨报网",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNckVMR0pmTkd4RFR1dElNZHVfTDF4U3F2QkRuUGtHTTJ5aXlUVjNORlZNQXR0TlkxSEVxWkhWWi1rTURaMllWQzlGSTkxbEpZSGpzQjIxT1U5cEFrR3ZzSEVpSWFPTFRhYlJqYy1hNnUzdk8yRWl5ZG84eW5tdXpRU0tNMmFiaDZCcUE?oc=5",
+      "site": "南美侨报网",
+      "siteUrl": "https://www.br-cn.com"
     }
   ]
 }
