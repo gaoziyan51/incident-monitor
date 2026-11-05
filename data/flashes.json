@@ -1,54 +1,18 @@
 {
-  "updated": "2026-11-05T09:53:56.397Z",
+  "updated": "2026-11-05T17:43:26.132Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-b33d3b12e905",
+      "id": "FL-449edcd293c2",
       "date": "2026-11-04",
-      "dateISO": "Wed, 04 Nov 2026 22:46:00 GMT",
-      "ts": 1793832360000,
+      "dateISO": "Wed, 04 Nov 2026 22:47:00 GMT",
+      "ts": 1793832420000,
       "scope": "intl",
       "type": "blast",
-      "title": "美国密西西比州一化工厂发生爆炸 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Xb01CdDRybmxUanI5U2lLaUlUWm9iTVZLY2pweDVMRVhsWGJPQTEyaHRKWDZDQmhuZzJBd0F0NWV0SkFwRXdSTEduOWMzZDI0Tk1DU0hqQ2Q5RFhkb1FXYU9BMTNZeXdLd0liT3AxN0JZdw?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://xinwen.bjd.com.cn"
-    },
-    {
-      "id": "FL-422ae67e3e7e",
-      "date": "2026-11-04",
-      "dateISO": "Wed, 04 Nov 2026 20:43:31 GMT",
-      "ts": 1793825011000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Crews respond to early morning explosion at a Mississippi chemical plant - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS1NNM2dZZ3lyRE1LYXdESVZDc3g0VzB2cEtybmFfRnN3RFk0dTQ0WENtcjdtbldiRlNOUHp3VUZjZzFqMjNHTlNfX2xYNUxWNG5USl9hT0U4SUhzXzZ6QmhDVjVnSFp6Q19Xb3NVbm1ON1VhVVo0bW4xdkZMMEFRSXB1NkxJVlQzU1l0VHJUUWRyd1Z6UVMxbncwZmdvdkJzSGZtT0dEWV9jdlHSAbABQVVfeXFMTTMwamo5dF9hNWs1Tm9RWVVwZlFGaHdyN0Nub2thUUw3ZW4xV0VFM19PQm5mYnNuYlFRYVo5N0l4dFpsYVdWTWJicDMyOHpOSkdRZUJ5UHplWFBjdTN6Uk54WGZja2ZxNS14bjcydk1KazBoV29neGM1NDA2b0xULXZXREtyR3kyUnlNOU91RkhjeHIwV3J5cjdkc0kyNDBmNXZBTUNDVWF4VnhtbHFDWkk?oc=5",
-      "site": "ABC News - Breaking News, Latest News and Videos",
-      "siteUrl": "https://abcnews.com"
-    },
-    {
-      "id": "FL-e886c3e8c829",
-      "date": "2026-11-04",
-      "dateISO": "Wed, 04 Nov 2026 16:28:00 GMT",
-      "ts": 1793809680000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Shelter-in-place lifted after chemical plant explosion in Mississippi Delta; fire contained - Action News 5",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNak92NE96bFRmanMzNzY1UnNnOWROR2JYNWR3SnE2Y1QtV1dRbElBT1lzZ1R1ZTAwYlRuSmRDN2dJNHI1VFVERmtmUjExSHZoZFViY1loSkNnb0RoOUxjeUhuOVRWUER5S2hGRnphUzFRZVdoR1NKYlJLTFl3YkFoMUZzTWlsQzRGTThuWWpFc0p3UjhNbGt5OGJQci1hanRMSF9vWW90Z1BGUmQ4MWFWRmZWVk92Y2s?oc=5",
-      "site": "Action News 5",
-      "siteUrl": "https://www.actionnews5.com"
-    },
-    {
-      "id": "FL-af7c030af58a",
-      "date": "2026-11-04",
-      "dateISO": "Wed, 04 Nov 2026 12:26:36 GMT",
-      "ts": 1793795196000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "【视频】跌爆炸了买燃油车还是新能源？ - 汽车之家",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhQXVGVVpUWERnREFlRjZfTnpRLU5GbGFKMWx0ZEE2VFVydG1sa3RUcTJPSno2LWZMazhIbHN6RHphY1VGa3I0MjRhYkp5WlgtbGhHYlg5ZEh3dTg?oc=5",
-      "site": "汽车之家",
-      "siteUrl": "https://chejiahao.autohome.com.cn"
+      "title": "美国密西西比州一化工厂发生爆炸 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZkRCdnFhdktxZU9qQ1A5UXh3eHhsZVlxXzlZX2M1VFRGRWFzLVhhakN5dmhFM1h5eEU5M0ZfZ3RHWTNWRHBfZWpKM2dEbzVqNWg4SnJxNW9qX1pSOGM2M2piN0xBam1oVUtDSEJubEhYcURkVVBOMDF3d1dYUFQzTTc0Q0o0TXU0?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-4f17360bdf40",
@@ -111,6 +75,18 @@
       "siteUrl": "https://military.china.com"
     },
     {
+      "id": "FL-f0653e24ed85",
+      "date": "2026-11-04",
+      "dateISO": "Wed, 04 Nov 2026 01:18:02 GMT",
+      "ts": 1793755082000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "俄方：乌克兰试图效仿以色列“寻呼机爆炸”，向俄军输送藏有炸药的目镜俄联邦安全局揭露袭击企图 - 中华军事",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGMWlFcW9OVm12anBISXRTSUQxOWl6X0JUcXdSZlZtMkRabllUWThXQVkxMEg1eWQtb2ZSVVNYUzRpZGVGLWNXcWxhN0l6SDZTeU95dWxQWURDdTZFcUhkb0NnYW5rWlk4dThDMy1YNTY?oc=5",
+      "site": "中华军事",
+      "siteUrl": "https://military.china.com"
+    },
+    {
       "id": "FL-4f063b55008b",
       "date": "2026-11-03",
       "dateISO": "Tue, 03 Nov 2026 17:18:26 GMT",
@@ -123,18 +99,6 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-89b9c06abe5c",
-      "date": "2026-11-03",
-      "dateISO": "Tue, 03 Nov 2026 12:52:00 GMT",
-      "ts": 1793710320000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "上海大學一實驗室發生事故 救援時引發爆炸 - 大紀元",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zVkRNQWNNMTdEZ19BZk1MYnZyRkM4cDRhWlVhRnBjQkdYLXpCOEJUc3ZTRE1KanotaUw1V1NYNmF0eHJMdEMweDI1c3k1eEJuc1ZXckVEWDNqT2tOWUVLTNIBZkFVX3lxTFB5dkh5ZFpLVnlVRW9tRWphWFVBb1VuZlN5OGYweV95VlBPOGVqX1hRSS1VY0ZRRTA0eUxIWUtPYTZUMVp0XzdQYXN6S3haRW9iUTk3SEpJaXFYT2VGWVlSNFUyWGYzdw?oc=5",
-      "site": "大紀元",
-      "siteUrl": "https://www.epochtimes.com"
-    },
-    {
       "id": "FL-e1ad1af3d552",
       "date": "2026-11-03",
       "dateISO": "Tue, 03 Nov 2026 11:57:11 GMT",
@@ -145,6 +109,102 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfYVNNeVNyRWhQZGtWN3daOXIxZXlFdm1GU1RfdERkZjFsU2NzOEFfSl9jTUdVX2xncjhJSEpubkhkcGtiZFoxSTRrZGhwSTFCcDR3SmhrUnZiQ250cllpdW02ZUhzamtQT05nZGp6OGpXZw?oc=5",
       "site": "金融界",
       "siteUrl": "https://m.jrj.com.cn"
+    },
+    {
+      "id": "FL-2b68a721bcaa",
+      "date": "2026-11-05",
+      "dateISO": "Thu, 05 Nov 2026 17:28:37 GMT",
+      "ts": 1793899717000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Mississippi chemical plant explosion sends black smoke into air - FOX 10 Phoenix",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcThWemNibzg5aVJ4UDBpd0g1cXlwc3NJZGJyeGU3XzhEalJVd253Nkc1N0E3MHJKeGJSQW92WHp2Yk9vb253ckVlNFY1UkVmNnJ6VDh2Y09MOGFVU1NqVmRXRldsTmFJcUNVX0I3bHVVQUx6UERNblVRWGpSVXBGRGJJOTFCdmlZ?oc=5",
+      "site": "FOX 10 Phoenix",
+      "siteUrl": "https://www.fox10phoenix.com"
+    },
+    {
+      "id": "FL-9275ac70b20b",
+      "date": "2026-11-05",
+      "dateISO": "Thu, 05 Nov 2026 13:57:12 GMT",
+      "ts": 1793887032000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "中国怎么了？万斤海鲜被哄抢 武汉爆炸 上海骑手离奇落水（视频） - 人民报手机版",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMaVVnYkJ2S1cwTVNjX3pQdExWZVZtWUtVN2Q2M3JhRUFldEFTQTF0bnRqeWljR3BSeTl3c3kweks2REtfS0xhNjJSRzZKTGMtOEZ4blBfa2h0QnhDLUZqajQ0V0c0T2RGcHc?oc=5",
+      "site": "人民报手机版",
+      "siteUrl": "https://m.renminbao.com"
+    },
+    {
+      "id": "FL-e90f6b3aa67d",
+      "date": "2026-11-05",
+      "dateISO": "Thu, 05 Nov 2026 13:45:01 GMT",
+      "ts": 1793886301000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "没用也没碰，衣柜里的它突然爆炸起火，女子救火被烧伤！很多人都有这个物品→ - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSEdGVTVsYmdKZTcyUVhjdUNfTlcxeDNFLXdUajluTEZ2eW9adGQ5U0p0bHM1d0p4SXpHaE1vYktDb3RVeHI5NDRad0o2MFJHX3NpeVFIQ28yRjdUZ0phZksxZWFEM0d4ck1mVVZncFUxcVFBa2w5b3loYkZINkoxTjBzbGVQSGhY?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-2b33dd621f70",
+      "date": "2026-11-05",
+      "dateISO": "Thu, 05 Nov 2026 13:26:45 GMT",
+      "ts": 1793885205000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "台湾松下工厂爆炸大火 寻获2失联者遗体 - 国际 - 带你看世界 - Sin Chew Daily",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWV1paWjNJSGlQVkoxR3JXRVI3bFNvX0ZWTUxOWXRGR0ZET0JvRGVBSkNWV24xNDVCelJyWllLaVJKM3BUbVFGNThoMmdya1RQaGtrM0wteHM4VnpTS2FMU21oXzZTWUgtSFFTNVRUTQ?oc=5",
+      "site": "Sin Chew Daily",
+      "siteUrl": "https://www.sinchew.com.my"
+    },
+    {
+      "id": "FL-7d4afcb3154a",
+      "date": "2026-11-05",
+      "dateISO": "Thu, 05 Nov 2026 12:05:00 GMT",
+      "ts": 1793880300000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "台灣松下湖口爆炸2人失聯 重機具開挖尋獲1遺體 - 大紀元",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUUXVKMW5DN3ZMb25LbGMycGVMaVU1dEtkZ3FWTXRFaWFjd1VpaUFQaFQwSkh5a0RkeDhBUnNKclNhM01xNThBcC1IVEhqUGhwY2M3cTdwN0RwU2twWWJCddIBZkFVX3lxTFBGclNZYTBfTmZEVE9ZVlJGOHpfV2ZDa1ZVbXp3eF9IY0hfeGl5WllRSmdKV0Fld3Fsek9DbTNYRC11QWNpaEMxVm5VTjB3Qjd0SEZQUXZOTk1icVV5M2x4QzZlRUx4QQ?oc=5",
+      "site": "大紀元",
+      "siteUrl": "https://www.epochtimes.com"
+    },
+    {
+      "id": "FL-73dd05448cba",
+      "date": "2026-11-05",
+      "dateISO": "Thu, 05 Nov 2026 11:51:50 GMT",
+      "ts": 1793879510000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "【视频】看别人拆胎忘充气，卡车轮胎瞬间爆炸 - 汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54VTFOcXZMbnFaWDNOaUtkNjZ6bVZnZGE0VGNOeGstTzZWSXdUTTR4Zjh5NGJPNGhYcTI2VWdNb1doT2xBMDY1TmpUNXloQkszMkZ3RmpwR01ib1U?oc=5",
+      "site": "汽车之家",
+      "siteUrl": "https://chejiahao.autohome.com.cn"
+    },
+    {
+      "id": "FL-d605866a73cc",
+      "date": "2026-11-05",
+      "dateISO": "Thu, 05 Nov 2026 11:33:41 GMT",
+      "ts": 1793878421000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "三架飞往保加利亚的航班遭炸弹威胁 未发现爆炸物 - 中华军事",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sVzVmeXF6SFEtNW11SDk1MjZLa1R4ekNhVTZEdlVLSDZxcDk0ZGU5T1RkazVXUUh4T2FSa3JneFRsUTBMUTFDd21aV1FBOE9Ub1VJUDNzb0plM2laUkx4eHQ5aGZBRGdxcHppeTdhbWo?oc=5",
+      "site": "中华军事",
+      "siteUrl": "https://military.china.com"
+    },
+    {
+      "id": "FL-01f90addc5c6",
+      "date": "2026-11-05",
+      "dateISO": "Thu, 05 Nov 2026 11:01:00 GMT",
+      "ts": 1793876460000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "PCB材料大厂突发爆炸 - 电子工程专辑EE Times China",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwU3dFS3NSbE4xZmgzdzNWSHFrUFhhbDBaRWNCZUdwNlJla2dFTUNwb0VBdlQ5OThhbWZ3TGNfS0t4UnFySFN0enQ0d2RmM04tOXN3?oc=5",
+      "site": "电子工程专辑EE Times China",
+      "siteUrl": "https://www.eet-china.com"
     },
     {
       "id": "FL-83f14eb5e7c9",
@@ -171,16 +231,16 @@
       "siteUrl": "https://www.jwview.com"
     },
     {
-      "id": "FL-902df8548526",
+      "id": "FL-a0654dede655",
       "date": "2026-11-05",
       "dateISO": "Thu, 05 Nov 2026 07:19:52 GMT",
       "ts": 1793863192000,
       "scope": "dom",
       "type": "blast",
-      "title": "松下覆铜板工厂爆炸起火，全球高端CCL供给约4%面临中断风险 - https://www.me.news/",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FLTEyaWlvTnFwelV4V1ZDcGJmRFp5NWM5NnpXSkU3cTkzVTdsSlBkTGRVTmxDVlRTVzJlcTZ1ZERaZE15MmZObS1Oaw?oc=5",
-      "site": "https://www.me.news/",
-      "siteUrl": "https://www.me.news"
+      "title": "松下覆铜板工厂爆炸起火，全球高端CCL供给约4%面临中断风险 - 华尔街见闻",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sZkFUaDFITlFUYWlwYzQzMmZHUTB3YkFKZFUwbENDcHpmWEhPSUNkTTlpYjBxYWVoSXhTQy1OLV9BT2RVcXFTV2wwcEctcjhGeHBv?oc=5",
+      "site": "华尔街见闻",
+      "siteUrl": "https://wallstreetcn.com"
     },
     {
       "id": "FL-588b173c0ddb",
@@ -287,6 +347,18 @@
       "type": "blast",
       "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlemFCa3lteDlkZERLTXRLMHhpeTIzNmFqanFBczVPaFNjQjVxOHNJNm54Tkhua1FqOGtuaUhBLWdRSWxXaFRoZThQZXJqclRIV1pUaTNhcjhHU0dwRzA1WXNQc2ZOVEhXX0Z1NUVBcnBUalJRWkE3ZlE0S3NOaXM?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-b042a088a326",
+      "date": "2026-08-03",
+      "dateISO": "Mon, 03 Aug 2026 07:00:00 GMT",
+      "ts": 1785740400000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "巴基斯坦西北部发生爆炸致14人死亡 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
     }
