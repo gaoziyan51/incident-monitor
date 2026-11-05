@@ -1,24 +1,24 @@
 {
-  "updated": "2026-11-04T22:44:42.662Z",
+  "updated": "2026-11-05T02:49:22.093Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-3e673a7f311e",
+      "id": "FL-b33d3b12e905",
       "date": "2026-11-04",
-      "dateISO": "Wed, 04 Nov 2026 20:47:42 GMT",
-      "ts": 1793825262000,
+      "dateISO": "Wed, 04 Nov 2026 22:46:00 GMT",
+      "ts": 1793832360000,
       "scope": "intl",
       "type": "blast",
-      "title": "Crews respond to early morning explosion at a Mississippi chemical plant - WRAL",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdGhGUjl4Tjh5MXVfbWt3LXZ0VWJLcHJNRVBZbmlKMV9PdFVTbGFJb0h6dldfTFFVSFFKdTc5MUlBRkxydDVhUm1xWTh2NmN6UF9PNFhGS2h4ek9NdE91ZV95NE1YcURnOERDb0xhYnRRZ1l3Y3c5SEp2bXJrZmJ5Q2JFeHpMSzFIaFYwbThiUExtNFpJOW5wZG5jb2FYWUN1NDltRGlRTWZIdlJw?oc=5",
-      "site": "WRAL",
-      "siteUrl": "https://www.wral.com"
+      "title": "美国密西西比州一化工厂发生爆炸 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Xb01CdDRybmxUanI5U2lLaUlUWm9iTVZLY2pweDVMRVhsWGJPQTEyaHRKWDZDQmhuZzJBd0F0NWV0SkFwRXdSTEduOWMzZDI0Tk1DU0hqQ2Q5RFhkb1FXYU9BMTNZeXdLd0liT3AxN0JZdw?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
       "id": "FL-422ae67e3e7e",
       "date": "2026-11-04",
-      "dateISO": "Wed, 04 Nov 2026 19:44:17 GMT",
-      "ts": 1793821457000,
+      "dateISO": "Wed, 04 Nov 2026 20:43:31 GMT",
+      "ts": 1793825011000,
       "scope": "intl",
       "type": "blast",
       "title": "Crews respond to early morning explosion at a Mississippi chemical plant - ABC News - Breaking News, Latest News and Videos",
@@ -27,16 +27,28 @@
       "siteUrl": "https://abcnews.com"
     },
     {
-      "id": "FL-2eaca70cde68",
+      "id": "FL-00cc0f196d3b",
       "date": "2026-11-04",
-      "dateISO": "Wed, 04 Nov 2026 19:26:00 GMT",
-      "ts": 1793820360000,
+      "dateISO": "Wed, 04 Nov 2026 19:40:56 GMT",
+      "ts": 1793821256000,
       "scope": "intl",
       "type": "blast",
-      "title": "Chemical plant explosion in Mississippi prompts shelter-in-place order - WBKO",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOczRIVkY0cVlGd2FLSDFWeHJncTJVZjVRQng5TVRmaWxrUjl5cEdXNUdDN2FpWThfbTIzRVFqb1Fibm5GdFNmWXRIVDgzTHNWTHh2SzZWUl82bmk3YjhoNDdmR0xSM2g1cnBLekR4RkRDQzBLeTNGYXZMbnNGYTItUkZOOEx1bXdJcmJyVGZpTlUzYlhBWkRVSUJHYTRwM01yb3fSAbYBQVVfeXFMUGNRM1dlZ2FWcy1HblVzSm9wTDJvUVhqcGxsLTVfaWo3QzlfbDlnNEthdXBvdXNKaXVtMDYwbzZyTGVULUltMVE5SG5JVUFqZ0t0VllIX3NDU2FZbDlOb1dUcnNGbmFrblppQlhBb0hDcHVtUlhJcWtLRG96N014R3RKTUs4QTZYdGVuZjJybHBmeGsyN1FkNFJOR1lBcHJyektyeEZrV2Y3MGxKTk1BU1VQMm1OYVE?oc=5",
-      "site": "WBKO",
-      "siteUrl": "https://www.wbko.com"
+      "title": "Indiana firefighter engulfed in flames after explosion - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVnZEdUZmRDU3S2dMUHBocDhSZ1NrNW5WS0tUSWJ2VGxrWlR3TmY1djBmaFBCM284ZGtqNkFlamdiSmI4QmhkbHhrZ19pWmpFWUVUY0duT3RyaVJTalkybmdCUjZhbDVqdVNwQ0s5QzI3a2M1cURPWlBKdmd1UDJXbndHSy0tUFFRWk1LWkFBOVJObWw0d3lXY0IwMWJuSXVrZEo5bm83Zw?oc=5",
+      "site": "NBC News",
+      "siteUrl": "https://www.nbcnews.com"
+    },
+    {
+      "id": "FL-139802324aed",
+      "date": "2026-11-04",
+      "dateISO": "Wed, 04 Nov 2026 19:34:00 GMT",
+      "ts": 1793820840000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Crews respond to early morning explosion at a Mississippi chemical plant - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWVdMN0hRdERSOEZFbWE1b3FxMXlZRG9FelhBYm5MRThDLWRuUTBYNlNXVW9wY0ViUURLSGdpSEtFdW83RktKTEVsZVRpaHNqdnp0OEdmQ1BidzVOZWlrM0F6cTZMd0ppVnpQSGUtQVg4bnlPR2o3V0FiUnp1ZmpPTFgtZk50VGFXNWxSZVBZTzFvNTdack03eF9Qc3VLbmd5MkVPVHNWN3FZUGc?oc=5",
+      "site": "AP News",
+      "siteUrl": "https://apnews.com"
     },
     {
       "id": "FL-e886c3e8c829",
@@ -63,16 +75,16 @@
       "siteUrl": "https://www.wlbt.com"
     },
     {
-      "id": "FL-2e8182d320d3",
+      "id": "FL-af7c030af58a",
       "date": "2026-11-04",
-      "dateISO": "Wed, 04 Nov 2026 15:29:41 GMT",
-      "ts": 1793806181000,
-      "scope": "intl",
+      "dateISO": "Wed, 04 Nov 2026 12:26:36 GMT",
+      "ts": 1793795196000,
+      "scope": "dom",
       "type": "blast",
-      "title": "Fire crews respond to Greenville chemical plant explosion - WJTV",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPclEwQk92c0JPVU5Zc1FwN1lOVGdKWDNqN0xNSkFpVndYR0NkQ3YxbS0xZGpBUEdXTGV0WWIxMGJWRVdHMDc0RWd5ZTFsMkRJLURtVUxqVG9rSk41VGUyOF8yZWN5MDdQZnJXeVNVVXdnM2l4S25mSUZpWlJYMTYwWjFUX1RmQUVxQXlPVnJVZ1pSSXNG?oc=5",
-      "site": "WJTV",
-      "siteUrl": "https://www.wjtv.com"
+      "title": "【视频】跌爆炸了买燃油车还是新能源？ - 汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhQXVGVVpUWERnREFlRjZfTnpRLU5GbGFKMWx0ZEE2VFVydG1sa3RUcTJPSno2LWZMazhIbHN6RHphY1VGa3I0MjRhYkp5WlgtbGhHYlg5ZEh3dTg?oc=5",
+      "site": "汽车之家",
+      "siteUrl": "https://chejiahao.autohome.com.cn"
     },
     {
       "id": "FL-4f17360bdf40",
@@ -135,18 +147,6 @@
       "siteUrl": "https://military.china.com"
     },
     {
-      "id": "FL-f0653e24ed85",
-      "date": "2026-11-04",
-      "dateISO": "Wed, 04 Nov 2026 01:18:02 GMT",
-      "ts": 1793755082000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "俄方：乌克兰试图效仿以色列“寻呼机爆炸”，向俄军输送藏有炸药的目镜俄联邦安全局揭露袭击企图 - 中华军事",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGMWlFcW9OVm12anBISXRTSUQxOWl6X0JUcXdSZlZtMkRabllUWThXQVkxMEg1eWQtb2ZSVVNYUzRpZGVGLWNXcWxhN0l6SDZTeU95dWxQWURDdTZFcUhkb0NnYW5rWlk4dThDMy1YNTY?oc=5",
-      "site": "中华军事",
-      "siteUrl": "https://military.china.com"
-    },
-    {
       "id": "FL-17952fbc7dba",
       "date": "2026-11-04",
       "dateISO": "Wed, 04 Nov 2026 00:21:35 GMT",
@@ -181,6 +181,18 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zVkRNQWNNMTdEZ19BZk1MYnZyRkM4cDRhWlVhRnBjQkdYLXpCOEJUc3ZTRE1KanotaUw1V1NYNmF0eHJMdEMweDI1c3k1eEJuc1ZXckVEWDNqT2tOWUVLTNIBZkFVX3lxTFB5dkh5ZFpLVnlVRW9tRWphWFVBb1VuZlN5OGYweV95VlBPOGVqX1hRSS1VY0ZRRTA0eUxIWUtPYTZUMVp0XzdQYXN6S3haRW9iUTk3SEpJaXFYT2VGWVlSNFUyWGYzdw?oc=5",
       "site": "大紀元",
       "siteUrl": "https://www.epochtimes.com"
+    },
+    {
+      "id": "FL-6b5d51f05fbd",
+      "date": "2026-11-03",
+      "dateISO": "Tue, 03 Nov 2026 12:47:43 GMT",
+      "ts": 1793710063000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "保加利亚：一飞机因怀疑有爆炸物降落在索非亚机场 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcTZRRVQwczhoR0hLRWJ5X1RxOWpPSjNOQ25LV2FRZmFHLWlaU0JwVzBpc3hqQXBncVhaNmVKUHdmS3RQOFRQbGVSejZvT2xHcGJzLXhLMmlWVlpJanJzQVhCdGlVU0VzU1lGTktKQzduV2c4eU1SamtlMEhpWHBEbG5XZXJlenc4?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-7d32851e1474",
@@ -219,40 +231,52 @@
       "siteUrl": "https://news.ifeng.com"
     },
     {
-      "id": "FL-2e57f49a993f",
-      "date": "2026-11-03",
-      "dateISO": "Tue, 03 Nov 2026 03:23:28 GMT",
-      "ts": 1793676208000,
+      "id": "FL-e71ca65fbac4",
+      "date": "2026-11-05",
+      "dateISO": "Thu, 05 Nov 2026 02:36:07 GMT",
+      "ts": 1793846167000,
       "scope": "dom",
       "type": "blast",
-      "title": "燃爆全场！军营健美比拼，淬炼钢铁体魄 - 中国新闻网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWjhabGFVRF9HZndVVS1NUHQ0U0hkRzlDSXhXX0RPOVk2Ymtwc3k5WGsySEowNzZIeF9Lck1Cbm1WNGMzM3habnFRS08yR3ZhVklRMnoxd1V2bzRvb0c2TG53NmJncTNqNTBFUGV5Q3c1d3NnU01ZNWFTZkJFZHd0Z1dKWQ?oc=5",
-      "site": "中国新闻网",
-      "siteUrl": "http://www.xj.chinanews.com.cn"
+      "title": "武汉大学生因室友电瓶燃爆全身90%烧伤案二审将开庭 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tb2JDamdYMm9vMXByRUhiQnF2UXdvWVptZ0ZTR1RQV0ZpXzI0SWxFNkxDUHkxa1JFZUEySkhvZ1NvTGY4WTNaNWdpU0RBR2pqWFpOcmk5VWhUeWp5Sk5ENEVaZHNidnBVSDZGU3BGM1A?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
     },
     {
-      "id": "FL-340d5e981918",
-      "date": "2026-08-23",
-      "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
-      "ts": 1787468400000,
+      "id": "FL-9ccd6638d743",
+      "date": "2026-11-05",
+      "dateISO": "Thu, 05 Nov 2026 02:04:30 GMT",
+      "ts": 1793844270000,
       "scope": "dom",
       "type": "blast",
-      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
+      "title": "水龙头净化器爆炸炸伤老人额头，东莞市场监管部门：厂家已提醒使用前需将滤芯覆膜撕开 - ThePaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JeG9QdmRuaXFTTUZnc2RITERnNFBuaVVYQ0tXQWduX1NfektYcXhEZTl3aUd5bWxnQmhhZEJ2NUtDN25WUlk2ZHFYQU9sSjljQUx4bG9zbG9uaGdybWxqdg?oc=5",
+      "site": "ThePaper.cn",
+      "siteUrl": "https://www.thepaper.cn"
     },
     {
-      "id": "FL-0615dd398028",
-      "date": "2026-08-02",
-      "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
-      "ts": 1785654000000,
+      "id": "FL-36c6de93dc3f",
+      "date": "2026-11-05",
+      "dateISO": "Thu, 05 Nov 2026 01:41:04 GMT",
+      "ts": 1793842864000,
       "scope": "intl",
       "type": "blast",
-      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
+      "title": "浓烟滚滚！美国密西西比州一化工厂发生爆炸 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSEtGM3lmWWlPWm0tM2lSVjhjTlI3MGFZMm1LZTJyNllNblpPRFVXMzZJdUVJR2w1WVZSOS15Ni0yMHZMT0h3M3hSejBOVGZVVkItYmFYWGl6UEpueDFKV1V2U1VZRGlFMkx2WXg3RjBmX3BuR191Z0I0bmRhQmFRanRkdHU1aWx1?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-2e8182d320d3",
+      "date": "2026-11-05",
+      "dateISO": "Thu, 05 Nov 2026 01:16:13 GMT",
+      "ts": 1793841373000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Fire crews respond to Greenville chemical plant explosion - WJTV",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd3lFczlRcUdFS3k5Ti1oOG9DMG9VT2RKMFpXT1h5RHJjX0xsOENJRnlhZzZJVkR0S05OeUxPV3d2UlQ4UW5TQ05kWjNobGJLbEczQTNaOEd4dVhTZ2cwRF9BNklPN2M5WGZpaWhWdDBkbFJCbnNGZndJYzBhczB3VkdRZlpXWDJGc3NWU1V0OV96SW9UUDhPdDJ3?oc=5",
+      "site": "WJTV",
+      "siteUrl": "https://www.wjtv.com"
     },
     {
       "id": "FL-5e735aebc1c3",
@@ -279,28 +303,16 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-0bc6fe1fc274",
+      "id": "FL-b4b74123346b",
       "date": "2026-11-02",
-      "dateISO": "Mon, 02 Nov 2026 07:22:53 GMT",
-      "ts": 1793604173000,
+      "dateISO": "Mon, 02 Nov 2026 11:37:13 GMT",
+      "ts": 1793619433000,
       "scope": "intl",
       "type": "blast",
-      "title": "哥伦比亚中西部发生爆炸袭击事件 致4人死亡 - 中国新闻网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fZTNtVWJOdk5lb3d1Y3k0cUtSVldsR1g0RHl0dk94aTZYLXB0QURjcV83dllYczFYNlItN2FxX1E2VHpISktlR0syQWdrYnRXQjBUbWE2SFdWQWpmaE5kdzIyTTV6SmVS?oc=5",
-      "site": "中国新闻网",
-      "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-8ceed963015a",
-      "date": "2026-11-02",
-      "dateISO": "Mon, 02 Nov 2026 02:20:54 GMT",
-      "ts": 1793586054000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "美国一架飞机从高空俯冲地面爆炸 机上9人全部遇难 - 中华军事",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54bWxuVXpNcHZSeC1seC1fdktZS2VfVFh2a3N2LTVrZG1sbkkxdjBQZjVvbXBodThLOHBZOEM5dzR2NWdvNG81enQ0MlZpWXZNVVctQ3dXYlNNUmNfTEdqYVRkRFQzT3U4OWpLcUtEaVk?oc=5",
-      "site": "中华军事",
-      "siteUrl": "https://military.china.com"
+      "title": "哥伦比亚中西部发生爆炸袭击事件 致4人死亡 - 南美侨报网",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNckVMR0pmTkd4RFR1dElNZHVfTDF4U3F2QkRuUGtHTTJ5aXlUVjNORlZNQXR0TlkxSEVxWkhWWi1rTURaMllWQzlGSTkxbEpZSGpzQjIxT1U5cEFrR3ZzSEVpSWFPTFRhYlJqYy1hNnUzdk8yRWl5ZG84eW5tdXpRU0tNMmFiaDZCcUE?oc=5",
+      "site": "南美侨报网",
+      "siteUrl": "https://www.br-cn.com"
     }
   ]
 }
