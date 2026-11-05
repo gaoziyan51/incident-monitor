@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T17:43:26.132Z",
+  "updated": "2026-11-05T22:53:27.340Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -75,18 +75,6 @@
       "siteUrl": "https://military.china.com"
     },
     {
-      "id": "FL-f0653e24ed85",
-      "date": "2026-11-04",
-      "dateISO": "Wed, 04 Nov 2026 01:18:02 GMT",
-      "ts": 1793755082000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "俄方：乌克兰试图效仿以色列“寻呼机爆炸”，向俄军输送藏有炸药的目镜俄联邦安全局揭露袭击企图 - 中华军事",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGMWlFcW9OVm12anBISXRTSUQxOWl6X0JUcXdSZlZtMkRabllUWThXQVkxMEg1eWQtb2ZSVVNYUzRpZGVGLWNXcWxhN0l6SDZTeU95dWxQWURDdTZFcUhkb0NnYW5rWlk4dThDMy1YNTY?oc=5",
-      "site": "中华军事",
-      "siteUrl": "https://military.china.com"
-    },
-    {
       "id": "FL-4f063b55008b",
       "date": "2026-11-03",
       "dateISO": "Tue, 03 Nov 2026 17:18:26 GMT",
@@ -111,40 +99,52 @@
       "siteUrl": "https://m.jrj.com.cn"
     },
     {
-      "id": "FL-2b68a721bcaa",
+      "id": "FL-2e57f49a993f",
+      "date": "2026-11-03",
+      "dateISO": "Tue, 03 Nov 2026 03:23:28 GMT",
+      "ts": 1793676208000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "燃爆全场！军营健美比拼，淬炼钢铁体魄 - 中国新闻网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWjhabGFVRF9HZndVVS1NUHQ0U0hkRzlDSXhXX0RPOVk2Ymtwc3k5WGsySEowNzZIeF9Lck1Cbm1WNGMzM3habnFRS08yR3ZhVklRMnoxd1V2bzRvb0c2TG53NmJncTNqNTBFUGV5Q3c1d3NnU01ZNWFTZkJFZHd0Z1dKWQ?oc=5",
+      "site": "中国新闻网",
+      "siteUrl": "http://www.xj.chinanews.com.cn"
+    },
+    {
+      "id": "FL-71df90833e1f",
       "date": "2026-11-05",
-      "dateISO": "Thu, 05 Nov 2026 17:28:37 GMT",
-      "ts": 1793899717000,
+      "dateISO": "Thu, 05 Nov 2026 20:51:54 GMT",
+      "ts": 1793911914000,
       "scope": "intl",
       "type": "blast",
-      "title": "Mississippi chemical plant explosion sends black smoke into air - FOX 10 Phoenix",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcThWemNibzg5aVJ4UDBpd0g1cXlwc3NJZGJyeGU3XzhEalJVd253Nkc1N0E3MHJKeGJSQW92WHp2Yk9vb253ckVlNFY1UkVmNnJ6VDh2Y09MOGFVU1NqVmRXRldsTmFJcUNVX0I3bHVVQUx6UERNblVRWGpSVXBGRGJJOTFCdmlZ?oc=5",
-      "site": "FOX 10 Phoenix",
-      "siteUrl": "https://www.fox10phoenix.com"
+      "title": "Blue Origin delays plan to resume New Glenn launches after Florida explosion - WESH",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbzRMS3VfRWNNTTg3Nlg4UGlFUWl4MndfV2xCWFJSVzRJSkRGYmJLUWQ5TFE5aGlEenZjUDY3TF83cUNiTG1VSVhQNWppS243S3VIdG5ER3E5cTl3czEwbFpxLUJyNWw2Y0loUFh1cEdoMTltVnB0MWpodGRUQm9hYUgybWVJR3M?oc=5",
+      "site": "WESH",
+      "siteUrl": "https://www.wesh.com"
     },
     {
-      "id": "FL-9275ac70b20b",
+      "id": "FL-e89ee58f6cdb",
       "date": "2026-11-05",
-      "dateISO": "Thu, 05 Nov 2026 13:57:12 GMT",
-      "ts": 1793887032000,
-      "scope": "dom",
+      "dateISO": "Thu, 05 Nov 2026 20:05:23 GMT",
+      "ts": 1793909123000,
+      "scope": "intl",
       "type": "blast",
-      "title": "中国怎么了？万斤海鲜被哄抢 武汉爆炸 上海骑手离奇落水（视频） - 人民报手机版",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMaVVnYkJ2S1cwTVNjX3pQdExWZVZtWUtVN2Q2M3JhRUFldEFTQTF0bnRqeWljR3BSeTl3c3kweks2REtfS0xhNjJSRzZKTGMtOEZ4blBfa2h0QnhDLUZqajQ0V0c0T2RGcHc?oc=5",
-      "site": "人民报手机版",
-      "siteUrl": "https://m.renminbao.com"
+      "title": "Reported explosions and fire temporarily close Valley Transfer Station in Spokane County - KXLY.com",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPU0pVSmpfaVZjVlNiZGRtWEw2TkhEQl9EQU9yazczS3FFQVhPNWFib1lWMDhJWkxRdmFQWlp5bjZLQ1NpOGw3d2I3Q3dEOG1iQVl3WEs5czNkNGNOZzF0bXVMa2V6RWVTN2U1cDFYcDBqb21rR1JLd3Z6ZUFmdmJKTWlyMEVzRm8xeVU5NXM2V051Ukd2YnVzY3VzOHpUdWxQRWVMR2F0ZDZmZjU4MWNBZ2VpNDBLS1ZBMkxCT0d2N1NBdmU3TjdJM0N4SnRFRXFuS25iN0VnTG41RGNVanBCbDFZdllLTmpBUHJMb2JUUHJpVXhPTTVj?oc=5",
+      "site": "KXLY.com",
+      "siteUrl": "https://www.kxly.com"
     },
     {
-      "id": "FL-e90f6b3aa67d",
+      "id": "FL-53be16e7e861",
       "date": "2026-11-05",
-      "dateISO": "Thu, 05 Nov 2026 13:45:01 GMT",
-      "ts": 1793886301000,
-      "scope": "dom",
+      "dateISO": "Thu, 05 Nov 2026 19:45:00 GMT",
+      "ts": 1793907900000,
+      "scope": "intl",
       "type": "blast",
-      "title": "没用也没碰，衣柜里的它突然爆炸起火，女子救火被烧伤！很多人都有这个物品→ - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSEdGVTVsYmdKZTcyUVhjdUNfTlcxeDNFLXdUajluTEZ2eW9adGQ5U0p0bHM1d0p4SXpHaE1vYktDb3RVeHI5NDRad0o2MFJHX3NpeVFIQ28yRjdUZ0phZksxZWFEM0d4ck1mVVZncFUxcVFBa2w5b3loYkZINkoxTjBzbGVQSGhY?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
+      "title": "EMA shares update on Greenville, Mississippi, chemical plant explosion - localmemphis.com",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbzh4YXl6RVNLLWp6Qk5XNi1ZS1VVeXNfdktJbUJHdVB2elZKd3J1ajYtMUNibTlESG1sMWxrdGpBMGZnMmRCVXp0Yl9ZWE9DOTU1WWpYaE55VjVTMkJMLXVBTThsSGlQV2R3emQxNGtKLVFqY2ZITmtRdFlERWc4VGVFZmF0U2ppOXBwUm0wN2E1WUNzc2FfX19ybUluMHoxM0FXNWxyYU1KODRVOGo3aXRFY19tYk1ncmN5MlhxUTVJSGFPRm1hU3ZmYUY1N0x5QW1wS2xNN05VbUM5bTk3ejNPYXZFZGczNE9KZmRSRk95ZjllMjM3NzFFVEpvZw?oc=5",
+      "site": "localmemphis.com",
+      "siteUrl": "https://www.localmemphis.com"
     },
     {
       "id": "FL-2b33dd621f70",
@@ -207,6 +207,18 @@
       "siteUrl": "https://www.eet-china.com"
     },
     {
+      "id": "FL-c132dd0949e4",
+      "date": "2026-11-05",
+      "dateISO": "Thu, 05 Nov 2026 10:41:00 GMT",
+      "ts": 1793875260000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "德国联邦网络局：Nord Stream管道爆炸对天然气供应影响有限 - Mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX1NXclY2cVRNR0djcndwVHBCNFhOYTNDUGE5SUZfLXJRVmNBbDc1dU9UV29ORmtIeGRpME8zYVNXaklrRElZWHR0d2N0cjYtR1lfeGRqeTVSRTBrTzFTSDNTQ3JTYllzc0M5TzluV1NnQlFqT19EdGxZNE1pUzFRMkIxcExrU3VpMTJQcVRLUV9Lb0xzUW0zT09kaw?oc=5",
+      "site": "Mezha.net",
+      "siteUrl": "https://mezha.net"
+    },
+    {
       "id": "FL-83f14eb5e7c9",
       "date": "2026-11-05",
       "dateISO": "Thu, 05 Nov 2026 07:58:04 GMT",
@@ -217,18 +229,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBBYWd6bm1SNTM1R0hLNXRGTFlIcGFhbllyLVgxa0oxVE41dTBaRmtUUTVTVU9TM3otdTc3eFRaM1BHbTNFcS1UaUhmenAydXZqU21UbDhoc1FkU3Z1U3J2VHlFV2M2SVctSk8xWkJUZ0lEQQ?oc=5",
       "site": "手机新浪网",
       "siteUrl": "https://k.sina.com.cn"
-    },
-    {
-      "id": "FL-d2823b9bd448",
-      "date": "2026-11-05",
-      "dateISO": "Thu, 05 Nov 2026 07:54:39 GMT",
-      "ts": 1793865279000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "NASA抓拍地球夜景 基辅遭袭爆炸太空可见 - 中新经纬",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXN0VuS1dsRFhrdXFWMldFa3pFMEFtZXZNYkppb09ObFZTa21WNzE3R0lSTkpORjdkNmEyUk9fTlNZb0RVbTk5WXVNaFU3Y1ByOEFiTUVjQWtEY0h3dWVDQWRQWU8?oc=5",
-      "site": "中新经纬",
-      "siteUrl": "https://www.jwview.com"
     },
     {
       "id": "FL-a0654dede655",
@@ -313,18 +313,6 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jQlk4eFFpMV8tQ0treUZjLTlyRmZXRFViM09lUThhUy1xaGlNVlo3VlpMaklDWkV3MlJOSEZQLWxtTUVyM3VGbFNYbllvN3JRb0MwZlgxS19uQ1FXZklEUkdWNUxYcWJtT2RtNm9R?oc=5",
       "site": "生物通",
       "siteUrl": "https://www.ebiotrade.com"
-    },
-    {
-      "id": "FL-340d5e981918",
-      "date": "2026-08-23",
-      "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
-      "ts": 1787468400000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-0615dd398028",
