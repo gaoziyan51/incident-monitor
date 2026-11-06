@@ -1,19 +1,7 @@
 {
-  "updated": "2026-11-06T17:24:19.379Z",
+  "updated": "2026-11-06T22:12:11.352Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-b33d3b12e905",
-      "date": "2026-11-04",
-      "dateISO": "Wed, 04 Nov 2026 22:46:00 GMT",
-      "ts": 1793832360000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "美国密西西比州一化工厂发生爆炸 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Xb01CdDRybmxUanI5U2lLaUlUWm9iTVZLY2pweDVMRVhsWGJPQTEyaHRKWDZDQmhuZzJBd0F0NWV0SkFwRXdSTEduOWMzZDI0Tk1DU0hqQ2Q5RFhkb1FXYU9BMTNZeXdLd0liT3AxN0JZdw?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://xinwen.bjd.com.cn"
-    },
     {
       "id": "FL-11b7bac3d270",
       "date": "2026-11-04",
@@ -25,6 +13,18 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FSGdzd0NobzlfaFZ3WFFROW9RUzJOS1FwM2F6Z2c3REdzdUd6WGRmaUhCaWFZc3JZc09FeTNjRS1qSWotekxhNlVldWFHVGRJdkJnb05lWjNJOTV0aE9HdFBNS0hKUk8y?oc=5",
       "site": "中国新闻网",
       "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
+      "id": "FL-1a68644cb46c",
+      "date": "2026-11-04",
+      "dateISO": "Wed, 04 Nov 2026 03:19:00 GMT",
+      "ts": 1793762340000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "Daily Maverick： 台湾松下工厂爆炸后两人失踪 - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYTVxanVNazVMYkFyYmg1XzJrNlZvVHdzbU9tbnVuYlhYRklLcUp4ZnBsc0JWd01ILVNITTRyNjNsMkVZNjN4QlhTZFBreWlhYlNxWkRTYUdNckFYNm1rYUI1ZS1qMVNBS0xTRWE2c1d2Y0JXeUt0NVNtS2JVRVJUUzliQ1BCWlYzWW9sVXM4TlhQV1Z1QU13VXpTd0dKN2VIdUFLNG9RcUd6T3JhRC1Ed1Itaw?oc=5",
+      "site": "UA.NEWS",
+      "siteUrl": "https://ua.news"
     },
     {
       "id": "FL-4f063b55008b",
@@ -51,6 +51,18 @@
       "siteUrl": "https://m.jrj.com.cn"
     },
     {
+      "id": "FL-291b6aed98e8",
+      "date": "2026-11-05",
+      "dateISO": "Thu, 05 Nov 2026 20:24:18 GMT",
+      "ts": 1793910258000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "动手！伊朗岛屿爆炸，穆杰塔巴放权：2410万人登记“为国捐躯” - 风闻",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xT3RyMms2UEE0VDdEdWFDVlptYVJYaFBDU1dlRDI1YUgyRFhOYy16TWtGVjV6Zk9VRmo5TVlmbjVsaUhLZ3Y3OXRmMTVoT1gyZ0l6bklNMWcxU00?oc=5",
+      "site": "风闻",
+      "siteUrl": "https://user.guancha.cn"
+    },
+    {
       "id": "FL-2b33dd621f70",
       "date": "2026-11-05",
       "dateISO": "Thu, 05 Nov 2026 13:26:45 GMT",
@@ -63,16 +75,16 @@
       "siteUrl": "https://www.sinchew.com.my"
     },
     {
-      "id": "FL-73dd05448cba",
+      "id": "FL-7d4afcb3154a",
       "date": "2026-11-05",
-      "dateISO": "Thu, 05 Nov 2026 11:51:50 GMT",
-      "ts": 1793879510000,
+      "dateISO": "Thu, 05 Nov 2026 12:05:00 GMT",
+      "ts": 1793880300000,
       "scope": "dom",
       "type": "blast",
-      "title": "【视频】看别人拆胎忘充气，卡车轮胎瞬间爆炸 - 汽车之家",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54VTFOcXZMbnFaWDNOaUtkNjZ6bVZnZGE0VGNOeGstTzZWSXdUTTR4Zjh5NGJPNGhYcTI2VWdNb1doT2xBMDY1TmpUNXloQkszMkZ3RmpwR01ib1U?oc=5",
-      "site": "汽车之家",
-      "siteUrl": "https://chejiahao.autohome.com.cn"
+      "title": "台灣松下湖口爆炸2人失聯 重機具開挖尋獲1遺體 - 大紀元",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUUXVKMW5DN3ZMb25LbGMycGVMaVU1dEtkZ3FWTXRFaWFjd1VpaUFQaFQwSkh5a0RkeDhBUnNKclNhM01xNThBcC1IVEhqUGhwY2M3cTdwN0RwU2twWWJCddIBZkFVX3lxTFBGclNZYTBfTmZEVE9ZVlJGOHpfV2ZDa1ZVbXp3eF9IY0hfeGl5WllRSmdKV0Fld3Fsek9DbTNYRC11QWNpaEMxVm5VTjB3Qjd0SEZQUXZOTk1icVV5M2x4QzZlRUx4QQ?oc=5",
+      "site": "大紀元",
+      "siteUrl": "https://www.epochtimes.com"
     },
     {
       "id": "FL-01f90addc5c6",
@@ -159,6 +171,66 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-b0303fb34448",
+      "date": "2026-11-06",
+      "dateISO": "Fri, 06 Nov 2026 22:05:07 GMT",
+      "ts": 1794002707000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "伊朗南部格什姆岛传出爆炸声 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwSUVsUzlNblBibE40VTVNdkxrMU5fcEVxWUYyMEo3NDRob1RWS2lKRVZ1cjhZSGRmdHd0aGtNd0lFUnVMdVZJbGd4dw?oc=5",
+      "site": "新浪网",
+      "siteUrl": "https://wap.cj.sina.cn"
+    },
+    {
+      "id": "FL-0b68310dae00",
+      "date": "2026-11-06",
+      "dateISO": "Fri, 06 Nov 2026 21:45:43 GMT",
+      "ts": 1794001543000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "王鹤棣紫色爆炸头半遮面，头发快盖住脸还看得见路吗 - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wMkp6UTVxd005cmw3amJtV1JwM0N1RkhPeG5lbnctSGZ3U2VkS3lIS3o4ZHV0T0JVSzQ1cTQyc1FWa1FJaUNnY1VZdEJMN25WX2VNWlpQSGlWVTFUR05EVnU5NVV3QXhIbno3aVJvUS15dw?oc=5",
+      "site": "手机新浪网",
+      "siteUrl": "https://k.sina.com.cn"
+    },
+    {
+      "id": "FL-50746fa1b435",
+      "date": "2026-11-06",
+      "dateISO": "Fri, 06 Nov 2026 21:05:03 GMT",
+      "ts": 1793999103000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "乌克兰基辅市内传出连续爆炸声 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9saUN3T3ZVdWplN2RqRFF1T0FYWUZFcG1BSHFIN3ZITkdscUFVVHpjeHZMemhaWDVhR2Q0blhZYTRFcXE0alBGS29qbw?oc=5",
+      "site": "新浪网",
+      "siteUrl": "https://wap.cj.sina.cn"
+    },
+    {
+      "id": "FL-5b9b2ecbde7c",
+      "date": "2026-11-06",
+      "dateISO": "Fri, 06 Nov 2026 20:41:44 GMT",
+      "ts": 1793997704000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Man critically injured in fireworks explosion at home in City of Industry, deputies say - ABC7 Los Angeles",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQajc2Z1NTUWlYaEFyWlBXWmVocktZRHU4c2hqZUgtZmt6RkpYTU9jRUFUbURJa1FraTNpdEVWUGJOUGVIM2ktQjJ0cFFSMFZvTENscTJpX0JhUGJ2MUtaU2pJMHFXYWJhamQ5VTJISk9NMDVLVGtkY0RUcGpXYWN1V1dfejI3cnhVa3JUcUpHSmhJNDM4bXRUMzN4RGIwLUFIYk1yX2Z0LTlJeTFIX3dCNzRHWkFWcHVxb3I1OXlDUklrMk5R?oc=5",
+      "site": "ABC7 Los Angeles",
+      "siteUrl": "https://abc7.com"
+    },
+    {
+      "id": "FL-1ad5e7682cfa",
+      "date": "2026-11-06",
+      "dateISO": "Fri, 06 Nov 2026 17:28:03 GMT",
+      "ts": 1793986083000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "又一荷兰客机遭炸弹威胁 未发现爆炸物 - 旅日侨网",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdHI5bnFORGNYV0ZEOVh1TGpEdHF5dG9hc205TndIaDRqV1BJWmp2WXlyM2lfdE1XbEtxQUNGMDJUNFRmMXRKNDFKeHFvNjVmVEVVTXRXYWExdFBqay1RWmR4WHJQQUVwc1BldHItOW1MY3FZNjJORUFldWQ4N2tQSDNFTTN6ZldoT2c?oc=5",
+      "site": "旅日侨网",
+      "siteUrl": "https://www.jpchinapress.com"
+    },
+    {
       "id": "FL-a57cc8c03026",
       "date": "2026-11-06",
       "dateISO": "Fri, 06 Nov 2026 14:50:47 GMT",
@@ -183,18 +255,6 @@
       "siteUrl": "https://www.guandian.cn"
     },
     {
-      "id": "FL-da628151198d",
-      "date": "2026-11-06",
-      "dateISO": "Fri, 06 Nov 2026 14:23:00 GMT",
-      "ts": 1793974980000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "No injuries reported after early morning fire, explosion at Bangor home - WABI",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc281aWF2X3VLa3RZYk13MFh1a0h5bDdjYTJfdFpCYzFONFRLeDEzT1Z0eTNQRlJzMWVnbU8wZ2lFVldMSHBTcmw3b21tZlkwamhlZHNGTjhheTIzRjlTUFVRZi1oU1VrY3VyOU5QSTRqUVN6cUl0UGpGNFp3WTZTd3ZFYURwSDFmRUpSaVVmRHVqWjFicE94aW5teF81WUUw0gG0AUFVX3lxTE56U1BJZ2hWQ3lXZTlxcTRnUVRGMDNJYXVFakNSR09Icm82UHNyVDlEMldCRlpnX3BIb0hBNnBjdFVVXzMwMXBaZjl4dFRQb3VFQ1dNTG1RT1BxLTU4enQwV0YxbmZUWTJQV01lbTFscEJzb2swVXBkU081U0RxRkJMbUVxVHc4bGpueU1IbklpeGFLLWlaNHNtdXdYcHJwak0wVHhzNjh0NThDYmxTbWNkN3BPQQ?oc=5",
-      "site": "WABI",
-      "siteUrl": "https://www.wabi.tv"
-    },
-    {
       "id": "FL-9274b6fe9a5a",
       "date": "2026-11-06",
       "dateISO": "Fri, 06 Nov 2026 13:25:03 GMT",
@@ -205,18 +265,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pME9RaS15ZVhhTXBNQzZvcGo4LVhBMDRUcldNSWlVVklUVjdlX1BCNThRMG53TFM5eW9FZWhLTUJpd2hoVWtSQWdveC0?oc=5",
       "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com"
-    },
-    {
-      "id": "FL-291b6aed98e8",
-      "date": "2026-11-06",
-      "dateISO": "Fri, 06 Nov 2026 12:24:18 GMT",
-      "ts": 1793967858000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "动手！伊朗岛屿爆炸，穆杰塔巴放权：2410万人登记“为国捐躯” - 风闻",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xT3RyMms2UEE0VDdEdWFDVlptYVJYaFBDU1dlRDI1YUgyRFhOYy16TWtGVjV6Zk9VRmo5TVlmbjVsaUhLZ3Y3OXRmMTVoT1gyZ0l6bklNMWcxU00?oc=5",
-      "site": "风闻",
-      "siteUrl": "https://user.guancha.cn"
     },
     {
       "id": "FL-8952217ee523",
