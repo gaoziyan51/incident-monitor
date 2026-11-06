@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T10:00:46.296Z",
+  "updated": "2026-11-06T17:24:19.379Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,18 +15,6 @@
       "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
-      "id": "FL-4f17360bdf40",
-      "date": "2026-11-04",
-      "dateISO": "Wed, 04 Nov 2026 07:25:05 GMT",
-      "ts": 1793777105000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "台湾新竹一材料工厂发生爆炸，造成5人受伤、2人失联 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XeEZFRExZZU82ZkdsUGgxYjNqcG14MEVJMnBxOXlGV0llTWJIOTZoZXJJNHE0MGdzdEozWG1rbTNHZHBMU2FITm5kVXpFVDdHbXpKYUNQRDBZWXdYa3c?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://news.bjd.com.cn"
-    },
-    {
       "id": "FL-11b7bac3d270",
       "date": "2026-11-04",
       "dateISO": "Wed, 04 Nov 2026 05:07:57 GMT",
@@ -37,54 +25,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FSGdzd0NobzlfaFZ3WFFROW9RUzJOS1FwM2F6Z2c3REdzdUd6WGRmaUhCaWFZc3JZc09FeTNjRS1qSWotekxhNlVldWFHVGRJdkJnb05lWjNJOTV0aE9HdFBNS0hKUk8y?oc=5",
       "site": "中国新闻网",
       "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-1a68644cb46c",
-      "date": "2026-11-04",
-      "dateISO": "Wed, 04 Nov 2026 03:19:00 GMT",
-      "ts": 1793762340000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "Daily Maverick： 台湾松下工厂爆炸后两人失踪 - UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYTVxanVNazVMYkFyYmg1XzJrNlZvVHdzbU9tbnVuYlhYRklLcUp4ZnBsc0JWd01ILVNITTRyNjNsMkVZNjN4QlhTZFBreWlhYlNxWkRTYUdNckFYNm1rYUI1ZS1qMVNBS0xTRWE2c1d2Y0JXeUt0NVNtS2JVRVJUUzliQ1BCWlYzWW9sVXM4TlhQV1Z1QU13VXpTd0dKN2VIdUFLNG9RcUd6T3JhRC1Ed1Itaw?oc=5",
-      "site": "UA.NEWS",
-      "siteUrl": "https://ua.news"
-    },
-    {
-      "id": "FL-857d26fdfad0",
-      "date": "2026-11-04",
-      "dateISO": "Wed, 04 Nov 2026 02:27:54 GMT",
-      "ts": 1793759274000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "欧洲至少7架客机遭炸弹威胁，均无爆炸物 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wQm1OTDNHdXZ4dmxQblNUMG5rV1dZcmNXS083RzNGQ3V2TGpUeVdjWGNmM1AtdWpiZFBrcmx2bmRlNjNSNlRGTVZvaG5wMjFqUmc?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://original.ifeng.com"
-    },
-    {
-      "id": "FL-df6c392b5c1e",
-      "date": "2026-11-04",
-      "dateISO": "Wed, 04 Nov 2026 01:36:55 GMT",
-      "ts": 1793756215000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "俄方：乌克兰试图效仿以色列 无人机目镜藏爆炸装置 - 中华军事",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wUWlDTS16a0pGM2l4ai1lZ1o5dTBha3NIQl9RMkluczZySHF6cnFTOUlhNW8wV2J2N2RmZFZhWDRlZFU4X2lFT2RFTnhVcWJoZ2VCUm13ZGRhNnFVS256SWw5ZEVtT1RfUEt1cG1vSU8?oc=5",
-      "site": "中华军事",
-      "siteUrl": "https://military.china.com"
-    },
-    {
-      "id": "FL-f0653e24ed85",
-      "date": "2026-11-04",
-      "dateISO": "Wed, 04 Nov 2026 01:18:02 GMT",
-      "ts": 1793755082000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "俄方：乌克兰试图效仿以色列“寻呼机爆炸”，向俄军输送藏有炸药的目镜俄联邦安全局揭露袭击企图 - 中华军事",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGMWlFcW9OVm12anBISXRTSUQxOWl6X0JUcXdSZlZtMkRabllUWThXQVkxMEg1eWQtb2ZSVVNYUzRpZGVGLWNXcWxhN0l6SDZTeU95dWxQWURDdTZFcUhkb0NnYW5rWlk4dThDMy1YNTY?oc=5",
-      "site": "中华军事",
-      "siteUrl": "https://military.china.com"
     },
     {
       "id": "FL-4f063b55008b",
@@ -99,28 +39,16 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-fbccd5aac20f",
-      "date": "2026-11-05",
-      "dateISO": "Thu, 05 Nov 2026 23:49:00 GMT",
-      "ts": 1793922540000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "黎巴嫩法官下令拘押两名真主党成员，涉爆炸物案件——Asharq Al-Awsat - UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTkEwQWYwUW1fQ3RlZVpfaUZXdDlDNVZCQ3hBZ2k4WUdVR1VWcHh1SWZsdk1qd3hSRE5qRGo2ZF9faGlxU1BBeEFZWHdlMmoyaWRVNGY0TEZLejNNbFlLSElDS2hhR1pFcHRReWR6SkZyNHZLd180dmxtSV9zQmp5QUoxLTlGUzF0TVRTYjA3UGFFUWl4NnZ2ZGRwNzBNMzAyMnBudV9ZdVVBaVFqU0FTRUZNQVd4dU5uWUJObDYwWm53Z2R0Ry16SkFaeTZDU0ZOV0VINVg4SQ?oc=5",
-      "site": "UA.NEWS",
-      "siteUrl": "https://ua.news"
-    },
-    {
-      "id": "FL-c848b26f661e",
-      "date": "2026-11-05",
-      "dateISO": "Thu, 05 Nov 2026 23:40:04 GMT",
-      "ts": 1793922004000,
+      "id": "FL-e1ad1af3d552",
+      "date": "2026-11-03",
+      "dateISO": "Tue, 03 Nov 2026 11:57:11 GMT",
+      "ts": 1793707031000,
       "scope": "dom",
       "type": "blast",
-      "title": "香到爆炸~😻野球场4v4？加一队 不太会打！ - 直播吧",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBvYjBKQ1Z6TzBDXzJhVVFQTW1odWpmRTZIY3lEYXZKTXhnRWdSRGNDWXp2d2hCSEYyNWZ3MkxBUGp1UkticmJyYmlPWGF1Mkl4VVFsN2UybF9hVnR1UVN3aHV3?oc=5",
-      "site": "直播吧",
-      "siteUrl": "https://m.zhibo8.cc"
+      "title": "致使82人遇难，留神峪煤矿瓦斯爆炸事故事发5个多月后，山西全力推动煤炭有序复产、增产保供，焦煤期货将走向何方？ - 金融界",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfYVNNeVNyRWhQZGtWN3daOXIxZXlFdm1GU1RfdERkZjFsU2NzOEFfSl9jTUdVX2xncjhJSEpubkhkcGtiZFoxSTRrZGhwSTFCcDR3SmhrUnZiQ250cllpdW02ZUhzamtQT05nZGp6OGpXZw?oc=5",
+      "site": "金融界",
+      "siteUrl": "https://m.jrj.com.cn"
     },
     {
       "id": "FL-2b33dd621f70",
@@ -145,18 +73,6 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54VTFOcXZMbnFaWDNOaUtkNjZ6bVZnZGE0VGNOeGstTzZWSXdUTTR4Zjh5NGJPNGhYcTI2VWdNb1doT2xBMDY1TmpUNXloQkszMkZ3RmpwR01ib1U?oc=5",
       "site": "汽车之家",
       "siteUrl": "https://chejiahao.autohome.com.cn"
-    },
-    {
-      "id": "FL-d605866a73cc",
-      "date": "2026-11-05",
-      "dateISO": "Thu, 05 Nov 2026 11:33:41 GMT",
-      "ts": 1793878421000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "三架飞往保加利亚的航班遭炸弹威胁 未发现爆炸物 - 中华军事",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sVzVmeXF6SFEtNW11SDk1MjZLa1R4ekNhVTZEdlVLSDZxcDk0ZGU5T1RkazVXUUh4T2FSa3JneFRsUTBMUTFDd21aV1FBOE9Ub1VJUDNzb0plM2laUkx4eHQ5aGZBRGdxcHppeTdhbWo?oc=5",
-      "site": "中华军事",
-      "siteUrl": "https://military.china.com"
     },
     {
       "id": "FL-01f90addc5c6",
@@ -193,30 +109,6 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sZkFUaDFITlFUYWlwYzQzMmZHUTB3YkFKZFUwbENDcHpmWEhPSUNkTTlpYjBxYWVoSXhTQy1OLV9BT2RVcXFTV2wwcEctcjhGeHBv?oc=5",
       "site": "华尔街见闻",
       "siteUrl": "https://wallstreetcn.com"
-    },
-    {
-      "id": "FL-588b173c0ddb",
-      "date": "2026-11-05",
-      "dateISO": "Thu, 05 Nov 2026 06:46:00 GMT",
-      "ts": 1793861160000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "NASA抓拍地球夜景 基辅遭袭爆炸太空可见 - 中国新闻网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9nUFFMWGl2alpBTlU1Z2JKU25ydGtnZ29Fd2VBQm5iNW9DbnN2MWU2MEVZcjNweEoydVBjdDlUTmNYUlo3d1NFem9KZ0RQUlpXNVRveGo5NTBXODNoRUNzLU9sdFhteDctZ1NPQU9EVnJVUERabVE?oc=5",
-      "site": "中国新闻网",
-      "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-e71ca65fbac4",
-      "date": "2026-11-05",
-      "dateISO": "Thu, 05 Nov 2026 02:36:07 GMT",
-      "ts": 1793846167000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "武汉大学生因室友电瓶燃爆全身90%烧伤案二审将开庭 - 中华网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tb2JDamdYMm9vMXByRUhiQnF2UXdvWVptZ0ZTR1RQV0ZpXzI0SWxFNkxDUHkxa1JFZUEySkhvZ1NvTGY4WTNaNWdpU0RBR2pqWFpOcmk5VWhUeWp5Sk5ENEVaZHNidnBVSDZGU3BGM1A?oc=5",
-      "site": "中华网",
-      "siteUrl": "https://news.china.com"
     },
     {
       "id": "FL-340d5e981918",
@@ -267,6 +159,78 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-a57cc8c03026",
+      "date": "2026-11-06",
+      "dateISO": "Fri, 06 Nov 2026 14:50:47 GMT",
+      "ts": 1793976647000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "一艘油轮在霍尔木兹海峡附近发生爆炸 - 国际在线",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTdm1oNlY5dDJqeWRjemV2amNvNGNoV0FpLXJOcFpKNWpueWwzanRvZC1zWVhpRFFDclBrRkhjdmJsMjNLd0dnckdKS2l0U1Qtb0RpekNCTlptUkZjYXgwaUJ2TllnZHpsSENTbldrUU9jZEdDZnZ2andR?oc=5",
+      "site": "国际在线",
+      "siteUrl": "https://news.cri.cn"
+    },
+    {
+      "id": "FL-6f361c781f38",
+      "date": "2026-11-06",
+      "dateISO": "Fri, 06 Nov 2026 14:29:56 GMT",
+      "ts": 1793975396000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "重庆公布万州高速隧道瓦斯爆炸事故调查报告 致5死10伤 - 观点网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZXzhNcHNfa013OXo0Yjc0TzFZdzFXLVVORTNsNUE3U0dxWEl5QmxzMTBMOXNrZnBIVktMOW9zS2d5Zy1HamZQdVBRdGllU3FxNUpNVzVWZzBjNGxGVEE5VW1B?oc=5",
+      "site": "观点网",
+      "siteUrl": "https://www.guandian.cn"
+    },
+    {
+      "id": "FL-da628151198d",
+      "date": "2026-11-06",
+      "dateISO": "Fri, 06 Nov 2026 14:23:00 GMT",
+      "ts": 1793974980000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "No injuries reported after early morning fire, explosion at Bangor home - WABI",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc281aWF2X3VLa3RZYk13MFh1a0h5bDdjYTJfdFpCYzFONFRLeDEzT1Z0eTNQRlJzMWVnbU8wZ2lFVldMSHBTcmw3b21tZlkwamhlZHNGTjhheTIzRjlTUFVRZi1oU1VrY3VyOU5QSTRqUVN6cUl0UGpGNFp3WTZTd3ZFYURwSDFmRUpSaVVmRHVqWjFicE94aW5teF81WUUw0gG0AUFVX3lxTE56U1BJZ2hWQ3lXZTlxcTRnUVRGMDNJYXVFakNSR09Icm82UHNyVDlEMldCRlpnX3BIb0hBNnBjdFVVXzMwMXBaZjl4dFRQb3VFQ1dNTG1RT1BxLTU4enQwV0YxbmZUWTJQV01lbTFscEJzb2swVXBkU081U0RxRkJMbUVxVHc4bGpueU1IbklpeGFLLWlaNHNtdXdYcHJwak0wVHhzNjh0NThDYmxTbWNkN3BPQQ?oc=5",
+      "site": "WABI",
+      "siteUrl": "https://www.wabi.tv"
+    },
+    {
+      "id": "FL-9274b6fe9a5a",
+      "date": "2026-11-06",
+      "dateISO": "Fri, 06 Nov 2026 13:25:03 GMT",
+      "ts": 1793971503000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "重庆隧道爆炸致5死10伤，调查报告：施工单位冒险组织复工 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pME9RaS15ZVhhTXBNQzZvcGo4LVhBMDRUcldNSWlVVklUVjdlX1BCNThRMG53TFM5eW9FZWhLTUJpd2hoVWtSQWdveC0?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://news.ifeng.com"
+    },
+    {
+      "id": "FL-291b6aed98e8",
+      "date": "2026-11-06",
+      "dateISO": "Fri, 06 Nov 2026 12:24:18 GMT",
+      "ts": 1793967858000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "动手！伊朗岛屿爆炸，穆杰塔巴放权：2410万人登记“为国捐躯” - 风闻",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xT3RyMms2UEE0VDdEdWFDVlptYVJYaFBDU1dlRDI1YUgyRFhOYy16TWtGVjV6Zk9VRmo5TVlmbjVsaUhLZ3Y3OXRmMTVoT1gyZ0l6bklNMWcxU00?oc=5",
+      "site": "风闻",
+      "siteUrl": "https://user.guancha.cn"
+    },
+    {
+      "id": "FL-8952217ee523",
+      "date": "2026-11-06",
+      "dateISO": "Fri, 06 Nov 2026 06:58:00 GMT",
+      "ts": 1793948280000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "太子热水炉疑爆炸｜煤气公司：外墙渗水入炉身 零部件接驳位氧化 - 香港01",
+      "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxQTmRWU1g3eHFmRTZZX3hkYzNPNmx4WHdzMWpjX29nX1lJYUpxQlMwalNteW5La0g5OWQ1ekhRR19FT2g3eDZsSHowSEhZOXc3OUpoT01wT2c1d2pGZkZWRnA4MlZMVlZFbXc5aUNqT2ZDb0R6d1lTUjNTX2wxdTJraHNCYWNKbE5YckVUNzVRYVJpZVVRLWNXYnhYNUNzNzBUTkdPZ1Fid1lTMUtTVHgwSVNCY1NVSDgtZlVabF93MzJqdjZLajhpWFA1WFBvbnpOXzNSYWVFdVh3bFFvdnBQU0NPYUh3b1c3TFlMUnBCWlkwdDF0aXN4dkxYVThNQ1FRTlpURkhTWTZVc2tUUXhQQ1YzLVhfSzkyc2I2SmJCU3BkbGVPS3BVUGNYT2JGS3Uwb0VHTjFCVlM2aGc2a1Y3XzFPVXVEV3hnOF8ta2NfbDFIbGloNkpNUW4wMzNoMXlQRXBGbVVUMmQwWFBvak9hc21NSmhNNFE3WWFINWJCdjFrZkhyazZGLThGdVdHYW05YWpLeG15b2hZeUdwREZnYmVmTlYxRWNrZUE?oc=5",
+      "site": "香港01",
+      "siteUrl": "https://global.hk01.com"
+    },
+    {
       "id": "FL-04f0242b76bf",
       "date": "2026-11-06",
       "dateISO": "Fri, 06 Nov 2026 06:25:30 GMT",
@@ -277,18 +241,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzNHB3ZFhhdGY2dUhaM25mbFpfdGx4SnA3bzJ3VUxxYVpVblRYRzZPcHA2UDA1VHhBMVZVaDFfWnVodlVWMEtHTVZvNzRqSnNjWURubk9qZmxGNkZGR1dKSw?oc=5",
       "site": "ThePaper.cn",
       "siteUrl": "https://www.thepaper.cn"
-    },
-    {
-      "id": "FL-3db271d76050",
-      "date": "2026-11-06",
-      "dateISO": "Fri, 06 Nov 2026 06:25:00 GMT",
-      "ts": 1793946300000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "偏航坠毁！俄军巡飞弹制导失灵 一头扎进田野中爆炸 - 中国新闻网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1cUlkUzlYdnJfN0Z5VDNfNUs5VHNnZG1xT3oyenRRbmRyNGpUc2FPVVFCYWdBWUJjcjRtNjQyZE5DYnlxWVl4MkVHV0JXMzl3UGg5RmNyY255cVYyRWJUZ1lpZU54VWI0aTgyTnFTbHdnbEZoMkE?oc=5",
-      "site": "中国新闻网",
-      "siteUrl": "https://www.chinanews.com.cn"
     },
     {
       "id": "FL-2de43b65f52f",
@@ -303,18 +255,6 @@
       "siteUrl": "https://chejiahao.autohome.com.cn"
     },
     {
-      "id": "FL-b59e22e4081e",
-      "date": "2026-11-06",
-      "dateISO": "Fri, 06 Nov 2026 04:27:00 GMT",
-      "ts": 1793939220000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Fire crews find blown-out windows, structural damage at DeKalb hotel after reported explosion - 11Alive.com",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPU3gtZGUtWnhPdVNwbzhOSFM3SUpWNjA3VXZFWHlDM1JFa0xQMWRQR0JKdldvWkwwUkIxYUsxbllwa0xEdkNHVFd4RHNQaDNwNHUyX1hPYmdsdzRrTzhqYS1GSG56Vk5tY3Brcm82c1NHZE9jQkJEY2YtUTlfcXlmbnhzQkpkVG1BNk1YQ0dNRTczampsZDNtQnNtZTFCN3RMUnFMd0pDTXo5X3ZVOWJIdG9wQTBXZ1lXWUZ2M1hYWXUxY2hMVFpzTTJtSzRuMHFFRHk1SG8zRjV5UHlCSC1lVFI1b1JnWlpSdFU0aWpmRFJQSTgzczlwdGUwSWFIdjBPWkE?oc=5",
-      "site": "11Alive.com",
-      "siteUrl": "https://www.11alive.com"
-    },
-    {
       "id": "FL-f129cc49210d",
       "date": "2026-11-06",
       "dateISO": "Fri, 06 Nov 2026 03:24:56 GMT",
@@ -327,40 +267,16 @@
       "siteUrl": "https://news.mydrivers.com"
     },
     {
-      "id": "FL-4c4695141273",
-      "date": "2026-11-06",
-      "dateISO": "Fri, 06 Nov 2026 01:41:28 GMT",
-      "ts": 1793929288000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "DeKalb hotel building damaged, windows blown out after reported explosion - FOX 5 Atlanta",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZENDYmstNnB0V0I5V1NvWjZwLUttakpFdDRhdjh0U1JjQTNJNllLT3B5OUJqRHdnUXlIcTdiTURzX2lKZEtVeU0tLTVXT3J6QWo5WkxiSTVtWlVQdEpmZHp4UHpuWkVoQWMxZXphY0N6UXRRXzBzQVV4em83UHRjQ2hCNXZ3ckloYVMyZ0UwUEFUUk9neWU1X09BMUpYRGVXVkdiZFNNQUU?oc=5",
-      "site": "FOX 5 Atlanta",
-      "siteUrl": "https://www.fox5atlanta.com"
-    },
-    {
       "id": "FL-1633ef434847",
       "date": "2026-11-06",
-      "dateISO": "Fri, 06 Nov 2026 01:35:54 GMT",
-      "ts": 1793928954000,
+      "dateISO": "Fri, 06 Nov 2026 01:37:34 GMT",
+      "ts": 1793929054000,
       "scope": "dom",
       "type": "blast",
       "title": "【视频】动力电池新国标“不起火不爆炸”，老车主的旧电池有兜底方案吗 - 汽车之家",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vN29fSXhYUGNTMlVESDF0N1NCSURIeU03QkpRaGdROXN6QTc0UWFfX0hZbGlBZGwzZWZFMFFVS2lkczF3MjJMTkVrMms3NnJmUlg4ckpMdkZQWDFnVHJtQXR4dVo5cDFubmVJ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ycUsyYjVaWmdzU2U3Y2RqXzVxcGsyU0ROVFlsTEEzSU9xckp3dWFnd3A3VHBNYW44ZHZCWXpIMl9rdmVNUVc0cnVGZ3R5WldNVXBETUNUeWMxaEU?oc=5",
       "site": "汽车之家",
       "siteUrl": "https://chejiahao.autohome.com.cn"
-    },
-    {
-      "id": "FL-b980daec3530",
-      "date": "2026-11-06",
-      "dateISO": "Fri, 06 Nov 2026 00:56:00 GMT",
-      "ts": 1793926560000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Explosion reported at DeKalb County hotel - Atlanta News First",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUnBydnBfZzdNcnpLM295WHZnZXR1YXV1TjZDTHlPQkFMa3BKRllJUzg4a1hyTTB2Mm5rRlp5ZzBvV2NYNkZOcVZWNUJjTnhpQU8xYnZJc3lGQVFRTmFmZXU3Zkx5em0xMzdjWjY4QmlrcXRBZFloRE9iVWFpeldiTUZQZ09ZS3hxTE5z?oc=5",
-      "site": "Atlanta News First",
-      "siteUrl": "https://www.atlantanewsfirst.com"
     }
   ]
 }
