@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T22:12:11.352Z",
+  "updated": "2026-11-07T01:56:10.733Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -75,18 +75,6 @@
       "siteUrl": "https://www.sinchew.com.my"
     },
     {
-      "id": "FL-7d4afcb3154a",
-      "date": "2026-11-05",
-      "dateISO": "Thu, 05 Nov 2026 12:05:00 GMT",
-      "ts": 1793880300000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "台灣松下湖口爆炸2人失聯 重機具開挖尋獲1遺體 - 大紀元",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUUXVKMW5DN3ZMb25LbGMycGVMaVU1dEtkZ3FWTXRFaWFjd1VpaUFQaFQwSkh5a0RkeDhBUnNKclNhM01xNThBcC1IVEhqUGhwY2M3cTdwN0RwU2twWWJCddIBZkFVX3lxTFBGclNZYTBfTmZEVE9ZVlJGOHpfV2ZDa1ZVbXp3eF9IY0hfeGl5WllRSmdKV0Fld3Fsek9DbTNYRC11QWNpaEMxVm5VTjB3Qjd0SEZQUXZOTk1icVV5M2x4QzZlRUx4QQ?oc=5",
-      "site": "大紀元",
-      "siteUrl": "https://www.epochtimes.com"
-    },
-    {
       "id": "FL-01f90addc5c6",
       "date": "2026-11-05",
       "dateISO": "Thu, 05 Nov 2026 11:01:00 GMT",
@@ -159,6 +147,42 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-e8a31ee46491",
+      "date": "2026-11-07",
+      "dateISO": "Sat, 07 Nov 2026 01:38:49 GMT",
+      "ts": 1794015529000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Gladiator II stuntman sues over injuries from on-set explosion - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43TVhBamRvWVZtbzFiODE3cUpoYWFkN2xRSE9ZV1dqY3hMblRpU3U0Ym1NSEE5SVNzX0J0c3lWb1hRTzRKNUVvWDh1eU9SWUdPclBKblJSSGJVYWc?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-8643a4863c3b",
+      "date": "2026-11-07",
+      "dateISO": "Sat, 07 Nov 2026 00:22:17 GMT",
+      "ts": 1794010937000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Lake Pleasant bonfire explosion injures teen - FOX 10 Phoenix",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KdEtFVUk1N1FiVldnNDlwOXNGV3FPNWhHSnU0bVdSc1ZvZWRkQ1YwdUFqc0JjdDJJSjBnQ1Z0UUg4SmRpVVFld2NjTGVMQ3Q2ckJnQ2V2Q0ZYaTctSk9HaDJMNzh4QdIBa0FVX3lxTE9raWk4ZlNpSGdXLWY5TXpORUtMaWhMd1hBa3hpdklyVFpnRGlOZUZvcFg3QUI5MFktLXd0ay16TW9XWm9HV1ItR0JwUWZGdkFFdVhRbFktOEtfMUpaOGRQN1hZM29aU3Jod1NR?oc=5",
+      "site": "FOX 10 Phoenix",
+      "siteUrl": "https://www.fox10phoenix.com"
+    },
+    {
+      "id": "FL-6153bda50ca9",
+      "date": "2026-11-07",
+      "dateISO": "Sat, 07 Nov 2026 00:19:06 GMT",
+      "ts": 1794010746000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Arizona teen in ICU following Lake Pleasant bonfire explosion the night before Halloween - FOX 10 Phoenix",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdzZaSDhQV0kwVjZyclpuYy05eGtxdElkTlVETjc4NlU3dkl4bXVINkNJdW1GeTAwbzBiWEtXQXVEN2NqSGZNT0RNY2dDNkxwWlFqRGVLaFhLZ3lDU3E5OGZVek44dXpXMG9BWm5FdFJRbVpFdEQzdVdqNHpfNnlQSnJONnpDYkVlMmFXcDN5SFI0NmtIMmNicHdUejZPZkxKRXpra29qX19ieXJwLUNjVzI4WUNvdw?oc=5",
+      "site": "FOX 10 Phoenix",
+      "siteUrl": "https://www.fox10phoenix.com"
+    },
+    {
       "id": "FL-b042a088a326",
       "date": "2026-08-03",
       "dateISO": "Mon, 03 Aug 2026 07:00:00 GMT",
@@ -171,10 +195,46 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-a6edb5a32e2d",
+      "date": "2026-11-06",
+      "dateISO": "Fri, 06 Nov 2026 23:47:00 GMT",
+      "ts": 1794008820000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "河道一波直接爆炸，T1从头到尾压制KC，2-0领先拿到三赛点 - 懂球帝",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zcDc3TnFhM3dCTEhZRUtsVVR6VGlwenlSdUtOeklQRFNGY2R2eHJXVzA4OHVIaldmYlExTklHYWdEcERGS085c2llckZrTllhMUczaWN2aw?oc=5",
+      "site": "懂球帝",
+      "siteUrl": "https://m.dongqiudi.com"
+    },
+    {
+      "id": "FL-e8c8cc15b9f7",
+      "date": "2026-11-06",
+      "dateISO": "Fri, 06 Nov 2026 23:36:15 GMT",
+      "ts": 1794008175000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Mentor man wins big through Ohio Lottery’s Cash Explosion television show - FOX 8 News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYlZJNUwzVmdtQlZId1VJbUlrRW5IdVpxUmhZaXFYZEZZNXpuS1ItdkFZMXhjRzF4LWNpa1J6TG14YlhqMkVhQ2RlcmVaZ3pVX2RkUUhBUnFTeThTTzN1a01kVlc4bThxLW5CVEcyMjVDcEFEOWd6bjdfSmIyOUZybUFKNzlGeHB5bEJhcFY5aC1hdnpJN2NPd3E2RdIBoAFBVV95cUxNNVZuRkxBWDM1dFFwV1FHbGExN1NaSUt3RmtmVGt2RHN0dVA1QTNoblNuczhPNk1HQlZqUFpGazlfUUtXa3VKS0FGZldyR2tNN2F5QVM1RTVDWkRmRUxpMVBCdnZpRDdtajRKQXVCYkFtdk5ocXJUMl9zR09KUE4ySjZQQjdXQjVYMzRXUWs1bDZETEtpWHVQMUpabHB6a1ha?oc=5",
+      "site": "FOX 8 News",
+      "siteUrl": "https://fox8.com"
+    },
+    {
+      "id": "FL-4f8cc1260375",
+      "date": "2026-11-06",
+      "dateISO": "Fri, 06 Nov 2026 22:49:54 GMT",
+      "ts": 1794005394000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "🎮两波团直接爆炸！Peyz芸阿娜对位领先6K+团战再超神 T1赢首局 - 直播吧",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0dHRnTXBoZThtOV9UV0N5c1FSeGZEUk1rOWFIc0ZhWURFTUw0Nmxyc2NFOEMtbmx4U3NMMnRLSThNLUlDNGtBSkgyZjFsakM3Qm81RXFvM3ZQWDc1b1kxSjVEeUdXVUJvRnVLNjRRaDJrYmloWXBVMg?oc=5",
+      "site": "直播吧",
+      "siteUrl": "https://m.zhibo8.com"
+    },
+    {
       "id": "FL-b0303fb34448",
       "date": "2026-11-06",
-      "dateISO": "Fri, 06 Nov 2026 22:05:07 GMT",
-      "ts": 1794002707000,
+      "dateISO": "Fri, 06 Nov 2026 22:08:32 GMT",
+      "ts": 1794002912000,
       "scope": "intl",
       "type": "blast",
       "title": "伊朗南部格什姆岛传出爆炸声 - 新浪网",
@@ -209,26 +269,14 @@
     {
       "id": "FL-5b9b2ecbde7c",
       "date": "2026-11-06",
-      "dateISO": "Fri, 06 Nov 2026 20:41:44 GMT",
-      "ts": 1793997704000,
+      "dateISO": "Fri, 06 Nov 2026 20:45:46 GMT",
+      "ts": 1793997946000,
       "scope": "intl",
       "type": "blast",
       "title": "Man critically injured in fireworks explosion at home in City of Industry, deputies say - ABC7 Los Angeles",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQajc2Z1NTUWlYaEFyWlBXWmVocktZRHU4c2hqZUgtZmt6RkpYTU9jRUFUbURJa1FraTNpdEVWUGJOUGVIM2ktQjJ0cFFSMFZvTENscTJpX0JhUGJ2MUtaU2pJMHFXYWJhamQ5VTJISk9NMDVLVGtkY0RUcGpXYWN1V1dfejI3cnhVa3JUcUpHSmhJNDM4bXRUMzN4RGIwLUFIYk1yX2Z0LTlJeTFIX3dCNzRHWkFWcHVxb3I1OXlDUklrMk5R?oc=5",
       "site": "ABC7 Los Angeles",
       "siteUrl": "https://abc7.com"
-    },
-    {
-      "id": "FL-1ad5e7682cfa",
-      "date": "2026-11-06",
-      "dateISO": "Fri, 06 Nov 2026 17:28:03 GMT",
-      "ts": 1793986083000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "又一荷兰客机遭炸弹威胁 未发现爆炸物 - 旅日侨网",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdHI5bnFORGNYV0ZEOVh1TGpEdHF5dG9hc205TndIaDRqV1BJWmp2WXlyM2lfdE1XbEtxQUNGMDJUNFRmMXRKNDFKeHFvNjVmVEVVTXRXYWExdFBqay1RWmR4WHJQQUVwc1BldHItOW1MY3FZNjJORUFldWQ4N2tQSDNFTTN6ZldoT2c?oc=5",
-      "site": "旅日侨网",
-      "siteUrl": "https://www.jpchinapress.com"
     },
     {
       "id": "FL-a57cc8c03026",
@@ -255,6 +303,18 @@
       "siteUrl": "https://www.guandian.cn"
     },
     {
+      "id": "FL-10d475f210a1",
+      "date": "2026-11-06",
+      "dateISO": "Fri, 06 Nov 2026 13:40:14 GMT",
+      "ts": 1793972414000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "又一荷兰客机遭炸弹威胁 未发现爆炸物 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xMEtMSkVJSVRNRDlHVVF2RlhhdHhRN2xCN3R6WXJWNXg3WkVkR3h1WjV1Q3hmQXYxbV9EaHdZMm92WXVoWnRwWTcxTQ?oc=5",
+      "site": "新浪网",
+      "siteUrl": "https://wap.cj.sina.cn"
+    },
+    {
       "id": "FL-9274b6fe9a5a",
       "date": "2026-11-06",
       "dateISO": "Fri, 06 Nov 2026 13:25:03 GMT",
@@ -265,18 +325,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pME9RaS15ZVhhTXBNQzZvcGo4LVhBMDRUcldNSWlVVklUVjdlX1BCNThRMG53TFM5eW9FZWhLTUJpd2hoVWtSQWdveC0?oc=5",
       "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com"
-    },
-    {
-      "id": "FL-8952217ee523",
-      "date": "2026-11-06",
-      "dateISO": "Fri, 06 Nov 2026 06:58:00 GMT",
-      "ts": 1793948280000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "太子热水炉疑爆炸｜煤气公司：外墙渗水入炉身 零部件接驳位氧化 - 香港01",
-      "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxQTmRWU1g3eHFmRTZZX3hkYzNPNmx4WHdzMWpjX29nX1lJYUpxQlMwalNteW5La0g5OWQ1ekhRR19FT2g3eDZsSHowSEhZOXc3OUpoT01wT2c1d2pGZkZWRnA4MlZMVlZFbXc5aUNqT2ZDb0R6d1lTUjNTX2wxdTJraHNCYWNKbE5YckVUNzVRYVJpZVVRLWNXYnhYNUNzNzBUTkdPZ1Fid1lTMUtTVHgwSVNCY1NVSDgtZlVabF93MzJqdjZLajhpWFA1WFBvbnpOXzNSYWVFdVh3bFFvdnBQU0NPYUh3b1c3TFlMUnBCWlkwdDF0aXN4dkxYVThNQ1FRTlpURkhTWTZVc2tUUXhQQ1YzLVhfSzkyc2I2SmJCU3BkbGVPS3BVUGNYT2JGS3Uwb0VHTjFCVlM2aGc2a1Y3XzFPVXVEV3hnOF8ta2NfbDFIbGloNkpNUW4wMzNoMXlQRXBGbVVUMmQwWFBvak9hc21NSmhNNFE3WWFINWJCdjFrZkhyazZGLThGdVdHYW05YWpLeG15b2hZeUdwREZnYmVmTlYxRWNrZUE?oc=5",
-      "site": "香港01",
-      "siteUrl": "https://global.hk01.com"
     },
     {
       "id": "FL-04f0242b76bf",
@@ -313,6 +361,18 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRa2RsZENkTk1QcXJ5YXR2Vmdrd0l3dWpwaW1sOXRpcjZzYnFIMUZ6UUtIMHA3SkdudmlYMlplWC1sYnJYZnRtOE5mRjZuN2tvejZLbVpuN2c?oc=5",
       "site": "驱动之家",
       "siteUrl": "https://news.mydrivers.com"
+    },
+    {
+      "id": "FL-d5027b2a1c6c",
+      "date": "2026-11-06",
+      "dateISO": "Fri, 06 Nov 2026 02:10:00 GMT",
+      "ts": 1793931000000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "卡城東南部社區一房屋發生火災爆炸 - 大紀元",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MOUVxeTB0TjRnbWdQcWo4ZTlmOHljZnRYUlRNSlNHNi1GWDlJTVhuTFFGbzNCdkxURnBxR3dhNDEzMG9rSzBqaUJTZG94bHpLeHlzU1l1T24za0lHQWYzetIBZkFVX3lxTE9iOUdZUjlUQVY5dUFuXzBhcElvNXRxZVRodmQ3QkdkczJjZGswZzhnRy1LV0E1UlBzS1RvajNObFRUSjRnaXNJY0x0R01vSkdwa3Z1OWFwZVVZZENCVmpIQXNVREpfZw?oc=5",
+      "site": "大紀元",
+      "siteUrl": "https://www.epochtimes.com"
     },
     {
       "id": "FL-1633ef434847",
