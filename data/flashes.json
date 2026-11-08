@@ -1,42 +1,246 @@
 {
-  "updated": "2026-11-08T01:47:27.486Z",
+  "updated": "2026-11-08T07:59:59.637Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-a0654dede655",
-      "date": "2026-11-05",
-      "dateISO": "Thu, 05 Nov 2026 07:19:52 GMT",
-      "ts": 1793863192000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "松下覆铜板工厂爆炸起火，全球高端CCL供给约4%面临中断风险 - 华尔街见闻",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sZkFUaDFITlFUYWlwYzQzMmZHUTB3YkFKZFUwbENDcHpmWEhPSUNkTTlpYjBxYWVoSXhTQy1OLV9BT2RVcXFTV2wwcEctcjhGeHBv?oc=5",
-      "site": "华尔街见闻",
-      "siteUrl": "https://wallstreetcn.com"
-    },
-    {
-      "id": "FL-8029e3755ad7",
+      "id": "FL-d04aef35bfe2",
       "date": "2026-11-08",
-      "dateISO": "Sun, 08 Nov 2026 01:28:02 GMT",
-      "ts": 1794101282000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "T1淘汰赛首局35分钟拆平KC基地，Peyz爆炸伤害配合Faker先拔头筹 - 手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WbE5BWEJSSGx5M1lTdG1BX2Vsb2JFb1hqTWFTRW8zZDBDTzJLNGFmVklPT3dOLTJqMTFnZFVtSGgtWDhTeVFpYkl4ZExvaDRnU25ibUw0NFFwV1p3bjlUeS05azc0RVlzd1VlaGUxYVdzV1E?oc=5",
-      "site": "手机新浪网",
-      "siteUrl": "https://k.sina.com.cn"
-    },
-    {
-      "id": "FL-78ec0c4d138b",
-      "date": "2026-11-08",
-      "dateISO": "Sun, 08 Nov 2026 00:41:00 GMT",
-      "ts": 1794098460000,
+      "dateISO": "Sun, 08 Nov 2026 06:52:00 GMT",
+      "ts": 1794120720000,
       "scope": "intl",
       "type": "blast",
-      "title": "24-year-old man arrested in connection with bonfire explosion - 12News",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNNTRNRGR2a1JQU3A1SUxEZ2xYeVhhZHg3a1U3d1EyVVJfY054LXNxaFR0TkpDaVFEWmJ1WUowV1V2aEk4OEQ4RWdzMVg5a0p6UDc4WVQydlA1U0xLbWVyVDJwY3BqNkJ0UUY5M0d6R3ZYWEMyOVVuUjJWQWc4R1oxN1FLOUVMWTBiYzRaandKaUlodnNUSzZIaEF1YV9Ic2poMy1SVDdzbHRUN2hLVVljWnRObzdpaW9PTElxM3hyVUNRY3RGM0RJMjVHQmJYRGpydUJscjkzbDBtazVxdFRiT3VmQnVZbjRkVTJVQXVWRlZjMUUzMXZDdg?oc=5",
-      "site": "12News",
-      "siteUrl": "https://www.12news.com"
+      "title": "沙特拦截胡塞武装四枚导弹 利雅得传爆炸巨响 - 联合早报",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXWllEWHRGR2ZYU0VxMWVVa0JYckttZlRnRExQcUw4Q29oRElrNGJpUVNwNXFOaXo1VmJWVzhwUkxNcTVvWVozblBoVGx0X1FoWk03VWRFY1ZISjNQbzJZNlpoZHNBUG5lbEE?oc=5",
+      "site": "联合早报",
+      "siteUrl": "https://www.zaobao.com.sg"
+    },
+    {
+      "id": "FL-0e6a9ada6c9d",
+      "date": "2026-11-08",
+      "dateISO": "Sun, 08 Nov 2026 05:56:52 GMT",
+      "ts": 1794117412000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Man arrested in connection with bonfire explosion that injured multiple people - ABC15 Arizona",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONzNRN2ZGVng0LTFEU1NlbDh0M0lvMDRtcFc1bFZjZnd2amVnb0JyaTV6RnJJbG8wWEZEZk9FdzQtRkRWYkFwUDRUbFJtZk8yY25Nc0dMY1IydWgyMEpMZHRHMXhzVDRKQlA5Q0VBNzRqQVI0dVhKazRVME9UZExVLWNKOTFoVy1Vb1hVN1QySWRFeTgxSFUzanlwVDNrZVdISS1DQXh5emZkMi1ocS01OFV3bWFmclE?oc=5",
+      "site": "ABC15 Arizona",
+      "siteUrl": "https://www.abc15.com"
+    },
+    {
+      "id": "FL-30ea2c7ca1d0",
+      "date": "2026-11-08",
+      "dateISO": "Sun, 08 Nov 2026 05:33:04 GMT",
+      "ts": 1794115984000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "沙特首都利雅得传出剧烈爆炸声 防空警报响起 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sY3A2WWJ1R3NxYjZwVEhKX1VLaEZSOTZOSGpSV1FvZ0dJV21mbnM1UDVCcU03M2hVRnRlVVlnTGFjbVlZdHNzbTdUQUZibGM0Y1VVMHFxaG8xWWRBOUZDWlJoMDlpeUg0VW1XVzJkQXg?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
+    },
+    {
+      "id": "FL-4417eb868fec",
+      "date": "2026-11-08",
+      "dateISO": "Sun, 08 Nov 2026 05:25:00 GMT",
+      "ts": 1794115500000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Man arrested after bonfire explosion that left Peoria teen seriously injured - fox10tv.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbjlnaGNEMlZoTnh3RVhLZEMwOHdZMDI2WVNzZEVxY2FOWGxrNUtxNmJDcXVpZi0yR1NuMTVERUc3VDUzQTBuZW92a2lYNllTYy11LU50bVpzWHU0R3lscHhhTE50S0pnSzRGMWNiVTRYZ2lvWkpiOGxaYTBNamcycnR5dlB1VURtS2pTZWdhY0ppc0dhWEFtMjBIN3BnNDJ0R09FbXV0VHJWa0Z2SDd3RHVraGlYUzhyLVE?oc=5",
+      "site": "fox10tv.com",
+      "siteUrl": "https://www.fox10tv.com"
+    },
+    {
+      "id": "FL-6f818a757c25",
+      "date": "2026-11-08",
+      "dateISO": "Sun, 08 Nov 2026 05:25:00 GMT",
+      "ts": 1794115500000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Man arrested after bonfire explosion that left Peoria teen seriously injured - WBAY",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdlR6TGQxS2pLWm1uR2lHd0xGTmFrdUk0RWV6amxrdERaVXNuM2M3a2VXakhTTGJFbzF6aDliNWN0ejlIM09WeVlkcXlxMUtXN0JwQXJWWk90bWhFOEJFckRWeS1zc0FyWW5wN2ZIQllxNkF3RDl4bEJoVTNiVDNmUGZzSEc4LWJQeTZJVlVBWTlMZ2ZwemZiNGFua0VOZGMwSlR0RWhjS3Y3UXVFNGdkb2poUy1TUQ?oc=5",
+      "site": "WBAY",
+      "siteUrl": "https://www.wbay.com"
+    },
+    {
+      "id": "FL-7daa41ebac97",
+      "date": "2026-11-08",
+      "dateISO": "Sun, 08 Nov 2026 05:25:00 GMT",
+      "ts": 1794115500000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Man arrested after bonfire explosion that left Peoria teen seriously injured - AZ Family",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWmtJTTNHY2hPQ0VTRW85Y1hPNmJDdG1kS3k4ZS1ubC1UMWU5SkhuQ1A5VldQM2VvOV9BU2tRalprV3l2cHVJMTJxOVZvSmlIV2JaX2U5cGhiRHgtaUExZUZoSDc2NWJGTEI0eUpRR1ZjS0xnNzBBdkJxVEJncHNBUl9yQnhLOWNVREd0WngwZUY0NHVYSVRGanNSUkw2RmQ2alNjclg1OF9HV1hGN18xeTZEV0wyWnJYOV9V?oc=5",
+      "site": "AZ Family",
+      "siteUrl": "https://www.azfamily.com"
+    },
+    {
+      "id": "FL-5bef4442510a",
+      "date": "2026-11-08",
+      "dateISO": "Sun, 08 Nov 2026 05:25:00 GMT",
+      "ts": 1794115500000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Man arrested after bonfire explosion that left Peoria teen seriously injured - WOWT",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWmpPWm1DUVlpQi1GaWpNTmxnOVFxdURuNk1iaUZkN1JUZHE2bmt2ZV91cXlJbHo3M3JvZGlvSjc3R191WXdRbTVLLTRXbGJOZ2tRQ1VuZndzcVpqc2pYSGJrM3BWVmJuUkFWd3JjXzk1dUVHNHVJdi1aWmpMNVpMNEg0V0VsT1ppUWF1SXlhU2ctOWZXeEJWY1lhUFd1YkRzNGpIY1dQOVJmUEFyRTlIajJDQ3J3Zw?oc=5",
+      "site": "WOWT",
+      "siteUrl": "https://www.wowt.com"
+    },
+    {
+      "id": "FL-513754e743b3",
+      "date": "2026-11-08",
+      "dateISO": "Sun, 08 Nov 2026 05:25:00 GMT",
+      "ts": 1794115500000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Man arrested after bonfire explosion that left Peoria teen seriously injured - KTTC | Rochester, MN",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObVR1bzAyc3FWckVFQmhSWGRNUG14NktkVTRDbzdMOVpXR0FMclk1RFcxYzlXRllIT2xmSVppMHZMNU0tZ3FXbmdlZVhvdWVzQUVwd0RCRFNXZGIya3ZCNTZBTXFqdEkydkFLUmduVEVpaUpvamJTTmZkMFlSNDV6S1Z4YWFzSDQzNUhIQ1IzVldFWXB1U1VxYWU3d2ZTaHZRUFg1VW1KWXZUWHQxVkpsQ1BTZ3MzQQ?oc=5",
+      "site": "KTTC | Rochester, MN",
+      "siteUrl": "https://www.kttc.com"
+    },
+    {
+      "id": "FL-d9b2f1220109",
+      "date": "2026-11-08",
+      "dateISO": "Sun, 08 Nov 2026 05:25:00 GMT",
+      "ts": 1794115500000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Man arrested after bonfire explosion that left Peoria teen seriously injured - WDBJ7",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZkhuVXM3Q1R2dDFWakNtVmlKYVdFZUhnem5fZ2s4ZDRkVUY2LTVwRkkzaldCN3NrQXlYOW1FeE5wc3hfT1Z6UVpEdXN2dVp2QjQzcmd3TnYxS3Aza2hFdEJUdW9BTy1lbXAxS1BSRFhFQUY2U28zVlg2RVBPTUlReVZSN0pXOUczZTVuNXBadDlpVUFkQUpVTjQ2WDM5bjR6dlhSOFQwdnBUU25CS01xOHQ0N2NvZHc?oc=5",
+      "site": "WDBJ7",
+      "siteUrl": "https://www.wdbj7.com"
+    },
+    {
+      "id": "FL-7ed91c9f7bb6",
+      "date": "2026-11-08",
+      "dateISO": "Sun, 08 Nov 2026 05:25:00 GMT",
+      "ts": 1794115500000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Man arrested after bonfire explosion that left Peoria teen seriously injured - WFSB",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYlE4c1JzeDk1bFV6Q0pLbDBMbGlTTGdMQlVhcUJjT2tLYkcwbUUtWHo3cVk5anpxc1YzWGZCMFRGZm5vU1piZzVaMFZqdFVyT0E0cTYwUDRGdjcxQTVMczU5NkE2U042VWpyV0oxZ2hPczVWSFVlN0VxS1J3RGZ6R1FiSkJaOVZlUzZKbzNySG1rRWJwejk4d0tpWk01Y3A1TFJQaElFYndfZGlIQnRTdE1mWEJudw?oc=5",
+      "site": "WFSB",
+      "siteUrl": "https://www.wfsb.com"
+    },
+    {
+      "id": "FL-aec55ac0a34e",
+      "date": "2026-11-08",
+      "dateISO": "Sun, 08 Nov 2026 05:25:00 GMT",
+      "ts": 1794115500000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Man arrested after bonfire explosion that left Peoria teen seriously injured - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS0ZSY0ZQZ190bzE0T3pmREs0SkhwWENjbXc5WHlwSlhiNURUVFlUVURCajl0Z2RpRDgzM3ZVaHJINWdleWI4UEY1S1FIdTFmTGZzT0VnYmhBeWNaeHhqM3lnbFRPUnJ2VVhrSkxoN2V4T0h6ZnZkdDY0VzlwM1FnTzlxWVVkS3JkcDNGRWxVN0haVE92TlVueXpGY2ctYUU3XzRKSm1NUm1wM2k4MTJSZ2hqZHB0NDBMbnc?oc=5",
+      "site": "KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+      "siteUrl": "https://www.1011now.com"
+    },
+    {
+      "id": "FL-a2c4f5c1a8ad",
+      "date": "2026-11-08",
+      "dateISO": "Sun, 08 Nov 2026 05:25:00 GMT",
+      "ts": 1794115500000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Man arrested after bonfire explosion that left Peoria teen seriously injured - WECT",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTzRLMnZFUTFzS2d2ZXhpSmUzZjdacVp5U0RuNWtYQmh6aDVURmhGODFRUVkycWwxcUowM3RVUlFyVjRIQzdWWnZEd00xX0FSSnJ1a1VXX0FfeEhQTTBkdGZCeXVudDJmcVZkNlVDbTc2bkN3ZW0zUDNCZzU5MkUzRWJIMVdpV3E4emRxaDROX0lNRXZpWHo0NS1pMGMzbnJob1BIQ1F4aEI4ZWkweHVZdlBvNkVmZw?oc=5",
+      "site": "WECT",
+      "siteUrl": "https://www.wect.com"
+    },
+    {
+      "id": "FL-658bfe6646c6",
+      "date": "2026-11-08",
+      "dateISO": "Sun, 08 Nov 2026 05:25:00 GMT",
+      "ts": 1794115500000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Man arrested after bonfire explosion that left Peoria teen seriously injured - KKTV",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYnJFX0FIZHlVU2FCZW53UG9qalhPalJ5S0ptMEZtaTgwa3BDVFA1elZ6UTdvakhIdEd4VnZVc2FTbWxidld2WE5GTm9wdmxObGhscHpVRVVnOVBiMGJCN0tabGlocV9Bc3lPTkZQV3lDb3FGZ0VDdXRzNjJKMVFjenp2WXVfUDRIZlN6TVg2SU5adEIxSnNYd0g0b05HNHc3VTlEWmkwVENhX2VKdldDWDExQjEwZw?oc=5",
+      "site": "KKTV",
+      "siteUrl": "https://www.kktv.com"
+    },
+    {
+      "id": "FL-541d7a261632",
+      "date": "2026-11-08",
+      "dateISO": "Sun, 08 Nov 2026 05:21:22 GMT",
+      "ts": 1794115282000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "沙特首都利雅得传出剧烈爆炸声 - 国际在线",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqdHlCWDRUVWZEa1duWXlzRVVqVHNleHUxOThSNHUzMEIwT3BLU1dOYTc1bmxzRkR1NDJqYVBrdDJ6ZEt0OG9SUlJqVkhzaG81WEdCWjNJSFJvbmtTOW0ycFFJcXlxaXpqYWhIOW1WaXZoQmtOdjZIYzF3?oc=5",
+      "site": "国际在线",
+      "siteUrl": "https://news.cri.cn"
+    },
+    {
+      "id": "FL-c4692f6922db",
+      "date": "2026-11-08",
+      "dateISO": "Sun, 08 Nov 2026 05:18:00 GMT",
+      "ts": 1794115080000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "沙特首都利雅得传出剧烈爆炸声 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc0J4QXJoUFoxS2oydTZfLUdGMmViallvVTF4RzM0S2VUTlJVb1MwcUVxZ2NGRm5zb3lMWkF5Q0tldzhBZUdDd0VwQlQ5RHVieloyT3gzQm0xeUVULXhmQmVYNThlRmRjM2s1a1Q1YzRadnZNQWZvSXlsTEFrRnVlWjcybHhRaS1i?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-f7889ae6ff47",
+      "date": "2026-11-08",
+      "dateISO": "Sun, 08 Nov 2026 04:08:44 GMT",
+      "ts": 1794110924000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "伊朗南部克什姆岛等地爆炸美军阿曼湾瘫痪商船｜即时新闻｜国际｜on.cc东网 - on.cc東網",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNWxxcENtQTlDWnMzOEZKYURmR281R0djV1VtYnpUcEpKQWc1SkRfTVhnZFU2TjB3MDFRRXRjNkp2bWJoRnBuYnkwbV9KSXpxM1E1MVo5U0sxMWdoOC1ERDhsT1VGYWdrVzFFNl9MdjUzZk0wWVRDRDlNUVNnaWlYWUwwNUx6ZHc3dlNFdXFRdUtLd002QzVmTGp6azVaSWRz?oc=5",
+      "site": "on.cc東網",
+      "siteUrl": "https://hk.on.cc"
+    },
+    {
+      "id": "FL-72916bb9be81",
+      "date": "2026-11-08",
+      "dateISO": "Sun, 08 Nov 2026 02:59:52 GMT",
+      "ts": 1794106792000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Suspect arrested following Lake Pleasant bonfire explosion that left teen girl in ICU - FOX 10 Phoenix",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSV8yek9LOEVPX0JoZ3F0aEtpd3dfU2hCVlNhUTFjcXZXeDgycURNT1l4MmZGdFJrdWxuUnB3SkZsazdZMEJTZ3ZueGljdXRUMXlvc3FMSXBhWEJ6b19tUTh4bXlUbXl5ODQ0aVdHTmNMMGlrZ3VtT2d6NndaT09DQlBZYl9qc1hpNEF1aEVSQnZZVkhTcUhTUDFqWF9OYkg3THBtaHdSeFBBY1F2cVl6aQ?oc=5",
+      "site": "FOX 10 Phoenix",
+      "siteUrl": "https://www.fox10phoenix.com"
+    },
+    {
+      "id": "FL-88669b6f1c2c",
+      "date": "2026-11-08",
+      "dateISO": "Sun, 08 Nov 2026 02:29:08 GMT",
+      "ts": 1794104948000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "IG赛后现场：TheShy久久望着水晶爆炸 最后一个离开笑着安慰Wei！ - 直播吧",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtbk92UnFnd3VNQWVPR2VaM1V6RHBBNzJpdEpzUzM0bVJxdmN4Z3ZLM3Q0a3NSR0l0VUJ0V0JYNUgybVF0TFRIRkpqT3VnWEFxS3E0NUtycXNnbWlsNWlSa1c1Z1JhSzBwTHdsbjQwX1Y?oc=5",
+      "site": "直播吧",
+      "siteUrl": "https://news.zhibo8.com"
+    },
+    {
+      "id": "FL-7e6876015eca",
+      "date": "2026-11-08",
+      "dateISO": "Sun, 08 Nov 2026 01:00:00 GMT",
+      "ts": 1794099600000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "重庆一隧道瓦斯爆炸致5死10伤，调查报告：施工单位冒险组织复工 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYjRGTEotbVhRNUg3dXZMODJzM1E1UDlRMmxhNy1hYkZ4VHpHU3VZVGd0UEtWYnZ4a1VUXzFtRjJXVktSbGNTVTVQN3Z6WHhGZmdTdEZQckpJVUU4VWZmSnlrNEZfcUoxZEVOWFNRVTdVblRHVE1JTllBd3JMQmFkVkdUdUJtd0J3?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-b83578d25723",
+      "date": "2026-11-08",
+      "dateISO": "Sun, 08 Nov 2026 00:35:00 GMT",
+      "ts": 1794098100000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "巴基斯坦警察排爆人员在拆除爆炸物时遇难——《黎明报》 - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV1c5QmdFTUdoUG1KbTdCdmlwamFXWmNJQi1RaURtanRiUkFIbFFLVFF6QnRqMVRQZHlfZXM4Y1hMUm1lVURmSjN5ZlJ0ZGlLejgtWUZLeWNFWnRQeDNhXzZfNDcwRWY3OU5FZm9XS3NtTGFmRlJFVlhheXp2aGlNWG93N0lzUkV2NzQyUl9DZ24yVC1rYnp1SGVuMjRqcmNXald3UGc2Z3hSc1NZd1E?oc=5",
+      "site": "UA.NEWS",
+      "siteUrl": "https://ua.news"
     },
     {
       "id": "FL-bea55f2ac982",
@@ -63,18 +267,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-19333601a31b",
-      "date": "2026-11-08",
-      "dateISO": "Sun, 08 Nov 2026 00:15:52 GMT",
-      "ts": 1794096952000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "突发，美军开火；伊朗多地传出爆炸声；多国联军，发动空袭；霍尔木兹海峡，油轮触雷起火；TikTok否认欧盟指控；央行增持黄金丨每经早参 - https://www.mrjjxw.com/",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB3X0U5UWNDQlZFOVdLcTNEMjN4a2FDV1dwdXB6T0RhTjhUSEVCUmFXdEhCcnNDLS1ENWRYQ1U4Q19reHcxQ1BKREFCb0gwZ20yUnU2eDZtLUNCNGt0VWh6SnF3ZENHQQ?oc=5",
-      "site": "https://www.mrjjxw.com/",
-      "siteUrl": "https://www.mrjjxw.com"
-    },
-    {
       "id": "FL-0615dd398028",
       "date": "2026-08-02",
       "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
@@ -99,40 +291,16 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-9c0b0bbd317e",
+      "id": "FL-2f0ba70d23f4",
       "date": "2026-11-07",
-      "dateISO": "Sat, 07 Nov 2026 23:59:00 GMT",
-      "ts": 1794095940000,
+      "dateISO": "Sat, 07 Nov 2026 23:29:46 GMT",
+      "ts": 1794094186000,
       "scope": "intl",
       "type": "blast",
-      "title": "Eagle Scout arrested after bonfire explosion that left Peoria teen seriously injured - AZ Family",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQWxxX0o4eU00SUYwNUlRRFJqSldUNzQ0V0t5VUdlVVVTYmI3VWcydUlPQ182ZzlVU1gwTlRULW5ScGdqTjFRYTZQaE5IN3FrUFpmZUxoN291V3BYSVBOOUJTU2tHVDBraHN6WDhjSE9GTWdBd3JnLW1LM1dySGlJSHBBd3lzLVdUdVpRZmthcGZJMVppQ3l3cW1SdFNCTmVES25MMk4tV1hZWmJ2YmIw?oc=5",
-      "site": "AZ Family",
-      "siteUrl": "https://www.azfamily.com"
-    },
-    {
-      "id": "FL-0e6a9ada6c9d",
-      "date": "2026-11-07",
-      "dateISO": "Sat, 07 Nov 2026 23:56:52 GMT",
-      "ts": 1794095812000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Man arrested in connection with bonfire explosion that injured multiple people - ABC15 Arizona",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONzNRN2ZGVng0LTFEU1NlbDh0M0lvMDRtcFc1bFZjZnd2amVnb0JyaTV6RnJJbG8wWEZEZk9FdzQtRkRWYkFwUDRUbFJtZk8yY25Nc0dMY1IydWgyMEpMZHRHMXhzVDRKQlA5Q0VBNzRqQVI0dVhKazRVME9UZExVLWNKOTFoVy1Vb1hVN1QySWRFeTgxSFUzanlwVDNrZVdISS1DQXh5emZkMi1ocS01OFV3bWFmclE?oc=5",
-      "site": "ABC15 Arizona",
-      "siteUrl": "https://www.abc15.com"
-    },
-    {
-      "id": "FL-920914149b4b",
-      "date": "2026-11-07",
-      "dateISO": "Sat, 07 Nov 2026 23:21:11 GMT",
-      "ts": 1794093671000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "国际新闻早知道丨伊朗南部多地接连传出类似爆炸巨响 沙特空袭也门致27死36伤 - 新湖南",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mUHpnM0txUl9NNkFPSDk2ZElfdVAyZlNCNlpwcXp1OXZQc3pfRzRpTGlHT1lqUDl0VWVDM1ZVN2pnY09XbHNCSHRlejJrLWo4bUVlVFhSMjNnQmZ3dno0?oc=5",
-      "site": "新湖南",
-      "siteUrl": "https://m.voc.com.cn"
+      "title": "伊朗南部多地区传爆炸声 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kNjJGbzE4eERHbU43djlmekxBUU1rRXBWYy1LSm4zb2ZwbGR6azVNcUFXamdaaG5uajRJeTVHTWlCVXpMWElHZlJZSQ?oc=5",
+      "site": "新浪网",
+      "siteUrl": "https://wap.cj.sina.cn"
     },
     {
       "id": "FL-99b2ea39096c",
@@ -159,30 +327,6 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-2f0ba70d23f4",
-      "date": "2026-11-07",
-      "dateISO": "Sat, 07 Nov 2026 20:47:29 GMT",
-      "ts": 1794084449000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "伊朗南部多地区传爆炸声 - 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kNjJGbzE4eERHbU43djlmekxBUU1rRXBWYy1LSm4zb2ZwbGR6azVNcUFXamdaaG5uajRJeTVHTWlCVXpMWElHZlJZSQ?oc=5",
-      "site": "新浪网",
-      "siteUrl": "https://wap.cj.sina.cn"
-    },
-    {
-      "id": "FL-02ec724203c3",
-      "date": "2026-11-07",
-      "dateISO": "Sat, 07 Nov 2026 20:33:23 GMT",
-      "ts": 1794083603000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "伊朗南部多地传出爆炸声，原因尚不明确 - 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa1dyT25mN254NFFZRWthMWNUSm84Tl9xdHI1SHh6TnltTEF3d1N5UkRZckFIZlZOeVM3YkVGU2hrQXRGV1BVV2JTV1dNcThRbzBZQzZFel9HMHZDYkV1V19UeENYbEhuVC1xbnZZMWRJeFU0MGM4aXdFYXhCbTJDZmg5TmtyOUNlcW1JaTB4VnpHSF9GZm54Zi01eDQwNnBqU2FFYjlTS0pna3VYZmc?oc=5",
-      "site": "富途牛牛",
-      "siteUrl": "https://news.futunn.com"
-    },
-    {
       "id": "FL-d4226ac2dcd6",
       "date": "2026-11-07",
       "dateISO": "Sat, 07 Nov 2026 20:12:45 GMT",
@@ -197,8 +341,8 @@
     {
       "id": "FL-a08a74491d65",
       "date": "2026-11-07",
-      "dateISO": "Sat, 07 Nov 2026 19:35:52 GMT",
-      "ts": 1794080152000,
+      "dateISO": "Sat, 07 Nov 2026 19:34:05 GMT",
+      "ts": 1794080045000,
       "scope": "intl",
       "type": "blast",
       "title": "伊朗格什姆岛传出爆炸声。 - 新浪网",
@@ -219,18 +363,6 @@
       "siteUrl": "https://m.voc.com.cn"
     },
     {
-      "id": "FL-e97f52f2c3fe",
-      "date": "2026-11-07",
-      "dateISO": "Sat, 07 Nov 2026 11:16:00 GMT",
-      "ts": 1794050160000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "前期 0 换 2 控红区，小胖用伤害爆炸拿下年度总决赛MVP|杭州 LGD.NBW|广州 TTG|小胖|KPL_新浪新闻 - 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NQVVxOUFseFJSYy16Q3dZWEd2a05xRUhONkN3XzlvVmZrSEFCbjM3UjhBU3BZMVJ6SjZhTHFpTDBBWGRZNEszaGkzTzc3NlplWmo0bHpvR3dGMHpNX3JxR21Qcw?oc=5",
-      "site": "新浪网",
-      "siteUrl": "https://www.sina.cn"
-    },
-    {
       "id": "FL-092eb69d2bec",
       "date": "2026-11-07",
       "dateISO": "Sat, 07 Nov 2026 10:37:11 GMT",
@@ -241,30 +373,6 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wR2xOcXVHM0k3ak1CSUwzWmZWYVBObVF5TFg2Q3lONDRhUUFBNE5KMWo4Z05veVoxTkhXVFFTb3JwdW9sNmU3WjhoQQ?oc=5",
       "site": "新浪网",
       "siteUrl": "https://wap.cj.sina.cn"
-    },
-    {
-      "id": "FL-4ba26e6a04b2",
-      "date": "2026-11-07",
-      "dateISO": "Sat, 07 Nov 2026 09:58:39 GMT",
-      "ts": 1794045519000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "“45分钟后爆炸！” 欧洲多国电视台收到恐吓邮件 部分节目紧急停播 幕后主使尚不清楚 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVjhfU3h1OFZCVDJ6MDVMTVRsTmU5SnBNWWNQM0lUOHdhc0hPNjFDZ01lM2FlNHNBUGdDalJVWEJaQVZfa3R4emRXOS1EN0lUb25YdldCc0ZNVnpMT1NEdEJsMzNTemk3Rjk2aG1zNjFXUzlsR3ZuWlc4dXhCX2FiUmI4S0didw?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-a909ddcd0cc4",
-      "date": "2026-11-07",
-      "dateISO": "Sat, 07 Nov 2026 07:16:00 GMT",
-      "ts": 1794035760000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "叙利亚一名军人死于地雷爆炸，另有一人受伤—— 阿纳多卢通讯社 - UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMVpTbFA4OXNScFhtZVBkRF84RWJPQ2xJcXVYV2xocGhOU3BkbkEyaWIwOWJUV3BaTzFOMUJfQjlvd1VrYXBieGRzdHhNRlVRUDEzYVd1SzlOTGtKbUMyRlVubTMzck5BNHlEWTU0YmNpTzF1QUlGLUNNZ3VsWElaUXo1TVlSeENpcUtmVWtmUlBydU1QS0RuT3dEemc0cXk2NlY3MGl4NTgxdy1sYzJlMVp6Mm5ZZw?oc=5",
-      "site": "UA.NEWS",
-      "siteUrl": "https://ua.news"
     },
     {
       "id": "FL-db725d3e676d",
@@ -289,18 +397,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OX3RaV3N3UGtxM3h5MDJnaEVzMHR2WnVkNmp2SHJudTdPMUEzR3lSa0xaZlExRkU1SldaZjNpTXJjQ0tQSnE3NHQyU2R1T0x4dTBhRTJVb0FFYTk5T1BWNkVsSTkyNkkyM3VFWnBkZDVnMVJUOWlrUi1NWWhERlE?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-38adc4cb37dc",
-      "date": "2026-11-06",
-      "dateISO": "Fri, 06 Nov 2026 23:51:00 GMT",
-      "ts": 1794009060000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "河道一波直接爆炸，T1从头到尾压制KC，2-0领先拿到三赛点 - 腾讯新闻",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tdW0yck5oTFhtdzhOZGZDdjlHVUNlMHBfSG10TzVRRmUzZDNtNzZzejlGTkpxcjNpTzktSEtMbDBUcW53d3NMeFF5QUN0TkVpNHBHY0RB?oc=5",
-      "site": "腾讯新闻",
-      "siteUrl": "https://news.qq.com"
     },
     {
       "id": "FL-6e3c00237103",
@@ -339,18 +435,6 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
-      "id": "FL-a57cc8c03026",
-      "date": "2026-11-06",
-      "dateISO": "Fri, 06 Nov 2026 14:50:47 GMT",
-      "ts": 1793976647000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "一艘油轮在霍尔木兹海峡附近发生爆炸 - 国际在线",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTdm1oNlY5dDJqeWRjemV2amNvNGNoV0FpLXJOcFpKNWpueWwzanRvZC1zWVhpRFFDclBrRkhjdmJsMjNLd0dnckdKS2l0U1Qtb0RpekNCTlptUkZjYXgwaUJ2TllnZHpsSENTbldrUU9jZEdDZnZ2andR?oc=5",
-      "site": "国际在线",
-      "siteUrl": "https://news.cri.cn"
-    },
-    {
       "id": "FL-10d475f210a1",
       "date": "2026-11-06",
       "dateISO": "Fri, 06 Nov 2026 13:40:14 GMT",
@@ -373,18 +457,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pME9RaS15ZVhhTXBNQzZvcGo4LVhBMDRUcldNSWlVVklUVjdlX1BCNThRMG53TFM5eW9FZWhLTUJpd2hoVWtSQWdveC0?oc=5",
       "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com"
-    },
-    {
-      "id": "FL-eee0b452bd19",
-      "date": "2026-11-06",
-      "dateISO": "Fri, 06 Nov 2026 09:35:00 GMT",
-      "ts": 1793957700000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "据伊朗国家电视台：伊朗南部的爆炸事件可能与伊朗军方在霍尔木兹海峡的活动有关。 - 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSEdLQkZydkN3ZncxRjYtc3o2Zzk1RVN5MTMwR29sakc3blRpb0pMVEYtYUNnS1Fob0xPNnhpVUFxT0JuVEFRY2Z2Wi0yckxTSTVMNVJLams2b19iV2hCNllnbmUwZFU2SmNoOFNMVElpWUVDb0pKZHBsNTVodktVNmltZS1vX01nQ2I5Wms1Tk0yc19MRlM0V2tTRFM3T09fbGV2OU4ycXg1X01uTlE?oc=5",
-      "site": "富途牛牛",
-      "siteUrl": "https://news.futunn.com"
     },
     {
       "id": "FL-f129cc49210d",
