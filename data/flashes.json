@@ -1,19 +1,7 @@
 {
-  "updated": "2026-11-08T14:47:36.089Z",
+  "updated": "2026-11-08T19:11:16.742Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-b3395701413c",
-      "date": "2026-11-08",
-      "dateISO": "Sun, 08 Nov 2026 10:41:15 GMT",
-      "ts": 1794134475000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "第三艘油轮在霍尔木兹海峡发生爆炸 - 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fNUN0UTJ5LXdaWVZBVUJXVzh1enJ2aUoxb2xpa3RtYjg4clROQTNGRXA5X19Fekc4YUcxUVpBVHUyMko5b0FKZ1I3MA?oc=5",
-      "site": "新浪网",
-      "siteUrl": "https://wap.cj.sina.cn"
-    },
     {
       "id": "FL-2ffd1aecf6ba",
       "date": "2026-11-08",
@@ -75,16 +63,16 @@
       "siteUrl": "https://news.ifeng.com"
     },
     {
-      "id": "FL-72916bb9be81",
+      "id": "FL-cc2bd9690fa0",
       "date": "2026-11-08",
-      "dateISO": "Sun, 08 Nov 2026 02:59:52 GMT",
-      "ts": 1794106792000,
+      "dateISO": "Sun, 08 Nov 2026 03:12:00 GMT",
+      "ts": 1794107520000,
       "scope": "intl",
       "type": "blast",
-      "title": "Suspect arrested following Lake Pleasant bonfire explosion that left teen girl in ICU - FOX 10 Phoenix",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSV8yek9LOEVPX0JoZ3F0aEtpd3dfU2hCVlNhUTFjcXZXeDgycURNT1l4MmZGdFJrdWxuUnB3SkZsazdZMEJTZ3ZueGljdXRUMXlvc3FMSXBhWEJ6b19tUTh4bXlUbXl5ODQ0aVdHTmNMMGlrZ3VtT2d6NndaT09DQlBZYl9qc1hpNEF1aEVSQnZZVkhTcUhTUDFqWF9OYkg3THBtaHdSeFBBY1F2cVl6aQ?oc=5",
-      "site": "FOX 10 Phoenix",
-      "siteUrl": "https://www.fox10phoenix.com"
+      "title": "[新闻直播间]伊朗 多地传出爆炸声 官方暂未公布相关细节 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SU2lFTjNBR3hwQmFFcmlfamVpdEc0S3N4TzBlVVYyRjFYalRHQlMxUlR6SDJNc1JScHo0dVg3eERjcGFVXzRVMDRXWE9YVlhkVzg2elMweTIzY0Fwbmx3WHR5enhad0pWeHJlc0M4RzdjRTV1Y1E?oc=5",
+      "site": "央视网",
+      "siteUrl": "https://tv.cctv.com"
     },
     {
       "id": "FL-b83578d25723",
@@ -121,6 +109,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlemFCa3lteDlkZERLTXRLMHhpeTIzNmFqanFBczVPaFNjQjVxOHNJNm54Tkhua1FqOGtuaUhBLWdRSWxXaFRoZThQZXJqclRIV1pUaTNhcjhHU0dwRzA1WXNQc2ZOVEhXX0Z1NUVBcnBUalJRWkE3ZlE0S3NOaXM?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-9c0b0bbd317e",
+      "date": "2026-11-07",
+      "dateISO": "Sat, 07 Nov 2026 23:59:00 GMT",
+      "ts": 1794095940000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Eagle Scout arrested after bonfire explosion that left Peoria teen seriously injured - AZ Family",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQWxxX0o4eU00SUYwNUlRRFJqSldUNzQ0V0t5VUdlVVVTYmI3VWcydUlPQ182ZzlVU1gwTlRULW5ScGdqTjFRYTZQaE5IN3FrUFpmZUxoN291V3BYSVBOOUJTU2tHVDBraHN6WDhjSE9GTWdBd3JnLW1LM1dySGlJSHBBd3lzLVdUdVpRZmthcGZJMVppQ3l3cW1SdFNCTmVES25MMk4tV1hZWmJ2YmIw0gHDAUFVX3lxTE5YM0ZrTG5hbkU1cjdYeXJmYVpTejhsdnpSYUI4VWpYZTJtMU11OTF1RUxGMVVBcXVDRFB0R1BpbGgtckgzeTM4VzRsd21hQ0NfWUJtOVNid3RhX1AzalNoSkRZZzlUMFBjRW1sMUdWeDk0eWgtcklkckZ5cGRJZTl2azBzM3pON3hNRFIzUmpreEZJR0VLQ3pSaFhNNGRlcS15akh5ekV2VmM4c2RCeW5jbnlhbS1UTUtoR2U1VFdfanFNRQ?oc=5",
+      "site": "AZ Family",
+      "siteUrl": "https://www.azfamily.com"
     },
     {
       "id": "FL-b042a088a326",
