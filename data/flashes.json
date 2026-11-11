@@ -1,18 +1,210 @@
 {
-  "updated": "2026-11-11T09:34:06.191Z",
+  "updated": "2026-11-11T17:24:25.316Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-ac9cc7cfb21f",
+      "id": "FL-d60cefabb8e2",
       "date": "2026-11-11",
-      "dateISO": "Wed, 11 Nov 2026 07:35:00 GMT",
-      "ts": 1794382500000,
+      "dateISO": "Wed, 11 Nov 2026 15:20:11 GMT",
+      "ts": 1794410411000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Reports of overnight explosions follow fire at closed Santa Teresa Golf Course - KFOX",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRnN5WHV5LVg5dmtpQVVzMkpudy1WMWNFcTR0MTRKbnNvWTJVbXJyeVhEM3hlSkVudnpOQTRac2lSVmt4RktWNmFzVWwzc3libUluV0dRS0ZCeGUwc3FSd1JrWWhIVnNpeUk0OWNieFFRbVpfakF4WXBWa0Utdm12Ump1N2p1X3pQUjg1R3RPOVVXblFGUFNiUFliNjVEM0FOUjZnVU15OElQSjVm?oc=5",
+      "site": "KFOX",
+      "siteUrl": "https://kfoxtv.com"
+    },
+    {
+      "id": "FL-f4a95a0546ba",
+      "date": "2026-11-11",
+      "dateISO": "Wed, 11 Nov 2026 14:48:48 GMT",
+      "ts": 1794408528000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "王储殿下就伊兹密尔一家钢铁厂发生的爆炸事件向土耳其总统表示哀悼 - وكالة الأنباء السعودية",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1EbE9fNFI2ckJOSy1aWDVLTldJOURJRmZLdl95Q0ktSWFoWUFCbDVXYnJiRERxUlAySTlHSUV2MHU1d0pERmlkMEZn?oc=5",
+      "site": "وكالة الأنباء السعودية",
+      "siteUrl": "https://www.spa.gov.sa"
+    },
+    {
+      "id": "FL-5efdc79806e7",
+      "date": "2026-11-11",
+      "dateISO": "Wed, 11 Nov 2026 14:48:47 GMT",
+      "ts": 1794408527000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "两圣地忠仆就伊兹密尔一家钢铁厂发生的爆炸事件向土耳其总统表示哀悼 - وكالة الأنباء السعودية",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBkblpMdFlyeUlCRFZkV0h3OWNJNS1qNGh1RDFNdUxMVFIwNy00UnF2S2pZTzlXNnBGMzY0T3R2aXlvR2NmUllPbVln?oc=5",
+      "site": "وكالة الأنباء السعودية",
+      "siteUrl": "https://www.spa.gov.sa"
+    },
+    {
+      "id": "FL-ea8002c655d9",
+      "date": "2026-11-11",
+      "dateISO": "Wed, 11 Nov 2026 14:28:24 GMT",
+      "ts": 1794407304000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Searsmont EMS chief coming home 6 months after deadly explosion - WGME",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUDNlc0ozc3oyM3JaRS1NSzhUSFFnYlNyMmNpTUVlWXdGRGNicER5bHNrYy13c3pWSU11NC05c3RKVHJqTVdBRUtKVlpKbC0wbXFYMkYzMnJKaXZ4WkVGUDF6N3FLVEstR1RaclhtUEZyQWZKNEx4Slg1ZGp3SnVHdUVOZ1d5RVVVNWE4Z0kwR25XcnNKcm5fbjFINUNMTUN1OWNtU0hGZ3RNZmcxLWV3VzZ2U2p1OFl5LVU3QnRvMXBaZWt1M205djhwVVM?oc=5",
+      "site": "WGME",
+      "siteUrl": "https://wgme.com"
+    },
+    {
+      "id": "FL-155922ed409a",
+      "date": "2026-11-11",
+      "dateISO": "Wed, 11 Nov 2026 14:23:21 GMT",
+      "ts": 1794407001000,
       "scope": "dom",
       "type": "blast",
-      "title": "保温瓶爆炸｜红枣水放太耐开盖炸裂眼球！消委会提醒6类饮品高危 - 香港01",
-      "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxOS3JHR1BiNUlxQ2FiNld4NURCTGw4VEkwQkYyYV9mX3RnQkZ4XzdhV0c1aUNKSXplLUdaRjNPWVZZOTlyR3JJSTg2QmlaMWlFbmFseTZhZlg4bkpqVE1tTzFwUEp6NEM0ZW1mVUE0b0I1cTBVV3hUX1ltUHQ5djFhUTh5U1JJenoyUU5MN2xSVTdPVjh1OEZhLUxLcW52VmkzZUhiVzViOW5HQWJIRFdsejMxTDV4RHR3WkhLdG5RN3JHSDc1ZzJLZkk0TGYxcEM0QVRPZ29yTlBRZmQ2aXhPck9aazRqT0diU1RqUTNxeDl6VW9lRGVTajViVk5KNkZpTWVzVzJZR3EyNDlkR2NuSmZROTRvOU1ZclBFUmpTbTgyWXZfQ0kybTFTZWtIOTVwWFZJUHQtS3BHV2xzTVQ4ZGZ4b0p3V1RkQ2s1ZnBlZFBpbjZrRk43SDFKWFlQNTJTajl6WFU1ejdYRnJEOEZMOUU2X3ZheHJldDBRSzVNbkR5LV9xeUIycGpPd1dlUzVtUEpEM3Y2UjRqRTRiOWxOWWNOTngtdkNKcEE?oc=5",
-      "site": "香港01",
-      "siteUrl": "https://global.hk01.com"
+      "title": "焦作一化工厂爆炸致100多户房屋受损，村民称事发5个月未获赔偿 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5rRW92Mk1SYnpZZTJxQ1dSdFdnNElmczNBS1I1X1AwdGtmaXhtdzFRdWZVUVJkQzV2ZEhieVg0elFHRTJIMWh4a3VsQUU?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://news.ifeng.com"
+    },
+    {
+      "id": "FL-14c80b633183",
+      "date": "2026-11-11",
+      "dateISO": "Wed, 11 Nov 2026 13:43:41 GMT",
+      "ts": 1794404621000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Man killed in SE Indiana home explosion, fire - WTVG",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUWZZUnphNTNGUFRpWDFyNzluMlRYWURSamRwQ2xrR1l5SHB2MVpUb29mcGhUNmg0WWpHRTRGY1hzYnRtQU5FYUQ1aUVTa2l6c2xwY3RWMk9tNTU4cGVjeFJOQk82UzJkdkFodUoxTUd3cjdRWWFVYUJHV0k3MkltQ05Sd25IZE9f?oc=5",
+      "site": "WTVG",
+      "siteUrl": "https://www.13abc.com"
+    },
+    {
+      "id": "FL-4955ab4ec6d0",
+      "date": "2026-11-11",
+      "dateISO": "Wed, 11 Nov 2026 13:27:44 GMT",
+      "ts": 1794403664000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Man killed in SE Indiana home explosion, fire - WBAY",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX0NjVmlVWTdsdVlscnFNOHJhU254ZVBnTkY2VEFmT0hISXktUVpFRmJHUFNtTWhfb0YwZ3hxaWxmWG05LTBYaUh5a1ZOeTMxdWxiX3FvTUxKc0c2OHRJVEpmQ0RlU1pNSTFIUkdmSy02VEZtbDhfSFNPTms0NW1mT01YUWNKV1E?oc=5",
+      "site": "WBAY",
+      "siteUrl": "https://www.wbay.com"
+    },
+    {
+      "id": "FL-c3e4717e0271",
+      "date": "2026-11-11",
+      "dateISO": "Wed, 11 Nov 2026 13:25:04 GMT",
+      "ts": 1794403504000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Man killed in SE Indiana home explosion, fire - WLBT",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS1RWaDZkdFFhbV9OMlczOVJsaVg4MkhlZlpkTmFMZWRkY1E1a0tKR29iSmg5YlM1OHFraGFHMDZ2U3dnVkpESU81QUJ2ZGh2U2QweGgyS1RYWDMyQW5hZmJiOFFYQmM1Zko1RFo4Um1NYTRsenQzclgtTlVVLVdySExjZ0hiYVU?oc=5",
+      "site": "WLBT",
+      "siteUrl": "https://www.wlbt.com"
+    },
+    {
+      "id": "FL-c99e7d3fb007",
+      "date": "2026-11-11",
+      "dateISO": "Wed, 11 Nov 2026 13:19:48 GMT",
+      "ts": 1794403188000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Man killed in SE Indiana home explosion, fire - WSMV",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZDZObHpzeVFNLVpVUHhia2M2aXJYUHZNd1ZWRHVnRnNrdERmMEZ1SW80NTdOYm1LTzhKam4zU1c2dkROUG1BcW5DVjBiSmdyRmxab0VONGFNNFpCZmVuck9leDRpcjNJNVFVYS1QeHM3VFdONXQtSjZ2ZWl6cng3UUExMUw4QU0?oc=5",
+      "site": "WSMV",
+      "siteUrl": "https://www.wsmv.com"
+    },
+    {
+      "id": "FL-28a8c5c5b03d",
+      "date": "2026-11-11",
+      "dateISO": "Wed, 11 Nov 2026 13:13:45 GMT",
+      "ts": 1794402825000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Man killed in SE Indiana home explosion, fire - Alaska's News Source",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXFRbW1TTWo4OUxlRXJsdTZkTUV1TTBYUjNsRjc4cm1HS0FvZ29GM044amxhRXFDZTNSdVNKLU9TYTh5OGg1TUxyR2E0Zy04eG1rX2dBX3hSNEdCS3BWY19IcUpCal9ibl9OWW5OLW5DMW9LUVJ4M0ozby12ekxuRFh6S09MUl91VW5FVExDYXF6Q3BNdzZpZA?oc=5",
+      "site": "Alaska's News Source",
+      "siteUrl": "https://www.alaskasnewssource.com"
+    },
+    {
+      "id": "FL-20c6a257141c",
+      "date": "2026-11-11",
+      "dateISO": "Wed, 11 Nov 2026 13:12:58 GMT",
+      "ts": 1794402778000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Man killed in SE Indiana home explosion, fire - WTOC",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ3BhUVJRQWpDcnlSMmV3NS01RHhiaG4ydEMzRDd4ME1Xc001dktzUWdhWW1jT2tERkRjcFpRbV8wM0xja1NxZ3ZxaUhKRXNhbzhmd3Z0YWg2ZnpSSThpYmlkanR0NnhFNS1QZ3J0aE14aW5aZUpvMG5LX3BDSFRfZ252RldtdzQ?oc=5",
+      "site": "WTOC",
+      "siteUrl": "https://www.wtoc.com"
+    },
+    {
+      "id": "FL-29f7225bb0d0",
+      "date": "2026-11-11",
+      "dateISO": "Wed, 11 Nov 2026 13:12:11 GMT",
+      "ts": 1794402731000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Man killed in SE Indiana home explosion, fire - AZ Family",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZC02ZEJsUVZ4cFFpT1VCSnlyeEwwdGxlaWxIdTNNZGtFbUdFZlNwLUt4elh6czFzLVBHd2dfVWFYQ19jdVZLdUIzNHE2d3RYdDdXV0Fha18tQnFJV2tyZG5qUDl2OGtrQzFKOFdubmxMdmZlSDlaY3owMHktcnhMb1JZanM0RE5PY2M1Mg?oc=5",
+      "site": "AZ Family",
+      "siteUrl": "https://www.azfamily.com"
+    },
+    {
+      "id": "FL-463d1a23a58c",
+      "date": "2026-11-11",
+      "dateISO": "Wed, 11 Nov 2026 13:12:03 GMT",
+      "ts": 1794402723000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Man killed in SE Indiana home explosion, fire - WCAX",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYUFtcDZYYjkxTlJLOExRdG5lY2RkT1JndFJoZnEybmI1SUt4MEFZRHBvRkJ2endzZVpmUHFmaUVrQVNhQWg0TzRHY2VqdnFNRC1vdXVuNDA5eGpFVjJYQjRoVUV1bm9pU0thTnFJOHVTOFVqNWdJSFB0VEp5cUxUc0RWcDJIRms?oc=5",
+      "site": "WCAX",
+      "siteUrl": "https://www.wcax.com"
+    },
+    {
+      "id": "FL-12739bbd5cd3",
+      "date": "2026-11-11",
+      "dateISO": "Wed, 11 Nov 2026 13:10:16 GMT",
+      "ts": 1794402616000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Man killed in SE Indiana home explosion, fire - FOX19 | Cincinnati",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeU1HLWZnbU5aNGV4QXVzejZwNUlHYmIxbkRZNFJGM05YSU0zMXhJSGRvNnZzejBHWkFBNFBLSEJpUC1JZk5ZaXE1QXlhajRTbjhhd3pLdUl0WTZQQnVGVVlILVVYYS01amJMQzVKdjNGamlZQWlfY095b0gxQVNuRi1XaTdZc0dG?oc=5",
+      "site": "FOX19 | Cincinnati",
+      "siteUrl": "https://www.fox19.com"
+    },
+    {
+      "id": "FL-53e1240a8187",
+      "date": "2026-11-11",
+      "dateISO": "Wed, 11 Nov 2026 13:09:44 GMT",
+      "ts": 1794402584000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Man killed in SE Indiana home explosion, fire - WAFB",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVkVUem44ZHNiNkhVTGo1VE1fX0JHWWlJdHl1a1haTHk2WHFtejNVWjNaZFlvYTFmVEY5NVl3eEJBX1RCT2ZvaTdfXzk5NXRUcjhrb0dGUmlsYlE2VnBmMXl6aVhLcEFWWEQ3WUg0d0dNOXgycGNFZW95TW9MczRkN2pRcFZva1E?oc=5",
+      "site": "WAFB",
+      "siteUrl": "https://www.wafb.com"
+    },
+    {
+      "id": "FL-0dbfb288637a",
+      "date": "2026-11-11",
+      "dateISO": "Wed, 11 Nov 2026 12:53:50 GMT",
+      "ts": 1794401630000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Maine OSHA Cites Six Fire Departments in Deadly Searsmont Lumber Yard Blast - Firehouse.com",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdWtOYl9MQV94c3FXYy04V0pLWFZHSHdhTF8tMlU0VkRwVmNPTVFMMFZ1Tm0xektncVF1TUpCSDRVSy1BTl92NWpjRnNxUjNURnlRR2VELVpOSWZaSEpYZHlYSTF2SndSLURmV3l2bkljNmlPM1ZZNk5fRVh4QlVyX25qMGJGWkJjOVdGalYtRzVrbjl0cFloMWNvRFZHd1JGVWpRZjZsaWNXdGUza3Jjd2tzN0ZWZVl3WGo3OFJEWjZ5bnFZXzNfYjJOVWxlWGVWaml5Z0FiTzdhTEd4MEZaYnpPUGl4TS1YNDk0?oc=5",
+      "site": "Firehouse.com",
+      "siteUrl": "https://www.firehouse.com"
+    },
+    {
+      "id": "FL-67e6f6c4873c",
+      "date": "2026-11-11",
+      "dateISO": "Wed, 11 Nov 2026 10:56:32 GMT",
+      "ts": 1794394592000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "伊朗称两艘油轮在霍尔木兹海峡触碰水雷发生爆炸 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xamJSZWZkRm5jVU5wTmtWZXpmTEczTTlvQTZfN0tQQTBzWTBwbzBEUjNqaFhCSml0ZzAyXzNlZUlnbnQzOGhybk1UUQ?oc=5",
+      "site": "新浪网",
+      "siteUrl": "https://wap.cj.sina.cn"
     },
     {
       "id": "FL-ab98be9057c8",
@@ -39,42 +231,6 @@
       "siteUrl": "https://military.china.com"
     },
     {
-      "id": "FL-ea79690f4683",
-      "date": "2026-11-11",
-      "dateISO": "Wed, 11 Nov 2026 06:51:00 GMT",
-      "ts": 1794379860000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "孟加拉多地接连发生爆炸和纵火事件 警方加强戒备防范动乱 - 8world",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlUC1wU2x4MzVkSkxNVHg4dWZmN0lEV2VsQUI2blBDRGlfQzZhMHhKaURwMmh2dU0tNTNRejZ0eUNQOHkxN2xpbzNiNm9FazdrRUl0dUlIenEtQm5Dd1hMWW9sTV9SVVE?oc=5",
-      "site": "8world",
-      "siteUrl": "https://www.8world.com"
-    },
-    {
-      "id": "FL-a3f122b31a2b",
-      "date": "2026-11-11",
-      "dateISO": "Wed, 11 Nov 2026 04:49:00 GMT",
-      "ts": 1794372540000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "1 dead in explosion, fire in Ripley County: Coroner - FOX19 | Cincinnati",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaG5WVFNac0xGM0tyeEM4OE5NZjlpR25aU3Z4YVZkQnRyZ29McTQ3MmJFbFlZYjB5SVpzaWJlSUJHNGFsdk1aRlB6eUlQaER4TDNxNkdodDJtRTNLZV9jdzdidVZjYzl3ajQ0amFEUW5uYXAzMWIwNUpmVFRxOUR5amZHaw?oc=5",
-      "site": "FOX19 | Cincinnati",
-      "siteUrl": "https://www.fox19.com"
-    },
-    {
-      "id": "FL-e5dc60b99c50",
-      "date": "2026-11-11",
-      "dateISO": "Wed, 11 Nov 2026 04:41:00 GMT",
-      "ts": 1794372060000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Person missing after house explosion in Ripley County - WLWT",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObTh0TUdRV0pHTnhDRDY5eGR4bDdPcjZKcGdPWGlRX3dpVkdfRWgyalo4Y2VvamkwU0syMnUtSmFGQ0JUN0FITFdvdjJiSXNhby05ZWlzNE5WVmp1T0FNUF9SaDZDSVhKRTF4bVBob01HZmwzMWJHWEtZT093WGwyX3FFWWYyNzc1?oc=5",
-      "site": "WLWT",
-      "siteUrl": "https://www.wlwt.com"
-    },
-    {
       "id": "FL-a4596788a5e2",
       "date": "2026-11-11",
       "dateISO": "Wed, 11 Nov 2026 03:30:24 GMT",
@@ -99,18 +255,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-8e634c252eef",
-      "date": "2026-11-11",
-      "dateISO": "Wed, 11 Nov 2026 01:35:00 GMT",
-      "ts": 1794360900000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Lahaina wildfire survivor describes explosion, flames in Kihei brush fire - Hawaii News Now",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaVNrc1E5NEdvUUxOWUtsMVY4OGNVcTVsOU03aktuUVk3RjgycUZ6c1NYcEdpc2tfSjFiQkRfTUM0UmRuSGtyN2EteDJZZGNxZzFOX1Z0QlN0WXlVZlgtZEVLZWVrazBvTG9YSkRJcWlIUmRxUTdtdVJCZmt6bDVTb1ZLcUV4SzNHcWNWMlpHUHpGeGYzMW1veWxjTnNqekRsOXY5RGVoQ0V4T3VGMjN0WNIBxAFBVV95cUxPQjRlVlFkTnhDaEJiX280cEFyczZ4QWQ4bWpJclVRUE1nc0F1NEZaQ21CVWpOODMzUEl4enJHY2lvVGhFMDhYTHZsMGkwTHZGSHlydDdhRS1PdkZWeE13Wmd1Z2p1cmNpMkMwSkJWeGZpX1lrcnM3T1RFdHpzUGRXSmk5NzFEWlhsaVZYSkVKRGZJQ0FaVmRKdExiMkRLQlVEWmliMHNGSWFnX3JTVGpSU0wxeWVIMHhzUEV4OTJXeUJ3STg0?oc=5",
-      "site": "Hawaii News Now",
-      "siteUrl": "https://www.hawaiinewsnow.com"
-    },
-    {
       "id": "FL-0d375db4964a",
       "date": "2026-11-11",
       "dateISO": "Wed, 11 Nov 2026 01:15:17 GMT",
@@ -121,30 +265,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41LUg5YlFZZndwM0UxemlHeS1YWDlaaTNEd0NQOVRybGZDdjEtYlBJaTdFT1NMbEVUYjVIM3FXWG9kSEx4TkxlX2VNODlwYm1xalFCMzVKS081SFo2cklMQWlDRk50MlZHWEEwN1FjTXE?oc=5",
       "site": "中华军事",
       "siteUrl": "https://military.china.com"
-    },
-    {
-      "id": "FL-f2e9811ab89b",
-      "date": "2026-11-11",
-      "dateISO": "Wed, 11 Nov 2026 00:30:21 GMT",
-      "ts": 1794357021000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "霍尔木兹海峡一天发生3起油轮爆炸 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR3R3ZVVRNjl4dHlJZTlicVlKU1ppZUJfcGxIY1hQWU9zUE1CYVd1SmwwYUEzZWxXRjJhSHhKVURleEoyYlZjbFM1RUJHbWQ0RkJvRUN5Zmtqc2cxOER5TjliTzFWSlBjaUloTXVzODJBX0g3TU9ya3NpajUzR1d6bEFYenVhODZj?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-65d981d135b2",
-      "date": "2026-11-11",
-      "dateISO": "Wed, 11 Nov 2026 00:16:55 GMT",
-      "ts": 1794356215000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "#土耳其钢铁厂爆炸已致18死15伤# - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaW84OWx3X0F0OVY2dEJKWUFSOWp1d1hmeW9zaVU5NS12ektGMm44bkNUOW1zV3lwNXFDaUF5SzFvdUFjUGo3TUVkdkdyekZ4Ukktd0VkV1VfZmJEdjJVNzQxNV95TGw3YlFadTFiOWhyeTRjblNFSDFDb3B0czFLSWcyQ2VRb1NRMWRWbV9fVndFbFhuck5TWWM5TXhINDFhcXJDcXVxSmM2MXlnSV9QS3ROVXE2eDNCdnVLcC1uVkw2Rm4yMFFoaldGZjV0eXcxekxDTGxFSmJBUFowWmtNZThYRUFPX0xBN0RWMDJxZWw0YW9oWmlsVU5B?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://www.sohu.com"
     },
     {
       "id": "FL-730e63febe79",
@@ -171,40 +291,28 @@
       "siteUrl": "https://www.nbd.com.cn"
     },
     {
-      "id": "FL-2a6a26b8d87f",
+      "id": "FL-173250f93d06",
+      "date": "2026-11-10",
+      "dateISO": "Tue, 10 Nov 2026 22:00:00 GMT",
+      "ts": 1794348000000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "国际丨西班牙警员处置可疑背包时突遇爆炸，一名警员死亡 - 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HVHo3bzFqamF0STBZREtiVmE1RkprcEw1bmpLeFJya21jVTFVLXRuQ0RpamFrYzE3LXFZRzFmS1pjUWVtbmR0SmYyTjFJaGVLVzRWRUs4UWRYeXl0ZTFSc0xvME8?oc=5",
+      "site": "新京报",
+      "siteUrl": "https://www.bjnews.com.cn"
+    },
+    {
+      "id": "FL-1b03058f4065",
       "date": "2026-11-10",
       "dateISO": "Tue, 10 Nov 2026 19:26:53 GMT",
       "ts": 1794338813000,
       "scope": "dom",
       "type": "blast",
-      "title": "中国石油新注册《混合油气爆炸参数监测及主动惰化抑爆软件V1.0》等2个项目的软件著作权 - 新浪财经_金融信息服务商",
+      "title": "中国石油新注册《混合油气爆炸参数监测及主动惰化抑爆软件V1.0》等2个项目的软件著作权 - 新浪网",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93aE9ZQ01wSXZIMkZUNGQxSFF0dk5jekVsSndmakotenN5SW45VmJuQmw1eVNVcFZKb28xbllBVXJUWG5sbWxxNFpnQXNYS1FtbTR0ZVRIZVhrZ1ZLVDBJWTJoYU1UZHFPLS0yTDh3?oc=5",
-      "site": "新浪财经_金融信息服务商",
+      "site": "新浪网",
       "siteUrl": "https://cj.sina.cn"
-    },
-    {
-      "id": "FL-5d80b285b4ba",
-      "date": "2026-11-10",
-      "dateISO": "Tue, 10 Nov 2026 17:42:13 GMT",
-      "ts": 1794332533000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "6 Maine fire departments cited after deadly Searsmont mill explosion - WGME",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOXzJXc0xEUEYwNjRPMzJ4RWRQMkh6ZXlHcXlCMWNrTkVzcWRYN0lfd1VWVWRJS2VnTmpnUElCalIwUmtNWHBvUnRoV1pkWndYTW1GR21iX1BuOG9qZ3JQSmF0eldyY1hNcGdHLUU2OHloWHhpOXZtS2pQWnpxc2lPWUVoUnB3NkpDUVo4bHhqZTZUZ1lGeUNkN3VqTTFMOFZFTWVKQWZsbkRoaXBKODFZaHNIX1E3ekNWRkNxdWphcU9tX0RKUjJoUDNNVmg2bzl5bVFrYWU4bkxuMmJacEItZVNPYnR3VHky?oc=5",
-      "site": "WGME",
-      "siteUrl": "https://wgme.com"
-    },
-    {
-      "id": "FL-3acd69b63748",
-      "date": "2026-11-10",
-      "dateISO": "Tue, 10 Nov 2026 15:22:00 GMT",
-      "ts": 1794324120000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "利雅得凌晨传出爆炸声！阿美大楼多层玻璃震碎，胡塞武装宣称负责 - 手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0YXg5Nk5GSkEzRjNSbEc1akstdFgtNFNCd29tZWNsb0QzZklsSUpXNEZnSG5faUlxTEFYeWFTV0hBdndKaTIwTFBReGw2QTZ5bkNEOTNyS0Z0RzJtbzR3dUJZdkNpRFV4M2tKMjZaTDUzdw?oc=5",
-      "site": "手机新浪网",
-      "siteUrl": "https://k.sina.com.cn"
     },
     {
       "id": "FL-140272386639",
@@ -255,18 +363,6 @@
       "siteUrl": "https://www.jfdaily.com"
     },
     {
-      "id": "FL-17f3b0149dbb",
-      "date": "2026-11-10",
-      "dateISO": "Tue, 10 Nov 2026 11:25:46 GMT",
-      "ts": 1794309946000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Police officer dies and another injured after backpack explosion in Oviedo - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmcjVSLVZCbWNZeWpyVFBzSko2Mzc2aFRLYXZTQTVkMzBSRGw0NmptU0lEbGUtX2hfNUM3em1ZdDVweFB2UTZPOERjZjViMGc1LUZmRXA1alhmejg?oc=5",
-      "site": "BBC",
-      "siteUrl": "https://www.bbc.com"
-    },
-    {
       "id": "FL-ab2279e72a67",
       "date": "2026-11-10",
       "dateISO": "Tue, 10 Nov 2026 11:24:06 GMT",
@@ -279,15 +375,15 @@
       "siteUrl": "https://news.cri.cn"
     },
     {
-      "id": "FL-452652a2c7da",
+      "id": "FL-3df657ec1653",
       "date": "2026-11-10",
       "dateISO": "Tue, 10 Nov 2026 02:47:55 GMT",
       "ts": 1794278875000,
       "scope": "intl",
       "type": "blast",
-      "title": "（外代一线）土耳其西部钢铁厂爆炸遇难人数升至16人 - 搜狐网",
+      "title": "（外代一线）土耳其西部钢铁厂爆炸遇难人数升至16人 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb050azJGSGxhQXJZdXlyQkZxTUlxcHBtN21SdEpwVGpkUkZNMUtSQzUteDNwNmkwSWJJT21qZTVkS0owV1VwTnNOTGNIblJPVnpBem5KUFRJUkt4d0tlRTBsM1IwdjJDeS10WXFkNUNXUzlvaG9QU1ZCbm9jaTFSekM0aE80d3J3?oc=5",
-      "site": "搜狐网",
+      "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -325,6 +421,18 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNHBTWG9TWXNaenJ1WHdXcXFOdmsxS2huNzR4cWNWc0RQQ2JqMERYTkRHTzlLQjBWTmhFMjEtUzF5REhIX2JiSy1tT1JUenhaa1hNTU5qUFN0eFZmb1M4eWt1Y1ZfUEZxdXhJSHRZRWhkMzhrclM2cGtrNU9DZlRzQjd1OUw2UQ?oc=5",
       "site": "Shangbao Indonesia",
       "siteUrl": "https://www.shangbaoindonesia.com"
+    },
+    {
+      "id": "FL-340d5e981918",
+      "date": "2026-08-23",
+      "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
+      "ts": 1787468400000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-0615dd398028",
