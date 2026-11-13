@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T20:21:54.564Z",
+  "updated": "2026-11-13T01:15:11.212Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -13,6 +13,18 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYS0JOVzJpejE4Y2xScEFmMFBEclB2WGF0bmlNQkl2QnlaYTFEaWw0aEhYclN4bHNGZEVXRlVhT3MwVGJleS1yWl9pSTRnR1lyWFNNbHY0VGU5Y3lrUF84ZkFBSQ?oc=5",
       "site": "华人头条",
       "siteUrl": "https://www.52hrtt.com"
+    },
+    {
+      "id": "FL-ab98be9057c8",
+      "date": "2026-11-11",
+      "dateISO": "Wed, 11 Nov 2026 07:21:41 GMT",
+      "ts": 1794381701000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "沙特阿美石油大楼遭袭 导弹袭击引发爆炸警报 - 中华军事",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15dFNSNkE5X0swWnhLd182bTZUX1ZHWGVPM2tsakU4TDB5TmNqS0xNTEZTUTk5aUxVVDZTRDN4UUJSVTltNzhZVXcwT1RtYkJRNzRaZm1HblBKWUlTRFRWOW1uYXpfdUliRVZ4ekJFREs?oc=5",
+      "site": "中华军事",
+      "siteUrl": "https://military.china.com"
     },
     {
       "id": "FL-0d375db4964a",
@@ -37,18 +49,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50d0V2cHRXNXdGbjlmeDVGSm9uNm1XaGJXUEMxeFEyUDdaVlhzS2dTQ0p4QlI5UjlYWjRVcVlGbzVWalgwTUZLX3FiU0F1dUtUU1VwSDVBQVlzcllqTVRwWHBHTVliQQ?oc=5",
       "site": "每日经济新闻",
       "siteUrl": "https://www.nbd.com.cn"
-    },
-    {
-      "id": "FL-173250f93d06",
-      "date": "2026-11-10",
-      "dateISO": "Tue, 10 Nov 2026 22:00:00 GMT",
-      "ts": 1794348000000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "国际丨西班牙警员处置可疑背包时突遇爆炸，一名警员死亡 - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HVHo3bzFqamF0STBZREtiVmE1RkprcEw1bmpLeFJya21jVTFVLXRuQ0RpamFrYzE3LXFZRzFmS1pjUWVtbmR0SmYyTjFJaGVLVzRWRUs4UWRYeXl0ZTFSc0xvME8?oc=5",
-      "site": "新京报",
-      "siteUrl": "https://www.bjnews.com.cn"
     },
     {
       "id": "FL-3df657ec1653",
@@ -87,6 +87,30 @@
       "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
+      "id": "FL-41f22e5a4582",
+      "date": "2026-11-12",
+      "dateISO": "Thu, 12 Nov 2026 23:37:00 GMT",
+      "ts": 1794526620000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "'Pathetic': West Palm Beach commissioners blast flood response as mayor directs city from Spain - WPBF",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbzRfSmZiNDBDWjFUUG5DNXBSRHhaWlhJVlhhS3pmNWhOMXVBcGRkRGRvUlppY25mLTZkWVVhTXNDTjE3WjdaYURyb1c3MXRONHRFWmluWjN2Z19aRWFXaHpxNXptd0RZVzBIcmVRWHV3cDZkVDdZUTAzS0NvLXNHbm9tdlJZNUNMc0xTZHFrUGFFcjdOTUEtbFhqUDFCYXhnY3kyU1BSd1Q2QQ?oc=5",
+      "site": "WPBF",
+      "siteUrl": "https://www.wpbf.com"
+    },
+    {
+      "id": "FL-d6bbd39d455b",
+      "date": "2026-11-12",
+      "dateISO": "Thu, 12 Nov 2026 20:18:00 GMT",
+      "ts": 1794514680000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "‘Simply unacceptable’: Congresswoman asks feds for answers in Rainbow Terrace explosion - Cleveland.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQ2d4YmFMMVhuOGppbUFUZThWMjBOcHZIOW9UXzhiaXJnMzVwNEZVd25yLXRQUEN4R054a2d5SnRUSENzNkFNSW55TGtld0toTzJSLUJFS0xsSjRUalhEeGtJb1NaeHFQOW84cFA1RzB2WFB2TEpOZDViUTRUWDJ4eUF2WFVmV0JKaUNDb1JRVk1TNGdFRTg3QmFHZ2J2c2RDLTR4OUlhZUMxdVR3YlJXcEV1Y0R6MHJWa0pQeVlJMWlTUEJBQ1o40gHbAUFVX3lxTE9MU2Z2ODE3M2VvMy1xVnhHN2tubzQ1Q0dUWng4M3RaUkdNZVVzSGtfU3ktMmlrdUYzQnRkenR2bUpZWGtHTGxCZGNEd0hVWDdSZ1JPQnZNNlI2VjJUald1WUwwX05xR2lPVUlINmNPR190bWZkWVR2bHA4aTJsMGZxVmFCN0RGLWFpNTYzM1ZmMVRaam9xWnI0RVhWUmhhTzF4NTVVYzdBUGxYbFh1VXJVaTZJTS1INnlWVjdkM2dzcEp1RXY2ZWxjOS1CRjVjRXlCY1laMlR1OEI1TQ?oc=5",
+      "site": "Cleveland.com",
+      "siteUrl": "https://www.cleveland.com"
+    },
+    {
       "id": "FL-63d3ffca8c39",
       "date": "2026-11-12",
       "dateISO": "Thu, 12 Nov 2026 17:54:56 GMT",
@@ -97,18 +121,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IWExrME9ROVpCQmlmUXJ4ZWtYei1mWVRHSEt0Y3ZuSGdJblp3cmpRV1ZhQl9tWTRQSFpzcWIzLVJCbG1ubUQ2QWdpM0pfbVctTml4SWNCS2Ntc1VQb2poNC1OM2I5VGRH?oc=5",
       "site": "Binance",
       "siteUrl": "https://www.binance.com"
-    },
-    {
-      "id": "FL-e967dab79dcd",
-      "date": "2026-11-12",
-      "dateISO": "Thu, 12 Nov 2026 15:29:22 GMT",
-      "ts": 1794497362000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Details confirmed in Clarksville residential explosion - KARK",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORXBxTUdfNGdIYmxUbnJuS0lkSGdXOTJNVjl1UkxsVXEtazZYTnZtVGwya21lVm5NYmFZQWhYYlhBYXFoUWs5SGJEbUQteEI3VV9JNGxxbjJhdXZ0RUhRRE1uS05wdjJCeGVuSGFJX3VtZUE0TTQ4UEJNYWlUR1UxZ2ZmX2Y3dEc5dW1ENnpqTkpfMVpndHM0?oc=5",
-      "site": "KARK",
-      "siteUrl": "https://www.kark.com"
     },
     {
       "id": "FL-405edb277060",
@@ -131,6 +143,18 @@
       "type": "blast",
       "title": "镜头直击丨俄罗斯圣彼得堡市发生汽车爆炸 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb2tNTjI5UnM2VDJjMjlTSUwtaFJQdUFhV0RTeW1HTTJadVRtZndXWFJlZ3RQdXIxbmp4V1dCYUZQRkhPeXpEYmk2UTg0SWhhTXJNRlJRQVViaHdrdS1CcmZkVnl0QU9GUm5VVjhNVFhQb2JCVnlQa09wWDdXSjZqeDFqb3AwbWZo?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-9fa1ec9da6db",
+      "date": "2026-11-12",
+      "dateISO": "Thu, 12 Nov 2026 13:20:00 GMT",
+      "ts": 1794489600000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "油价大涨！霍尔木兹海峡两艘巨轮爆炸停航，载油超400万桶，美以高层通话爆发分歧 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUzcxOGpMaWtNTEZkTHhRXy1WQWRxVHJ0bk1XZ1ZRZFpINzFJQ0lhM05yM2VsZXVTdGVwYndYWmRvcHMyS1EyallRZGtodzJ0WmJ4SUtlMHJkVGNwdFREVWlEaGY3QTBLVzMySi1tYzJRczRNb2NraE5DdGcwZ3VfSjNsUFhUTlFQU2VlMQ?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
@@ -219,6 +243,18 @@
       "siteUrl": "https://ua.news"
     },
     {
+      "id": "FL-f3ef725064d3",
+      "date": "2026-11-12",
+      "dateISO": "Thu, 12 Nov 2026 07:28:19 GMT",
+      "ts": 1794468499000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "伊朗：两艘油轮在霍尔木兹海峡发生爆炸，均为超级油轮，总共载有超过400万桶原油 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNTMwNEplTjdKRGVtR0l0SXFOQV80TG52eFBjSDllWkhKc2JSTkpOa3NKSnhVWHVPUDd3QzB6dHhMRnBxSC1ScmNaZlVuNTVhZmMySnlTdW1qZVNxLWxvVEtVOXoyS3Z1OWo5WUMtN2l4TUZ0dzduSHREaHZfN29xQmhkcnhxNUZSVVVVdQ?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-658ae8a12124",
       "date": "2026-11-12",
       "dateISO": "Thu, 12 Nov 2026 07:25:22 GMT",
@@ -229,18 +265,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xeDloQWpwekpDNDZzWDUyY1dyb0thdWQtX2JMTGNjbTJvdnBEeWM4clZoNVM4aVpzRWtCRkdRSE1sTzlOTUhuTjJQUDJURVNZdnp6aDM4SWpvSkhRQkYxdg?oc=5",
       "site": "ThePaper.cn",
       "siteUrl": "https://www.thepaper.cn"
-    },
-    {
-      "id": "FL-6263d89672ca",
-      "date": "2026-11-12",
-      "dateISO": "Thu, 12 Nov 2026 07:19:30 GMT",
-      "ts": 1794467970000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "伊朗称两艘油轮在霍尔木兹海峡发生爆炸 - 中国日报网",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5bW1LZzJ3bFRMM3BuNDZGeHZsTm4wUW1UMzNLY0hQSHBETXV5MHFWUGRMdkg0bUZWSWRWOUxJbVdOeWFVN2c3UDhCRU5VOGJvNDQtZlYwb0h5THYzaWJQSTFKWWx0MTdxYUJuWlQ0dXh4NTBCQ1V3eHNTUQ?oc=5",
-      "site": "中国日报网",
-      "siteUrl": "http://cn.chinadaily.com.cn"
     },
     {
       "id": "FL-d8e07ee61194",
@@ -255,16 +279,16 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-de49c92f93db",
+      "id": "FL-c6b8aa5e934a",
       "date": "2026-11-12",
-      "dateISO": "Thu, 12 Nov 2026 04:36:00 GMT",
-      "ts": 1794458160000,
+      "dateISO": "Thu, 12 Nov 2026 06:30:47 GMT",
+      "ts": 1794465047000,
       "scope": "intl",
       "type": "blast",
-      "title": "美国一电动自行车电池室内爆炸起火 木质房屋被完全吞噬 - 驱动之家",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BRkdEa3RVN2RWWENCdVdrOGwwc1cweFBHdlpsSnZQaGlfLTJ3aEYtLUUxNjVSSnEzU1ZybFI2VV9sWVdpbU90aGpOU0x0OXoxVlJNeUxKMFA?oc=5",
-      "site": "驱动之家",
-      "siteUrl": "https://news.mydrivers.com"
+      "title": "美国一电动自行车电池室内爆炸起火木质房屋被完全吞噬|俄勒冈州|充电|充电器|剧毒|宠物猫_手机新浪网 - 新浪财经_金融信息服务商",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tNHBSZUtiWWItbzYzS3ItN042b3A5Ti1hMEdoQnhScmpPTkQtcm12Y3ZQNnJPX1VmQ3hVOHdEa2xabDFjNlZMODdIXzV0YmtiRDBkZy1oOTQ3cHJkalItSlpHZW5MS2JUaEJnM2xHem9zVWI4S2xQVmRTU1V6a2s?oc=5",
+      "site": "新浪财经_金融信息服务商",
+      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-1c057d8598a4",
@@ -289,6 +313,30 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYktUeWN3XzJpNnk2VGI0MUFCZDZ0Si1DNzZxTFdqM1VYWWsyX2hobnJhLTAtc2kzc3Z2eFAtQ05EUFJaSWNsNXlnWEF4aWdqcmF2SmdreFBiSjQ0V2huRUFMQUVxazhJYzNxRVczTXEwNFJ5M2huNWNKQ25vajBNeGI2OU1tdjF5VjFEcg?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-340d5e981918",
+      "date": "2026-08-23",
+      "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
+      "ts": 1787468400000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "泰南三府发生爆炸纵火事件 那拉提瓦府实施宵禁 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmpsQnBDYVJ3bWE0VGZmbzNmZGhfMzUxaUxvdWZRVGJVYVpQbm9XTDIzQ3BNcHRpTU54OU4tWWFTbXRhbjhKMW9MaTNOQlFBVEVURmJmOXpyeW04ZGVjOGVsakd3ZGVsOG8ybE9DZEtJemJrd2dTTjNyYUdIbWc?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-0615dd398028",
+      "date": "2026-08-02",
+      "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
+      "ts": 1785654000000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-5e735aebc1c3",
