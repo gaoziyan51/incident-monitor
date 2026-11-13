@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T15:53:13.084Z",
+  "updated": "2026-11-13T21:41:49.358Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -111,15 +111,15 @@
       "siteUrl": "https://www.thepaper.cn"
     },
     {
-      "id": "FL-1e263edbc7a5",
+      "id": "FL-5983c52d1aff",
       "date": "2026-11-12",
       "dateISO": "Thu, 12 Nov 2026 04:45:00 GMT",
       "ts": 1794458700000,
       "scope": "intl",
       "type": "blast",
-      "title": "美国一电动自行车电池室内爆炸起火 木质房屋被完全吞噬 - 腾讯新闻",
+      "title": "美国一电动自行车电池室内爆炸起火 木质房屋被完全吞噬 - QQ News",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uT3F1OTd2ZXZ5WnFGZGlJN3k1UndsbnVQMG9weWYtYXlNczIxUEhBSHFNWDlBVGxJSmx3Y2FuSXk2ZnVOMmJVVFNieTdrOWxoUzhvMUR3?oc=5",
-      "site": "腾讯新闻",
+      "site": "QQ News",
       "siteUrl": "https://news.qq.com"
     },
     {
@@ -159,28 +159,52 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-b5191a494a8f",
+      "id": "FL-84efcecf0ea1",
       "date": "2026-11-13",
-      "dateISO": "Fri, 13 Nov 2026 15:29:10 GMT",
-      "ts": 1794583750000,
+      "dateISO": "Fri, 13 Nov 2026 21:02:30 GMT",
+      "ts": 1794603750000,
       "scope": "intl",
       "type": "blast",
-      "title": "Explosion Levels House in Warren, MI, Probe Underway - Firehouse.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMUk0RXdYVWVackU3VW1yQVQwSDROakkwVGxETHlpeloyWmt1eG9rcnhXRE4yUG5KNlAyX3JyU2ZCcHBjZWxWb2FYRnA4cGhCRC01QUxJRkgzZ0l2Yl90dDVRTW41eXIxR1RzdmtLVFlUVGZXVWJHeE1vZWloMFpadDZyNS1xZ0Qyb2JnVUxHclNnbkl0OC05YnhES0Fxa1hON0VoZDBoMVVIdkZTUDM2QjhtaUlHZw?oc=5",
-      "site": "Firehouse.com",
-      "siteUrl": "https://www.firehouse.com"
+      "title": "阿根廷大首都区发生燃气爆炸致20余人受伤 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wT1k4cDd0REljdThhdnlkVE5wTHhwUG1tcmt4SkZ6X3BxUzRJNHRwYWxtNkoyNVJmYzNMV29mQld0SnB5ZFFWaVlrNjc1dTVrUXBxN2hDTTJJUDVXMDQyTUpMV0RJWVllV19IaW9ueHBMUmJfMEZhYQ?oc=5",
+      "site": "央视网",
+      "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-afe94fb3b4e6",
+      "id": "FL-0fe7e2d1c668",
       "date": "2026-11-13",
-      "dateISO": "Fri, 13 Nov 2026 15:10:36 GMT",
-      "ts": 1794582636000,
+      "dateISO": "Fri, 13 Nov 2026 20:42:48 GMT",
+      "ts": 1794602568000,
       "scope": "intl",
       "type": "blast",
-      "title": "PHOTOS: Albany State International Education Week- Cultural Explosion - Albany Herald",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcXhZQUVDZ2xGYi1CTlZ5c1E1MURqM1hVYURuYmUySzZhYkg3M2xJOVVTVjZ2T19SMlpoN25fWXdaTkd4QkppNDFJdGM0VDg4eGFCNXRwbUJ0bFdXRS04QWs5cnpkdXI2M0VpcWRmVVBRUGhydmU2V2tFa3BtZVBhdTVhMGx6SFVuZldWcmRHZmVZQkd0M3J4dC1yUTRMaXpwY3kza09FMW0?oc=5",
-      "site": "Albany Herald",
-      "siteUrl": "https://albanyherald.com"
+      "title": "Explosion levels vacant Warren home listed for sale, leaving neighbors shaken, SUV totaled - WXYZ Channel 7",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcFZHb014cnMwU1Z5ZVVCUEdnamIydGVBWlFKbzFUbV9ydEMyZmRwOHNJV05iYzNQa2NpUTJYNkhfRHlaRExNR2pGZV9jZ0puSjBjNVNoSFZfUjBOd2U5Q1o4WTVXTzhWVEk0SllJVnh4S09leGtrTWVGaGNYUThHUkVYMXBrdk50RkJIc3B5aXBsMHAwejJtdjhyUmt4YXhkczFSb3FIZGRnMlYyTEt0SXlKVFE?oc=5",
+      "site": "WXYZ Channel 7",
+      "siteUrl": "https://www.wxyz.com"
+    },
+    {
+      "id": "FL-3bd64d3de6f4",
+      "date": "2026-11-13",
+      "dateISO": "Fri, 13 Nov 2026 18:33:39 GMT",
+      "ts": 1794594819000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "11月14日：原子弹爆炸后，大国为何不敢互相开火，世界已经平静了多少年 - 手机搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOUUxNHpuOURjcVJfUXUxTmViLVdzN1A2MGxQOE84cTA0Q1VoQlloMDNVWjdQOWt0NWVoOFV2di1MYnc4S0s3QnVLay12NnpoeHZvVFJLdFBpXzlGdklNTlNhUVd4UlYxXzJNcEhZT2l4Q3BtQnhvYjB1Y1p5NWdReTdpdG5PZjhranlLUw?oc=5",
+      "site": "手机搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-494f62ab30c4",
+      "date": "2026-11-13",
+      "dateISO": "Fri, 13 Nov 2026 14:28:43 GMT",
+      "ts": 1794580123000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "莫斯科突发汽车爆炸！亲俄的乌克兰前总理发言人扎沃罗特内重伤 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQamhjMkJQTjFRVWRtZm12eU5jX1poOTRzUmFNeVJFSjRSV2F6bzFTeXZqRTBaejAyTERtZS1ocW9kLWFuSEZCNzVGVWViSExjQVpBTVFiRzlLMW5WTThpb3lkYk52S3J0NkVqb0N1Yi16WmRocmlzTUdaRmdiS1E4aWR3dDRqRk1hV2xuOA?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-4986f1bac448",
@@ -207,40 +231,28 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-f5484ac41614",
+      "id": "FL-856dd3451471",
       "date": "2026-11-13",
       "dateISO": "Fri, 13 Nov 2026 12:58:18 GMT",
       "ts": 1794574698000,
       "scope": "dom",
       "type": "blast",
-      "title": "流量爆炸！曼联纪录片今季开拍，10轮跌降级区+主帅下课+新帅任命 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMVV6Ym8ySzhsSHQwa2FULWp1TTN0bl9mczlCd1FkeW9fYmVCUkVSU0Y0MENjdTF4b0VfMjBEOUpfWXR0R0w4SHpwSWFwSlFpdEdUeVUwa0F0bF9pVUNUTUNtZnFyaDkzc3JVUlcyS21wSTVJSzYybS1Uc3hqY25McF9vazhXc2d0OGZaZTVRVUphLVpybjgtd2p0TGp2MnpBVHR3R3drYUVxVkRMVmxLYWFibWI1dw?oc=5",
-      "site": "Sohu",
+      "title": "流量爆炸！曼联纪录片今季开拍，10轮跌降级区+主帅下课+新帅任命 - 手机搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOVFja05Ed0JZNVZFLU5ZQUxqS25tSG9sdTJvdXNIeXI2VmFod2dEbHlLTjZIN2tIaGdvV2x2X2ZzNjV1Rk9HYmhtemNzdy1PZ1dvdHBlWkdwNmI4TkZBQ2FtVTlXRVdUNElzbTJDNFYxenBoY0dDZS11R1RYMFNMVzdobUpUTl9O?oc=5",
+      "site": "手机搜狐网",
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-1c785d4cf7d0",
+      "id": "FL-96c270505337",
       "date": "2026-11-13",
       "dateISO": "Fri, 13 Nov 2026 12:54:03 GMT",
       "ts": 1794574443000,
       "scope": "intl",
       "type": "blast",
-      "title": "乌克兰前总理顾问在莫斯科汽车爆炸中受伤 - Sohu",
+      "title": "乌克兰前总理顾问在莫斯科汽车爆炸中受伤 - 手机搜狐网",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNalpYLU1tOGpoN3VmS2hRYjZCM1RKR01ZbTlORGxvZTdaSlRhOWF5cFZzVzZmVmJxQlVKU1MzWVJGbG1oWEZSRFlETDFjNDVlZ25VRGNVcXhxWVh0VjF3TUgyVG1Ga0pBSnBRZTJ0d1YxTWl5LTcxUzEyV19rRU1BbHhLTnJZLVlTcDgwTQ?oc=5",
-      "site": "Sohu",
+      "site": "手机搜狐网",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-f482cea7551a",
-      "date": "2026-11-13",
-      "dateISO": "Fri, 13 Nov 2026 12:11:28 GMT",
-      "ts": 1794571888000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Explosion erupts at vacant home in Warren, cause under investigation - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYlNid1hLTTl3bDJSMHFEUWR3QkdaaDBTcHhNVEs5cWFWdkdsY0xCYl9ObUhRY0ZhNlZBX2xqaTJFSFFxanYxa0xIZUVHWFZEUFRfY0tjanl0X3NmcmgteGtWUzk1S3BtX2hvYmNBUVlfWWFES2gzYzY5dWNuaWVvU2lUMzhxeUZYQVNMZ3ZMTDkwcWtMOEhGLXNrTzI4NFBXalBCVlY5cnA?oc=5",
-      "site": "CBS News",
-      "siteUrl": "https://www.cbsnews.com"
     },
     {
       "id": "FL-ae15481f0d5c",
@@ -265,18 +277,6 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0Z1lDTUdOSmpfYUZmVzRiWmxOcXVGQml0UHI2S0t2ZUJEcDNneXFaUUlReV9naHdoSjFMSU41OHpOeXVfd0RVMC1yaFVoTV9seHRzTzJsZTZVMmhuR1QzTF9jRQ?oc=5",
       "site": "新浪网",
       "siteUrl": "https://www.sina.cn"
-    },
-    {
-      "id": "FL-0f5c55a39922",
-      "date": "2026-11-13",
-      "dateISO": "Fri, 13 Nov 2026 11:21:32 GMT",
-      "ts": 1794568892000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Warren home explosion sends wall into neighbor’s house, debris flying - FOX 2 Detroit",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CNlZhVnFCVU9aQ0hpMllfcV9uVFpCVFRSMGhCWmxpb01Yaks1OS1jeVBWNm9TNFRlRVJFMDhlV0VyZmczTmJfQWEtQ2x2YWJzU3V3VVo0VFpzaHpFOVFBb3ltazFqWUxNTnZuYmMwZ0hMempmdDZPSmJ3?oc=5",
-      "site": "FOX 2 Detroit",
-      "siteUrl": "https://www.fox2detroit.com"
     },
     {
       "id": "FL-50c2eb9417bc",
@@ -325,30 +325,6 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVlRva3B2WE56SmZ0dlhpWS01Qmpkc1c0Tlh5ekZiTDhKVDlCb0Jva1Q0bDU0MzRhZEdaUS1GS2tjSHhZeVlJTzlDdVNQQm1FbDZxdWxoX0dXdnJESnlGTWF3ZkxnVF9obXZZcnJXcnFPV25YcDYwMGFtM2djbHBQZXp5ZFZaQWp2Z0JKNTFVNkpHRGk4V2gydDdERjc5XzROMjRZalpOd09tWjIwX1poSUJB?oc=5",
       "site": "CBS News",
       "siteUrl": "https://www.cbsnews.com"
-    },
-    {
-      "id": "FL-277e1c89face",
-      "date": "2026-11-13",
-      "dateISO": "Fri, 13 Nov 2026 07:00:00 GMT",
-      "ts": 1794553200000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Iran says tanker carrying LNG hit mine, suffered explosion in Hormuz - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbWY4UFhVeWZBSkUteDV4dHd0b3cyU3czTkdkU3ZLbU9zZzlhOGhTcDlDcTlmSVlKVUZFZDhwTWdmdG9zQkJHZ05jaXVad0ZpVGdsTHJvZ0VRT3Q4cXRMZFZ5cFpkR0Y5dmo4b3dlQ0F4RUVxZFFGanB4M1cxZmJlSERVQ0dQVDNWbVFVV2pJZ09XNG5DWlV2Zk4xdi1xRm9jUjhzVFl1akd1QQ?oc=5",
-      "site": "Reuters",
-      "siteUrl": "https://www.reuters.com"
-    },
-    {
-      "id": "FL-cccc0684b031",
-      "date": "2026-11-13",
-      "dateISO": "Fri, 13 Nov 2026 01:12:54 GMT",
-      "ts": 1794532374000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "一夜多地传出爆炸声！美军再袭伊朗格什姆岛 霍尔木兹海峡局势升 - 中华军事",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05aWxHeHQwTUtXVEpOQkpoaDhWUFRqbURUa1d5d0o1SVV6a0NhYlpfaGhOMTU1bnVublFTNnBIQ1pSbGRnS09hM0dkSTZWQUdTYXE3NExXWEdTeFc5YWRfYUVHSTBhWHVDeHFfNnprb1k?oc=5",
-      "site": "中华军事",
-      "siteUrl": "https://military.china.com"
     }
   ]
 }
