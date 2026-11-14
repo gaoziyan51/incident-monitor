@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-14T19:39:35.249Z",
+  "updated": "2026-11-14T23:21:59.957Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-0d375db4964a",
+      "date": "2026-11-11",
+      "dateISO": "Wed, 11 Nov 2026 01:15:17 GMT",
+      "ts": 1794359717000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "土耳其钢铁厂爆炸伤亡惨重 安全心理陷阱需警惕 - 中华军事",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41LUg5YlFZZndwM0UxemlHeS1YWDlaaTNEd0NQOVRybGZDdjEtYlBJaTdFT1NMbEVUYjVIM3FXWG9kSEx4TkxlX2VNODlwYm1xalFCMzVKS081SFo2cklMQWlDRk50MlZHWEEwN1FjTXE?oc=5",
+      "site": "中华军事",
+      "siteUrl": "https://military.china.com"
+    },
     {
       "id": "FL-4e48ed7618ca",
       "date": "2026-11-12",
@@ -39,10 +51,118 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-a25ece54f6cd",
+      "date": "2026-11-14",
+      "dateISO": "Sat, 14 Nov 2026 23:04:32 GMT",
+      "ts": 1794697472000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "叙利亚首都周边发生汽车炸弹爆炸致2死1伤 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85S1ppQXlSVVJJZlVfTF9VSzZMZGpVZzAxT0ZTa1hXdjhkSkxhbGMwbURRSUU1amtwQVNLOFpJSloyODVlTjZIazZyUFRyaFEzVVRvemtCQUhXNnFYZG8zUHU2eWFNME5uMTJtbUZ5X0I1TFNhQ0oxTnEtQXpSX28?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-98c73743f2c6",
+      "date": "2026-11-14",
+      "dateISO": "Sat, 14 Nov 2026 23:02:29 GMT",
+      "ts": 1794697349000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "叙利亚大马士革农村省发生汽车炸弹爆炸，致2死1伤 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GcnVWMzJLNm1JUGFqT0EzTXBKZW96MWY3cWlXZ2N3Y1g4RmhXOUhqQkRXRFI0OFZpZVVUTTlwR2xXOFdoVDRIclhwRzlTUkFSaUdtb0dMWnVLc0ZRNlE?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
+      "id": "FL-37129b53fa9d",
+      "date": "2026-11-14",
+      "dateISO": "Sat, 14 Nov 2026 22:51:14 GMT",
+      "ts": 1794696674000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Explosion near Syria’s capital kills father and child - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSWlmQkJnOHRuNTMxVG84NzVIWU9xRDktX3NBU0oyLXBnMXJ6czZLQWFLOHVuZDg5N2tWZERCZzBpcHZNSVQ0R1Z5MWdQRGlSYjV5anY0NnJRWWFfYlM5bGZVQVA1bmc4bHQxQXd0QW45eVEwOTNfbld2Qk5SaWVHNDJFdzAyeHcydjJSVjU4M25wU3M0bXNOVjFn0gGfAUFVX3lxTFBEcF8xVEc0OVFfeE9yX0NwWHdoaGwxTFExalhUVkM0WEtoNGd6UW1CLUJlOEw2UUY0VlNIS2stbHRkQUN2bmFieHBUZ1NINnFibk9QYURWb19CQ2hSQl9aM2syamxBRHByRlgtVG9yMmJxbUVtNDAtMElUSmxFYnVEa2dpSEo0YlRpcWJUT00zTE1CUHFYclhnQkpZWGVROA?oc=5",
+      "site": "Al Jazeera",
+      "siteUrl": "https://www.aljazeera.com"
+    },
+    {
+      "id": "FL-fc40372c3631",
+      "date": "2026-11-14",
+      "dateISO": "Sat, 14 Nov 2026 22:35:53 GMT",
+      "ts": 1794695753000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Spectators shocked at SpaceX booster explosion - KYMA",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVGh2VFpNUENZeU02X1hHZE5hdnE0ajBLcGJKSHNVbDdhQk9YTjJnaDVuSENOSHR5eERpMmJnT0RycGxVeThnMmdZdDZZeXZiN2hQVU1UV0w5TWhyVjc3RUl2WDFEZkROZ1JkVVdrR3FzQ0JjM2RxZjFtdS04SUxCbjVQQTY5Nlh1bUF1TVBMOUtQTGxVMklr?oc=5",
+      "site": "KYMA",
+      "siteUrl": "https://kyma.com"
+    },
+    {
+      "id": "FL-8a3b71ba464b",
+      "date": "2026-11-14",
+      "dateISO": "Sat, 14 Nov 2026 21:38:39 GMT",
+      "ts": 1794692319000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "伊朗称霍尔木兹海峡以南2艘油轮触雷发生爆炸 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9IaklUcGRoUjg5dkNkTV9sVDhxekQyLVgxREFDbkdpemRRVl9TVjVTeW9KOEJtdmFvTFNRQ3ZvSFRTTVZyVU40SmtJY2M?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://news.ifeng.com"
+    },
+    {
+      "id": "FL-43bd7d10e7b9",
+      "date": "2026-11-14",
+      "dateISO": "Sat, 14 Nov 2026 20:36:58 GMT",
+      "ts": 1794688618000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "Ruler太狠了！飞机输出爆炸不给机会 7-0-8对位GAP - 直播吧",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA4MUg1VFFEaW8yNklsTHZFWUxzVDJNUGVQUHN5LVBQTU82Y0otaDk0OXpCZWFOY0FpSDVWbEpkUFpTMnJrMl9RNGRqRlVHWXQ4aDBrVFZBYm16THFmMjVBNG56MzBmMnlSZEw4YUdRSXIydkZiRkFDdTFn?oc=5",
+      "site": "直播吧",
+      "siteUrl": "https://m.zhibo8.com"
+    },
+    {
+      "id": "FL-504db153583b",
+      "date": "2026-11-14",
+      "dateISO": "Sat, 14 Nov 2026 20:32:09 GMT",
+      "ts": 1794688329000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "Ruler飞机爆炸伤害 远古龙团打出一万多的输出 - 直播吧",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCWVdobHdvZG9yT0tmUklqeExHNk5yMVdJY0Q3djVRcFFRVGFiTTRxOGdJSlpsd3oyWVBoMGFpVjA3T3ZZWFF5akRUdnZSVjhRZ1otYlc0RzdfQmRfdC1CdW5QQm1vckJ2c25oNzBnVEJDY3VHajF6NQ?oc=5",
+      "site": "直播吧",
+      "siteUrl": "https://m.zhibo8.cc"
+    },
+    {
+      "id": "FL-b263e436d31c",
+      "date": "2026-11-14",
+      "dateISO": "Sat, 14 Nov 2026 19:46:51 GMT",
+      "ts": 1794685611000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "SpaceX’s Starship Soars Into Orbit Ater Booster Explosion Prevents and Unprecedented Double Catch - Broadband Breakfast",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZldwWjFnaGl2dVkzZmFybTY4MEI1MGw5WFBjcVU1dkdsLWlOOFBFSlZOZlI3ZWNOSEVXbEkzalpEVFM5YzhKYWRQenNTbk00cmF5akM1RGxwSzlqVDA2dkt3aGgzVVJJVlV4Vk43VlRYX0xOd0VGNklHTUtaVHFXX0dNaHhMeklfUDJrZEhVZjZiQXdwYjllcV9Kd0thRUJEdzBIUENOZ0hjamFBZjNQWk1aSFBpa25SQlRTdGpYR2UwRXhXMWpR?oc=5",
+      "site": "Broadband Breakfast",
+      "siteUrl": "https://broadbandbreakfast.com"
+    },
+    {
+      "id": "FL-de1d7925f963",
+      "date": "2026-11-14",
+      "dateISO": "Sat, 14 Nov 2026 18:37:39 GMT",
+      "ts": 1794681459000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "叙利亚大马士革农村省发生汽车炸弹爆炸致2死1伤 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZV3Bqbm5vd2ZNRk1UUGdrLXdLampxQzhpYWZBV0ZIU1BYeWlaRzhESWMtNHhINEt3bkxVQUFCeGE3SmhqX3l4SGZiVQ?oc=5",
+      "site": "新浪网",
+      "siteUrl": "https://wap.cj.sina.cn"
+    },
+    {
       "id": "FL-e8c6b73871e3",
       "date": "2026-11-14",
-      "dateISO": "Sat, 14 Nov 2026 16:18:44 GMT",
-      "ts": 1794673124000,
+      "dateISO": "Sat, 14 Nov 2026 17:13:14 GMT",
+      "ts": 1794676394000,
       "scope": "dom",
       "type": "blast",
       "title": "2岁童“甩炮放嘴里”爆炸了 抢救2天丧命 - 万维读者网",
@@ -51,16 +171,16 @@
       "siteUrl": "https://news.creaders.net"
     },
     {
-      "id": "FL-4fd3a5ad0d1c",
+      "id": "FL-88089523a55a",
       "date": "2026-11-14",
-      "dateISO": "Sat, 14 Nov 2026 16:06:15 GMT",
-      "ts": 1794672375000,
+      "dateISO": "Sat, 14 Nov 2026 17:05:00 GMT",
+      "ts": 1794675900000,
       "scope": "intl",
       "type": "blast",
-      "title": "Darryn Peterson’s career-high explosion is 1 silver lining in Jazz’s 11th straight loss - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMzdlVVhSZDNyOGZZcWwyUTVQbC1VWEU5eFdPY3pDNUFod1RrMU5tTlpGQWJpT2ZIOUhUVGUyWS1PYkZTZ1hkS1N4NU54YklxMHo4eGsyMk5iU0FMbHMzZ3lnSG5rSFotb0JseXp3Y2pJcXZ5cE0wTVFYa1JQTjY5aUVNTllPZGx6M0pLYnY3TQ?oc=5",
-      "site": "Yahoo Sports",
-      "siteUrl": "https://sports.yahoo.com"
+      "title": "大马士革郊区汽车爆炸致父女遇难—— 半岛电视台 - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQkhydmQ0Y3IzNEpUUU5JenkyRE5HLTg1VktubjB2WFlzOE5wNHpOdzYzdDU1bUIyS1N4RDBnaUlkRldNaWk1eTZiRlV4OHN6ckFTZVV6Wm14eTFpeHVuN1Q0dnJQcEVyczZzbXBvNXRraW5WekI3MURfSHdEUVFvZVI1NHFxR3RBNllGTzZqYlZLWFpNTUw4VTlPYWJ0eDNVa3NIVUFB?oc=5",
+      "site": "UA.NEWS",
+      "siteUrl": "https://ua.news"
     },
     {
       "id": "FL-614549a28e47",
@@ -75,30 +195,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-05a970ba4687",
-      "date": "2026-11-14",
-      "dateISO": "Sat, 14 Nov 2026 13:07:47 GMT",
-      "ts": 1794661667000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "乌克兰前总理顾问在莫斯科汽车爆炸中受伤 - 手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SWHd1aEoySEFnbE9vM2FzVHpSODVFaXVtS25qZ3dLT0NPRGRwU3hYSnVra1F0ZFRzcW5DQ2NZb1V3WTVlTkRXeHA1QlJhV3RFdlpFREY4LUtkNXloZHMxWUZHUzdycTFMaWxjN1d0TUhwa3pnVzI3VGJ5MWtrT2s?oc=5",
-      "site": "手机新浪网",
-      "siteUrl": "https://k.sina.com.cn"
-    },
-    {
-      "id": "FL-7691d06d8002",
-      "date": "2026-11-14",
-      "dateISO": "Sat, 14 Nov 2026 12:53:16 GMT",
-      "ts": 1794660796000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Woman killed, three wounded in Kafr Manda grenade explosion - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JX3BpRXBjZ2pqSzUwWG44S25Eb3BzMzljNmNaNm5NNmVMN2lOX3B1bURDTXJ4NndlQ0dZMmtwN29Zbm0wUVlKRUtsSnEyYndkQkJGVjZIN3FfR0k2VmVCR0llM0RJWTZSanNxMl9R?oc=5",
-      "site": "The Jerusalem Post",
-      "siteUrl": "https://www.jpost.com"
-    },
-    {
       "id": "FL-5ce8e793f1a0",
       "date": "2026-11-14",
       "dateISO": "Sat, 14 Nov 2026 12:18:11 GMT",
@@ -111,28 +207,16 @@
       "siteUrl": "https://news.iqilu.com"
     },
     {
-      "id": "FL-51abd811d460",
+      "id": "FL-81e021a67789",
       "date": "2026-11-14",
-      "dateISO": "Sat, 14 Nov 2026 12:14:27 GMT",
-      "ts": 1794658467000,
-      "scope": "intl",
+      "dateISO": "Sat, 14 Nov 2026 10:23:00 GMT",
+      "ts": 1794651780000,
+      "scope": "dom",
       "type": "blast",
-      "title": "SpaceX booster explosion prevents unprecedented double catch - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBCTHFERTZtOXdxTGt3bE9MZ002cnY4RFdJT1BiVG1kbnpDVWV3T2c5V3B4YTRsVU01TWI1UDQ2NkdpSHpiSFZOb0k5bEY?oc=5",
-      "site": "ABC News - Breaking News, Latest News and Videos",
-      "siteUrl": "https://abcnews.com"
-    },
-    {
-      "id": "FL-68c2f563d0b3",
-      "date": "2026-11-14",
-      "dateISO": "Sat, 14 Nov 2026 07:57:16 GMT",
-      "ts": 1794643036000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "爱尔兰在多国领导人晚宴地点附近发现爆炸装置 - 8world",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTjdvclg0dDNxdEJ2SzBXcVVOanU0VkhuR1ZfbUkwQklKWWpJRjFLWVNKcE5tLTJUaVloRXJoeFZIaDBHbTZjREp1VE1ucjhVR3UzazV4NmxIVHdEbDZhNXBNZ1RNVVdDX1EtdVZFM3Bvenc1TFhaQmszQjBISEJsMlgyTS1GWWkza05QdHRLQjVPSUkyd1c1T0U0WUZ6UFBRbkJEMUh1NGdPSGtkcTA4?oc=5",
-      "site": "8world",
-      "siteUrl": "https://www.8world.com"
+      "title": "星舰十五飞尝试完整回收，一级溅落爆炸二级明日返回 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWHdFeVRqRkNUUmFodnZYbVZGX0pSd3ZqajN5NE12TjU1MzBIY1RDMUFqSVhDZThYeV9Kc2xDRGdyb05PNjZMYnQ2bVlxUDFrQUs4dDZwSFRIdmloem9UWVFicEd4NEJmekIwalREeVpoX0lMNHRSamg3S0JaLU1uazZVSkNUVWQ5dXQtbg?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-802e20cc5675",
@@ -166,9 +250,9 @@
       "scope": "dom",
       "type": "blast",
       "title": "“星舰”助推器水上爆炸画面曝光！系首次尝试助推器和飞船“两手抓” - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONmc0T21LYXR1VEppaDFFZTJBbExpVXNhZk1tV1J2R0Vwcjd4cERNanZiU3h2T0psY2RTdFFiSmJqenh6c1BDRTFSZXBISS0yelpnVmt1S192ampHMXVweDNvcks1eXdoMWJxMm4yeUg3LVZxY0lvamFDc0dQNUwtZ0NhLVNNRnZhU1VBUGJjTQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa3dta0dnaW5rUjhFd0JJdzBiZjJCMUNwWkRXU09nV1RVTEdYSXFJcllmQi02SjNDRGhVQ2htY0NzdjBzMU9qX3VXVFVvSERmSXlFLUhFRzlmX3VKZUZmMXd0OG5zd244ZU0yTTZVeXlsdjBrbmdUMDRzM1hEZGhYR0RrNVpROGtBV094MA?oc=5",
       "site": "Sohu",
-      "siteUrl": "https://www.sohu.com"
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-1dce173744ce",
@@ -193,18 +277,6 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wcEVGWGRPY0J0VVV3UFhuRnBXY19NSDd4eGRUVU9EaDJsZDBqRnVfeHF3Y0dMeXFEUzJVaHBkWkgteEh2UFQzclFlaGlUb0NSNGQzZW1aVWkyQ0RpS2Z5Z0FDRWFNVFNVT1ZPbQ?oc=5",
       "site": "早晨报",
       "siteUrl": "https://www.zaochenbao.com"
-    },
-    {
-      "id": "FL-1e37df23fece",
-      "date": "2026-11-14",
-      "dateISO": "Sat, 14 Nov 2026 05:49:02 GMT",
-      "ts": 1794635342000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "帅到爆炸的武侠动作，吕颂贤版笑傲江湖高燃动作混剪 - 虎扑",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45bG1saGFtNjhCSVZKaDNEUlZMWlhiQTI3TllJc3I2NXNwc1lMR05kTXpPVTVXUi10eFc2WlZwSFY0dWlPaDl1NmlDS1NLdw?oc=5",
-      "site": "虎扑",
-      "siteUrl": "https://m.hupu.com"
     },
     {
       "id": "FL-a6d589556952",
@@ -303,30 +375,6 @@
       "siteUrl": "https://www.vietnam.vn"
     },
     {
-      "id": "FL-76debfffec2b",
-      "date": "2026-11-14",
-      "dateISO": "Sat, 14 Nov 2026 00:53:15 GMT",
-      "ts": 1794617595000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "莫斯科汽车爆炸，乌克兰前总理顾问受伤 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9NVGxpcFVJeUVCa0pLbzEtYWFvY0hJNHhOdHg0T0dwbEVScVlFZDJYSWw3NS1IWUl2X1NfVGxEX244QUF4UVNfOQ?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://i.ifeng.com"
-    },
-    {
-      "id": "FL-4e4f5df4e1a6",
-      "date": "2026-11-14",
-      "dateISO": "Sat, 14 Nov 2026 00:07:13 GMT",
-      "ts": 1794614833000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "SpaceX’s Starship launches as booster catch attempt ends in explosion - WOAI",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdG5YZ2VKbzNtMkp2LVdmMUo3bF9CMlFfbXBsR24yZVJlS3dqbFROX3N0dnJoUkRrX2VrUWV0cEVRaFdLb0Z3TE4tREpaWG02U2cwUFB4YnlQcGI5WXZ0SEFna29yWEkzMWlhUUtfQXZmb25GR2FVdEJoX1FYNm9wczRhckU5Qzl0V2tjbV9Sb3hpenBmZXY4UE00QjZzcXBPaEU3OFRDMW1abVE?oc=5",
-      "site": "WOAI",
-      "siteUrl": "https://news4sanantonio.com"
-    },
-    {
       "id": "FL-d5f4f16f3174",
       "date": "2026-11-13",
       "dateISO": "Fri, 13 Nov 2026 22:30:54 GMT",
@@ -361,6 +409,18 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04SHpnWGxZQk5ldHludWNtSEtrc1EwMkota3BDVUtWTGRyNEhSckswV1BOUHVoVGRYZnFtNHhZUUxBNmFZM19TZmN1NHBNREVtcXRoc184T0pGeEc1dkE?oc=5",
       "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
+      "id": "FL-3e38c9280d67",
+      "date": "2026-11-13",
+      "dateISO": "Fri, 13 Nov 2026 12:49:00 GMT",
+      "ts": 1794574140000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "乌克兰前总理顾问在莫斯科汽车爆炸中受伤 - 上观新闻",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KZ1Mxd2pqekJiOTNhejBNM215VzUwb2NtMnZ2U3V1c1hqaVRsemJQV0tBSlNGVjBzVW5zWWFpUHRfRkJQdkpzb2NaaXVZWDdJZ3pVSFN5V2d2Zw?oc=5",
+      "site": "上观新闻",
+      "siteUrl": "https://www.jfdaily.com"
     },
     {
       "id": "FL-ae15481f0d5c",
