@@ -1,19 +1,7 @@
 {
-  "updated": "2026-11-14T14:57:59.622Z",
+  "updated": "2026-11-14T19:39:35.249Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-0d375db4964a",
-      "date": "2026-11-11",
-      "dateISO": "Wed, 11 Nov 2026 01:15:17 GMT",
-      "ts": 1794359717000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "土耳其钢铁厂爆炸伤亡惨重 安全心理陷阱需警惕 - 中华军事",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41LUg5YlFZZndwM0UxemlHeS1YWDlaaTNEd0NQOVRybGZDdjEtYlBJaTdFT1NMbEVUYjVIM3FXWG9kSEx4TkxlX2VNODlwYm1xalFCMzVKS081SFo2cklMQWlDRk50MlZHWEEwN1FjTXE?oc=5",
-      "site": "中华军事",
-      "siteUrl": "https://military.china.com"
-    },
     {
       "id": "FL-4e48ed7618ca",
       "date": "2026-11-12",
@@ -51,16 +39,40 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-06ef4a8c47c4",
+      "id": "FL-e8c6b73871e3",
       "date": "2026-11-14",
-      "dateISO": "Sat, 14 Nov 2026 13:43:00 GMT",
-      "ts": 1794663780000,
+      "dateISO": "Sat, 14 Nov 2026 16:18:44 GMT",
+      "ts": 1794673124000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "2岁童“甩炮放嘴里”爆炸了 抢救2天丧命 - 万维读者网",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVcVNSU2RMZzhsRzdnckNVTUM0RlhvLXl3cE1BcWNObnR6djJkakxfLWNobnVrb3JLXy1RRGpDY1VfYjhfSW9oTmJpU05ndmd2MTI4eV9qOFVDRjN5UmhJZVpsZG9pQQ?oc=5",
+      "site": "万维读者网",
+      "siteUrl": "https://news.creaders.net"
+    },
+    {
+      "id": "FL-4fd3a5ad0d1c",
+      "date": "2026-11-14",
+      "dateISO": "Sat, 14 Nov 2026 16:06:15 GMT",
+      "ts": 1794672375000,
       "scope": "intl",
       "type": "blast",
-      "title": "NTSB report questions response to fatal Bristol nursing home explosion - PhillyBurbs",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPYkpFc2p1TDZlWFN5Y0FIUWhKR1owMG5HSWZIX01UNTBhY0hOM2hibXFDOU54OE9Pb05rQXlNOHgwWEFNNWg1Z2FMVEh5b2JhQm1UT1ItM2I0azdWaGx4Slc4QmtHQVlzNFMtR3gwWVh6SjQ5QWk2eGl4VjVyRGpSTG16S3dXQ0VhejRva1ZrQ2twMnVWVm5QcTBvMklpUWhkSTNVSFdxQkxBSTA2dGwwdEFKZEZRcXdiSjAydXZCekY2R3Mza0JVNzdDQUE3UHNUa3J5ZU45TU5hSmhuY2hOX0htRGExVDFKaUtQajlSTXF4NDNJdFE?oc=5",
-      "site": "PhillyBurbs",
-      "siteUrl": "https://www.phillyburbs.com"
+      "title": "Darryn Peterson’s career-high explosion is 1 silver lining in Jazz’s 11th straight loss - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMzdlVVhSZDNyOGZZcWwyUTVQbC1VWEU5eFdPY3pDNUFod1RrMU5tTlpGQWJpT2ZIOUhUVGUyWS1PYkZTZ1hkS1N4NU54YklxMHo4eGsyMk5iU0FMbHMzZ3lnSG5rSFotb0JseXp3Y2pJcXZ5cE0wTVFYa1JQTjY5aUVNTllPZGx6M0pLYnY3TQ?oc=5",
+      "site": "Yahoo Sports",
+      "siteUrl": "https://sports.yahoo.com"
+    },
+    {
+      "id": "FL-614549a28e47",
+      "date": "2026-11-14",
+      "dateISO": "Sat, 14 Nov 2026 15:27:16 GMT",
+      "ts": 1794670036000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "莫斯科再发汽车爆炸案，俄对外情报局一名重要官员被炸生死未卜 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaGctdGJlbk5CSmFPUW9jQUN4WWtKVjQ5RTZ1Wm5Rc1B2dUxoZkNZVnJHQXhWUDBYWkJ5ZEZsN2FFd0o4MEI5YmU5by02QmNXR3g5ZF9JOEo1VXNwU2JVajZLaG13bXM5cFJEZGJnc21CeXJmMXdKcHNqYkFGV0hkVnRYQS14RHZkVGJSeg?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-05a970ba4687",
@@ -75,13 +87,13 @@
       "siteUrl": "https://k.sina.com.cn"
     },
     {
-      "id": "FL-37c1443bbb2c",
+      "id": "FL-7691d06d8002",
       "date": "2026-11-14",
       "dateISO": "Sat, 14 Nov 2026 12:53:16 GMT",
       "ts": 1794660796000,
       "scope": "intl",
       "type": "blast",
-      "title": "One killed, three wounded in grenade explosion in northern Israel's Kafr Manda - The Jerusalem Post",
+      "title": "Woman killed, three wounded in Kafr Manda grenade explosion - The Jerusalem Post",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JX3BpRXBjZ2pqSzUwWG44S25Eb3BzMzljNmNaNm5NNmVMN2lOX3B1bURDTXJ4NndlQ0dZMmtwN29Zbm0wUVlKRUtsSnEyYndkQkJGVjZIN3FfR0k2VmVCR0llM0RJWTZSanNxMl9R?oc=5",
       "site": "The Jerusalem Post",
       "siteUrl": "https://www.jpost.com"
@@ -97,6 +109,18 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82T2tjT1N4RFF1aFZXMWxkM0dWazhId0o1RHNWbHVRTHhXaWdwOUxhdmJDbms1TTZScVpwaWd0ZlctRThRRnAwRDBOX3FFMWNicC1CVjdQdjdib1NRSXlfNGlacDczTmlQbG5JREtRZ2QxWG9wV3c?oc=5",
       "site": "齐鲁网",
       "siteUrl": "https://news.iqilu.com"
+    },
+    {
+      "id": "FL-51abd811d460",
+      "date": "2026-11-14",
+      "dateISO": "Sat, 14 Nov 2026 12:14:27 GMT",
+      "ts": 1794658467000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "SpaceX booster explosion prevents unprecedented double catch - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBCTHFERTZtOXdxTGt3bE9MZ002cnY4RFdJT1BiVG1kbnpDVWV3T2c5V3B4YTRsVU01TWI1UDQ2NkdpSHpiSFZOb0k5bEY?oc=5",
+      "site": "ABC News - Breaking News, Latest News and Videos",
+      "siteUrl": "https://abcnews.com"
     },
     {
       "id": "FL-68c2f563d0b3",
@@ -207,18 +231,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-8defdc28b682",
-      "date": "2026-11-14",
-      "dateISO": "Sat, 14 Nov 2026 03:24:50 GMT",
-      "ts": 1794626690000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "俄军为康斯坦丁诺夫卡被困居民清排爆炸物，无人机袭扰拖慢进度 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01R0U4cXNlWmxiQk1GNW80MldIdXk4SFAxZndMZWZTdS1SUFo2ZnliN1lWMTVMQzlSeDVvSVZQMFFhMVFnRWxzRVZIb0ZWOW1xcFE?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://original.ifeng.com"
-    },
-    {
       "id": "FL-b8d1c7cc3d34",
       "date": "2026-11-14",
       "dateISO": "Sat, 14 Nov 2026 02:34:15 GMT",
@@ -241,6 +253,18 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBGcmZ6V3JxTG0tX3NqNl90aEEtSl8yd3B4WjdMb19WUHJoVlFQcFU0VlFoaEZ3NjF3MlVYOHpGS3N2RHA2U0loN2dYT3Y?oc=5",
       "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com"
+    },
+    {
+      "id": "FL-5775eb9aa13f",
+      "date": "2026-11-14",
+      "dateISO": "Sat, 14 Nov 2026 02:12:56 GMT",
+      "ts": 1794622376000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Deadly House Explosion and Fire in Forestport - WKTV",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbVhFMEh1cEg2NWNPMVYyT2NkZ2VGN2JSTlQtR3ZUMjRVNWZPLS1CQ3VDZ3hsVEtLRTV0NkQ0ODdRbV83QllWeXZkS1NpbzNxUkdzTHhqWnVvY21pVS1XMThkTVI5UXpTaGhKaExRaWMzakc1eFdmeTlNTng4eC1hM2lZUUdQdkxJaDVBXzQtRU9Na1JZZ05LM1NlcGdhX241Q1ZBbGdsS1kyUEFTdWpPQzg5enVmYlAydERTb0VJcmZTeU55UHc?oc=5",
+      "site": "WKTV",
+      "siteUrl": "https://www.wktv.com"
     },
     {
       "id": "FL-89e56a0e65e6",
@@ -303,30 +327,6 @@
       "siteUrl": "https://news4sanantonio.com"
     },
     {
-      "id": "FL-5775eb9aa13f",
-      "date": "2026-11-14",
-      "dateISO": "Sat, 14 Nov 2026 00:02:00 GMT",
-      "ts": 1794614520000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Deadly House Explosion and Fire in Forestport - WKTV",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbVhFMEh1cEg2NWNPMVYyT2NkZ2VGN2JSTlQtR3ZUMjRVNWZPLS1CQ3VDZ3hsVEtLRTV0NkQ0ODdRbV83QllWeXZkS1NpbzNxUkdzTHhqWnVvY21pVS1XMThkTVI5UXpTaGhKaExRaWMzakc1eFdmeTlNTng4eC1hM2lZUUdQdkxJaDVBXzQtRU9Na1JZZ05LM1NlcGdhX241Q1ZBbGdsS1kyUEFTdWpPQzg5enVmYlAydERTb0VJcmZTeU55UHc?oc=5",
-      "site": "WKTV",
-      "siteUrl": "https://www.wktv.com"
-    },
-    {
-      "id": "FL-8e3b8eb7503a",
-      "date": "2026-11-13",
-      "dateISO": "Fri, 13 Nov 2026 23:59:11 GMT",
-      "ts": 1794614351000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "‘We felt the house shake’: Warren neighborhood rocked by massive house explosion - ClickOnDetroit | WDIV Local 4",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSU5vTTRpVl9YUEN0dGNGMU9YcUFXM094OEFYRmpuMEMzQURNdlFqUlJ2Z2tkb18tVVhoSllIVHpvNS1RRkRmdHpPVThkT3dKNmVYQ0pDSU1NQlFCZ0xQa0N2ZVhyaWRBR3N0dDZ0YldBbWZTNkc2VlljRmVDYjF1eFNQcXF3WlFwelpsYnVVbTJud2daZXZqQUN6R0xmYTYwSFMxMnF6djd6YW8?oc=5",
-      "site": "ClickOnDetroit | WDIV Local 4",
-      "siteUrl": "https://www.clickondetroit.com"
-    },
-    {
       "id": "FL-d5f4f16f3174",
       "date": "2026-11-13",
       "dateISO": "Fri, 13 Nov 2026 22:30:54 GMT",
@@ -385,18 +385,6 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0UDU4SEU4akEyRDUyYTBCVEU2emNNTWl6SjhsRXNZaEZBeml0ZDJOdllXM3Bqb0ZGX0ZfV0RsaXZrcm1RR082Wnc2LVJnLUpqeHFqRk5vcHh5alVFX1VwWjBJcmtWRnhiTkNaMGdkTlhhcTAyMWtyYWZ3?oc=5",
       "site": "国际在线",
       "siteUrl": "https://news.cri.cn"
-    },
-    {
-      "id": "FL-dde50e0265df",
-      "date": "2026-11-13",
-      "dateISO": "Fri, 13 Nov 2026 10:57:10 GMT",
-      "ts": 1794567430000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Overnight explosion levels Warren home, hurling debris in all directions - ClickOnDetroit | WDIV Local 4",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdXJHam9lNllZY3p1aTJXV1ZMLThwNm9LYlh6d3l0dUNiLW93U2lpS2w0U1FrdEkzd05HN29pWFZYN2JKVGR0VENpN3AyYzVaWGpmcUdPZHZRZUFBR2NSYS1CN0czeDE2SS1tV1JVVmRTRXdyRWpRNmQ0STRnMFJqMGoxbjBXbmwtMUFqbmJmWFBua09hbm5hSWJfa09MS2NaMVBFYXdVS2V0eGFLSjZPRzBxNGRkdUYtZUp4MlI4eEdTZw?oc=5",
-      "site": "ClickOnDetroit | WDIV Local 4",
-      "siteUrl": "https://www.clickondetroit.com"
     },
     {
       "id": "FL-cccc0684b031",
