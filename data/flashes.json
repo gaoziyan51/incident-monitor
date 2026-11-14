@@ -1,19 +1,7 @@
 {
-  "updated": "2026-11-14T08:05:55.964Z",
+  "updated": "2026-11-14T14:57:59.622Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-3e788cc55259",
-      "date": "2026-11-11",
-      "dateISO": "Wed, 11 Nov 2026 18:16:00 GMT",
-      "ts": 1794420960000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "荷兰海牙致命爆炸案继续庭审，华人遇难者遗属悲情陈述_全球_新闻 - 华人头条",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYS0JOVzJpejE4Y2xScEFmMFBEclB2WGF0bmlNQkl2QnlaYTFEaWw0aEhYclN4bHNGZEVXRlVhT3MwVGJleS1yWl9pSTRnR1lyWFNNbHY0VGU5Y3lrUF84ZkFBSQ?oc=5",
-      "site": "华人头条",
-      "siteUrl": "https://www.52hrtt.com"
-    },
     {
       "id": "FL-0d375db4964a",
       "date": "2026-11-11",
@@ -51,30 +39,6 @@
       "siteUrl": "https://www.jfdaily.com"
     },
     {
-      "id": "FL-5983c52d1aff",
-      "date": "2026-11-12",
-      "dateISO": "Thu, 12 Nov 2026 04:45:00 GMT",
-      "ts": 1794458700000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "美国一电动自行车电池室内爆炸起火 木质房屋被完全吞噬 - QQ News",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uT3F1OTd2ZXZ5WnFGZGlJN3k1UndsbnVQMG9weWYtYXlNczIxUEhBSHFNWDlBVGxJSmx3Y2FuSXk2ZnVOMmJVVFNieTdrOWxoUzhvMUR3?oc=5",
-      "site": "QQ News",
-      "siteUrl": "https://news.qq.com"
-    },
-    {
-      "id": "FL-0615dd398028",
-      "date": "2026-08-02",
-      "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
-      "ts": 1785654000000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
       "id": "FL-5e735aebc1c3",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
@@ -87,16 +51,100 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-eeae7bbad17f",
+      "id": "FL-06ef4a8c47c4",
       "date": "2026-11-14",
-      "dateISO": "Sat, 14 Nov 2026 07:41:15 GMT",
-      "ts": 1794642075000,
+      "dateISO": "Sat, 14 Nov 2026 13:43:00 GMT",
+      "ts": 1794663780000,
       "scope": "intl",
       "type": "blast",
-      "title": "Fourth-Quarter Explosion Propels Lady Bisons Past Delta State, 62-51 - Harding University Athletics",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWnVIeFFjWmtvTTZleHZFS25BN25jckd4bm82Tmg0eXd4QzFMSjVVODVxMkVUemtHUE96Ujl6SE9UMzZBcEFCd0I3YlhMSG5KQzNTLWg1N0dMQVVjUFBFTFVzbFlEckhfUWd5YXNFRXFlN3ctYjhYYy1mSkxlRXdXa2w3N2ZnTUZkTVVMY0sxOWk1ZjBrSllncVFUdVhTMmpsSDhCRllQZ3lzVEtTZk1zcVZCMkE2YzJMVXI3SHd3dEpkckZ2elpOYTdiMms?oc=5",
-      "site": "Harding University Athletics",
-      "siteUrl": "https://hardingsports.com"
+      "title": "NTSB report questions response to fatal Bristol nursing home explosion - PhillyBurbs",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPYkpFc2p1TDZlWFN5Y0FIUWhKR1owMG5HSWZIX01UNTBhY0hOM2hibXFDOU54OE9Pb05rQXlNOHgwWEFNNWg1Z2FMVEh5b2JhQm1UT1ItM2I0azdWaGx4Slc4QmtHQVlzNFMtR3gwWVh6SjQ5QWk2eGl4VjVyRGpSTG16S3dXQ0VhejRva1ZrQ2twMnVWVm5QcTBvMklpUWhkSTNVSFdxQkxBSTA2dGwwdEFKZEZRcXdiSjAydXZCekY2R3Mza0JVNzdDQUE3UHNUa3J5ZU45TU5hSmhuY2hOX0htRGExVDFKaUtQajlSTXF4NDNJdFE?oc=5",
+      "site": "PhillyBurbs",
+      "siteUrl": "https://www.phillyburbs.com"
+    },
+    {
+      "id": "FL-05a970ba4687",
+      "date": "2026-11-14",
+      "dateISO": "Sat, 14 Nov 2026 13:07:47 GMT",
+      "ts": 1794661667000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "乌克兰前总理顾问在莫斯科汽车爆炸中受伤 - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SWHd1aEoySEFnbE9vM2FzVHpSODVFaXVtS25qZ3dLT0NPRGRwU3hYSnVra1F0ZFRzcW5DQ2NZb1V3WTVlTkRXeHA1QlJhV3RFdlpFREY4LUtkNXloZHMxWUZHUzdycTFMaWxjN1d0TUhwa3pnVzI3VGJ5MWtrT2s?oc=5",
+      "site": "手机新浪网",
+      "siteUrl": "https://k.sina.com.cn"
+    },
+    {
+      "id": "FL-37c1443bbb2c",
+      "date": "2026-11-14",
+      "dateISO": "Sat, 14 Nov 2026 12:53:16 GMT",
+      "ts": 1794660796000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "One killed, three wounded in grenade explosion in northern Israel's Kafr Manda - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JX3BpRXBjZ2pqSzUwWG44S25Eb3BzMzljNmNaNm5NNmVMN2lOX3B1bURDTXJ4NndlQ0dZMmtwN29Zbm0wUVlKRUtsSnEyYndkQkJGVjZIN3FfR0k2VmVCR0llM0RJWTZSanNxMl9R?oc=5",
+      "site": "The Jerusalem Post",
+      "siteUrl": "https://www.jpost.com"
+    },
+    {
+      "id": "FL-5ce8e793f1a0",
+      "date": "2026-11-14",
+      "dateISO": "Sat, 14 Nov 2026 12:18:11 GMT",
+      "ts": 1794658691000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "淘宝网购电热水龙头突发爆炸起火，《民生无小事》节目介入，纠纷圆满化解_山东各地_山东新闻_新闻 - 齐鲁网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82T2tjT1N4RFF1aFZXMWxkM0dWazhId0o1RHNWbHVRTHhXaWdwOUxhdmJDbms1TTZScVpwaWd0ZlctRThRRnAwRDBOX3FFMWNicC1CVjdQdjdib1NRSXlfNGlacDczTmlQbG5JREtRZ2QxWG9wV3c?oc=5",
+      "site": "齐鲁网",
+      "siteUrl": "https://news.iqilu.com"
+    },
+    {
+      "id": "FL-68c2f563d0b3",
+      "date": "2026-11-14",
+      "dateISO": "Sat, 14 Nov 2026 07:57:16 GMT",
+      "ts": 1794643036000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "爱尔兰在多国领导人晚宴地点附近发现爆炸装置 - 8world",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTjdvclg0dDNxdEJ2SzBXcVVOanU0VkhuR1ZfbUkwQklKWWpJRjFLWVNKcE5tLTJUaVloRXJoeFZIaDBHbTZjREp1VE1ucjhVR3UzazV4NmxIVHdEbDZhNXBNZ1RNVVdDX1EtdVZFM3Bvenc1TFhaQmszQjBISEJsMlgyTS1GWWkza05QdHRLQjVPSUkyd1c1T0U0WUZ6UFBRbkJEMUh1NGdPSGtkcTA4?oc=5",
+      "site": "8world",
+      "siteUrl": "https://www.8world.com"
+    },
+    {
+      "id": "FL-802e20cc5675",
+      "date": "2026-11-14",
+      "dateISO": "Sat, 14 Nov 2026 07:49:13 GMT",
+      "ts": 1794642553000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "没用也没碰，衣柜里的它突然爆炸起火！ - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVVB5NTAwc2VOY0lYUGVQZXFZLTIxMkFwV1ptUld3cnB1LVRZVGpPaGs1T01acVg4S3hWMlpNd005N2RYbzdXOU13WGlCY0ZNZzI2Wm5Cel9ldmZ2RlpjdUNDUFdfcHpSOTNQQ2MydmxYRVBPYldqczhqaHgxNzZXM2ZVWGoxR2JkVzNzZQ?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-e0f8e20314cf",
+      "date": "2026-11-14",
+      "dateISO": "Sat, 14 Nov 2026 07:45:00 GMT",
+      "ts": 1794642300000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "爱尔兰欧洲领导人晚宴会场附近查获爆炸装置 - www.hkcna.hk",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9YQ2hvUDlqNEQ4QUlJS0Q5b2Vhb1dwbWgyLTZMYzZJUWlQM1FMUW5LbElRbFBFSXRrUWZ5d1gyWmhlTUQzUEZGZEFnUFBoV2VSbkxSbWx3RVFwMmQ4YlU0QWs5ZFRrcW5zRzdKVXNpcw?oc=5",
+      "site": "www.hkcna.hk",
+      "siteUrl": "https://www.hkcna.hk"
+    },
+    {
+      "id": "FL-9c53acf133af",
+      "date": "2026-11-14",
+      "dateISO": "Sat, 14 Nov 2026 06:37:14 GMT",
+      "ts": 1794638234000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "“星舰”助推器水上爆炸画面曝光！系首次尝试助推器和飞船“两手抓” - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONmc0T21LYXR1VEppaDFFZTJBbExpVXNhZk1tV1J2R0Vwcjd4cERNanZiU3h2T0psY2RTdFFiSmJqenh6c1BDRTFSZXBISS0yelpnVmt1S192ampHMXVweDNvcks1eXdoMWJxMm4yeUg3LVZxY0lvamFDc0dQNUwtZ0NhLVNNRnZhU1VBUGJjTQ?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://www.sohu.com"
     },
     {
       "id": "FL-1dce173744ce",
@@ -111,16 +159,28 @@
       "siteUrl": "https://phys.org"
     },
     {
-      "id": "FL-65491b18c022",
+      "id": "FL-924005c37acc",
       "date": "2026-11-14",
-      "dateISO": "Sat, 14 Nov 2026 04:23:18 GMT",
-      "ts": 1794630198000,
+      "dateISO": "Sat, 14 Nov 2026 06:30:00 GMT",
+      "ts": 1794637800000,
       "scope": "intl",
       "type": "blast",
-      "title": "NTSB releases new report on Bucks County nursing home explosion - NBC10 Philadelphia",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQjlFbDloaTM2b002NEp5VVBEbVloamk2N0tmcHZHVk9UVG12TUtQNjNzNFRmMDJrSlExdXVPa3JkUTBKTEhCR0NLdWgxTDVnOWR0Vl9MUERKT3NwMERabHJZUVVZYWxqY3RaYWZyVTBCM2tRQW03WDZhN2dNUW9qNU5vbElBUktXOHhsUzJ1cHJGMzc1MGR6QmNZMUpya20wa09iUThuUUI4WW1PT2Z4ZkFCdmx1R3FmV1hJcHNR0gHGAUFVX3lxTFBnV3AyS1NseS1PN1B6NFBYWDFDeFZjSDZicF93aDJMdGhXdnRCc2JMQlc3X18ycmhEcGdWa3Rvcy1vLThtWkFIRTJac29Tb2ZiVkRiaU1KVmw0cGoyU1JwallLX3RKT2k1aWxXYnpQejB5WFVjUHpzQUlvMFZ5SF84NGk5NWtKTjROcXZlSlNSdk8zdFcwV3NjUGI1TTlmSXp0cW55VE0xN1RpVTd5TG4yM01tU045OFZoaEhDS1VxdzdfUnpGQQ?oc=5",
-      "site": "NBC10 Philadelphia",
-      "siteUrl": "https://www.nbcphiladelphia.com"
+      "title": "爱尔兰欧洲领导人晚宴会场附近现爆炸物 军方已拆除 - 早晨报",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wcEVGWGRPY0J0VVV3UFhuRnBXY19NSDd4eGRUVU9EaDJsZDBqRnVfeHF3Y0dMeXFEUzJVaHBkWkgteEh2UFQzclFlaGlUb0NSNGQzZW1aVWkyQ0RpS2Z5Z0FDRWFNVFNVT1ZPbQ?oc=5",
+      "site": "早晨报",
+      "siteUrl": "https://www.zaochenbao.com"
+    },
+    {
+      "id": "FL-1e37df23fece",
+      "date": "2026-11-14",
+      "dateISO": "Sat, 14 Nov 2026 05:49:02 GMT",
+      "ts": 1794635342000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "帅到爆炸的武侠动作，吕颂贤版笑傲江湖高燃动作混剪 - 虎扑",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45bG1saGFtNjhCSVZKaDNEUlZMWlhiQTI3TllJc3I2NXNwc1lMR05kTXpPVTVXUi10eFc2WlZwSFY0dWlPaDl1NmlDS1NLdw?oc=5",
+      "site": "虎扑",
+      "siteUrl": "https://m.hupu.com"
     },
     {
       "id": "FL-a6d589556952",
@@ -133,30 +193,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tbmExcnhlclltN2RRZWJZUkJsZEtTSXpNeFB0S1BHNFk1ZWRRUW9tdHQ1UU05eG9lMnRyN2FTNXUwMkF5a3pkSkhmby1tRU9lUzQtbVVNcnpLTU1ucFZMaFE3QlJVSWl0VHU0eU1FQXNnd180T3AzbWYtRWRCdEk?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-76bd6c867e36",
-      "date": "2026-11-14",
-      "dateISO": "Sat, 14 Nov 2026 04:12:00 GMT",
-      "ts": 1794629520000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "SpaceX’s Starship soars into orbit after booster explosion foils unprecedented maneuver - Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeUpLZ3ZvQWZGd1lfZGN3bTNpWGwyend4WnFhWVJuUlFQSnZtMjNoeU0tYk9pWVItUkM0VE1mMG1BLUxWM0tFS1pDVkRkODFfNGpaa3VSTVBwWkhrNEtVUEcxX08yTUlqMkp1SF9leFFmcWgxVWU0d3hWMWxjaFhRd1F0N0VVYVo5bXBnQUdrQmpsLVZFZXZ0NktPRU9BaVZjWlhQeTBfbFZMeDdwaEJDRQ?oc=5",
-      "site": "Los Angeles Times",
-      "siteUrl": "https://www.latimes.com"
-    },
-    {
-      "id": "FL-35bd4034a1d1",
-      "date": "2026-11-14",
-      "dateISO": "Sat, 14 Nov 2026 03:59:33 GMT",
-      "ts": 1794628773000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "视频| 火势吞噬街边建筑 阿根廷煤气爆炸1死30伤 - 国际 - 即时国际 - Sin Chew",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6TUZEdERpMUR0bjNlZzZPSEVpaGw3NWZOQ3kwWURvV2VrRG8wX0x3bWpjV29UcFRVRTRVZ0cyMU0wbEFIMFNBOTRHZl9vdjBudUx2eFpyN2pEMzJaM1I0dzUtZFJIa29tUzYzc1JwUQ?oc=5",
-      "site": "Sin Chew",
-      "siteUrl": "https://www.sinchew.com.my"
     },
     {
       "id": "FL-f68dfe3621b2",
@@ -183,30 +219,6 @@
       "siteUrl": "https://original.ifeng.com"
     },
     {
-      "id": "FL-9e5264aa7b7c",
-      "date": "2026-11-14",
-      "dateISO": "Sat, 14 Nov 2026 02:53:14 GMT",
-      "ts": 1794624794000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "清晨七点圣彼得堡街头爆炸，俄罗斯第6空军和防空集团军三名上校军官遇袭 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSWJONlZDZU96ekdrWUlVR3ctUzh6M1ZSdVFqSmJ0cUtBdkQyNTA3aEk2V2RCOUIxWXl2VmdfZzNReEFPLUZCZkdOR0ZJUHhYa2FDSFBNZVFNTk81aURWSFpTbW1mUl9VX3FVS296Y0pHbDhkdk5KNXJKVlgyZ3JlZmJyMmc3SXh3UEZKQg?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-b6096a84a0af",
-      "date": "2026-11-14",
-      "dateISO": "Sat, 14 Nov 2026 02:40:47 GMT",
-      "ts": 1794624047000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "爱尔兰欧洲领导人晚宴会场附近现爆炸物 军方已拆除 - 联合早报",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44V2F4Ympfc3pCOGNxOE1MOWVPd1NmN0ZLSDZMX3hPR2FrQnJ2YUZWc29XSjl6VnVHcVJhSGZzU19FNjRicGdVOGFyMnZvSG9mU2VydlM5cHJWUWtVMzl2b1MyMC0xb0Uzd3c?oc=5",
-      "site": "联合早报",
-      "siteUrl": "https://www.zaobao.com.sg"
-    },
-    {
       "id": "FL-b8d1c7cc3d34",
       "date": "2026-11-14",
       "dateISO": "Sat, 14 Nov 2026 02:34:15 GMT",
@@ -231,16 +243,16 @@
       "siteUrl": "https://news.ifeng.com"
     },
     {
-      "id": "FL-f3e7c379c95c",
+      "id": "FL-89e56a0e65e6",
       "date": "2026-11-14",
-      "dateISO": "Sat, 14 Nov 2026 01:45:00 GMT",
-      "ts": 1794620700000,
-      "scope": "intl",
+      "dateISO": "Sat, 14 Nov 2026 02:05:08 GMT",
+      "ts": 1794621908000,
+      "scope": "dom",
       "type": "blast",
-      "title": "One person dead from explosion, house fire in Oneida County - Syracuse.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbWowT3RkUVBGNnRDWS1hU2Rjc25xWlQtRTJhSmpVdkZFNU8wc2xVUlpqTnBCT05YbzVTUGRiQWg4V2lPWDF5RmFRaUZmMElPTUlyeURjZndqWGFaOXdLTkxPM0VtdnlZbHFnLUJCT3VoWUx5MnpvN1NyYm9ydy0wTURjUDNtcGpwSGtQX1lKMlA1NUVkSFVvSWhzU3p6c2YyMkVKQ1V3?oc=5",
-      "site": "Syracuse.com",
-      "siteUrl": "https://www.syracuse.com"
+      "title": "【视频】把胡子哥原地亏爆炸的路虎车，你敢来挑战吗？ - 汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HQmhFVTFxMnJKeWZCaGtONUlZdmcxWUxkcl9yRElTbXJyVmFvLXZpM0xYTmNlTDAzT01zaHVNOUhoTXhNbjFTZTBzaW5rSzZLVGkzTEdybElGODg?oc=5",
+      "site": "汽车之家",
+      "siteUrl": "https://chejiahao.autohome.com.cn"
     },
     {
       "id": "FL-5c628237b56b",
@@ -265,30 +277,6 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUTEwUzgxYzR0MGk1a1JHODFMakEwYnM4bU03NS1HaFg3SlFZRzhNWnh4ZEwyY1B3cnY0V1Z5b2M1cTBmQ2pybFhka29DLUh0OFFlMXphZktqbEtZQ2xBNFN4b2hlSzkzWUVYclE0YWxaYVFZZVJCbkNISHNZQkptcm1RZGdMYnlKVFJ4Q1RkWnNwVGNWbmxocVZRSQ?oc=5",
       "site": "Vietnam.vn",
       "siteUrl": "https://www.vietnam.vn"
-    },
-    {
-      "id": "FL-86febfa3cf11",
-      "date": "2026-11-14",
-      "dateISO": "Sat, 14 Nov 2026 01:12:00 GMT",
-      "ts": 1794618720000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "PECO worker among injured in nursing home explosion in Bucks County - Centre Daily Times",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xZXo2TFlnUTE2RWZuRVlyWlo1Q1NQSTByOEE5ZXRDOVQ0YkN3ZUNRY2FCb2RoSDIwU29zWkRoc3hqMG8zWGp4SkZMWWlybEJHX1k0dUVKLVJpRzk3eko1Y2x4eFFoY196dnBZMw?oc=5",
-      "site": "Centre Daily Times",
-      "siteUrl": "https://www.centredaily.com"
-    },
-    {
-      "id": "FL-5b371a751920",
-      "date": "2026-11-14",
-      "dateISO": "Sat, 14 Nov 2026 00:59:00 GMT",
-      "ts": 1794617940000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "“星舰”助推器水上爆炸画面曝光！系首次尝试助推器和飞船“两手抓” - QQ News",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrMkcyMXJYSW9iRDlHT054dHNqMW5SMEo5blFkSFNrTnRmbGVhV25Za01DM1pKa1pGUjduUDczNzM2YTUxa2RFWDMzZWthcUFpTmFNRnBB?oc=5",
-      "site": "QQ News",
-      "siteUrl": "https://news.qq.com"
     },
     {
       "id": "FL-76debfffec2b",
@@ -339,52 +327,16 @@
       "siteUrl": "https://www.clickondetroit.com"
     },
     {
-      "id": "FL-641b655503d7",
+      "id": "FL-d5f4f16f3174",
       "date": "2026-11-13",
-      "dateISO": "Fri, 13 Nov 2026 23:56:00 GMT",
-      "ts": 1794614160000,
+      "dateISO": "Fri, 13 Nov 2026 22:30:54 GMT",
+      "ts": 1794609054000,
       "scope": "intl",
       "type": "blast",
-      "title": "PECO technicians made mistakes, forged report after Bristol nursing home explosion, new documents show - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOGZFenQ5aW5DMDI1TWg3M1BfcExBWUJRdUZHSXBiOGpqX193dy1kUG1EUi1Dc1Jwck1vV0NnRDltTUdET0lVc0JWSkRKaVVvUURPaV81RDBWbEJYLW95c3BySDVmUHQ0dHpXbUJTNnZJSGtfazZKNExSYWJVb2taVEtvZmRvVnM?oc=5",
-      "site": "CBS News",
-      "siteUrl": "https://www.cbsnews.com"
-    },
-    {
-      "id": "FL-ad9c91899085",
-      "date": "2026-11-13",
-      "dateISO": "Fri, 13 Nov 2026 22:59:00 GMT",
-      "ts": 1794610740000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "半空捕获取消，助推器溅落海面后发生爆炸|SpaceX|助推器|爆炸_新浪新闻 - 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1va01ydG1tYkhHYzl3MzRRMFpmbFcwMWpYcHppTTBVTGlzR0VJaFJmV3VvRVl0RGdiemZEdzZBZXZzallsR2UxcnBhVmxRQlB5QkFIWWt6Q2pyQ05GeklvMnloNA?oc=5",
-      "site": "新浪网",
-      "siteUrl": "https://www.sina.cn"
-    },
-    {
-      "id": "FL-ff025d4360a1",
-      "date": "2026-11-13",
-      "dateISO": "Fri, 13 Nov 2026 22:08:11 GMT",
-      "ts": 1794607691000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "伊朗称两艘油轮在霍尔木兹海峡发生爆炸 - 新湖南",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3ejZRYWFRX2lxWVI5SUdqZWl1S0Q4OE0xV1ZkSWVUYUM5T29zdnYwWDE2SGVxUWRqSUdEaEpBYk5sbEdGT2tTbUczal9sdlN3UG94bW1wNGF1djJQSVJB?oc=5",
-      "site": "新湖南",
-      "siteUrl": "https://m.voc.com.cn"
-    },
-    {
-      "id": "FL-84efcecf0ea1",
-      "date": "2026-11-13",
-      "dateISO": "Fri, 13 Nov 2026 21:02:30 GMT",
-      "ts": 1794603750000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "阿根廷大首都区发生燃气爆炸致20余人受伤 - 央视网",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wT1k4cDd0REljdThhdnlkVE5wTHhwUG1tcmt4SkZ6X3BxUzRJNHRwYWxtNkoyNVJmYzNMV29mQld0SnB5ZFFWaVlrNjc1dTVrUXBxN2hDTTJJUDVXMDQyTUpMV0RJWVllV19IaW9ueHBMUmJfMEZhYQ?oc=5",
-      "site": "央视网",
-      "siteUrl": "https://news.cctv.com"
+      "title": "阿根廷大首都区发生燃气爆炸致20余人受伤，事发时燃气管网正进行更新改造 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS3lYcmpldExudGRfSHhQdUlHZDBXb29NV2l3cmhkeldLdHJZNGhrd3hINW1BbWpQMG9IMklkbHRRSDFBMnBveXZWV1p1NGg1dnBlU0t6VnZTYVVMZTZ6WF9IVDY4eFB1V0tMdE92b3ZCX2dnaTJmNFU3SC14R2lybVRnNFFqbEVKekJLTw?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-4986f1bac448",
@@ -409,18 +361,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04SHpnWGxZQk5ldHludWNtSEtrc1EwMkota3BDVUtWTGRyNEhSckswV1BOUHVoVGRYZnFtNHhZUUxBNmFZM19TZmN1NHBNREVtcXRoc184T0pGeEc1dkE?oc=5",
       "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
-    },
-    {
-      "id": "FL-1c785d4cf7d0",
-      "date": "2026-11-13",
-      "dateISO": "Fri, 13 Nov 2026 12:54:03 GMT",
-      "ts": 1794574443000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "乌克兰前总理顾问在莫斯科汽车爆炸中受伤 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNalpYLU1tOGpoN3VmS2hRYjZCM1RKR01ZbTlORGxvZTdaSlRhOWF5cFZzVzZmVmJxQlVKU1MzWVJGbG1oWEZSRFlETDFjNDVlZ25VRGNVcXhxWVh0VjF3TUgyVG1Ga0pBSnBRZTJ0d1YxTWl5LTcxUzEyV19rRU1BbHhLTnJZLVlTcDgwTQ?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-ae15481f0d5c",
