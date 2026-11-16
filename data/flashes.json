@@ -1,18 +1,42 @@
 {
-  "updated": "2026-11-15T21:27:16.655Z",
+  "updated": "2026-11-16T01:14:37.337Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-4e48ed7618ca",
-      "date": "2026-11-12",
-      "dateISO": "Thu, 12 Nov 2026 09:18:17 GMT",
-      "ts": 1794475097000,
+      "id": "FL-e0738181b572",
+      "date": "2026-11-15",
+      "dateISO": "Sun, 15 Nov 2026 23:30:00 GMT",
+      "ts": 1794785400000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "美日学者研恒星爆炸同获邵逸夫天文学奖伍斯利为深耕被认可感自豪与「跑友」野本宪一相辅相成 - 星島頭條",
+      "url": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxNU1ktbE1pN3Jyaks1RWI4UTRXME5qUS1IeGhSRWk4aEh1R1ZINDJndm4zbkN5V1Y3czdacXVyMms5UGFNenNEdUhJby1MUjloZWNmempKMFM3R3czUllyY2NsQkpnbWViMWgzZTlhQkd1OTF6V2VzbUR1X0tURUJnUWRpNEt6a2Ztb2FjcFI3LUszRC1TVDZwU2pEWGVqakxzaW5aOHVuMVRMTndTNHh0QllXWVlvWFdEM1o4VlpWeFJoTFhWN1JBSVFGOVVJOGk5LTdMdDhxZTVyOXJOaEZTQm1IUEY3SmptM0U1azlnaXlIXzltRk9rcFZnTGZrYnZPV2NIUk56MHR1U0oyS3JMZ0xtREZmZWZvQ0hNeXhLT2V1cW1USHlncWhfVXZPeUJtS1BUUWZoQmxCU2JaUE9GZk9mdktpUWFPenNuSWV4eURScWY2VjcweEY2Y2tXRnpORkR4RDA3MGFRMFNBREYwZVZ1RHpNU1BqMFp0ZG1fZlJERjlwOUxaWDdURGgzX29DMjNfZS1Vd244TjRDd0FfbGMxTFdERGFGYzZ3R2VITDAwQmlDX3hkeXQ2MXh4TE5ORGVTXzlyNEJfbDhLbUhubmhDbVVpLXZJWldrRkpLUmp5ODFkUXBRakdqcEo4Um8yeVU3a1VWYnF6SkhrT3V0ZkZOWUNFSmtkRmVPSmROb2RLbWFjU21BREpaanhkeDJVSmZJNlhNNHpPc01SNk9Xc2d0aUtJSF9zY3ZJNkNrZHZJLWNHZXBIcXlLRmsyVXBpbGZKVjkwNA?oc=5",
+      "site": "星島頭條",
+      "siteUrl": "https://www.stheadline.com"
+    },
+    {
+      "id": "FL-db0eeb911b79",
+      "date": "2026-11-15",
+      "dateISO": "Sun, 15 Nov 2026 23:01:00 GMT",
+      "ts": 1794783660000,
       "scope": "intl",
       "type": "blast",
-      "title": "伊朗称两艘油轮在霍尔木兹海峡爆炸并停航 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKaUVqZEoxLXhaT2JveHdNcjhpWWhyQ1FEQlp6QnNKQzJWQ2lpUWdOLXFKMGFCclc3MnIxYTlrRW96NzZ3RU5ELVZzdDBWZ0dhdEdmaC1VZDQ0cVgyYUJNLTB0SklRcGM1bk5jenoxdjN4SU9tSERtczRFTGVTdEE?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
+      "title": "伊朗称两艘油轮在霍尔木兹海峡触雷爆炸 日本民众集会反对高市政权扩军修宪 - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMWZhSEVMdzV0V01HekxpZENkRktERDE1U2l2dEh2NEMyRERHeEdPZmhycnFsX1FwVEs4ZG5GTHViazRoNWdEc0RXUkFzRnJJd2pLclNFdXdYWWphOGFZNUFfX0ZRbjQyeE9QejBSRFJwWGthN3dHS2hFQzk1X0hEblhCb1hRZWNKbFc0Zl8xQQ?oc=5",
+      "site": "21财经",
+      "siteUrl": "https://www.21jingji.com"
+    },
+    {
+      "id": "FL-a69e3ae78fe0",
+      "date": "2026-11-15",
+      "dateISO": "Sun, 15 Nov 2026 22:22:46 GMT",
+      "ts": 1794781366000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "江苏大爆炸 数公里外可见巨大火球 - 阿波罗新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3UHBGZUJxS2d1X1RHaDhYTmxjelZrOGVsV0c5NlFRN3B6cV82TnRaMHRRcWlXSFBjNjc4VzcxNnFLODNTZkZ2cTJ4NjZNNWctYTBheWtWejAzVDlkdmc?oc=5",
+      "site": "阿波罗新闻网",
+      "siteUrl": "https://www.aboluowang.com"
     },
     {
       "id": "FL-6cb7ea11afe4",
@@ -27,30 +51,6 @@
       "siteUrl": "https://www.studlife.com"
     },
     {
-      "id": "FL-63e6e8d47c52",
-      "date": "2026-11-15",
-      "dateISO": "Sun, 15 Nov 2026 16:27:00 GMT",
-      "ts": 1794760020000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Westcoast Black Theatre Troupe hosts 'Soul Explosion' for fall gala - Your Observer",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeVVrT0x5d2NkUFdtV3F1Z1hKYjlUaWtvNDBLS3NHcDJ3bnVCeVVBS2tuaXI0VDZrSEtza243Vi1pWEdGVklpZ2pISXVaX2FITUp5dW1JWnNFbGphR3BOMFgzbzY4TEJ0Mm9uWnJ6cDd0N3lOUHVFaHNrQXVRSWNmVnBncWxaQ3paWFJVa2M4UU51Skkyc1prSVdicmY4ci1sRGpzbUU0aUJYSm5Yc3BWdXN3?oc=5",
-      "site": "Your Observer",
-      "siteUrl": "https://www.yourobserver.com"
-    },
-    {
-      "id": "FL-c20eece61324",
-      "date": "2026-11-15",
-      "dateISO": "Sun, 15 Nov 2026 14:16:00 GMT",
-      "ts": 1794752160000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "伊朗称2违规油轮在霍尔木兹海峡触雷爆炸起火 - TDM",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01akpCb1RvcVB1ZHFVcTN0M1hnRHZvT1NQSjFfMkZjN3ZZQ2xmaV9FRWRiYVZwWUdsNGpVRnJ4aURpWkhBbmFtVno2S0E1TmM4TXk5V3VsTmZscEVMWnlZ?oc=5",
-      "site": "TDM",
-      "siteUrl": "https://www.tdm.com.mo"
-    },
-    {
       "id": "FL-4dfb236ce187",
       "date": "2026-11-15",
       "dateISO": "Sun, 15 Nov 2026 13:02:00 GMT",
@@ -63,28 +63,16 @@
       "siteUrl": "https://www.sina.cn"
     },
     {
-      "id": "FL-c3f61172dc0d",
+      "id": "FL-ec3c86f26e73",
       "date": "2026-11-15",
-      "dateISO": "Sun, 15 Nov 2026 12:57:29 GMT",
-      "ts": 1794747449000,
+      "dateISO": "Sun, 15 Nov 2026 11:45:22 GMT",
+      "ts": 1794743122000,
       "scope": "dom",
       "type": "blast",
-      "title": "江蘇興化油脂廠爆炸 巨大火球照亮夜空 數公里外可見 - 新唐人電視台",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5faktKaWhVemFaNFJTY3F6elpyemRJVmhPUVJLNEJ2Zklyb3NRZGlyRU9zYzJEcTltWjA2bERDNThYWlFYLTBpSkNOeVo0TEFoMS1kM25yMkgwQXdWaVRHUNIBZkFVX3lxTE1NNTZYejJTT2J6aElpaHBiUzZkbVZwckFwME15Q09HNjgyNnBHYU4wZFQ5VTcwRmpTUXRvMHBnam1fTzhidkhmeV9rb1luemVjQ2FpX0ZTUk9GVkpnczZfZGY0bWJDdw?oc=5",
-      "site": "新唐人電視台",
-      "siteUrl": "https://www.ntdtv.com"
-    },
-    {
-      "id": "FL-615da043202f",
-      "date": "2026-11-15",
-      "dateISO": "Sun, 15 Nov 2026 11:34:00 GMT",
-      "ts": 1794742440000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "燃爆涢城！散打王争霸赛开赛，顶级赛事为何频频落户安陆？ - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUlF4V1VTaU9HQzd4RjFiaEZRT19ocEkxc0k0dUZ4cXpCeG1Dcll4UExjdkdRMERDZE5tOV8tVGxVNnZPVUJmU0I5czIya3NCdWNHTjYtQTVXUmlKQUlfWnVQWTBaRERPSkM0WlBuRjRQeEp3VURNUHBqaFdxWjExZUNYWXBacExFdl9Faw?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
+      "title": "燃爆电竞之都！上海战队BLG首夺英雄联盟S赛冠军 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lQVNydXBic3BsRjFFN3dNbTZIVng0X3ZwdjlHRlN0Mk1zTE8wRzdRTzBXQ2J0dHJ2VVR5NFhydFZnd0hFM0tjTTBjZTluREdxWjJ0dUJ0a1lXRFliRlo3MnJYUDludFhkQ0RLMmVta2ZOeTFGMF9RMw?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-ffe9e64f1279",
@@ -94,9 +82,9 @@
       "scope": "intl",
       "type": "blast",
       "title": "（外代一线）叙利亚首都周边发生汽车炸弹爆炸致2死1伤 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaV9GSHBFdHY4MWx4NnRVUkJBWlM2T3BONldXN3A0TENpOHRxYl8tREY4TGFzTF9uV0Q4SUJITk5BWk5Hd3NjdzV0bk1vNDM2cHl3TVlmVkhzUXFnR2dJWTZqeGVxWTRtVHJpV3UxWkUtamJsRmhYbU1sREZiUTFnaGdma21seVUteVR3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbnR5eUVldzVZdDRhY2FjXzR0ZjRZVlhQN3JiX19CMVBtTy1YU0xrWXlLZDh4akl5MEk0OXlDZ291S2NQUjAyTkdNbnYxcUpGMmstU0prQmtTaGpIeHRJTm1SVXpFRS0tQzlBWExENFZwNGhVcmFoV0NLTl9ZaWpvOUpPeG00Uk91?oc=5",
       "site": "Sohu",
-      "siteUrl": "https://www.sohu.com"
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-8a4d74609429",
@@ -123,30 +111,6 @@
       "siteUrl": "https://www.epochtimes.com"
     },
     {
-      "id": "FL-f298ccd4dc05",
-      "date": "2026-11-15",
-      "dateISO": "Sun, 15 Nov 2026 09:14:00 GMT",
-      "ts": 1794734040000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "沙特首都传出多声剧烈爆炸声# 美军基地的存在显然没有保护沙特，沙特买的美国防空装备也没能抵挡无人机和导弹的攻击。 - 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE15NmpsMmJ2X2lHamZPNmZTa3FYcE9WTm05WmctSk45dlVHallZbE02S2YteFFhSTRtOWRzSzVsR2JaQUJqMHFkUDlmWnNPQ0poWkMyVlM4TzlsOVNyWl9rSl95SQ?oc=5",
-      "site": "新浪网",
-      "siteUrl": "https://www.sina.cn"
-    },
-    {
-      "id": "FL-eb1e8a9c5c87",
-      "date": "2026-11-15",
-      "dateISO": "Sun, 15 Nov 2026 09:10:51 GMT",
-      "ts": 1794733851000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "伊朗称两艘油轮在霍尔木兹海峡触雷爆炸起火 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tUGZjRU1BWVhFSDZLV1dGcWwtYzQwN0dGNUhvSEFVejBrRmRHSThvbmlydnVHX1lCNHl6Qks5VEhDVGJYb0pIQm5DR01PWWxnWDBVLWFmcHl4dWlOY3c?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://news.bjd.com.cn"
-    },
-    {
       "id": "FL-9e1ca0c9b8ca",
       "date": "2026-11-15",
       "dateISO": "Sun, 15 Nov 2026 09:00:20 GMT",
@@ -157,30 +121,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPREJwMDhqTlhwWG1fMGxYVkZfRldtbDd6RkZsSXN5R2pfV3NHR3NtWHBNRkZEaHB1QjRVTlFncGhjU3dXczBhZXFJNFZWSG9nbndyQ21GRkh5RmhEekx4YnhDM1IyS01oSHlkSHhENldCNGQxOXhON1JqeGc3T1RhcW84TWg2S3h4Qy1Xcw?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-19846ce6f493",
-      "date": "2026-11-15",
-      "dateISO": "Sun, 15 Nov 2026 08:58:15 GMT",
-      "ts": 1794733095000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "法国巴黎体育宫发生爆炸 1人遇难 14人受伤 - kanzhongguo.eu",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBORkJmcm42V00wODhDTjJGLURvZmpGSGdFclF1em9NZm5yY1VtaFNPdUhmTHRNRWxneFROV25rSW9VeDlfcC1SU2ZGcE9Cdw?oc=5",
-      "site": "kanzhongguo.eu",
-      "siteUrl": "https://www.kanzhongguo.eu"
-    },
-    {
-      "id": "FL-439f367e702b",
-      "date": "2026-11-15",
-      "dateISO": "Sun, 15 Nov 2026 08:56:35 GMT",
-      "ts": 1794732995000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "BLG夺冠燃爆全网！为什么这个冠军如此令人激动？ - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBrcWFvbUY4TzU0TDIzSUltVXlDSEhYUE1ZamgzVXNtX0FhVDZvZU5wZmllX3hsU21EYjZzYlgyaVRwVnFrMjY0T1ByWVc?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://news.ifeng.com"
     },
     {
       "id": "FL-36d221af03f1",
@@ -205,18 +145,6 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CcHR3OVZ2YkRCRWZuNDZnNUZUNUg1ck1Jdy1ENTJPRVpiY3RNcGVLVUYxU25kSThNb3ZZM2p0X0FyMXhGVEZWMXJSVQ?oc=5",
       "site": "新浪网",
       "siteUrl": "https://wap.cj.sina.cn"
-    },
-    {
-      "id": "FL-d2a3984c5a89",
-      "date": "2026-11-15",
-      "dateISO": "Sun, 15 Nov 2026 08:08:44 GMT",
-      "ts": 1794730124000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "江苏一企业内发生爆炸，几公里外都能看到火光，有居民家里门窗被震坏 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ0t1MWN2WjF1c19vVFphRWRIcElnWGdrd3dBcThoSkRMRjY4Z1VKMENPbXhGcGk5SFFCeXRaSFZCTWVJNVY4N2JCMGFLU29TRE1yNVc4b2VSQ3NMdzVBcEdpcUZZWUhRMXZUbkw2YzNnT2NQMUhjd0NXbUo0Y3FmeDBxWGdncDc2?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-8e2806c4a809",
@@ -265,18 +193,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM1JUNmJZeXg2ekh5OXFzd1VMWGNZbzA3NHp0Y3JoLTJ5QkpsWmZpR0RvR185QkJZU2luN1E1YVo3dmhqQWRXUUM0UjRtTmNOMk51ZUlOakNQQzFvWDNjUWFhY2dBR1ZQMldaaVlTT25rRm9MSjYzMmFsYmxQVVZURkljS1VYby13NVhKUw?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-69594d7ec438",
-      "date": "2026-11-15",
-      "dateISO": "Sun, 15 Nov 2026 02:31:54 GMT",
-      "ts": 1794709914000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "伊朗称两艘运油轮关闭导航试图秘密通过霍峡 期间触碰水雷爆炸 - 紫荆网",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaVNkdXZ5RFFVb2RzMTJYVzZpQzVwWHBhTHY0eEctZ1dzdDVMeGlyVlU2NnF4dklMUlpNMTd6ZmZFd3UtcTNndlIzS09KNTdsRDFPUk5PUGdrMGZmX3gyWGxJY1dLNW1NQWJtS3VCZ2pJb0R1cWc1ZTZIMmk4TjBjT0QtZXdkRF9JUGpCN2lwdXpsSjJQ?oc=5",
-      "site": "紫荆网",
-      "siteUrl": "https://zijing.com.cn"
     },
     {
       "id": "FL-3f7e08cd4525",
@@ -363,16 +279,16 @@
       "siteUrl": "https://www.ebiotrade.com"
     },
     {
-      "id": "FL-5e735aebc1c3",
+      "id": "FL-08d5beb77eeb",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
       "ts": 1790406000000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ndWtWYUg5dm1rTVZLa1VjaElCSHJJX3dadkJRMm5JbWVLbnpHS2ZzM09EMjVubnVBeUZMU3ByMEZla2plUlRUYnlvaEdSZ0xnWXF2R2FSbk0tVHZFdTZWRUlDQUwydUhVQ2tGMEhUQklFX0lDelBn?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
+      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 新华网客户端",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaEUzM21qMG8zSnRRcy1iYjkwOUxBeWEyRnVHaVNZcmhIZ0FwS0lUYWhndmd0WHp1ZHpxVTZSYUlMLUVGVWxseUcwOEprSHA4MExzeFFxVFV3OVlacVc3dTVvMi1VUUVsVXlTb3I1bWlUS3dDUlBzcEs4allydkhIdFU3ckVMZjJPVXQ0ZWJQWkFWNEpITlhnTlR3?oc=5",
+      "site": "新华网客户端",
+      "siteUrl": "https://app.xinhuanet.com"
     },
     {
       "id": "FL-a25ece54f6cd",
@@ -423,18 +339,6 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
-      "id": "FL-e8c6b73871e3",
-      "date": "2026-11-14",
-      "dateISO": "Sat, 14 Nov 2026 17:13:14 GMT",
-      "ts": 1794676394000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "2岁童“甩炮放嘴里”爆炸了 抢救2天丧命 - 万维读者网",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVcVNSU2RMZzhsRzdnckNVTUM0RlhvLXl3cE1BcWNObnR6djJkakxfLWNobnVrb3JLXy1RRGpDY1VfYjhfSW9oTmJpU05ndmd2MTI4eV9qOFVDRjN5UmhJZVpsZG9pQQ?oc=5",
-      "site": "万维读者网",
-      "siteUrl": "https://news.creaders.net"
-    },
-    {
       "id": "FL-88089523a55a",
       "date": "2026-11-14",
       "dateISO": "Sat, 14 Nov 2026 17:05:00 GMT",
@@ -445,18 +349,6 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQkhydmQ0Y3IzNEpUUU5JenkyRE5HLTg1VktubjB2WFlzOE5wNHpOdzYzdDU1bUIyS1N4RDBnaUlkRldNaWk1eTZiRlV4OHN6ckFTZVV6Wm14eTFpeHVuN1Q0dnJQcEVyczZzbXBvNXRraW5WekI3MURfSHdEUVFvZVI1NHFxR3RBNllGTzZqYlZLWFpNTUw4VTlPYWJ0eDNVa3NIVUFB?oc=5",
       "site": "UA.NEWS",
       "siteUrl": "https://ua.news"
-    },
-    {
-      "id": "FL-f2900c7650e7",
-      "date": "2026-11-14",
-      "dateISO": "Sat, 14 Nov 2026 15:43:00 GMT",
-      "ts": 1794670980000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "图集｜Spacex星舰第15次试飞成功部署26颗卫星 “双回收”失败助推器受控爆炸 - 财新",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iNkNVUUlqR3duaGJLUFhtNWUzVTNQaFlhM2xJVXpOeVdMTGhBTTlNTVFoQXBkZ1JDOWtJUkVETlFBSFRHbm9MNGo1cW5DcmE2YndCYk5Bd3ZsT0VVNndjTg?oc=5",
-      "site": "财新",
-      "siteUrl": "https://photos.caixin.com"
     },
     {
       "id": "FL-4c2a0af3aa01",
@@ -471,6 +363,18 @@
       "siteUrl": "https://news.qq.com"
     },
     {
+      "id": "FL-68c2f563d0b3",
+      "date": "2026-11-14",
+      "dateISO": "Sat, 14 Nov 2026 07:57:16 GMT",
+      "ts": 1794643036000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "爱尔兰在多国领导人晚宴地点附近发现爆炸装置 - 8world",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTjdvclg0dDNxdEJ2SzBXcVVOanU0VkhuR1ZfbUkwQklKWWpJRjFLWVNKcE5tLTJUaVloRXJoeFZIaDBHbTZjREp1VE1ucjhVR3UzazV4NmxIVHdEbDZhNXBNZ1RNVVdDX1EtdVZFM3Bvenc1TFhaQmszQjBISEJsMlgyTS1GWWkza05QdHRLQjVPSUkyd1c1T0U0WUZ6UFBRbkJEMUh1NGdPSGtkcTA4?oc=5",
+      "site": "8world",
+      "siteUrl": "https://www.8world.com"
+    },
+    {
       "id": "FL-a6d589556952",
       "date": "2026-11-14",
       "dateISO": "Sat, 14 Nov 2026 04:17:02 GMT",
@@ -481,6 +385,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tbmExcnhlclltN2RRZWJZUkJsZEtTSXpNeFB0S1BHNFk1ZWRRUW9tdHQ1UU05eG9lMnRyN2FTNXUwMkF5a3pkSkhmby1tRU9lUzQtbVVNcnpLTU1ucFZMaFE3QlJVSWl0VHU0eU1FQXNnd180T3AzbWYtRWRCdEk?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-b6096a84a0af",
+      "date": "2026-11-14",
+      "dateISO": "Sat, 14 Nov 2026 02:40:47 GMT",
+      "ts": 1794624047000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "爱尔兰欧洲领导人晚宴会场附近现爆炸物 军方已拆除 - 联合早报",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44V2F4Ympfc3pCOGNxOE1MOWVPd1NmN0ZLSDZMX3hPR2FrQnJ2YUZWc29XSjl6VnVHcVJhSGZzU19FNjRicGdVOGFyMnZvSG9mU2VydlM5cHJWUWtVMzl2b1MyMC0xb0Uzd3c?oc=5",
+      "site": "联合早报",
+      "siteUrl": "https://www.zaobao.com.sg"
     },
     {
       "id": "FL-b8d1c7cc3d34",
@@ -519,16 +435,64 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-461f7c12fac8",
-      "date": "2026-11-13",
-      "dateISO": "Fri, 13 Nov 2026 22:33:15 GMT",
-      "ts": 1794609195000,
+      "id": "FL-0d275c35de7a",
+      "date": "2026-11-16",
+      "dateISO": "Mon, 16 Nov 2026 00:46:00 GMT",
+      "ts": 1794789960000,
       "scope": "intl",
       "type": "blast",
-      "title": "阿根廷大首都区发生燃气爆炸致20余人受伤 - 国际在线",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uU0pjNjVSSDU5Sl9QWkxlcnFlc1IzWWFNMnRrMjF5YUxZZU5XNkMtblZ0RkdBRllKUS1OUWhqYVpFamktQjViUUNuSXZEWHlMZ1NSclREcFBOYzBQN1RlaFhTVC10SzMxVHotbUFUdTU1bkpQcGc1QWl3?oc=5",
-      "site": "国际在线",
-      "siteUrl": "https://news.cri.cn"
+      "title": "BLG一穿四击败韩国战队夺冠燃爆全网！业内：中国电竞市场有望重新被点燃 - 驱动之家",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RUExNdmtocjNMUnpxVmw5a0h4QVFFVzhSTVMydmVIUkF3T1NjTFJvUk9wQUVFUF9BaHk5Y2ZXN2tmdXVTeGl0Y0lkeXpDRl85YVB5dGNBMEc?oc=5",
+      "site": "驱动之家",
+      "siteUrl": "https://news.mydrivers.com"
+    },
+    {
+      "id": "FL-09553c93d4aa",
+      "date": "2026-11-16",
+      "dateISO": "Mon, 16 Nov 2026 00:29:29 GMT",
+      "ts": 1794788969000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "爱尔兰晚宴地附近发现爆炸装置 安全警戒升级 - 中华军事",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvWlQ0UWFwZHUyNllHXzRhODNnREJITVE1VTBuTVJGOTBiYU1lUmgtTVM5WFVhR0F6dTUyOGZQcnlaQnExUW5oRGw2LTNCVS1LZElQVm8wNlJBS2tlSU9aU2tDVVJMTnBjOWhzeFp2RjU?oc=5",
+      "site": "中华军事",
+      "siteUrl": "https://military.china.com"
+    },
+    {
+      "id": "FL-4ba7f9c67c79",
+      "date": "2026-11-16",
+      "dateISO": "Mon, 16 Nov 2026 00:27:58 GMT",
+      "ts": 1794788878000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "BLG夺冠燃爆全网！为什么这个冠军如此令人激动？ - 虎扑体育网",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBFbDdOMk0zd3BVOEE2UkdhV0t3N205QmNudjNWX00xUHVGd3RLTWozYXZBNDF4c2RvUUFKRnRURWdOQVR2ZVNNS1BZY2w2QQ?oc=5",
+      "site": "虎扑体育网",
+      "siteUrl": "https://m.hupu.com"
+    },
+    {
+      "id": "FL-5a7cf8fe13b7",
+      "date": "2026-11-13",
+      "dateISO": "Fri, 13 Nov 2026 22:28:00 GMT",
+      "ts": 1794608880000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "阿根廷大首都区发生燃气爆炸致20余人受伤，事发时燃气管网正进行更新改造 - 上观新闻",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UWmpWUGFlWDVUUERDeXZJNk1Na3ItWXdna2hUQUdPY1dxdTRrM3p1UTBidElTN2MzV3VOZ0R6Zi0xc2tDckpweGtNZ3NMcUR3M1dlMTRjOC05UQ?oc=5",
+      "site": "上观新闻",
+      "siteUrl": "https://www.jfdaily.com"
+    },
+    {
+      "id": "FL-116c3c095e96",
+      "date": "2026-11-13",
+      "dateISO": "Fri, 13 Nov 2026 17:34:27 GMT",
+      "ts": 1794591267000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "阿根廷大首都区发生燃气爆炸致20余人受伤 - 新华网客户端",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM3F2WDMxTU9aSXc2TUVmWkdac1NvS2FOUzJNTjVfb2gxU0JyR1E0c3FIeXY2RFpUaGFVMWpPeFUwYkF5YkZ2YUFlcjJwZ19PRXQxZ1pBWWxVUTU5VThpdWRxWXdRTmlrd0tDY3NjeDU0dHVPQWxIVWc2YVJHb0pfNzQwNDBfRV9IWjdILUtEam9qN21KelZnbFJR?oc=5",
+      "site": "新华网客户端",
+      "siteUrl": "https://app.xinhuanet.com"
     },
     {
       "id": "FL-3e38c9280d67",
