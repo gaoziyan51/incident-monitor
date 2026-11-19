@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T13:36:45.300Z",
+  "updated": "2026-11-19T21:45:24.151Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -75,6 +75,18 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
+      "id": "FL-7c9b093ec001",
+      "date": "2026-11-17",
+      "dateISO": "Tue, 17 Nov 2026 02:05:31 GMT",
+      "ts": 1794881131000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "剑桥、牛津大学等联合发文：智能爆炸的可能路径与治理挑战 - 信息化观察网",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SRV9BQTg4V1BWWFF5bU1xdVkzY1ZJT3BXVlFtYnVUc01QSnZOYU92S1A3R2VVNXpNVnNvbTNnTU5Ia1p1bG1ESHFKazd0eWszOGJvRWxFdGFQQTh6bGFsZw?oc=5",
+      "site": "信息化观察网",
+      "siteUrl": "https://www.infoobs.com"
+    },
+    {
       "id": "FL-cdac8d28a108",
       "date": "2026-11-17",
       "dateISO": "Tue, 17 Nov 2026 01:29:56 GMT",
@@ -85,6 +97,54 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JcGQ3V1BMc2piMF9qbnVwUTNqcUxjMzh6aV9wZlZhakl1aE5HS1JsVlVfM0otWXdHUF84QXk3OW52NDNuZVRuRktVbXRtaEhSS0g5Q0prQ3plNXFyTkRkZFJMSDNkNW5OdlNwZFNoY2g?oc=5",
       "site": "中华军事",
       "siteUrl": "https://military.china.com"
+    },
+    {
+      "id": "FL-795406372e92",
+      "date": "2026-11-19",
+      "dateISO": "Thu, 19 Nov 2026 20:40:38 GMT",
+      "ts": 1795120838000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "An Army explosion could send toxic lead dust across multiple states. Here's what residents need to know - Fast Company",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZ0hMaWI4eU5sVGZiM1NCck1IM3ZaWHctejFNXzBHdF84Z19FY2F3NTNoYzJnRWZkWjVnZnJZQjM1alJ4ZWhuUWNpT1phTzJ0MU5KSUx3LWJlM2pCM2pCRDN2X1VsOHFkNmMxNnFWdGFDSVJwSlFvNV9GX1dad0ZvbUpxcnVMcFFyRHVYcWZfZkFnYkl1NUcxcG96MGJ0bDJNbHM4dC1kd0pGMnkyQ2RhdHA1WC1yWjBkMWRJcmd4T0hoQXEwdVl6Y1RfeS14aEQyNURyMQ?oc=5",
+      "site": "Fast Company",
+      "siteUrl": "https://www.fastcompany.com"
+    },
+    {
+      "id": "FL-902747ea45a4",
+      "date": "2026-11-19",
+      "dateISO": "Thu, 19 Nov 2026 18:24:12 GMT",
+      "ts": 1795112652000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Ohio Lottery’s Cash Explosion Show foodbank donation event scheduled for Monday, Nov. 23, 2026 - Athens County Independent",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53YndzUXVsaFFYZEtiZmE1SHFzaEpUeVVFRU9ib2pONVFKQnR0akdkSDkxSnA1V2NELUlJTmZ1VUtOMTAtV0lDU3ZValVFMUN6eUMwbWVMblQzbmdaazVMRUpibWZNdDNwZ3IxYTAzNUxndEdqVmc?oc=5",
+      "site": "Athens County Independent",
+      "siteUrl": "https://athensindependent.com"
+    },
+    {
+      "id": "FL-6fb8e1b7cb5a",
+      "date": "2026-11-19",
+      "dateISO": "Thu, 19 Nov 2026 17:25:10 GMT",
+      "ts": 1795109110000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Two die after home explosion southwest of Lincoln - Nebraska Public Media",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWUxjVlh6NXRLdzlLLXJGVFZjR0RDckNXVW1sTXhWaGloN1ozX01NZGRFcmU0WHMwTzJsVURjdUFKX1pucEZJVGtLWE1iT0NCQ1gxbXVNbHZMQ0xhS3d3b1hjRHFxRzQ0WF9aVWtXeG9ZOE05d3Q0OXBTYzktSWJrTEx1TG5IbEJTRVVQZFA0Z1hHZFI2ZEF1Qm1hR0MyQzN2R3NlbVVXUQ?oc=5",
+      "site": "Nebraska Public Media",
+      "siteUrl": "https://nebraskapublicmedia.org"
+    },
+    {
+      "id": "FL-26fcdfe23ceb",
+      "date": "2026-11-19",
+      "dateISO": "Thu, 19 Nov 2026 13:18:00 GMT",
+      "ts": 1795094280000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "伊朗军队称三艘违规油轮在霍尔木兹海峡以东海域发生爆炸 - 网易新闻客户端",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82MzNNeHg3emI1TzVobEZXSi1IY2Y3X1lGemlvVGMtZVptb1RwanVPaXJtTU1KSnlZNUtvR2w1OWYteElEdW5DYU8ySmRXYWJETnhrNGtkSXRXX0F6?oc=5",
+      "site": "网易新闻客户端",
+      "siteUrl": "https://c.m.163.com"
     },
     {
       "id": "FL-a3eca1b0f876",
@@ -99,18 +159,6 @@
       "siteUrl": "https://news.mydrivers.com"
     },
     {
-      "id": "FL-4cc159eabf88",
-      "date": "2026-11-19",
-      "dateISO": "Thu, 19 Nov 2026 12:08:13 GMT",
-      "ts": 1795090093000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Wood Burning Stove Explosion Injures Three Southwest of Lincoln - KLIN",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeFdmQjFfaVd6NXpDcm1JM2V6eVNCWUlZd0JralN4YWFqQkVOdzk5NDNPUTQtb29kTkFkaERCU2w1VXc3RUxRaDA1ckw3UXdhZ1ltOFppUnQzc0xVYlowandoLUZYeWNhMDYxdFh6ZnNuVWhCa1YzbXdkSEpkY0czdEx4RllIcjRfaFY1RzV5ejFMd3NGd2Nz?oc=5",
-      "site": "KLIN",
-      "siteUrl": "https://klin.com"
-    },
-    {
       "id": "FL-882bbdb86013",
       "date": "2026-11-19",
       "dateISO": "Thu, 19 Nov 2026 12:07:57 GMT",
@@ -123,40 +171,16 @@
       "siteUrl": "https://www.8world.com"
     },
     {
-      "id": "FL-e8a297707156",
+      "id": "FL-00de2de010c6",
       "date": "2026-11-19",
-      "dateISO": "Thu, 19 Nov 2026 12:01:47 GMT",
-      "ts": 1795089707000,
+      "dateISO": "Thu, 19 Nov 2026 11:00:00 GMT",
+      "ts": 1795086000000,
       "scope": "intl",
       "type": "blast",
-      "title": "Confetti is everywhere on Broadway. Each explosion is a major behind-the-scenes collaboration - Broadway News",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZEo2V1c0T1BRUzVwWktWa29Qd1dOREhYMDE3dEVOeWJPY01teUZ3Sm0wOThGTV9PT2p3Z0t5MWZmbkUxel9XbE85cnJCU0dzMkJWdmRKR21TS3hMWllCOHhDV3BCQ0thYUxUbElrbl9yWi04a3U5Sk52QUFQT3VpWnBadFdKQ0tQdmNVWDlqeHBVTFRVNDJoOGlDZkEwbE5xN1lNejZLZF9SYnNlNC1DdWEzbGo1YnhJVHhQeWJIMA?oc=5",
-      "site": "Broadway News",
-      "siteUrl": "https://www.broadwaynews.com"
-    },
-    {
-      "id": "FL-4f11beff616c",
-      "date": "2026-11-19",
-      "dateISO": "Thu, 19 Nov 2026 10:56:25 GMT",
-      "ts": 1795085785000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "RV explosion near Jeffersonville sends 5 to hospital overnight - WSYX",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZFBJMzg4XzVCU2tpX0tNNzZkQWpXU0ttMW0ybkhfdzFQYngxTE1DWTVlWllvZkhlMjQ5VnNwTExLSEx4My15eUNEbDZsR3RTRk9RSEhMV05vVnVHNmFibnlaVk55Y3JuTlk3NWJnNjhlV0h1X0FIYnBQODNiSVJQTlIxeEJBUGZGSUtyc29uc2hTQnVkcHZHTGhhNFpzWmxobFE?oc=5",
-      "site": "WSYX",
-      "siteUrl": "https://abc6onyourside.com"
-    },
-    {
-      "id": "FL-80e708a0f79e",
-      "date": "2026-11-19",
-      "dateISO": "Thu, 19 Nov 2026 10:36:20 GMT",
-      "ts": 1795084580000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Boat Explosion in Dundalk, MD, Spreads to Pier, Pumps - Firehouse.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR2p2SFppelY5NGxNWnBZdGhUUV9oZHpSbnY0Nmowd3FvWVQ4MDBLMzhGcFlITGlrdWwwZGFKclk5cGVhT3RYZV9HMlVHa0ZYeHRCelZEWXAtaWtZU2VVZEtlR0JKc0hWN1YzRlJjeDdmbkh0MG1Yc0ljejgxYVFlYkJGNjQ5TGhXMXlrVkF2TnhLR2U3RUlsSXZ1Z3hWTExfREJyb0JsTFdJaDR4WDRfYmdNUVJCLXcyeVZwTnhILXRDRV95b0lqVmlR?oc=5",
-      "site": "Firehouse.com",
-      "siteUrl": "https://www.firehouse.com"
+      "title": "印尼炼油厂爆炸 承包商工人伤重不治 - 亚洲电视新闻",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPWGNBcmR6MGU1NExlYmRSVkNCdDdiT0NOQVM0dkhlZzJna0VGLTF5eWVNcmRTZzF2WUZ5T0RBZFZmMHRQZGJqMXE4cmtqeVNLV18yQl9kQjZNWXRtVldocW5jT1FvVGt6TGs1Y21xYWo3RXNGeHlvVGdRNDdRUkgyWVFsMEU4OUNzd2R6aU5IRWhBVk5GYjlFV1NNR2d1QWo3cGUwczc0Wm1DSHdFU3VzeHU0YjM0c2xjcDV1QndRNFptc1NxMTVMMEFxWHNRY21Qd1Qwc2lfaXAwXzVNRjIxV2dxRHlOUHhHTEZ3VkJLYXRUeGluUmZNb2dORGtuTVJlNjEtUFQ0RWdrdw?oc=5",
+      "site": "亚洲电视新闻",
+      "siteUrl": "https://atvnewsonline.com"
     },
     {
       "id": "FL-bdabb2d18bfd",
@@ -171,18 +195,6 @@
       "siteUrl": "https://www.idnfinancials.com"
     },
     {
-      "id": "FL-e05732006f99",
-      "date": "2026-11-19",
-      "dateISO": "Thu, 19 Nov 2026 08:39:00 GMT",
-      "ts": 1795077540000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "5 adults hospitalized after motor home explosion in Fayette County - 10TV",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONHVQSlNDcHZqcjVIQS1LTHlFbzhFVDhDOFlJWGQ4ZkxqUm1GamE1YklrLWhuTVYybFpCRlRFN3ZSS29ZV0MtM0luWnhHYWdyLXMzczhadG82cmgyX0VXcFRoLXp5VlpLMmdnVkt1NWdwQkVfLUhpSFN0ajFnNlU2N1ByQjQ3MTFlYzV6Y2pnS1VwaTh3dUdUOWFaS1BJVEh5bEFUMS00WWc3WU1SQUYzdzRzSzZiWjNXYU1YZ1hDN0stT1YyYl9WVlBnM00zUFJSSFBKbklLNm5vdy03Z2RPY3g3UQ?oc=5",
-      "site": "10TV",
-      "siteUrl": "https://www.10tv.com"
-    },
-    {
       "id": "FL-1c7bf2d3ac8c",
       "date": "2026-11-19",
       "dateISO": "Thu, 19 Nov 2026 08:01:00 GMT",
@@ -195,16 +207,16 @@
       "siteUrl": "https://news.mydrivers.com"
     },
     {
-      "id": "FL-56efecaa15cc",
+      "id": "FL-47324fb0af58",
       "date": "2026-11-19",
-      "dateISO": "Thu, 19 Nov 2026 02:58:00 GMT",
-      "ts": 1795057080000,
-      "scope": "intl",
+      "dateISO": "Thu, 19 Nov 2026 07:46:00 GMT",
+      "ts": 1795074360000,
+      "scope": "dom",
       "type": "blast",
-      "title": "Dundalk boat explosion report draws emergency crews - WBAL-TV",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9aNXBPWmFKaEFUaUEzcmx4VjJvRXlpemdBLVM5R0Y1dzR3OW84bE1pWEpKWHlUVml1M1l3U2JUbDJscXpUelRiQUl2VTNMajJjbGNsNGpUM3BMQlY4UGZOaEhjRVU0dFJfMTkxbHBjckV3VkxHMXZzckZLYlVKZw?oc=5",
-      "site": "WBAL-TV",
-      "siteUrl": "https://www.wbaltv.com"
+      "title": "秦安：普京18日凌晨就到了，克里米亚大桥也被炸，在深圳，他说了什么、做了什么？——越有爆炸，越显定力！ - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0RoXzhRUVBGeWJ6WmpodzhDTXlSOTJaWXBab1h2c1F3MDVSQ3VDUm90VVQ2UTkwS1JtWFFQSFJwQmx4ckNpdVhna0NtckhpVE9vV1lJNWNEeS0wZWk2RnJTRVd3aUFiQldFWFBkanJjZ19IWFFNdDZJUDFJbTRBMWFhUnZyNHhUakU1UA?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-39c88b882a06",
@@ -217,18 +229,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoeTd6elZRYkFWdmRmeUs1YzllUlB2ZTdnVjVyUHRQaEZ5cEtXR2hiVUUteUJOb295SEczcVlfRTBQSF9ySnJ6Yk5Sa1pxS2FTQ2VMZHhvYmVkRW5fSy1IeFAtM0RReXg0V0hYUFViZDY?oc=5",
       "site": "中华军事",
       "siteUrl": "https://military.china.com"
-    },
-    {
-      "id": "FL-75e7b74c96d1",
-      "date": "2026-11-19",
-      "dateISO": "Thu, 19 Nov 2026 00:38:00 GMT",
-      "ts": 1795048680000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "Deer Park危險廢棄物設施爆炸 一週內兩度起火 - 大紀元",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BSDJ0SkV4VEk1ZV9SeEVtaGw0MHVyazRpQkZJUk1fTVRpUUl3UFJHaTd0UmhyMHhZa1kwVjhPOV91TldUM3p3VFhmcDdRUFRJMFBaOWRTV0pZY1dMRzBJNTFn0gFnQVVfeXFMTU9hVGlhUUpDRVhobUtkRTdKV0VpM1A3eDRrR3pCUnFJUjdWUmZ5ZXlKZXEtWjBJWGZlZlpPRnpHem9kSC1wRW01dXNQd3lPTnZ3Y3hoTXZOcWh6TFNrUGkxSFVEVk54UQ?oc=5",
-      "site": "大紀元",
-      "siteUrl": "https://www.epochtimes.com"
     },
     {
       "id": "FL-5e735aebc1c3",
@@ -291,18 +291,6 @@
       "siteUrl": "https://www.jfdaily.com"
     },
     {
-      "id": "FL-5fabc1c586e5",
-      "date": "2026-11-16",
-      "dateISO": "Mon, 16 Nov 2026 15:02:12 GMT",
-      "ts": 1794841332000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "新发现+1！郭守敬望远镜揭秘六万多年前恒星爆炸遗迹 - 央视网",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56c1dVWDRTcUFhMU9kdldPVzRFZDh6Wl91VWp3OG5tUXpJcEdlUlp0dWtuWjk0dVFtMGgtTjBpVHZZaE8wNzg3RVlFeHI2VFhIc3luRE56bmRFaW01X05WSHFSQ2NIR25XcmRwUXBPMDBWUFNfTWJxSg?oc=5",
-      "site": "央视网",
-      "siteUrl": "https://news.cctv.com"
-    },
-    {
       "id": "FL-9ce8be5b24dc",
       "date": "2026-11-16",
       "dateISO": "Mon, 16 Nov 2026 13:24:00 GMT",
@@ -313,18 +301,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vc0RRVjJMODBycWc3bGM0dF9ZQVlsN2RaMWZqUnNhSTFNT3JVQ29JU281Q3ZBdmNfODExT3NoMzlVZ3hiY1JvODVMU3ZiUF81bXNUMnRsZTRpY0dmdmhXS2M3UTA?oc=5",
       "site": "新京报",
       "siteUrl": "https://www.bjnews.com.cn"
-    },
-    {
-      "id": "FL-a5e07bbf7e5b",
-      "date": "2026-11-16",
-      "dateISO": "Mon, 16 Nov 2026 07:27:00 GMT",
-      "ts": 1794814020000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "新发现+1！郭守敬望远镜揭秘六万多年前恒星爆炸遗迹 - 封面新闻",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14X1BXaUlIanljUW5nN0lqS3V2ekZiWUVfOXNMdUlEMlRYMGdpYWIyWVhWb0xFYWNiUXFCMEIxcVVLS3phdk0zUklSMmMwbFhVc0c5N1NpaEtJSWw2Rjg4dlYtbktWZw?oc=5",
-      "site": "封面新闻",
-      "siteUrl": "https://www.thecover.cn"
     }
   ]
 }
