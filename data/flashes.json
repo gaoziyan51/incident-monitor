@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T00:17:19.943Z",
+  "updated": "2026-11-21T07:14:57.048Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -63,30 +63,6 @@
       "siteUrl": "https://news.qq.com"
     },
     {
-      "id": "FL-00de2de010c6",
-      "date": "2026-11-19",
-      "dateISO": "Thu, 19 Nov 2026 11:00:00 GMT",
-      "ts": 1795086000000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "印尼炼油厂爆炸 承包商工人伤重不治 - 亚洲电视新闻",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPWGNBcmR6MGU1NExlYmRSVkNCdDdiT0NOQVM0dkhlZzJna0VGLTF5eWVNcmRTZzF2WUZ5T0RBZFZmMHRQZGJqMXE4cmtqeVNLV18yQl9kQjZNWXRtVldocW5jT1FvVGt6TGs1Y21xYWo3RXNGeHlvVGdRNDdRUkgyWVFsMEU4OUNzd2R6aU5IRWhBVk5GYjlFV1NNR2d1QWo3cGUwczc0Wm1DSHdFU3VzeHU0YjM0c2xjcDV1QndRNFptc1NxMTVMMEFxWHNRY21Qd1Qwc2lfaXAwXzVNRjIxV2dxRHlOUHhHTEZ3VkJLYXRUeGluUmZNb2dORGtuTVJlNjEtUFQ0RWdrdw?oc=5",
-      "site": "亚洲电视新闻",
-      "siteUrl": "https://atvnewsonline.com"
-    },
-    {
-      "id": "FL-bdabb2d18bfd",
-      "date": "2026-11-19",
-      "dateISO": "Thu, 19 Nov 2026 10:20:00 GMT",
-      "ts": 1795083600000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "切布PPSDM Migas炼油厂爆炸，ESDM正在调查原因 - IDNFinancials",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNRTZIeXc1RzZ6UERVQndnWkZ5eC1tUlFZOUtuYVl4eHBjeDlzdWNzWFhEUjg0bGc2WFZOaWhvT1RoRGZtVEc3OWI0cjZFeGlIUU5tV2syY0Q5ZjZGZnhTa0l5N2UzamUtbjgxZEFWWE5kTDdXSmt1Szg1S0k5d3ducTV2SHJxblk0bkYtaS01enhvTXlhV3ZuQWJRM1RPUjJ4a0NDT1B4ZGVEQ3MwU2F3V2YyWVNfQ1J2ZVhtY2RjcThjVG4tYmRwOUkwRGVIMjhVZHM1WllJaDVXSU41dXBlWGJobzFxb3U3eXA4ZThvb2RaWDFOTmVPUVFlM180dmFlMlU4SThKZw?oc=5",
-      "site": "IDNFinancials",
-      "siteUrl": "https://www.idnfinancials.com"
-    },
-    {
       "id": "FL-5e735aebc1c3",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
@@ -99,16 +75,88 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-10a1e76a0783",
-      "date": "2026-11-20",
-      "dateISO": "Fri, 20 Nov 2026 23:46:43 GMT",
-      "ts": 1795218403000,
+      "id": "FL-9157b4de4ea9",
+      "date": "2026-11-21",
+      "dateISO": "Sat, 21 Nov 2026 04:32:00 GMT",
+      "ts": 1795235520000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "三浦庆新作惊艳登场，联动Donut和Hardcore燃爆改装派对 - 汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVNXgxeEt4RTRoZVdRMFRxRklOSU1rZTFkUUozaTdIT3VmRDdkSFpPRmt0YmNEUEw4Ym80TlJLS0Y3QlphNTItM1lOZ01vckJ1amRXTy1wOFZUZw?oc=5",
+      "site": "汽车之家",
+      "siteUrl": "http://chejiahao.autohome.com.cn"
+    },
+    {
+      "id": "FL-9dab07c6dc41",
+      "date": "2026-11-21",
+      "dateISO": "Sat, 21 Nov 2026 04:15:00 GMT",
+      "ts": 1795234500000,
       "scope": "intl",
       "type": "blast",
-      "title": "Reported Lafayette factory explosion leaves two injured, one critical - WZTV",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUDNzN01lUllUeW1TSnZGd0tMTGFFdWNHSkhra1FCZTFNRzFldFdyYXZPSDhpcHg2MHM2b08xTlU5aGJUaEVaLWlZYlBkM3hDRU5TVDVpLXJMSmRhTTRwTXplUjlDMTdVdUVaRzZCMWJkOHdrYm04MXM4QVRfZy0tLTY3UnBURzduaXpQSGhXenpSTGRVWVBOSnVQQmpPZw?oc=5",
-      "site": "WZTV",
-      "siteUrl": "https://fox17.com"
+      "title": "Explosion injures 2 at Macon County manufacturing plant, officials say - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcG10eW43Y3NEOVhWWXZuT2pSU1ZPbmtQczQxYTlmY3Y5ODVqSlZBNEpacXNaU1RZb0JRZWdwampOZS0yRTYwYThfSWZKcHJkeFlSajRtQ1pVWWRBekxBYlNCMFRRNk5UanNTbWJIR2hLNzhVaGRlVUxOcTBRbzlaY3JjMUxqWFV0U3VZTlFLQ2VKZkZqRmNSS1VvN1lIWlp0LTZhS2taQnMtV1hY?oc=5",
+      "site": "KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+      "siteUrl": "https://www.1011now.com"
+    },
+    {
+      "id": "FL-faf80512bc8a",
+      "date": "2026-11-21",
+      "dateISO": "Sat, 21 Nov 2026 03:46:30 GMT",
+      "ts": 1795232790000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "泰陶公府7地区发生爆炸 多处悬挂神秘符号横幅 - www.chinapress.com.my",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNdjBkVno0SlNRMm00VFpBbExBUTcwLTlEcjlqaDU5NkR4MkROWDVpc0cyQXBvZEw5ZENHTTF1RjdDakxlczZVN1A5NlJEeXNTbktpTW5PRHJwUFFlSzB0QXFvdzFnN3doOEdHQ2pYVXNrbms4T3NOV3UtWmdPN0t0cHlDRjFRa0pONGROSVQ2M3dDNVZOaU5GczFlN21YVmppYXBsWlV4Ylk3MFE5dW5BMkJGMXpQYXI1U3k2RllneEQtSTJZUzZwd3FuT0U2c0h6ekktUkE3cGxZY1djZFJzTHhadHVGMndGMWwtWWxfV0NfR01GeGE2ZGFyd3Y4WFExSGJFS0Zid3gwT190RDhVaDhBaXVwS2lVYTVYN1lNZ056eDFDX1FJUzc4VDlsaVJXOC1tLVFRWW9XWEhTcUJhRHYtOG0?oc=5",
+      "site": "www.chinapress.com.my",
+      "siteUrl": "https://www.chinapress.com.my"
+    },
+    {
+      "id": "FL-6764c702248a",
+      "date": "2026-11-21",
+      "dateISO": "Sat, 21 Nov 2026 03:39:00 GMT",
+      "ts": 1795232340000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Middletown-area residents test soil for lead ahead of planned explosion - KCRG",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYTlSMFRkX3N4OS1yanZhSEowWFMtd2FQTTdlR1YweW5wTTBnQzM0UTd6bUVRUGVpVW90S05WTmtnb2VYWktvUVR4ZFlrWnZkbDFaaFRqM1dodl9KYk1tVEw4STFkTkxrcFZhLTZ0cE54STRXZ2RWRkNLYkppOUU3T1czOG45TGs0d2czT1YxMlBLMGQteXNuNHJ5WTJzQQ?oc=5",
+      "site": "KCRG",
+      "siteUrl": "https://www.kcrg.com"
+    },
+    {
+      "id": "FL-59a10bdb12e6",
+      "date": "2026-11-21",
+      "dateISO": "Sat, 21 Nov 2026 02:40:16 GMT",
+      "ts": 1795228816000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "One person dead in 18-wheeler explosion at I-35 on San Antonio's northeast side, police say - kens5.com",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdDlzZnA2Y2h5c09LSHZBYXU1YlVva01aVVo4YU15OGpfLWZuZTZYeVRmbjl2QjYydVQzWUxkNHhWSG1QX3k2QXB1R0RmdEtKWm54aWhGYkppU2piekRJY2NyeEtJenZ4WEtSUkpwTktPQnRmdHdCR2RneWJqNkttWlN4S05SZ003bVY5TXJLNkN4UWlSTDBNd3Q3cEpNc1duZFJ4OXNNYmZ6RWtDODhhTDVHWWdtOXZoaHZ5ekNqaURLTlV1SFNLbnN0RG1mWEpPbHpsRVRRSzAwa0ViTjI2SFlWTzVad0lHYS11X0dnR2w1a2pfaE1z?oc=5",
+      "site": "kens5.com",
+      "siteUrl": "https://www.kens5.com"
+    },
+    {
+      "id": "FL-d243db36c29e",
+      "date": "2026-11-21",
+      "dateISO": "Sat, 21 Nov 2026 02:19:00 GMT",
+      "ts": 1795227540000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "警惕燃气、粉尘爆炸！成都曝光3家工贸企业典型安全隐患 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc1BURm1TZTJTZnBZUE51M2tzdW9EYjdGUHE0bkVyR0pVb3JyME9GakxBN0lST2dHNjM1NTJKTWNVN25oMG5VZDUxZGJVbmFjS3YyV20tVFJlLVZxTFdtNkQ0OVpOd0VRTnZieE4tX3VqbkNBZjBWb3Z0MFVBQndvS1U5eTVCcmlG?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-edc4924ddd24",
+      "date": "2026-11-21",
+      "dateISO": "Sat, 21 Nov 2026 00:28:34 GMT",
+      "ts": 1795220914000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Late offensive-explosion in Florida State-UCF NCAA women's soccer first round matchup | FULL FINISH - NCAA.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQczRWTGFoTEpoYzNBUlNnanBsOE1NdHpVX0pocnI3R3RfQUlDVm9tWjNySjducTVDeVJna0o1aUpDaENQd09ORmpQeGRCbWFVc2NVcnhhSVFaOFFoZFpRdnhkSFpLNTN3YUczSFlFX1YzLXRwdVo5M0xHc0RmeXNRT0ZfT1FFOG5RbFc4UkRUeEdETWZFTU5TTGYyVzl1bXlaZnEwYTZnY0NIWmRTdHRuQ1cydjZ5WkRaZVFMeDE0QjBxTGVndC1HT3V2QXYza25XX1MydEpUM2ZFQUE?oc=5",
+      "site": "NCAA.com",
+      "siteUrl": "https://www.ncaa.com"
     },
     {
       "id": "FL-289d5ace7f2e",
@@ -123,88 +171,40 @@
       "siteUrl": "https://www.mrjjxw.com"
     },
     {
-      "id": "FL-19cf3d4563df",
+      "id": "FL-a9d5b4c47d1b",
       "date": "2026-11-20",
-      "dateISO": "Fri, 20 Nov 2026 23:19:57 GMT",
-      "ts": 1795216797000,
-      "scope": "intl",
+      "dateISO": "Fri, 20 Nov 2026 22:07:54 GMT",
+      "ts": 1795212474000,
+      "scope": "dom",
       "type": "blast",
-      "title": "1 person dies following 18-wheeler explosion in San Antonio - FOX 7 Austin",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE85QzBTRGR5amhVd1FnUHR0ZS1CN3FIcmVnTndjNEhGRDFCVHJkOVBKRTFWTlJuelktcFZpMXlMSFkzUDVDRnh0QVZyRmxUNUhmbEQ4NzBlWGZxTnFNVTNnOG1Gb9IBaEFVX3lxTE5QbVR4V2NMc0duYWpubEpKN1dDYWRXNUVfNm9RbkRrWl9uelpvcE03LWZlal9tSlFuZ3Q5VEx3SkRCMzhEcHFnNGUyYXdBdlRadUQxOXk0WVR5SXVxZ2ZKT0F6eVRGd2RP?oc=5",
-      "site": "FOX 7 Austin",
-      "siteUrl": "https://www.fox7austin.com"
+      "title": "【视频】跌爆炸的大众途锐你敢说你不心动？ - 汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qWDVOdE1zUEM0Wi11c1hIbVFnb2piMTNPcXFlRkZrX1R3UTZHS2w4a3JRcmdIZzhjYWtkeklEXy1LZjh2dTEwT1VxbE5IRGR1TjdZZWtFRVNzMVU?oc=5",
+      "site": "汽车之家",
+      "siteUrl": "https://chejiahao.autohome.com.cn"
     },
     {
-      "id": "FL-7b81d0f30100",
+      "id": "FL-a1f6c2fb0b92",
       "date": "2026-11-20",
-      "dateISO": "Fri, 20 Nov 2026 22:36:00 GMT",
-      "ts": 1795214160000,
+      "dateISO": "Fri, 20 Nov 2026 21:46:09 GMT",
+      "ts": 1795211169000,
       "scope": "intl",
       "type": "blast",
-      "title": "One dead, one hospitalized in Rankin County house explosion - The Clarion-Ledger",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYkp0X0hRbkdSSjRoSW5nbUxVZXZrcmgxS0ppRkg4QnZ4ZXJ4VjhJbmFESHpaVm0zaVZlalp3cGdHNG50NzJrS0VIYWhmelBPaGprUFNwejBCZ2xQRzB1aXRVU21SZjUzQUVrUmF6c01KVFBEc0JtVHYzc1JfM3pDNEdfUWh6V2RReTFQb2xhS2QzT0NWVzJ3Z3JyTUtvTXAzdzZOX1l0cERQRmJyUEJZLU1JLUstTUlYLURNbnFJbXIyMmF1ZkEw?oc=5",
-      "site": "The Clarion-Ledger",
-      "siteUrl": "https://www.clarionledger.com"
-    },
-    {
-      "id": "FL-d945c01e5cdb",
-      "date": "2026-11-20",
-      "dateISO": "Fri, 20 Nov 2026 22:28:00 GMT",
-      "ts": 1795213680000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Car Explosion Kills Woman, Wounds Her Two Children in Central Israel - Haaretz",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNV3hqcHd0NlhUc0pUbDROMFNaa0twYklsdXpGQ3hvajNKTzNLdkxvWWwzVEI1TlVUR25nUEdkeGtYTFV0YXA2blotdGdLbjZrQkhYdXR0VXpwVk5HU3EtWTJtTll0dEVISnhDc0lRTkIwc2kwRWIxZll6MlBqT3BHQm5SN1kyOHhNcjZmb2RoMWp6aE5TNUZBSzZsR0Q0NElrRWVNbnFNVWJ0d2hYdmVrZHhkenBLQ3VjZHNWenpUblpGbzJqQ2pjZ3hiMDRYZnM0V2JXN3pXcEw2V2Z2STNOYVoyY3JLRGdsTnh6NFFrZ1J5TWVoMjlZSm93UzJEZUdmNFh2d2RacElPSjY3SUpKQ3JR?oc=5",
-      "site": "Haaretz",
-      "siteUrl": "https://www.haaretz.com"
-    },
-    {
-      "id": "FL-59e9d6094d9b",
-      "date": "2026-11-20",
-      "dateISO": "Fri, 20 Nov 2026 21:54:35 GMT",
-      "ts": 1795211675000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Two crashes, including fatal 18-wheeler explosion, shut down I-35 on San Antonio’s Northeast Side - Texas Public Radio | TPR",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ01uR0VPRDVQcXFJcEYzaVd4OG5DVFB5WHAtd1lIdDBROVVfLU9sV2ROQWhacHZFVndrRDFHUVU0NzFHRFVGWUZxeUd1T0FHanBjZGszek84c3BrSVBOZW56cDVVU0lRQVhmN0lCY3hwaGVKT3Vwb2NwMTBWektENEpWRGp4VUJFRjVxUldWWkE5MTdOaEJyMFZVZ2VzWnE0OG9qaFhMUjJXbk91emNTeEhpcnlwRmVoLVdZOVFCU2QtSlk?oc=5",
-      "site": "Texas Public Radio | TPR",
-      "siteUrl": "https://www.tpr.org"
-    },
-    {
-      "id": "FL-863c9006ff77",
-      "date": "2026-11-20",
-      "dateISO": "Fri, 20 Nov 2026 21:49:05 GMT",
-      "ts": 1795211345000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Man killed, woman hurt in house explosion in Rankin County community - WAPT",
+      "title": "Man killed in house explosion in Rankin County identified by the State Fire Marshal - WAPT",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaUx4cEI3cEpiQ0xsTktMZ01Ha2hhNmFQdThyU09GOWV6ajJVUFFtQURWWlJMSC0yQkdfZEhyYk4zMXlEV1VXalVBNWgtZ1RGaHZKNEZhMWZJVXdXQVBKVW5pRUVKVEhjeFhpc1FIX3VlVkFEVFo5ekpUc0pmbGpGdG44ckNtRVVOMmJfdjM1SVJ5R0VyNi05ZWJicmNwalZOUzMyX3BaUDA?oc=5",
       "site": "WAPT",
       "siteUrl": "https://www.wapt.com"
     },
     {
-      "id": "FL-0e61d8b462a1",
+      "id": "FL-abe1f1be387e",
       "date": "2026-11-20",
-      "dateISO": "Fri, 20 Nov 2026 18:48:00 GMT",
-      "ts": 1795200480000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Father, son die in home explosion after trying to start wood-burning fireplace with gasoline, deputies say - WPTA | 21Alive | Fort Wayne, IN",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOVVJNFBTVVdqaFNwZHBJU21oRHlTeWhMeWlQaVp6WllJa1dZN0o5RUtneG9QVUlZU2tRNW1NYVo5NEsyTEZDWDdQU0xEQW9IVnlFS0hQUzNnZjVoc0xEZEQzRnc2ZzlLYzJhZ3o5MkJUX0h6Y0dLamVHM3FhbTdlWnpUaWt1aGNCemp5OC1DOVFCamR1cWt3cFJDOHhMUXVGT0kyVGNGc0JjaFFYdHV3VEduMjlMUEJCOHZaWVZnVVNmUEpXeXFEbDNEalFyaTlTelJ3V9IB6AFBVV95cUxPOVF6bWZhYndHWXRQSGZSa2V5ZmZaNFc5RTZLbEpKUzlucU1LMW9MWGpDd0xrSl96MmVxcURPVTUyNzdLaFJEazg4cFRLVUwtRnlDc1VsZ0lIcEFvLUpMUkZtdTJ2ODF0MUg3dlhOdnpDSTU2blhiRmx2TVptYnppTm41bUdMbVN5ZDdIMGVTRmZEQVZwaFlSd3hIYlBodlZTTjRwelhVTWJLMS1ZNXFBMTVZd0VTRjJERVFuVy1MQXRnYmsxT2U1UXpueENUNDJyeVRGeGJ3amRUd1FoRDRfWEloNFNrRHRY?oc=5",
-      "site": "WPTA | 21Alive | Fort Wayne, IN",
-      "siteUrl": "https://www.21alivenews.com"
-    },
-    {
-      "id": "FL-f0a0c4140f08",
-      "date": "2026-11-20",
-      "dateISO": "Fri, 20 Nov 2026 17:58:13 GMT",
-      "ts": 1795197493000,
+      "dateISO": "Fri, 20 Nov 2026 17:47:34 GMT",
+      "ts": 1795196854000,
       "scope": "dom",
       "type": "blast",
-      "title": "爆炸：数学界第一神山黎曼猜想被证明 - 虎扑",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hbXlQU2x3MlhCZ1Y5b2lNM1o5aXF4UVhEeWFkX0Rtd3pOTGNQUTJjV0tvT0pGY1FmYXljc2ZwbWRyUExrQzJ0b0dobUJGdw?oc=5",
-      "site": "虎扑",
-      "siteUrl": "https://m.hupu.com"
+      "title": "爆炸：数学界第一神山黎曼猜想被证明 - 虎扑体育网",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9hNk55aTJlV29VUWNaVVFFUkgxZk92ellrVEd6SW9RN1VZVVdnSlpmZ2RnWkdkX1NEWmVlUWtfWmFsT2lJcTJSZDNFRQ?oc=5",
+      "site": "虎扑体育网",
+      "siteUrl": "https://bbs.hupu.com"
     },
     {
       "id": "FL-f46d199d6be0",
@@ -243,18 +243,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-0e1c86fb3c93",
-      "date": "2026-11-20",
-      "dateISO": "Fri, 20 Nov 2026 10:13:06 GMT",
-      "ts": 1795169586000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Does it really matter if there’s an intelligence explosion? - Noahpinion",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sV05OLVZHek5vbUNvVTlxRU5NYnJrYmd2elB5ODV5V1BzY1dvTU9SNXFMbGU2X3p2ZVBqOUlaV3pSbHh5RDFneE5KV2U5MnVoNml0THYwVWFVdFV2LTA4NFNjSWJUb0NwTDY2S0Fnd2t0QQ?oc=5",
-      "site": "Noahpinion",
-      "siteUrl": "https://www.noahpinion.blog"
-    },
-    {
       "id": "FL-76b2eb057419",
       "date": "2026-11-20",
       "dateISO": "Fri, 20 Nov 2026 08:59:00 GMT",
@@ -267,18 +255,6 @@
       "siteUrl": "https://www.orientaldaily.com.my"
     },
     {
-      "id": "FL-7fbafea7ec08",
-      "date": "2026-11-20",
-      "dateISO": "Fri, 20 Nov 2026 08:29:05 GMT",
-      "ts": 1795163345000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "深水埗运动场对开地盘疑现爆炸品 EOD到场调查 - 星島頭條",
-      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPYi1VbEo4OUZMX05hY2F0UlB3QVZjUmtmLW55Rmw4LVVfM0VNclF5OTZtZ2g1MFVDVFN1c25tYjdwaUcyaENxeFUtTjBfYmgzY0xUN1ROTVpGc1BvY1hXZHBzU21XU1hsUThsNC1UZDFqTDQ0V3FTWURfRHFLUzE4NjhPXzQ0Zks0TE9leE5uRTVjOXNabVVvNTlaUlZyUWs3aEdSNmU2dXV4Qldlb0QxZm1STUJTdmpNODBqTEZKMU1uREQ0b3hqaEtTY0RXYUlYY0tnX1NKQ0NaaHAySnJFZ0I2VlJKTHJYcXhCMHk4eDFURU9XakRWNC1HeXpWZUhlZW5SSnNleW1aM1J6OFFUS3Q3X0NqcHRYYzBMYmtwVWlsWFgwbE16ZGtkTlN1cmUxUm5oWkdjMS1pR29BMUdRWE5sUmNEZ3FqdjVEVDhxUkszZw?oc=5",
-      "site": "星島頭條",
-      "siteUrl": "https://www.stheadline.com"
-    },
-    {
       "id": "FL-9a67c3ba02ef",
       "date": "2026-11-20",
       "dateISO": "Fri, 20 Nov 2026 06:52:33 GMT",
@@ -289,18 +265,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUSWROUHJKQ0tnZEdtYTdraFMweTRPZ2J2by02ZUZaaXgxVjJDand4SFJfTkRqTTRKZnFla05hOW9mZkladzFyUjJienBlNkFJWDVWTFVpMDdfbUdmNHFpbDNPVWhrTjQ?oc=5",
       "site": "中华网",
       "siteUrl": "https://tech.china.com"
-    },
-    {
-      "id": "FL-a04f5e6fd414",
-      "date": "2026-11-20",
-      "dateISO": "Fri, 20 Nov 2026 04:02:42 GMT",
-      "ts": 1795147362000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "【视频】原地亏爆炸的玛莎拉蒂，21万多有性价比吗？ - 汽车之家",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16MldZSWpTX0hpMWhEX0Y5dlpuZjBwVERYaGFhSjV4RFFucHBkM3k3ZFFBRXBMaXZ2ekphb0dzcTBQbWVtbnY1aTdNNmVlTjY2U3hSQ25PR3hqc00?oc=5",
-      "site": "汽车之家",
-      "siteUrl": "https://chejiahao.autohome.com.cn"
     },
     {
       "id": "FL-55850d4fc773",
