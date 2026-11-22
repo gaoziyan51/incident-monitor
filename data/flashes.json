@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T20:57:11.253Z",
+  "updated": "2026-11-22T00:49:09.065Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -27,6 +27,18 @@
       "siteUrl": "https://news.mydrivers.com"
     },
     {
+      "id": "FL-fce7df7568c7",
+      "date": "2026-11-22",
+      "dateISO": "Sun, 22 Nov 2026 00:12:00 GMT",
+      "ts": 1795306320000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "岸上就能隔空布雷？超级油轮排队爆炸起火，美军航母不敢越雷池！ - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQW81SHJBZVJtMFNmbkZlNFlWb0xZb19fUEZPMnJJU0xjYkpaWTZrZUNsVjRhN21LQjR2WHhRTUo4RUhRaFRmUDFaR3RYVDJCMG5oSV8xSVhNcGM3NjRnOHJ4YU5fYm1lYjhSSXgwUVI4MzVVcEo2eW5hNThBXy1hVWVrVl94MEtubU1zXw?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-5e735aebc1c3",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
@@ -37,6 +49,54 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlemFCa3lteDlkZERLTXRLMHhpeTIzNmFqanFBczVPaFNjQjVxOHNJNm54Tkhua1FqOGtuaUhBLWdRSWxXaFRoZThQZXJqclRIV1pUaTNhcjhHU0dwRzA1WXNQc2ZOVEhXX0Z1NUVBcnBUalJRWkE3ZlE0S3NOaXM?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-a3a6b5b5fbcd",
+      "date": "2026-11-21",
+      "dateISO": "Sat, 21 Nov 2026 23:25:00 GMT",
+      "ts": 1795303500000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "伊朗霍尔木兹甘省锡里克附近海面传出爆炸声 - 新蓝网",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFcFp6SG90N2NJNFRmNW4zTjhZdm1rUmVyYU8wblFsZTJKQ05wRXJZems5WU0xeFV0Zy10Ylh2S2JQUUN1SlZZdWVVa09iaFU?oc=5",
+      "site": "新蓝网",
+      "siteUrl": "https://www.cztv.com"
+    },
+    {
+      "id": "FL-832a40c50a74",
+      "date": "2026-11-21",
+      "dateISO": "Sat, 21 Nov 2026 22:58:21 GMT",
+      "ts": 1795301901000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "湾仔辣蟹店起火传爆炸声 消防救熄 疑燃点蚊香惹祸 - 星島頭條",
+      "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOcHI0ZkZyRkdMRE9KdUFvMWpDTmhOYnhfbzV3cGM1VnRIbmhoNlJ4enVySVF6LTJVR0N0ak00cllGVERhLU1YVl9Ca2xlcnZ3WnM0Z1FQQ0NZV1ppN203U0ZnX01TalJ1S1BjaHVjNUV3RW9IUTQzZ0hCMFlBZEVRb3RYRno1YjZWMnZObFJZODRFUUdRRkhJaFlBM2FMYTNIWUhPQl9Oc3FvV0UzdDFhTDlXWWhlbGtpVVczZ3ljTXVmXzdtRUFEVlFjbEhxYmtKUHlHVVZOSHowbjc1WVpqd0tBQjJ6Z01DMF9NM051NDB6TDE0RWgzWi15dVhOQWtiTE1TbzVHelp5WU03SUdQWjc0Z2hoTXpzY25TT1dEbkJKZEtHOUhFSkVNYWpOU25BWVVMcXpCdm9fc3pLMk42bjNYNlZPSk5zUlpqeXBldWZIaUtDY1JtNWZoUkNlZFdZYkpneUFpWU5jb2gxLVlId0pTaw?oc=5",
+      "site": "星島頭條",
+      "siteUrl": "https://www.stheadline.com"
+    },
+    {
+      "id": "FL-c6ab33f7980c",
+      "date": "2026-11-21",
+      "dateISO": "Sat, 21 Nov 2026 22:41:17 GMT",
+      "ts": 1795300877000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "What to Know About the Planned Explosion in Iowa - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV2JBQklVaVRVUzQ3YVZPNzVIckxJekQxU3FseUxubjd3S3RUeUNad08yajZWS2FyRjhTVEtqdm44cS1IRXBSMHJFa19tWWRuOGxxcUY3bjlfUk1WQnI2UEFmX09TbGRfbFVZYV9rV1JUUGlNYjdpNnZrcjBoRmZQWWhicWk4ZHd3QlNnR19obDdqTjhTOXFvcDJTdGs?oc=5",
+      "site": "The New York Times",
+      "siteUrl": "https://www.nytimes.com"
+    },
+    {
+      "id": "FL-77133c67ee68",
+      "date": "2026-11-21",
+      "dateISO": "Sat, 21 Nov 2026 21:34:15 GMT",
+      "ts": 1795296855000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Explosion at Iraqi power station leaves at least four dead - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOHVpMmtjbzZVT25CWGxDemNzTEhDaUJHblJONXRCeHlfekZjTUh4TGF0b1lwUjZVdjRSMFFjN19VVXNhZUQ2c2psWlhSN1pxdlN2LTNPVHU4M0cxLU8tZGIxUm9CYU1PQUYteXJSS3ZvVzFDY05fYkFLYkQ0bHhTRTl2QnRIODY0N3hMOFdYUVh2ZGtLYnkzdnhzU0RHR2hhSkR1dnl3SzdHc2NU?oc=5",
+      "site": "NBC News",
+      "siteUrl": "https://www.nbcnews.com"
     },
     {
       "id": "FL-962150dcf332",
@@ -51,18 +111,6 @@
       "siteUrl": "https://www.ntdtv.com"
     },
     {
-      "id": "FL-948918e4ccf2",
-      "date": "2026-11-21",
-      "dateISO": "Sat, 21 Nov 2026 18:44:21 GMT",
-      "ts": 1795286661000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "L.A. County wants to talk with neighbors of Chiquita Canyon trash juice explosion - Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVUZXYVVzaWFFUlYxR0dhOUpOd1VVT05WdmNuRzFxengzZl9sdkJPQlJ6aFZOVm5RM2w1MEpaN2lmU2dqRzBpMzFuMlhPVDlJYnViWGxXSjZydV85SjBOY0dtdE5yT0ZoSG9tNEhCY1pWTDhBN2V5ODU2ZmRETHhsVFNZdHZkTWF6X2J6Ql9YeWlCS2ZyNnctMFlvRndVWEVXM3BwUFQ4X2JJbVJCSmJiNHR1Rll5WUVzdmdJ?oc=5",
-      "site": "Los Angeles Times",
-      "siteUrl": "https://www.latimes.com"
-    },
-    {
       "id": "FL-f49a8fe8d001",
       "date": "2026-11-21",
       "dateISO": "Sat, 21 Nov 2026 18:38:58 GMT",
@@ -73,18 +121,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE83d0pCaDlZTlAwem9KcGZYcjhfRW9WVEZRNEtaSkJzLVZwOGh1ZmNmUGpoSml0UGJRUE9WYXhkdjItdzN3clk1QWJWSVlYSkFIXy1YUzlhRkhrTEJXZXAxOG1xUlFQTmdOSkR0cEs1YTlyZw?oc=5",
       "site": "手机新浪网",
       "siteUrl": "https://k.sina.com.cn"
-    },
-    {
-      "id": "FL-ad48aafbe151",
-      "date": "2026-11-21",
-      "dateISO": "Sat, 21 Nov 2026 18:26:00 GMT",
-      "ts": 1795285560000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Iraq power station explosion kills at least four - CNN",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdGtDVUVuSFA3aldyV3lnZHhnTlJoYm9pa05NNGgyLU85amVrVmRQTU1SZEJjcUJCVFljM0RzOHc5aVhmOTR2c285RnRpRTI1MWpTOW52TG9tRWkySUNtbFQ2RDcxYnAxcG1Kc3BlUmtPekxkcGZyMk5BdTZNeWhYX0NkNTZoWVUzMU02LVlvUVNnVXJCUndZZzRIbEw?oc=5",
-      "site": "CNN",
-      "siteUrl": "https://www.cnn.com"
     },
     {
       "id": "FL-2b4897850c2e",
@@ -135,18 +171,6 @@
       "siteUrl": "http://chejiahao.autohome.com.cn"
     },
     {
-      "id": "FL-59a10bdb12e6",
-      "date": "2026-11-21",
-      "dateISO": "Sat, 21 Nov 2026 02:40:16 GMT",
-      "ts": 1795228816000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "One person dead in 18-wheeler explosion at I-35 on San Antonio's northeast side, police say - kens5.com",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdDlzZnA2Y2h5c09LSHZBYXU1YlVva01aVVo4YU15OGpfLWZuZTZYeVRmbjl2QjYydVQzWUxkNHhWSG1QX3k2QXB1R0RmdEtKWm54aWhGYkppU2piekRJY2NyeEtJenZ4WEtSUkpwTktPQnRmdHdCR2RneWJqNkttWlN4S05SZ003bVY5TXJLNkN4UWlSTDBNd3Q3cEpNc1duZFJ4OXNNYmZ6RWtDODhhTDVHWWdtOXZoaHZ5ekNqaURLTlV1SFNLbnN0RG1mWEpPbHpsRVRRSzAwa0ViTjI2SFlWTzVad0lHYS11X0dnR2w1a2pfaE1z?oc=5",
-      "site": "kens5.com",
-      "siteUrl": "https://www.kens5.com"
-    },
-    {
       "id": "FL-d243db36c29e",
       "date": "2026-11-21",
       "dateISO": "Sat, 21 Nov 2026 02:19:00 GMT",
@@ -195,16 +219,16 @@
       "siteUrl": "https://bbs.hupu.com"
     },
     {
-      "id": "FL-b6f1fded4508",
+      "id": "FL-55850d4fc773",
       "date": "2026-11-20",
-      "dateISO": "Fri, 20 Nov 2026 14:09:21 GMT",
-      "ts": 1795183761000,
+      "dateISO": "Fri, 20 Nov 2026 02:55:30 GMT",
+      "ts": 1795143330000,
       "scope": "dom",
       "type": "blast",
-      "title": "【视频】21年的Q8直接跌爆炸，你觉得多少你会心动？ - 汽车之家",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VYXBQUDBIX3dRYzhmVTcwRkFRTjNuVkM3VVdoVVpPN0FiTjVTY1hPM2U1ZnN4bVN6aW96TTgtYTZjZW5Ld2N1eERhY0kxeW90YUdyY183NlRhYjQ?oc=5",
-      "site": "汽车之家",
-      "siteUrl": "https://chejiahao.autohome.com.cn"
+      "title": "3名女子给羊羔生火取暖时火堆爆炸，疑因水泥地热胀冷缩 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JQ2RtMUdldG5GZ01ZMkpPcUhObUo1eFd3bW1CVkNwYm1iZk9EQlNmak8zM3ZZZ2tXTk9fbHVpejVGUkxyUDV6V20xYWhlaS05U3BHa1pNaFZOQ3pmNmpMckFnSVowMW1LRDQta0VEaTE?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
     }
   ]
 }
