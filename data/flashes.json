@@ -1,19 +1,7 @@
 {
-  "updated": "2026-11-22T00:49:09.065Z",
+  "updated": "2026-11-22T07:31:15.509Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-882bbdb86013",
-      "date": "2026-11-19",
-      "dateISO": "Thu, 19 Nov 2026 12:07:57 GMT",
-      "ts": 1795090077000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "新民车厂电动车电池起火 现场传爆炸声两人送院 - 8world",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fMGxNR19SVWt0ck1aQUxDVDY1eDRJRTcteDBvY0FRNmItOUFsX2trODJ2LW9EMTR1LUl2WG9HREVOQ2JLMFVrQmsySXRsTHo1NnBmUlEzTEpiNC05QURYYnQ0Y3ZEelJOdlR2WjdOcFpWN1BIcl9IX05aMF8?oc=5",
-      "site": "8world",
-      "siteUrl": "https://www.8world.com"
-    },
     {
       "id": "FL-1c7bf2d3ac8c",
       "date": "2026-11-19",
@@ -27,6 +15,18 @@
       "siteUrl": "https://news.mydrivers.com"
     },
     {
+      "id": "FL-477d503e20a1",
+      "date": "2026-11-22",
+      "dateISO": "Sun, 22 Nov 2026 02:37:30 GMT",
+      "ts": 1795315050000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "湾仔小菜馆起火冒烟一度传爆炸声惊动多人报案幸无人伤｜即时新闻｜中港台｜on.cc东网 - on.cc東網",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWnowRW1pbkx3Y3RPOTB3SEotNW93aC1yYl9nZ1NQNXc1Q1daSldmNjV3YjJRUG84YUFnSjljTEpOOVU0VEhHVFdvWkFQNEVRZ2xnTWtBT3JOR05YX3lKdkRjYmlzYmxIU2lrT01COVNmX1djVUstODVNbjVEbjllZ1ItNDJtNHhSZU1HWGNycw?oc=5",
+      "site": "on.cc東網",
+      "siteUrl": "https://hk.on.cc"
+    },
+    {
       "id": "FL-fce7df7568c7",
       "date": "2026-11-22",
       "dateISO": "Sun, 22 Nov 2026 00:12:00 GMT",
@@ -34,21 +34,9 @@
       "scope": "dom",
       "type": "blast",
       "title": "岸上就能隔空布雷？超级油轮排队爆炸起火，美军航母不敢越雷池！ - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQW81SHJBZVJtMFNmbkZlNFlWb0xZb19fUEZPMnJJU0xjYkpaWTZrZUNsVjRhN21LQjR2WHhRTUo4RUhRaFRmUDFaR3RYVDJCMG5oSV8xSVhNcGM3NjRnOHJ4YU5fYm1lYjhSSXgwUVI4MzVVcEo2eW5hNThBXy1hVWVrVl94MEtubU1zXw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQanlQN00xemFscEwxLXlmNG1vMG5lQ1VvRzA0enVIeW02aTF6dTgyMHBOTV90aUFNSlhUV1JidUpNZGxmZGJ1Yk42WVFXSy1GYUZ6T21LNFhLQTU1VF92Zi1TUzdzMGRES2RtT19EMk1RT09fWEhTVU5DLWJGV1lQSkdqNi0ya2NIdm5nU1hRRGNOMnZKUUl3RGNjVDRQRm00ZDdJ?oc=5",
       "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-5e735aebc1c3",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
-      "ts": 1790406000000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "雅典老城区爆炸事故致1人死亡、5人失踪 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlemFCa3lteDlkZERLTXRLMHhpeTIzNmFqanFBczVPaFNjQjVxOHNJNm54Tkhua1FqOGtuaUhBLWdRSWxXaFRoZThQZXJqclRIV1pUaTNhcjhHU0dwRzA1WXNQc2ZOVEhXX0Z1NUVBcnBUalJRWkE3ZlE0S3NOaXM?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
+      "siteUrl": "https://www.sohu.com"
     },
     {
       "id": "FL-a3a6b5b5fbcd",
@@ -87,28 +75,16 @@
       "siteUrl": "https://www.nytimes.com"
     },
     {
-      "id": "FL-77133c67ee68",
+      "id": "FL-60294dfce45a",
       "date": "2026-11-21",
-      "dateISO": "Sat, 21 Nov 2026 21:34:15 GMT",
-      "ts": 1795296855000,
+      "dateISO": "Sat, 21 Nov 2026 22:20:00 GMT",
+      "ts": 1795299600000,
       "scope": "intl",
       "type": "blast",
-      "title": "Explosion at Iraqi power station leaves at least four dead - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOHVpMmtjbzZVT25CWGxDemNzTEhDaUJHblJONXRCeHlfekZjTUh4TGF0b1lwUjZVdjRSMFFjN19VVXNhZUQ2c2psWlhSN1pxdlN2LTNPVHU4M0cxLU8tZGIxUm9CYU1PQUYteXJSS3ZvVzFDY05fYkFLYkQ0bHhTRTl2QnRIODY0N3hMOFdYUVh2ZGtLYnkzdnhzU0RHR2hhSkR1dnl3SzdHc2NU?oc=5",
-      "site": "NBC News",
-      "siteUrl": "https://www.nbcnews.com"
-    },
-    {
-      "id": "FL-962150dcf332",
-      "date": "2026-11-21",
-      "dateISO": "Sat, 21 Nov 2026 19:54:29 GMT",
-      "ts": 1795290869000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "伊拉克發電站突發爆炸起火 至少39人傷亡 - 新唐人電視台",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VTEJndHFocG83THNSMzJzQ3RDTGtELVZqMVpNcW16eFFxRmt5U2JxT0RhWXJDNVBMX1V4N3hzVG1iOU45MWR4M0RZTDVRQVpVeHNXQU40U3FDTVNWdzRJYdIBZkFVX3lxTFBsUHBqejVudlQ1c3U5THdnV3pobXd0cXZleXJYeTNhaUlnVkszUFptZll1bHJZck4zNXV4LU9mLV9zQm94eG9ESmFnbk1HN1A0ZFByLWc5N29nTTRYZnVLcjQwY2FyQQ?oc=5",
-      "site": "新唐人電視台",
-      "siteUrl": "https://www.ntdtv.com"
+      "title": "利比亚班加西海军基地弹药库爆炸—— 阿纳多卢通讯社 - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRmQwWlU5Wk45QjBIYWo1MmZ6MzY2T29TaUctQ3hMNHpEOU5LZ250dE5UNlViVGU0RGpkSXFGcFRibUN3S0pMOTgycW9nRm9zUV94bGhJSk50VndiVGRJSldfODV3MkozbGt3bFZPRVBWRlBLRUs1bXkyUXlZSzYwenlVTVYwdHhDd0R1SHIxTWdjUlBkNi1TSGsyakd6XzZPTW55b2hleDR4bHM?oc=5",
+      "site": "UA.NEWS",
+      "siteUrl": "https://ua.news"
     },
     {
       "id": "FL-f49a8fe8d001",
@@ -135,6 +111,18 @@
       "siteUrl": "https://www.tvsarawak.my"
     },
     {
+      "id": "FL-9508fa531eef",
+      "date": "2026-11-21",
+      "dateISO": "Sat, 21 Nov 2026 17:07:33 GMT",
+      "ts": 1795280853000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "也门荷台达传出爆炸声 - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ETlRmdXZuc3p5TjJxSmxGREFHTjlxRWFlMWs1ZlczTG94UHc2QWlCcDZmWGtkRDUzQ3FmNXFoVGZTZ2Y2SzRydDUxbw?oc=5",
+      "site": "手机新浪网",
+      "siteUrl": "https://wap.cj.sina.cn"
+    },
+    {
       "id": "FL-967bf2b8d226",
       "date": "2026-11-21",
       "dateISO": "Sat, 21 Nov 2026 11:17:11 GMT",
@@ -145,30 +133,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb0E4WmRKVmJjaklHSTZib08xTWVPdks3bHR6SlBKbkRmYzRvcHNJQzEyTFdRdmZCRUFpbnczb3JscDM4UXlHUUttSHFPZkpvOU9iQmFVN2tOTjNFSm56MlJHLWhUY3JjNzZKNVdEeU1hR1J4SVVLa2NzdGdKZkM2Z3hlLVF4NXRSbEZ6QQ?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-963f53feb8c5",
-      "date": "2026-11-21",
-      "dateISO": "Sat, 21 Nov 2026 09:07:42 GMT",
-      "ts": 1795252062000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "内忧外患！意媒：那不勒斯战绩糟糕+更衣室爆炸，囧叔已如履薄冰 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOXhFTF9NSVRibjdmNEhia2ZmM3dJTmNsTFNDSUpfa2lncGxRX1l4SncweTVZMEY3cW5oaFZ0LWI2MURQN0VzTXdnWXZDZWpJODZoN2VlaTlHV004cm1vR0hVdWJEeUpLSkZPdTg0QlNVQTNTMEtGcGwteGpaNEdKTnh2ZXdsU2x2?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-9157b4de4ea9",
-      "date": "2026-11-21",
-      "dateISO": "Sat, 21 Nov 2026 04:32:00 GMT",
-      "ts": 1795235520000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "三浦庆新作惊艳登场，联动Donut和Hardcore燃爆改装派对 - 汽车之家",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVNXgxeEt4RTRoZVdRMFRxRklOSU1rZTFkUUozaTdIT3VmRDdkSFpPRmt0YmNEUEw4Ym80TlJLS0Y3QlphNTItM1lOZ01vckJ1amRXTy1wOFZUZw?oc=5",
-      "site": "汽车之家",
-      "siteUrl": "http://chejiahao.autohome.com.cn"
     },
     {
       "id": "FL-d243db36c29e",
