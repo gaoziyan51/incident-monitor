@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-23T09:49:20.547Z",
+  "updated": "2026-11-23T21:43:05.373Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-f7312397c42a",
+      "date": "2026-11-22",
+      "dateISO": "Sun, 22 Nov 2026 22:50:06 GMT",
+      "ts": 1795387806000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "班加西港的俄罗斯船只疑似遭到无人机袭击，引发爆炸 - RFI",
+      "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxONm55djNycnplRDZJa1NXTHVOLV9qcWJSY3dGWlFlam5Hdm5aRVpkQ2VzU0h2TVMyQzB3VnZtY2xjZHpNbDUyNVhtZEQ4U1JRSHU2NGhUTl9wYlNtTG9KcUlVSGgyODY3b3FLS1VBazhfTGNqMlltb1Z6Rm9aTjEzZ295UDdJci1Fb2VadEZJaWF4enQ0UXVOSVE1OHN0V01Gd0Nhd2V1WlQ0NlZzOW1LNUt3dTFGbG4zWWI4M2lsSmc3TkE4R1VPZVljc1NzeU0yb0htWVUweTBhXy1EWTk4Z01NVU1HcW96b3NJdm9pZGRCaTNZU2NGM3dGckF2WWpLYU9zak1KaVl1ZFVZNEtidlk4U285Wm1ObG1xLUV0bGV2RUlnTXVsTTNMdFVIcUtYdWJxcDg5YXZJNE5zTUthTXRFa2JxOGdEb0dudURVZmI5UHdFd2prTVg1dFZ6bGxBemstTURnYXhRczcyeVZRYjkyVm1MYnQ2VC1taVBNSQ?oc=5",
+      "site": "RFI",
+      "siteUrl": "https://www.rfi.fr"
+    },
     {
       "id": "FL-d3acbd3b55a0",
       "date": "2026-11-22",
@@ -13,18 +25,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS0dGQ3ZkbVBtQjdVODBLdWV4Y0ZBWmxkOFBLVW9LT09obFZUdm05TFlWNVVrLWE4WXhudDVlbUkxVjFvZDZ2WkRCWnRBa1pMM0UtVzVoYkROMkhyaHhEQ3FPUFNrNVY1YU9TRlo0OURvSjB4LVgwOHczYnBHUlkwbnhPLS0zNEJCUnlxcw?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-cd0adbc90406",
-      "date": "2026-11-22",
-      "dateISO": "Sun, 22 Nov 2026 21:35:24 GMT",
-      "ts": 1795383324000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Chesterfield home destroyed in explosion that injured one man and shook neighboring homes - WTVR.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdE9LelFqa1FXN1BiR0pHaHF4dVkxMlNVSjlkQm1JTWxld0ZFT3VrWXMtekgydjUzMWhBYUpNUU9zdUk3MDdVWmptenM3TTBib1VlY2F4ZUNteHVwOW5SMk1TZWpIR2ZiVkktZFFJWlVWQUtCNmJ1d2dEd3FNSFAzQjduNlhzOEEzWDRuMG9WbTlsOTI1Y0dJdE9RVnZLUWF2UnZvZQ?oc=5",
-      "site": "WTVR.com",
-      "siteUrl": "https://www.wtvr.com"
     },
     {
       "id": "FL-09bc906380e9",
@@ -39,30 +39,6 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-acf960f80349",
-      "date": "2026-11-22",
-      "dateISO": "Sun, 22 Nov 2026 18:11:00 GMT",
-      "ts": 1795371060000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "West Alabama explosion: Natural gas release sparks pipeline fire; no injures reported - AL.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ0RKUndWcFJnaVVGYTBSdUdyQTVHeXBfWXJVVi1EMlBITGNvUTJBM2RmS0dtcjRWZng3WHFyVF85Ulo3X0NlM3hXdjBVaWx4VXd5ZmsxTDBKTVBaUFBsTVNOdERyV2ZSUFMzZ1BxOXJ2X3UxZVhsUkVLMHpVdG12bGlfOE9OVnotblhTZUROZEd0bEpzUnRyNlBQa2hoUE4zU0ZpdXY0aU9uMVJqNDdJT2lvUE1ORWVJcUtyM9IB0AFBVV95cUxPZmJUTERqaGxfTll5dno0dWJtTEtuTkRFXzZrcjYxSVBHQ3JsNlh5aUZJajExV05MVDJZUjdJcDRob0J5ZkN3d3UzaFNkUlFRa3dRTFRhQUtablRPV1RodzhhNDl3dWZBbzJCaVlMNjJYcTdNTk9iTWZvVHhuN2ZGSGFkcUJRRnRkSGRYM3BIcDVLdmNuem1nQW5DN3dCWERmN2tIVDBHR1FKX203T2ZwOEFRZF81SWFrQWV2aHBLeWNFREI5R1lTR0VzV3U1UXRs?oc=5",
-      "site": "AL.com",
-      "siteUrl": "https://www.al.com"
-    },
-    {
-      "id": "FL-23011eb4e157",
-      "date": "2026-11-22",
-      "dateISO": "Sun, 22 Nov 2026 16:40:46 GMT",
-      "ts": 1795365646000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Man seriously injured in Chesterfield house explosion - WRIC ABC 8News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT0ZETndpdk5oakVPdnRqNTFwajdzU2JOZ2UyOTJmV3lrX2dWSDBLTUw1UjhvY21YWEYzVk9lbmw4TDl3Q3ZCN0RzU2FpSnEzNlVzRWdYS0FSbXRrbkZnbm1xSUlDdFRXMzdKMWxnTHhvVHpTazNQZzloTVpZWHpkUFM4ZzBwZlVlRUppSkpR0gGTAUFVX3lxTFBHemNHXzJ0U3lwWEEtRE5mVGxpWmlwblg1RWpRelA3cG91algtM2tvbDBmT2o5VGFBdTk1NUs5WGdnbkJKenNvOWI1MV9MT3BTMl9vUl8xX2dwNHlJd0hFdVJzN3o2elY4bE1TWWhydE8zRWhHRUVUS3hXWkRWWWxRaGVUaXNKai1RSXZrMzlHVnphUQ?oc=5",
-      "site": "WRIC ABC 8News",
-      "siteUrl": "https://www.wric.com"
-    },
-    {
       "id": "FL-9d9d45970704",
       "date": "2026-11-22",
       "dateISO": "Sun, 22 Nov 2026 16:34:26 GMT",
@@ -75,54 +51,6 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
-      "id": "FL-5064f966ccef",
-      "date": "2026-11-22",
-      "dateISO": "Sun, 22 Nov 2026 16:31:00 GMT",
-      "ts": 1795365060000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "1 seriously injured in Chesterfield house explosion - WWBT",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYnJuWXhPaDJqa3FQTC1velJQOUsydXoyUGEzbjhORjdMNmFZZzR6MHNSMTZ3YlYwSHJDV0xIYkZvN0hSMEp0ZVRnbTRqMmwxdEtQTjNqODloYnZhTTQzRUdOSGhyTklOSy03YkpmWGNVaklfMU9GTjNNX1c2Wm11dkNsUjc4NTVw0gGcAUFVX3lxTE1IdW1HSklmcWhOVm5abDg3V0o4MGJiMW1uY0ZaMW41djRVeWkzblg0c0dnSU41VVBrZmZ1V0hGUVgtMkRMYzNEUDZNWEtsR2UtQTYteDZjdWF1OXV0UERLZXRfLVpyY0VDbGRIMWxhbVJZbEpvczNfdnZJb1RYUmo2N3JyQi1sekJmTkdjWUU4SFNlNXRldGM1NW9BUQ?oc=5",
-      "site": "WWBT",
-      "siteUrl": "https://www.12onyourside.com"
-    },
-    {
-      "id": "FL-0b6e2c493dcd",
-      "date": "2026-11-22",
-      "dateISO": "Sun, 22 Nov 2026 14:34:00 GMT",
-      "ts": 1795358040000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Major Gas Pipeline Explosion in Alabama Shown in Photos, Videos - Newsweek",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU0tZY2JocHJ4SFJmQnc5alFtOEY4THMwWEJMRi1GQmE2MjdoT24xT0hzREZzdjV5WXRsOElqc25VUG8zUGJlRzNNc2U4VkJCSlVZck1mY084RXZza0dlcUFGc0dzZl8ydkRVemQ0NFR2ZlU2QkpwQS04VlM5cllGcEk0UExEeUliZ2dqTnVKWm90d0Y1ejZua1pWREM?oc=5",
-      "site": "Newsweek",
-      "siteUrl": "https://www.newsweek.com"
-    },
-    {
-      "id": "FL-5058e9888d81",
-      "date": "2026-11-22",
-      "dateISO": "Sun, 22 Nov 2026 14:25:00 GMT",
-      "ts": 1795357500000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Libya's eastern government suspects drone attack caused explosion on Russian ship - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSHNFQ2hvQUxyR05zYXIyVjczNjE3eEVLWWhMdk1mS01BQV91dy03OU5SSzVzbzlvVk1ManQ2TFhqU2xkRkhZcGthVlZad0E1aVRKU1E5ZWxJTWRQVG5UYmFYYmcxZGJ1TFc1YzE0a2E4XzQ4SGJLNjNlc0otTGhGRnRWTHpmeW1mWnVBLTNhYmFLU3JOUTVfSTliN19fMG9rRWlmeFdKNHFSU1JVTTdnQUNhUlBUWmRSTDVXUUJuUW9fNEV2cjNWdTlPZw?oc=5",
-      "site": "Reuters",
-      "siteUrl": "https://www.reuters.com"
-    },
-    {
-      "id": "FL-9526b9aba492",
-      "date": "2026-11-22",
-      "dateISO": "Sun, 22 Nov 2026 13:22:00 GMT",
-      "ts": 1795353720000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Reported pipeline explosion in Sumter County seen from miles away - WBRC 6 News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbkhxSEdMVFlDRWlvYzNDWnJfaEh6OXpWTUlBb2RLaGRScGVFT3k3enk2Sjc1MXRYdl9SanVjTTBPYmlqQk1QU0RHZ2ZmVnFNM1hYNmhvUkUwb1NIUlByMGRwYW5uQmUwWXF2ZllyV3VBajhIZmVoSnQ2ZHlwaklFSGFrR2NjeDNVWTFFSnNBbE9mX3JL?oc=5",
-      "site": "WBRC 6 News",
-      "siteUrl": "https://www.wbrc.com"
-    },
-    {
       "id": "FL-b6b814ed9891",
       "date": "2026-11-22",
       "dateISO": "Sun, 22 Nov 2026 12:09:57 GMT",
@@ -133,30 +61,6 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDcjBiaHBmaHEtYXMydGFQNWdmMklOQVg3b2tlcGxzX3FJZW9TaG5PT09WY0J3anJXS2U2dEZEZFM3bEhLTFRKd3RGaHVZZVB0LTZOdDBleGJKN1R2Yi04?oc=5",
       "site": "华声在线",
       "siteUrl": "https://hunan.voc.com.cn"
-    },
-    {
-      "id": "FL-91565be06fd0",
-      "date": "2026-11-22",
-      "dateISO": "Sun, 22 Nov 2026 09:02:00 GMT",
-      "ts": 1795338120000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "俄罗斯“水星”号护卫舰在班加西港发生爆炸 - 媒体 - Mezha.net",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc29scXN0SHBrZlpzanktOVBRWXdpdFY1MDU2SWdDaDZ4eW5HaW00eHlBNXZPdEFDZk1MRW5id3JvZS01MjBIWTRQMnJpMmFvM2YxVlJmSEdrOHFHWVpIOWdhWGRiUVFpV0R0blhsRi1Ub29kUjBTNkpGYW5IbFBxdS12c2F4WTJxalVzZVY1Zm9TdF9pOWtGeUdQUHpEWGh4QWViWldn?oc=5",
-      "site": "Mezha.net",
-      "siteUrl": "https://mezha.net"
-    },
-    {
-      "id": "FL-c86370210bf5",
-      "date": "2026-11-22",
-      "dateISO": "Sun, 22 Nov 2026 02:18:29 GMT",
-      "ts": 1795313909000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "电动方程式季前测试发生电池爆炸，现场升起巨大烟柱，车手及时逃脱、幸免一难 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwTVBhRXJiNGxBOVZYTmdGRXZqRWF4MG9zWEFETVQzZ2lua0Vhems0Z3hUYTJrYUt4enJlYlVfX3E1Y1VUZDJXTW5SaWtsOWM4X0Q1dVV5RTliVUZzcGtuSTFiSEJKbllQMDlqWE44eENfdVpGQW9lSg?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-5e735aebc1c3",
@@ -195,6 +99,102 @@
       "siteUrl": "https://www.cztv.com"
     },
     {
+      "id": "FL-9e8da5fc95cc",
+      "date": "2026-11-23",
+      "dateISO": "Mon, 23 Nov 2026 19:58:17 GMT",
+      "ts": 1795463897000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "In Iowa, Confusion Over Ammunition Explosion as Trump Calls for Delay - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbHVvTUNRM1k5SlpBX3ZscHI4V1psYVQySXZKZmtFaDJjZTF3RTE5a0RCYXkxd0NQUkE1Z0RrTXBGMTZla3VHR0JUdS1EUjVOTl9mUlFtMlJvUGRXblJrYkQ0MXh1VXlXRlljLVFnOUtnRE52dkNCeFRUOEdyeHpKRmNVVHg?oc=5",
+      "site": "The New York Times",
+      "siteUrl": "https://www.nytimes.com"
+    },
+    {
+      "id": "FL-42d484ff74ab",
+      "date": "2026-11-23",
+      "dateISO": "Mon, 23 Nov 2026 19:04:53 GMT",
+      "ts": 1795460693000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Iowa lead explosion: Trump ordered Army not to detonate chemicals without court approval - FOX 9 Minneapolis-St. Paul",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6LXp6My13WGo2cjNUQXRBYXloRzBPMlQzaUthME0tZFFCRnJFdTZXVF9UcV9EUEtFNlBfT2pFdlZYR0JidkxITHhreVlhUjFwLXp2R3BPMUZxZXo1aXVBTzdGZDc1VWVROF9fZlZLVGI?oc=5",
+      "site": "FOX 9 Minneapolis-St. Paul",
+      "siteUrl": "https://www.fox9.com"
+    },
+    {
+      "id": "FL-fc4020de7d0c",
+      "date": "2026-11-23",
+      "dateISO": "Mon, 23 Nov 2026 16:08:32 GMT",
+      "ts": 1795450112000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "油城影像｜硬核拉练燃爆荒野 - 中新网·新疆",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcDhfcWNvR1NjVFJNZ2xMdnh3MlBpZFhfUVlHTWw1d2JBeF9YTWthdFFVcEEyendjWWNzcTVrVXpoSGhYYjhGQXNZRWdGbDhBU1pmdGF1cTUxcWI2Vk9DZEFOSzczNEdlMENZUVRRYXNQQ3VBb1hpa1NiTGVqTUMwN3lSMA?oc=5",
+      "site": "中新网·新疆",
+      "siteUrl": "http://www.xj.chinanews.com.cn"
+    },
+    {
+      "id": "FL-2a6f417cd146",
+      "date": "2026-11-23",
+      "dateISO": "Mon, 23 Nov 2026 15:39:00 GMT",
+      "ts": 1795448340000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "俄罗斯无人机爆炸，打断英国部长在基辅的讲话 - Mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWW5HLTBQbTktWDJZeGt5Z21Hcllzb2ZCNkxmdnJzaTlVYkdGNXMyQkpXUXhLY3RCcUlLNWNWRnN0VnFoVWVnTGZPenJvN0pqZFBISDBzUm5Kenhua0NpaG9FMnc4UW80cXU4cGdPVTRNT2h3WGU2d3hwdUpMQVFSUmhn?oc=5",
+      "site": "Mezha.net",
+      "siteUrl": "https://mezha.net"
+    },
+    {
+      "id": "FL-41e397eefcd2",
+      "date": "2026-11-23",
+      "dateISO": "Mon, 23 Nov 2026 14:53:35 GMT",
+      "ts": 1795445615000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "德国情报机构警告：俄罗斯可能12月发射核武器卫星，太空核爆炸恐瘫痪全球卫星网络 - 加美财经",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDd2JoOVRCSW1CZ1dZeWFINUtlVjRocWhCMFVnb3NzS3JPQnNwQWtId2JYM3hKSUp4dmNqLWE0bUJlTGs2UVJvWVZsZFQ1NXNUYjZXVzFKay1jQQ?oc=5",
+      "site": "加美财经",
+      "siteUrl": "https://www.caus.com"
+    },
+    {
+      "id": "FL-b76fceb7b09d",
+      "date": "2026-11-23",
+      "dateISO": "Mon, 23 Nov 2026 13:44:00 GMT",
+      "ts": 1795441440000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "#中东局势#约旦：初步报告称，首都安曼听到爆炸声。 ​ - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKNGhiTklWWXhuV1BaWGRDbDlZaWxCRzNYSlhKaHE1NXdRbm9XazRHQkJSRm9pbE94Tm9GN0pfNTQ3R2RlRHU0NWRCOS1NSFctdzBuV2tHWjIwbXV2WXVNNjA5Yw?oc=5",
+      "site": "手机新浪网",
+      "siteUrl": "https://www.sina.cn"
+    },
+    {
+      "id": "FL-765d69594486",
+      "date": "2026-11-23",
+      "dateISO": "Mon, 23 Nov 2026 12:30:00 GMT",
+      "ts": 1795437000000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "不顾法院禁令，美陆军执意引爆不稳定爆炸物 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS3d0VnQxN3l5NnRxZFpvQ2FOTnRZVDBwUktSRmI0VFBEOGU4MmlfZFRwX3FodFRXdWdVWFBKUGtfdVJyUFN4bDc3OVZJa0pLNU92Vm50RGNoZXp3WFVQdUhrSlZnZDlZTFJFWlI0WG9MLUhUM0ZPYmJsd1gzT3lEcTdfOUN5RkVz?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-87cdb76620a0",
+      "date": "2026-11-23",
+      "dateISO": "Mon, 23 Nov 2026 09:41:00 GMT",
+      "ts": 1795426860000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "韩新世界百货遭爆炸物威胁 全国排查 - www.hkcna.hk",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zbS1vVllibko5SVl5SU5tbmZkS184U241NEJGdFpNRTR6ZWpPS2JTckdqWElQbVFqQ2g5a0RPUGw2RFRxOHJiMUZiY2RCdDZRdUV2ZWZnTWhGVERCb3lUalBvNE4tRXVHRkloZUEwOA?oc=5",
+      "site": "www.hkcna.hk",
+      "siteUrl": "https://www.hkcna.hk"
+    },
+    {
       "id": "FL-1ee6be6203ac",
       "date": "2026-11-23",
       "dateISO": "Mon, 23 Nov 2026 08:40:53 GMT",
@@ -219,18 +219,6 @@
       "siteUrl": "https://www.navalnews.com"
     },
     {
-      "id": "FL-aeab6661bb7c",
-      "date": "2026-11-23",
-      "dateISO": "Mon, 23 Nov 2026 07:41:18 GMT",
-      "ts": 1795419678000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "俄军舰在利比亚港口遇袭爆炸，现场画面曝光 - 网易新闻客户端",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uR0cxMmVBQzBZeEVPV0lYektaeTBHdm5HdlNVenRSaFNXaXl3N3Qtc3lYMWFVUkFZLTNxUVgtMzFZT1BKRklUb1ZndEFaVlBRZVVr?oc=5",
-      "site": "网易新闻客户端",
-      "siteUrl": "https://c.m.163.com"
-    },
-    {
       "id": "FL-54a10b538b69",
       "date": "2026-11-23",
       "dateISO": "Mon, 23 Nov 2026 07:39:56 GMT",
@@ -239,30 +227,6 @@
       "type": "blast",
       "title": "又一艘！俄罗斯护卫舰遇袭爆炸后被烧穿，乌克兰无人机再出奇招？ - Sohu",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRjc1Rk8xQVNMRlVJNDlYaXJWaC1EZjNkMUktUXc4X210WUQ1U2dfN1FRaDRpR0lpZkpodzVPTjVMZUpTMkVhWHhQbnF3WEZuV2g5X0E5SGFwQVBVaE5jVnhxeGF2NWJXcC1BOWZJS2VVZWdzWjJaYUpibUVUVDdCOGRVbFVNXzgyVDZjeg?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-b8fd80dcf00f",
-      "date": "2026-11-23",
-      "dateISO": "Mon, 23 Nov 2026 07:07:00 GMT",
-      "ts": 1795417620000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "塔贾尼：“利比亚俄船爆炸令人担忧，必须避免地中海爆发战争” - ANSA",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWFZ1SFFxekJ2MFRlQTJHa25aM29QVUk2NkVra2ZQYXZDZll6RC1ZcWtpTWRsX1R4cnlyN3ZQRWxkNXhJekt0amZBVFFBaWk4aHU2VHlTd2k3Ql9EY0FHWHJrS283SlpoenBIZzAwUEd5Ui1uX3ZnVVZ1SzZHT2YwbTZvWlNVTkhhWV9lekI0NzY4LUpBWDFIbA?oc=5",
-      "site": "ANSA",
-      "siteUrl": "https://www.ansa.it"
-    },
-    {
-      "id": "FL-240ed20bfcfa",
-      "date": "2026-11-23",
-      "dateISO": "Mon, 23 Nov 2026 05:17:55 GMT",
-      "ts": 1795411075000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "8194吨货轮爆炸起火！英国送来千架远程无人机，北约俄要正面交手？ - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbUQ0NDZDeDJUcU90dkpseTF2VTBHbGVXTDB4WEhNRU5lUHdXbDNhOUttbkZBXzIxTUZVUkk5MmNDdlB3NHA0M1pBS3BCMWJ1QlRncGZCWTVGOEVkQi1TcENoQ29sd0QwcUhPczU0eGczNmpmZVVKaVFWWFQzdW1hYUFTbGtaUmlHUGFHdQ?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
@@ -291,42 +255,6 @@
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
-      "id": "FL-87c0e5281496",
-      "date": "2026-11-23",
-      "dateISO": "Mon, 23 Nov 2026 03:10:00 GMT",
-      "ts": 1795403400000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "阿富汗地雷和弹药爆炸致257人死亡—— 阿纳多卢通讯社 - UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYkl1SHpxbW1CX194NzZDM3VjTDMzcTV2bmxaWmVKaUlQTWdQazhtRWJJcWp2S09GbTA1cVJtSElqcHQtLV9IR2RiXzRTRkFIMzNBZWdzUFpldG5lUXdXRlF1OWRzNFBxOXI3WnFhZktYZEVBOTRmSnB2QV8tZ213ZHd1ZFRXY2dfQ0dtaWpxRkZUVEktdFFBREtJRnlPU1Nyd3FxbTAyZTY0UVRZRGVoMWRqTQ?oc=5",
-      "site": "UA.NEWS",
-      "siteUrl": "https://ua.news"
-    },
-    {
-      "id": "FL-93f649af6639",
-      "date": "2026-11-23",
-      "dateISO": "Mon, 23 Nov 2026 02:59:35 GMT",
-      "ts": 1795402775000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RYTdJa3FLUUotRjRtWmFYcWsyT29UT0FCVDUycVp4MmlCMUkzUVR3cVJUVTJWNDlQX0JLbk01S29SZEtLM0lXZHdzX2U4N2JBVDdhVjN2TEdlczg?oc=5",
-      "site": "BBC",
-      "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-661660114626",
-      "date": "2026-11-23",
-      "dateISO": "Mon, 23 Nov 2026 02:55:26 GMT",
-      "ts": 1795402526000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "疑乌无人艇攻击 俄舰停靠利比亚港口爆炸 - 国际 - 即时国际 - Sin Chew Daily",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MbGx5US1tVkdtNFBtX0tSNlVhckE0ampTTWVVQzFCT1lyb1dmVGVyLTRDWXVXbnR4SnRLX2tOWjZfR1NQb0xkSFF3WGZQcnNKbzZtaVR3REIzczBnelRrNGFFSWQtTjZVSDF3ZXNvWQ?oc=5",
-      "site": "Sin Chew Daily",
-      "siteUrl": "https://www.sinchew.com.my"
-    },
-    {
       "id": "FL-8e4b76ec3446",
       "date": "2026-11-23",
       "dateISO": "Mon, 23 Nov 2026 02:21:00 GMT",
@@ -351,40 +279,28 @@
       "siteUrl": "https://news.mydrivers.com"
     },
     {
-      "id": "FL-46daa3310432",
+      "id": "FL-1e8886c9e598",
       "date": "2026-11-23",
-      "dateISO": "Mon, 23 Nov 2026 02:07:38 GMT",
-      "ts": 1795399658000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "空气炮“拂”动发丝，火焰掌燃爆全场——《爱科学》科普秀拉开江山悦幼儿园体育节序幕 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPR0Y1Y240b3VPLWI3NUVLbFBhTmZQeG44WUF0d25VeEdMcU4wRFVPYUg1d2ZrMVhpTThoa0NFTEtoRmZZTjdFY1IyU0hWLXc5UzAxRDEwZkEzM2l2Zmdrd240OHlaNWtwS1puTEFVaHdvZTVXeVg5dE85MjJYVXZoVGd3TFdlb2ZNMU45aQ?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-7cc1ead02bf3",
-      "date": "2026-11-23",
-      "dateISO": "Mon, 23 Nov 2026 01:26:00 GMT",
-      "ts": 1795397160000,
+      "dateISO": "Mon, 23 Nov 2026 01:38:47 GMT",
+      "ts": 1795397927000,
       "scope": "intl",
       "type": "blast",
-      "title": "Madsen’s raising money for family after fatal house explosion near Hickman - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbmM0ZklZcVdseG9zYUNkNkpQem1Pd3BWbWhqdEZEbU5pXzVIVHlVMXBLd1huaVgtajZpbGNPUWZuZEhvT2M0LW5WbnRUVmN0SkNsdTZiVzZrT1R1TU1rYmcxeFZPZmhURFZ4WVhhemNBaVdjaGc5SUFCbmtaOW1WNHN0MnRwaEtjNFFJZElzdS1JWmpHYjlWTzJhVnZFbE9BaEhsZV9Za9IBuwFBVV95cUxNYmwtUmlFLWthdU1SVXFZM1E2R1MyX0NUQU1fUG10NjFPaG0zY1FtTXVrTmNDOVBJam11R3ZDNTJrakNSTWg0VGQyb20tTWhSdXNxeFVON25HRmdUS2w2QnFVbGNXei1aX05UWk9EVDAtLTRqcmxxemhjMEYwamNWelhsQWkwdFJyMGhNUERzbkctSE9zT0MwcVVHTXBzb2FFd2daSlBsbWpQN0NkelNRM2JMSVkxbGl2NGE4?oc=5",
-      "site": "KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
-      "siteUrl": "https://www.1011now.com"
+      "title": "5名儿童被地雷炸死；数据显示：叙利亚约有500万名儿童受战争遗留爆炸物威胁，今年至少有124名儿童因此死亡 - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWllqbjBOemFmS09QNklDaWV6Z2dYZ0t3SURZT25odm5ZQUdvZWdKVWJQNUI0NFVsME55RENTUjNidkg2aU1lZ0FaWGNaYnd2dUQxMWRnaHQyOUxhbWtuc1U5bG9IQkQ4RmVKM2ViYV9WYi1VQTRnUVpsNkx2NkNEN2c4cUhTU1prM0JpUTFROA?oc=5",
+      "site": "21财经",
+      "siteUrl": "https://www.21jingji.com"
     },
     {
-      "id": "FL-d84972a7904a",
+      "id": "FL-20d4e8a13ecd",
       "date": "2026-11-23",
-      "dateISO": "Mon, 23 Nov 2026 01:00:26 GMT",
-      "ts": 1795395626000,
+      "dateISO": "Mon, 23 Nov 2026 01:34:31 GMT",
+      "ts": 1795397671000,
       "scope": "intl",
       "type": "blast",
-      "title": "5名儿童被地雷炸死；数据显示：叙利亚约有500万名儿童受战争遗留爆炸物威胁，今年至少有124名儿童因此死亡 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLW1OR2FLOGZ3akRnX2piT240R1V6N3lhQU45MkUwenpmbzhLak1TbF9FSG4zUHN5eXhVUW94bkZNdXlKd0l2SFRRSTBNSElTRDl6RmVlclZsOThyQ3psWWZESGcxakNTWV9IQ2JXYWtZcXNOcHV3YzZuQmZoQ2F6bUUtWm5aOEJZ?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
+      "title": "俄一护卫舰在利比亚港口补给时遭袭起火爆炸，乌方无人艇疑为肇因 - ThePaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93MTRHVk9hLVRqclg1MEVnZVNVbEhucjBqREJqMFNZUmFIR3ZSR3pnZzgzOGpMRkpKUzMtSFNhcWxNbmhuSjVsamI2YkZMVHA4R1Q5VFczMjlRQXd5MHpGeQ?oc=5",
+      "site": "ThePaper.cn",
+      "siteUrl": "https://www.thepaper.cn"
     }
   ]
 }
