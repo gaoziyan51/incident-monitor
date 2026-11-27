@@ -1,30 +1,18 @@
 {
-  "updated": "2026-11-26T19:53:51.575Z",
+  "updated": "2026-11-27T02:29:43.979Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-10058e44fdcf",
+      "id": "FL-15bf12f0d681",
       "date": "2026-11-25",
-      "dateISO": "Wed, 25 Nov 2026 23:09:50 GMT",
-      "ts": 1795648190000,
-      "scope": "intl",
+      "dateISO": "Wed, 25 Nov 2026 23:53:00 GMT",
+      "ts": 1795650780000,
+      "scope": "dom",
       "type": "blast",
-      "title": "After Extraordinary Iowa Explosion, Officials and Scientists Assess Fallout Risks - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jaXpJaE9OLXF3MFkxR282MUl2alIyZnhzdkNqYTVMSS16LXY1d2x1LUFVTTdlVEliWXg3a0NTci1jQVdDM25ueEtidS1yeFZxTHpyNW5BcEg0RDhHLXI3ZjBvbGJ3dEJXQzhiMWlNYXVyNEdITWJfMw?oc=5",
-      "site": "The New York Times",
-      "siteUrl": "https://www.nytimes.com"
-    },
-    {
-      "id": "FL-8bfdbbcea04b",
-      "date": "2026-11-25",
-      "dateISO": "Wed, 25 Nov 2026 22:42:14 GMT",
-      "ts": 1795646534000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "沙特首都利雅得传出爆炸声 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZC10akV5Tlp1bDFTSW1TcUk0Z05CVkhBRWdmd1NLNWFrbUR2dG0wYXRVNDNfSkhEVkcyYUx2cVNOck90YlFqWW1KcXBma1M5Y0JuUGIxYm5oQklPbTUyMGZiYmM1QWVZM3E4ejM5UjhqeGpIS2dUTHRQbmc2UGM5a19oeTlSbW4t?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
+      "title": "国际丨美军销毁近5吨含铅爆炸物 引爆瞬间升起巨大烟柱 - 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDY1lLUmhlMkNvOXdfVDJpbVhZRGdwcDFJRjFMUE9nRm95OS1rLURkLWMwc1VKVWY4dGpqcHVxYVgxR2RrSWd5LWkwbEFtd3ZuekFqZURiYmE3VHkzSTA1bnZyM1c?oc=5",
+      "site": "新京报",
+      "siteUrl": "https://www.bjnews.com.cn"
     },
     {
       "id": "FL-c6461128ad2c",
@@ -49,18 +37,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ad29iN25JZm0yV012akpSbXJXOHVCX1VlRS1taV81STNSTndzZUNtcWxQU0UtUG9Ua0xvZzhXMTIydGtTb0JseE5RSmtRUHU1Y1dnMWlQSnZSa2FPUTZ0V3pqS1I4TDZM?oc=5",
       "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
-    },
-    {
-      "id": "FL-c917cfeaa45e",
-      "date": "2026-11-25",
-      "dateISO": "Wed, 25 Nov 2026 11:31:44 GMT",
-      "ts": 1795606304000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Why this lead explosion in Iowa is so maddening - Your Local Epidemiologist",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORVhuWlRndUZlQS1TOXptandTZlpUVGUxTnNhNFFYd0xRTFdQLWdyVnFGQWZGeDdwWlJaNkZmcE9pWndGdURtLVMwZVZGRER2UjN3Y1VhcDgxTEhHMUg0cGFsZDNyUnBZUU1PclpMY3hkaDJ4QXBJOGJhdTJjVGUwNzFvVXhSbXlu?oc=5",
-      "site": "Your Local Epidemiologist",
-      "siteUrl": "https://yourlocalepidemiologist.substack.com"
     },
     {
       "id": "FL-0f2ac1c103fa",
@@ -99,6 +75,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-37e2be9e057d",
+      "date": "2026-11-24",
+      "dateISO": "Tue, 24 Nov 2026 06:29:51 GMT",
+      "ts": 1795501791000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "哥伦比亚省政府大楼附近爆炸袭击事件受伤人数升至19人 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnRUNJdFcydjFkNzc0OTdQbVFhV2poYU0wVWNydkZpSGR1UGdTM0NQcVpQZDlCX2FZWEh5ZE8tdEhhdkRtcUtoMG5meWFDQWR2bFFNNmc0ZmpzSjBTTlB1UThjUG43N3lQQW1sdGlTV2ZGbnhIOWxtcg?oc=5",
+      "site": "央视网",
+      "siteUrl": "https://news.cctv.com"
+    },
+    {
       "id": "FL-05a2e41c4f89",
       "date": "2026-11-24",
       "dateISO": "Tue, 24 Nov 2026 06:24:17 GMT",
@@ -111,16 +99,52 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-b993f39ca9d9",
-      "date": "2026-11-24",
-      "dateISO": "Tue, 24 Nov 2026 04:22:20 GMT",
-      "ts": 1795494140000,
+      "id": "FL-9329df59e10d",
+      "date": "2026-11-26",
+      "dateISO": "Thu, 26 Nov 2026 23:58:27 GMT",
+      "ts": 1795737507000,
       "scope": "intl",
       "type": "blast",
-      "title": "哥伦比亚一省政府大楼附近发生爆炸袭击致12人受伤 - 央视网",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82VXJ1blZMcmk4RXdLazFJVm8tZ29hWWpYemZXVmRleFItX0lhaVRXTXc3NXlWVDFIU2R3aXBFQjRMQXVWOTlTNDdsTmlOYnNuR2lYM1hLMFh5UERINVJpYVpPZmJuNm8tOHRhWjBTRnRDWmZoSW5GNA?oc=5",
-      "site": "央视网",
-      "siteUrl": "https://news.cctv.com"
+      "title": "Owatonna Thanksgiving house explosion: No injuries, cause under investigation - FOX 9 Minneapolis-St. Paul",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQX29od0NhdTlaYnRGU0FUNjVSSHdEYjZJWEU0bFd6aHRfZk5rZ1RTZTRmRS1PQlBYZlAtdjFQeWdsQzB1eDVqbUxEbXZEVUkyNFdTSUtOTkdNd0xhbmsxT0hwcm00T09iRHVNcXZWbDlWVXoxY2V0aVhMSWFNUzJuag?oc=5",
+      "site": "FOX 9 Minneapolis-St. Paul",
+      "siteUrl": "https://www.fox9.com"
+    },
+    {
+      "id": "FL-e484acc0e0cb",
+      "date": "2026-11-26",
+      "dateISO": "Thu, 26 Nov 2026 23:38:18 GMT",
+      "ts": 1795736298000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Crews responding to apparent house explosion in Owatonna - 5 EYEWITNESS NEWS",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN1NLdnJNcnNKNXEtWmFtUmo0eHFWeW9SaHVoTDNldm45cnRPTGtpMFZ6TU9NZDY1aU9QUnNZTXRHOUN5ZHBSd09RQzJCQS1SNThvUlhqNWhGN1dlN2Z5S2F5YWc3enp4MWJpSF9FMmpGTWwyZDJtUTZpektWa2l4c2RtQkR5aUhPWS1TZ09kRGk?oc=5",
+      "site": "5 EYEWITNESS NEWS",
+      "siteUrl": "https://kstp.com"
+    },
+    {
+      "id": "FL-b391e80f9d7b",
+      "date": "2026-11-26",
+      "dateISO": "Thu, 26 Nov 2026 22:57:24 GMT",
+      "ts": 1795733844000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "'It sounded like an explosion' | Train derailment rattles Houston neighborhood ahead of Thanksgiving - KHOU",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdzk2bGdQWnpMRXJrTVdpdWlhM1B3VGdTMnFIVC1nRWd4dUpnOXlpTUVEMVpkLWxuNEJlYk9WLUxMazFidWZKRE9CZWs5Q2x1SFVBOW8tdC0xNXZkckF3d3NCZU5aN3dvU2p2dGg1SnVpRHZ6RmJ5dWlXMXdVaUlUZFEzYktuWmtwa0QtQUppdUFPU2VJMGJKX2ktUlRwZWpabEUwS08zWi1DRmVFZFVQLUxlaVRUaGs?oc=5",
+      "site": "KHOU",
+      "siteUrl": "https://www.khou.com"
+    },
+    {
+      "id": "FL-4ca2f1b69725",
+      "date": "2026-11-26",
+      "dateISO": "Thu, 26 Nov 2026 22:15:39 GMT",
+      "ts": 1795731339000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "第1现场｜埃及严重车祸致31死，油罐车碰撞护栏爆炸起火 - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ybTRkWmZoblhXUEJaMVYtYTJhbW9VeW5oNmtEVEIxeGxlaXBjeU8wdGN3M3EtWS1HZnVyY0l2akxXRVY0ZzJZejRDNjJ5UnpfaWQ2VnE1bzBjSGJpMTQ5MDZNdXVEWG9PdjI5SGdhVkwzSXc?oc=5",
+      "site": "手机新浪网",
+      "siteUrl": "https://k.sina.com.cn"
     },
     {
       "id": "FL-f2592c0dbb76",
@@ -135,6 +159,18 @@
       "siteUrl": "https://www.foxnews.com"
     },
     {
+      "id": "FL-8a2f1fa8fa73",
+      "date": "2026-11-26",
+      "dateISO": "Thu, 26 Nov 2026 15:55:43 GMT",
+      "ts": 1795708543000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Egyptians mourn, demand accountability after deadly tanker explosion kills 31 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRTl5WjBUX0txaW41ckZVaWczbF8wYjRPTXlTX19BNFpYai1lOU5PbHNKY0RxODBydy0tVjBtWFZ1T0RYVHB1RDI0YmhELVFpSDNoMk1KYWZua2RyU0VmWENQVV9NZG11MzFJSmhlX3ZUMk4yNmV2SG1GRnUtMlowbS1IYmFnb2FSb2pZdFlwN3hTSUd3aVM2VEhtZDVDYXZsMGRQN2NiNjFYNGxKV2RFZG5yem1Mcks1V3VsUDc0Y2tnRzQ?oc=5",
+      "site": "Reuters",
+      "siteUrl": "https://www.reuters.com"
+    },
+    {
       "id": "FL-b0f3fe9edd5f",
       "date": "2026-11-26",
       "dateISO": "Thu, 26 Nov 2026 15:55:11 GMT",
@@ -145,18 +181,6 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CV2N0SE9DeHJNc2hibER6VENCMUZsMHpQd1JvM0gzZXNJYWdpbU41amFDR0h3RGlyOUNmVkdtMDEtWUxQSThBU214cE4zXzVrNmZkNXdqMlU3aG5zMXNVSHZOZWdydEFLbzVOeFh2Wl9RRWs?oc=5",
       "site": "潮新闻客户端",
       "siteUrl": "https://tidenews.com.cn"
-    },
-    {
-      "id": "FL-e6247002345f",
-      "date": "2026-11-26",
-      "dateISO": "Thu, 26 Nov 2026 15:23:39 GMT",
-      "ts": 1795706619000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "EPA gives update on Army’s Iowa explosion after completing 1,000 post-blast tests for lead contamination - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObTBpLWw4aXN4UXY2em96WUY3SmJzOXViYklOMGMwWGcybDBzNjdmVDlwRnpaeEE0OHUtY0ZEMVdRT05vUDV1dGZHUnNzVTAzV3BOa2tGUXpZYkRuY0NfMUthYzBOMV9PczBXY1dpcUM1RWpEd0pQeU5JQVB1M2tHMi1aMUgxdVBKMGEtY1d3dVNlbm9QYTdmMHltZmo2NTE2bGdHMUJ2b3lQcExxLVlIMg?oc=5",
-      "site": "New York Post",
-      "siteUrl": "https://nypost.com"
     },
     {
       "id": "FL-54c1b848e36a",
@@ -181,18 +205,6 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tejA4WVlheVN6UV96MDJzcUVwM3VoNlgtclNzOFpYMHZ3S293M3hHOXVxYjhndmpFNkFYQm91UFg0ckZ4Y2x3ZnhrY3VkNWlQQk9zMXIzM1M5d2JBTE9jbHZmSVJIeEZPcFZUV0kzdV9yQ2MyQVE?oc=5",
       "site": "CCTV",
       "siteUrl": "https://tv.cctv.com"
-    },
-    {
-      "id": "FL-e95fabde7e00",
-      "date": "2026-11-26",
-      "dateISO": "Thu, 26 Nov 2026 13:51:00 GMT",
-      "ts": 1795701060000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "泰国曼谷一炼油厂发生爆炸 4人伤势危急 - www.hkcna.hk",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBha2tvaU5abWlOMU96TUc3Rlc0ODJVMTdsczlxY2c0NkMxdDAwZmZDWnc4dkRsZnRZUHRJcTM2Z3ZpUnVibExVU2FXYk9LQlpSeG9rUktBakVVVkxfOFlOUkZTNXRJVlFWWnlwangxRQ?oc=5",
-      "site": "www.hkcna.hk",
-      "siteUrl": "https://www.hkcna.hk"
     },
     {
       "id": "FL-a96cfb63969b",
@@ -303,18 +315,6 @@
       "siteUrl": "http://www.xinhuanet.com"
     },
     {
-      "id": "FL-a5373467e0ec",
-      "date": "2026-11-26",
-      "dateISO": "Thu, 26 Nov 2026 10:01:18 GMT",
-      "ts": 1795687278000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "埃及油罐车撞护栏爆炸，致31死27车烧毁 - 汽车之家",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5OTFLRzl4WEY3cnlRZzVHcTlSYUtRVnY1czN5TUxPZVNjWFpVWlJQdmhzamlzV1pEZjBjcjhCeVV6M2YwMVVaYjVDakszUWNKdldWUEszdEtQRXc?oc=5",
-      "site": "汽车之家",
-      "siteUrl": "https://chejiahao.autohome.com.cn"
-    },
-    {
       "id": "FL-7518b5a261ec",
       "date": "2026-11-26",
       "dateISO": "Thu, 26 Nov 2026 10:01:18 GMT",
@@ -327,16 +327,16 @@
       "siteUrl": "https://chejiahao.autohome.com.cn"
     },
     {
-      "id": "FL-83a69ab9d70e",
+      "id": "FL-a5373467e0ec",
       "date": "2026-11-26",
-      "dateISO": "Thu, 26 Nov 2026 09:57:24 GMT",
-      "ts": 1795687044000,
+      "dateISO": "Thu, 26 Nov 2026 10:00:38 GMT",
+      "ts": 1795687238000,
       "scope": "intl",
       "type": "blast",
-      "title": "泰国曼谷一炼油厂突发爆炸，4人受伤 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZkxmMDRtUVhPUDkwYTVZR0ltcTlIZFRjeU80V3BOamYxNnRSTmRFdEZrenFjQUZqWHJaa2N3d3FDRUwyRHoxcEl3bm1VRlY2WGREaHNFbktnNjRRMXIzZ205T3FSOExfakc1ZDRjS1Z6UDZhbmdpUHF0MGMzOVVXSlVYYnUtS1pTbXhz?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://www.sohu.com"
+      "title": "埃及油罐车撞护栏爆炸，致31死27车烧毁 - 汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5OTFLRzl4WEY3cnlRZzVHcTlSYUtRVnY1czN5TUxPZVNjWFpVWlJQdmhzamlzV1pEZjBjcjhCeVV6M2YwMVVaYjVDakszUWNKdldWUEszdEtQRXc?oc=5",
+      "site": "汽车之家",
+      "siteUrl": "https://chejiahao.autohome.com.cn"
     },
     {
       "id": "FL-7de18d99539d",
@@ -351,18 +351,6 @@
       "siteUrl": "https://www.jwview.com"
     },
     {
-      "id": "FL-3b439aa518c1",
-      "date": "2026-11-26",
-      "dateISO": "Thu, 26 Nov 2026 09:50:01 GMT",
-      "ts": 1795686601000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "泰国曼谷油库爆炸 7伤4命危 - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUmRBajVqODBPejRnd1lRci1vNEtES1g5ejF4cW5rR1ZDY2VYWHNQcHoxeVQ0aU9DVHRRbm41Rko2ZGRyV25IUThWeXh6QWJVWGkxdmY4cjhBRGJaZFBPS0VfS2ZZdUo5amozLVpreXVlTHVOdmhRaDF5bzd6cmpLUmY0OGtISXJzeHVueWxGaXF3ZnNkNDRxMGxWWHVtWFFNVDViS2w5OGlVdUZGSDdnT21lVk9PcG02OGlGVnZ4M0pzazFKMnNfaWF4V0I3QlpGY1BGdDhtc2dwUl9NbHlPYzZ3?oc=5",
-      "site": "SWI swissinfo.ch",
-      "siteUrl": "https://www.swissinfo.ch"
-    },
-    {
       "id": "FL-3c3e3058df0f",
       "date": "2026-11-26",
       "dateISO": "Thu, 26 Nov 2026 09:46:17 GMT",
@@ -373,18 +361,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VZHlqQ1Nib050ckZZcmwwa0JQM0xzcExlTmwzaC14bU5vb2lSSkNlaDktX0RHWHFSOGhubW5oeDVoRjlpQ0RwNGpvTmwyc3h6VlVDMjl4a0pCejhJRUhDYTZHMm9zcDR5UFhOVk9ZR0ptZw?oc=5",
       "site": "手机新浪网",
       "siteUrl": "https://k.sina.com.cn"
-    },
-    {
-      "id": "FL-e4310ff19200",
-      "date": "2026-11-26",
-      "dateISO": "Thu, 26 Nov 2026 09:41:53 GMT",
-      "ts": 1795686113000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "燃爆了，杭州“西保铁军”开展年度实战演练 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNkNXTTMxYkNib2lnTE80MXlEaGlIeHo3bjRVQk5ZMzR0UGFLdGUxUmxNcU5TUjl4VW83ZVV6MDZrcjBIemNuQ2MtUkJqLUhPdHFFM19qOXZlb2wySDJLZEZIdU5EOWVNSFU2TjZXOXNYb2ZOS2lYV0xsTVBBbEQ5U1NGYzNua1lfckxGSQ?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-1f7d31811889",
@@ -435,18 +411,6 @@
       "siteUrl": "https://www.sohu.com"
     },
     {
-      "id": "FL-57c6794c62e4",
-      "date": "2026-11-26",
-      "dateISO": "Thu, 26 Nov 2026 08:34:32 GMT",
-      "ts": 1795682072000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "曼谷油库发生大爆炸 至少七人受伤 - 8world",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9na000V1dpWllpcWN0YlhVSjg2VHpyUzFJc3NCR3VYVGxoRmZCWHU1VFNodXhYQnhOTkx4RXBXV3I4ajJMUVY5QktSVVZ0U1RHM2ZjTHJBZTJSbEY1NzcwSUNlYjlPbUEzOFlla2lCY0o4RFhDeVZzcV9lZEd4M3M?oc=5",
-      "site": "8world",
-      "siteUrl": "https://www.8world.com"
-    },
-    {
       "id": "FL-4a5d211029c6",
       "date": "2026-11-26",
       "dateISO": "Thu, 26 Nov 2026 08:27:27 GMT",
@@ -471,16 +435,16 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-289f2458c92d",
+      "id": "FL-a687cb87d39c",
       "date": "2026-11-26",
-      "dateISO": "Thu, 26 Nov 2026 07:41:40 GMT",
-      "ts": 1795678900000,
-      "scope": "intl",
+      "dateISO": "Thu, 26 Nov 2026 07:56:21 GMT",
+      "ts": 1795679781000,
+      "scope": "dom",
       "type": "blast",
-      "title": "第1现场｜埃及严重车祸致31死，油罐车碰撞护栏爆炸起火 - ThePaper.cn",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yUVNrQ09UX2tnVDBteFZaLXBKbk50LWg0WG1RT2tJU01DQl9lMkk0aUZNWmVCQVk1X0xhdktpWGdlNHY5ZFlCTC1TaG1jaU40UVRpZEhRVmdtOGtqSHJhZQ?oc=5",
-      "site": "ThePaper.cn",
-      "siteUrl": "https://www.thepaper.cn"
+      "title": "换了个设备，安全阀却没“跟上”？可能造成爆炸事故！ - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa3JzRmxQTWtzQmdxV1BiZTRuVnZLZDhveXY4Z0VvQTBlUjlMQjljSjVCWmV6Wldfd2NPQUtJMTl2UzByWm9KWUFDMHNUVlNsVVlMekVUSkUyd1loWEZ1bTlZbVZvZTlIaVdSNHBHTDNfUDlxTzc0eFliVllXamNnTUFscTRyNFoyaGc2TQ?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-f54dbc00b411",
@@ -519,28 +483,28 @@
       "siteUrl": "https://www.ifnews.com"
     },
     {
-      "id": "FL-66f4bdbcfd26",
+      "id": "FL-4e16d7167d2e",
       "date": "2026-11-26",
-      "dateISO": "Thu, 26 Nov 2026 05:56:10 GMT",
-      "ts": 1795672570000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "美国陆军引爆近5吨含铅爆炸物，白色烟柱直冲天空 - 旅日侨网",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYzBOQUtMTzllUlJtdWRaeWpRNkV6bnk1N2xsc0RyN3dlQ2RGbGlRNlNKc2tNTzl3MERsWjh4a29YTWtMLUZ6b1hfMThWak5IQ1Y4ejVpaHBuYUZtSFRHX2NXUThtNDBfcXk0OEQ4c1dCZC1JSHMxREFzclBCcVcxSUUyMWtMRDRzdFE?oc=5",
-      "site": "旅日侨网",
-      "siteUrl": "https://www.jpchinapress.com"
-    },
-    {
-      "id": "FL-913cde425788",
-      "date": "2026-11-26",
-      "dateISO": "Thu, 26 Nov 2026 05:35:05 GMT",
-      "ts": 1795671305000,
+      "dateISO": "Thu, 26 Nov 2026 06:06:22 GMT",
+      "ts": 1795673182000,
       "scope": "dom",
       "type": "blast",
-      "title": "美爆炸铅尘或扩散160公里 引爆争议不断 - 中华军事",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43UmxRNmxpOUNiQVhnV2tQaE5NaU5NNVhFUzZKZmhiQ1RGaTNGV1FhcjNsRnROWDZUOWNHUEVyWEsxcDB1Zlh6RlF4a2NBMDdUMDNEaEE4N0ZMYS14MGVWaHV4cFNiam52Z0RxWWZ3aW4?oc=5",
-      "site": "中华军事",
-      "siteUrl": "https://military.china.com"
+      "title": "美军引爆近5吨叠氮化铅，白烟腾起数百英尺：爆炸后的铅尘有何风险? - ThePaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10VzdOVkVYX1hDN0FLdHNlM3hYVnA5UnBJdlEwXzhnRV8zU2I4NkRuZ2xZSUJvZDktVkpMbXJoa2l3Q2YwNzVaV243SjBUdldBamYyZVVmS1BKUnhHdjAyWA?oc=5",
+      "site": "ThePaper.cn",
+      "siteUrl": "https://www.thepaper.cn"
+    },
+    {
+      "id": "FL-f9cf7bc6ab88",
+      "date": "2026-11-26",
+      "dateISO": "Thu, 26 Nov 2026 06:00:00 GMT",
+      "ts": 1795672800000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "埃及一油罐车车祸爆炸并起火，致31死21伤，烧毁27辆车-中国吉林网 - news.cnjiwang.com",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FVFFiQ3ZpQy1mZ29fTFQxYzUtV1JjZlRDdFBwckhuUkZmcHdVVzJRTkYwY0RHSHMwZEhJY1liemFPVWJCOHdsdEE0UGM4aWM0dXBEQmRfbE8yNlYwcng4?oc=5",
+      "site": "news.cnjiwang.com",
+      "siteUrl": "https://news.cnjiwang.com"
     },
     {
       "id": "FL-3791e6b2072d",
@@ -567,30 +531,6 @@
       "siteUrl": "https://tv.cctv.com"
     },
     {
-      "id": "FL-6d5f472c4ae2",
-      "date": "2026-11-26",
-      "dateISO": "Thu, 26 Nov 2026 01:36:02 GMT",
-      "ts": 1795656962000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "美军在艾奥瓦州引爆近5吨含铅爆炸物，特朗普、万斯发声 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5BUU5QUXdJWGJXenFCak9sbUZGZFllTklqZGVvWl81M1ZTOGlhY2pMNFhxbUJHZkUzUlI1YXdVUW4zVk5QOGZ6S2c4dnA?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://news.ifeng.com"
-    },
-    {
-      "id": "FL-97169f65ee19",
-      "date": "2026-11-26",
-      "dateISO": "Thu, 26 Nov 2026 00:41:00 GMT",
-      "ts": 1795653660000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "美国艾奥瓦州引爆近5吨含铅爆炸物--国际 - 人民网",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GUGdKRDlvdXd2TEl1eXhHN1d0RW04VkhTd3d3OVRzelo5bFlUTlNKZ19yVGFHTE5ZQWZtVDd1bFhOSDJpa0ltNlNsQ2xHVDhNazRWaDFTa3hMYVF6a0t5eDNiUGZ2VG5LSHE0?oc=5",
-      "site": "人民网",
-      "siteUrl": "http://world.people.com.cn"
-    },
-    {
       "id": "FL-e091bfd488dc",
       "date": "2026-11-26",
       "dateISO": "Thu, 26 Nov 2026 00:10:39 GMT",
@@ -603,6 +543,18 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
+      "id": "FL-66b5cc96c91b",
+      "date": "2026-11-26",
+      "dateISO": "Thu, 26 Nov 2026 00:01:00 GMT",
+      "ts": 1795651260000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "美国陆军引爆近5吨含铅爆炸物 白色烟柱直冲天空 - Shangbao Indonesia",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeVh2cVp4T2VfVHVwRkxCZmVrd0JSMUxReG1LUVQ4YjhqZFU5XzIyQzRtYk1lZ01oQ0ROSVdxOXJFd1M3QVhjeW52RjBFNk9zQUh4OVZCcGVyc2s4ajBQNE5ONUFodVhON2RoQzMtaXJnWkpDTjgwQnJnYWYwa2k5MnhhZWNEUQ?oc=5",
+      "site": "Shangbao Indonesia",
+      "siteUrl": "https://www.shangbaoindonesia.com"
+    },
+    {
       "id": "FL-5e735aebc1c3",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
@@ -613,6 +565,54 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlemFCa3lteDlkZERLTXRLMHhpeTIzNmFqanFBczVPaFNjQjVxOHNJNm54Tkhua1FqOGtuaUhBLWdRSWxXaFRoZThQZXJqclRIV1pUaTNhcjhHU0dwRzA1WXNQc2ZOVEhXX0Z1NUVBcnBUalJRWkE3ZlE0S3NOaXM?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-d9a022dedbc2",
+      "date": "2026-11-27",
+      "dateISO": "Fri, 27 Nov 2026 01:48:13 GMT",
+      "ts": 1795744093000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "曼谷邦乍炼油厂爆炸起火 8名员工受伤、全厂生产装置停车 - ChemNet News",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPbXdSRFA4VmVxdTFhTUZUSjc5ckNNYUhUWWZiel9KUmVIb0I3UUhTakVDczQxV1pLNF9ZX29zM2U4NzlQMHFMRXhtb2FKdmFjNl9rUkJFQ2pzZ013R1Yw?oc=5",
+      "site": "ChemNet News",
+      "siteUrl": "https://news.chemnet.com"
+    },
+    {
+      "id": "FL-8086a858ec35",
+      "date": "2026-11-27",
+      "dateISO": "Fri, 27 Nov 2026 01:10:07 GMT",
+      "ts": 1795741807000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "泰国曼谷一炼油厂发生爆炸 紧急撤离周边居民 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TaGVrTXFMMXZCdkszQ1NJZTlzNXF1cGVPa3RlTjM5Umt1WlQ5X0pCTDFWaXdvV2YyYmxNSlNXUjFyaVVFTzhVLUliRVY4ZS16cmsxRkpmei1jemk0eWtKS1NDZVpMTVQtWWIzc2I0UjA?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
+    },
+    {
+      "id": "FL-d796a7d5be99",
+      "date": "2026-11-27",
+      "dateISO": "Fri, 27 Nov 2026 00:43:13 GMT",
+      "ts": 1795740193000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Apparent home explosion in Owatonna prompts response; no injuries - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZkhSVVh0NDhMNk9ubzVtOXpQWHJBRU54RElZa3ZZZGp2WlRsdTR3X1F6YWtvaENrSk12UTBvRURwaHRqVnkxQm5ZOXhvWUtIQnNhV0FqQ2RpQVFXZ1FhT05tQlhUUEszWEhwR3ZlODh5VzNqeGc0OUlCeDZBRnNnd2d5U1gxWHoy?oc=5",
+      "site": "CBS News",
+      "siteUrl": "https://www.cbsnews.com"
+    },
+    {
+      "id": "FL-1cfdde614231",
+      "date": "2026-11-27",
+      "dateISO": "Fri, 27 Nov 2026 00:04:52 GMT",
+      "ts": 1795737892000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "纤维增强铝钢层压复合材料爆炸焊接界面演变与弹道性能提升研究 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3d2c0U01pVmtucFhaMGpTb0dfbjl0Ny1PTmlhWXQ4ZXpCeUlYLTlHc1l6ejdsTlRNT1dLZ0FOaWxQQkhaM19DMTVXM3NLaDRBTEVkNWJySzE4c2ZpbWYtRDYtd1JpbjBDTlVqSEVR?oc=5",
+      "site": "生物通",
+      "siteUrl": "https://www.ebiotrade.com"
     }
   ]
 }
