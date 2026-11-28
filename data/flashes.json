@@ -1,19 +1,7 @@
 {
-  "updated": "2026-11-28T02:25:00.370Z",
+  "updated": "2026-11-28T10:39:38.291Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-15bf12f0d681",
-      "date": "2026-11-25",
-      "dateISO": "Wed, 25 Nov 2026 23:53:00 GMT",
-      "ts": 1795650780000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "国际丨美军销毁近5吨含铅爆炸物 引爆瞬间升起巨大烟柱 - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDY1lLUmhlMkNvOXdfVDJpbVhZRGdwcDFJRjFMUE9nRm95OS1rLURkLWMwc1VKVWY4dGpqcHVxYVgxR2RrSWd5LWkwbEFtd3ZuekFqZURiYmE3VHkzSTA1bnZyM1c?oc=5",
-      "site": "新京报",
-      "siteUrl": "https://www.bjnews.com.cn"
-    },
     {
       "id": "FL-c6461128ad2c",
       "date": "2026-11-25",
@@ -25,18 +13,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtaVNFSnc5eFVPWTdhNVNFSEktUUFIVnpqNGJmSm1ua3F2eEoxcHhvQnEwOTB3X2QwRFZWR2s4RkRXeVVzN3pzenRMX2RQVDFjNnQ5dGwtRVNOZkJka2dDbnBKWTg1RTRsX3RxQ1lyM0lNWE4tSk9aeWk2WEJ6dXc?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-7e59be2ccb8e",
-      "date": "2026-11-25",
-      "dateISO": "Wed, 25 Nov 2026 16:12:02 GMT",
-      "ts": 1795623122000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "伊朗称一液化天然气运输船在霍尔木兹海峡触雷爆炸 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ad29iN25JZm0yV012akpSbXJXOHVCX1VlRS1taV81STNSTndzZUNtcWxQU0UtUG9Ua0xvZzhXMTIydGtTb0JseE5RSmtRUHU1Y1dnMWlQSnZSa2FPUTZ0V3pqS1I4TDZM?oc=5",
-      "site": "央广网",
-      "siteUrl": "https://news.cnr.cn"
     },
     {
       "id": "FL-51e0a7fe7767",
@@ -51,18 +27,6 @@
       "siteUrl": "https://tv.cctv.com"
     },
     {
-      "id": "FL-f07d2a96f82a",
-      "date": "2026-11-26",
-      "dateISO": "Thu, 26 Nov 2026 11:38:51 GMT",
-      "ts": 1795693131000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "河内餐馆发生爆炸事故 伤亡人数更新 - 中华网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5eXZJamtmNzNsWGotZk12UFd4NmtDSUZGb1U0MU4zUkpXM0RuelQ2Y00yOGxuTllkVmNrbnpOMC1XMUtJWDFjR3NHMWV1d2lISVhHUEpST0NzZVZhQzZaUmwyN25WRFZMNXd2TFJnZmw?oc=5",
-      "site": "中华网",
-      "siteUrl": "https://news.china.com"
-    },
-    {
       "id": "FL-18cb30d4ae6b",
       "date": "2026-11-26",
       "dateISO": "Thu, 26 Nov 2026 11:27:25 GMT",
@@ -73,18 +37,6 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcTJtLVRTTmczWXpYalJuY0hOeVNBWTFsU2xGVVc3TnhDVUFldHhCRU1lNEl6dFp2V0ROTTluYjQ4aFBUU0Y4SWF3NnNqWTkzQlg0NEFxMzI2RW9ibF9DTGVvZGVzVjFSX0lmem1ZR0V3Qm5kaGFFZHJxem9JbXJ0QQ?oc=5",
       "site": "CBS News",
       "siteUrl": "https://www.cbsnews.com"
-    },
-    {
-      "id": "FL-3d5fc2a4d655",
-      "date": "2026-11-26",
-      "dateISO": "Thu, 26 Nov 2026 11:15:00 GMT",
-      "ts": 1795691700000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "镜头直击丨泰国曼谷一炼油厂发生爆炸 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUG1wMkt1TUoySUJMX095MXg5NWlYMnhua1BOajN5eDJmYUtxUjVXeDZqZ3gtWks2eWJYVFJZVlRwTVdKU0VhZ0hJYjBocU54RGlvSTUwenpXM2lMa1BLYmQ3cHNGZ05adld3eXZUOFNvSUtGUm9kbm1xU0lIV0lvZ0psUk5YSDlW?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-f175c35f9f6f",
@@ -135,18 +87,6 @@
       "siteUrl": "https://www.jwview.com"
     },
     {
-      "id": "FL-4a5d211029c6",
-      "date": "2026-11-26",
-      "dateISO": "Thu, 26 Nov 2026 08:27:27 GMT",
-      "ts": 1795681647000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "泰国曼谷一炼油厂发生爆炸 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hZnZoNlg5VjRXdEFaOWxFTVVjeXJsRWdpX3ZEM0Q2dGlLbnpiU2loMHZMSjdIYUozRUtObTJ1SFgwSW56d3cwQ2l2YzhJT1dkYVYtUW5wY2pSS2ZtWlE?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://news.bjd.com.cn"
-    },
-    {
       "id": "FL-b5104f524229",
       "date": "2026-11-26",
       "dateISO": "Thu, 26 Nov 2026 08:24:39 GMT",
@@ -157,18 +97,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43MWVsM0ZQRlNrWjVVUk1IdDUyWmwwR0hfQ2pya0dPWkhMRmVhdE5HZkRhSWpPajc2N1ROdGd4eDl4eENHYTBtajh2VDZ3Q1U5b20xMFdJODd0UWxPOHdzMEdWYkUwUGtNcGFhNkZzaTR2TXMtYUlQb01fY1ptUlk?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-289f2458c92d",
-      "date": "2026-11-26",
-      "dateISO": "Thu, 26 Nov 2026 07:41:40 GMT",
-      "ts": 1795678900000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "第1现场｜埃及严重车祸致31死，油罐车碰撞护栏爆炸起火 - ThePaper.cn",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yUVNrQ09UX2tnVDBteFZaLXBKbk50LWg0WG1RT2tJU01DQl9lMkk0aUZNWmVCQVk1X0xhdktpWGdlNHY5ZFlCTC1TaG1jaU40UVRpZEhRVmdtOGtqSHJhZQ?oc=5",
-      "site": "ThePaper.cn",
-      "siteUrl": "https://www.thepaper.cn"
     },
     {
       "id": "FL-f54dbc00b411",
@@ -183,18 +111,6 @@
       "siteUrl": "https://news.mydrivers.com"
     },
     {
-      "id": "FL-9ae7e35b3818",
-      "date": "2026-11-26",
-      "dateISO": "Thu, 26 Nov 2026 07:04:05 GMT",
-      "ts": 1795676645000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "使用不当会爆炸！自热锅的正确打开方式来了 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vYV9sWUVuWEFFbEpHT25kWlk4b1ViZHVRZEtjUGJRSjExQ3lGSTdqeGZxUTRTc3hBVVFNaTJDdUtmOTdrOUtNZTFYc0NXcDNFalUzTzJTQXJOOHNqVkY0dFZ6R3haS0xCZzVmWlFwd0h5Zw?oc=5",
-      "site": "央广网",
-      "siteUrl": "https://news.cnr.cn"
-    },
-    {
       "id": "FL-abe5de02add9",
       "date": "2026-11-26",
       "dateISO": "Thu, 26 Nov 2026 06:08:00 GMT",
@@ -205,18 +121,6 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RLTJvQ290S3RqLVgwV1NBNjZ0ZTFmaDhFbkpBSGp1M20tYUFYSjRYUDRnVXdmdlNuNHhRcFRqeG1QMGRsZEY4Y2ZyRFZwa2gya3ZOcUpXdU9oTFlrY05n?oc=5",
       "site": "国际金融报",
       "siteUrl": "https://www.ifnews.com"
-    },
-    {
-      "id": "FL-4e16d7167d2e",
-      "date": "2026-11-26",
-      "dateISO": "Thu, 26 Nov 2026 06:06:22 GMT",
-      "ts": 1795673182000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "美军引爆近5吨叠氮化铅，白烟腾起数百英尺：爆炸后的铅尘有何风险? - ThePaper.cn",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10VzdOVkVYX1hDN0FLdHNlM3hYVnA5UnBJdlEwXzhnRV8zU2I4NkRuZ2xZSUJvZDktVkpMbXJoa2l3Q2YwNzVaV243SjBUdldBamYyZVVmS1BKUnhHdjAyWA?oc=5",
-      "site": "ThePaper.cn",
-      "siteUrl": "https://www.thepaper.cn"
     },
     {
       "id": "FL-3791e6b2072d",
@@ -231,52 +135,364 @@
       "siteUrl": "https://www.21jingji.com"
     },
     {
-      "id": "FL-cbd71db3cb51",
-      "date": "2026-11-26",
-      "dateISO": "Thu, 26 Nov 2026 01:58:00 GMT",
-      "ts": 1795658280000,
-      "scope": "dom",
+      "id": "FL-0615dd398028",
+      "date": "2026-08-02",
+      "dateISO": "Sun, 02 Aug 2026 07:00:00 GMT",
+      "ts": 1785654000000,
+      "scope": "intl",
       "type": "blast",
-      "title": "[新闻直播间]美军引爆数吨含铅爆炸物 铅尘污染引担忧 - CCTV",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFM0E4V3hKbDk4YnBncXdCd0FfUzNfRUJBYWJYcGZzRlgtbHNfM2p5WnZwS0VDRFhMWHA4NllLdnAwY3hoQl9tSXY4Qy0zc21TUmtTVDcxVW1TSlVFS18yLUx2UXgzLU1jeEJ3RGtnLUg5RWIwS2c?oc=5",
-      "site": "CCTV",
-      "siteUrl": "https://tv.cctv.com"
+      "title": "莫斯科一咖啡馆发生爆炸 3死15伤 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWVJLNXJOblU1LUFjWHk0eTZLbGRlb1BNb0tiU205SVVXRlZpdEVUaUQzWW9KTTJvU3B1ejQ1TjFGTlplcUhwOWdIeUFlN0pPTlJCSDZtWHc3YTVDRkNmazA5SE1IbGhCOGFUZ0JRMFVqMDlBOHhCX2ZFZE1VQ28?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-e091bfd488dc",
-      "date": "2026-11-26",
-      "dateISO": "Thu, 26 Nov 2026 00:10:39 GMT",
-      "ts": 1795651839000,
+      "id": "FL-6476e66962d2",
+      "date": "2026-11-28",
+      "dateISO": "Sat, 28 Nov 2026 10:14:37 GMT",
+      "ts": 1795860877000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Seven students killed and nearly 100 injured in explosion in Afghanistan, official says - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XMk50RGlkOXd3WG1YOW56UHBybHV5TkpQVkN0RjdUR1k1bEdfMUZUeDRPLXBQcVVrTkN6ZUxVQUlkYkJSV1RRVjh3Y01UbkdLVTc0RXJ3aThxV2M?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-27db090b45d8",
+      "date": "2026-11-28",
+      "dateISO": "Sat, 28 Nov 2026 10:08:21 GMT",
+      "ts": 1795860501000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "阿富汗库纳尔省爆炸事件已致7死97伤 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRm1HQ3BrUnY1cG9mT2t1SFdjdm9EMnFUMWhFMlRDbjc3MFJnS0s2Zm9RNlRCWEljQnppdTFPVmIxRUtGU2NiT05FZ3d6d2ZWLXUwTE5zZXlUVU1mYUZWSnZKZVhHVXJJMHBnbWFWdFB2VW9wc0RKVkc2bllCSkYydEZIVHNSX2R0?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-e6534bf51548",
+      "date": "2026-11-28",
+      "dateISO": "Sat, 28 Nov 2026 10:04:37 GMT",
+      "ts": 1795860277000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "阿富汗中学附近矿企炸药库爆炸 造成七学生死近百人伤 - 联合早报",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzd3dkR054dDNBaHhCTzhSZXpiMGJ2N2M1QXpCZW11dVV2TFhYcWl3SXVpQlduZmpNLW1fUTBQMzlNZE1ORWNhZ1o2VktOdWVoT0UwZ2VxTW8wOWdUREtNSG9IRE5hT1JmdWpv?oc=5",
+      "site": "联合早报",
+      "siteUrl": "https://www.zaobao.com.sg"
+    },
+    {
+      "id": "FL-dee1d386d004",
+      "date": "2026-11-28",
+      "dateISO": "Sat, 28 Nov 2026 09:49:22 GMT",
+      "ts": 1795859362000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "阿富汗库纳尔省爆炸事件已致7死97伤 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE81UTZ3T2w2aFBKRUhTSG5URndQbnVleG93OFRkd1l5Y0lPalFKZHpOUmJZaVhmYzZnc0VCb3ZoUVh1QU9Ca0hONkVtcUFtcFlRRUZuZ28xU3M5bzZweU1JelZKeU9jRHdxdzU3M29MMGFFZw?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://xinwen.bjd.com.cn"
+    },
+    {
+      "id": "FL-33614ea915b7",
+      "date": "2026-11-28",
+      "dateISO": "Sat, 28 Nov 2026 09:45:00 GMT",
+      "ts": 1795859100000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "An explosion at a school in eastern Afghanistan kills 7, wounds more than 90 - AP News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYzQwcm1zRUVmQVB2b3E5X1Q4RHZxbWRGY1ctOFQwZ1otcC11UUJHM2wyZVBhUGhlTTgxYmt1SFc0N0k1aGlnQmxwVUI4S0dXX3NpdzhXYVg2UTdQc3R2bGNrZFJMempoZ3FTZzFhamFPWGt6TDc4NG5BTElMS3JqSmM4OUVlcFBod09hZnIzcVBwdw?oc=5",
+      "site": "AP News",
+      "siteUrl": "https://apnews.com"
+    },
+    {
+      "id": "FL-9a6e7e3ca246",
+      "date": "2026-11-28",
+      "dateISO": "Sat, 28 Nov 2026 09:43:20 GMT",
+      "ts": 1795859000000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "阿富汗库纳尔省发生爆炸致7死97伤 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1PZEU3eXkwQlJWWGt1QkYtOWtKTGN3VnBmZW5FNzBKUURWc3VWV0d6RXpETTVmY1F5VmtZb1JDa01VT25QcFFLRWJfNjVZUG01WGRtSXlCMkJBcXF2T1ZSZ0xmcUhwMHFrWFJXLU5BQjFsWEhTTlMw?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-87838756910b",
+      "date": "2026-11-28",
+      "dateISO": "Sat, 28 Nov 2026 09:22:34 GMT",
+      "ts": 1795857754000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Explosion reported at school in Afghanistan, official says - SRN News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcG5BUTVVbnpXbTFvbWNqTHZTQVNWd2hsUjVWLVUwcGcxcDZMT21iVzB0ZU5OWms3MnpFU0dSbXp3dUJhd0pWU01BcGttck42UXhlb0pOai1ILVhMdkFGdDJ3d2NrRThWc25DZV80UHB1SWc2bTRQZjJDMEJwb2dGRnI0enM?oc=5",
+      "site": "SRN News",
+      "siteUrl": "https://srnnews.com"
+    },
+    {
+      "id": "FL-3a0bd5525c11",
+      "date": "2026-11-28",
+      "dateISO": "Sat, 28 Nov 2026 09:10:37 GMT",
+      "ts": 1795857037000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "An explosion at a middle school in eastern Afghanistan kills or wounds several students - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQXVhQ3kwbDAzeS1Mck41bWN4WS1haUVwQ09hMkNSWWlhX1RYLUpSWXB3MzEzMEJHVzY0SE1KWjNkNTNXYXFScE5qSnIwQnlFZUtfNlJ4dFA1a2M5WlJpMUdZX29wWVpiNkg1OF9OY3pKUWpOQjVOQUw3LXhWbWRubURSZzE0UnljWGZSTk9MR2hjM09tbHZ4dXVCOUl5X1N3ekRyVVc0eTI5eDBibURmV1VOWUV6OFJRYXpB0gHAAUFVX3lxTFB2bVV0OU5zZXlGRUtMdDRMaGd1dHlRS1ExMmZ6ZUJlZnEtUjlzVEJQZ0tpS0g2b0JpaU4tY0pucEpJSVN2VkQwMlZrWnhzSFM5Ul90VmFjMm9ybUpraXpLdGJBbXdwallCLTI4YzFKNlktbFAyS2txNjBlSFAxcVVleGs5SVRzZEp2UWpyOEJKeFlKdmkzaUdSeXM4OHZ3T2NnWXM5OVBvaHJlb05tSVFzdjBJYjhBQ2V6MERYcjBvMA?oc=5",
+      "site": "ABC News - Breaking News, Latest News and Videos",
+      "siteUrl": "https://abcnews.com"
+    },
+    {
+      "id": "FL-3d4e5cbab50f",
+      "date": "2026-11-28",
+      "dateISO": "Sat, 28 Nov 2026 08:32:00 GMT",
+      "ts": 1795854720000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "镜头直击丨阿富汗库纳尔省一中学发生爆炸致人员伤亡 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTjViRjBvZ3VnRlZMQmluaWxnN0VLdl9jT1VuLV9IamtGOEhXV2VWREM1dWdfRU5iNXN3V1VZU0QzRDcyVmJrQmlfUktUdGRBTmMwYXNrcWF5dkNWOGc5Vmh4aUprVGdCdHgxbDBtM295b09sYmVIcVRFQXBhUXVCSVp2VTdwb3ZW?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-aec199bbcd37",
+      "date": "2026-11-28",
+      "dateISO": "Sat, 28 Nov 2026 08:28:12 GMT",
+      "ts": 1795854492000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "阿富汗库纳尔省一中学发生爆炸致人员伤亡(1) - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ZcVB6NWxiSnpHcWV6THZrejhxOXFtV2NQbkg3QzNFZXJieXlPZzNqUzRNNDhzOGFIeTczdXJqendHSHRIenRxbQ?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://i.ifeng.com"
+    },
+    {
+      "id": "FL-d38a16992a0f",
+      "date": "2026-11-28",
+      "dateISO": "Sat, 28 Nov 2026 08:12:17 GMT",
+      "ts": 1795853537000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Afghanistan school explosion in Asadabad kills seven students, gov't says - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JbGlnaC1meXZRVkdBMzFVUllqRHhZdGN5cmxoQ2tIeVZSOGF1LWxHQlJLUDllTUdRaGdCZlNqZEJuRlpGaUtWX0FlTG8yOXBTTnQ4ZjVxX2pNMURX?oc=5",
+      "site": "The Jerusalem Post",
+      "siteUrl": "https://www.jpost.com"
+    },
+    {
+      "id": "FL-916a217b7f0d",
+      "date": "2026-11-28",
+      "dateISO": "Sat, 28 Nov 2026 07:50:49 GMT",
+      "ts": 1795852249000,
       "scope": "dom",
       "type": "blast",
-      "title": "烟雾近百米！美军引爆约5吨含铅爆炸物 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OaFpJaEpKNjFrTTFibmJXaGp2ZElvczZuS29YNWc5VUdnUWVPRk9ob0gzWGZXZjhrN3VXb0lySDNtbDJ2Tk4tX1hVY1dJVURQMTkwXzAteVh4VnQ0Q0E?oc=5",
+      "title": "【视频】蔚来ET9天行之舞燃爆广州车展全场 - 汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82c0JYcGZDSlBSblZBZURRandXWlk2SXFwdmlxYTd5R0JxQURZR1lQZkVqa0FlQWE1VFpjamNSYjZxMWF4RW5EOVJaRkJpTWMya0hVRTZGdU41NUdsRmhEU0ZNVXV6Y19iMWk4?oc=5",
+      "site": "汽车之家",
+      "siteUrl": "https://chejiahao.autohome.com.cn"
+    },
+    {
+      "id": "FL-25f29490abcf",
+      "date": "2026-11-28",
+      "dateISO": "Sat, 28 Nov 2026 07:50:05 GMT",
+      "ts": 1795852205000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "At least six students killed in blast beside school in Afghanistan’s Kunar - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMUlFZXdrQ045NjNWMjFEZnEzQTVmcjBfTHBkc1ZfX21JdE1EWmE2WXpGRFJ4c1l6TjFMakxmcFZMa3EwT3NONlZrWXhNLWRFcFFhUl9NY3Mtb1hsUTBRSjM1dFFPYmViSEIxbVNJdlUxeUdoWEhPUUh0SEh5MW1jTmVtNGtObW5FTk0ydE9NSTBFdTdEZm1xMkJreGlKMkRieVY3SmN5RWRYQU9xLTZrZkVRVkHSAboBQVVfeXFMT2xkaW9oSWY5NEpmRTU5NlBXem9RTUd1RTlURm9aVDNZQ2VCMnBzZ09vajd0cHB1YU5IalZ3SGpnWlp6LURkdWh1THBTUHNYZm5yNWdnMHJrc1NsYXlTck1lUmctUVBFa1BnTXU0dTd6dGg5cHFkRFF2aUZxWnRwWk16czFmT3NSa2ltVlc0RTYydENGNHVGWW9rTlZPRnU1NnRTX21sMUZBcGdvQmdnZEhlNUUtZnBfeWRB?oc=5",
+      "site": "Al Jazeera",
+      "siteUrl": "https://www.aljazeera.com"
+    },
+    {
+      "id": "FL-c42006704b14",
+      "date": "2026-11-28",
+      "dateISO": "Sat, 28 Nov 2026 07:40:46 GMT",
+      "ts": 1795851646000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "An explosion at a middle school in eastern Afghanistan killed or wounded several students - WTOP News",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYnlhNFVlT0J2Mi1taDJ0YnlqbU1MRG1TdWRPMDlrNllIYzBEMDhKSFdvTjJmT3dyLTFwaDFJZmVha01uTWhyX1FjLUg5dm5lQXppRk5ua040WHNSRzlRVGpmcW15b2RFaWVvVGVsNnI4d2JHWGJCaXhicGlCY01JMGtqc04tb1hIWlZnZ2MzRUs4WlFJZk1XMWo3cVpqdVB4c2UwcUFYbGJwdGpxbF9hSXBCM2NHUDdBM2YzcnZYUUY4NkptZTlSZU1TNHVNYXEwWkZsdFZNTF9zM1BTajZkV3ltTQ?oc=5",
+      "site": "WTOP News",
+      "siteUrl": "https://wtop.com"
+    },
+    {
+      "id": "FL-25a9389b8d75",
+      "date": "2026-11-28",
+      "dateISO": "Sat, 28 Nov 2026 07:37:03 GMT",
+      "ts": 1795851423000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Police in Afghanistan say an explosion at a middle school in the province of Kunar killed or wounded several students - WINK News - Southwest Florida",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOTC0xX2Yzd204b0RnZWZYMXNQUDk2N2phaEhfT29oWXY5ZHVka1dCa1k1aDBrUlc1T3NzTTZNRUFpdlBlMk9VVzJFNnFCV0VhalZMRnJVVHFDV2lkWU9CMk9QeXN3bGN5YXd1ZEtCeFd6czR0cUowUjhrMEdYSTJNSmc1aDJNX3NlaW1sdFNGR21TWXNxTE8zcjRIeGRGVzNwSHptbFFHYmxGbTl3Vm9GOW9wcFhZTHJhSnA0Uzg0TEtaWDViNDFQNTVfUW5mdGxLc0R1a1FfX0tJamwyVnhOWVFNa2xDMGZhYWxldDNzRXp5eXplcWxXaWkzLVFKcWVzeTVscXZJRQ?oc=5",
+      "site": "WINK News - Southwest Florida",
+      "siteUrl": "https://www.winknews.com"
+    },
+    {
+      "id": "FL-9bd00bca3983",
+      "date": "2026-11-28",
+      "dateISO": "Sat, 28 Nov 2026 07:27:00 GMT",
+      "ts": 1795850820000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "英国智库“国际战略研究所”（IISS）报告称，过去一年欧洲境内与俄罗斯有关的“纵火和爆炸事件”数量翻了一倍。 ​ - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRRnB0eHNxMWptQVlKS3l4OF9aejJiYTdnZTRBZDdvNW95ZVpMbmRuZUZ5RDRYMUQxVmNBS2xpdFFLZy1rek5SMWNqS1FfaHd2cVZiLUhhcE1WNGtxbFEwaUpKOA?oc=5",
+      "site": "手机新浪网",
+      "siteUrl": "https://www.sina.cn"
+    },
+    {
+      "id": "FL-60c76120f505",
+      "date": "2026-11-28",
+      "dateISO": "Sat, 28 Nov 2026 07:26:03 GMT",
+      "ts": 1795850763000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "阿富汗库纳尔省一学校发生爆炸 有人员伤亡 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVG50czZ6LWgtMWRsNWJadHVaVlp2eXNBQlpSakhiN0hrbktKWjRBbGNwaEthM1k3S1c0empkWVl1dGFXN2VwYk85WlBDU01kQkdLUjFzNHkzTzl2bHIyRmhmN1U4QjduVUNsZnNUM2tNTkJSVms5WmkzcjBlRExsLXhPTmc5NWpE?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-3c27624c8f95",
+      "date": "2026-11-28",
+      "dateISO": "Sat, 28 Nov 2026 07:08:46 GMT",
+      "ts": 1795849726000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "阿富汗库纳尔省一学校发生爆炸，有人员伤亡 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KcXNoamRiUnRnS09BWHpPN2Q1cDIzbjBEODEzd0VvYlNzbEtoX0FRM3g1SjRUcnFGZU1hOE5mVFV2WUxCMzlVSnFqY2Z6dkdjMmJFNTctMzBRZmlneUE?oc=5",
       "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-66b5cc96c91b",
-      "date": "2026-11-26",
-      "dateISO": "Thu, 26 Nov 2026 00:01:00 GMT",
-      "ts": 1795651260000,
-      "scope": "intl",
+      "id": "FL-b4ee084405be",
+      "date": "2026-11-28",
+      "dateISO": "Sat, 28 Nov 2026 07:07:56 GMT",
+      "ts": 1795849676000,
+      "scope": "dom",
       "type": "blast",
-      "title": "美国陆军引爆近5吨含铅爆炸物 白色烟柱直冲天空 - Shangbao Indonesia",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeVh2cVp4T2VfVHVwRkxCZmVrd0JSMUxReG1LUVQ4YjhqZFU5XzIyQzRtYk1lZ01oQ0ROSVdxOXJFd1M3QVhjeW52RjBFNk9zQUh4OVZCcGVyc2s4ajBQNE5ONUFodVhON2RoQzMtaXJnWkpDTjgwQnJnYWYwa2k5MnhhZWNEUQ?oc=5",
-      "site": "Shangbao Indonesia",
-      "siteUrl": "https://www.shangbaoindonesia.com"
+      "title": "广州车展最佳新车燃爆全场 捷途环游者 EV开创纯电方盒新品类 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pdk9QVDVqYmh1MFdfZ05uZDVJN041amdiekpXcmhfR09uWWZ2ZlV2bkdJR2JYbUdNMnJzZld4Y0pJMUhEV3hRZjQ0V2E1eFpId3NGWXFR?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://www.sohu.com"
     },
     {
-      "id": "FL-84c6775ba389",
+      "id": "FL-07a0febb4aa7",
       "date": "2026-11-28",
-      "dateISO": "Sat, 28 Nov 2026 01:36:33 GMT",
-      "ts": 1795829793000,
+      "dateISO": "Sat, 28 Nov 2026 07:04:02 GMT",
+      "ts": 1795849442000,
       "scope": "intl",
       "type": "blast",
-      "title": "美国西好莱坞一加油站发生车祸引发爆炸及大火 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQakd1eDUzeFBzczJIanVxY0FGdEQwM05Fc2xZXzVxNVJjdHVCT2E1bW9xSHFwRTNTblI1aVA4dHQ1LTh3QmNRbHI1LWQzSGM3Y1d6QjlPVU1Ia0JqM1hQVUhWVktmYzVVMHNCTkZvSkFlWkd5bW5PM05KSEJTN1BEOFYtTVBfQUU2clhLLQ?oc=5",
+      "title": "Investigation underway after explosion and fire at gas station in West Hollywood - NBC Los Angeles",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRy1lTWtGRzRZMS1hbXU3cVJCenc0VjJEZlZ6XzNuWlFuYjREdjhFMHQwNENjdEVpNzNTWHE5MDJLQXloeTN3Wmp4UVlWYzVpRlVNZWhkTjQtYlpwaTNaTkJqNURwSmZBUTBaY3pJWGlvVUZmOUc0SEU1WHluQmZqTkVyREtjVTZiZ2lxZ2NaQjljSUNaNUVtQ3MtQ2xJR0Z2MHBhd0N3eVZZeDVURjYxeXdvSTg1LVJ4cnlTTV9VaEV0RWc4bnl6ZkUyQVR2UzZIMXfSAdoBQVVfeXFMUDJydkRvc2YxY2V3Z0ZwbEU0RnlOOGdpeHdLM01VS0NfMlN2ZlhDd29mazVad0l6N1dTYmx5V0QtSVk1U3Z3UlJsZWVPbHlnNDhsOEdxYkJ6X1lJNzlNMFFHQU5yall4cVR2MTl4RkFJbXdEcnpqRVhMR2plMFFwY25Gb2NpdHZqc010aVljdEI4NzFSanJ2V1dEWVFTUDRQQW9iaUhweDdTRWxCVlRxcmdLREYxUXktOU45LTBXWUZxclJ1a1YwOV9jYktYWEU3TUVYblVVX3U0Mmc?oc=5",
+      "site": "NBC Los Angeles",
+      "siteUrl": "https://www.nbclosangeles.com"
+    },
+    {
+      "id": "FL-de06611212eb",
+      "date": "2026-11-28",
+      "dateISO": "Sat, 28 Nov 2026 06:48:00 GMT",
+      "ts": 1795848480000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Army’s Iowa lead explosion deemed a success but questions remain over planning - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTkN1VHBqYmpWcXBkNXllQUZzcHhCcENWdEFQLTZsYzRMbTZ3dE5YVkxHQWdWczRGenk1YTU3SXp4Y0VhbE9xeXIxTE1SNXprU094U3dncVgxYzVwWDNFc2JzYzAzSnRRQlBRZVppZ19UcEFKODVhZEpSTHBkQXlHbk1EVkljSldjbnRiRDdUeW5lXy1xNnNiekhFcU9XZDBVY2J5R24tZG1yeWtzVWRsbzN0SUUwbGs?oc=5",
+      "site": "New York Post",
+      "siteUrl": "https://nypost.com"
+    },
+    {
+      "id": "FL-10a75e35a697",
+      "date": "2026-11-28",
+      "dateISO": "Sat, 28 Nov 2026 05:13:18 GMT",
+      "ts": 1795842798000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Owatonna blast investigation begins after Thanksgiving house explosion - kaaltv.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOXE3cTdJRnFwVFQ0UlltUmUtOXBTZ0JkY3VfbW5IM2R1QzNFay13NDRCV3d5UXlUb1ZpTWZIcC1TRjZSal84bUM1ZTZRSWRtMGk3TjlocHlBOU1PMXFvSUxkaG9SNGQxOTQtLXpMd1pENTdGUXNmRWZ3Z2g3dnZiMHNaOTZqZ045eGhUdkNhd2FJQ2MzZnU1OUFIZFBRbEZm?oc=5",
+      "site": "kaaltv.com",
+      "siteUrl": "https://www.kaaltv.com"
+    },
+    {
+      "id": "FL-37643d2561a3",
+      "date": "2026-11-28",
+      "dateISO": "Sat, 28 Nov 2026 04:22:00 GMT",
+      "ts": 1795839720000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "克罗地亚取消向德国引渡“北溪”管道爆炸案嫌疑人 - 观察者网",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aeGN5ajJyXzAzQU95T3hPSkRHOWdEcE9BRW9PWWphaE03UHNhSjNFallVTXRyOHdGRU9yajlxOXI1T0JVeG1mWG4weDdUSjBPd3l6T3lpSUVHOWpMREw0OHFuSVp4YnB5bFU2SkpnMDJfaTA?oc=5",
+      "site": "观察者网",
+      "siteUrl": "https://www.guancha.cn"
+    },
+    {
+      "id": "FL-89a3fd272df8",
+      "date": "2026-11-28",
+      "dateISO": "Sat, 28 Nov 2026 04:20:50 GMT",
+      "ts": 1795839650000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Fundraiser started for Owatonna homeowner one day after house explosion - kare11.com",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOM3FtaHEzaG5lTU15d2pVaGtaT2tKY1ZNMUdraEpMZE9hM0tTa2ZFQXJ1S2MzQlNocXozb3lOMjhYcWRtQU11c3Yzc1ZISUNWY3R0OWNqenkwbE1Vd0V0RUhnYW5fWGItU1FEQjVlZ1dac3BwMVlHMldLMGpIQ1E3bHpLMHo4LWhfeS1nZ2xEOUN1UElxMzhTRndhQTFWWVVIS0ptNVl2S2NtcEtrVUcyMFBOVTdvUDVvOVp4V3BMZURQMnFrTUNIMzBBQnhsbExvMGx4ZmlHOU9XZTVfaGVmdUZrU1ZNUWJzRzgyeA?oc=5",
+      "site": "kare11.com",
+      "siteUrl": "https://www.kare11.com"
+    },
+    {
+      "id": "FL-ca1117951414",
+      "date": "2026-11-28",
+      "dateISO": "Sat, 28 Nov 2026 04:06:01 GMT",
+      "ts": 1795838761000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Fire reported near oil refinery in Russia's Rostov Oblast amid Ukrainian drone attack - The Kyiv Independent",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb0wyd3NDQmZYdkxZLTk4azlaNUt3YjQ4OTFPSmNNMi1IVWlqaDZ3UDhZU28tV19nbENrZXRzSWZqWVNkc1p6TGlNeF9BMWh6N1hZLUFRck1XYWY4MG9TYVkwTFFvQ2wyYWk5aFFLUi1IZjNBTlBIcFp0QXY2RzBEYi1FTm1pSndLdDBuVzNMX1JNd3dMbjctdnB6TElzRkNJT0QtWV9qbWFZUjdkUUREV3padw?oc=5",
+      "site": "The Kyiv Independent",
+      "siteUrl": "https://kyivindependent.com"
+    },
+    {
+      "id": "FL-5eae9069a207",
+      "date": "2026-11-28",
+      "dateISO": "Sat, 28 Nov 2026 03:43:30 GMT",
+      "ts": 1795837410000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "Car crash ignites fire, explosion at gas station in West Hollywood - KTLA",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY3FCbV9HOEZDcllKZmd2NFV5M253aTU2Vnd5VmNnenRFNWcxRGE5RkZueGtOajI4Z3RnMlVLVkp6cWNKUXJsYXA3UUo3SV9uV3I2a25zT2xVckExdm9TMGc0aFFRNmtRN2RrRUM3OTdBZnFjN0hNeVd0Y0lvUkpKUNIBhgFBVV95cUxNcVBZTmZ5ODFoYUYxOGJUd1pvQVlsTVBXaUJxRE9TeFVEVUxnNGFkcjk1TG1lNlo2ZklLVUZXYWo2YUlnZWg0XzZBbU14eUlNSFZ4UGNSMUhVRXJLZmswZ0dxeFIwazhMcjBrcHBLWHgzUnRhczBOMTZqTTQwMmI1Yll0eDRhZw?oc=5",
+      "site": "KTLA",
+      "siteUrl": "https://ktla.com"
+    },
+    {
+      "id": "FL-a18aa4c5082d",
+      "date": "2026-11-28",
+      "dateISO": "Sat, 28 Nov 2026 02:32:00 GMT",
+      "ts": 1795833120000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "美国西好莱坞一加油站发生车祸引发爆炸及大火 - 网易新闻客户端",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QWWNkZkhMQVgwYV9GZWNRbi0zQ3hOSVdtUFBoVTBqbkZ2VHhSSUwyOTl2YW5JSm43T09fNmRCR1ZrNU5uQUU5X053WVRSWHhkRU9TUjJpYldmVUNf?oc=5",
+      "site": "网易新闻客户端",
+      "siteUrl": "https://c.m.163.com"
+    },
+    {
+      "id": "FL-4499229563d0",
+      "date": "2026-11-28",
+      "dateISO": "Sat, 28 Nov 2026 02:29:40 GMT",
+      "ts": 1795832980000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "一周看天下丨哥伦比亚一省政府大楼遭爆炸袭击 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb0Q0d2QyMXhoQVVIXzhUcUI5OTFuQU5jRDJjUVJMdE1LOWczMk5aa0VRT3lBemJkcDVtRk5uRHpPYVd2TGUyRFo0MHcwcjNCODFKYVpxZW9RbjhudzkxTldBQ1dPMGptQ2RtZEVvVVFKcDFKM2dpTV80WkY2NjhWVENzaTVVMy1fWF9N?oc=5",
       "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
+      "siteUrl": "https://www.sohu.com"
+    },
+    {
+      "id": "FL-d50a92b7fa61",
+      "date": "2026-11-28",
+      "dateISO": "Sat, 28 Nov 2026 02:08:21 GMT",
+      "ts": 1795831701000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "美国西好莱坞一加油站发生车祸引发爆炸及大火 - 浙江在线",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aUVFYcVoyQ2l4V3d0b1VqVFRDeU5Hc2dKTkpCdjRjN1FkR2t1cFBKV19EVFJBSW9QVXNSNkwxYmNMcF9aTFBlY0xfZnJBRW5Ia2p2bkR0TWpiRWEwLUYtYng4WlNSNlc3d09MNGFB?oc=5",
+      "site": "浙江在线",
+      "siteUrl": "http://china.zjol.com.cn"
     },
     {
       "id": "FL-231bb428d1f1",
@@ -286,9 +502,9 @@
       "scope": "intl",
       "type": "blast",
       "title": "美国西好莱坞一加油站发生车祸，引发爆炸、大火，致多人受伤、至少3辆汽车被烧毁 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdy1HYTl0SW5XcGNLNVhzOVd6cDVTX3VxNDRUSlFiMFc4VXMzMXczMVRDcjVIcFJ0ejA1MlFTNjlUV2lzTGlVc1otaURhRURYSjFRNE1Qc0Z0MS1tTC1acEpRdDlZYk12dDJtcVEwVU5ibDJOclBQckg3eGp1bEdSRjgyMWxkYmhqYW9tekZqYw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU3pmLXAtRzAtTGR0eUtHbXhGZ2cyMThFUGxTdnhINENsRUNnY3lzdEI5YkFlRnR0M2thdDByenl3QlhmNFpwd2FWNjVBa0dvY3RtVHQ0VzNqQlltWURJTmRaNGFyalducmxiY2hxQ1B4YldEa0UycGhiQmlXZVljSkhBcVhvTHRLVFZhTQ?oc=5",
       "site": "Sohu",
-      "siteUrl": "https://www.sohu.com"
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-95a676e02979",
@@ -303,18 +519,6 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-2d5d8bbfef39",
-      "date": "2026-11-28",
-      "dateISO": "Sat, 28 Nov 2026 01:02:23 GMT",
-      "ts": 1795827743000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Owatonna blast investigation begins after Thanksgiving house explosion - 5 EYEWITNESS NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRHVEbVJkQXpMVjBJd2pyMHN3WTRWbGFpYWdBem9xemNicTRYZW1uVWIzMlJQbWxteUNwRW1FWXNTWWlmd3otRm9SdEkzeXQ0N09YSXVPV2c0OEM3Ujg5dkJ5WTc1MEo3RUNsX1N0SVd6TUNDbGNNZldiSTFsT1pSMzc3cWp2U0ZfUU8wVDNub0E5bEszMlV4SHQ1X2lOaC1VVzlJNEVMR0pPVWs?oc=5",
-      "site": "5 EYEWITNESS NEWS",
-      "siteUrl": "https://kstp.com"
-    },
-    {
       "id": "FL-5e735aebc1c3",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
@@ -327,16 +531,16 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-6219c5a90f8f",
-      "date": "2026-10-19",
-      "dateISO": "Mon, 19 Oct 2026 07:00:00 GMT",
-      "ts": 1792393200000,
-      "scope": "dom",
+      "id": "FL-5d78f02ccf8b",
+      "date": "2026-11-27",
+      "dateISO": "Fri, 27 Nov 2026 23:58:00 GMT",
+      "ts": 1795823880000,
+      "scope": "intl",
       "type": "blast",
-      "title": "易燃易爆炸！四川曝光一批工贸领域重大事故隐患案例丨安全四川 共同行动 - 四川新闻",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FZ3Fob0VMeUdKTnRXRjd0eG5YNGJXNVVjd1ktWkNHZk10ZGpFaWVYMGNZTFp4OGl6ZlY4b2RnSU5nVmltWjRLaGVnRFhxWkI1eTJyQ3ZCSW5LSjdxV2hDekVSaw?oc=5",
-      "site": "四川新闻",
-      "siteUrl": "https://sichuan.scol.com.cn"
+      "title": "霍尔木兹海峡的爆炸声，与印度盾构机自主的野心|塞尔维亚队|上游新闻|中国队|伊朗|印度_新浪新闻 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IVFlhdlJyaThFMnRiZUdGbHNROExDUHhiM0tjQU53NlZoa3doamhjTU5UdlNsWWFtVk1xNVpKLW5DU2N6dXVBdTc4OWJjNlVtV0xmQVFqaVpqRzV2MnlfY0tCNA?oc=5",
+      "site": "新浪网",
+      "siteUrl": "https://www.sina.cn"
     },
     {
       "id": "FL-e61c56432291",
@@ -353,8 +557,8 @@
     {
       "id": "FL-22d66b0563cd",
       "date": "2026-11-27",
-      "dateISO": "Fri, 27 Nov 2026 23:49:00 GMT",
-      "ts": 1795823340000,
+      "dateISO": "Fri, 27 Nov 2026 22:10:00 GMT",
+      "ts": 1795817400000,
       "scope": "intl",
       "type": "blast",
       "title": "The explosion of extreme wealth is the major problem of our time | Bernie Sanders - The Guardian",
@@ -363,40 +567,28 @@
       "siteUrl": "https://www.theguardian.com"
     },
     {
-      "id": "FL-f63d5a497484",
-      "date": "2026-11-27",
-      "dateISO": "Fri, 27 Nov 2026 22:21:00 GMT",
-      "ts": 1795818060000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Home Explosion in Owatonna - KTTC",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42Q0hpODZaUlJtTXNmNUh6WUp0eXFoUkZVa3pNUHN3N2swVDUxMHZVdjFRY3h6RWprTFFIYVhHaUIwZGtGSFMzVVRrNVJ5SlhBaUVaYVZDNVFmclBWUHptVlVZNUdKeDRCUjc0TUNzSQ?oc=5",
-      "site": "KTTC",
-      "siteUrl": "https://www.kttc.com"
-    },
-    {
-      "id": "FL-0d5d23c5f36a",
+      "id": "FL-de39d24bf381",
       "date": "2026-11-27",
       "dateISO": "Fri, 27 Nov 2026 22:08:26 GMT",
       "ts": 1795817306000,
       "scope": "intl",
       "type": "blast",
-      "title": "Fire and explosions after car crashes into pump at West Hollywood gas station - NBC Los Angeles",
+      "title": "Fire and small explosions reported after car crash at West Hollywood gas station - NBC Los Angeles",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLThKNUpIdjZMdmNQWWRMQ3lpbDRvNzV6RnYtQXJHQXBRN2dCSTc5aVh1UGptU2NtcmsxVUZFbEFjdEc4WWNCMkQ1cS1GNjBUTGpzN0pFaWlRSzJnMWJWbVV5RnJKOVc3aXVjcWRmNVk0N2pDcG9oZ0hRdFdkWDhBc2pMNVVjZU9MVThZTU9qN1BzWS1VcGfSAZ4BQVVfeXFMTjQtbU9WdUtETVBhN19GSXhnNFhDV0c4MGlHMXhKSm5md29pVko5ODUtTzdPNjR5d19MUk9kOUlObnFUeEduZVJ6Z1pERVhjLTBldWtHMkdLMUpLRXhGTF9jV1VPSjlCc25lc0ZzNmROTV9FdE0yTTRkRGl2MnM3RVBJOHpOX2hLYW5QRENxV2c4M2o2TXhqT1paaG9xZWc?oc=5",
       "site": "NBC Los Angeles",
       "siteUrl": "https://www.nbclosangeles.com"
     },
     {
-      "id": "FL-a8b9ed6a3c3d",
+      "id": "FL-ff6fd3a0b446",
       "date": "2026-11-27",
-      "dateISO": "Fri, 27 Nov 2026 22:08:26 GMT",
-      "ts": 1795817306000,
-      "scope": "intl",
+      "dateISO": "Fri, 27 Nov 2026 16:04:54 GMT",
+      "ts": 1795795494000,
+      "scope": "dom",
       "type": "blast",
-      "title": "Explosion at West Hollywood gas station - NBC Los Angeles",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNamM4NjNsQVdVRS1oWVF4ZmtnVVlWbENSdTY5S0hONmZpR2RFSXJHWXpGSUFicDdTTEhfQ3BSQ1dMTWNJSTlRTmhBTDBwQk12d2p2RE5OeThBS1VaQkJURDBHQWRXUGxJU1VEY3VBYktRQkxMZnhSVVVWWnpGRzN4RGstcnlkQjhxSFhib2FmOXBZaGZ4S2U4ZFpYZ9IBowFBVV95cUxNNUZ4NEpUUDZKLVM3OHY5eGRrLTdOb21KZHFsRi1vRzcxR0hxYkgwZklkdHNMNldvT0ZobTF0S0hfWlROY0dxdjNtbkMwSlc1aDJ2TFBpemNvQWdjWkdMdmtrbWhFMXBRSnFwZHQ4QWlRR0tDdVVXUjdla2ZRR2VZeEFwS2FERXZXUFNtQXJZY2FpN083ZlZva09wNUdiRl9qU2tv?oc=5",
-      "site": "NBC Los Angeles",
-      "siteUrl": "https://www.nbclosangeles.com"
+      "title": "硬挨1枚手榴弹 广汽弹匣电池3.0不起火不爆炸 整车功能正常 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOclJCdWowT0NjcWpYVUJVU05jNFVVMjZvRHhnYWswaTJlY0d5VXpSYU00RFFIUFhEbWpqZlNfTFE3TWpJRTh4bHNJY1dSS3FvcnlKZmZ5VmoxTFZyZlZoV2lIdjhhM0pfbnZnUTR2aHY5Y3ZsM3RKamVmVmZmWW1CNnhSQXpfbUxO?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-3aeb4c80d6f1",
@@ -411,14 +603,14 @@
       "siteUrl": "https://news.mydrivers.com"
     },
     {
-      "id": "FL-3f20818bbb01",
+      "id": "FL-49984c7f4a8b",
       "date": "2026-11-27",
-      "dateISO": "Fri, 27 Nov 2026 15:11:46 GMT",
-      "ts": 1795792306000,
-      "scope": "intl",
+      "dateISO": "Fri, 27 Nov 2026 15:01:08 GMT",
+      "ts": 1795791668000,
+      "scope": "dom",
       "type": "blast",
-      "title": "曼谷炼油厂爆炸起火，致9人受伤 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR1VIUG45TWxnZF8ybFVwc3pCaHh4cS05TjBWUW9XUUxzSG11ZjNGTjZZN21OWGFCbFh5X3RFaFIwUTBlMGxZTHUydDV0a1hNLVZycWlQLUVTT1BTOUtCcXluc1VqVFZ5Y2tBVlN1SE52UkFIbVB0V2RzbHdkVndORDV1enlKT1gz?oc=5",
+      "title": "手榴弹爆破实验后，不起火不爆炸！解析广汽弹匣电池3.0的安全升维逻辑 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc1pnMjBnS2NiNERKb1g5TWJKM2JkVzA5ZFhuRkcxRmhjUWdsazNRSjV4QlFqa0NTZ2IwRG1KSDJNY0hqaFZrbTVJTlBfNEFFYWVMZVpHTDVVX2syb0stVEM1ekdLM3c1YlUwSHpuU2dRU2dMTE4zN3dfbHQ0X0xTNzhLdm5SMkhB?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
@@ -433,66 +625,6 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HOTcyRlZsanlSWnB1U3AtNFp5d2hlXzUwSzl6YTlnY2VYbV9IanRTV0tjVzIyZHhKM2x4eVhVZVBjZE9mcmJPRkNlaUUwVURHcDZIajE2RTRJcnc?oc=5",
       "site": "汽车之家",
       "siteUrl": "https://chejiahao.autohome.com.cn"
-    },
-    {
-      "id": "FL-74b662023fe8",
-      "date": "2026-11-27",
-      "dateISO": "Fri, 27 Nov 2026 14:40:33 GMT",
-      "ts": 1795790433000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "广州车展最佳新车燃爆全场 捷途环游者EV开创纯电方盒新品类 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSjR3WFJ0d1BaRzA5ZF9qSVdwMEJvb29lcFpSeWJnb2lTZDRoNFFOQzBXcEUtS2tTaS1xbERVcUxtb2RQTlM5MjF2S1YzZVN5aTMwbUxkOUljMWVlT0ltQ1hUZFdKUTBMMFk5Q2dFQjFXa0x2MVFmMEVScGphTGxocHBMX1FBVnR4NmZMcA?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-e3de3672dff8",
-      "date": "2026-11-27",
-      "dateISO": "Fri, 27 Nov 2026 11:49:06 GMT",
-      "ts": 1795780146000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "伊朗称一艘油轮在霍尔木兹海峡触雷爆炸 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTWnZYM0tSQ2MxYlFMUHh3SktvSWM4R3NZZTgybEFUMFRRMlAxdkRfZmVpOGtjN3A2X1RUSEtWTlF3c2NfUFFjM1AzbWp6a2tNcjM0cDJoMlBPWUVmR2c?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://news.bjd.com.cn"
-    },
-    {
-      "id": "FL-57e19dd4c7d4",
-      "date": "2026-11-27",
-      "dateISO": "Fri, 27 Nov 2026 11:07:57 GMT",
-      "ts": 1795777677000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "周深遇超无力卡瞬间静止，刘宇宁揭晓爆炸头任务 - 手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yWlVObWRCSHVRd3VNN3cxaVBZcnhoOS1acnV1eE9IMFEyYndSRHBCbWx3TmVRcWh3b09qYjU1bExkb25nTWI4MmNDMW1CdGtMUlJ3N2JtNUpfaGtCWXVWbUJhRE9zc1l6eVA4VHZWQS0?oc=5",
-      "site": "手机新浪网",
-      "siteUrl": "https://k.sina.com.cn"
-    },
-    {
-      "id": "FL-2fc7f2b85378",
-      "date": "2026-11-27",
-      "dateISO": "Fri, 27 Nov 2026 10:43:13 GMT",
-      "ts": 1795776193000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "Pope Leo XIV prays for victims of Cairo fuel lorry explosion - Vatican News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTTYtaUMzOHczd2hHLTczTmpJV2dPNHZVZWVaMl9jOG9ESVdSaHJJMHZxUXJ2R3JJQ25xckNPVzJoZUtiVEYtNTFaV0tEeV9kZjBtc2EycWVOSEt6dWFmV012OXphWnRWQ2p4bWt3NEVCVWhVeWJtQUxZR0Y5dVkwM20tWi1aV0xoTVllcnVjN0tmZ04yZndCUG90X3M1MnZnazNGNlR6ZE40Y0tIVHc?oc=5",
-      "site": "Vatican News",
-      "siteUrl": "https://www.vaticannews.va"
-    },
-    {
-      "id": "FL-2e5168328de2",
-      "date": "2026-11-27",
-      "dateISO": "Fri, 27 Nov 2026 10:09:27 GMT",
-      "ts": 1795774167000,
-      "scope": "dom",
-      "type": "blast",
-      "title": "视频｜燃爆了！首届湖南省国防科技体育大赛，2000余名“国防小将”同场竞技 - 红网",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5NZHhJOWwwMTZYc2h5X3QzbjZyanRETE1UN3hGNFhTMkJCT2I4OXAxa3NEajRjVmxJVlJ0NnFoSUN5aTBOSk1feHNwdU8wUll5OHRyMXF0MHhBc1Ruc25uNVVCbw?oc=5",
-      "site": "红网",
-      "siteUrl": "https://gov.rednet.cn"
     },
     {
       "id": "FL-b9955d170394",
@@ -519,16 +651,16 @@
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
-      "id": "FL-5f00cdb23efd",
+      "id": "FL-58fd7bdf8201",
       "date": "2026-11-27",
-      "dateISO": "Fri, 27 Nov 2026 08:05:31 GMT",
-      "ts": 1795766731000,
-      "scope": "dom",
+      "dateISO": "Fri, 27 Nov 2026 05:44:16 GMT",
+      "ts": 1795758256000,
+      "scope": "intl",
       "type": "blast",
-      "title": "美军引爆近5吨含铅爆炸物，公众担心健康风险 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUmd3bmJ4T0VQZmtkelhkMFRpT3F3ckRlcXJfVXVBN1ROY00xWWxaZ0t6NHlTcHBjcFd4elF4TzF6bGdfZGdwcVV4OGY4RkV3UUt2bXFwVUJ4eW5FSHYweUdGSFQySUlucjZiUUhvSlBXeEhYZ0xyMjRRVW8tT1ZKSWplNEVCZEo1?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
+      "title": "外媒：泰国曼谷一炼油厂发生爆炸 造成至少7人受伤 - 中央日报",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTQ3F4bXhERVk3b2pqcUxKVW5xR3hKWjYyQ2dSUDNHb241bU9YUzZCekZrU2k3aDJhWDlxbW9MbVFWOHFuN2I1U05ObGMxRVV5WHBJZEJsWF9nbXdHTVhrSTUyOHZEUkFiMXFabw?oc=5",
+      "site": "中央日报",
+      "siteUrl": "https://chinese.joins.com"
     },
     {
       "id": "FL-39a9cab92f8d",
@@ -541,18 +673,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iSFN5UlZlMlNnbG1PV2xYaWZCWXZndVhVeS1aMEY1THF1eWhTblFiTlNPaUE1dkVaSGxibXRFeWJuV1FwenlNNm10ZC1tUjVtSDRLQkhlNTRiRjlha3RJd002SVJudWlycUhnX21feVE?oc=5",
       "site": "中国新闻网",
       "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-3f2a823de01a",
-      "date": "2026-11-27",
-      "dateISO": "Fri, 27 Nov 2026 01:01:17 GMT",
-      "ts": 1795741277000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "泰国曼谷发生爆炸 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRzkwSlNnajQ3WVFTS05NR19JWXlidHhiX25uTWl1eUd5U0dXemtvQnRZYThDN3BUWGdvRDJpZW5KY2s2V3gydktsUVdzbEk3U0lSMGpndi11d0JTS3NZZjVGZjBVb3lwamJ0YmpkbXBrZnpMTldhSWZqaEN5NzU3WE41ckFVb3J4?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-1cfdde614231",
